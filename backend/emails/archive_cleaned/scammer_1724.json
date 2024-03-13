@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1724",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Attention: Consignment Owne",
+        "body": "   Attention: Consignment Owner,\nPort Columbus Intl Airport-Cmh, Columbus OH\n4600 International Gateway Columbus, Ohio 43219 U.S.A\nTel: +12168816403\nUrgent Reply, Attention: Consignment Owner,\nAttention:\nI am Dr. Joe Nardone, Executive Director, Port Columbus\nInternational Airport Ohio USA, During our recent withheld package\nroutine check at the Airport Storage Vault, we had discovered an\nabandoned shipment from one Diplomat agent who came all the way from\nRepublic of Nigeria under shipping forwarder from Murtala Muhammed\nInternational Airport (MMIA) to our facility custody here in Port\nColumbus Ohio\nThe consignment was abandoned because the Contents of the consignment\nwas not properly declared by the consignee as “ATM MASTER CARD” rather it was\ndeclared as personal effect to avoid diversion by the Shipping Agent\nand also the inability of the diplomat to pay for the United States\nNon Inspection Charges, On my assumption, the box contain\nan ATM-card and some Certificate on it and the consignment is still in\nour Storage House here in Port Columbus Intl Airport till today.\nHowever; you should be informed that the Consignment in one metal\nboxes with weight of about 8.3kg (Internal dimension: W61 x H156 x D73\n(cm). Effective capacity: 180\nL.) Approximately, the details of the consignment including your\nname/address were tagged on the Metal consignment boxes. Please note\nthat this consignment is supposed to returned to the United States\nTreasury Department as unclaimed delivery due to your delays in\ncontacting us with (Sworn Affidavit for claim / Custom Delivery permit\nOrder) from the origin of the Country Nigeria because it is where the\nConsignment originated from\nOur Inspection Agent Mrs Thelma Davis was sent to Republic of\nNigeria in Africa previously to tackle this problem to enable the beneficiaries\nto obtain the Sworn Affidavit for claim / Custom Delivery permit Order\nfrom Custom and Border Protection Nigeria to enable the beneficiaries\nto receive their fund.\nDirect Line ( +2348063033117, email: \nthelmad01@googlemail.com\n)\nBe informed that Mrs Thelma Davis do not have much time to stay\nin Nigeria so she would like you to urgently respond to this message\nso that she can advise you on how best to obtain these documents within\nthe next 24 hours.\nI am waiting for your prompt respond as soon as you have made contact with\nour Agent Mrs Thelma Davis\nYours faithfully\nDr. Joe Nardone,\nExecutive Director,\nPort Columbus International Airport Ohio      "
+    },
+    {
+        "from": "baiter_1724",
+        "to": "scammer_1724",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    Attention: Consignment Owne",
+        "body": "Dear Dr. Joe Nardone,\n\nThank you for reaching out to me regarding the abandoned shipment at Port Columbus International Airport. I appreciate you bringing this matter to my attention. Can you please provide me with more details about the contents of the package? I'm curious to know what is inside and why it was not properly declared.\n\nAdditionally, could you explain further about the Sworn Affidavit for claim Custom Delivery permit Order? What exactly does it entail and why is it necessary?\n\nI look forward to your response.\n\nBest wishes,\nGloria"
+    }
+]

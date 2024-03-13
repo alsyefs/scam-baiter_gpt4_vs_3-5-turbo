@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2031",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn: Account Holder,",
+        "body": "Attn: Account Holder,\nis to notify you that a new development has been made in which the UK\nBank which is called Mercantile Bank online (MBO) which has been\nholding your funds all this while has been ordered to release it to\nyou. The bank has created an online bank account on your behalf and\nthe online bank account has been funded with the total sum of in which\nyou would be able to withdraw any amount of money daily from the\nonline account,\nBelow are the online bank account details Welcome! To Mercantile Bank\nOnline Plc Secure Account Page\n2024-02-2. Created Open Account\nBalance $8,500,000,00 USD\nSort Code. 00169381101-43372 1020-03-8733\nSwift Code PNBPUS33\nAccount Number 36534846755\nThe bank has also stated that you could be able to start accessing the\nonline bank account once the transfer code has been issued to you and\nthis code will be issued to you at the sum of $50Usd.The bank has also\ndirected that the payment should be sent through Bitcoin or Gift Card.\nBy Apple card. Ok\nPayment Option:\nBitcoin:\nOr\nGift Card\nApple card ($50)\nSend the payment details to me as soon as you make the payment\nOnce the payment of $50Usd has been received by today, then the bank\nwould issue the TRANSFER CODE/TRANSFER PIN to you which you would use\nto make the final transfer to any bank account of your choice. I would\nbe waiting for the details as directed as soon as possible,\nTHANKS FOR YOUR COOPERATION.\nRespectively\nMercantile Bank online\nMr.Anthony Robert\nAssistant Director."
+    },
+    {
+        "from": "baiter_2031",
+        "to": "scammer_2031",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attn: Account Holder,",
+        "body": "Hello Robert,\n\nThank you for reaching out to me with this information. I appreciate you notifying me about the new development regarding my funds at Mercantile Bank online MBO. It's good to know that the bank has created an online bank account on my behalf and funded it with a balance of USD.\n\nI'm interested in accessing the online bank account and withdrawing money from it. Could you please provide me with more details about how I can obtain the transfer code? You mentioned that there is a payment required for it, but I would like to understand why and how this payment is necessary.\n\nAdditionally, could you clarify what you mean by sending the payment through Bitcoin or Gift Card? How does that process work exactly?\n\nThank you for your assistance, and I look forward to your response.\n\nBest wishes,\nLee"
+    }
+]

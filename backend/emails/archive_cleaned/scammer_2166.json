@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2166",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Congratulations!",
+        "body": "Congratulations!\nI hope this email finds you in good health and high spirits. My name is Mr. Raymond Moore, and I am delighted to inform you that you have emerged as one of the lucky winners in the 2023 edition of the Microsoft/Walmart Happy Customers Scheme. Congratulations!\nYou have won a remarkable prize of 1.4 million dollars. This significant sum acknowledges your loyalty and support for our esteemed companies. We value your commitment and wish to express our sincere gratitude by presenting you with this substantial cash prize.\nTo ensure a smooth and secure delivery of your winnings, we have made all the necessary arrangements. Rest assured, the funds will be transferred to you through the means of your choice. Therefore, kindly let us know the most convenient method for you to receive your winnings.\nIn order for us to expedite the process, we kindly request your cooperation in sending the following information to \nRaymondmo022@gmail.com\n:\n1. Full Name:\n2. Contact Address:\n3. Phone Number:\n4. Preferred Payment Method:\nWe understand the importance of maintaining your privacy and assure you that all personal information provided will be treated with utmost confidentiality and used solely for the purpose of delivering your winnings.\nOnce we receive your response along with the requested information, our dedicated team will verify and process your details promptly. Subsequently, we will provide you with further instructions regarding the safe and efficient transfer of the funds.\nPlease be advised that failure to respond within seven business days will result in the forfeiture of your winnings\n, as per the terms and conditions of the Microsoft/Walmart Happy Customers Scheme 2023.\nOnce again, congratulations on your exceptional win! We hope that this substantial amount brings you great joy and fulfills your dreams. Should you have any queries or require further assistance, kindly do not hesitate to contact me.\nThank you for your continued trust and support. We are thrilled to have you as our valued customer and wish you the best of luck in all your future endeavors.\n \nYours sincerely,\nRaymond Moore\nDirector        \nWalmart online support"
+    },
+    {
+        "from": "baiter_2166",
+        "to": "scammer_2166",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Congratulations!",
+        "body": "Hello Mr. Raymond Moore,\n\nI hope this message finds you well. I am absolutely thrilled to hear about this unexpected win! It's not every day that one gets such good news.\n\nBefore we proceed, I would like to know more about the Microsoft Walmart Happy Customers Scheme. Could you please provide me with some additional information? How was I selected as a winner? And how many other winners are there?\n\nAlso, could you please elaborate on the different methods available for receiving the winnings? I would like to choose the most secure and convenient option.\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nKareen"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2232",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir/Ma'am,",
+        "body": "  Dear Sir/Ma'am,\nPlease review this Loan Offer carefully and reply,\nWe are inviting all CEOs, Partners, Investors, Business owners and Start ups to our Financing program where we offer flexible financial Loan packages from $100k to a Maximum of 5 Billion USD/EURO for various business ventures and projects after all formal procedures and requirements are completed.\n \nYou can also be our broker and get up to 2% Finder's Commission from every successful loan funding that will come from your active Participation.\nIf interested, please reply when you are ready for further discussion.\nBest Regards\nDonald Holdridge\nOn behalf of MAYCONSTY LOANS   "
+    },
+    {
+        "from": "baiter_2232",
+        "to": "scammer_2232",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir/Ma'am,",
+        "body": "Hello Donald Holdridge,\n\nThank you for reaching out and sharing this information about your Financing program. It sounds like an interesting opportunity.\n\nCould you please provide more details about the loan packages? What are the terms and conditions associated with them? Also, I'm curious to know more about the broker role and how the Finder's Commission works.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nSteven"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1245",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "I am Mr . Peter Onward of the ",
+        "body": "I am Mr . Peter Onward of the Debt Recovery committee(DRC) My  committee has the mandate to recover unpaid debts associated with\ncontracts, lottery fund,inheritance fund,NNPC contract funds, loans and grants etc ranging from $ 1M- $ 19.5m owed to various\nbeneficiaries across the globe (Asia, Europe,USA, Africa, and Australia) and submit the list of the unpaid beneficiaries to the appointed official paying Banks for immediate payment of the fund.\nIn the course of our investigation, your email address/particulars were listed among the first fifteen yet to be paid hence this email\n.However, we received a petition yesterday from one Mrs.Christina Morgan that you are dead. According to her,you died in a plane crash therefore that the fund be paid to her as the heir apparent.She has submitted her Bank account with us for the transfer of the fund to\nher.\nTo avoid undue delay or paying the fund to the wrong beneficiary,I have decided to contact you for confirmation.If I fail to hear from you after 72 hours,it will be assumed the petition of Mrs.Morgan is true and the fund will be paid to her without further delay.\nKindly reply back as soon as possible\nTherefore,\nif you are still alive,reconfirm your particulars as stated below and send immediately,\n1. Your Full Names :..............\n2. Your Country :......\n3. Mobile Number/Whatsapp :.......\n4. Occupation :........\n5. Age :......\n6. SEX :........\n7. Your Home Address :.............\nYours Sincerely,\nMr Peter Onward."
+    },
+    {
+        "from": "baiter_1245",
+        "to": "scammer_1245",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: I am Mr . Peter Onward of the ",
+        "body": "Hello Mr. Peter Onward,\n\nThank you for reaching out to me. I must say, your message is quite surprising! I had no idea that my name was on a list of people yet to be paid. This is certainly news to me.\n\nI'm sorry to hear about the unfortunate incident involving Morgan. However, I can assure you that I am very much alive and well. It's quite strange that someone would claim otherwise.\n\nCould you please provide more details about this debt recovery process? How did my email address end up on this list? And what exactly does this unpaid fund pertain to?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nEthel"
+    }
+]

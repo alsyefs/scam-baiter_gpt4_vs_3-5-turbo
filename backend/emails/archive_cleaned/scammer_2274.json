@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2274",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Valued Beneficiary,",
+        "body": "Dear Valued Beneficiary,\nWe use this medium to inform you that due to several ways some\nagencies mandated to facilitate the payment of beneficiaries\noutstanding contractual amount have turned around to make the process\nof payment difficult thereby causing unnecessary delays, government\nhas decided to eliminate the bottlenecks delays caused by these\nagencies by mandating the Presidential Task Force Committee on\nContract Payment to take over all payment of outstanding contractual\namounts to the various beneficiaries.\nWe are mandated to work with beneficiaries according to their own\npreferred method of payment.\nTherefore, anyway you feel will make you comfortable in the receipt of\nyour fund is okay by us. We will work with you but only on the ground\nthat you discontinue every other communication you are having with all\nother government agencies. Agreed?\nIf yes, then send a confirmation of the amount due to you and your\nbanking information. We also need your suggestion on the ways you feel\nwe can serve you better on the above subject matter.\nFather information will be after receiving your response to this email\n: \nsadiqmohammed90003@yahoo.com\nYours faithfully,\nSadiq Mohammed\nChairman, Presidential Task Force Committee on Contract Payment.\nEmail: \nsadiqmohammed90003@yahoo.com"
+    },
+    {
+        "from": "baiter_2274",
+        "to": "scammer_2274",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Valued Beneficiary,",
+        "body": "Dear Sadiq Mohammed,\n\nThank you for reaching out to me regarding the payment of my amount. I appreciate the government's efforts to eliminate delays caused by certain agencies. I understand that you are now in charge of facilitating the payment process.\n\nI would like to know more about the preferred method of payment that you mentioned. Could you please provide some details on the different options available? Additionally, what kind of documentation or information would be required from me in order to proceed with the payment?\n\nRegarding your request for suggestions on how to serve me better, I think it would be helpful if there was a clear timeline provided for each step of the payment process. This way, I can have a better understanding of when to expect the funds.\n\nI look forward to your response and further guidance on this matter.\n\nBest wishes,\nEvelyn"
+    }
+]

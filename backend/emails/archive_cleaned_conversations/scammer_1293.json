@@ -1,0 +1,402 @@
+[
+    {
+        "from": "scammer_1293",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "ATTENTION DEAR OWNER",
+        "body": "ATTENTION DEAR OWNER\nGREETINGS FROM THE CITI BANK\nI have a good news information which needs to be attended immediately, This\nis to inform you that a compensation payment in the amount of\nUS$7.300.000  (Seven million three hundred thousand united State dollars)  was approved and\ndeposited few months ago with our Bank, CITI BANK. \nto be released\nto you as soon as you get back to me now with your current details\nThis fund has been deposited in our custody for the past few months ago now\nand we have been waiting for you to contact us but we didn't know what is\nhindering you from reaching us since. So we decided to write to you to make\nsure that you are fine and aware of the inheritance funds of US $7.3 million\ndollars in our branch\nSo How do you want to receive your inheritance/Compensation funds,\nand \nhere are the options and the cost\n(1). Online Banking $50\n(2). Cash delivery $250\n(3). ATM means $150\n(4) Cashier's cheque $350\nOnce again accept my congratulations in advance. thanks for your\ncooperation's as your quick response to this notice with adherence to the\nabove instructions with your information's is highly anticipated\nBest regards John C Dugan."
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Hello! Thank you for reaching out with this information. I'm interested in learning more about how to proceed with receiving the funds. Could you please provide more details on each of the options available for receiving the money?\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "scammer_1293",
+        "to": "baiter_1293",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "So how do you want to receive your funds??\n\n[John C Dugan - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2ho9o8)\t[2ho9o8]"
+    },
+    {
+        "from": "scammer_1293",
+        "to": "baiter_1293",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.1574074074074073e-05,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Alright the options on how you will choose how to receive your funds are...\n\n1. Online\n2. ATM card\n3. Cash delivery\n4. Check ??\n\n[John C Dugan - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2ho9js)\t[2ho9js]"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03280092592592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Hello! I'm interested in learning more about how I can receive the funds. Can you please provide me with some details on the options available?\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.1565740740740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Oh, that's great news! I'm interested in learning more about how I can receive the funds. Can you please provide me with some details on the options available?\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.19900462962962964,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Hello! Thank you for sharing the options on how to receive funds. Can you provide more details about each option? I'm interested in learning more before making a decision.\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.19921296296296295,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Hello! That's great to hear about the options available for receiving funds. Can you tell me more about how each option works? I'm curious to learn more about the process.\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.19975694444444445,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Hello! Thank you for sharing the options on how to receive funds. Can you tell me more about each option? How long does each method typically take to process?\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.1998148148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Hello! That's interesting. Can you tell me more about each option? How does the online transfer work exactly?\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "scammer_1293",
+        "to": "baiter_1293",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.41900462962962964,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "How do you want to receive your funds?\n\n[John C Dugan - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2hom7e)\t[2hom7e]"
+    },
+    {
+        "from": "scammer_1293",
+        "to": "baiter_1293",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.4190162037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "That's the only way\n\n[John C Dugan - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2hom6w)\t[2hom6w]"
+    },
+    {
+        "from": "scammer_1293",
+        "to": "baiter_1293",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.4190162037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Each option is going to take about one hour to be delivered to you\n\n[John C Dugan - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2hox6t)\t[2hox6t]"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.44765046296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "I'm interested in receiving more information about how I can receive the funds. Can you please provide me with more details?\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.4492361111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Hello! I'm interested in receiving more information about how the funds can be transferred. Could you please provide me with details on the options available?\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.44930555555555557,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Hi there! What do you mean by \"That's the only way\"? Can you provide more details or context about what you're referring to?\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.449537037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Hello! That sounds convenient. Can you tell me more about the options available for delivery?\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.4898263888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Hello! What do you mean by \"That's the only way\"? Can you please provide more information?\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.5328472222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Hi there! What do you mean by \"That's the only way\"? Can you please provide more context or information about what you're referring to?\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6574652777777777,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "19",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Hello! I can receive the funds through direct bank transfer. Can you please provide me with more details on how to proceed?\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6580671296296297,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "20",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "I'm interested in receiving the funds. Can you please provide more details on how it works?\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6982175925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "21",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Hello! What do you mean by \"That's the only way\"? Can you provide more details or context?\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6995023148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "22",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Hello! That's good to know. Can you tell me more about the options available for delivery?\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "scammer_1293",
+        "to": "baiter_1293",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.8418402777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "23",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "I'm tired of this conversation, if you want to receive your funds just go\r\nahead and make the payment that's all"
+    },
+    {
+        "from": "scammer_1293",
+        "to": "baiter_1293",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.8418518518518519,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "24",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "I can do that for you but you need to pay for transaction fee of just $20\r\nonly"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.8646064814814814,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "25",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Hello! I understand you're eager to receive your funds. Can you provide more details about the payment process?\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.8646875,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "26",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Hello! I'm interested in learning more about the fee you mentioned. Can you please provide me with some details on what it covers and how I can proceed with payment?\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "scammer_1293",
+        "to": "baiter_1293",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.8658217592592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "27",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "You can just buy apple gift card and send it here so I can deliver your\r\nfunds to you immediately without any delay ok"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.905775462962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "28",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Hello! I understand you're eager to receive your funds. Can you please provide more details about the payment process? I'd like to help ensure everything goes smoothly for you.\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9063194444444445,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "29",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Oh, that sounds interesting. How does buying an Apple gift card help in delivering the funds to me? Can you explain more about how this process works?\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9065277777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "30",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Hello! I understand you're eager to receive your funds. Can you tell me more about the payment process? How does it work exactly?\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "scammer_1293",
+        "to": "baiter_1293",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.906712962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "31",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Just buy apple gift card and send it here so I can deliver your funds to\r\nyou immediately without any delay"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9072685185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "32",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Hello! Thanks for the information. Can you tell me more about how buying an Apple gift card will help in delivering the funds to me without any delay?\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9905902777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "33",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Hello! I understand you're eager to receive your funds. Can you please provide more details about the payment process? I want to make sure everything is clear before proceeding.\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9908912037037036,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "34",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Hello! I understand you're eager to receive your funds. Can you provide more details about the payment process? I want to make sure everything is clear before proceeding.\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0741550925925927,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "35",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Hi there! What do you mean by \"That's the only way\"? Can you provide more context or information about what you're referring to?\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.1572685185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "36",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "I would prefer to receive the funds through a secure and reliable method. Can you provide more details on the options available for receiving the funds?\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.281111111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "37",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Hello! I understand you're eager to receive your funds. Can you tell me more about the payment process?\n\nBest wishes,\nEdwin"
+    },
+    {
+        "from": "scammer_1293",
+        "to": "baiter_1293",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.375868055555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "38",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Hello\n\n[John C Dugan - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2hwdj2)\t[2hwdj2]"
+    },
+    {
+        "from": "baiter_1293",
+        "to": "scammer_1293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.4057407407407405,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "39",
+        "subject": "Re: ATTENTION DEAR OWNER",
+        "body": "Hello! How can I help you today?\n\nBest wishes,\nEdwin"
+    }
+]

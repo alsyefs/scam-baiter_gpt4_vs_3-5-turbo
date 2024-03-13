@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_255",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention  ",
+        "body": "Attention  \nThis is to officially inform you that United Nations Secretary\ngeneral Mr. António Guterres has advised my office for an immediate\nrelease of your unpaid Contract/inheritance funds without any delay,\nKindly forward Your Full Name: Your Address: Your Mobile Number: \nA\ncopy of your verifiable Identity document\n for more verification to\navoid any wrong payment \nall the legal documents will be provided to\nyou immediately for the release of your $1,500,000.00 One Million Five\nHundred Thousand United States Dollars.\nYours Sincerely\nVictor Smith\nInternational Payment Department\nUnited Nations Headquarters  New York, United States\n    Equity Bank"
+    },
+    {
+        "from": "baiter_255",
+        "to": "scammer_255",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attention  ",
+        "body": "Hello Victor Smith,\n\nThank you for reaching out to me. I'm thrilled to hear about this opportunity from the United Nations and Mr. António Guterres himself! It's not every day that one gets such news.\n\nI'm curious, though, how did my name come up for this? And could you please explain a bit more about what this contract fund is for? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDorothy"
+    }
+]

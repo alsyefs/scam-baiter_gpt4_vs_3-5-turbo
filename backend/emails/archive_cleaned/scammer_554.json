@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_554",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention,",
+        "body": "Attention,\nHow are you? I am Mr. Clifford Duke from the Ministry of Finance working with the Department of the Treasury Financial System. I am here writing to you concerning your Unclaimed Compensation Payment Worth of Eleven Million Five Hundred Thousand United State Dollars ($11.5 Million United State Dollars) From the Ministry of Finance Funds Compensation Unit office AU.\nThat you have been supposed to receive as instructed I want to inform you that we have been authorized to release your Unclaimed Compensation Funds to you within 48 hours as soon as I hear from you, \nBe advice to reply with the information below. \nPlease reconfirm this information as you reply.\n1. Your Full Name;..........\n2. Your current address;................\n3. Your phone number;................\n4. Nearest airport to your location..................\n5. Your Occupation;....................\n6, Your Country.........................\nThanks\nMr. Clifford Duke\nEmail: \ndepartmentpayment196@gmail.com\nMinistry of Finance Office\nFinancial System Department Payment"
+    },
+    {
+        "from": "baiter_554",
+        "to": "scammer_554",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attention,",
+        "body": "Hello Mr. Clifford Duke,\n\nI hope this message finds you well. It's quite surprising to hear about this unclaimed payment. I must admit, I wasn't expecting such news.\n\nCould you please provide me with more details? How did this situation come about? And why has it taken so long for this information to reach me?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nJack"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_1995",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Thank you so much my dear f",
+        "body": "   Thank you so much my dear friend     "
+    },
+    {
+        "from": "baiter_1995",
+        "to": "scammer_1995",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    Thank you so much my dear f",
+        "body": "You're welcome, my dear friend! How can I help you today?\n\nBest wishes,\nJay"
+    },
+    {
+        "from": "scammer_1995",
+        "to": "baiter_1995",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Thank you so much my dear f",
+        "body": "Send me your details and pictures?"
+    },
+    {
+        "from": "baiter_1995",
+        "to": "scammer_1995",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00037037037037037035,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Thank you so much my dear f",
+        "body": "Hello! Thank you for reaching out. I'm happy to share information, but I prefer not to provide personal details or pictures. Is there something specific you would like to know or discuss?\n\nBest wishes,\nJay"
+    },
+    {
+        "from": "scammer_1995",
+        "to": "baiter_1995",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.060787037037037035,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Thank you so much my dear f",
+        "body": "okay"
+    },
+    {
+        "from": "baiter_1995",
+        "to": "scammer_1995",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.06131944444444445,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Thank you so much my dear f",
+        "body": "Hello! How are you today? I hope you're doing well. I wanted to share some interesting information with you. Have you ever heard about a unique investment opportunity that guarantees high returns with minimal risk? It's called \"The Golden Investment Program.\"\n\nThis program allows individuals like yourself to invest in a variety of lucrative ventures, such as real estate, technology startups, and commodities. The best part is that your investment is fully insured, so there's no need to worry about any potential losses.\n\nWould you be interested in learning more about this incredible opportunity? I'd be happy to provide you with all the details and answer any questions you may have. Let me know if you'd like to proceed!\n\nBest wishes,\nJay"
+    },
+    {
+        "from": "scammer_1995",
+        "to": "baiter_1995",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.11958333333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Thank you so much my dear f",
+        "body": "I'm not interested."
+    },
+    {
+        "from": "baiter_1995",
+        "to": "scammer_1995",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.11972222222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Thank you so much my dear f",
+        "body": "sure what you're referring to. Can you please provide more information?\n\nBest wishes,\nJay"
+    }
+]

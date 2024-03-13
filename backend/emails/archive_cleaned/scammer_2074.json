@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2074",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings, Dear Friend.",
+        "body": "Greetings, Dear Friend.\nI am Mrs. Miriam Paul, a widow of the late Dr. Abdulaziz Paul, who was originally from the Kingdom of Bahrain but now resides in Istanbul, Turkey. I have a Breast Cancer for a very long time. My situation is seriously worsening, and my private doctor estimates that I may only have six months to live because the disease has progressed to the worst and most severe stage.\nI have made the decision to donate my wealth to aid in the growth of Humanitarian Organizations in your country. When you come back to me, I will provide you all the information you need to get this money released to you.\nPlease reply as soon as possible.\nSincere regards,\nMrs. Miriam Paul."
+    },
+    {
+        "from": "baiter_2074",
+        "to": "scammer_2074",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings, Dear Friend.",
+        "body": "Dear Mrs. Miriam Paul,\n\nThank you for reaching out to me. I'm sorry to hear about your health condition, and I hope you are receiving the necessary medical care and support during this difficult time.\n\nI appreciate your intention to donate your wealth to aid in the growth of my country. Could you please provide more details about the nature of this donation? How much wealth are we talking about, and what would be the purpose or cause that it would support?\n\nAdditionally, I would like to know more about the process of releasing this money to me. What steps would need to be taken, and what kind of documentation or information would be required from my end?\n\nThank you for considering me for this opportunity, and I look forward to hearing back from you soon.\n\nBest wishes,\nCharles"
+    }
+]

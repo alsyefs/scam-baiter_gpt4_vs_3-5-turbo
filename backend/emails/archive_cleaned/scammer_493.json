@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_493",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Office Of The US Dept. Of Th",
+        "body": "  Office Of The US Dept. Of The Treasury,\n                          Financial Crime Enforcement  Networks {FICENT}.\n                                    1500 Pennsylvania Avenue,                                                                                              Washington, D.C. 20220\n                                             20/12/2023\n \n \nAttention: Contract/Inheritance Beneficiary,\nDear Sir /Madam,\nBe notified by this mail that your fund of $5.5 Million United States Dollars, has been received and lodged into the vault of our organization's account.You have been listed as the beneficiary of this fund according to the information accompanying the instruction of the fund.\nBy this notification therefore,you should reconfirm the following for cross-checking : Your names and address , a copy of your valid international Passport or Driver's License and finally a passport sized Photograph.All these will be inputted into our computing system for reference purpose and as soon as the final payment is made to you they will be wiped off from our system.\nAs soon as we receive the aforementioned information and we cross check them and of course they tally we will have no other option than to request for your banking details where the fund will be wired via KTT into your account for final crediting .\nThank you,\nDr. Cynthia Alejandro.   "
+    },
+    {
+        "from": "baiter_493",
+        "to": "scammer_493",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Office Of The US Dept. Of Th",
+        "body": "Hello Dr. Cynthia Alejandro,\n\nThank you for your email and the information provided. It's quite a surprise to hear about this fund. Could you please provide more details about how this fund came into existence? And why has it been listed under my name?\n\nAlso, I would like to know more about the process of transferring these funds. What does KTT stand for? Is there any fee involved in this transfer process?\n\nLooking forward to hearing from you.\n\nBest wishes,\nChris"
+    }
+]

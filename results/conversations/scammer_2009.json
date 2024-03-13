@@ -1,0 +1,102 @@
+[
+    {
+        "from": "scammer_2009",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "From: JP Morgan Chase Bank New",
+        "body": "From: JP Morgan Chase Bank New York.\n#455 Broadway New York, NY, 10227 USA.\nDear Customer: Chase Bank HeadQuarter realized your funds back so that you won't lose such an amount of funds. I did according to the instructions given to me.\nYour ATM Card Funds is $2.5Million United States Dollars is still available for claim and \nam giving you from this moment till next week to raise the fee so that your transaction will be finalized without delay.\nReconfirm your full details.\nYour  Full Name:\nYour Home Address:\nYour Phone Number:\nYour WhatsApp Number:\nYour Occupation:\nYour Country:\nYour copy ID\n:\nYour Age:\nThe fee we needed is $50.00 USD send the fee by Steam Wallet Card or Apple iTunes Gift Card.\nI wait for the picture of the gift card.\nThank You For Banking With Us.\nMr. Robert Justin\nCEO Manager Chase Bank"
+    },
+    {
+        "from": "baiter_2009",
+        "to": "scammer_2009",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: From: JP Morgan Chase Bank New",
+        "body": "Hello! Thank you for reaching out to me about my ATM card funds. I appreciate the information you provided. Can you please tell me more about the process of claiming the funds and why a Steam Wallet Card or Apple Gift Card is needed for the fee payment? I want to make sure I understand everything clearly before proceeding.\n\nBest wishes,\nWillie"
+    },
+    {
+        "from": "scammer_2009",
+        "to": "baiter_2009",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: From: JP Morgan Chase Bank New",
+        "body": "Your ATM card $2.5 Million USD is available now, so send the fee $50\r\nthrough Apple iTunes Card or steam wallet gift card, Bitcoin wallet\r\naddress, and your ATM card will be delivered to your house address okay."
+    },
+    {
+        "from": "baiter_2009",
+        "to": "scammer_2009",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.01615740740740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: From: JP Morgan Chase Bank New",
+        "body": "Hello! That sounds interesting. Can you tell me more about how I can send the fee through Apple Card or Steam wallet gift card?\n\nBest wishes,\nWillie"
+    },
+    {
+        "from": "scammer_2009",
+        "to": "baiter_2009",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.24211805555555554,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: From: JP Morgan Chase Bank New",
+        "body": "Hello\r\n\r\nYou can purchase the Apple iTunes Card or steam wallet gift card in Walmart\r\nstore or any Apple store, or if you can be able to send the fee through\r\nBitcoin, then i will give you my Bitcoin wallet address to send the $50\r\nokay."
+    },
+    {
+        "from": "baiter_2009",
+        "to": "scammer_2009",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2457175925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: From: JP Morgan Chase Bank New",
+        "body": "Hello! That's interesting, I didn't know you could purchase those cards at Walmart or Apple stores. How does the Bitcoin payment work exactly?\n\nBest wishes,\nWillie"
+    },
+    {
+        "from": "scammer_2009",
+        "to": "baiter_2009",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.2589351851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: From: JP Morgan Chase Bank New",
+        "body": "I will advise you to purchase Apple iTunes Card or steam wallet gift card\r\nok, and receive your ATM card, again reconfirm your address."
+    },
+    {
+        "from": "baiter_2009",
+        "to": "scammer_2009",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.26582175925925927,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: From: JP Morgan Chase Bank New",
+        "body": "Hello! Thank you for the information. Can you tell me more about how purchasing an Apple Card or Steam Wallet gift card is related to receiving my ATM card? I'm curious to learn more about this process.\n\nBest wishes,\nWillie"
+    },
+    {
+        "from": "scammer_2009",
+        "to": "baiter_2009",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.2717824074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: From: JP Morgan Chase Bank New",
+        "body": "Go to Walmart and purchase the gift card."
+    },
+    {
+        "from": "baiter_2009",
+        "to": "scammer_2009",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.28738425925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: From: JP Morgan Chase Bank New",
+        "body": "Hello! Thank you for the suggestion. Can you please provide more details about why I should purchase a gift card from Walmart?\n\nBest wishes,\nWillie"
+    }
+]

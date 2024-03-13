@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_113",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Thailand Internet Cyber Secu",
+        "body": "  Thailand Internet Cyber Security Network Office wishes to inform you\nthat we discover a bank account used by Internet fraud scammers and we\nalso discover your name in that account for those who deposited money\ninto the bank account.\nDo you transfer money before to a Thailand bank account?\nDo you know the person you transfer the money to?\nHow much do you transfer to the Internet fraud scammers?\nYou have been scammed sometime ago by internet scammers.\nThailand Internet Cyber Security Network,will repay back your total\nmoney to you as soon as we receive full details from you.\nRegards\nMiss Mongkut Ratanaporn\nE-mail: \nthailand@cyber-wizard.com\n499 Benchachinda Bldg, Kamphaeng Phet 6 Rd, Ladyao, Chatuchak, Bangkok\nThailand.\n+66 2 105 420   "
+    },
+    {
+        "from": "baiter_113",
+        "to": "scammer_113",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Thailand Internet Cyber Secu",
+        "body": "Hello Miss Mongkut Ratanaporn,\n\nThank you for reaching out to me. I must say, your message has taken me by surprise. I don't recall transferring any money to a Thailand bank account. Could you please provide more details about this? \n\nAlso, could you explain how my name ended up in that account? I'm quite puzzled by this situation.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nBetty"
+    }
+]

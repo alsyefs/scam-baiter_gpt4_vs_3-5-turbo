@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1128",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Your Ref: RCC-017ITA-023",
+        "body": "Your Ref: RCC-017ITA-023\nThis is to inform you that Your 10.5 Million Dollars which you have been waiting to receive for years is now ready to be released to any preferred bank account of your choice.\nSincerely, you are a lucky person because I have just discovered that some top Bank Officials, U.S and British Government Officials are interested in your fund and they are working in collaboration with some agents from the USA and Africa, to frustrate you and thereafter divert your fund into their personal account, when you refuse to pay or relent.\nI have a very limited time to work on this, so I would like you to urgently respond to this message so that I can advise you on how best to confirm your funds in your account within the next 72 hours.\nNote: \nThe only fee you will pay to confirm your fund in your account is the Notarization fee of $585 to the processing bank.\n No other payment.\nSincerely yours,\nMr. Ben Swanson"
+    },
+    {
+        "from": "baiter_1128",
+        "to": "scammer_1128",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Your Ref: RCC-017ITA-023",
+        "body": "Hello Mr. Ben Swanson,\n\nWow, this is such exciting news! I can't believe my luck. I've been waiting for something like this to happen for a long time. It's really kind of you to reach out and help me with this.\n\nI'm curious though, how did you come across my information? And why are these top bank officials and government officials interested in my fund? Also, could you please explain a bit more about the process of confirming the funds in my account?\n\nLooking forward to your response.\n\nBest wishes,\nPedro"
+    }
+]

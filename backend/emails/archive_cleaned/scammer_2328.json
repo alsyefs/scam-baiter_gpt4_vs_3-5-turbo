@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2328",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention.",
+        "body": "  Attention.\nThis is to bring to your notice that I am a delegate from the United Nations to The IMF (International Monetary Fund) Asia Regional Payment Office to pay 521 scam victims $400,000.00 USD (Four Hundred Thousand United States  Dollars only) each. You are listed and approved for this payment as one of the scammed victims to be paid this amount,respond to this mail as soon as possible for the immediate payments of your $400,000 USD compensations funds.\nNOTE> THERE IS NO UPFRONT PAYMENT, YOU WILL ONLY BE MANDATED FOR A DEPOSIT VERIFICATION/CONFIRMATIONS.\nYou are to send your:\n[1] Full Names:...... ..\n[2] Contact address:....\n[3] Direct Telephone:...\n[4] Country:............\n[5] Occupation:.........\nNOTE: If you receive this message in your junk/spam its due to your internet provide okay Note.\nRegards\nMr. Shegetoshi Fujii.\nUnited Nation Representative.   "
+    },
+    {
+        "from": "baiter_2328",
+        "to": "scammer_2328",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention.",
+        "body": "Hello Mr. Shegetoshi Fujii,\n\nThank you for reaching out to me. I'm quite surprised to hear about this situation, but I must admit it's a bit confusing. Could you please explain more about how the United Nations and The IMF Monetary Fund Asia Regional Payment Office are involved in this? \n\nAlso, could you clarify what you mean by \"scammed victims\"? How was this list of victims compiled and how did my name end up on it? \n\nI'm also curious about the payment process. You mentioned there is no upfront payment required, but a deposit will be mandated. Could you provide more details about this deposit?\n\nLooking forward to your response.\n\nBest wishes,\nJames"
+    }
+]

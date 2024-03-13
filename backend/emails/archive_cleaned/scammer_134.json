@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_134",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "REF: Payment Instructions  REF",
+        "body": "REF: Payment Instructions  REF. # 00478.\n \nAttn: Beneficiary\nWe have received a substantial cash inflow of $10.5M United States dollars into our Escrow Account with Banco Progreso Madrid Spain by order of our financial affiliate for further transfer to your designated account number.\nKindly reconfirm\n your complete receiving bank details  including a copy of your identification\n if any through email attachment for our official procedures.\nFor any further inquiries, please call the D/L +44-702-402-8988 between the hrs of 8.30am – 6.00pm (GMT) Mon - Fri, OR Attention Mr. James Williams for more information.\nOur final fund release order will be forwarded to our operational paying bank,  Banco Progreso for immediate transfer of your allocation funds upon receipt and official re-confirmation of your information in our database.  Banco Progreso  will contact you as the funds beneficiary for further details.\nFund will be retrieved to the treasury after ten (10) business days.\n \nYours in service,\nMr. James Williams.\nTREASURY CONTROLLER\nForeign Operation Dept/Treasury (ADB)\nAlt.Fax: +44 870 1332953"
+    },
+    {
+        "from": "baiter_134",
+        "to": "scammer_134",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: REF: Payment Instructions  REF",
+        "body": "Hello Mr. James Williams,\n\nThank you for reaching out to me with this information. I appreciate your assistance in transferring the cash inflow to my designated account. However, before I proceed, I have a few questions regarding the process.\n\n1. Could you please provide more details about the financial affiliate who ordered the transfer? How are they affiliated with your organization?\n\n2. Can you explain what an Escrow Account is and how it works? I want to make sure I understand the process fully.\n\n3. Is there any specific reason why the funds are being transferred through Banco Progreso Madrid Spain? Are there any fees or charges associated with this transfer?\n\n4. What is the purpose of retrieving the funds to the treasury after ten business days? Is there any particular requirement or regulation that necessitates this step?\n\nI look forward to receiving your response and clarifications on these matters.\n\nBest wishes,\nAshley"
+    }
+]

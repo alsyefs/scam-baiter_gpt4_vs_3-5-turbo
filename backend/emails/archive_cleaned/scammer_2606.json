@@ -1,0 +1,102 @@
+[
+    {
+        "from": "scammer_2606",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello sir, madam",
+        "body": "Hello sir, madam\nYou need money to pay bills, you need money to invest in businesses, you are unbanked and not popular with the banks, or you have a project and need financing.\nI offer you financial help so that you can realize your projects, pay off your debts and start again.\nI offer loans from €2,000 to €700,000 with an interest rate of 2% to 3%, depending on the amount requested, and with a term of 2 to 30 years.\nContact me and you will be satisfied\nBest regards"
+    },
+    {
+        "from": "baiter_2606",
+        "to": "scammer_2606",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello sir, madam",
+        "body": "Hello there,\n\nThank you for reaching out and offering your financial help. It's really kind of you to offer such assistance. I'm curious about how this process works. Could you please explain more about the terms and conditions? Also, what are the requirements to qualify for these loans?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nAaron"
+    },
+    {
+        "from": "scammer_2606",
+        "to": "baiter_2606",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Hello sir, madam",
+        "body": "Good morning \r\nYou are welcome to Joan Smith Loan Investment PVT\r\nI’m a loan lender located here in Netherland \r\nMy loan interest rate is 2% which the monthly repayment begin in 3months \r\n\r\nNote I only charge for the loan processing fee which you are to get approved for the loan \r\n\r\nImmediately your loan is approved then you will receive a direct deposit to your Account which Normally takes 6 to 8 hours to reflect in your account \r\nYou can also send down your WhatsApp number so you can see more details about my service and also see to those that has gotten my loan so far \r\n\r\nThank youJoan Smith"
+    },
+    {
+        "from": "baiter_2606",
+        "to": "scammer_2606",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0005902777777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Hello sir, madam",
+        "body": "Good morning, Smith!\n\nThank you for reaching out and providing information about your loan investment service. It's interesting to hear that you're based in the Netherlands. I've always wanted to visit there.\n\nCould you please clarify a bit more about the interest rate? You didn't mention the exact percentage in your message. Also, could you explain how the loan processing fee works?\n\nI'm also curious about the experiences of others who have used your service. Could you share some general feedback or testimonials from them? \n\nLooking forward to hearing more details from you!\n\nBest wishes,\nAaron"
+    },
+    {
+        "from": "scammer_2606",
+        "to": "baiter_2606",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.004293981481481481,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Hello sir, madam",
+        "body": "Thanks for your response \r\nThat I just told you already which I said the loan interest rate goes for 2%\r\nAlso the loan processing fee is paid before you can get approved for the loan \r\nAlso I don’t know how much you need for the loan and the duration of the loan \r\n\r\nThank you Joan Smith"
+    },
+    {
+        "from": "baiter_2606",
+        "to": "scammer_2606",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.004699074074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Hello sir, madam",
+        "body": "Hello Joan Smith,\n\nThank you for your quick response. It's interesting to know about the loan interest rate and processing fee. I'm curious, how does the processing fee work? Is it a percentage of the loan amount or a fixed fee?\n\nAs for the loan amount and duration, I'm still considering my options. Could you perhaps provide me with some examples of different loan amounts and their respective durations? That would be really helpful in making my decision.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nAaron"
+    },
+    {
+        "from": "scammer_2606",
+        "to": "baiter_2606",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.027291666666666665,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Hello sir, madam",
+        "body": "Please let me know how much you need for the loan and the duration so I can email you the loan terms and conditions \r\nThank You Joan Smith"
+    },
+    {
+        "from": "baiter_2606",
+        "to": "scammer_2606",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.02753472222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Hello sir, madam",
+        "body": "Hello Joan Smith,\n\nThank you for your quick response. I'm curious about the loan terms and conditions you mentioned. Could you please provide a bit more detail on what they entail? Also, could you give me an idea of the range of loan amounts and durations that are typically available?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nAaron"
+    },
+    {
+        "from": "scammer_2606",
+        "to": "baiter_2606",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.02912037037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Hello sir, madam",
+        "body": "I see you are not ready for the loan \r\nThanks for your time"
+    },
+    {
+        "from": "baiter_2606",
+        "to": "scammer_2606",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.02962962962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Hello sir, madam",
+        "body": "Hello there! I appreciate your time and effort in discussing this loan with me. I'm just a bit confused about some things. Could you please explain to me again why I might not be ready for the loan?\n\nBest wishes,\nAaron"
+    }
+]

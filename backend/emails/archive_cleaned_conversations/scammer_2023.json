@@ -1,0 +1,102 @@
+[
+    {
+        "from": "scammer_2023",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  I can assure you my attitude",
+        "body": "  I can assure you my attitude to you has not changed, I`ll not betray you and will keep my word to help you. Let's go forward together and finish this project.    "
+    },
+    {
+        "from": "baiter_2023",
+        "to": "scammer_2023",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   I can assure you my attitude",
+        "body": "Hello! That sounds great. I appreciate your commitment to helping me with the project. Can you tell me more about how we can work together to get it done successfully?\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "scammer_2023",
+        "to": "baiter_2023",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re:",
+        "body": "Oh My Darling,\r\nYou’re on my mind and in my heart. Keeping you close in my thoughts praying\r\nfor your health and courage to understand in order to listen to me in\r\ntrust, know that I’m thinking for you to give me a listening ear. It’s hard\r\nto know what to say when you're going through hard times. It’s always a\r\ngood idea to stay out of any drama and just focus on doing what’s right and\r\nbeing supportive and kindly do the things you have truly been doing by\r\nhaving this accomplished.\r\nGet more ideas about what to write not to come with mixed emotions. Your\r\nmessage can focus on the positive aspects of the situation that will make\r\nyou feel good about the project as well as look forward to the future on\r\nwhat an exciting privilege and with this wonderful opportunity all about\r\nseeing that this happens takes a lot of determination when hard work, and\r\nperseverance finally pay off. So happy for you to start your own business\r\ninvestment plan and development project."
+    },
+    {
+        "from": "baiter_2023",
+        "to": "scammer_2023",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.030833333333333334,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re:",
+        "body": "Thank you for sharing your thoughts with me. Starting your own business sounds like an exciting opportunity! Can you tell me more about what kind of business you're planning to start? I'm curious to learn about your investment plan and project.\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "baiter_2023",
+        "to": "scammer_2023",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.07265046296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re:",
+        "body": "Hello there! It sounds like you have a lot on your mind and heart. Starting your own business investment plan and project must be very exciting for you. Can you tell me more about what inspired you to take this step? What kind of business are you planning to start?\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "baiter_2023",
+        "to": "scammer_2023",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.07333333333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re:",
+        "body": "Thank you for sharing your thoughts with me. Starting your own business sounds like an exciting opportunity! Can you tell me more about what kind of business you're planning to start and what inspired you to take this step?\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "baiter_2023",
+        "to": "scammer_2023",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.07442129629629629,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re:",
+        "body": "Thank you for sharing your thoughts with me. Starting your own business sounds like an exciting opportunity! Can you tell me more about the project you're working on? What inspired you to take this step towards entrepreneurship?\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "baiter_2023",
+        "to": "scammer_2023",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.11465277777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re:",
+        "body": "Thank you for sharing your thoughts with me. Starting your own business sounds like an exciting opportunity! Can you tell me more about what kind of business you're planning to start and what inspired you to take this step? I'm curious to learn more about your project and how you're feeling about it.\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "baiter_2023",
+        "to": "scammer_2023",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.11649305555555556,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re:",
+        "body": "Thank you for sharing your thoughts with me. It sounds like you have a lot on your mind regarding starting your own business investment plan and project. Can you tell me more about what inspired you to take this step? What kind of business are you planning to start? I'm interested in hearing more about your ideas and goals for the future.\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "baiter_2023",
+        "to": "scammer_2023",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.15796296296296297,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re:",
+        "body": "Thank you for sharing your thoughts and feelings with me. It sounds like you are going through a challenging time, but it's great to hear that you are focusing on staying positive and looking forward to the future. Starting your own business investment plan and project is indeed an exciting opportunity. Can you tell me more about what inspired you to take this step? How do you envision the future of your business?\n\nBest wishes,\nMaria"
+    }
+]

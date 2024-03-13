@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_905",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  UNITED STATES TREASURY DEPAR",
+        "body": "  UNITED STATES TREASURY DEPARTMENT\nAddress: 1500 Pennsylvania Avenue, NW,\nWashington, D.C., USA.\nAttention,\nThis is to notify you about the outcome of the meeting held in Washington D.C., on the 18th of January,2024, with all the members of the U.S House of Representatives, and the meeting was on matters concerning all long-abandoned consignments/properties at the George Bush Intercontinental Airport, Houston Texas, USA.\nIt has been drawn into conclusion by the members of the House of Representatives during the meeting, that anyone whose his/her consignment/property has been long abandoned at the George Bush Intercontinental Airport is ordered to move his consignment out from the George Bush Intercontinental Airport's storage facility as quickly as possible, and failure to adhere to this order, his consignment/property will be confiscated and transferred into the United States Treasury Department as an unclaimed consignment/property.\nThrough our U.S Treasury Department Investigative Team by the orders of the United States Government, we have investigated all the abandoned consignment/properties at the George Bush Intercontinental Airport from the year 2021-2023 and we discovered that you are among those whose consignment is abandoned at the airport.\nFrom our findings, your consignment is one trunk box and it contains USD cash close to US$7.5Million with your legal supporting documents. So, you are advised to adhere to the orders of the United States government by moving your consignment out from the airport storage facility as quickly as possible to avoid the consequences that follow.\nThe office in charge of your consignment is the office of Mr. Fredrick Lee the Chief Operation Manager, George Bush Intercontinental Airport. And below are his contact details, so contact him immediately to claim your consignment.\nMr. Fredrick Lee\nChief Operation Manager\nGeorge Bush Intercontinental Airport\nAddress: 2800 N Terminal Rd, Houston, TX 77032, United States.\nEmail: \nfredricklee973@outlook.com\nThank you for your understanding and cooperation.\nSigned\nMr. Thomas Dickson\nAssistant Secretary of the Treasury\nU.S Treasury Department\nAddress: 1500 Pennsylvania Avenue, NW,\nWashington, D.C., USA.   "
+    },
+    {
+        "from": "baiter_905",
+        "to": "scammer_905",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   UNITED STATES TREASURY DEPAR",
+        "body": "Hello,\n\nThank you for reaching out to me. I must say, this is quite an unexpected piece of news. I wasn't aware that I had any property at the George Bush Airport.\n\nCould you please provide more details about this trunk box? How did it end up at the airport and why was it abandoned there? Also, could you clarify what exactly is inside the box?\n\nI'm also curious about how my name got associated with this box. Is there any documentation or proof that links me to it?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nJason"
+    }
+]

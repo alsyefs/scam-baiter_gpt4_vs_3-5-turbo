@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1333",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Greetings,",
+        "body": "  Greetings,\nMy name is Maj.Jonthan Briton. I am an American soldier, presently in Iraqi for the protection of the US embassy and advise the Iraqi army in relation to the advance of ISIS. With a very desperate need for assistance, I have decided to contact you for your kind assistance to move the sum of Thirty eight Million United States Dollars to you if I can be assured that my share will be safe in your care until I complete my service.\nSome money in various currencies was discovered in barrels at a farmhouse during a rescue operation we conducted in one of the attacks by ISIS, and it was agreed by my colleagues and I that some part of this money be shared among us before informing anybody about it. The above figure was given to me as my share, and to conceal this kind of money became a problem for me, so with the help of a British doctor working with Red Cross,I was able to get the package out to a safe\nlocation entirely out of trouble spot. he does not know the real content of the package, and believes that it belongs to a\nBritish/American medical doctor who died in a raid here in Iraqi, and before giving up, trusted me to hand over the package to his Family.\nI have now found a much secured way of getting the package out of Iraqi to you for pick up, and I will discuss this with you when I am sure that you are willing to assist me. I am ready to compensate you with 30% of the total amount for your assistance.\nI do not know how long we will remain here, and I have been shot,wounded and survived two suicide bomb attacks by the special\ngrace of God, this and other reasons I will mention later has prompted me to reach out for help.\nPlease contact me as soon as possible with the following details:\nFull Name:\nFull Address:\nTel/cell numbers:\nOccupation:\nGod Bless you as I look forward to your positive response.\nTruly yours,\nMaj.Jonthan Briton   "
+    },
+    {
+        "from": "baiter_1333",
+        "to": "scammer_1333",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Greetings,",
+        "body": "Hello Briton,\n\nThank you for reaching out and sharing your story. It sounds like you're in a very challenging situation over there in Iraq. I appreciate the trust you've placed in me by choosing to share this information.\n\nI'm curious about a few things, though. How did you manage to keep such a large amount of money hidden? And why did you decide to share this with me, specifically? \n\nAlso, could you tell me more about the British doctor who helped you? It's quite intriguing that he was able to assist without knowing the real content of the package.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nGregory"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2015",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Client,",
+        "body": "Dear Client,\nYour name is among 10 victims of fraud listed for compensation by IMF/UNITED NATION through Canada (USD2.5Million  ) Kindly Reconfirm your details\n To Mr.Fred Williams Here ( \nwfred9659@gmail.com\n) This will be the last notification about this said compensation development.\n1............Your Full Name,\n2..........Your Address\n3......Your Telephone Number.\n4........Your Age\n5.........Your Occupation\nYours Sincerely\nDr. Okagba Pius\nokagbapius@live.com"
+    },
+    {
+        "from": "baiter_2015",
+        "to": "scammer_2015",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Client,",
+        "body": "Dear Dr. Okagba Pius,\n\nThank you for reaching out to me. I hope you are doing well. I received your message regarding being listed as a victim of fraud by the IMF UNITED NATION through Canada. This is quite concerning, and I would appreciate any information or assistance you can provide.\n\nCould you please clarify what exactly this listing entails? How did my name end up on this list? Is there any specific incident or case that I should be aware of?\n\nI understand that you are requesting my personal details such as full name, address, telephone number, age, and occupation. Before I proceed with sharing this information, could you please explain how it will be used and why it is necessary in relation to the situation at hand?\n\nThank you for your understanding and cooperation. I look forward to hearing back from you soon.\n\nBest wishes,\nCrystal"
+    }
+]

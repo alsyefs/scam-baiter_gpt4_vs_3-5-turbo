@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1080",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dhl House, Oshodi Isolo Expres",
+        "body": "Dhl House, Oshodi Isolo Expressway, \nOshodi Isolo, Lagos\nOur Ref: EUB /SBT/ST\nAttn: Beneficiary\nGood day. We have your Booked ATM CARD from Central Bank of Nigeria. We are having problem with safety delivery to your Real Address.\nYou are only required to pay for delivery fee  only which is $110\nWe have tried to deliver to your address two days ago but they was problem with your address.\nReconfirm your address so as to avoid any mistake with the shipmen\nAs soon as you receive this email pay Security Keeping fee for immediate release of your Booked ATM Card tracking Number with Parcel.\nWe are waiting so as to   deliver your Cashier check within 24hrs.\nAlso, you are to provide Phone that we can use to reach you as at time that we get to your location so that we can call you and hand it offer to incase you are not around.\nThank You for your cooperation\nWaiting so as to go ahead with the shipment.\nYours in Service.\nDr  ugbo  Umeh[Shipping Manager]\nTel +2348110332386"
+    },
+    {
+        "from": "baiter_1080",
+        "to": "scammer_1080",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dhl House, Oshodi Isolo Expres",
+        "body": "Hello,\n\nThank you for reaching out to me regarding the delivery of my Booked ATM CARD from the Central Bank of Nigeria. I appreciate your efforts in trying to deliver it to my address.\n\nI apologize for any inconvenience caused by the problem with my address. To ensure a successful delivery, could you please provide me with the details of the address you currently have on file? I want to make sure there are no mistakes this time.\n\nRegarding the payment for the delivery fee, could you please let me know how much it is? I just want to confirm the amount before proceeding with any payment.\n\nAdditionally, I would like to know more about the Security Keeping fee that needs to be paid for the immediate release of my Booked ATM Card tracking number. Could you provide some more information about this fee?\n\nLastly, I can provide you with a phone number where you can reach me when you arrive at my location. However, I would like to know why it is necessary for me to be present during the delivery. Can't someone else receive it on my behalf if I am not available?\n\nThank you for your assistance and prompt response.\n\nBest wishes,\nFredrick"
+    },
+    {
+        "from": "scammer_1080",
+        "to": "baiter_1080",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dhl House, Oshodi Isolo Expres",
+        "body": "​\r\n\r\n[Image result for dhl logo]<http://www.google.com.ng/imgres?imgurl=http://www.motocross-shop.de/bilder/dhl_logoNN.jpg&imgrefurl=http://www.doma-shop.de/articles.php?tPath%3D3%26language%3Den&h=191&w=290&tbnid=jZQaCFRgv999IM:&docid=P_sYIdqKypU2xM&hl=en&ei=b0sqVuqpPMnwasPVksAE&tbm=isch&ved=0CJMBEDMoWTBZahUKEwiqndbs7djIAhVJuBoKHcOqBEg>\r\nDhl House, Oshodi Isolo Expressway,\r\n\r\nOshodi Isolo, Lagos\r\n\r\nDate: 15/02/2024\r\n\r\nOur Ref: EUB /SBT/STB\r\n\r\n\r\nATTN:Fredrick\r\n\r\n\r\nGood Day. This is to notify of   your booked ATM CARD from Central Bank Governor  with Registration Number [DHLJKT50678k).\r\nCentral Bank  have paid for the Booking & Delivery fee but no Insurance fee paid incase of Damage or Lost of your ATM CARD on Transit.\r\n\r\nYou are only required to pay for Insurance fee only which is $100\r\nDelivery will take 76 Hours to reach your Address over there in USA. That is why we shall send tracking details to you so as to track and know time of leaving and arrival. Central Bank did not Insure your ATM CARD. Again, we don't accept Cash on Delivery.\r\n\r\nYou are to reconfirm below Details so as to avoid any mistake with shipment.\r\n\r\nYour Name:..........\r\nYour Address:.......\r\nYour Telephone Number:.....\r\nYour Age:.....\r\n\r\nAlso,You are to pay the Delivery Insurance  fee through Western Union or Money gram\r\n\r\nAs soon as you send the money, you provide us with Senders name and address, Exact amount sent, MTCN and your Proper shipping address so as to avoid any mistake on Rout. Again, you are to provide Phone that we can use to reach you as at time that we get to your location so that we can call you and hand it offer to you if you are not around.\r\n\r\n\r\nCall me as soon as you have make the Insurance fee  payment so as to go ahead with the shipping.\r\nTel  +2347055209065\r\nWaiting so as to go ahead with the shipment.\r\nYours in Service.\r\nDr  ugbo  Umeh[Shipping Manager] Tel+2347055209365"
+    },
+    {
+        "from": "baiter_1080",
+        "to": "scammer_1080",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0030208333333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dhl House, Oshodi Isolo Expres",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate the information about the booked ATM card from Central Bank Governor. However, I have a few questions before proceeding with any payments.\n\n1. Can you please provide more details about the insurance fee? What does it cover exactly?\n2. How much is the insurance fee that needs to be paid?\n3. Is there any way to pay the insurance fee other than Western Union or MoneyGram?\n4. Could you please explain why Central Bank did not insure the ATM card?\n\nI look forward to your response.\n\nBest wishes,\nFredrick"
+    }
+]

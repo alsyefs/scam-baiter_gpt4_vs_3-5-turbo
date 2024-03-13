@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2553",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "U.S.BANK PAYMENT OFFICE.",
+        "body": "U.S.BANK PAYMENT OFFICE.\n1025 Connecticut Ave. NW, Ste. 510. Washington, DC 20036 United States\nof America.\nSWIFT (US): USBKUS44XXX\nFounded: United States of America\nHours: Open 24 Hours.Reply to\nPrivate Email: \nusabank8899@gmail.com\nDear customer:\nAfter today's board meeting of the management of this bank, Ministry\nof Finance, Internal Revenue Service of the United States (IRS), The\nReserve Bank and the World Bank Directorate it was gathered that your\noverdue compensation fund worth US$15 Million has been deposited with\nthis bank for onward payment/ transfer to your\ndesignated/choose bank account. the reason for this is because your\nname was among the scam victims that lost a lot of money to African\nand European Fraudsters, you are hereby advised to without delay stop\nall contact going on between you and anybody on internet because you\nwill end up at nothing.Reply to this Private Email: \nusabank8899@gmail.com\nRE-CONFIRM YOUR BELOW DETAILS.\nYour Full Name:\nYour Residential Address:\nYour Sex/ Age:\nOccupation:\nTelephone/Fax:\nNext of Kin:\nThe US bank will immediately remit your account once I reconfirm your\nbanking details.\nYour utmost response is needed to enable us proceed with your payment.\nWe are looking forward to hear from you.\nThanks for choosing US Bank\nYOURS FAITHFULLY\nMR. SMITH JOHN.\nEXECUTIVE REGION MANAGER.\nPRIVATE Email: \nusabank8899@gmail.com"
+    },
+    {
+        "from": "baiter_2553",
+        "to": "scammer_2553",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: U.S.BANK PAYMENT OFFICE.",
+        "body": "Hello Mr. Smith John,\n\nThank you for reaching out and informing me about this situation. It's quite surprising to hear that my name was among the victims who lost a lot of money. I must admit, I'm not entirely sure how this happened.\n\nCould you please provide more details about this overdue fund? How did it end up being deposited with your bank? And why is it now being transferred to my account?\n\nAlso, could you clarify what you mean by \"stop all contact going on between you and anybody on internet\"? Are there specific people or types of interactions I should be avoiding?\n\nI appreciate your assistance in this matter and look forward to hearing from you soon.\n\nBest wishes,\nMartha"
+    },
+    {
+        "from": "scammer_2553",
+        "to": "baiter_2553",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: U.S.BANK PAYMENT OFFICE.",
+        "body": "We would like to inform you that the US government has issued an order\r\n\r\nto transfer the amount of ($17 million US dollars) to you as your name\r\n\r\nwas among the fraud victims who have lost so much money to African and\r\n\r\nEuropean scammers which you also have a pending funds of $5 million\r\n\r\ndollars that is supposed to be transferred to you since the beginning\r\n\r\nof these year 2024 which we have decided to contact you today on how\r\n\r\nwe can make the transaction to you as soon as possible and We advise\r\n\r\nyou to interrupt any further communication with you and anyone, you\r\n\r\nwill not be harmed.\r\n\r\n\r\nWe are waiting for your immediate reply with your details so that this\r\n\r\nbank can immediately proceed with the transfer or delivery of your\r\n\r\nmoney and serve you better.\r\n\r\n\r\nFULL NAME.........................\r\n\r\nCOUNTRY/HOME ADDRESS .................\r\n\r\nEmail address ................\r\n\r\nTELEPHONE FAX..................\r\n\r\nYOUR IDENTITY CARD.............\r\n\r\nOCCUPATION............."
+    },
+    {
+        "from": "baiter_2553",
+        "to": "scammer_2553",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.06108796296296296,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: U.S.BANK PAYMENT OFFICE.",
+        "body": "Hello there,\n\nWow, that's quite a surprise! I can't believe my name was among the victims. It's really kind of you to reach out and help me with this situation. \n\nCould you please tell me more about how this process works? How did the US government come to decide on transferring these funds? And why is it that I have pending funds since the beginning of the year?\n\nI'm also curious about what you mean by \"interrupt any further with you and anyone\". Could you clarify that for me?\n\nLooking forward to hearing from you soon.\n\nP.S. - I'm sorry, but I don't feel comfortable sharing my personal details over email. Is there another way we could proceed with this?\n\nBest wishes,\nMartha"
+    }
+]

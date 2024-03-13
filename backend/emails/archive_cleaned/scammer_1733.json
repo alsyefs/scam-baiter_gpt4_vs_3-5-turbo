@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1733",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Sir/Ma,",
+        "body": " Sir/Ma,\nI personally write to notify you that we discovered your details in our system as a fund beneficiary.\nPlease have you been getting emails or any form of communication here in Europe or any other countries, like Africa for payments? Or are you a legitimate contractor/ fund beneficiary in any of the above mentioned?\nPlease, indicate clearly as you get back to us for proper guidelines and details on how you will receive your full payment/funds respectively.\nRespond quickly for urgent attention.\nVery Truly Yours\nMr Giovanni Mazzanti   "
+    },
+    {
+        "from": "baiter_1733",
+        "to": "scammer_1733",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  Sir/Ma,",
+        "body": "Hello Mr. Giovanni Mazzanti,\n\nThank you for reaching out to me. I must say, your message has piqued my curiosity. I haven't received any emails or notifications regarding payments from Europe, Africa, or any other countries. Nor am I aware of being a legitimate contractor fund in any of the mentioned regions.\n\nCould you please provide more information about this? How did my details come up in your system? And what does it mean to be a legitimate contractor fund?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nChris"
+    }
+]

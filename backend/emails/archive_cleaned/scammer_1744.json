@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1744",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Sir/ Ma,",
+        "body": "Dear Sir/ Ma,\nCompliments.\nWe have the mandate of Ghana National Procurement Commission (NPC) to write and inquire about your Products for a possible government procurement contract.Also needed by NPC,includes Personal protective equipment and/or products for COVID-19.Apart from the aforementioned products,they also need other products,including Agricultural products or Machines.\nWe are registered agents of the Commission and operate as contract negotiator and facilitator. Our commission in every successful contract awarded through our recommendation is 5% of the total invoice value. Our commission is payable after the contract has been consummated and the seller receives the due amount in his /her account.\nYour products are of interest to the NPC and would like to know if you will be interested to participate in the tender. More details on the procedures will be provided on hearing from you. Please reply to;  \nLooking forward to working with you.\nBest Regards\nMr.Kwame Francis\n14 H/N 6, Nii Owu street, West-Legon\nBehind Forestry Commission,\nAccra-Ghana\nEmail: \nkwame.francis2032@gmail.com"
+    },
+    {
+        "from": "baiter_1744",
+        "to": "scammer_1744",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Sir/ Ma,",
+        "body": "Hello Francis,\n\nThank you for reaching out and expressing interest in our products. It's great to hear that the Ghana National Commission NPC is considering us for their needs.\n\nCould you please provide more specific details about the type of products or machines you are interested in? This will help us better understand your requirements and how we can assist.\n\nAlso, could you elaborate on the tender process? What steps are involved and what would be expected from us?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nChristian"
+    }
+]

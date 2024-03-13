@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2237",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  OFFICE OF THE DIRECTOR INT'L",
+        "body": "  OFFICE OF THE DIRECTOR INT'L REMITTANCE DEPT (CBN)\nCENTRAL BANK OFNIGERIA\nFEDERAL REPUBLIC OF NIGERIA\nPlot 33,Abubakar Tafawa BalewaWay\nCentral Business District,\nCadastral Zone,\nP.M. B. 187,GarkiAbuja .\nNigeria.\n5/12/2023\nAttention:Honorable Fund Beneficiary,\nDear Sir / Madam,\nWe write to inform you that as at Monday being 4th of November, 2023, we received a letter from Peter & Mason, LLC, a law firm in the United States of America that you have directed his law firm to work with Central Bank of Nigeria and make a change of ownership in regards to your outstanding sum of US$10.5million from you to one MICHAEL CRAIG RIXIE as the new beneficiary of US$5.5million, which they have already come up with the request sum of US$950 as program fee.\nHowever, your urgent attention is highly needed just to confirm from you before we go ahead and proceed with Peter & Mason LLC. Law firm.\nBelow is the new name and account details for confirmation from you.\nFULL NAME: MICHAEL CRAIG RIXIE\nBANK INFORMATION:\nBANK NAME: ALLY BANK\nBANK ADDRESS: P.O. BOX 13625 PHILADELPHIA, PA 19101\nNAME ON ACCOUNT: MICHAEL CRAIG RIXIE\nROUTING NUMBER: 124003116\nACCOUNT NUMBER: 2117268173\nSWIFT CODE: ALLYUS33\nIt is  important you reply to this message today, so that we can fully comply with your directive and make the necessary changes and thereafter transfer the fund to the new beneficiary, which we hope is working with you.\nThank you,\nDr.Rogers Picard Marc,\nConsultant To the  Governor,\nCENTRAL BANK OF NIGERIA. (CBN).   "
+    },
+    {
+        "from": "baiter_2237",
+        "to": "scammer_2237",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   OFFICE OF THE DIRECTOR INT'L",
+        "body": "Hello Picard Marc,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I wasn't expecting any communication from the Central Bank of Nigeria. \n\nI'm not sure I understand everything correctly though. Could you please clarify what this change of ownership means? And who exactly is Michael Craig Rixie? \n\nAlso, could you provide more details about Peter Mason LLC law firm? How did they get involved in this matter?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nBreanne"
+    },
+    {
+        "from": "scammer_2237",
+        "to": "baiter_2237",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "URGENT",
+        "body": "Office Of The President,\r\n                                 Federal Republic Of Nigeria,\r\n                                   Aso Rock Villa, Asokoro,\r\n                                          Abuja-Nigeria.\r\n                                            21/02/2024\r\n\r\nAttention: Breanne ,\r\n\r\nI have been directed by The President, Federal Republic Of Nigeria ,Mr\r\nBola Ahmed Tinubu, GCFR,to wade  and mitigate into the problems\r\nsurrounding your investment /Business/Contract transactions between\r\nyou and your Nigerian partners.\r\nYou are encouraged to furnish the Presidency, with the modalities and\r\nprogress so\r\nfar made between you and your co-partners in this transaction which\r\nhas taken so much time and is almost bringing public opprobrium to the name\r\nand image\r\nof the Federal Republic of Nigeria due to its non productive nature .\r\nThis has also put our citizens  into the bad books of the rest of the world.\r\nThe new President Of our country is not too happy about that hence this\r\nmove to correct it.\r\nYou are kindly,requested to respond within 24 hours of the receipt of this\r\nmail and forward your id,\r\nand a copy of your latest utility bill receipt and a secured phone /fax\r\nnumber where you can be\r\nreached on phone asap.\nThank you,\r\nDr. Picard Marc Rogers,\r\nFor The President Federal Republic Of Nigeria."
+    },
+    {
+        "from": "baiter_2237",
+        "to": "scammer_2237",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0036226851851851854,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: URGENT",
+        "body": "Hello Dr. Picard Marc Rogers,\n\nThank you for reaching out to me. It's an honor to be contacted by the Office of The President, Federal Republic Of Nigeria. I'm intrigued by your message and would like to understand more about this situation.\n\nCould you please provide more details about the investment business contract you mentioned? I don't recall having any Nigerian partners or being involved in any such business contracts. \n\nAlso, could you elaborate on what modalities and progress you're referring to? I'm a bit confused as I don't have any ongoing projects that might bring public opprobrium to the name and image of the Federal Republic of Nigeria.\n\nI appreciate your patience and look forward to hearing from you soon.\n\nBest wishes,\nBreanne"
+    }
+]

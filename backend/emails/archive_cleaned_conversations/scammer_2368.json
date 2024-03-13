@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_2368",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir ,",
+        "body": "  Dear Sir ,\nMy name is Mr Steven James I am Financial Consultant, my client have\ninterest in Investing in your country into a Joint /venture partnership\nKindly contact me if you are interested .\nI await your response\nRegards,\nMr Steven James   "
+    },
+    {
+        "from": "baiter_2368",
+        "to": "scammer_2368",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir ,",
+        "body": "Dear Mr. Steven James,\n\nThank you for reaching out to me. I'm interested in learning more about the investment opportunity you mentioned. Could you please provide me with some additional details? Specifically, I would like to know what type of joint venture your client is looking to invest in and what industry it is related to.\n\nAdditionally, it would be helpful if you could share some information about your client's background and their previous experience with investments. This will help me assess the potential benefits and risks associated with this opportunity.\n\nI look forward to hearing back from you soon.\n\nBest wishes,\nSheldon"
+    },
+    {
+        "from": "scammer_2368",
+        "to": "baiter_2368",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Sir ,",
+        "body": "Attention Mr Sheldon\r\n\r\nMy client is interested in investing $1.5BILLION (ONE BILLION FIVE\r\nHUNDRED MILLION UNITED STATES DOLLARS) .He solicit for an\r\ninvestor who has the capacity to invest .\r\n\r\n\r\nInterested areas :\r\n\r\nTextiles, Information technology,Pharmaceuticals, Oil & Energy\r\nIndustries, Mining & Metals Industry,Management Consulting Industry,\r\nMaritime industry, Hospital & Health Care Industry, Consumer Services\r\nIndustry, International Trade and Development Industry, Gambling &\r\nCasinos Industry,Electrical/Electronic Manufacturing Industry,\r\nInsurance Industry,Chemical industries, Marketing and Advertising\r\n\r\nIndustry,Leisure,Travel & Tourism Industry, Agriculture, Aviation,\r\nRetail,Import and Export, Trade and development industry, Real Estate\r\n& Construction Industry and any other viable profitable investment\r\nopportunities in your region are welcomed.\r\n\r\nI decided to contact you to know if you would like to share details\r\nabout the projects you have at the moment that require funding.\r\n\r\nMy investor is interested in projects and willing to invest into your\r\nprojects if any.\r\n\r\nTo proceed, please provide us with a workable business/project Plan\r\nfor our study.\r\n\r\nIntroduce the following :\r\n\r\n(a)Introduction and description of your company or your personal details.\r\n(b)Your Full name,your Home/Office address,your phone/mobile numbers\r\n(c)The type of business that you are running and sector of activities.\r\n(d)Investment of concern. Please Specify the sector of investment of\r\nyour interest: (indicate if you have more than 1 choice in mind).\r\n\r\nI would appreciate your reply with more details on this and other\r\nprojects you might have at the moment.\r\n\r\nWe will review and get back with the details of the completion.\r\n\r\nWe will rely on your professional ideas and trust to work with you.i will\r\ntell you more about the investor,then we discuss the sharing ratio.\r\n\r\nAwait your urgent return mail.\r\n\nMr Steven James\r\na consultant  to Mr Rafael Savimbi Jnr."
+    },
+    {
+        "from": "baiter_2368",
+        "to": "scammer_2368",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.08094907407407408,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Sir ,",
+        "body": "Hello Mr. Steven James,\n\nThank you for reaching out to me with this investment opportunity. I appreciate your interest in my projects and potential funding. However, before proceeding further, I would like to gather some more information.\n\nCould you please provide me with more details about the investor who is interested in investing? It would be helpful to know their background and experience in the investment industry.\n\nAdditionally, could you clarify what specific types of projects or industries they are most interested in? You mentioned a few sectors such as textiles, oil energy, mining metals, etc., but it would be great to have a clearer understanding of their preferences.\n\nFurthermore, I would like to know more about the sharing ratio you mentioned. Could you explain how that works and what it entails?\n\nOnce I have these details, I will be able to provide you with a comprehensive business project plan for your study.\n\nLooking forward to your prompt response.\n\nBest wishes,\nSheldon"
+    },
+    {
+        "from": "scammer_2368",
+        "to": "baiter_2368",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.8810416666666665,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Dear Sir ,",
+        "body": "Attention Mr Sheldon\r\n\r\nThanks  for your mail received this morning.The investor name is Mr RAFAEL\r\nSAVIMBI JR.he is from Angola republic and also a former leader.During his\r\ntenure,he awarded a contract to two  business oil mugol from the kingdom of\r\nsaudi arabia and a brunei business man.although there was an over invoice\r\nand gratification that made up this investment funds $1.5BILLION.\r\n\r\nHowever,as I send this mail,Mr Rafael Savimbi Jr,is politically exposed,and\r\ndoes want any one to know he is involved in this project,that is the reason\r\nhe will want you to have full and sole control of this investment for the\r\nperiod of TEN 10years.\r\n\r\nAs you can see,Mr RAFAEL SAVIMBI JR,just mentioned all these projects or\r\nindustries,but it all depends on you to know and choose areas that will be\r\nprofitable where you can invest the funds judiciously and make profit.You\r\ncan invest these funds in any business of your choice.\r\n\r\nThe sharing ratio is as follows.\r\n65% of the total is for the investor Mr RAFAEL SAVIMBI JR\r\n34% of the total amount is for MR SHELDON AND GROUP\r\n1% will be set aside to defray any expenses that we might in incure in the\r\nprocess of payment,and shall be reimbursed back as soon as the funds gets\r\ninto your custody.it will be captured in the Mou/agreement which i will\r\nsend to you soonest which will be legalized in your present before\r\nproceeding to the Absa bank for payment face to face in your present also.\r\n\r\nLastly, I would like to have all your details,to enable me to send you\r\nMou/agreement to let you know where the funds were deposited.\r\n\r\nIf there are any more questions,please feel free to ask.\r\n\r\nPlease for further correspondences to this email address   (\nofficial1779012@gmail.com)\r\n\r\n\r\nAwait your urgent return mail.\r\n\r\nMr Steven James\r\na consultant  to Mr Rafael Savimbi Jnr."
+    },
+    {
+        "from": "baiter_2368",
+        "to": "scammer_2368",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.227858796296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Dear Sir ,",
+        "body": "Dear Mr. Steven James,\n\nThank you for reaching out to me and providing this information about Mr. Rafael Savimbi Jr. It sounds like he has an interesting investment opportunity. I would like to learn more about the projects he mentioned and how I can potentially be involved.\n\nCould you please provide some additional details about the specific businesses or industries that Mr. Savimbi is looking to invest in? Also, what is the estimated timeframe for this investment?\n\nI appreciate your assistance in sending me the Mou agreement so that I can review it and understand where the funds have been deposited. Additionally, could you clarify how the expenses will be reimbursed once the funds are transferred?\n\nThank you again for your email, and I look forward to hearing back from you soon.\n\nBest wishes,\nSheldon"
+    }
+]

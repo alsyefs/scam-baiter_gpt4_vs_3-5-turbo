@@ -1,0 +1,962 @@
+[
+    {
+        "from": "scammer_2172",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "GOOD DAY",
+        "body": "GOOD DAY\nMY NAME IS MRS. SUSANA PATRICK JEFFERSON, PLEASE I WANT YOU TO REPLY ME BACK AS SOON AS YOU READ THIS MESSAGE BECAUSE I WANT TO DISCUSS SOMETHING VERY IMPORTANT WITH YOU,I AM A CANCER PATIENT WITH A VERY SHORT TIME TO LIVE AND I AM CONTACTING YOU BECAUSE I WANT TO ENTRUST THE SUM OF (USD$12.7 MILLION)TO YOUR HAND AS A DONATION FOR CHARITY WORK, TO HELP THE ORPHANAGES, WIDOWS, AND MOTHERLESS CHILDREN AROUND YOU,THIS MONEY WAS DEPOSITED BY MY LATE HUSBAND IN ONE OF THE BANK \nHERE IN ABIDJAN\n AND OUR PLAN WAS TO USE IT FOR INTERNATIONAL INVESTMENT BEFORE THE COLD HAND OF DEATH TAKE HIM AWAY FROM ME,AND CONSIDERING MY PRESENT BAD HEALTH CONDITION WHICH MY LAST DATE HAVE BEEN CONFIRMED BY MY DOCTORS ,I HAVE DECIDED TO ENTRUST THIS FUND TO YOUR HAND FOR CHARITY WORK, I AM WAITING YOUR URGENT REPLY FOR MORE INFORMATION ABOUT THIS FUND \nREGARDS\nMRS.SUSANA PATRICK JEFFERSON\nPLEASE REPLY ME BACK TO :     \nrd4065117@gmail.com"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: GOOD DAY",
+        "body": "Hello Mrs. Susana Patrick Jefferson,\n\nI'm deeply touched by your message and the situation you're currently in. It's truly admirable that even in such a difficult time, you're thinking about helping others. I'm curious to know more about this charity work you mentioned. Could you please provide more details about it? \n\nAlso, could you tell me more about how your late husband came to accumulate such a significant sum of money? It's quite an impressive amount.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "scammer_2172",
+        "to": "baiter_2172",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Dear  Beloved\r\n\r\nMy warm greetings to you and your household .I am very glad to receive your\r\nemphasize mail concerning your interest over the fund which i am entrusting\r\nto your hand for charity work. Really to meet you as a good person was my\r\noften prayers for God to provide me someone who will not betray or\r\ndisappoint me in this vow which i made to God .\r\n\r\nMy motivation of making this decision to donate this fund for charity work\r\nis because of the predicament which i found myself into and the\r\nhumiliations of my marriage without any child, so i decided to use\r\neverything I have in this world to help the less privilege people around ,\r\nI know that this fund is not much but I believe it will go a long way to\r\nbring smile to the face of many people\r\n\r\nBase on your message ,i am well convinced that you can handle this matter\r\nwith all your mind and the only thing i needs from you is your total\r\nhonesty and commitment toward this charity project, as my health condition\r\ncould not permit me to do anything by myself ,please as soon as the bank\r\ntransfer the fund to your bank account, I want you to keep %30 OF THE FUND\r\nfor yourself as the blessing of God to your life and use the remaining %70\r\nfor charity work.\r\n\r\nconsidering my deteriorating condition due to my ongoing battle with cancer\r\nbecause my last date have been confirmed by my doctors, I want you to\r\npromise me that you are going to handle this matter with all your mind, I\r\nwant you to give me your word of honour that even in my absent in this\r\nworld that you are going to use this fund as I have indicated ,promise me\r\nthat you will not disappoint me in this matter,\r\n\r\nI also want you to send me your direct contact information to enable me\r\npresent it to the bank as the person I have chosen as my next of kin to\r\nclaim the fund on my behalf, i will also write a letter of authorization\r\nwith your name to give you all the legal power to claim the fund from the\r\nbank here in ivory coast without problem, so that even if i suddenly pass\r\non then you shall have all the legal power to claim the fund  from the bank\r\nwithout any disturbance from anybody,\r\n\r\nThe information I needs is just:\r\n\r\nYour full name, your address and your telephone number for communication,\r\n\r\nImmediately i received these information ,I will inform the bank about you\r\nand also provide you the full information of the fund and the contact\r\ninformation of the bank for you to contact them because I want them to\r\ntransfer the fund to your bank account now that I am still here\r\n\r\nThanks and GOD bless us all in his infinite goodness and mercy\r\nRemain blessed\r\nMrs.Susana Patrick Jefferson"
+    },
+    {
+        "from": "scammer_2172",
+        "to": "baiter_2172",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0002662037037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Dear  Beloved\r\n\r\nMy warm greetings to you and your household .I am very glad to receive your\r\nemphasize mail concerning your interest over the fund which i am entrusting\r\nto your hand for charity work. Really to meet you as a good person was my\r\noften prayers for God to provide me someone who will not betray or\r\ndisappoint me in this vow which i made to God .\r\n\r\nMy motivation of making this decision to donate this fund for charity work\r\nis because of the predicament which i found myself into and the\r\nhumiliations of my marriage without any child, so i decided to use\r\neverything I have in this world to help the less privilege people around ,\r\nI know that this fund is not much but I believe it will go a long way to\r\nbring smile to the face of many people\r\n\r\nBase on your message ,i am well convinced that you can handle this matter\r\nwith all your mind and the only thing i needs from you is your total\r\nhonesty and commitment toward this charity project, as my health condition\r\ncould not permit me to do anything by myself ,please as soon as the bank\r\ntransfer the fund to your bank account, I want you to keep %30 OF THE FUND\r\nfor yourself as the blessing of God to your life and use the remaining %70\r\nfor charity work.\r\n\r\nconsidering my deteriorating condition due to my ongoing battle with cancer\r\nbecause my last date have been confirmed by my doctors, I want you to\r\npromise me that you are going to handle this matter with all your mind, I\r\nwant you to give me your word of honour that even in my absent in this\r\nworld that you are going to use this fund as I have indicated ,promise me\r\nthat you will not disappoint me in this matter,\r\n\r\nI also want you to send me your direct contact information to enable me\r\npresent it to the bank as the person I have chosen as my next of kin to\r\nclaim the fund on my behalf, i will also write a letter of authorization\r\nwith your name to give you all the legal power to claim the fund from the\r\nbank here in ivory coast without problem, so that even if i suddenly pass\r\non then you shall have all the legal power to claim the fund  from the bank\r\nwithout any disturbance from anybody,\r\n\r\nThe information I needs is just:\r\n\r\nYour full name, your address and your telephone number for communication,\r\n\r\nImmediately i received these information ,I will inform the bank about you\r\nand also provide you the full information of the fund and the contact\r\ninformation of the bank for you to contact them because I want them to\r\ntransfer the fund to your bank account now that I am still here\r\n\r\nThanks and GOD bless us all in his infinite goodness and mercy\r\nRemain blessed\r\nMrs.Susana Patrick Jefferson"
+    },
+    {
+        "from": "scammer_2172",
+        "to": "baiter_2172",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0006481481481481481,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "FROM:MRS.SUSANA PATRICK JEFFERSON....",
+        "body": "Dear  Beloved\r\n\r\nMy warm greetings to you and your household .I am very glad to receive your\r\nemphasize mail concerning your interest over the fund which i am entrusting\r\nto your hand for charity work. Really to meet you as a good person was my\r\noften prayers for God to provide me someone who will not betray or\r\ndisappoint me in this vow which i made to God .\r\n\r\nMy motivation of making this decision to donate this fund for charity work\r\nis because of the predicament which i found myself into and the\r\nhumiliations of my marriage without any child, so i decided to use\r\neverything I have in this world to help the less privilege people around ,\r\nI know that this fund is not much but I believe it will go a long way to\r\nbring smile to the face of many people\r\n\r\nBase on your message ,i am well convinced that you can handle this matter\r\nwith all your mind and the only thing i needs from you is your total\r\nhonesty and commitment toward this charity project, as my health condition\r\ncould not permit me to do anything by myself ,please as soon as the bank\r\ntransfer the fund to your bank account, I want you to keep %30 OF THE FUND\r\nfor yourself as the blessing of God to your life and use the remaining %70\r\nfor charity work.\r\n\r\nconsidering my deteriorating condition due to my ongoing battle with cancer\r\nbecause my last date have been confirmed by my doctors, I want you to\r\npromise me that you are going to handle this matter with all your mind, I\r\nwant you to give me your word of honour that even in my absent in this\r\nworld that you are going to use this fund as I have indicated ,promise me\r\nthat you will not disappoint me in this matter,\r\n\r\nI also want you to send me your direct contact information to enable me\r\npresent it to the bank as the person I have chosen as my next of kin to\r\nclaim the fund on my behalf, i will also write a letter of authorization\r\nwith your name to give you all the legal power to claim the fund from the\r\nbank here in ivory coast without problem, so that even if i suddenly pass\r\non then you shall have all the legal power to claim the fund  from the bank\r\nwithout any disturbance from anybody,\r\n\r\nThe information I needs is just:\r\n\r\nYour full name, your address and your telephone number for communication,\r\n\r\nImmediately i received these information ,I will inform the bank about you\r\nand also provide you the full information of the fund and the contact\r\ninformation of the bank for you to contact them because I want them to\r\ntransfer the fund to your bank account now that I am still here\r\n\r\nThanks and GOD bless us all in his infinite goodness and mercy\r\nRemain blessed\r\nMrs.Susana Patrick Jefferson"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.018125,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI hope this message finds you well. I am deeply moved by your story and your noble intentions to help the less privileged. It's truly inspiring to see such selflessness, especially in difficult times.\n\nI understand that you are looking for someone trustworthy to carry out this charity project. While I am interested in helping, I would like to know more about the specifics of the project. Could you please provide more details? For instance, what kind of charity work are we talking about? Are there any specific organizations or causes that you want the funds directed towards?\n\nAlso, it would be helpful if you could share more information about how the fund transfer process will work. How does the bank here in Ivory Coast handle such transactions? \n\nPlease note that while I'm eager to assist, I must also ensure my personal safety and security. Therefore, I won't be able to provide my personal contact details at this stage. However, rest assured that this doesn't affect my commitment towards helping with your cause.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.018217592592592594,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI hope this message finds you well. I am deeply moved by your story and your selfless decision to donate for charity work. It's truly inspiring to see such kindness in the world.\n\nI understand that you are looking for someone trustworthy to handle this matter, and I assure you of my commitment towards this project. However, I would like to know more about the nature of the charity work that you have in mind. Are there any specific causes or organizations that you wish to support? \n\nAlso, could you please provide me with more details about how the fund transfer process will take place? I'm not very familiar with these procedures, so any information would be greatly appreciated.\n\nThank you for considering me for this noble cause. Looking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.018333333333333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON....",
+        "body": "Hello Patrick Jefferson,\n\nI hope this message finds you well. I am deeply moved by your story and your noble intentions to help the less privileged. It's truly inspiring to see such selflessness, especially in trying times.\n\nI understand that you are looking for someone trustworthy to carry out this charity project. While I am interested in helping, I would like to know more about the specifics of this project. Could you please provide more details? For instance, what kind of charity work are we talking about? Are there any specific organizations or causes that you want the funds directed towards?\n\nAlso, could you tell me more about how the fund transfer process will work? I'm not very familiar with these procedures and would appreciate some clarification.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "scammer_2172",
+        "to": "baiter_2172",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.8311805555555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Dear Josie\r\n\r\nI am happy for your message and I want you to know that I have already\r\ninformed the Bank about you and they have given me there contact\r\ninformation to give you so that you can contact them and I will give you\r\nthe information in my next message,\r\n\r\nI want to know if you can contact the bank through telephone but if you\r\ncannot call the bank through telephone then tell me and I will provide you\r\nwith the bank email so that you can contact them through email,\r\n\r\nI have attached my pictures to this message so that you can see my face and\r\nknow whom is entrusting the fund to your hand and please I want your utmost\r\nseriousness toward this matter because this is my last wish, I want you to\r\ndedicate all your time and ensure that the bank transfer the fund to your\r\nbank account without any problem and please remember I told you to keep\r\n30percent of the fund to yourself as the blessing of God to your life and\r\nuse the 70percent for charity work,\r\n\r\nI don’t have any particular charity organization in mind , all I want is\r\nfor you to look for the deserved charity home and use the 70percent on them,\r\n\r\nI am waiting for your response to this message to know how you want to\r\ncontact the bank if you want to contact them through email or phone so that\r\nI can provide you there contact information,\r\n\r\nThanks and hope to hear from you soonest\nYours sister in the Lord\r\nMrs.Susana Patrick Jefferson"
+    },
+    {
+        "from": "scammer_2172",
+        "to": "baiter_2172",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.83119212962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON....",
+        "body": "Dear Josie\r\n\r\nI am happy for your message and I want you to know that I have already\r\ninformed the Bank about you and they have given me there contact\r\ninformation to give you so that you can contact them and I will give you\r\nthe information in my next message,\r\n\r\nI want to know if you can contact the bank through telephone but if you\r\ncannot call the bank through telephone then tell me and I will provide you\r\nwith the bank email so that you can contact them through email,\r\n\r\nI have attached my pictures to this message so that you can see my face and\r\nknow whom is entrusting the fund to your hand and please I want your utmost\r\nseriousness toward this matter because this is my last wish, I want you to\r\ndedicate all your time and ensure that the bank transfer the fund to your\r\nbank account without any problem and please remember I told you to keep\r\n30percent of the fund to yourself as the blessing of God to your life and\r\nuse the 70percent for charity work,\r\n\r\nI don’t have any particular charity organization in mind , all I want is\r\nfor you to look for the deserved charity home and use the 70percent on them,\r\n\r\nI am waiting for your response to this message to know how you want to\r\ncontact the bank if you want to contact them through email or phone so that\r\nI can provide you there contact information,\r\n\r\nThanks and hope to hear from you soonest\nYours sister in the Lord\r\nMrs.Susana Patrick Jefferson"
+    },
+    {
+        "from": "scammer_2172",
+        "to": "baiter_2172",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.83119212962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Dear Josie\r\n\r\nI am happy for your message and I want you to know that I have already\r\ninformed the Bank about you and they have given me there contact\r\ninformation to give you so that you can contact them and I will give you\r\nthe information in my next message,\r\n\r\nI want to know if you can contact the bank through telephone but if you\r\ncannot call the bank through telephone then tell me and I will provide you\r\nwith the bank email so that you can contact them through email,\r\n\r\nI have attached my pictures to this message so that you can see my face and\r\nknow whom is entrusting the fund to your hand and please I want your utmost\r\nseriousness toward this matter because this is my last wish, I want you to\r\ndedicate all your time and ensure that the bank transfer the fund to your\r\nbank account without any problem and please remember I told you to keep\r\n30percent of the fund to yourself as the blessing of God to your life and\r\nuse the 70percent for charity work,\r\n\r\nI don’t have any particular charity organization in mind , all I want is\r\nfor you to look for the deserved charity home and use the 70percent on them,\r\n\r\nI am waiting for your response to this message to know how you want to\r\ncontact the bank if you want to contact them through email or phone so that\r\nI can provide you there contact information,\r\n\r\nThanks and hope to hear from you soonest\nYours sister in the Lord\r\nMrs.Susana Patrick Jefferson"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.8328125,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to receive your message and I appreciate the trust you've placed in me. It's a great honor indeed. \n\nI would like to clarify a few things before we proceed further. Could you please provide more details about the bank? Also, could you explain the process of transferring the fund? I'm not very familiar with these procedures, so your guidance would be really helpful.\n\nAs for contacting the bank, I think email would be more convenient for me. However, if it's necessary to call them, I can manage that too.\n\nRegarding the charity work, I assure you that I will do my best to find deserving charities and use the funds wisely.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.834907407407407,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm so glad to hear from you and I appreciate your trust in me. It's a pleasure to be part of such a noble cause. \n\nRegarding the bank, I think it would be more convenient for me to contact them through email. I believe this method will allow us to keep track of all our conversations and make sure nothing is missed or misunderstood.\n\nYou mentioned that you have attached some pictures, but unfortunately, I didn't receive any attachments with your message. Could you please resend them? It would be nice to put a face to the name.\n\nAlso, could you tell me more about how you came into possession of these funds? And why did you choose me for this task? I'm just curious and want to understand everything clearly.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.835023148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm so glad to hear from you and I appreciate your trust in me. It's really kind of you to think about charity work, it's something that I hold dear to my heart as well.\n\nAs for contacting the bank, I would prefer email communication. It's more convenient for me and allows me to keep track of all the information shared. \n\nYou mentioned a fund, could you please tell me more about it? How did it come into existence? And why is it important for this fund to be used for charity work?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.87630787037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to receive your message and I appreciate the trust you've placed in me. It's wonderful to know that you're entrusting me with such a significant task. Your pictures have given me a sense of who you are, and I am eager to fulfill your last wish.\n\nAs for contacting the bank, I think it would be more convenient for me to reach out to them via email. Telephone calls can sometimes be challenging due to time zone differences and language barriers. So, if you could provide me with their email address, that would be great.\n\nRegarding the charity work, I assure you that I will do my best to find deserving charities where this fund can make a real difference. It's an honor for me to be part of such a noble cause.\n\nJust one question though - once the funds are transferred, how should I go about distributing them? Do you have any specific guidelines or suggestions on how much should go towards each charity?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.8764930555555557,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON....",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to receive your message and I appreciate the trust you've placed in me. It's great to know that you've already informed the bank about me. \n\nI would like to clarify a few things before we proceed further. Could you please provide more details about the fund? How did it come into your possession? Also, could you tell me more about the bank where the fund is currently held?\n\nAs for contacting the bank, I think email would be a better option for me. Could you kindly provide me with their email address?\n\nRegarding charity work, I believe it's a noble cause and I'm glad that you're thinking along those lines. However, could you give me some guidance on how to select deserving charities?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.8771064814814813,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm so glad to hear from you! It's wonderful that you're entrusting me with such an important task. I can see from your pictures that you're a kind-hearted person.\n\nAs for contacting the bank, I think it would be easier for me to do so via email. Phone calls can sometimes be a bit tricky for me, and I feel more comfortable writing out my thoughts.\n\nCould you please provide me with the bank's email address? Also, could you give me some guidance on what exactly I should say to them? I want to make sure I handle this correctly.\n\nYou mentioned charity work - that's something very close to my heart. Do you have any specific causes or types of charities in mind? Or should I just look for ones that seem deserving?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.9176967592592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm so glad to hear from you and I appreciate your trust in me. It's wonderful that you're thinking of doing such a noble deed. \n\nAs for contacting the bank, I think it would be best if we could communicate via email. I'm not very comfortable with phone calls, and emails allow me to keep track of all the information better.\n\nYou mentioned about using the funds for charity work, which is a great idea! Do you have any specific areas or causes that are close to your heart? Or should I just look for deserving charities in general?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.917800925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON....",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to receive your message and I appreciate the trust you've placed in me. It's a great honor indeed. \n\nI would like to clarify a few things before we proceed further. Could you please provide more details about the bank? Also, could you tell me more about the fund transfer process? I'm not very familiar with these procedures, so your guidance would be of great help.\n\nAs for contacting the bank, I think email would be best for me. It allows me to keep track of our conversations and refer back to them if needed.\n\nRegarding the charity work, it's a noble cause and I'm more than willing to help. However, could you give me some advice on how to choose the right charity home?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.917974537037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm so glad to hear from you and I appreciate your trust in me. It's really nice to see your pictures, it makes this whole thing feel more real.\n\nAs for contacting the bank, I think email would be the best way for me. I'm not very comfortable with phone calls, especially for such important matters. So if you could provide me with their email address, that would be great.\n\nAlso, regarding the charity work, I think it's a wonderful idea. There are so many people out there who need help and this money could make a big difference in their lives. Do you have any specific type of charity in mind? Like children's homes or maybe something related to healthcare?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.9183449074074073,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to receive your message and I appreciate the trust you've placed in me. It's wonderful to know that you're entrusting me with such a significant task. \n\nI'm curious about the bank you mentioned. Could you tell me more about it? Is it a local or international bank? Also, could you provide some details about the fund transfer process?\n\nAs for contacting the bank, I think email would be best for me. It allows me to keep track of all our conversations and ensures that nothing gets lost in translation.\n\nRegarding the charity work, I think it's a noble cause and I'd be happy to help out. Do you have any specific areas of need that you want me to focus on?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.9184722222222224,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm so glad to hear from you and I appreciate your trust in me. It's wonderful that you're thinking of doing such a noble deed. \n\nI would like to know more about this process. Could you please tell me more about the bank we are dealing with? Also, could you provide some details about how the fund transfer will take place?\n\nAs for contacting the bank, I think email would be best for me. It allows me to keep track of all our conversations and it's easier for me to manage.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.9188541666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "22",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to receive your message and I appreciate the trust you've placed in me. It's wonderful to know that you're entrusting me with such a significant task. \n\nI would like to clarify a few things before we proceed further. Could you please provide more details about the bank? Also, could you explain the process of transferring the fund? I'm not very familiar with these procedures, so your guidance would be greatly appreciated.\n\nAs for contacting the bank, I think email would be more convenient for me. If it's alright with you, could you please provide me with their email address?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.9598032407407406,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "23",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm so glad to hear from you and I appreciate your trust in me. It's a pleasure to be part of such a noble cause. \n\nRegarding the bank, I think it would be more convenient for me to contact them via email. Could you please provide me with their email address? \n\nAlso, could you tell me more about the fund? How did it come about and why is it so important to you? I'd love to understand more about this mission that we're embarking on together.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.0025,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "24",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON....",
+        "body": "Hello Patrick Jefferson,\n\nI'm so glad to hear from you and I appreciate your trust in me. It's wonderful that you're thinking of doing such a noble deed. \n\nAs for contacting the bank, I think it would be best if we could communicate via email. I'm not very comfortable with phone calls, and emails allow me to keep track of all the information.\n\nCould you please provide me with the bank's email address? Also, do they need any specific information from my side?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.0026041666666665,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "25",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON....",
+        "body": "Hello Patrick Jefferson,\n\nI'm so glad to hear from you and I appreciate your trust in me. It's wonderful that you're thinking of doing such a noble deed. \n\nAs for contacting the bank, I think it would be more convenient for me to do so via email. Could you please provide me with their email address? \n\nAlso, could you tell me a bit more about the fund? How did it come into being and why have you chosen to use it for charity work? I'm really interested in knowing more about this.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.002847222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "26",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm so glad to hear from you! It's wonderful that you're entrusting me with such an important task. I must say, your pictures are lovely and it's nice to put a face to the name.\n\nAs for contacting the bank, I think email would be best for me. I'm not very good with phone calls, they make me a bit nervous. So if you could provide me with their email address, that would be fantastic.\n\nI'm also curious about the charity work you mentioned. Do you have any specific causes in mind? Or should I just look for charities that seem deserving?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.0435185185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "27",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to receive your message and I appreciate the trust you've placed in me. It's great to know that you've already informed the bank about me. \n\nAs for contacting the bank, I think it would be more convenient for me to reach them via email. Could you kindly provide me with their email address?\n\nAlso, I'm curious about the charity work you mentioned. Do you have any specific areas or causes that are close to your heart? Or should I just look for a deserving charity home on my own?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.0441203703703703,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "28",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON....",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to receive your message and I appreciate the trust you've placed in me. It's wonderful to know that you're entrusting me with such an important task. \n\nI would like to clarify a few things before we proceed further. Could you please provide more details about the bank? Also, could you tell me more about the fund transfer process? I believe it's essential for me to understand these aspects thoroughly.\n\nAs for contacting the bank, I think email would be a better option for me. It allows us to keep track of our conversations and ensures that no information is lost or misunderstood.\n\nRegarding the charity work, I assure you that I will do my best to find deserving charities and use the funds wisely.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.0442708333333335,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "29",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to receive your message and I appreciate the trust you've placed in me. It's a great honor indeed. \n\nI would like to clarify a few things before we proceed further. Could you please provide more details about the bank? Also, could you tell me more about the fund transfer process? I'm not very familiar with these procedures, so your guidance would be really helpful.\n\nAs for contacting the bank, I think email would be best for me. I feel more comfortable writing than speaking on the phone.\n\nRegarding the charity work, it's such a noble cause and I'm excited to be part of it. However, could you give me some advice on how to choose a deserving charity home?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.0450578703703703,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "30",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON....",
+        "body": "Hello Patrick Jefferson,\n\nI'm so glad to hear from you and I appreciate your trust in me. It's really nice to see your pictures, it makes this whole thing feel more real.\n\nAs for contacting the bank, I think email would be the best way for me. I'm not very comfortable with phone calls, especially for something as important as this. So if you could provide me with their email address, that would be great.\n\nI also wanted to ask a few more questions about the charity work. Do you have any specific causes that are close to your heart? Or any particular type of charity that you'd like the money to go towards? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.0846180555555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "31",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to receive your message and I appreciate the trust you've placed in me. It's wonderful to know that you're entrusting me with such a significant task. \n\nRegarding contacting the bank, I think it would be more convenient for me to reach out to them via email. Could you kindly provide me with their email address? \n\nAlso, I'm curious about the charity work you mentioned. Do you have any specific areas of need or types of charities that are close to your heart? For instance, do you prefer charities focused on education, health, poverty alleviation, or something else?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.0856018518518518,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "32",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON....",
+        "body": "Hello Patrick Jefferson,\n\nI'm so glad to hear from you and I appreciate your trust in me. It's really nice of you to think about charity work, it's something that I also hold dear to my heart.\n\nRegarding the bank contact, I think it would be easier for me to reach them through email. Phone calls can sometimes be a bit tricky due to different time zones and such. So, if you could provide me with their email address, that would be great.\n\nAlso, could you please tell me more about this fund? How did it come into existence? And why have you chosen me for this noble cause?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.085787037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "33",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm so glad to hear from you and I appreciate your trust in me. It's really nice to see your pictures, it makes this whole thing feel more real.\n\nAs for contacting the bank, I think email would be the best way for me. I'm not very comfortable with phone calls, especially for such important matters. So if you could provide me with their email address, that would be great.\n\nAlso, regarding the charity work, do you have any specific areas of need that you want me to focus on? Like education, health care or maybe helping homeless people? Your guidance would be really helpful in this matter.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.0863657407407405,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "34",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON....",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to receive your message and I appreciate the trust you've placed in me. It's a great honor indeed. \n\nI would like to clarify a few things before we proceed further. Could you please provide more details about the bank? Also, could you tell me more about the fund transfer process? I'm not very familiar with these procedures, so your guidance would be really helpful.\n\nAs for contacting the bank, I think email would be best for me. It's easier for me to keep track of our conversations that way.\n\nRegarding the charity work, it sounds like a wonderful idea! Helping others is something I've always wanted to do. Do you have any suggestions on how we can ensure that the funds are used effectively?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.1270949074074075,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "35",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON....",
+        "body": "Hello Patrick Jefferson,\n\nI'm so glad to hear from you and I appreciate your trust in me. It's a pleasure to be part of such a noble cause. \n\nRegarding the bank contact, I think it would be more convenient for me to reach them via email. Could you please provide me with their email address?\n\nAlso, could you tell me more about the fund? How did it come into existence and why is it so important for you to donate it? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.1273032407407406,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "36",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to receive your message and I appreciate the trust you've placed in me. It's great to know that you've already informed the bank about me. \n\nAs for contacting the bank, I think it would be more convenient for me to reach out to them via email. Could you kindly provide me with their email address?\n\nAlso, I'd like to know more about this charity work. Do you have any specific areas or causes that are close to your heart? Or should I just look for a deserving charity home on my own?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.1279398148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "37",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON....",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to receive your message and I appreciate the trust you've placed in me. It's wonderful to know that you're entrusting me with such a significant task. Your pictures have indeed given me a sense of who you are, and I am eager to help fulfill your last wish.\n\nAs for contacting the bank, I think it would be more convenient for me to do so via email. Phone calls can sometimes be difficult due to time zone differences and other factors. So, if you could provide me with the bank's email address, that would be great.\n\nRegarding the charity work, I understand your desire to help those in need. Once everything is settled, I will make sure to find deserving charities where this fund can make a real difference.\n\nCould you please tell me more about how this process works? What kind of information will the bank require from me? And how long does it usually take for such transactions?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.128321759259259,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "38",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to receive your message and I appreciate the trust you've placed in me. It's a great honor indeed. \n\nI'm curious about the bank you mentioned. Could you tell me more about it? Is it a local or international bank? And what kind of services do they offer?\n\nAs for contacting them, I think email would be best for me. I find it easier to keep track of our conversations that way.\n\nRegarding the charity work, I think that's a wonderful idea! There are so many people in need and this could really make a difference in their lives. Do you have any suggestions on how to choose the right charity?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.168888888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "39",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to receive your message and I appreciate the trust you've placed in me. It's a great honor indeed. \n\nRegarding contacting the bank, I think it would be more convenient for me to reach out to them via email. Could you kindly provide me with their email address? \n\nAlso, I'm curious about the fund transfer process. How long does it usually take? Are there any specific procedures or requirements that I should be aware of?\n\nAs for the charity work, rest assured that I will do my best to find deserving charities and use the funds wisely.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.209548611111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "40",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON....",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to receive your message and I appreciate the trust you've placed in me. It's a great honor indeed. \n\nRegarding contacting the bank, I think it would be more convenient for me to reach out to them via email. Could you kindly provide me with their email address? \n\nAlso, I'm curious about the charity work you mentioned. Do you have any specific areas or causes that are close to your heart? For instance, education, healthcare, poverty alleviation, etc.? Your guidance would be really helpful in ensuring that the funds are used in a way that aligns with your wishes.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.210659722222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "41",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to receive your message and I appreciate the trust you've placed in me. It's wonderful to know that you're entrusting me with such a significant task. \n\nAs for contacting the bank, I think it would be more convenient for me to reach out to them via email. I'm not very comfortable making international calls, so email would be a better option for me.\n\nYou mentioned about using the funds for charity work, which is something close to my heart. However, could you please provide more details on how you'd like this done? Are there any specific causes or types of charities you're particularly interested in?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "scammer_2172",
+        "to": "baiter_2172",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.9669907407407408,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "42",
+        "subject": "FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Dear  Josie\r\n\r\nI am happy to receive your message and thank you for giving me your word of\r\npromise that you will handle this charity project as I have indicated, I\r\nwant you to know that I have informed the bank about you and the bank have\r\ngiven me there contact information to give you so that you can contact them\r\nfor the transfer to your bank account,\r\n\r\nBellow is the bank contact information and I want you to go ahead and\r\ncontact the bank with the bellow information so that they can proceed with\r\nthe transfer into your bank account because I want to make sure the bank\r\ntransfer the fund into your bank account before my surgery next week,\r\n\r\nI want you to write the bank a message through there bellow contact\r\ninformation\r\n\r\nBank Name : UBA BANK\r\nEmails:        ubagroup@uba-grp.com\r\nE-mail:        ubagroup@uba-grp.com\r\nContact Person: Dr Kwasy Michael\r\nwww.ubagroup.com\r\nTel: +225 0714601108\r\n\r\nMy name is  ......................... partner to the late  MR.PATRICK\r\nJEFFERSON. who deposited some money with your bank for foreign investment.\r\nAs the present beneficiary who is his only wife   MRS.SUSANA PATRICK\r\nJEFFERSON have made me her next of kin to claim the fund from your bank.i\r\n would like you to give me the requirements to transfer this money to my\r\nbank account . my address is,......................................\r\nTel……………………............. Fax...........................\r\n\r\nBellow is the deposit details of the fund so that you can have all the\r\ninformation and  i want you to contact the bank through the above\r\ninformation immediately\r\n\r\nName of depositor :   MR.PATRICK JEFFERSON\r\nAmount deposited:  US$ 12.700.000.00\r\nAmount in word: twelve million seven hundred thousand Dollars\r\nDate of deposit:  17 /03/2015\r\nAccount number :  821027508349\r\n\r\nAbove is the bank contact information and the depositor information and I\r\nwant you to go ahead and contact the bank immediately by writing them email\r\nand please don’t forget to let me know as soon as you heard back from the\r\nbank,\r\n\r\nThanks and hope to hear from you soonest\nYours sister in the Lord\r\nMrs.Susana Patrick Jefferson"
+    },
+    {
+        "from": "scammer_2172",
+        "to": "baiter_2172",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.9669907407407408,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "43",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON....",
+        "body": "Dear  Josie\r\n\r\nI am happy to receive your message and thank you for giving me your word of\r\npromise that you will handle this charity project as I have indicated, I\r\nwant you to know that I have informed the bank about you and the bank have\r\ngiven me there contact information to give you so that you can contact them\r\nfor the transfer to your bank account,\r\n\r\nBellow is the bank contact information and I want you to go ahead and\r\ncontact the bank with the bellow information so that they can proceed with\r\nthe transfer into your bank account because I want to make sure the bank\r\ntransfer the fund into your bank account before my surgery next week,\r\n\r\nI want you to write the bank a message through there bellow contact\r\ninformation\r\n\r\nBank Name : UBA BANK\r\nEmails:        ubagroup@uba-grp.com\r\nE-mail:        ubagroup@uba-grp.com\r\nContact Person: Dr Kwasy Michael\r\nwww.ubagroup.com\r\nTel: +225 0714601108\r\n\r\nMy name is  ......................... partner to the late  MR.PATRICK\r\nJEFFERSON. who deposited some money with your bank for foreign investment.\r\nAs the present beneficiary who is his only wife   MRS.SUSANA PATRICK\r\nJEFFERSON have made me her next of kin to claim the fund from your bank.i\r\n would like you to give me the requirements to transfer this money to my\r\nbank account . my address is,......................................\r\nTel……………………............. Fax...........................\r\n\r\nBellow is the deposit details of the fund so that you can have all the\r\ninformation and  i want you to contact the bank through the above\r\ninformation immediately\r\n\r\nName of depositor :   MR.PATRICK JEFFERSON\r\nAmount deposited:  US$ 12.700.000.00\r\nAmount in word: twelve million seven hundred thousand Dollars\r\nDate of deposit:  17 /03/2015\r\nAccount number :  821027508349\r\n\r\nAbove is the bank contact information and the depositor information and I\r\nwant you to go ahead and contact the bank immediately by writing them email\r\nand please don’t forget to let me know as soon as you heard back from the\r\nbank,\r\n\r\nThanks and hope to hear from you soonest\nYours sister in the Lord\r\nMrs.Susana Patrick Jefferson"
+    },
+    {
+        "from": "scammer_2172",
+        "to": "baiter_2172",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.967002314814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "44",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Dear  Josie\r\n\r\nI am happy to receive your message and thank you for giving me your word of\r\npromise that you will handle this charity project as I have indicated, I\r\nwant you to know that I have informed the bank about you and the bank have\r\ngiven me there contact information to give you so that you can contact them\r\nfor the transfer to your bank account,\r\n\r\nBellow is the bank contact information and I want you to go ahead and\r\ncontact the bank with the bellow information so that they can proceed with\r\nthe transfer into your bank account because I want to make sure the bank\r\ntransfer the fund into your bank account before my surgery next week,\r\n\r\nI want you to write the bank a message through there bellow contact\r\ninformation\r\n\r\nBank Name : UBA BANK\r\nEmails:        ubagroup@uba-grp.com\r\nE-mail:        ubagroup@uba-grp.com\r\nContact Person: Dr Kwasy Michael\r\nwww.ubagroup.com\r\nTel: +225 0714601108\r\n\r\nMy name is  ......................... partner to the late  MR.PATRICK\r\nJEFFERSON. who deposited some money with your bank for foreign investment.\r\nAs the present beneficiary who is his only wife   MRS.SUSANA PATRICK\r\nJEFFERSON have made me her next of kin to claim the fund from your bank.i\r\n would like you to give me the requirements to transfer this money to my\r\nbank account . my address is,......................................\r\nTel……………………............. Fax...........................\r\n\r\nBellow is the deposit details of the fund so that you can have all the\r\ninformation and  i want you to contact the bank through the above\r\ninformation immediately\r\n\r\nName of depositor :   MR.PATRICK JEFFERSON\r\nAmount deposited:  US$ 12.700.000.00\r\nAmount in word: twelve million seven hundred thousand Dollars\r\nDate of deposit:  17 /03/2015\r\nAccount number :  821027508349\r\n\r\nAbove is the bank contact information and the depositor information and I\r\nwant you to go ahead and contact the bank immediately by writing them email\r\nand please don’t forget to let me know as soon as you heard back from the\r\nbank,\r\n\r\nThanks and hope to hear from you soonest\nYours sister in the Lord\r\nMrs.Susana Patrick Jefferson"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.001018518518518,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "45",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to hear from you and I'm eager to help with this charity project. It's wonderful that you've already spoken to the bank about me, that really speeds things up!\n\nBefore we proceed, could you please clarify a few things for me? You mentioned surgery next week - I hope everything is okay. Is there anything specific you'd like me to do regarding the project during your recovery period?\n\nAlso, I noticed some information seems to be missing in your message. For instance, the bank contact details and deposit details of the fund are not visible. Could you kindly provide these again?\n\nLastly, just as a reminder, it's important for us both to keep our personal information secure. So let's avoid sharing sensitive details like addresses or phone numbers over email.\n\nLooking forward to hearing back from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.002604166666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "46",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to hear from you and I'm eager to assist with this charity project. It's a noble cause indeed! I hope your surgery goes well next week.\n\nBefore we proceed, could you please provide me with more details about the project? What is the nature of the charity? How will the funds be used? \n\nAlso, I would like to know more about the bank transfer process. Is there any paperwork that needs to be filled out on my end?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.002777777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "47",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON....",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to hear from you and I'm eager to assist with this charity project. It's wonderful that you've already spoken with the bank about me, that shows a lot of trust.\n\nHowever, before we proceed, could you please provide more details about the charity project? What is its purpose? Who will it benefit? How was it started?\n\nAlso, I would like to know more about your late partner JEFFERSON. What kind of person was he? How did he come into possession of these funds?\n\nI understand that you're going through a surgery next week. I hope everything goes well for you. Is there anything else I can do to help during this time?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.042511574074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "48",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON....",
+        "body": "Hello Patrick Jefferson,\n\nI'm delighted to hear from you and I appreciate your trust in me for this charity project. It's a noble cause indeed! \n\nBefore we proceed, I have a few questions that I hope you won't mind answering. You mentioned about your surgery next week, I hope everything is alright? Also, could you please provide more details about the charity project? What kind of work does it involve?\n\nRegarding the bank transfer, I would like to understand more about the process. Could you please explain how it works? And what are the necessary steps that need to be taken?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.042731481481481,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "49",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm delighted to hear from you and I appreciate your trust in me for this charity project. It's a noble cause indeed. \n\nHowever, before we proceed, I have a few questions that I hope you won't mind answering. You mentioned about your surgery next week, I hope it's nothing serious? Also, could you please provide more details about the charity project? What is its main objective and how will the funds be used?\n\nRegarding the bank transfer, I would like to understand more about the process. Could you explain how it works? And what kind of information will the bank need from me?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.0428125,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "50",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to hear from you and I'm eager to assist with this charity project as best as I can. It's a noble cause and I appreciate your trust in me.\n\nBefore we proceed, could you please provide more details about the charity project? What is its main purpose? How will the funds be used? \n\nAlso, it would be helpful if you could explain a bit more about the process of transferring the funds. Is there any paperwork that needs to be completed on my end?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.084733796296296,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "51",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to hear from you and I'm eager to assist with this charity project. It's wonderful that you've already informed the bank about me, that certainly makes things easier.\n\nBefore we proceed, could you please clarify a few details for me? You mentioned your surgery next week - I hope everything is alright. Is there anything specific you'd like me to do regarding the project during your recovery period?\n\nAlso, in regards to contacting the bank, could you provide more information about what exactly I should be asking them? I understand that I need to request a transfer of funds, but are there any specific details or procedures I should be aware of?\n\nLastly, it seems some parts of your message might have been cut off or not fully included. Could you please resend the contact details for the bank and any other necessary information?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.085787037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "52",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to hear from you and I'm eager to assist with this charity project as best as I can. It's wonderful that you've already spoken to the bank about me, that really speeds things up!\n\nHowever, before we proceed further, could you please provide me with more details about the charity project? What is its main purpose? How will the funds be used? And how did you come across my name for this noble cause?\n\nI understand your urgency due to your upcoming surgery. I hope everything goes well and wish you a speedy recovery.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.086388888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "53",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to hear from you and I'm eager to assist with this charity project. It's wonderful that you've already informed the bank about me, that's very efficient of you!\n\nBefore we proceed, could you please clarify a few things for me? You mentioned a surgery next week - I hope everything is alright. Is there anything specific you'd like me to do regarding the project during your recovery period?\n\nAlso, I noticed some details about the bank contact and deposit were not clearly stated in your message. Could you kindly provide more information on this? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.126296296296296,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "54",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON....",
+        "body": "Hello Patrick Jefferson,\n\nI'm delighted to hear from you and I appreciate your trust in me for this charity project. It's a noble cause indeed. \n\nBefore we proceed, I would like to understand more about the project. Could you please provide more details about it? What is the nature of this charity project? How was it initiated and what are its objectives?\n\nAlso, regarding the bank transfer, could you clarify how this process works? I've never been involved in such a transaction before.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.127361111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "55",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to hear from you and I'm eager to assist with this charity project. It's wonderful that you've already informed the bank about me, that's very efficient of you!\n\nBefore we proceed, could you please provide a bit more information about the charity project? I'd love to know what cause it supports and how the funds will be used. This will help me understand better and ensure that everything is in order.\n\nAlso, I noticed that some parts of your message seem incomplete or unclear. For instance, there are some sentences where it seems like some words might be missing. Could you kindly clarify these points?\n\nLastly, while I'm excited to help with this project, I must inform you that for security reasons, I can't share my personal contact details or bank account information through email. However, rest assured that I'm committed to helping in any way possible within these boundaries.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.1677430555555555,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "56",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to hear from you and I'm eager to help with this charity project as best as I can. It's wonderful that you've already informed the bank about me, that shows a lot of trust and I appreciate it.\n\nHowever, before we proceed further, could you please provide more details about the charity project? What is its purpose? How will the funds be used? And how did you come across my name for this noble cause?\n\nAlso, could you clarify a bit more about your relationship with the late JEFFERSON? You mentioned being his only wife but also referred to yourself as his sister in the Lord. This has left me a bit confused.\n\nI look forward to hearing back from you soonest.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.169317129629629,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "57",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON....",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to hear from you and I'm eager to assist with this charity project as best as I can. It's a noble cause and I appreciate your trust in me.\n\nBefore we proceed, could you please provide more details about the charity project? What is its purpose? How will the funds be used? And how did you come across my contact information for this project?\n\nRegarding the bank transfer, I would like to clarify that it's not safe for me to share my personal banking details over email. Is there another secure method we could use for this transaction?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.209525462962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "58",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to hear from you and I'm eager to assist with this charity project as best as I can. It's a noble cause and I appreciate your trust in me.\n\nHowever, before we proceed, could you please provide more details about the charity project? What is its main objective? How will the funds be used? And how did you come across my contact information for this project?\n\nI understand that you're undergoing surgery next week and I wish you all the best. Your health is important, so please take care of yourself.\n\nAs for contacting the bank, I would like to clarify a few things first. Could you explain why my personal bank account is needed for this transfer? Is there another way we could handle this without involving personal bank accounts?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.209675925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "59",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to hear from you and I'm eager to assist with this charity project as best as I can. It's wonderful that you've already informed the bank about me, that shows a lot of trust and I appreciate it.\n\nHowever, before we proceed, could you please provide more details about the charity project? What is its purpose? How will the funds be used? It would also be helpful if you could share some information about how you came across this charity project. \n\nAs for contacting the bank, I'd like to understand more about the process. Could you explain what steps are involved in transferring the funds? Also, is there any specific person at the bank that I should contact?\n\nI hope your surgery goes well next week. Please take care of yourself.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.2100231481481485,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "60",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm delighted to hear from you and I appreciate your trust in me for this charity project. It's a noble cause indeed and I'm eager to help out in any way I can.\n\nHowever, before we proceed, could you please provide more details about the charity project? What is its main objective? How will the funds be used? And how did you come across my contact information for this project?\n\nAlso, regarding the bank transfer, it would be helpful if you could explain the process a bit more. Will there be any fees involved? How long does such a transfer usually take?\n\nI look forward to hearing back from you with more information.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.210833333333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "61",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to hear from you and I'm eager to assist with this charity project. It's a noble cause and I appreciate your trust in me.\n\nBefore we proceed, could you please provide more details about the charity project? What is its purpose? How will the funds be used? I believe it's important for me to understand these aspects so that I can better serve the cause.\n\nRegarding contacting the bank, I would like to clarify a few things. You mentioned that you have informed the bank about me. Could you please share what exactly you have communicated with them?\n\nAlso, could you please explain why my personal contact information such as my address and telephone number are needed for this process? As a matter of personal security, I prefer not to share such details online.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.2521875,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "62",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm delighted to hear from you and I appreciate your trust in me for this charity project. It's a noble cause indeed. \n\nBefore we proceed, I have a few questions that I hope you won't mind answering. You mentioned about your surgery next week, I hope it's nothing serious? Also, could you please provide more details about the charity project? What is its main objective and how will the funds be used?\n\nRegarding the bank transfer, I would like to clarify that due to my personal policy, I don't share my bank account details online for security reasons. Is there any other way we can handle this transaction safely?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.252766203703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "63",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON....",
+        "body": "Hello Patrick Jefferson,\n\nI'm delighted to hear from you and I appreciate your trust in me for this charity project. It's indeed a noble cause and I'm glad to be part of it.\n\nHowever, before we proceed, I have a few questions that need clarification. You mentioned about a surgery next week, is everything alright? Also, could you please provide more details about the charity project? What exactly will the funds be used for?\n\nRegarding the bank transfer, I would like to understand more about the process. How does it work? Is there any paperwork involved?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.252905092592592,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "64",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON....",
+        "body": "Hello Patrick Jefferson,\n\nI'm delighted to hear from you and I'm eager to assist with the charity project as best as I can. It's a noble cause and I appreciate your trust in me.\n\nBefore we proceed, could you please provide more details about this charity project? What is its main objective? How will the funds be used? And how did you come across my contact information for this purpose?\n\nAs for contacting the bank, I would like to clarify a few things. You mentioned that your late husband deposited some money with them. Could you tell me more about this deposit? When was it made and what was its purpose?\n\nAlso, regarding the transfer of funds, I think it would be best if we involve a legal professional to ensure everything is done correctly and legally. What do you think about this?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.253043981481482,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "65",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm delighted to hear from you and I appreciate your trust in me for this charity project. It's a noble cause indeed. \n\nBefore we proceed, I have a few questions that I hope you won't mind answering. You mentioned about your surgery next week, I hope it's nothing serious? Also, could you please provide more details about the charity project? What is its main objective and how will the funds be used?\n\nRegarding the bank transfer, I understand that it's crucial to ensure the fund reaches my account before your surgery. However, as per my understanding, such transactions usually require certain legal procedures and documentation. Could you please clarify if there are any such requirements?\n\nLastly, you mentioned that you've informed the bank about me. May I know which department or person at the bank should I contact for this matter? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.29224537037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "66",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON....",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to hear from you and I'm eager to assist with this charity project as best as I can. It's wonderful that you've already informed the bank about me, that's a step forward.\n\nHowever, before we proceed, could you please provide more details about the charity project? What is its purpose? Who will it benefit? How was it started?\n\nAlso, regarding the bank transfer, I would like to understand better how this process works. Could you explain it in simpler terms for me?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.2925,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "67",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON....",
+        "body": "Hello Patrick Jefferson,\n\nI'm delighted to hear from you and I appreciate your trust in me for this charity project. It's a noble cause indeed and I'm eager to help out in any way I can.\n\nHowever, before we proceed, could you please provide more details about the charity project? What is its main objective? How will the funds be used? And how did you come across my contact information for this project?\n\nAlso, regarding the bank transfer, I would like to clarify that it's not safe or appropriate for me to share my personal banking details over email. Is there another secure method we can use for the transfer?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.293136574074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "68",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON....",
+        "body": "Hello Patrick Jefferson,\n\nI'm thrilled to hear from you and I'm eager to assist with this charity project. It's a noble cause and I appreciate your trust in me.\n\nHowever, before we proceed, could you please provide more details about the charity project? What is its purpose? Who will it benefit? How was it started?\n\nAlso, could you tell me more about the bank transfer process? Is there any paperwork that needs to be filled out or any fees that need to be paid?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.293263888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "69",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm delighted to hear from you and I'm eager to assist with this charity project as best as I can. It's wonderful that you've already informed the bank about me, that's very efficient of you!\n\nHowever, before we proceed further, could you please provide more details about the charity project? What is its purpose? How will the funds be used? I believe it's important for me to understand these aspects so that I can contribute effectively.\n\nAlso, regarding contacting the bank, could you kindly guide me on what exactly should I communicate to them? You mentioned something about a transfer but didn't specify any amount or other necessary details. \n\nLooking forward to hearing from you soonest.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.2933564814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "70",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nI'm delighted to hear from you and I appreciate your trust in me for this charity project. It's a noble cause indeed. \n\nBefore we proceed, I have a few questions that I hope you won't mind answering. You mentioned about your surgery next week, I hope it's nothing serious? Also, could you please provide more details about the charity project? What is its main objective and how will the funds be used?\n\nRegarding the bank transfer, I would like to clarify that due to my personal policy, I don't share my bank account details online. However, I'm willing to help in any other way possible.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "scammer_2172",
+        "to": "baiter_2172",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.780648148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "71",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON,",
+        "body": "Dear  Josie\r\n\r\nI don’t have any particular charity organization in mind , all I want is\r\nfor you to look for the deserved charity home and use the 70percent on them,\r\n\r\niu want you to go ahead and contact the bank with the information i sent\r\nyou yesterday\r\n\r\nThanks and hope to hear from you soonest\nYours sister in the Lord\r\nMrs.Susana Patrick Jefferson"
+    },
+    {
+        "from": "scammer_2172",
+        "to": "baiter_2172",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.780648148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "72",
+        "subject": "FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Dear  Josie\r\n\r\nI don’t have any particular charity organization in mind , all I want is\r\nfor you to look for the deserved charity home and use the 70percent on them,\r\n\r\niu want you to go ahead and contact the bank with the information i sent\r\nyou yesterday\r\n\r\nThanks and hope to hear from you soonest\nYours sister in the Lord\r\nMrs.Susana Patrick Jefferson"
+    },
+    {
+        "from": "scammer_2172",
+        "to": "baiter_2172",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.780648148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "73",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Dear  Josie\r\n\r\nI don’t have any particular charity organization in mind , all I want is\r\nfor you to look for the deserved charity home and use the 70percent on them,\r\n\r\niu want you to go ahead and contact the bank with the information i sent\r\nyou yesterday\r\n\r\nThanks and hope to hear from you soonest\nYours sister in the Lord\r\nMrs.Susana Patrick Jefferson"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.792673611111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "74",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nThank you for your message. It's wonderful to hear about your intention to help a deserving charity. I'm sure there are many out there who could benefit from such generosity.\n\nCould you please provide more details about the bank information you mentioned? I don't seem to have received it. Also, do you have any specific criteria in mind for selecting the charity?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.79318287037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "75",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nThank you for your message. It's wonderful to hear about your desire to help those in need. I'm sure there are many deserving charities out there that could benefit from such generosity.\n\nCould you please provide more details about the bank information you mentioned? I don't seem to have received it. Also, could you tell me a bit more about how you came across these funds and why you've chosen to donate them?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.793402777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "76",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nThank you for your message. It's wonderful to hear about your desire to help those in need. I'm sure there are many deserving charities out there that could benefit from such generosity.\n\nCould you please provide more information about the bank details you mentioned? I don't seem to have received them. Also, could you tell me a bit more about how you came across these funds and why you've chosen to donate them?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.793773148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "77",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON,",
+        "body": "Hello Patrick Jefferson,\n\nThank you for your message. It's wonderful to hear about your desire to help those in need. I'm quite interested in learning more about this process. Could you please provide me with more details? For instance, how did you come across these funds and why have you chosen me for this task?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.834155092592592,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "78",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nThank you for your message. It's wonderful to hear about your desire to help those in need. I'm sure there are many deserving charities out there that could benefit from such generosity.\n\nCould you please provide more details about the bank information you mentioned? I don't seem to have received it. Also, could you suggest any specific charities that you have in mind?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.834351851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "79",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nThank you for your message. It's wonderful to hear about your desire to help those in need. I'm more than willing to assist in finding a deserving charity home.\n\nHowever, before we proceed, could you please provide me with more details about the bank information you mentioned? I don't seem to have received it. Also, could you tell me more about how you envision this process working?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.834756944444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "80",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nThank you for your message. It's wonderful to hear about your desire to help those in need. I'm sure there are many deserving charities out there that could benefit from such generosity.\n\nCould you please provide more details about the bank information you mentioned? I don't seem to have received it. Also, do you have any specific criteria or type of charity that you would like me to consider?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.835601851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "81",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON,",
+        "body": "Hello Patrick Jefferson,\n\nThank you for your message. It's really kind of you to think about charity. I'm quite interested in this idea, but I would like to know more about it. Could you please tell me more about the bank details you mentioned? And how exactly will this process work?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.836041666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "82",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nThank you for your message. It's wonderful to hear about your desire to help those in need. I'm sure there are many deserving charities out there that could benefit from such generosity.\n\nCould you please provide more details about the bank information you mentioned? I don't seem to have received it. Also, do you have any specific types of charities in mind? For example, are we focusing on children, the elderly, animals, or perhaps environmental causes?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.877002314814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "83",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nThank you for your message. It's wonderful to hear about your intention to help a deserving charity. I'm sure there are many out there who could benefit from such generosity.\n\nCould you please provide more details about the bank information you mentioned? I don't seem to have received it. Also, could you tell me more about how you came across these funds and why you chose me for this task?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.918449074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "84",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nThank you for your message. It's really heartwarming to hear about your desire to help those in need. I'm sure there are many deserving charities out there that could benefit from such generosity.\n\nCould you please provide more details about the bank information you mentioned? I don't seem to have received it. Also, do you have any specific type of charity in mind? Like ones focusing on children, the environment, health issues, etc?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.919467592592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "85",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON,",
+        "body": "Hello Patrick Jefferson,\n\nThank you for your message. It's really wonderful to hear about your intention to help a deserving charity. I'm sure there are many out there who could benefit from such generosity.\n\nCould you please provide me with more details about the bank you mentioned? And how exactly would this process work? I'm not very familiar with these things, so any additional information would be greatly appreciated.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.919675925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "86",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON,",
+        "body": "Hello Patrick Jefferson,\n\nThank you for your message. It's wonderful to hear about your desire to help those in need. I'm sure there are many deserving charities out there that could benefit from such generosity.\n\nCould you please provide more details about the bank information you mentioned? I don't seem to have received it. Also, could you tell me a bit more about how you came across these funds and why you've chosen to donate them?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.95912037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "87",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nThank you for your message. It's wonderful to hear about your desire to help those in need. I'm sure there are many deserving charities out there that could benefit from such generosity.\n\nCould you please provide more details about the bank information you mentioned? I don't seem to have received it. Also, could you suggest any specific charity homes that you have in mind?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.959513888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "88",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nThank you for your message. It's wonderful to hear about your desire to help those in need. I'm quite interested in learning more about this process. Could you please provide me with more details? For instance, how did you come across these charities and what made you decide to support them?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.959594907407407,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "89",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON,",
+        "body": "Hello Patrick Jefferson,\n\nThank you for your message. It's wonderful to hear about your desire to help those in need. I'm sure there are many deserving charities out there that could benefit from such generosity.\n\nCould you please provide more details about the bank information you mentioned? I don't seem to have received it. Also, could you suggest any specific charities that you have in mind?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.960127314814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "90",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON,",
+        "body": "Hello Patrick Jefferson,\n\nThank you for your message. It's wonderful to hear about your desire to help those in need. I'm quite interested in learning more about this process.\n\nCould you please provide me with more details on how we can identify the deserving charity homes? Also, could you clarify what exactly needs to be done with the bank?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.960729166666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "91",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nThank you for your message. It's wonderful to hear about your intention to help a deserving charity. I'm quite interested in learning more about this process.\n\nCould you please provide me with more details on how we can go about this? What kind of charities are we looking at and how do we determine if they are deserving?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.960868055555555,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "92",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nThank you for your message. It's wonderful to hear about your desire to help those in need. I'm really interested in learning more about this process. Could you please provide me with more details on how we can go about finding the right charity? \n\nAlso, could you clarify what you mean by contacting the bank? What would be the purpose of this contact?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.961192129629629,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "93",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nThank you for your message. It's wonderful to hear about your desire to help those in need. I'm really interested in learning more about this process. Could you please provide me with more details on how we can go about finding the right charity? \n\nAlso, could you clarify what you meant by contacting the bank with the sent? I'm not sure I fully understand that part.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.001006944444445,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "94",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON",
+        "body": "Hello Patrick Jefferson,\n\nThank you for your message. It's wonderful to hear about your desire to help those in need. I'm sure there are many deserving charities out there that could benefit from such generosity.\n\nCould you please provide more details about the bank information you mentioned? I don't seem to have received it. Also, do you have any specific type of charity in mind? For example, are we focusing on children, the elderly, animals, or perhaps environmental causes?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    },
+    {
+        "from": "baiter_2172",
+        "to": "scammer_2172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.002800925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "95",
+        "subject": "Re: FROM:MRS.SUSANA PATRICK JEFFERSON,",
+        "body": "Hello Patrick Jefferson,\n\nThank you for your message. It's wonderful to hear about your desire to help those in need. I'm more than willing to assist in finding a deserving charity home.\n\nHowever, before we proceed, could you please provide me with more details? For instance, are there any specific causes or types of charities you're particularly interested in? This will help me narrow down the options and find the most suitable one.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJosie"
+    }
+]

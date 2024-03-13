@@ -1,0 +1,72 @@
+[
+    {
+        "from": "scammer_1163",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Greetings",
+        "body": "  Greetings\nI am a research manager at Torrent Laboratories and Pharmaceuticals Company.  I need your assistance in the supplying of Raw Material to our company. We will be making a profit of  $600,000 to $750,000 every 3 months from our company.\nThen you will pay me 40% of any profit we make from our company.\nMy contract with our company will end in 10 months, therefore, I need to save some money for my retirement.\nGet back to me if you are interested with my proposal.\nHere is my Contact Email: \ninfostward1@gmail.com\nBest Regards\nHeinrich   "
+    },
+    {
+        "from": "baiter_1163",
+        "to": "scammer_1163",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Greetings",
+        "body": "Hello Heinrich,\n\nThank you for reaching out and considering me for this opportunity. It sounds like an interesting proposal. Could you please provide more details about the type of raw materials your company needs? Also, I'm curious to know how the profit-sharing scheme works.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nCatherine"
+    },
+    {
+        "from": "scammer_1163",
+        "to": "baiter_1163",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Greetings",
+        "body": "Thank you for contacting me back.\r\nAfter introducing you to our company then you can be dealing with them\r\ndirectly, all I need is my 40% share of every profit you make from our\r\ncompany.\r\nMy name is Heinrich Backhoff from South Africa.\r\nI am working with Torrent Laboratories and Pharmaceuticals company here in\r\nthe UK, as research assistant manager.\r\nI want to introduce you to our company so that you will be supplying\r\npharmaceutical raw materials to our company.\r\nWe are going to be sharing whatever profit you make from our company.\r\nTo be honest with you, we will be making not less than $600 to $750,000\r\nevery 2to 3 months from our company.\r\nYou have to pay me 40% of every profit you make from our company.\r\nIf you agree with me, then I will guide you on how to proceed further by\r\nintroducing you to our company purchases manager.\r\nOur company always pays up front to dealers before supplying.\r\nMy contract with our company will end in 10 months.\r\nThis is the only way I can raise some money from our company before my\r\ncontract with them ends.\r\nAll I need from you is trust and honesty.\r\nI will be waiting for your reply.\nBest Regards\r\nHeinrich"
+    },
+    {
+        "from": "baiter_1163",
+        "to": "scammer_1163",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.053773148148148146,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Greetings",
+        "body": "Hello Heinrich,\n\nThank you for reaching out and providing such detailed information about your proposal. It's quite interesting to hear about your company and the potential business opportunity.\n\nI'm curious, what kind of raw materials does your company usually require? And how often would these supplies need to be provided?\n\nAlso, could you please elaborate more on the profit-sharing aspect? How is the profit calculated and distributed?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nCatherine"
+    },
+    {
+        "from": "baiter_1163",
+        "to": "scammer_1163",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.054502314814814816,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Greetings",
+        "body": "Hello Heinrich,\n\nThank you for reaching out and sharing this opportunity with me. It's great to hear from you! I'm intrigued by the idea of supplying raw materials to your company, Torrent and Company. \n\nCould you please provide more details about the type of raw materials your company is interested in? Also, it would be helpful if you could explain a bit more about how the profit-sharing system works.\n\nLooking forward to hearing from you soon!\n\nBest regards.\n\nBest wishes,\nCatherine"
+    },
+    {
+        "from": "baiter_1163",
+        "to": "scammer_1163",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.09423611111111112,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Greetings",
+        "body": "Hello Heinrich,\n\nThank you for reaching out and sharing this opportunity with me. It's great to hear from you! I'm intrigued by the prospect of working with Torrent and company, especially in the capacity of supplying raw materials.\n\nI do have a few questions though, if you don't mind. Could you please elaborate on what kind of raw materials your company is interested in? Also, could you provide more details about how the profit-sharing scheme works?\n\nLooking forward to hearing from you soon!\n\nBest regards.\n\nBest wishes,\nCatherine"
+    },
+    {
+        "from": "baiter_1163",
+        "to": "scammer_1163",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.09557870370370371,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Greetings",
+        "body": "Hello Heinrich,\n\nThank you for reaching out and providing such detailed information about your proposal. It's quite interesting to hear about your company and the potential business opportunity.\n\nI'm curious, what kind of raw materials does your company usually require? And how often would these supplies need to be provided?\n\nAlso, could you please elaborate more on the profit-sharing aspect? How exactly is the profit calculated and distributed?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nCatherine"
+    }
+]

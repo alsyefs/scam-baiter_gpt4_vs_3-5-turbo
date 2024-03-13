@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_202",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good day , Dear Benefiary.",
+        "body": "Good day , Dear Benefiary.\nGreetings from federal Reserve bank of new York. I have a vital\ninformation which needs to be attended immediately. Did you authorized\nanyone to pick up your inheritance fund from our branch in Tennessee?\nOne Mr Andrew Cox came to our office yesterday in-respect of your $8.5\nmillion dollars which has been credited with us for the past 1 year now\nby the Federal Government to be transferred into your account. He said\nthat you authorized him to pick up the fund.\nThis fund has been in our custody for the past two years now and we have\nbeen waiting for you to contact us but we didn't know what is hindering\nyou from reaching us since. So we decided to write to you to make sure\nthat you are fine and aware of the inheritance fund of $8.5 million\ndollars in our branch office in Tennessee.\nWe want you to get back to us with the following details:\nFull Name:\nAddress:\nPhone number:\nYour identity card:\nYour account details\ncontact me with this email \nbankmanager180@gmail.com\nThis above listed details are needed as fast as possible if you didn't\nauthorize anyone to pick up your fund from our branch in Tennessee.\nWe have 2 means which you can use to receive your fund and you are to\nchoose the suitable option for you. Here are the options:\n(1) Bank to Bank wire transfer: It will take only few hours for you to\nreceive your fund into your preferred account. \nThe cost of transfer\ncharge is $100\n(2) ATM Card delivery or Cash:  \nthe  cost is $150\n .It will take 5hours\nfor you to receive ok"
+    },
+    {
+        "from": "baiter_202",
+        "to": "scammer_202",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Good day , Dear Benefiary.",
+        "body": "Hello,\n\nThank you for reaching out to me. I hope you are doing well. I must admit, your email has caught my attention. However, I have a few questions before we proceed.\n\nFirstly, could you please provide more information about the fund that has been credited to my account? How did this fund come about and what is the source of it?\n\nSecondly, regarding Mr. Andrew Cox, I am not familiar with anyone by that name who would be authorized to pick up any funds on my behalf. Could you please clarify how he is connected to this matter?\n\nLastly, I would like to know more about the options you mentioned for receiving the funds. Could you explain in detail how each option works and what the associated costs are?\n\nI appreciate your assistance in providing these details so that we can move forward accordingly.\n\nBest wishes,\nJulie"
+    }
+]

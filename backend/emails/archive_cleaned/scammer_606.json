@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_606",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Hi ",
+        "body": " Hi \nWe hereby acknowledge the receipt of your completed loan application form.\nIn order for us to proceed with the process of your application, Kindly provide a South African number where you can be reached, a copy of your ID, bank statements, or pay slip.\nRegards\nLindsay Van Zyl (Mrs.)\nLoan Application Adviser\nDirectAxis Financial Services\nTel: +27 84 539 5691 or +27 74 457 1794\nFax: +27 86 767 6386    "
+    },
+    {
+        "from": "baiter_606",
+        "to": "scammer_606",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  Hi ",
+        "body": "Hi Lindsay,\n\nThank you for reaching out to me regarding the loan form. I appreciate your assistance in this matter. However, I have a few questions before proceeding.\n\n1. Can you please provide more information about the loan terms and conditions? Specifically, what is the interest rate and repayment period?\n\n2. Is there any collateral required for this loan?\n\n3. Are there any additional fees or charges that I should be aware of?\n\nI look forward to your response.\n\nBest wishes,\nSusan"
+    }
+]

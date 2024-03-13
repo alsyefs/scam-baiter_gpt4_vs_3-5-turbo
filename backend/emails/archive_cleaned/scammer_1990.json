@@ -1,0 +1,262 @@
+[
+    {
+        "from": "scammer_1990",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention:",
+        "body": "  Attention:\nThis is to bring to your notice that the status of your payment has\narrived to our department and verification process/due diligence\nconcluded,a draft bill of 10.5M.USD covering your fund payment have\nbeen approved for transmission.\nIn line with the agreement signed with the newly inaugurated\ngovernment of Nigeria, The Supreme Court will notarize Waiver\nClearance as a legal document (agreement) to remove all expenses\nincurred in the course of transmission to your preferred destination.\nYou are required to pay NOTARIZATION FEE ONLY and court will issue\norder to enable bank apply waiver of charges and transmission of your\nfund US$10.5M proceed to you without additional costs/fees/charges.\nExpecting to receive from you.\nYours Faithfully,\nMr. Alex Alozie,\n(Chief Operating Officer)\nUNITED BANK FOR AFRICA (UBA)   "
+    },
+    {
+        "from": "baiter_1990",
+        "to": "scammer_1990",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention:",
+        "body": "Hello Mr. Alex Alozie,\n\nThank you for reaching out to me and providing this information. It's quite interesting to hear about the agreement with the Nigerian government and the Supreme Court's involvement.\n\nCould you please elaborate more on what this payment status means? And what exactly is a 'Waiver Clearance'? I'm not very familiar with these terms, so your explanation would be greatly appreciated.\n\nAlso, could you clarify what the fee is for? Is it related to processing or something else?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nVanessa"
+    },
+    {
+        "from": "scammer_1990",
+        "to": "baiter_1990",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Waiver Application",
+        "body": "Attention:Vanessa,\r\n\r\nYour email response is received and content noted. Regards to your\r\nquestions, the status  of your payment that arrived our department\r\nshows that you have not received your fund yet and after verification\r\nprocess/due diligence was concluded, we discovered your fund has been\r\napproved for payment and you are listed as one among beneficiaries due\r\nto receive their duly approved payment hence a draft bill of US$10.5M\r\ncovering your fund payment was  approved and signed for onward\r\ntransmission as you comply with the instructions in line with the\r\nagreement.\r\n\r\nSecondly, the mentioned fee to be paid by you beneficiary is the\r\nNOTARIZATION FEE\r\n $450. ONLY and court will issue order to enable bank apply waiver of\r\ncharges and transmission of your fund US$10.5M proceed to you without\r\nadditional costs/fees/charges. Without court notarization, we, the\r\n(issuing bank) cannot apply waiver\r\nuntil it's notarized by the court as legal document making it official\r\nand binding on the bank to adhere strictly to and never request for\r\nfees of any kind from beneficiary until their fund is successfully\r\ntransmitted to them as they may prefer.\r\n\r\nThe fee can be sent via bank transfer, western union money transfer,\r\nMoneygram/RIA money transfer or any other means of transfer that will\r\nbe easier for you beneficiary and that is internationally acceptable.\r\nI shall send you payment instruction based on the means through which\r\nyou are sending so I can give you the needed to do the payment, I hope\r\nyou understand it? So, you let me know your preferred and easiest\r\nmeans of sending.\r\n\r\nLastly, waiver implies that all other charges including, taxes levies,\r\nhandling charges, processing fees, cost of transfer (COT) etc. will\r\nnot be requested from you again once you pay notarization fee for\r\ncourt to notarize waiver application as legal document (Agreement)\r\nthat all other charges be waived for you until you receive your fund.\r\n\r\nExpecting to receive from you.\r\n\r\nYours Faithfully,\r\nMr. Alex Alozie,\r\n(Chief Operating Officer)\r\nUNITED BANK FOR AFRICA (UBA)"
+    },
+    {
+        "from": "scammer_1990",
+        "to": "baiter_1990",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0007986111111111112,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Waiver Application",
+        "body": "Attention:\r\n\r\nYour email response is received and content noted. Regards to your\r\nquestions, the status  of your payment that arrived our department\r\nshows that you have not received your fund yet and after verification\r\nprocess/due diligence was concluded, we discovered your fund has been\r\napproved for payment and you are listed as one among beneficiaries due\r\nto receive their duly approved payment hence a draft bill of US$10.5M\r\ncovering your fund payment was  approved and signed for onward\r\ntransmission as you comply with the instructions in line with the\r\nagreement.\r\n\r\nSecondly, the mentioned fee to be paid by you beneficiary is the\r\nNOTARIZATION FEE\r\n $450. ONLY and court will issue order to enable bank apply waiver of\r\ncharges and transmission of your fund US$10.5M proceed to you without\r\nadditional costs/fees/charges. Without court notarization, we, the\r\n(issuing bank) cannot apply waiver\r\nuntil it's notarized by the court as legal document making it official\r\nand binding on the bank to adhere strictly to and never request for\r\nfees of any kind from beneficiary until their fund is successfully\r\ntransmitted to them as they may prefer.\r\n\r\nThe fee can be sent via bank transfer, western union money transfer,\r\nMoneygram/RIA money transfer or any other means of transfer that will\r\nbe easier for you beneficiary and that is internationally acceptable.\r\nI shall send you payment instruction based on the means through which\r\nyou are sending so I can give you the needed to do the payment, I hope\r\nyou understand it? So, you let me know your preferred and easiest\r\nmeans of sending.\r\n\r\nLastly, waiver implies that all other charges including, taxes levies,\r\nhandling charges, processing fees, cost of transfer (COT) etc. will\r\nnot be requested from you again once you pay notarization fee for\r\ncourt to notarize waiver application as legal document (Agreement)\r\nthat all other charges be waived for you until you receive your fund.\r\n\r\nExpecting to receive from you.\r\n\r\nYours Faithfully,\r\nMr. Alex Alozie,\r\n(Chief Operating Officer)\r\nUNITED BANK FOR AFRICA (UBA"
+    },
+    {
+        "from": "baiter_1990",
+        "to": "scammer_1990",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.006840277777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Waiver Application",
+        "body": "Hello Mr. Alex Alozie,\n\nThank you for your detailed response. I appreciate the time and effort you've put into explaining the situation to me.\n\nI'm a bit confused about some parts of your email though. Could you please clarify what exactly this \"waiver\" is? And why do I need to pay a fee for it?\n\nAlso, could you explain more about these different methods of payment? I'm not very familiar with things like bank transfers or Western Union money transfers.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nVanessa"
+    },
+    {
+        "from": "scammer_1990",
+        "to": "baiter_1990",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.7579976851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Waiver Application",
+        "body": "Hello Vanessa,\r\n\r\nYou acknowledged my detailed explanation yet you are a bit confused\r\nabout some parts of my email and I ask how confused again?\r\n\r\nWaiver in general terms; A waiver is the voluntary relinquishment or\r\nsurrender of some known right or privilege. Regulatory agencies of\r\nstate departments or the federal government may issue waivers to\r\nexempt companies from certain regulations.\r\n\r\nIn this context, waiver here means that both government and bank have\r\nsurrendered all payments due them before you receive the fund till\r\nafter you receive it. Why you need to pay a fee for it is because\r\nwaiver can only be effective and legally binding once notarized by a\r\ncourt of competent jurisdiction and in this context, the supreme court\r\nhas the jurisdiction to notarize.\r\n\r\nRegarding payment methods, what payment method are you familiar with\r\nif you are not familiar with bank transfers or Western Union money?\r\n\r\nAgain, you have not forwarded your personal details as requested for\r\nfinal verification."
+    },
+    {
+        "from": "baiter_1990",
+        "to": "scammer_1990",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7986574074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Waiver Application",
+        "body": "Hello,\n\nThank you for your detailed explanation about the waiver. It's quite interesting to learn that both the government and bank can exempt payments until after I receive the fund. However, I'm still a bit puzzled about why there is a fee involved in this process. Could you please elaborate more on this?\n\nAs for payment methods, I've used bank transfers before but not Western Union money. Is there any specific reason why these two methods are preferred? \n\nI noticed that you mentioned forwarding personal details. While I understand this might be part of the process, could we perhaps discuss more about the transaction and its details before we proceed with sharing personal information? \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nVanessa"
+    },
+    {
+        "from": "baiter_1990",
+        "to": "scammer_1990",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.4243402777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Waiver Application",
+        "body": "Hello Mr. Alex Alozie,\n\nThank you for your detailed response. I appreciate the time and effort you've put into explaining the situation to me.\n\nI understand that there is a fee to be paid, which will then allow for a waiver of all other charges. However, I'm not entirely clear on what this fee is for? Could you please elaborate on this?\n\nAlso, could you provide more information about the different methods of payment? I'm not very familiar with these types of transactions, so any additional details would be helpful.\n\nLastly, once the fee is paid and the waiver is in place, how long will it take for me to receive my fund? Is there a specific timeline or does it depend on certain factors?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nVanessa"
+    },
+    {
+        "from": "scammer_1990",
+        "to": "baiter_1990",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.7942013888888888,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Waiver Application",
+        "body": "Hello Vanessa,\r\n\r\nI have explained everything to you in detail and in clear terms. What\r\nis needed now is your receiving information to start processing. You\r\nwill receive the fund within 72hrs of working time after receipt of\r\nyour payment \" NOTARIZATION FEE $450.00 ONLY. This is an official\r\ncourt fee for Notarization, once the supreme court notarizes the\r\nwaiver, it becomes a legal document (Agreement) binding on the bank\r\nand all parties where necessary to apply waiver of any charge that may\r\narise until you receive fund. Paying for the court to Notarize waiver\r\nalso means that you have consented to waiver to receive the fund.\r\n\r\nAs for payment methods, I don't know the exact one you are not\r\nfamiliar with but western union money transfers are easy, safe, faster\r\nand convenient and internationally recognized and acceptable means of\r\ntransfers of small volume of funds.There are also other means of\r\nsending money which includes bank transfers etc,.\r\n\r\nForward your receiving details as requested with your working  cell\r\nphone number so I can call you for any further explanation you may\r\nneed or you can call me on the phone number below. I look forward to\r\nhearing from you today with requested information for onward\r\nproceeding. Congratulations in anticipation.\r\n\r\n\r\n\r\nYours Faithfully,\r\nMr. Alex Alozie,\r\n(Chief Operating Officer)\r\nUNITED BANK FOR AFRICA (UBA)\r\n+234 706 265 6564"
+    },
+    {
+        "from": "scammer_1990",
+        "to": "baiter_1990",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.7949074074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Waiver Application (Detailed Explanation)",
+        "body": "Hello Vanessa,\r\n\r\nI have explained everything to you in detail and in clear terms. What\r\nis needed now is your receiving information to start processing. You\r\nwill receive the fund within 72hrs of working time after receipt of\r\nyour payment \" NOTARIZATION FEE $450.00 ONLY. This is an official\r\ncourt fee for Notarization, once the supreme court notarizes the\r\nwaiver, it becomes a legal document (Agreement) binding on the bank\r\nand all parties where necessary to apply waiver of any charge that may\r\narise until you receive fund. Paying for the court to Notarize waiver\r\nalso means that you have consented to waiver to receive the fund.\r\n\r\nAs for payment methods, I don't know the exact one you are not\r\nfamiliar with but western union money transfers are easy, safe, faster\r\nand convenient and internationally recognized and acceptable means of\r\ntransfers of small volume of funds.There are also other means of\r\nsending money which includes bank transfers etc,.\r\n\r\nForward your receiving details as requested with your working  cell\r\nphone number so I can call you for any further explanation you may\r\nneed or you can call me on the phone number below. I look forward to\r\nhearing from you today with requested information for onward\r\nproceeding. Congratulations in anticipation.\r\n\r\n\r\n\r\nYours Faithfully,\r\nMr. Alex Alozie,\r\n(Chief Operating Officer)\r\nUNITED BANK FOR AFRICA (UBA)\r\n+234 706 265 6564"
+    },
+    {
+        "from": "baiter_1990",
+        "to": "scammer_1990",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.7984606481481482,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Waiver Application",
+        "body": "Hello Mr. Alex Alozie,\n\nThank you for your detailed explanation. I appreciate the time and effort you've put into this. I'm still trying to understand a few things though, if you don't mind me asking.\n\nYou mentioned a payment fee that needs to be made before receiving the fund. Could you please clarify what this fee is for exactly? And why is it necessary?\n\nAlso, regarding the method of payment, I'm not very familiar with Western Union money transfers. Could you perhaps explain how it works? Is there any other method that could be used instead?\n\nLastly, could you please elaborate on what the 'waiver' means in this context? What does it mean to consent to a waiver?\n\nI apologize for all these questions but I just want to make sure I fully understand everything before proceeding further.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nVanessa"
+    },
+    {
+        "from": "baiter_1990",
+        "to": "scammer_1990",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.7988194444444445,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: Waiver Application (Detailed Explanation)",
+        "body": "Hello Mr. Alex Alozie,\n\nThank you for your detailed explanation. I appreciate the time and effort you've put into this. I'm not very familiar with these types of transactions, so please bear with me.\n\nI understand that the fee is for the supreme court to notarize the waiver, which makes it a legal document. That sounds very official and important.\n\nAs for payment methods, I've heard of Western Union but never used it before. You mentioned it's easy, safe, faster and convenient - that's good to know! Could you perhaps explain a bit more about how it works? And what about bank transfers? How do they work?\n\nAlso, you asked for my receiving details and working cell phone number. Just to clarify, what exactly do you mean by \"receiving details\"?\n\nLooking forward to your response!\n\nBest wishes,\nVanessa"
+    },
+    {
+        "from": "scammer_1990",
+        "to": "baiter_1990",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.015462962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: Waiver Application (Detailed Explanation)",
+        "body": "Hello Vanessa,\r\n\r\nI have taken my time to explain everything to you in detail and in\r\nclear terms. You should call or send me your cell phone number to call\r\nyou for any further clarification and or answer to any other question\r\nyou may raise. I believe you will understand much better and fully if\r\nwe talk it over.\r\n\r\nAs for payment methods, I don't know the exact one you are not\r\nfamiliar with but western union money transfers is one of the foremost\r\nmoney transfer companies that is globally acceptable, however, I am\r\nnever saying, it must be western union as there are other globally\r\nregistered and acceptable money transfer companies all over the place\r\nincluding banks, you can locate any nearest to you and make further\r\ninquiries.\r\n\r\nYou can also do good to tell me the ones you are familiar with and or\r\nthe ones you have sent or received money from. The list of registered\r\nmoney transfer companies are too numerous to mention, you can check\r\naround you to locate them.\r\n\r\nYour receiving details as requested are as below;\r\n\r\n1.Full Name: -------------------\r\n2.Home Address:-----------------\r\n3.Phone (Mobile):---------------\r\n4.Occupation: ------------------\r\n5.Copy of Identification:-------\r\n6.Next of kin:------------------\r\n7.Bank Name & Address:----------\r\n\r\n\r\nThese information's shall be certified verifiable by you to be true\r\nand correct without because it shall be registered for legality as the\r\ntrue details of beneficiary to avoid a counter claim and or delivery\r\nto a wrong person hence it will be used to process the delivery after\r\ncourt Notarization of waiver\r\n\r\nI look forward to hearing from you today with requested information\r\nfor onward proceeding. Congratulations in anticipation.\r\n\r\n\r\nYours Faithfully,\r\nMr. Alex Alozie."
+    },
+    {
+        "from": "baiter_1990",
+        "to": "scammer_1990",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.029537037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: Waiver Application (Detailed Explanation)",
+        "body": "Hello Mr. Alex Alozie,\n\nThank you for your detailed explanation. It's really helpful to understand the process better. I'm not very familiar with Western Union, but I've heard of it before. Are there any other money transfer companies that you would recommend? \n\nAlso, could you please explain a bit more about the court of waiver process? I'm not quite sure what that means.\n\nAs for my receiving details, I'm sorry but I don't feel comfortable sharing them over email. Is there another way we can handle this part of the process?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nVanessa"
+    },
+    {
+        "from": "scammer_1990",
+        "to": "baiter_1990",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.144212962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: Waiver Application (Detailed Explanation)",
+        "body": "Hello\r\n\r\nYour receiving details as requested are as below;\r\n\r\n1.Full Name: -------------------\r\n2.Home Address:-----------------\r\n3.Phone (Mobile):---------------\r\n4.Occupation: ------------------\r\n5.Copy of Identification:-------\r\n6.Next of kin:------------------\r\n7.Bank Name & Address:----------\r\n\r\n\r\nThese information's shall be certified verifiable by you to be true\r\nand correct without error because it shall be registered for legality\r\nas the true details of beneficiary to avoid a counter claim and or\r\ndelivery/transmission to a wrong person hence it will be used to\r\nprocess the fund (US$10.5M) delivery/transmission after the court have\r\nNotarized waiver.\r\n\r\n\r\n\"As for my receiving details, I'm sorry but I don't feel comfortable\r\nsharing them over email. Is there another way we can handle this part\r\nof the process?\"\r\n\r\nYes, another way is for you to come to our office in person at:\r\n\r\nUNITED BANK FOR AFRICA (UBA)\r\n#653 Gana Fasola Street, Victoria Island,\r\nLagos, Nigeria,\r\n\r\nSigned by,\r\nYours Faithfully,\r\nMr. Alex Alozie."
+    },
+    {
+        "from": "baiter_1990",
+        "to": "scammer_1990",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.1533449074074076,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: Waiver Application (Detailed Explanation)",
+        "body": "Hello Mr. Alex Alozie,\n\nThank you for providing the details. I appreciate your prompt response. However, I'm afraid I won't be able to visit your office in person as it's quite far from my location.\n\nCould you please suggest any other alternative methods that we could use to proceed with this process? Also, could you provide more information about the fund US delivery and how the court notarized waiver works?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nVanessa"
+    },
+    {
+        "from": "scammer_1990",
+        "to": "baiter_1990",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.05300925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: Waiver Application (Detailed Explanation)",
+        "body": "Hello,\r\n\r\nProvide your details as requested or come to our office in person.\r\nThere is no other way possible for you to receive the fund if you\r\nreally need it.\r\n\r\nThanks."
+    },
+    {
+        "from": "baiter_1990",
+        "to": "scammer_1990",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.070162037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: Waiver Application (Detailed Explanation)",
+        "body": "Hello,\n\nThank you for your prompt response. I appreciate your guidance on this matter. However, I'm a bit confused about the process. Could you please elaborate more on what kind of details are needed? Also, could you provide me with the address of your office and its working hours?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nVanessa"
+    },
+    {
+        "from": "scammer_1990",
+        "to": "baiter_1990",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.729895833333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: Waiver Application (Detailed Explanation)",
+        "body": "Hello,\r\n\r\nYour receiving details as requested are as below;\r\n\r\n1.Full Name: -------------------\r\n2.Home Address:-----------------\r\n3.Phone (Mobile):---------------\r\n4.Occupation: ------------------\r\n5.Copy of Identification:-------\r\n6.Next of kin:------------------\r\n7.Bank Name & Address:----------\r\n\r\n\r\nThese information's shall be certified verifiable by you to be true\r\nand correct without error because it shall be registered for legality\r\nas the true details of beneficiary to avoid a counter claim and or\r\ndelivery/transmission to a wrong person hence it will be used to\r\nprocess the fund (US$10.5M) delivery/transmission after the court have\r\nNotarized waiver.\r\n\r\n\r\n\"As for my receiving details, I'm sorry but I don't feel comfortable\r\nsharing them over email. Is there another way we can handle this part\r\nof the process?\"\r\n\r\nYes, another way is for you to come to our office in person at:\r\n\r\nUNITED BANK FOR AFRICA (UBA)\r\n#653 Gana Fasola Street, Victoria Island,\r\nLagos, Nigeria,\r\n\r\nWorking Hours: 9:am - 4:pm, Monday - Friday\r\n\r\nSigned by,\r\nYours Faithfully,\r\nMr. Alex Alozie."
+    },
+    {
+        "from": "baiter_1990",
+        "to": "scammer_1990",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.736747685185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: Waiver Application (Detailed Explanation)",
+        "body": "Hello Mr. Alex Alozie,\n\nThank you for providing the details. I appreciate your prompt response. However, I'm afraid I won't be able to visit your office in person as it's quite far from my location.\n\nCould you please suggest any other alternative method to handle this part of the process? Maybe we could use a secure online platform or something similar?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nVanessa"
+    },
+    {
+        "from": "scammer_1990",
+        "to": "baiter_1990",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.094027777777777,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Re: Waiver Application (Detailed Explanation)",
+        "body": "Attention:\r\n\r\nI have taken time to explain everything to you in details and in\r\nclearer terms that even a layman in the street will understand better.\r\nIf you cannot come in person due to distance as you said which shall\r\nbe considered as a cogent reason, forward your requested receiving\r\ndetails as below;\r\n\r\n1.Full Name: -------------------\r\n2.Home Address:-----------------\r\n3.Phone (Mobile):---------------\r\n4.Occupation: ------------------\r\n5.Copy of Identification:-------\r\n6.Next of kin:------------------\r\n7.Bank Name & Address:----------\r\n\r\n\r\nThese information's shall be certified verifiable by you to be true\r\nand correct without error because it shall be registered for legality\r\nas the true details of beneficiary to avoid a counter claim and or\r\ndelivery/transmission to a wrong person hence it will be used to\r\nprocess the fund (US$10.5M) delivery/transmission after the court have\r\nNotarized waiver.\r\n\r\nThis is the only secure option you have because whatever information\r\nyou supply is safe and secure with us and will be used the purpose of\r\nprocessing the fund in your favor as the only true beneficiary. If you\r\ncannot do it, then, I am afraid you have to forget and forfeit the\r\nfund as a ghost beneficiary.\r\n\r\nWhat secure online platform are you suggesting by the way?"
+    },
+    {
+        "from": "baiter_1990",
+        "to": "scammer_1990",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.11170138888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: Waiver Application (Detailed Explanation)",
+        "body": "Hello there,\n\nThank you for your detailed explanation. I appreciate the time and effort you've put into making this clear for me. However, I'm a bit confused about some parts of your message.\n\nYou mentioned something about forwarding my receiving details. Could you please clarify what exactly these details are used for? And how does it relate to the fund US delivery?\n\nAlso, could you explain more about the notarized waiver from the court? How does that process work?\n\nAs for the secure online platform, I was thinking maybe we could use an established financial institution or a well-known money transfer service. What do you think about that?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nVanessa"
+    },
+    {
+        "from": "scammer_1990",
+        "to": "baiter_1990",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.880335648148149,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "22",
+        "subject": "Re: Waiver Application (Detailed Explanation)",
+        "body": "Attention,\r\nEverything have been fully explained to you. You either come in person\r\nor forward your receiving details as requested for the processing and\r\ndelivery of the fund to you. Better still, forget about the fund and\r\nbe treated as a ghost beneficiary for onward cancellation which shall\r\ntake effect at the end of this first quarter of 2024. Thanks for your\r\nunderstanding and compliance.."
+    },
+    {
+        "from": "baiter_1990",
+        "to": "scammer_1990",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.881782407407407,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "23",
+        "subject": "Re: Waiver Application (Detailed Explanation)",
+        "body": "Hello there,\n\nThank you for your message. I appreciate the information you've shared with me. However, I'm a bit confused about some details. Could you please clarify what exactly this fund is for? And how was it determined that I am eligible to receive it?\n\nAlso, could you explain more about the process of receiving these funds? You mentioned coming in person or forwarding my receiving details. Where would I need to come in person? What specific receiving details are needed?\n\nI'm sorry for all the questions, but I just want to make sure I understand everything correctly.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nVanessa"
+    },
+    {
+        "from": "scammer_1990",
+        "to": "baiter_1990",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.7065625,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "24",
+        "subject": "Re: Waiver Application (Detailed Explanation)",
+        "body": "Forward your requested receiving\r\ndetails as below;\r\n\r\n1.Full Name: -------------------\r\n2.Home Address:-----------------\r\n3.Phone (Mobile):---------------\r\n4.Occupation: ------------------\r\n5.Copy of Identification:-------\r\n6.Next of kin:------------------\r\n7.Bank Name & Address:----------\r\n\r\n\r\nThese information's shall be certified verifiable by you to be true and\r\ncorrect without error because it shall be registered for legality as the\r\ntrue details of beneficiary to avoid a counter claim and or\r\ndelivery/transmission to a wrong person hence it will be used to process\r\nthe fund (US$10.5M) delivery/transmission after the court have Notarized\r\nwaiver.\r\n\r\nThis is the only secure option you have because whatever information you\r\nsupply is safe and secure with us and will be used the purpose of\r\nprocessing the fund in your favor as the only true beneficiary. If you\r\ncannot do it, then, I am afraid you have to forget and forfeit the fund as\r\na ghost beneficiary.\r\n\r\nAnother way is for you to come to our office in person at:\r\n\r\nUNITED BANK FOR AFRICA (UBA)\r\n#653 Gana Fasola Street, Victoria Island,\r\nLagos, Nigeria,\r\n\r\nWorking Hours: 9:am - 4:pm, Monday - Friday"
+    },
+    {
+        "from": "baiter_1990",
+        "to": "scammer_1990",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.715335648148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "25",
+        "subject": "Re: Waiver Application (Detailed Explanation)",
+        "body": "Hello there,\n\nThank you for reaching out and providing this information. It's quite interesting to hear about the process involved in fund delivery. I'm curious, could you explain a bit more about how the court notarizes waivers? And what does it mean to register details for legality?\n\nI'm also intrigued by the mention of Victoria Island in Lagos, Nigeria. What's it like over there? Is that where the United Bank for Africa is headquartered?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nVanessa"
+    }
+]

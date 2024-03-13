@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1569",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Good day",
+        "body": "  Good day\n Complement My Name is J Nelson, I have a very confidential Business that will be a benefit for both of us. Reply  back to me,on this email: \nmatan45939@gmail.com\n for more details.\n Remain blessed.    "
+    },
+    {
+        "from": "baiter_1569",
+        "to": "scammer_1569",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Good day",
+        "body": "Hello Nelson,\n\nThank you for reaching out to me. I'm always interested in hearing about potential business opportunities. Could you please provide me with more details about the opportunity you mentioned? I would like to know what it entails and how it could be beneficial for both of us.\n\nLooking forward to your response.\n\nBest wishes,\nFred"
+    }
+]

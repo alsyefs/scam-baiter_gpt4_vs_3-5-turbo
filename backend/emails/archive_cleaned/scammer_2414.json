@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2414",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention",
+        "body": "  Attention\nI have a consignment valued at $3.5M assigned to me to deliver to you\nby the (UN) United Nations Intergovernmental organization  have\narrived in the Rochester International Airport (RST) - Rochester\nMinnesota  USA as on transit on  rout this week, you are to call him\nwith this number  or contact me  through this secure with your closest\nairport,personal address and cell mobile phone ?\nEndeavor to keep this Transaction Funds Delivery confidential\nsincerely\nMr.Mike Brown   "
+    },
+    {
+        "from": "baiter_2414",
+        "to": "scammer_2414",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention",
+        "body": "Hello Brown,\n\nWow, that sounds really interesting! I'm curious, how did the UN come to choose me for this? And could you tell me a little more about what these funds are for? \n\nAlso, you mentioned someone at the Rochester Airport. Who is this person and how are they involved in the process?\n\nLooking forward to hearing from you soon!\n\nP.S. Please note that I can't share my address or phone number online for security reasons.\n\nBest wishes,\nTrisha"
+    }
+]

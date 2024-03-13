@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2042",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "FROM THE DESK OF LARRY SMITH",
+        "body": "FROM THE DESK OF LARRY SMITH\nECOWAS ECONOMIC COMMUNITIES\n OF West Africa STATE\nACCRA GHANA WEST AFRICA\n4th Floor, SSNIT Emporium, Airport City, Accra, Ghana\nDear beneficiary, I have tried to contact you in the regard of your fund worth of $5.000.000.00 USD FIVE MILLIONS UNITED STATE OF AMERICA DOLLARS, this fund has been converted to visa debit card which we be delivered to you at your door step.\nAll you have to do right now is for you to provide your delivering Andree for the shipment of the debit card,\nI can’t disclose the pin here because of internet hackers so when you receive the debit card then we send you pin  \nThis card is international VISA DEBIT CARD and is acceptable in any country any ATM machine\nContact Mr. Mama Albert for immediate shipment of the debit card\nMr Mama Albert\nMamaalbert84@gmail.com\nPROVIDE YOUR CURRECT INFORMATION FOR SHIPMENT\n1 \nyour international passport copy or any national id card\n2 direct mobile telephone number\n3 your nationality\n As soon i hear from you then i we instruct you on how to send the payment for the shipment of the debit visa card\nRegard \nLarry Smith"
+    },
+    {
+        "from": "baiter_2042",
+        "to": "scammer_2042",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: FROM THE DESK OF LARRY SMITH",
+        "body": "Hello Larry Smith,\n\nWow, this sounds like an amazing opportunity! I can't believe my luck. I have a few questions though, if you don't mind.\n\nFirstly, how did I come to be the recipient of such a large sum? It's not every day that someone offers me five million dollars!\n\nSecondly, could you please provide more details about this VISA DEBIT CARD? How does it work exactly?\n\nLastly, you mentioned a payment for the shipment of the debit visa card. Could you tell me more about this? What is the cost and how should it be paid?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nCharles"
+    }
+]

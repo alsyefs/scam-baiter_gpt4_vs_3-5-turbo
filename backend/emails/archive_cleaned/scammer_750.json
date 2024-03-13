@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_750",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Beneficiary,",
+        "body": "  Dear Beneficiary,\nPlease note that we have recovered the sum of $5,500,000.00 USD from\nthe Central Bank of West African States as abandoned inheritance funds\nbelonging to you.\nWe have programmed the $5,500,000.00 USD in an ATM Master Card so that\nyou can withdraw the money on your own in your country and advise you\nto respond quickly to this message and follow the procedures to allow\nus to send you the ATM Master Card without delay.\nWe will not hesitate to suspend this transaction and deposit the funds\ninto the African Union reserved account, if you delay in responding\nand receiving the ATM Master Card.\nThanks,\nMr. Darlington Ozurumba.\nHead of the European Commission.\nEconomic and Monetary Union (EMU) Nigeria.   "
+    },
+    {
+        "from": "baiter_750",
+        "to": "scammer_750",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Beneficiary,",
+        "body": "Hello Mr. Darlington Ozurumba,\n\nWow, this is such an unexpected surprise! I can't believe there was a sum of USD just sitting around in the Central Bank of West African States that belongs to me. I'm really curious about how you found out about this abandoned fund and why it was left unclaimed?\n\nAlso, could you please explain more about how the ATM Master Card works? How can I withdraw the money from it in my country? \n\nI'm looking forward to your response.\n\nBest regards.\n\nBest wishes,\nDebra"
+    }
+]

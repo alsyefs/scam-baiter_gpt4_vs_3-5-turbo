@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1792",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Sir / Madam,",
+        "body": "Dear Sir / Madam,\nHappy New Year 2024!!!\nActing on my capacity as Information Officer of the Debt Management Office under United Nations (U.N) being the new authorized body responsible for the settlement of all the outstanding payments due from America, Canada, Asia, Middle East, Africa and Europe, I write to notify you that the United Nation organization and the World Bank has directed all outstanding Inheritance / Contract, Compensation and Lotto payment to be released through HSBC Bank - London UK. All beneficiaries who are yet to receive their overdue payment are hereby directed to contact the Director of Foreign Operation Ms. Irene Walker on the email below with their complete details for further directives on how to receive their fund.\nHSBC BANK:\nHead Office: 8 Canada Square, London E14 5HQ, United Kingdom\nEMAIL: \nhsbc.bank@accountant.com\nContact: Ms. Irene Walker (Director of Foreign Operation)\nBe aware that the only office / paying bank that has the right to contact you in this matter is the office of the Director of Foreign Operation HSBC Bank London UK which is headed by Ms. Irene Walker. You must deal directly with her because that is the only way you can receive your unpaid fund. You are receiving this message as a result of the United Nation and the World Bank directives to release all overdue payments.\nYours Faithfully,\nDr. Janet Essen\nInformation Officer\nDebt Management Office under United Nations (U.N)"
+    },
+    {
+        "from": "baiter_1792",
+        "to": "scammer_1792",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Sir / Madam,",
+        "body": "Dear Dr. Janet Essen,\n\nThank you for reaching out to me and providing this information. I hope you had a wonderful New Year as well.\n\nI appreciate the update regarding the new authorized body for the settlement of payments under the United Nations. It's interesting to hear that all contract and lotto payments will now be released through HSBC Bank in London, UK. Can you please provide more details about why this change has been made? Is there a specific reason why HSBC Bank has been chosen as the paying bank?\n\nAlso, could you clarify what kind of complete details are required when contacting Ms. Irene Walker? I want to make sure I provide the correct information when reaching out to her.\n\nThank you once again for sharing this information with me. I look forward to your response.\n\nBest wishes,\nAlicia"
+    }
+]

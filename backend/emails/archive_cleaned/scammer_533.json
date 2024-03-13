@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_533",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "This is to inform you of a ver",
+        "body": "This is to inform you of a very important piece of information which will be of great help to redeem you from all the difficulties you have been experiencing in getting your long overdue payment.\nI am Mrs. Debra Andrews, a highly placed official of the International Monetary Fund (IMF). It may interest you to know that reports have reached our office by so many correspondences on the uneasy way in which people like you are treated by Various Banks and payment officials across Europe, Africa, Asia and the USA. We have decided to put a stop to that. All Governmental and Non-Governmental prostates, NGOs, Finance Companies, Banks, Security Companies and Courier companies which have been in contact with you of late have been instructed to back off from your transaction and you have been advised NOT to respond to them anymore since the International Monetary Fund (IMF) is now directly in charge of your payment.\nYour name appeared in our payment schedule list of beneficiaries that will receive their funds in this SECOND quarter payment for the year 2023.\n Your payment fund is USD$18.3Million, this also includes the generated interest so far.\nKindly get back to me for more detailed information.\nMrs. Debra Andrews\nDebt recovery department\nInternational Monetary Fund\nLondon, England."
+    },
+    {
+        "from": "baiter_533",
+        "to": "scammer_533",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: This is to inform you of a ver",
+        "body": "Hello Mrs. Debra Andrews,\n\nThank you for reaching out and sharing this information with me. It's quite surprising to hear about the issues people have been facing with various banks and payment officials across different continents. I'm glad to know that the Monetary Fund IMF is taking steps to rectify this situation.\n\nI see my name is on the payment schedule list for this second quarter of the year, which is interesting news indeed. However, could you please provide more details about how this process works? How was my name selected for this payment schedule?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nEric"
+    }
+]

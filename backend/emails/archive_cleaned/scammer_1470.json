@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1470",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "UNITED NATIONS OFFICE",
+        "body": "UNITED NATIONS OFFICE\n760 United Nations Plaza, Manhattan,\nNew York City, NY, USA\nGood day, and Happy New Year, I am Dr. Timothy Bryan, from the UNITED NATIONS OFFICE (UN). Be informed that my committee has a mandate to recover unpaid Debts associated with Contract Sum, inheritance funds, Consignment Boxes and Transfer Payment, ranging from $1-Million USD and above, owed to various beneficiaries and companies across the globe. This message is to notify you here about the Board Meeting we held this January between the UN and the World Bank. Based on the outcome of the meeting, we have concluded an arrangement to deliver your unpaid compensation funds payment to you, which I'm here to notify you about our plan to remit your overdue fund to you via any of these options herein... BANK ELECTRONIC-WIRE TRANSFER, CASH-CONSIGNMENT BOXES or ATM-CARD DELIVERY. I decided to contact you personally because of the prevailing financial report reaching my office and the intense nature of policy here in the United States. Your name was among the shortlisted beneficiaries on our database, hence we are contacting you today to inform you about your compensation funds sum of USD$9,500,000.00 due to be delivered to you. Kindly reconfirm your full detailed information to this office below. Note that I will make use of my position in the office to release your long awaited payment to you.\n All you need to do now, is to reconfirm your full details to this office and \ninclude your photo ID for identification purposes\n. You're advised to contact this office within 48hrs of receiving this mail from this organization.\n1. Your Full Names:...............\n2. Your Age & Sex:................\n3. Your Occupation:...............\n4. Your Marital Status:...........\n5. Your Mobile Number:............\n6. Your Home address:.............\nLastly, you are advised to kindly respond back to this email today with the above details, for the commencement and processing of your fund payment to you. Be kind to use part of this funds to help the less-privileged around you. Kindly reply to this email-: \npayfundsoffice@usa.com\nBest regards,\nDr.  Timothy Bryan,\nDir, Foreign Operations Dept,\nUnited Nations Organization (UNO)"
+    },
+    {
+        "from": "baiter_1470",
+        "to": "scammer_1470",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: UNITED NATIONS OFFICE",
+        "body": "Hello Dr. Timothy Bryan,\n\nThank you for reaching out to me from the United Nations Office. I hope you're doing well and had a great start to the New Year.\n\nI appreciate you informing me about the Board Meeting held between the UN and the World Bank regarding unpaid debts. It's interesting to hear that my name was on your database for an overdue fund payment of USD. However, before proceeding further, I would like to know more details about this matter.\n\nCould you please provide me with some additional information? Specifically, I would like to understand how this debt is associated with me and which contract or funds it pertains to. Additionally, could you explain why my personal information, such as my full name, age, sex, occupation, marital status, mobile number, and home address are required for the processing of this payment?\n\nI look forward to your response.\n\nBest wishes,\nAgnes"
+    }
+]

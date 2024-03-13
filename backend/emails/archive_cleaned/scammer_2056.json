@@ -1,0 +1,102 @@
+[
+    {
+        "from": "scammer_2056",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "From : Ms. Patricia Aka",
+        "body": "From : Ms. Patricia Aka\nAbidjan, Ivory coast\nAPPEAL FOR URGENT BUSINESS ASSISTANCE. Dear ,Hope this mail meets you\nwell, please permit me to introduce myself to you, my name is Ms.\nPatricia Aka, I am 19 years old, the only daughter of Late Mr.\nEmmanuel Aka who was a famous cocoa merchant based here in Abidjan,\nthe Economic capital of Ivory Coast ( Cote D'ivoire). \nI am seeking for\nyour assistance to help me transfer the sum of (USD7,500,000.00 )\nSeven Million Five Hundred Thousand United State of American Dollars\nthat I inherited from my late father to your bank account\n. I am\nwilling to offer you 20% of the total fund as a mode of compensation\nafter the transfer for your time and effort.\n If you agree on this\nproposal and ready to assist me, please indicate by furnishing me with\nyour phone and fax numbers including your full address to enable easy\ncommunication between me and you. \nWaiting for your cooperation.\nYours Faithfully\nMs. Patricia Aka.\n-Please Cope and Email me at my Private Email: \npatriciaaka7@hotmail.com\n --"
+    },
+    {
+        "from": "baiter_2056",
+        "to": "scammer_2056",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: From : Ms. Patricia Aka",
+        "body": "Hello Ms. Patricia Aka,\n\nThank you for reaching out to me. I hope this email finds you well. I am interested in learning more about your proposal. Could you please provide me with some additional details? Specifically, I would like to know how the funds were inherited from your late father and why you are seeking assistance to transfer them.\n\nAdditionally, it would be helpful if you could explain the process of transferring the funds to my bank account. Are there any legal or financial requirements that need to be fulfilled? Please provide me with more information so that I can better understand how I can assist you.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nFrances"
+    },
+    {
+        "from": "scammer_2056",
+        "to": "baiter_2056",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Hello.",
+        "body": "Hello,\r\nThank you for your response to my message of assistance which I sent you. I inherited this money by my late father before his death. He deposited this money at a bank here and made the next of kin to the money at the bank. Before I contacted you I informed the bank management about this transaction to you and they explained that all the legal requirements will be control by their bank  Well, get back to me soonest.\r\nYours faithfully\r\nPatricia."
+    },
+    {
+        "from": "baiter_2056",
+        "to": "scammer_2056",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00032407407407407406,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Hello.",
+        "body": "Hello Patricia,\n\nThank you for reaching out to me. I'm sorry to hear about the loss of your father. It must be a difficult time for you. I appreciate you sharing this information with me.\n\nCould you please provide me with more details about the money that your late father left behind? How much money are we talking about, and what are the next steps in accessing it? I want to make sure I understand the situation clearly before proceeding.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nFrances"
+    },
+    {
+        "from": "scammer_2056",
+        "to": "baiter_2056",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.01275462962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Hello.",
+        "body": "Hello,\r\nThe amount deposited at the bank is $7,500,000.00 to be transferred to you has I have already informed the bank. I want all this money to be transfer to you for investment purposes there in your country and I like to further my studies when I come to your country after this transaction complete to you.\r\nYours faithfully\r\nPatricia."
+    },
+    {
+        "from": "baiter_2056",
+        "to": "scammer_2056",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.013668981481481482,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Hello.",
+        "body": "Hello Patricia,\n\nThank you for reaching out to me. I appreciate your trust in sharing this information with me. Could you please provide me with more details about the amount that has been deposited at the bank? I would like to understand how this transfer can be made securely and legally.\n\nAdditionally, I'm curious to know more about your investment plans and the studies you mentioned. What kind of investments are you considering? And what field of study are you interested in pursuing?\n\nLooking forward to hearing from you.\n\nBest wishes,\nFrances"
+    },
+    {
+        "from": "scammer_2056",
+        "to": "baiter_2056",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.017395833333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Hello.",
+        "body": "Hello,\r\nYou know what investment that move well in your country which can invest this money into. Also for study's I just finished my college class which I will like to continue when I come over there.\nPatricia"
+    },
+    {
+        "from": "baiter_2056",
+        "to": "scammer_2056",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.017847222222222223,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Hello.",
+        "body": "Hello Patricia,\n\nThank you for reaching out. I'm glad to hear that you're interested in investing and continuing your studies. Can you please provide me with more details about the investment opportunity you mentioned? What kind of investments are you referring to? It would be helpful to know more about the potential returns and risks involved.\n\nRegarding your studies, which country are you planning to come over to? Are there any specific universities or programs that you have in mind? It's always important to research and choose the right educational institution that aligns with your goals.\n\nLooking forward to hearing more from you!\n\nBest wishes,\nFrances"
+    },
+    {
+        "from": "scammer_2056",
+        "to": "baiter_2056",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.01888888888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Hello.",
+        "body": "Hello,\r\nAbout the transfer, I think you can contact the bank where my late father deposited the bank and ask all questions which you may like to know. As I don't know anything of  banking transfer.\r\nPatricia."
+    },
+    {
+        "from": "baiter_2056",
+        "to": "scammer_2056",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.019166666666666665,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Hello.",
+        "body": "Hello Patricia,\n\nThank you for reaching out. I appreciate your suggestion to contact the bank regarding the transfer. Could you please provide me with more details about the transfer? What is the purpose of the transfer and what information do you need from me in order to proceed?\n\nI want to make sure I understand everything clearly before taking any further steps. Looking forward to hearing back from you.\n\nBest wishes,\nFrances"
+    }
+]

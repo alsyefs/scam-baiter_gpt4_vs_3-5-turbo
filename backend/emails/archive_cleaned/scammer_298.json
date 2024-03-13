@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_298",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Hello,",
+        "body": " Hello,\nThis transaction will be legally conducted. I would like to present to you a life changing opportunity that will benefit both of us greatly. If you are interested, reply and I will provide details.\nThanks,\nMichael.    "
+    },
+    {
+        "from": "baiter_298",
+        "to": "scammer_298",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  Hello,",
+        "body": "Hello Michael,\n\nThank you for reaching out to me. I'm always interested in hearing about life-changing opportunities. Could you please provide me with more details about what you have in mind? I'd love to learn more.\n\nBest wishes,\nJaime"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1354",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear: beneficiary.",
+        "body": "  Dear: beneficiary.\nOfficial information from the management and authority of European Union, we are here by officially to inform you that is very long time your fund is here, but we just got an information that you have changed your next of king, please update us if you are the one who authorized to change your next of king.\nYour urgent response is highly needed.\nMr. Joseph Philip\nEuropean Union Security\nMonitoring Center.   "
+    },
+    {
+        "from": "baiter_1354",
+        "to": "scammer_1354",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear: beneficiary.",
+        "body": "Hello Mr. Joseph Philip,\n\nThank you for reaching out to me. I must say, this is quite surprising news! I wasn't aware that I had any funds with the European Union, let alone a next of kin associated with it.\n\nCould you please provide more details about these funds? How did they come to be in my name? And who is the next of kin that has been mentioned?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nRobert"
+    },
+    {
+        "from": "scammer_1354",
+        "to": "baiter_1354",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Dear: beneficiary.",
+        "body": "Attention: Robert\r\n\r\nWe acknowledge receipt of your email, we are deeply sorry that we reply you\r\nlate, with your due respect this questions you ask to us, the person you\r\nare supposed to ask such questions is Mr. John Smith, the information have\r\ngiven to us to transfer $8.5 million to you.\r\n\r\nWe discovered that this is overlong do payment luggage to deliver to you in\r\nRussia so the bank decided to transfer your fund to your account.\r\n\r\nBut we are surprised the questions you are asking are you not the owner of\r\nthis fund? It is very important for us to know are you not aware that you\r\nare the owner of the fund?\r\n\r\nWe are waiting for your response with understanding.\nYou can contact us through our WhatsApp: +1-386-287-0575\r\n\r\nOur regards\r\n\r\n Joseph Philip\r\nDirector Foreign Affairs\r\nTelephone/WhatsApp number: +1-386-287-0575"
+    },
+    {
+        "from": "baiter_1354",
+        "to": "scammer_1354",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.01224537037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Dear: beneficiary.",
+        "body": "Hello Joseph Philip,\n\nThank you for your response. I must admit, I'm a bit confused about the situation. You mentioned a Mr. John Smith and some funds that are supposed to be transferred to me? That's quite surprising! \n\nCould you please provide more details about this? How did this come about and why was my name chosen for this transfer? Also, who is Mr. John Smith and what is his role in all of this?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nRobert"
+    }
+]

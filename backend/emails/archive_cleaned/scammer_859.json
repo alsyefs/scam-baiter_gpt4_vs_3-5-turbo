@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_859",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear xxx,",
+        "body": "Dear xxx,\nPlease see attached important documents for your reference.\nThanks,\nBest regards.\nPeter M Olusegun Agada.\nFor: Director General"
+    },
+    {
+        "from": "baiter_859",
+        "to": "scammer_859",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear xxx,",
+        "body": "Hello there,\n\nThank you for reaching out and sending over these documents. I appreciate your effort in sharing this information with me. \n\nCould you please provide a brief summary or key points of the attached documents? This would help me to better understand their content and relevance.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLovie"
+    }
+]

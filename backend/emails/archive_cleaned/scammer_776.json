@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_776",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear sir/ma,",
+        "body": "  Dear sir/ma,\nAssalamu alaikum,\nI am Mrs. Fatima Muhammad from Alabama state in the USA. I got your address in my google search. I am contacting you because I am a cancer dying woman and I need your assistance to fulfil my last wish before I die. According to the doctor's diagnosis, I have Lung and bronchial cancer. I have only a few days to live. My late husband made a fixed deposit of USD$120,000 000 (One Hundred and Twenty Million Dollars) in my account to donate to an Orphanage(less privileged) because we didn't have a child. I have settled my husband's only brother with our company but he is greedy.  My late husband and I agreed to make this donation before he died. I am writing to you from my sick bed. I want you to help me donate USD$100Million to the less privileged. Take USD$10million to support your business and use the rest USD$10million to help your neighbors and those around you.\nIf you are interested in helping me, kindly get back to me for more explanations. But if you are not interested, let me know so that i can source for another person.\nAdd me in your prayers.\nAllah bless you.\nFatima Muhammad  \nReply to my email ( \nFatimamuhammad@usa.com\n )   "
+    },
+    {
+        "from": "baiter_776",
+        "to": "scammer_776",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear sir/ma,",
+        "body": "Dear Mrs. Fatima Muhammad,\n\nAssalamu alaikum. I hope this message finds you well, despite your illness. I am sorry to hear about your condition and I understand how important it is for you to fulfill your last wish.\n\nI appreciate you reaching out to me for assistance in donating the funds to an orphanage and supporting my business and neighbors. It's a noble cause, and I would be interested in learning more about how I can help.\n\nCould you please provide me with further details regarding the donation process? Specifically, how would the funds be transferred, and what steps do we need to take to ensure everything is done legally and securely?\n\nThank you for considering me for this opportunity, Mrs. Fatima Muhammad. May Allah bless you during this difficult time.\n\nBest wishes,\nJulie"
+    }
+]

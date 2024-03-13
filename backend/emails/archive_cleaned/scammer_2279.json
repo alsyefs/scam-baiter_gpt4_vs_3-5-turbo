@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2279",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Hello,",
+        "body": "   Hello,\nHow are you and how are you copping with the outbreak coronavirus?\nPlease be safe, My name is Miss Yaya Salimata from Aibidjan, Ivory\nCoast, I am the only child of my parents. During the post-election\ncivil and political crisis in our country, my parents were killed by\nheartless military personnel who supported the current president, who\nis losing the election and refusing to resign.\nFortunately for me, I attended school in Ghana when this tragedy\nhappened to my family. But I thank Almighty God because I never knew I\ncould go through the turmoil of losing my family almost. Now I'm still\nhere in the country, but for me it's very \"insecure\". I live in great\nfear and bondage. I plan to leave this country as soon as possible,\nbut the only thing that deterred me. My late father deposited (Two\nmillionTwo hundred thousand Dollars). one of the largest financial\ninstitutions.\nMy Dear, I want you to act as my trustee or business partner so that\nthe fund can be released to you on\nrequest and I can move to your country and we both have money invested\nin a good profitable venture and  I promise to give 20% of the fund.\nAwaiting a positive response.\nRespectfully\nMiss Salimata Yaya.   "
+    },
+    {
+        "from": "baiter_2279",
+        "to": "scammer_2279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Hello,",
+        "body": "Hello Miss Salimata Yaya,\n\nI'm so sorry to hear about the troubles you've been facing. It must be really hard for you. I hope things get better soon.\n\nYou mentioned that your late father deposited a large sum of money in a financial institution. That's quite interesting! Could you tell me more about this? How did he manage to do that?\n\nAlso, you mentioned wanting to invest the money in profitable ventures. What kind of ventures are you thinking about? \n\nLooking forward to hearing from you.\n\nBest wishes,\nNaomi"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "from": "scammer_1038",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello,   ",
+        "body": "  Hello,   \nIs this your private email address?\nShould you be interested in working with me on a financial related project? Please reply back via\nThanks and have a nice day,\nMr. Heang Sopheak\nDirector\nShinhan Khmer Bank   "
+    },
+    {
+        "from": "baiter_1038",
+        "to": "scammer_1038",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello,   ",
+        "body": "Hello Mr. Heang Sopheak,\n\nThank you for reaching out to me. I'm always open to new opportunities and would love to hear more about this financial related project you mentioned. Could you please provide some more details about it? \n\nLooking forward to hearing from you soon.\n\nHave a great day!\n\nBest wishes,\nGreg"
+    },
+    {
+        "from": "scammer_1038",
+        "to": "baiter_1038",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: MORE INFO!",
+        "body": "Hello friend,\r\n\r\nThanks for the quick response.\r\n\r\nYour mail is well understood and I will appreciate it if you will work with\r\nme in this transaction with a good understanding and sincere heart.\r\n\r\nDuring the reporting process, I discovered in 2016 that my branch made\r\n($21,537,000.00) this money which the head office is not aware of.  This\r\namount is currently placed in what we call SUSPENSE ACCOUNT without any\r\nbeneficiary. As an officer of the Shinhan Khmer Bank in Phnom Penh,\r\nCambodia, I cannot be directly connected to this money, so this is why I\r\nhave to contact you for us to work so that you can assist receive this\r\nmoney. I need you to stand as the original depositor of the money to enable\r\nmy Head office grant approval for the release of this fund.\r\n\r\nThe said amount is acrued interest undocumented within the bank which has\r\nbeen placed in a suspense account. This amount will be registered under\r\nyour name as the beneficiary if you agree to work with me in this\r\ntransaction. This is a legal transaction in which we shall follow due\r\nprocess whilst claiming the fund with no retribution to all the parties\r\ninvolved whatsoever.\r\n\r\nAs a banker, I understand transferring such a huge amount directly from\r\nbank to bank will lead to paying huge fees as a result of international\r\nbanking regulation before receiving the funds over there in your country.\r\nHence, for us to avoid this as impediment, I will bring this idea of the\r\nfund being released via an ATM card which will be sent to your address. The\r\nprocess bears no hindrance from the authority as it will be a very direct\r\nrelease process with no impediment.\r\n\r\nImmediately you receive the ATM card, you will start making withdrawals\r\nfrom it before my arrival to meet with you. I would like us to reach an\r\nagreement before we proceed further.\r\n\r\nkindly send to me your full information such as:\r\nyour full name\r\nyour address\r\ntelephone number\r\ncopy of any identification of you\r\n\r\nAs soon as I receive the above information from you, I will then draft an\r\nMOU agreement which will contain each persons share for both of us to sign\r\nbefore we complete the fund release process through an ATM card.\r\n\r\nI can assure you that whatever questions you would need to ask or any other\r\nthing you will need to know regarding this transaction will be adequately\r\nanswered to give you a clearer understanding of it all, so as to arrive at\r\na successful conclusion.\r\n\r\nAt the end of this transaction, we shall divide the amount in a 50-50 share\r\nratio of which I plan to invest a good part of my share in your country\r\nunder your supervision. All I require from you is your maximum cooperation.\r\n\r\nI look forward to hearing from you. Do call or send me a message on my\nwhatsApp for further clarification: +855967405973\r\n\r\nThanks and have a nice day,\r\nHeang Sopheak"
+    },
+    {
+        "from": "baiter_1038",
+        "to": "scammer_1038",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0018402777777777777,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: MORE INFO!",
+        "body": "Hello Heang Sopheak,\n\nThank you for your detailed message. I must say, it's quite an interesting proposition you've put forth. However, I have a few questions that I'd like to clarify before we proceed further.\n\nFirstly, could you please explain more about this 'suspense account'? How does it work and why is the money placed there? \n\nSecondly, you mentioned that the fund will be registered under my name. What are the implications of this? Will there be any legal responsibilities on my part?\n\nThirdly, regarding the ATM card process, how secure is it? And how would I go about making withdrawals from it?\n\nLastly, could you provide more details about the MOU agreement? What exactly will it entail?\n\nI'm sorry for all these questions but as someone who isn't very familiar with banking procedures, I just want to make sure I understand everything clearly.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nGreg"
+    },
+    {
+        "from": "baiter_1038",
+        "to": "scammer_1038",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0030671296296296297,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: MORE INFO!",
+        "body": "Hello Heang Sopheak,\n\nThank you for your detailed message. It's quite an interesting proposition you've put forth. I must admit, I'm not very familiar with banking procedures and such, but your explanation makes it sound like a unique opportunity.\n\nI do have a few questions though, if you don't mind. You mentioned that the money is currently in a suspense account. Could you explain what that means? Also, how does an ATM card work in this situation? I've only ever used mine to withdraw money from my own account.\n\nAs for the MOU agreement, could you give me a brief overview of what it would entail? I'd like to understand more about it before we proceed further.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nGreg"
+    },
+    {
+        "from": "scammer_1038",
+        "to": "baiter_1038",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.006504629629629629,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: MORE INFO!",
+        "body": "Hello friend,\r\n\r\nHow are you doing today?\r\n\r\nThe complication in releasing huge sums via bank to bank is enormous and\r\nthat is why I prefer the ATM card release which is discrete and less\r\nproblematic. The ATM card comes with a special higher than normal\r\nwithdrawal limit which allows you to withdraw big amounts. This ATM card\r\nwill be linked to a special online account which upon activation will grant\r\nyou access for online transfer usage which also solves our problem of huge\r\nmoney transfers.\r\nkindly send to me your full information such as:\r\n\r\nyour full name\r\nyour address\r\ntelephone number\r\ncopy of any identification of you\r\n\r\nThe said funds do not come under the control of the government at the\r\nmoment within which your bank operates. We can rightly lay claim to the\r\nfund as it is eligible for redistribution. I assure you the bank will not\r\nask you any questions or documents because I have all the documents\r\nrelating to this transaction. I have all the documents relating to this\r\nfund deposited with the bank. I am a PEACE-loving, HONEST and simple man.\r\n\r\nI assure that if we join hands together trusting each other's judgement,\r\nthis transaction will be successful.\r\n\nThanks and have a nice day,\r\nHeang Sopheak"
+    },
+    {
+        "from": "baiter_1038",
+        "to": "scammer_1038",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.007199074074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: MORE INFO!",
+        "body": "Hello Heang Sopheak,\n\nI hope you're having a wonderful day! Your message is quite intriguing, I must say. The concept of an ATM card with higher withdrawal limits sounds very interesting. \n\nCould you please explain more about how this ATM card works? And what do you mean by a special online account? How does it function?\n\nAlso, could you clarify what you meant by the funds not coming under the control of the government? How is that possible?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nGreg"
+    }
+]

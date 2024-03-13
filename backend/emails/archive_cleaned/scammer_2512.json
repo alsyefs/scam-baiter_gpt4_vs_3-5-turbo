@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2512",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "UNION BANK OF NIGERIA PLC..",
+        "body": "UNION BANK OF NIGERIA PLC..\n36 Broad Street, Marina Lagos,\nNigeria Telegram: Union Broad Branch\nBig, Strong , Leliable\nTelephone: +234-8167735691\nDear,Sir  .\nRE:THE UNION BANK AIDS AND AWARENESS SCHEME.SCAMMED VICTIMS PAYMENT COMPENSATION OF US$US$3,100,000,00. (REF:CODE:06654XX19)\nYour name and email address was listed for this compensation payment after Ronald Gibson Williams and Rev Mark Duru with his groups, who claimed to be Government  Agents, was arrested and they confessed of scamming you and many others lot of money sometime ago. Scammed Victims Payment Compensation has approved by The Central Bank of Nigeria and Union Bank of Nigeria  for settlement of affected victims.\nIt was based on this confession that the Union Bank Scammed Victims Compensation department decided to reimburse you with the sum of US$3,100,000,00.\nHowever, kindly let us know if you are willing to receive your compensation payment from the Union Bank  so that we will advice you on what next to do to receive your compensation payment of us$3.1M .\nWe will need your full names,address,age and contact telephone numbers with us$15 dollars for  your online  transfer charge  .\nYours Faithfully,\nMr. Thomas  Adams\nDirector Union Bank,(UBN)\nof Nigeria Plc"
+    },
+    {
+        "from": "baiter_2512",
+        "to": "scammer_2512",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: UNION BANK OF NIGERIA PLC..",
+        "body": "Hello Mr. Thomas Adams,\n\nThank you for reaching out to me regarding the reimbursement of funds. I appreciate the information you have provided about Ronald Gibson Williams and Rev Mark Duru's fraudulent activities. It is concerning to hear that they scammed me and others out of a significant amount of money.\n\nI am definitely interested in receiving my payment from Union Bank. Could you please provide more details on how the process works? Specifically, I would like to know what steps I need to take to receive the funds and any necessary documentation or identification required.\n\nAdditionally, could you clarify the amount that will be reimbursed to me? You mentioned \"US,\" but there seems to be a missing figure after that. It would be helpful to know the exact amount involved.\n\nLastly, I understand that there might be an online transfer charge. Could you please explain how this charge is calculated and if there are any alternative methods of receiving the payment without incurring additional fees?\n\nThank you once again for your assistance, Mr. Adams. I look forward to your prompt response.\n\nBest wishes,\nJoel"
+    }
+]

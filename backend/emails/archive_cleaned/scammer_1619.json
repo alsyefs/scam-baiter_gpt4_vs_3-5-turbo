@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1619",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello (REMOVED),",
+        "body": "Hello (REMOVED),\nThank you for your interest in the Document Processor role at Solstice Spark Solutions. We are excited to inform you that your application has been reviewed and successfully moved to the next stage of consideration.\nTo kickstart your onboarding journey, please connect with Michelle Gomez, our dedicated hiring manager, at \nmichellegomez@solsticesparksolutions.co\n. Remember to include the position title in your email to expedite the process.\nWe aim to ensure every candidate has a positive experience throughout our hiring process. If you have any other questions as you progress, feel free to contact Michelle.\nWishing you the best of luck.\nRegards,\nTalent Acquisition Manager"
+    },
+    {
+        "from": "baiter_1619",
+        "to": "scammer_1619",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello (REMOVED),",
+        "body": "Hello REMOVED,\n\nThank you for reaching out and providing me with this information. I appreciate your interest in the Document Processor role at Solstice Spark Solutions. It's great to hear that my application has been reviewed and moved to the next stage.\n\nI will make sure to connect with Michelle Gomez, the hiring manager, as you suggested. Could you please provide me with her email address so that I can reach out to her directly?\n\nAlso, I wanted to ask if there are any specific documents or information that Michelle would like me to include in my email when contacting her? I want to make sure I provide all the necessary details to expedite the process.\n\nThank you again for your assistance, and I look forward to hearing back from you soon.\n\nBest wishes,\nRuth"
+    }
+]

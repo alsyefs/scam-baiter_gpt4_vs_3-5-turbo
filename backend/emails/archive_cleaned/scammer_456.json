@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_456",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Honourable Client      ",
+        "body": "  Honourable Client      \n  The $5,000 was actually  sent to you via  RIA MONEY TRANSFER\nbut I am  very Sorry for the whole stress as there was a mix up error in the RIA MONEY TRANSFER details sent to you.\n \n Please  reconfirm your full name, address country  and direct phone number for a follow up in  re-sending the $5,000 payment to you via RIA MONEY TRANSFER.\n \n Regards\n \nLINDA CONRAD   "
+    },
+    {
+        "from": "baiter_456",
+        "to": "scammer_456",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Honourable Client      ",
+        "body": "Hello Linda Conrad,\n\nThank you for your message. I'm really excited about this RIA MONEY TRANSFER, although I must admit, I'm not entirely sure how it works. Could you perhaps explain a bit more about the process? \n\nAlso, you mentioned there was a mix-up error in the details sent to me. Could you clarify what exactly went wrong? It's all a bit confusing to me.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nEmery"
+    }
+]

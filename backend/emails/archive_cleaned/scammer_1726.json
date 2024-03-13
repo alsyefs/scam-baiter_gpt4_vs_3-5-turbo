@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1726",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Cargo Unit",
+        "body": "  Cargo Unit\nChicago O’Hare International Airport\nAirport code: ORD\n10000 West O’Hare\nChicago, IL 60666\nUSA\nATTENTION: Final Notice of Your Package\nIn view of your inability to receive your package reg #: GB8100AF\noriginally scheduled to be delivered to you by the agency Foreign\npayment service New York. This package in a golden metal box valued\n5,316,000USD (Five Million, Three Hundred and Sixteen thousand United\nstates dollars) arrived at Chicago international airport via British\nairways flight no.\nBA592 from London UK some time ago. The agency Foreign payment service\nNew York staff came and applied for the release of this package for\ndelivery to your address but has since not shown up. I am writing to\nyou to inform you that the days of grace has expired and we shall\nbegin to charge the storage fee of $10usd daily.\nNote that this notice serves as our last recovery notice to you as our\ndepartment will be completed to list your package has an unclaimed and\nmaybe forfeited.\nBest regards,\nSandra Hope   "
+    },
+    {
+        "from": "baiter_1726",
+        "to": "scammer_1726",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Cargo Unit",
+        "body": "Hello Sandra Hope,\n\nThank you for reaching out to me regarding the package. I appreciate the update and apologize for any inconvenience caused by the delay. Could you please provide me with more information about the package? Specifically, what is the reason it was sent to me and who is the sender?\n\nAdditionally, I would like to know more about the agency Foreign payment service New York. Can you explain their role in this process and why they have not shown up to deliver the package?\n\nLastly, could you clarify what you mean by \"days of grace\" and how much the storage fee will be charged daily? I want to make sure I understand all the details before proceeding.\n\nThank you again for your assistance.\n\nBest wishes,\nAlissa"
+    }
+]

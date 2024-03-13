@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2418",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir,",
+        "body": "  Dear Sir,\nWhile we are waiting for your passport to come out I want you to send me your full name and address so I can get an affidavit sworn on it before your pp comes out, with the affidavit we should be able to commence the process so that when your passport comes out we are almost done\nRobert Ursini\ninfo.financialconsultants1124@aol.com\n "
+    },
+    {
+        "from": "baiter_2418",
+        "to": "scammer_2418",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir,",
+        "body": "Hello Robert Ursini,\n\nThank you for your message and the update on the process. I'm really excited about this opportunity and can't wait to get started.\n\nHowever, I must apologize as I am not comfortable sharing my full name and address over email due to privacy concerns. Is there any other way we could proceed without me having to provide such personal information?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRachel"
+    }
+]

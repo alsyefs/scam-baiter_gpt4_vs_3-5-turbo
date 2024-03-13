@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_955",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn: Fund Beneficiary",
+        "body": "Attn: Fund Beneficiary\nWe wish to officially inform you that our international diplomatic agent conveying the delivery of your consignment box valued the sum of ($6.5M USD) misplaced your info on transit and he is currently stranded right at your international airport with your consignment Box. We required you reconfirm the following information below so that your consignment box will be brought to your Country of residence by the Diplomat who would accompany you to your bank, if you want him to deposit the funds in your name and submit all documentations that has to do with the origin of the funds in other to exonerate you from any form of investigations or interrogation and to authenticate the fact that the funds are clean and has no links whatsoever with either drugs or terrorism.\nThe Requested Information is to ensure that no mistake or error is made and it should be forwarded in the manner stated below:\nYour Full Name:...............................\nYour Complete Address: .........................\nName of City of Residence: ........................\nName of Closest Airport to your city of Residence...\nDirect Telephone Number...\nPlease make contact with the agent with the email below with the info required so he can complete the trip containing your payment fund today. Contact Person: Diplomat Agent Morris Lee E-mail: (\ndeliverydiplomatmorrislee@gmail.com\n) Phone: +1 (267) 570-3834 Call or text message only Via Whatsapp.\nHe is waiting to hear from you today with the information required, NOTE The funds in the package is (Six  Million five  Hundred Thousand U.S.Dollars) and we confirm that these funds are fully free of any liens, and are clean, clear and non-criminal origin and are available in the form of CASH.\nTHANKS FOR CHOOSING US AS YOUR FAVORITE DELIVERY COMPANY\nBEST REGARDS,\nDR. NELSON BROWN\nDIRECTOR UPS COURIER COMPANY BENIN REPUBLIC."
+    },
+    {
+        "from": "baiter_955",
+        "to": "scammer_955",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attn: Fund Beneficiary",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding the delivery of my box. However, I have a few questions before proceeding further.\n\n1. Can you please provide more details about the contents of the box? It would be helpful to know what exactly is being delivered.\n\n2. How did my information get misplaced during transit? Is there any way to prevent such incidents in the future?\n\n3. Could you clarify why it is necessary for me to accompany the diplomat to my bank? What are the specific steps involved in depositing the funds in my name?\n\n4. Is there any documentation or paperwork that needs to be completed before the funds can be deposited? If so, what are those requirements?\n\nI look forward to your response and further instructions.\n\nBest wishes,\nEverett"
+    }
+]

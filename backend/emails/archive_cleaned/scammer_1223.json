@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1223",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Your ATM card",
+        "body": "Your ATM card\nThe EUR 600,000 prize is awarded by the European Bank for Reconstruction and Development (EBRD) in cooperation with the UN. Your money is a valid credit card that allows you to withdraw money from any ATM in the world.\nWe will send the credit card to your address by courier service. Furtherfor information? Please contact our regional advisor at According to the following. Contact: Brian Shukan.   Email:  \njamespeter@vivaldi.net\n \nRegards\nFotis Angelos"
+    },
+    {
+        "from": "baiter_1223",
+        "to": "scammer_1223",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Your ATM card",
+        "body": "Hello Fotis Angelos,\n\nThank you for reaching out to me. I'm interested in learning more about this ATM card and the EUR prize. Could you please provide me with some additional details? How was I selected for this prize, and what is the process for receiving the credit card?\n\nAlso, could you clarify who Brian Shukan is and how he is involved in this? I would appreciate any further information you can provide.\n\nBest wishes,\nMatt"
+    }
+]

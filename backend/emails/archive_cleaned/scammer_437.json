@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_437",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "MEEWEE’s Angel Partners is a m",
+        "body": "MEEWEE’s Angel Partners is a member-led business angel group that is committed to finding, funding, mentoring and supporting great young companies from pitch through to development, scale-up, and successful exit."
+    },
+    {
+        "from": "baiter_437",
+        "to": "scammer_437",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: MEEWEE’s Angel Partners is a m",
+        "body": "Hello there! Thank you for sharing this information about MEEWEE Angel Partners. It sounds like an interesting venture. Can you tell me more about how your group finds and selects the companies you choose to support?\n\nBest wishes,\nRalph"
+    }
+]

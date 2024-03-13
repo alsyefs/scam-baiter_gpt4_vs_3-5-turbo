@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_114",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  hellow",
+        "body": "  hellow\nyour $10.5m have approve to be pay to you contact Mr.william Codger email \namericabank4638@gmail.com\nbest regards\nMr. John Wood   "
+    },
+    {
+        "from": "baiter_114",
+        "to": "scammer_114",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   hellow",
+        "body": "Hello! That sounds interesting. Can you tell me more about how I have been approved for payment? What is the process for receiving it?\n\nBest wishes,\nGregory"
+    },
+    {
+        "from": "scammer_114",
+        "to": "baiter_114",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: hellow",
+        "body": "send your information of origin of the heritance fund approved to be paid\r\nto you by the US bank America\r\n\r\n\r\nThank you\r\n\r\n\r\nMr Williams Codger"
+    },
+    {
+        "from": "baiter_114",
+        "to": "scammer_114",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.009756944444444445,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: hellow",
+        "body": "Hello Mr. Williams Codger, thank you for reaching out. Could you please provide more details about the inheritance fund approved by the US bank Erica? I would like to learn more about this opportunity.\n\nBest wishes,\nGregory"
+    },
+    {
+        "from": "scammer_114",
+        "to": "baiter_114",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.015509259259259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: hellow",
+        "body": "Then if you was told to contact bank of America the send your full detail\r\ninformation including your driver's license copy for the verification of\r\nwhat we have in the payment files\r\n\r\n\r\nThank you\r\n\r\n\r\n\r\nMr Williams Codger"
+    },
+    {
+        "from": "baiter_114",
+        "to": "scammer_114",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03133101851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: hellow",
+        "body": "Hello! Thank you for reaching out. Could you please provide more information about why my full details and driver's license copy are needed? I want to make sure I understand the situation clearly before proceeding.\n\nBest wishes,\nGregory"
+    },
+    {
+        "from": "scammer_114",
+        "to": "baiter_114",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.038391203703703705,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: hellow",
+        "body": "sorry more information cannot be given to you for security reason to avoid\r\ndiverting someone's fund"
+    },
+    {
+        "from": "baiter_114",
+        "to": "scammer_114",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.05126157407407408,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: hellow",
+        "body": "Oh, I understand the need for security measures. Can you provide more details on how the funds are being managed to ensure they reach the right recipients?\n\nBest wishes,\nGregory"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2648",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention:",
+        "body": "  Attention:\nThis is to notify you That your funds valued Three Million Five \nHundred Thousand united states dollars (US $3,500,000.00) has been \nreleased today to the United Bank Of Africa.\nFor your convenience, You Will Have to withdraw/transfer Through an \nATM GLOBAL CARD by yourself to your local account. By this method, We \nwill send you the ATM GLOBAL CARD to the address you are to provide here\nContact the United Bank Of Africa to provide personnal with the \nrequested details so you can provide them and await your delivery.\nI look forward to hearing from you.\nCONTACT PERSON:\nMr.Maxwell Johnson,\nPhone Number +229 6368 4928\nCONTACT United Bank Of Africa.\nEMAIL: (  \nmaxwelljohnson04@mail.com\n  )\nSINCERELY,\nMr.George McConnell.   "
+    },
+    {
+        "from": "baiter_2648",
+        "to": "scammer_2648",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention:",
+        "body": "Hello Johnson,\n\nWow, that's quite a surprise! I can't believe my luck. Could you please tell me more about this ATM GLOBAL CARD? How does it work exactly? And how did I come to be so fortunate to have these funds released to me?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nHarold"
+    }
+]

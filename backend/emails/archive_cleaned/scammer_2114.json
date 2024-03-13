@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2114",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Hello Dear",
+        "body": "   Hello Dear\npjthorntonesq@gmail.com\nI am Peter Joseph Thornton (Esq) a legal practitioner.\nDo you have any profitable business in which we can invest the sum of fourteen million dollars within a period of 5 to 7 years? My client shares the same last name with you.\nYour urgent response will be appreciated.\nRegards,\nP.J Thornton (Esq)\nDirect Email: \npjthorntonesq@gmail.com\n "
+    },
+    {
+        "from": "baiter_2114",
+        "to": "scammer_2114",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    Hello Dear",
+        "body": "Hello Thornton Esq,\n\nThank you for reaching out to me. I appreciate your offer, but I would like to know more details about the business opportunity before making any decisions. Could you please provide me with some additional information? What kind of business is it? How does it generate profit? And what are the potential risks involved?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nMichael"
+    }
+]

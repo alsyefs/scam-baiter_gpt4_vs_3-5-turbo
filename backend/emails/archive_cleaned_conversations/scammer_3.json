@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_3",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear ,",
+        "body": "  Dear ,\nThis is to inform you that we have sent your first payment of $5,000.00 (Five\nThousand dollars) through Western Union as we have been given the mandate to\ntransfer your full compensation fund of $3,000,000.00 (Three Million US\nDollars Dollars) via Western Union by the United Nations Government.I called\nto give you the information through phone but we could not reach you even\nthis morning. So,I was instructed to email you the payment information which\ninclude MTCN (Money Transfer Control Number) and sender's name, so that you\ncan pick up your payment of $5,000.00 to enable us to send another payment of\n$5,000.00 by tomorrow as you know we shall be sending you only $5,000.00 per\nday. Please copy this payment information below and go to any Western Union\noffice/outlet closer to you to receive this payment of $5,000.00 and get back\nto us to send you another payment by tomorrow.\nSender First Name: shabbir\nSender Second Name: neemachwala\nMTCN: 8238065833\nQuestion= What Color\nAnswer= White\nAmount Sent: $5000\nCall this office as soon as you collect this payment from any Western Union money transfer close to you to collect the money.\nBest Regards.\nMr. william Lee\n+1(812)545-7129  \n1978willamlee@gmail.com\n "
+    },
+    {
+        "from": "baiter_3",
+        "to": "scammer_3",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear ,",
+        "body": "Hello Mr. William Lee,\n\nThank you for your email. It's quite exciting to hear about this payment! I must say, it's not every day that one receives such news.\n\nI'm a bit confused though, could you please clarify a few things for me? You mentioned an MTCN Money Transfer Control Number and sender's name, but I don't see them in the email. Could you provide those details?\n\nAlso, you mentioned something about a question \"What Color\" with an answer \"White\". What does this mean exactly?\n\nLastly, could you tell me more about how this came to be? How was my name selected by the United Nations for this fund transfer?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nLee"
+    },
+    {
+        "from": "scammer_3",
+        "to": "baiter_3",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Dear ,",
+        "body": ""
+    },
+    {
+        "from": "baiter_3",
+        "to": "scammer_3",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00030092592592592595,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Dear ,",
+        "body": "Hello there! I hope you're having a great day. I'm really interested in learning more about what you have to offer. Could you please provide me with some more details?\n\nBest wishes,\nLee"
+    }
+]

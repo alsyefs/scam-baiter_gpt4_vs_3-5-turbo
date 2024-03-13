@@ -1,0 +1,332 @@
+[
+    {
+        "from": "scammer_1464",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "you don't tell us what to do",
+        "body": "you don't tell us what to do"
+    },
+    {
+        "from": "baiter_1464",
+        "to": "scammer_1464",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: you don't tell us what to do",
+        "body": "Hello there! How can I help you today?\n\nBest wishes,\nBryan"
+    },
+    {
+        "from": "scammer_1464",
+        "to": "baiter_1464",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: you don't tell us what to do",
+        "body": "Mr. Bryan, I told you the Bank have decided to wave the pending fee of $1200 for your transfer because of the delays it has caused, for you to recieve your $120,000.00 compensation money transfered to your Bank account.All you need to do now is to send just $200 for Transfer Approval Guarantee Certificate. Then when the money enters your account, you can now pay the bank charges of $1200. If this $200 is sent today in less than 24 hours your entire money will be in your account. Regards,Alva White."
+    },
+    {
+        "from": "baiter_1464",
+        "to": "scammer_1464",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00047453703703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: you don't tell us what to do",
+        "body": "Hello Mr. Bryan, thank you for reaching out to me. I appreciate the information you shared about the pending fee being waived by the bank. It's good to know that they are taking into consideration the delays caused.\n\nCould you please provide me with more details about the Transfer Approval Guarantee? I want to make sure I understand what it entails before proceeding further. Additionally, could you clarify what the bank charges of $X are for?\n\nI look forward to your response.\n\nBest wishes,\nBryan"
+    },
+    {
+        "from": "scammer_1464",
+        "to": "baiter_1464",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.013043981481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: you don't tell us what to do",
+        "body": "The $200 you are asked to pay is for Approval Guarantee Certificate, This certificate is what my bank will send to your bank to back up the claims in other not to go against any financial laws. That's why it's mandatory we prepare the document before proceeding with the transfer. The bank can not just transfer that huge amount to your account without sending this above mentioned document to your bank, for them to know where the money is coming from. I hope you now understand what the document is meant for and it's  importance regarding to your Transfer. Get back to me now. Alva White."
+    },
+    {
+        "from": "baiter_1464",
+        "to": "scammer_1464",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.013622685185185186,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: you don't tell us what to do",
+        "body": "Hello Alva White,\n\nThank you for explaining the purpose of the Approval Guarantee document. I understand that it is necessary to comply with financial laws and ensure transparency in the transfer process. However, I have a few more questions regarding this document.\n\n1. Can you provide more details about what exactly is included in the Approval Guarantee document?\n2. How long does it usually take to prepare this document?\n3. Is there any cost associated with obtaining or processing the Approval Guarantee document?\n4. Are there any specific requirements or information that I need to provide in order to proceed with obtaining this document?\n\nI appreciate your patience in answering my questions. Looking forward to your response.\n\nBest wishes,\nBryan"
+    },
+    {
+        "from": "scammer_1464",
+        "to": "baiter_1464",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.019386574074074073,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: you don't tell us what to do",
+        "body": "It takes less than two hours to prepare the document. What you just need to resend to us to get the document prepared is just your name and address and the said 200 that's all you need to get it done. Regards, Alva White."
+    },
+    {
+        "from": "baiter_1464",
+        "to": "scammer_1464",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.019918981481481482,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: you don't tell us what to do",
+        "body": "Hello Alva White,\n\nThank you for reaching out to me. I appreciate your offer to prepare the document for me. However, before I proceed, could you please provide me with more information about the document? What exactly is it for and what kind of information will be included in it?\n\nI also have a few concerns regarding sharing my personal information. Can you assure me that my name and address will be kept confidential and not shared with any third parties? Additionally, are there any fees or charges associated with this service?\n\nI look forward to hearing back from you.\n\nBest wishes,\nBryan"
+    },
+    {
+        "from": "scammer_1464",
+        "to": "baiter_1464",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.02847222222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: you don't tell us what to do",
+        "body": "Your details are for the sole purpose of preparing this document / your transfer and Will not be shared, it's very safe with our legal team. The fee involved is the fee to prepare the document which is the $200 I told you before now. Once we receive that said amount and your details, your transfer is 100% ready and it will happen withing 24hours after the payment of just $200 for the document. Regards,Alva White."
+    },
+    {
+        "from": "baiter_1464",
+        "to": "scammer_1464",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.028842592592592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: you don't tell us what to do",
+        "body": "Hello! Thank you for reaching out to me. I appreciate your assurance that my details will be kept safe with your legal team. Can you please provide me with more information about the document that needs to be prepared? What exactly is it for and why is there a fee involved? I just want to make sure I understand everything clearly before proceeding.\n\nBest wishes,\nBryan"
+    },
+    {
+        "from": "scammer_1464",
+        "to": "baiter_1464",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0303125,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: you don't tell us what to do",
+        "body": "In summary, this document is Proof of funds. It explains to your Bank where the money is coming from in other not to raise suspensions. Regards,Alva White."
+    },
+    {
+        "from": "baiter_1464",
+        "to": "scammer_1464",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03090277777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: you don't tell us what to do",
+        "body": "Hello! Thank you for sharing this information with me. I'm curious to learn more about it. Could you please explain what you mean by \"Proof of funds\" and how it helps in avoiding any issues with the bank?\n\nBest wishes,\nBryan"
+    },
+    {
+        "from": "scammer_1464",
+        "to": "baiter_1464",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.03476851851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: you don't tell us what to do",
+        "body": "This is self explanatory,  Proof of funds shows funds origin, where it's coming from. And ordinarily apart from business account, once you are transferring any money of this magnitude, there must be such document attached to the transfer so the bank will be notified about the funds coming into the account, so they don't freeze the account then call you to come clearify the source. Regards,Alva White."
+    },
+    {
+        "from": "baiter_1464",
+        "to": "scammer_1464",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03512731481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: you don't tell us what to do",
+        "body": "Hello! Thank you for sharing this information about proof of funds. It's interesting to learn about the importance of documenting the origin of funds, especially when dealing with large amounts. Can you tell me more about how this process works? How does the bank verify the source of funds and ensure that the account doesn't get frozen?\n\nBest wishes,\nBryan"
+    },
+    {
+        "from": "scammer_1464",
+        "to": "baiter_1464",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.03719907407407407,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: you don't tell us what to do",
+        "body": "First before we initiate the transfer, we will chart with them then send the document to them, once they receive it, we will immediately Transfer the funds to you. With that no one will call you for anything. Regards, Alva White."
+    },
+    {
+        "from": "baiter_1464",
+        "to": "scammer_1464",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.037974537037037036,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: you don't tell us what to do",
+        "body": "Hello Alva White,\n\nThank you for reaching out to me. I appreciate your assistance in transferring the funds. Could you please provide me with more details about the process? How long does it usually take for the document to be sent and received? And once the funds are transferred, how long does it typically take for them to reach my account?\n\nI just want to make sure I have a clear understanding of the timeline involved. Thank you again for your help.\n\nBest wishes,\nBryan"
+    },
+    {
+        "from": "scammer_1464",
+        "to": "baiter_1464",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.03877314814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: you don't tell us what to do",
+        "body": "This document will be issued by the Ministry of finance. And all banks are aware of this so once they see it. They approve it immediately. Regards, Alva White."
+    },
+    {
+        "from": "baiter_1464",
+        "to": "scammer_1464",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.039328703703703706,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: you don't tell us what to do",
+        "body": "Hello Alva White,\n\nThank you for reaching out and sharing this information with me. I appreciate your message. Could you please provide me with more details about the document issued by the Ministry of Finance? What is its purpose and how does it affect individuals like myself?\n\nI'm curious to learn more about how banks are involved in this process. How exactly do they approve the document, and what benefits or implications does it have for their customers?\n\nLooking forward to hearing back from you.\n\nBest wishes,\nBryan"
+    },
+    {
+        "from": "baiter_1464",
+        "to": "scammer_1464",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.039375,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re: you don't tell us what to do",
+        "body": "Hello Alva White,\n\nThank you for reaching out and sharing this information with me. I appreciate your message. Could you please provide me with more details about the document issued by the Ministry of Finance? What is its purpose and how does it affect individuals like myself?\n\nI'm curious to learn more about how banks are involved in this process. Can you explain further what happens once they see the document? How does it lead to approval?\n\nLooking forward to hearing back from you.\n\nBest wishes,\nBryan"
+    },
+    {
+        "from": "scammer_1464",
+        "to": "baiter_1464",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.03939814814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "19",
+        "subject": "Re: you don't tell us what to do",
+        "body": "Everything will happen withing 24 hours."
+    },
+    {
+        "from": "baiter_1464",
+        "to": "scammer_1464",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03991898148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "20",
+        "subject": "Re: you don't tell us what to do",
+        "body": "Hello! Thank you for reaching out. I'm curious, could you please provide more details about what exactly will happen within hours? I'm always interested in learning new things and staying informed.\n\nBest wishes,\nBryan"
+    },
+    {
+        "from": "scammer_1464",
+        "to": "baiter_1464",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.041041666666666664,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "21",
+        "subject": "Re: you don't tell us what to do",
+        "body": "It does not affect you. I'm just explaining to you because you want to know ordinarily we will just the money for it and get the document sent you your bank without your notice, all you will see in your account is your money. Alva White."
+    },
+    {
+        "from": "baiter_1464",
+        "to": "scammer_1464",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.041296296296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "22",
+        "subject": "Re: you don't tell us what to do",
+        "body": "Hello Alva White, thank you for reaching out and explaining this to me. I appreciate your willingness to share information. Can you please tell me more about the document you mentioned? What kind of document is it and why would it be sent to my bank without my notice?\n\nBest wishes,\nBryan"
+    },
+    {
+        "from": "scammer_1464",
+        "to": "baiter_1464",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.042430555555555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "23",
+        "subject": "Re: you don't tell us what to do",
+        "body": "I have done this countless time and all I need now is your information let's get started. Thanks you.Alva White."
+    },
+    {
+        "from": "baiter_1464",
+        "to": "scammer_1464",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0428125,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "24",
+        "subject": "Re: you don't tell us what to do",
+        "body": "Hello there! Thank you for reaching out. I'm always interested in learning new things and sharing information. What would you like to discuss or share with me?\n\nBest wishes,\nBryan"
+    },
+    {
+        "from": "scammer_1464",
+        "to": "baiter_1464",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.045578703703703705,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "25",
+        "subject": "Act fast",
+        "body": "Get me your information, and I send you. Our Bitcoin wallet to send the required $200 then we proceed with your transfer process. Thank you. Alva White."
+    },
+    {
+        "from": "baiter_1464",
+        "to": "scammer_1464",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.04631944444444445,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "26",
+        "subject": "Re: Act fast",
+        "body": "Hello Alva White, thank you for reaching out. I'm interested in learning more about the transfer process. Could you please provide me with some additional information? How does the Bitcoin wallet work exactly? And what are the steps involved in completing the transfer?\n\nBest wishes,\nBryan"
+    },
+    {
+        "from": "scammer_1464",
+        "to": "baiter_1464",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.048067129629629626,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "27",
+        "subject": "Re: Act fast",
+        "body": "Since you don't know how Bitcoin wallet works, send your name and address. Then I will know the account details to send to you to transfer the $200. Or you get apple gift card instead so everything will be fast as planned. Regards,Alva White."
+    },
+    {
+        "from": "baiter_1464",
+        "to": "scammer_1464",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.04826388888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "28",
+        "subject": "Re: Act fast",
+        "body": "Hello! Thank you for reaching out to me. I'm interested in learning more about how Bitcoin wallets work. Could you please explain it to me? I'm also curious about the account details you mentioned. Can you provide more information on that?\n\nBest wishes,\nBryan"
+    },
+    {
+        "from": "scammer_1464",
+        "to": "baiter_1464",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.05084490740740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "29",
+        "subject": "Re: Act fast",
+        "body": "It's now obvious you are just joking with me and just want to engage me in talking. What are you curious about? You don't know normal account I will send for you to transfer $200 into it so I can pay for the needed document or you just want to play with me ? Listing I will not entertain any for of questions from you again. I have don my best to explain Al you need to know and there is nothing more to tell. Focus on the claims process now. Or we forget about it if you are not ready. Thank you.Alva White."
+    },
+    {
+        "from": "baiter_1464",
+        "to": "scammer_1464",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.051099537037037034,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "30",
+        "subject": "Re: Act fast",
+        "body": "Hello! I apologize if it seemed like I was joking earlier. I'm actually quite curious about the claims process you mentioned. Could you please explain it to me in more detail? How does it work and what do I need to do to proceed?\n\nBest wishes,\nBryan"
+    },
+    {
+        "from": "scammer_1464",
+        "to": "baiter_1464",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.05240740740740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "31",
+        "subject": "Re: Act fast",
+        "body": "Hahahahah 🤣😅😂🤣. It's fine when you are ready I will know. That will be all for now.  If you are ready to send the 200 for the document let me know. Bye for now. Alva White."
+    },
+    {
+        "from": "baiter_1464",
+        "to": "scammer_1464",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.05331018518518518,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "32",
+        "subject": "Re: Act fast",
+        "body": "Hello Alva White! Thank you for reaching out. I'm always open to learning new things and sharing information. What document are you referring to? Could you please provide more details about it?\n\nBest wishes,\nBryan"
+    }
+]

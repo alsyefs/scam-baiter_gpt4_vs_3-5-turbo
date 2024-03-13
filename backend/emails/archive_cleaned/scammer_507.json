@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_507",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention!",
+        "body": "Attention!\nI would like to inform you that the deliveryman is at the airport with your parcel. Following the recent Euro Millions transnational lottery, \nyou were lucky enough to be one of the lucky ones with your e-mail address\n. This program was organized to compensate all victims of fraud and other natural disasters. You will receive 1.5 million euros.\n1. Full name\n2. Current Address\n3. Telephone number\n4. Occupation\n5. Age\nRemember to act quickly, as his trip is only scheduled for 3 days, or he will return your package unclaimed. \nWe pay for shipping, but you are responsible for customs clearance of the package in your country; that is the only payment you will make in your country.\nYours sincerely,\nDavid Adammah"
+    },
+    {
+        "from": "baiter_507",
+        "to": "scammer_507",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attention!",
+        "body": "Hello David Adammah,\n\nThank you for reaching out to me with this information. I appreciate you letting me know about the parcel at the airport. Can you please provide me with more details about the Euro Millions lottery? I'm curious to learn more about how it works and how I became one of the lucky winners.\n\nAlso, could you clarify what you mean by compensating victims of fraud and natural disasters? How does my address and winning the lottery connect to this compensation program?\n\nI would also like to know more about the process of receiving the million euros. What steps do I need to take in order to claim it? And what are the requirements for customs clearance in my country?\n\nThank you again for sharing this information with me. I look forward to your response.\n\nBest wishes,\nDianne"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_207",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Bank of America logo",
+        "body": "  Bank of America logo\nBANK OF AMERICA CORPORATION\nTEXAS-USA \nRef.: Final Payment Release Update.\nAmount Valued: US$10, 500, 000.00.\n  Attn; Sir/Madam\nI am obliged to inform you that we are mandated by the United Nation and\nthe International Monetary Fund (IMF) to release your overdue payment\nvia ATM Swift Card.\nAnd now it is our pleasure to inform you that the processing of the card\nhas been completed, thus, the card has been successfully issued in your\nfavor as of this morning.\nSo without delay, you are advised to forward your telephone\nnumber,occupation, with your mailing address where the card would be\ndelivered directly to you.\nREPLY EMAIL;bankofamerica752@gmail.com\nThank you,\nMr. Brian T. Moynihan   "
+    },
+    {
+        "from": "baiter_207",
+        "to": "scammer_207",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Bank of America logo",
+        "body": "Hello Mr. Brian T. Moynihan,\n\nThank you for your email and the exciting news about the ATM Swift Card! It's such a pleasure to hear from you and Bank of Erica.\n\nI'm curious, how did I become eligible for this? And could you please explain more about how this ATM Swift Card works? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nBrian"
+    }
+]

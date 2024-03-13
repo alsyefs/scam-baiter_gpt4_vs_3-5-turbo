@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_1997",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  ATTORNEY AT LAW & SOLICITORS",
+        "body": "  ATTORNEY AT LAW & SOLICITORS\n301 KUGE ROAD ABUJA,NIGERIA.\nGreetings,\nI am Mr. Mark Richard, Head Accounts Management Section of a well-known Bank here in Nigeria., One of our accounts with a holding balance of US$15,500,000 (Fifteen Million, Five Hundred Thousand United States Dollars) has been dormant for some years,  the owner died in an ,automobile accident along Pretoria N1 High-Way. Our Financial Institution is presently and by law the custodian of the money belonging to the deceased, whose account I am responsible for monitoring and officiating. Since we got information about his death, we have been expecting his next of kin or business associate to come and claim his money because it cannot be released unless somebody applies for it as next of kin or business associate to the deceased as indicated in our banking guidelines but unfortunately no one did. It is therefore upon this discovery that I now decided to make this business proposal to you and release the money to your account as the next of kin or business associate. The Banking law and guideline here stipulates that if such money remains dormant after eight years; the money will be transferred into the Bank treasury as unclaimed funds. The request for your assistance and maximum co-operation as a foreign citizen is highly needed to release this fund. 30% of the total sum will be allocated to you after a successful transfer of the money into your account, and 70% will be for me and my associates. Please note that I don't have any access to withdraw or claim this money because it was insured by the deceased. I will indulge you at this point to understand that this is privileged information and must be strictly confidential.\nI have confidentially discussed this issue with some of the bank officials and we have agreed to find a reliable foreign partner to deal with. This transaction is totally free of risk and troubles as the fund is Legitimate and does not originate from drug or money laundering. In your interest, please reply as soon as possible.\nYours truly,\nMr. Mark Richard.   "
+    },
+    {
+        "from": "baiter_1997",
+        "to": "scammer_1997",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   ATTORNEY AT LAW & SOLICITORS",
+        "body": "Hello Mr. Mark Richard,\n\nThank you for reaching out to me with this opportunity. I am interested in learning more about how we can proceed with releasing the funds into my account as the next of kin or business associate. Can you provide me with more details on the process and what steps need to be taken next?\n\nLooking forward to your response.\n\nBest wishes,\nPatrick"
+    },
+    {
+        "from": "scammer_1997",
+        "to": "baiter_1997",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: ATTORNEY AT LAW & SOLICITORS",
+        "body": "Mr Patrick,   i received your mail message, let me introduce my good\r\nself to you, i am Mrs Daniella Kyle, senior accountant from the paying\r\nbank here in Nigeria, i am still serving as a banker up till these\r\nmoment , we can not handle the project , that is why we involve a\r\nLawyer, ? His name Mr Mark Richard {Esq} ,he is in good position to\r\nenlighten you more about this project.,contact him on his e-mail\naddress: markrichard_law0011@hotmail.com\r\n\r\nPlease ,once you contact him try also to update me.\r\n\r\nMrs Daniella Kyle."
+    },
+    {
+        "from": "baiter_1997",
+        "to": "scammer_1997",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.014131944444444445,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: ATTORNEY AT LAW & SOLICITORS",
+        "body": "Hello Mrs. Daniella Kyle, thank you for reaching out to me. I appreciate the introduction. Could you please provide more details about the project you mentioned and how it involves the lawyer, Mr. Mark Richard Esq? I would like to understand better before contacting him.\n\nBest wishes,\nPatrick"
+    },
+    {
+        "from": "scammer_1997",
+        "to": "baiter_1997",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.19761574074074073,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: ATTORNEY AT LAW & SOLICITORS",
+        "body": "Patrick, i hope you have gone all through the email proposal , sent to you,\r\neverything concerning this project stated inside the letter, is a deal , as\r\ni stated to you, i am still serving as  a banker, and we can not operate a\r\nforeign account , that  is where the services of the Lawyer comes in?\r\n\r\nHe is the person to handle all the legal papers ?"
+    },
+    {
+        "from": "baiter_1997",
+        "to": "scammer_1997",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.20234953703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: ATTORNEY AT LAW & SOLICITORS",
+        "body": "Hello! Thank you for sharing this information with me. I'm curious, what type of project is this proposal related to? How does the lawyer fit into the process of handling legal papers for the project?\n\nBest wishes,\nPatrick"
+    }
+]

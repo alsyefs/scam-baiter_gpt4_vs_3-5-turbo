@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1809",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Presidential Task Force on Cov",
+        "body": "Presidential Task Force on Covid-19\n1201 Roxas Boulevard\nManila, Philippines 1000\nU.S. Consular Agency ( Cebu City, Philippines )\nAttention.\nDue to the Covid 19 Pandemic around the globe. The Government has set up this means to reach up to the Scam Victims that are yet to receive\ntheir Funds. This Organization has set up compensation scheme which your email address was among the list to benefit a token Bank Draft of\n$153,000.00 only.\nForward your full names, delivery address and telephone number. \nThis Bank Draft will be delivered directly from the Government PTF immunity\nflight to enable free flow of the said Draft to you.\nWe are waiting for your response.\nRegards\nMrs. Maria Lizette\nPTF Coordinator\nReply to: \nMrsMariaLizette@legislator.com"
+    },
+    {
+        "from": "baiter_1809",
+        "to": "scammer_1809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Presidential Task Force on Cov",
+        "body": "Hello Mrs. Maria Lizette,\n\nThank you for reaching out and informing me about this initiative. It's heartening to hear that the government is taking steps to help those affected by the pandemic.\n\nCould you please provide more details about this scheme? How was my email address selected for this benefit? Also, could you explain a bit more about what a Bank Draft is?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nSally"
+    }
+]

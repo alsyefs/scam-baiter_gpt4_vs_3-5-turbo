@@ -1,0 +1,282 @@
+[
+    {
+        "from": "scammer_1339",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sr/ Ma,",
+        "body": "  Dear Sr/ Ma,\nMy name is Joseph Cole, Director of Operation at CRYPTO DREAM.\nSome of my colleagues in other Blockchain Companies like; TETHER\n(USDT), Bitcoin (BTC) etc, asked me to look for a trustworthy person\nwho has the capability to receive crypto currency that runs into\nmillions of dollars when exchanged.\nThey have many wallets whose owners can no longer be reached or\nidentified, some have died in the on-going Russian/Ukrainian war, by\naccidents or even natural disasters, without any next of kin in their\nmandates with the Companies.\nIf you can work with us, you will be entitled to 25% of whatever\namount we move out per time.\nThis deal can be concluded in a week with your cooperation.\nRevert very quickly if you think you are that person we are to work with.\nBest Regards.\nJoseph Cole.\nEmail:josephcolecryptodream@gmail.com   "
+    },
+    {
+        "from": "baiter_1339",
+        "to": "scammer_1339",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sr/ Ma,",
+        "body": "Dear Joseph Cole,\n\nThank you for reaching out to me. I appreciate the opportunity you have presented regarding receiving cryptocurrency. I'm interested in learning more about this opportunity.\n\nCould you please provide me with some additional details? Specifically, I would like to know how the funds are obtained and what my role would be in this process. Additionally, it would be helpful to understand the potential risks involved and any legal considerations.\n\nI look forward to your response.\n\nBest wishes,\nJack"
+    },
+    {
+        "from": "scammer_1339",
+        "to": "baiter_1339",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Sr/ Ma,",
+        "body": "Dear Mr Jack,\r\nThanks for writing back. This business is an opportunity that I believe\r\nthat providence has brought our way and we must quickly take advantage of\r\nit. If you give us your full cooperation, we can consummate the deal within\r\na week. To proceed, please provide us with your receiving crypto WALLET\r\naddress, a copy of your ID and your WhatsApp number, to execute the\r\ntransfer.\r\nAs the transaction is progressing, I will be updating you.\r\nAwaiting your quick reply.\nRegards.\r\nMr Joseph Cole.\r\nDirector."
+    },
+    {
+        "from": "baiter_1339",
+        "to": "scammer_1339",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0003125,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Sr/ Ma,",
+        "body": "Dear Mr Joseph Cole,\n\nThank you for reaching out to me. I appreciate your enthusiasm about this business opportunity. However, before we proceed, I have a few questions that I would like to clarify.\n\n1. Could you please provide more details about the nature of this business opportunity? What exactly is it that we will be doing?\n\n2. How does the transfer process work? Can you explain it in more detail?\n\n3. Is there any financial investment required from my end? If so, what is the amount and how will it be utilized?\n\nI look forward to your response and gaining a better understanding of this opportunity.\n\nBest wishes,\nJack"
+    },
+    {
+        "from": "scammer_1339",
+        "to": "baiter_1339",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.048171296296296295,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Draft MoU.",
+        "body": "Dear Mr Jack\r\n\r\nOkay, please review the attached MoU and let us know your thoughts before\r\nwe proceed.\r\n\nRegards.\r\nMr Joseph Cole.\r\nDirector of Operations."
+    },
+    {
+        "from": "baiter_1339",
+        "to": "scammer_1339",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.19899305555555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Draft MoU.",
+        "body": "Dear Mr Joseph Cole,\n\nThank you for reaching out to me. I appreciate your willingness to share information with me. Could you please provide me with some more details about the attachment you mentioned? What is it about and how does it relate to our conversation?\n\nI look forward to hearing back from you.\n\nBest wishes,\nJack"
+    },
+    {
+        "from": "scammer_1339",
+        "to": "baiter_1339",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.2607986111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Draft MoU.",
+        "body": "Dear Mr Jack,\r\nI am sorry for late response.\r\nThe attachment is a draft MoU which is all we need as a guide to the\r\nbusiness as parties.\r\nPlease carefully view the (MoU) Memorandum of understanding and sign it and\r\nforward it to me along with other required details to proceed.\r\nI wait to hear from you.\nRegards.\r\nMr Joseph Cole.\r\nDirector of Operations."
+    },
+    {
+        "from": "baiter_1339",
+        "to": "scammer_1339",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.282175925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Draft MoU.",
+        "body": "Dear Mr. Joseph Cole,\n\nThank you for reaching out to me. I appreciate your patience and apologize for the delay in my response. I hope you are doing well.\n\nI received the draft attachment you mentioned, but I would like to clarify a few things before proceeding. Could you please provide more information about the Memorandum of? What is its purpose and how does it relate to the business we will be involved in?\n\nAdditionally, could you kindly explain what other required details you need from me? It would be helpful to have a clear understanding of what is expected so that I can provide the necessary information promptly.\n\nThank you again for your time and assistance. I look forward to hearing back from you soon.\n\nBest wishes,\nJack"
+    },
+    {
+        "from": "scammer_1339",
+        "to": "baiter_1339",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.572511574074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Draft MoU.",
+        "body": "Dear Mr Jack,\r\nThank for your prompt response, I am convinced that with this and other\r\nthings yet to be observed, you must be a sincere and honest person I have\r\nbeen looking for.\r\nOnce again thank you for your cooperation.\r\nThe content of the MoU is clear and very easy to understand, must\r\nimportantly is to ensure that You and I are in agreement with the terms and\r\nconditions to ensure that this business is concluded in a timely manner and\r\ngood atmosphere, which includes the shareing percentage 60/40 upon the\r\nimmediately release of the two Tether wallets into your own BTC wallet of\r\nyour nominated bank account as you so desire.\r\n\r\nAnd should there be any reason to invest in the course of the transaction,\r\nwe should also bear the cost at 60/40.\r\n\r\nTo proceed, you are expected to provide your personal details which\r\nincludes your full names, your current residence address, a copy of your\r\nany Government approved ID, and a cellphone number for easy communication.\r\nI wait to read from you.\nRegards.\r\nMr Joseph Cole.\r\nDirector of Operations."
+    },
+    {
+        "from": "baiter_1339",
+        "to": "scammer_1339",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.448726851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Draft MoU.",
+        "body": "Dear Mr. Joseph Cole,\n\nThank you for your response. I appreciate your kind words and assurance of sincerity and honesty. I am definitely interested in learning more about this business opportunity.\n\nCould you please provide me with some additional details about the terms and conditions? It would be helpful to have a clear understanding of what is expected from both parties involved.\n\nAlso, could you explain further how the sharing percentage works upon the release of the two Tether wallets into my BTC wallet? I want to make sure I fully comprehend the process before moving forward.\n\nRegarding the investment costs, what kind of expenses might arise during the course of this business? It would be good to know upfront so that we can plan accordingly.\n\nLastly, for security purposes, could you please explain why you require my personal details such as full names, current residence address, copy of a government-approved ID, and cellphone number? I just want to ensure that my information will be handled securely.\n\nThank you once again for reaching out to me. I look forward to hearing back from you soon with more information.\n\nBest wishes,\nJack"
+    },
+    {
+        "from": "scammer_1339",
+        "to": "baiter_1339",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.8810069444444446,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "What you need to know.",
+        "body": "Dear Mr Jack,\r\nI am in receipt of your email and all content well noted.\r\nIn response to your mail, the terms and conditions here is clearly stated\r\nfor your perusal.\r\n1. Which is the sharing percentage of 60% for me and 40% for you which will\r\ntake effect immediately upon the receipt confirmation of the value of the\r\ntwo Tether Wallets into your BTC wallet.\r\n\r\n2.Upon confirmation of the fund in your BTC, on or before 24hours the\r\ndisbursement of the funds shall be made by you as the final beneficiary\r\napproved by the court through the issues of Affidavit of Trust and Claim in\r\nyour name.\r\n\r\n3. About the investment cost, I am sure this will be minimal which might be\r\nrequired by the court to execute the transfer of Ownership to reflect your\r\nname as the next-of-kine and final beneficiary of the two Tether Wallets.\r\nThis cost shall be shared by both parties same as 60/40% and that is only\r\nonce.\r\n\r\nFinally the security purposes, I can assure you 100% that all your personal\r\ndetails must be secured in my safe hand as I also assure you that this\r\ntransition is 100% risk free and must be completed in a record time.\r\nFurther more your personal details are only required by our legal\r\ndepartment to be summited and presented to the court to execute the\r\ntransfer of Ownership to reflect your name as the next-of-kine and final\r\nbeneficiary of the two available Tether Wallets.\r\n\r\nI am sure these has explained your questions and please you are expected to\r\nforward those required details now to enable me forward it to our legal\r\ndepartment to proceed with their assignment to procure the legal needed\r\ndocuments in your name as the next-of-kine and final beneficiary of the two\r\nTether wallets.\r\nThank you for your cooperation as I wait to hear from you today.\r\n\nRegards.\r\nMr Joseph Cole.\r\nDirector of Operations."
+    },
+    {
+        "from": "scammer_1339",
+        "to": "baiter_1339",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.891388888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Update.",
+        "body": "I will be waiting to read back from you with your info.\nRegards.\r\nMr Joseph Cole.\r\nDirector of Operations"
+    },
+    {
+        "from": "baiter_1339",
+        "to": "scammer_1339",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.9072453703703705,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Update.",
+        "body": "Hello Mr. Joseph Cole,\n\nThank you for reaching out to me. I appreciate your willingness to share information. Could you please provide me with more details about what kind of information you would like to share? I'm curious to know more.\n\nBest wishes,\nJack"
+    },
+    {
+        "from": "scammer_1339",
+        "to": "baiter_1339",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.918298611111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Update.",
+        "body": "Dear Mr Jack,\r\nSir,\r\nYour prompt response is highly appreciated.\r\nTo proceed, you are expected to forward your full name and current\r\nresidence address, a copy of your passport or any Government approved ID,\r\nand your current cell phone number for easy communication.\r\nOnce I get all this information I will forward it to the company legal\r\ndepartment to proceed immediately in your name.\r\nI wait to read back from you with the info to avoid further delay.\nRegards.\r\nMr Joseph Cole.\r\nDirector of Operations."
+    },
+    {
+        "from": "scammer_1339",
+        "to": "baiter_1339",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.7956712962962964,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Update.",
+        "body": "Dear Mr Jack,\r\nSir,\r\nI got your response but no information was found in the mail.\r\nPlease resend the details  to avoid further delay.\r\nI am waiting to hear back from you.\nRegards.\r\nMr Joseph Cole.\r\nDirector of Operations."
+    },
+    {
+        "from": "baiter_1339",
+        "to": "scammer_1339",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.366956018518518,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: Draft MoU.",
+        "body": "Dear Mr. Joseph Cole,\n\nThank you for your response. I appreciate your kind words and assurance of sincerity and honesty. I am definitely interested in learning more about this business opportunity.\n\nCould you please provide me with some additional details about the terms and conditions? It would be helpful to have a clear understanding of what is expected from both parties involved.\n\nAlso, could you explain further about the release of the two Tether wallets into my BTC wallet? How does that process work exactly?\n\nLastly, I understand that there might be some costs involved in the course of this investment. Could you please elaborate on what those costs might be and how they will be handled?\n\nI look forward to hearing back from you soon.\n\nBest wishes,\nJack"
+    },
+    {
+        "from": "scammer_1339",
+        "to": "baiter_1339",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.433888888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Explanation.",
+        "body": "Dear Mr Jack,\r\nSir,\r\nThe questions you are asking have been explained to you in the previous\r\nemail I sent to you.\r\n Please go through the previous email I sent to you, the answers to all you\r\nneed to know have been preview to you.\r\n\r\nAbout the Two Tether wallets available, it will be transferred to your Own\r\nBTC Wallet immediately an affidavit of trust and claim is swarn in Court in\r\nyour name as the next-of-kine and final beneficiary of the funds.\r\nThis means that the legal department will execute transfer of ownership to\r\nreflect your name as the next-of-kine and final beneficiary of the fund.\r\n\r\nAbout the cost and Investment in the business, it's only once which is\r\nminimal and must be shared among the two parties, it will be 60% and 40%\r\nrespectively only upon demand by the legal department as the Court may dim\r\nit feet.\r\nI will keep you update as the business progress.\r\nPlease for your details to enable me proceed with the process.\nRegards.\r\nMr Joseph Cole.\r\nDirector of Operations."
+    },
+    {
+        "from": "baiter_1339",
+        "to": "scammer_1339",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.532303240740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: Draft MoU.",
+        "body": "Dear Mr. Joseph Cole,\n\nThank you for your response. I appreciate your kind words and assurance of sincerity and honesty. I am definitely interested in learning more about this business opportunity.\n\nCould you please provide me with some additional details about the terms and conditions? It would be helpful to have a clear understanding of what is expected from both parties involved.\n\nAlso, could you explain further how the sharing percentage works upon the release of the two Tether wallets into my BTC wallet? I want to make sure I fully comprehend the process before moving forward.\n\nRegarding the investment costs, what kind of expenses might arise during the course of this business? It would be good to know upfront so that we can plan accordingly.\n\nLastly, for security purposes, could you please explain why you require my personal details such as full names, current residence address, copy of a government-approved ID, and cellphone number? I just want to ensure that my information will be handled securely.\n\nThank you once again for your time and assistance. I look forward to hearing back from you soon.\n\nBest wishes,\nJack"
+    },
+    {
+        "from": "baiter_1339",
+        "to": "scammer_1339",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.7207638888888885,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re: Explanation.",
+        "body": "Dear Mr. Joseph Cole,\n\nThank you for your response. I apologize if I missed any information in the previous email. Could you please clarify a few things for me?\n\n1. In the previous email, you mentioned two Tether wallets. Could you explain what these wallets are used for and how they are connected to the affidavit of trust and claim in court?\n\n2. You mentioned that there is a cost and investment involved in the business. Could you provide more details about this? What is the purpose of this cost and how much is it?\n\n3. How will I be kept updated on the progress of the business? Will there be regular communication or specific milestones that will be shared with me?\n\nI appreciate your assistance in providing these clarifications.\n\nBest wishes,\nJack"
+    },
+    {
+        "from": "scammer_1339",
+        "to": "baiter_1339",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.199675925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "19",
+        "subject": "Info.",
+        "body": "Mr Jack,\r\nSir,\r\nUnfortunately I have explained to you and answered all the questions you\r\nare asking.\r\nWith due respect, please visit the previous email and get back to me with\r\nyour information as soon as possible.\nRegards.\r\nMr Joseph Cole.\r\nDirector of Operations."
+    },
+    {
+        "from": "baiter_1339",
+        "to": "scammer_1339",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.220960648148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "20",
+        "subject": "Re: Info.",
+        "body": "Dear Mr Joseph Cole,\n\nThank you for reaching out to me. I apologize if I have missed any previous emails or questions you may have answered. Could you please provide me with a brief summary of the information you would like to share? I am interested in learning more and would be happy to discuss further.\n\nBest wishes,\nJack"
+    },
+    {
+        "from": "scammer_1339",
+        "to": "baiter_1339",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.238900462962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "21",
+        "subject": "Re: Info.",
+        "body": "Mr Jack,\r\nSir\r\nThe information we need to process are as follows.\r\nYour full name, current residence address. A copy of your passport or\r\ndriver's license, and your cellphone number.\r\nOnce I get these details we proceed.\nRegards.\r\nMr Joseph Cole.\r\nDirector of Operations."
+    },
+    {
+        "from": "baiter_1339",
+        "to": "scammer_1339",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.240763888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "22",
+        "subject": "Re: Info.",
+        "body": "Dear Mr. Joseph Cole,\n\nThank you for reaching out to me. I appreciate your assistance in processing whatever it is that you mentioned. However, before I provide any personal information, could you please clarify what exactly this process is for? I want to make sure I understand the purpose and ensure that it aligns with my needs.\n\nAdditionally, could you please provide more details about your organization or company? It would be helpful to know who I am dealing with and what your role is within the organization.\n\nThank you again for your time and cooperation.\n\nBest wishes,\nJack"
+    },
+    {
+        "from": "baiter_1339",
+        "to": "scammer_1339",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.51230324074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "23",
+        "subject": "Re: Update.",
+        "body": "Dear Mr. Joseph Cole,\n\nThank you for reaching out to me. I appreciate your prompt response and willingness to provide further information. However, before I proceed, I have a few questions regarding the process.\n\n1. Could you please clarify what this opportunity is about? I would like to have a better understanding of the purpose and benefits involved.\n\n2. What company are you representing? It would be helpful to know more about the organization and its background.\n\n3. Is there any specific reason why you require my full name, current residence address, copy of my passport or ID, and cell phone number? How will this information be used?\n\nI look forward to hearing back from you with the requested information so that we can continue our conversation.\n\nBest wishes,\nJack"
+    },
+    {
+        "from": "baiter_1339",
+        "to": "scammer_1339",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.6375,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "24",
+        "subject": "Re: Update.",
+        "body": "Dear Mr. Joseph Cole,\n\nThank you for reaching out to me. I apologize if there was any issue with the previous email. I appreciate your prompt response.\n\nTo clarify, I am contacting you today to share some exciting information about a unique investment opportunity that has recently come across my desk. It involves a cutting-edge technology company that is poised for significant growth in the coming years.\n\nThis company has developed a revolutionary product that has the potential to disrupt an entire industry. With their innovative approach and strong leadership team, they are well-positioned to capture a substantial market share.\n\nI understand that you may have some questions or concerns, and I would be more than happy to address them for you. Could you please let me know what specific details you would like me to resend? Additionally, feel free to ask any follow-up questions or request further information about this opportunity.\n\nLooking forward to hearing back from you soon.\n\nBest wishes,\nJack"
+    },
+    {
+        "from": "baiter_1339",
+        "to": "scammer_1339",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.741365740740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "25",
+        "subject": "Re: What you need to know.",
+        "body": "Dear Mr. Joseph Cole,\n\nThank you for your prompt response. I appreciate the detailed information you have provided regarding the terms and conditions of this transaction. It is good to know that the sharing percentage will be determined upon receipt of the funds into my BTC wallet.\n\nRegarding the investment cost, you mentioned that it will be minimal and required by the court to execute the transfer of ownership. Could you please provide more details about this cost? I would like to understand what it entails before proceeding further.\n\nYou mentioned that all my personal details will be secured in your safe hands. That is reassuring to hear, as security is definitely a concern for me. Can you please explain how my personal details will be used by your legal department and why they are necessary for the transfer of ownership?\n\nI want to ensure that everything is done legally and without any risks involved. Can you please provide more information about the legal process and how long it usually takes to complete such transactions?\n\nThank you once again for your assistance, Mr. Cole. I look forward to hearing from you soon.\n\nBest wishes,\nJack"
+    },
+    {
+        "from": "scammer_1339",
+        "to": "baiter_1339",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.805752314814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "26",
+        "subject": "I am waiting for your info?",
+        "body": "Dear Mr Jack,\r\nSir,\r\nAll the questions you are asking have been answered in my previous mail to\r\nyou.\r\nIn summary.\r\nThe shareing percentage as you already know is 60% for me and 40% for you\r\nwhich will be disburse by you upon Confirmation receipt of the fund into\r\nyour BTC wallet.\r\n\r\nThe cost to execute the transfer of ownership to reflect your name as the\r\nnext-of-kine and final beneficiary will be determine by court and not me.\r\n\r\nYour details shall be summited and presented to the court to execute an\r\nAffidavit transfer of ownership to reflect your name as the next-of-kine\r\nand final beneficiary of the fund.\r\n\r\nI can assure you that if you give me your cooperation this business can be\r\ncomsumate on or before 5 days.\r\n\r\nThank you for your understanding and cooperation in this matter.\nRegards.\r\nMr Joseph Cole.\r\nDirector of Operations."
+    },
+    {
+        "from": "baiter_1339",
+        "to": "scammer_1339",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.823981481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "27",
+        "subject": "Re: I am waiting for your info?",
+        "body": "Dear Mr. Joseph Cole,\n\nThank you for your response. I apologize if I missed any information in your previous email. I appreciate your patience in explaining it to me again.\n\nRegarding the sharing percentage, could you please clarify what the specific percentages are for both of us? It would be helpful to have a clear understanding of how the funds will be divided.\n\nYou mentioned that the cost to execute the transfer of ownership will be determined by the court. Could you provide more details on what this cost entails? I want to make sure I have a complete picture of all the expenses involved.\n\nAdditionally, could you explain how my details will be submitted and presented to the court for the execution of an Affidavit transfer of ownership? What documents or information will be required from me?\n\nI am interested in moving forward with this business opportunity, but I would like to gather as much information as possible before making any decisions. Thank you for your assistance and cooperation.\n\nBest wishes,\nJack"
+    }
+]

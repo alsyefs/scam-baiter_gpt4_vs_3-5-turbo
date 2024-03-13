@@ -1,0 +1,102 @@
+[
+    {
+        "from": "scammer_354",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   I am capable of transferrin",
+        "body": "   I am capable of transferring your fund. Waiting for your reply so I can proceed.   "
+    },
+    {
+        "from": "baiter_354",
+        "to": "scammer_354",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    I am capable of transferrin",
+        "body": "Hello! Thank you for reaching out. I'm interested in learning more about how you can help with my funds. Can you provide me with some more details on the process and how it works?\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "scammer_354",
+        "to": "baiter_354",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: I am capable of transferrin",
+        "body": "Thanks for your reply. I will use Zenith Bank Plc to make the transfer to\r\nyour Bank account. I will first of transfer $1,200,000.00 to avoid any stop\r\norder and too much documentation."
+    },
+    {
+        "from": "baiter_354",
+        "to": "scammer_354",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.014895833333333334,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: I am capable of transferrin",
+        "body": "That sounds like a good plan. Can you provide me with the necessary details for the transfer, such as the account number and the name on the account?\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "scammer_354",
+        "to": "baiter_354",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.017141203703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: I am capable of transferrin",
+        "body": "You are to provide your Bank account details, receiving address and Phone\r\nnumber."
+    },
+    {
+        "from": "baiter_354",
+        "to": "scammer_354",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.036458333333333336,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: I am capable of transferrin",
+        "body": "Hello! I'd be happy to help. Can you please tell me more about why you need this information?\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "scammer_354",
+        "to": "baiter_354",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0372337962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: I am capable of transferrin",
+        "body": "So I can schedule the transfer of the fund."
+    },
+    {
+        "from": "baiter_354",
+        "to": "scammer_354",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0565625,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: I am capable of transferrin",
+        "body": "That sounds great! Could you please provide me with more details on how the fund transfer will be processed?\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "scammer_354",
+        "to": "baiter_354",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.057256944444444444,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: I am capable of transferrin",
+        "body": "I have done that already."
+    },
+    {
+        "from": "baiter_354",
+        "to": "scammer_354",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.07811342592592592,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: I am capable of transferrin",
+        "body": "That's great to hear! How did it go?\n\nBest wishes,\nMaria"
+    }
+]

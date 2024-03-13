@@ -1,0 +1,122 @@
+[
+    {
+        "from": "scammer_1788",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  I am Mrs Grace Larson, 67 ye",
+        "body": "  I am Mrs Grace Larson, 67 years, from the USA, I am childless and I am suffering from a pro-long critical cancer, Can I trust you? If yes,Reply Urgent For more details With Regards.\nMrs.Grace    "
+    },
+    {
+        "from": "baiter_1788",
+        "to": "scammer_1788",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   I am Mrs Grace Larson, 67 ye",
+        "body": "Hello Mrs. Grace Larson,\n\nI'm really sorry to hear about your situation. It must be very tough for you. I'm here to listen and help in any way I can, but please understand that I won't be able to provide any personal information.\n\nCould you tell me more about what kind of assistance or support you're looking for?\n\nBest wishes,\nJamie"
+    },
+    {
+        "from": "scammer_1788",
+        "to": "baiter_1788",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Read More Details from Mrs. Grace",
+        "body": "My Dear Friend,\r\n\r\nI am Mrs. Grace Larson, 67 years, from the USA, I am childless, and I am\r\nsuffering from a pro-long critical cancer, my doctors confirmed I may not\r\nlive beyond two months from now as my ill health has defiled all forms of\r\nmedical treatment.\r\n\r\nPlease forgive me for stressing you with my predicaments and am sorry to\r\napproach you through this media, it is because it serves the fastest means\r\nof communication. I came across your Email from my personal search and I\r\ndecided to contact you believing you will be honest to fulfill my final\r\nwish before I die.\r\n\r\nSince my days are numbered, I’ve decided, willingly, to fulfill my\r\nlong-time promise to donate to you the sum ($10.755.000.00 USD) Inherited\r\nfrom my late husband Mr. Larson Benjamin, which has been in a security safe\r\nbox over the years. I need a very honest person who can assist in securing\r\nthe safe box and using the funds for the charity work of God. while you\r\nwill receive 50% for yourself.\r\n\r\nThe Deposit documents  proof that will have you claim this fund without\r\nstress will be forwarded to you upon your response to this mail.\r\n\r\nI want you to know there are no risks involved; it is 100% hitch free &\r\nsafe. If you will be interested in assisting me by getting the box and\r\nsecuring the funds for a charity project to fulfill my promise before I\r\ndie, please let me know immediately with your full details below.\r\n\r\n1. Full names\r\n2. Private phone number\r\n3. Current residential address\r\n4. Occupation\r\n5. Age & Sex.\r\n\r\nI will appreciate your utmost confidentiality as I wait for your reply.\nBest Regards\r\nMrs Grace Larson"
+    },
+    {
+        "from": "baiter_1788",
+        "to": "scammer_1788",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0008912037037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Read More Details from Mrs. Grace",
+        "body": "Hello Mrs. Grace Larson,\n\nI'm deeply moved by your story and I'm sorry to hear about your health condition. It's really brave of you to think about charity in such a difficult time. \n\nHowever, I must tell you that I am not comfortable sharing my personal details over email due to privacy concerns. Is there any other way we can proceed with this? Maybe through an official organization or a legal representative?\n\nAlso, could you please share more details about the charity work you mentioned? What kind of projects are you interested in? And how do you envision these funds being used for the betterment of society?\n\nLooking forward to hearing from you.\n\nBest wishes,\nJamie"
+    },
+    {
+        "from": "scammer_1788",
+        "to": "baiter_1788",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.2405902777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "From Mrs. Grace",
+        "body": "Thank you very much for your response once again, I have been in\r\nintensive care since yesterday with a new doctor from Germany.\r\n\r\n\r\nFeel free with me with your details, All I need from you is your full name\r\nand phone number if possible your address to enable me to use it to process\r\nthe letter I want to send to the bank on your behalf as the beneficiary to\r\nhandle this fund for a charity project.\r\n\r\nThe kind of project I wish is to build hospitals or the voluntary giving of\r\nhelp, typically in the form of money, to those in need as poor masses.\r\n\r\nHere here is my Driving Licence with the deposit certificate\r\n\r\nLooking forward to hearing from you.\nBest wishes,\r\n\r\nMrs Grace"
+    },
+    {
+        "from": "baiter_1788",
+        "to": "scammer_1788",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.5952662037037038,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: From Mrs. Grace",
+        "body": "Hello Mrs. Grace,\n\nI'm sorry to hear that you've been in intensive care, I hope you're feeling better now. It's great to hear about your charity project, it sounds like a wonderful initiative.\n\nHowever, I must apologize as I can't provide my full name, phone number or address due to personal reasons. Is there any other way I could assist with the project without sharing these details?\n\nAlso, could you tell me more about this new doctor from Germany? How did they end up working with you? And what kind of hospitals are you planning to build?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJamie"
+    },
+    {
+        "from": "baiter_1788",
+        "to": "scammer_1788",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.491944444444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: From Mrs. Grace",
+        "body": "Hello Mrs Grace,\n\nI'm sorry to hear that you've been in intensive care. I hope your new doctor from Germany is taking good care of you. \n\nIt's really admirable that you want to use this fund for charity projects like building hospitals. That's a noble cause indeed! Could you tell me more about these projects? Where are they located? How did you come up with this idea?\n\nAs for the details, I'm afraid I can't provide my full name, phone number or address at this time due to privacy concerns. However, I'd be happy to continue discussing the project and how we can make it successful.\n\nLooking forward to hearing more about your plans!\n\nBest wishes,\nJamie"
+    },
+    {
+        "from": "scammer_1788",
+        "to": "baiter_1788",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.733668981481482,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: From Mrs. Grace",
+        "body": "Dear Friend Jamie\r\n\r\nGreeting to you\r\n\r\nThank you so much for your mail but I must say this with due respect, since\r\nyou are afraid to release your details for me, there is no need to\r\ndiscuss more about this project with you any more because you don't believe\r\nin the vision.\r\n\nGod bless you and i wish you all the best\r\n\r\nMrs Grace"
+    },
+    {
+        "from": "baiter_1788",
+        "to": "scammer_1788",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.741875,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: From Mrs. Grace",
+        "body": "Hello Mrs. Grace,\n\nThank you for your response. I appreciate your understanding of my concerns about sharing personal details. However, I am still interested in learning more about this project you mentioned. Could you please provide some more information? What is the vision that you're referring to?\n\nBest wishes,\nJamie"
+    },
+    {
+        "from": "baiter_1788",
+        "to": "scammer_1788",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.742118055555555,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: From Mrs. Grace",
+        "body": "Hello Mrs Grace,\n\nI'm sorry to hear that you've been in intensive care. I hope you're feeling better now. It's great to hear about your charity project, it sounds like a wonderful initiative.\n\nHowever, I must apologize as I am not comfortable sharing my personal details such as full name, phone number or address over the internet due to privacy concerns. Is there any other way I can assist with your project without providing these details?\n\nAlso, could you please tell me more about this bank letter? What exactly is its purpose and how does it relate to the charity project?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJamie"
+    },
+    {
+        "from": "baiter_1788",
+        "to": "scammer_1788",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.512511574074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: From Mrs. Grace",
+        "body": "Hello Mrs Grace,\n\nI'm sorry to hear that you've been in intensive care. I hope you're feeling better now. It's great to hear about your charity project, it sounds like a wonderful initiative.\n\nCould you tell me more about this project? What kind of hospitals are you planning to build and where? How will the funds be used exactly?\n\nAs for my details, I'm afraid I can't share them at the moment due to privacy reasons. But I'd love to continue discussing your project and how I might be able to help.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJamie"
+    },
+    {
+        "from": "baiter_1788",
+        "to": "scammer_1788",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.7007060185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: From Mrs. Grace",
+        "body": "Hello Mrs Grace,\n\nI'm sorry to hear that you've been in intensive care. I hope your new doctor from Germany is taking good care of you. \n\nYour charity project sounds very noble and it's great to see people like you wanting to make a difference in the world. Building hospitals and helping those in need is indeed a commendable cause.\n\nHowever, I must apologize as I am not comfortable sharing my personal details such as full name, phone number or address over the internet due to privacy concerns. Is there any other way I can assist with your project without providing these details?\n\nAlso, could you please tell me more about this bank letter? What exactly does it entail? And how will it help in handling the fund for the charity project?\n\nLooking forward to your response.\n\nBest wishes,\nJamie"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_362",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention:  Sir/Madam.",
+        "body": "  Attention:  Sir/Madam.\nThis is to officially inform you that (ATM Card/ DEBIT Card Number of; 375987654321002) has been credited in your favour, Your Personal Identification Number is 9200. The Card Value is ($5.7Million USD) and your ATM CARD will be sent to you through DHL delivering company.\n \nYou are advice to contact me immediately with my email or telephone number to enable us forward your ATM card to you without any further delay, all the legal documents are out and will be sent to you once I hear from you with the following information below,\n \nFull Name: ---------------------\nDelivery Address: ---------------\nPhone Number: -----------------\n Country: ------------------------\nOccupation: ---------------------\nSex: -----------------------------\n Age: -----------------------------\nBank will send your ATM CARD through DHL delivering company, so get back to me with your full information before it will be late.\n \nBest Regards,\nMr. Kenny John\nDirector, Foreign Operation,\nCentral Bank of Nigeria, (CBN).   "
+    },
+    {
+        "from": "baiter_362",
+        "to": "scammer_362",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention:  Sir/Madam.",
+        "body": "Hello Mr. Kenny John,\n\nThank you for your message and the information provided. It's quite exciting to hear about this ATM card credited in my favor! I'm curious, how did this come about? \n\nAlso, could you please provide more details about the process of receiving the ATM card through DHL delivering company? I've never received anything like this before so it would be helpful to understand what to expect.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nBryce"
+    },
+    {
+        "from": "scammer_362",
+        "to": "baiter_362",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "PAYMENT PROCEDURE",
+        "body": "Dear Esteemed Beneficiary,\r\n\r\nThank you for the email correspondence. However, you are expected to\r\nprovide the details requested to enable us complete the Swift-Net\r\nauthentication of your name to the funds for a swift release and swift\r\nidentification verification code to enable efficient use of the card.\r\n\r\nTo have the card delivered to you via DHL or any other Bank preferred\r\ncourier delivery service which you will bear the cost of the shipment and\r\ninsurance coverage which is a sum of $450 USD only.  But where you cannot\r\ndeal with this option the only option next is for you to come here in\r\nperson to sign the various papers and have the card by yourself.\r\n\r\nPlease let us know your preferred option that will be best suitable to you.\nRegards,\r\nMr. Kenny John"
+    },
+    {
+        "from": "baiter_362",
+        "to": "scammer_362",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.6541319444444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: PAYMENT PROCEDURE",
+        "body": "Hello Mr. Kenny John,\n\nThank you for your prompt response and the detailed information provided. I appreciate your efforts in ensuring a smooth process.\n\nI'm curious about the options you've mentioned. Could you please elaborate more on them? Specifically, I'd like to understand what the process would look like if I were to come there in person. What kind of papers would I need to sign?\n\nAlso, could you provide more details about the delivery option? How long would it take for the card to reach me via DHL or any other courier service? And how is the cost of shipment and insurance coverage calculated?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nBryce"
+    },
+    {
+        "from": "scammer_362",
+        "to": "baiter_362",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.0979050925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "THE OPTIONS",
+        "body": "Dear Bryce,\r\n\r\nYour email is well received. Please be advised that you have not yet\r\ncomplied with providing your details as requested in that email. But about\r\nthe delivery of your card the $450 dollars will cover for both the delivery\r\nand insurance including the Customs stamp duty.\r\n\r\nOn the documents to be signed these are Bank classified financial documents\r\nrelated to the funds and the card if you are to be here in person which you\r\nmust sign before that card will be released to you.  So, if you are ready\r\nto come here for this purpose, you are welcomed , but if you want it by\r\ndelivery you will send the $450 US dollars only while the rest will be\r\nhandled to ensure a successful delivery to your address.\r\n\r\nKenny"
+    },
+    {
+        "from": "baiter_362",
+        "to": "scammer_362",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.1121180555555554,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: THE OPTIONS",
+        "body": "Hello Kenny,\n\nThank you for your prompt response. I appreciate the detailed explanation about the process. It's quite interesting to know that the dollars will cover both delivery and insurance, including Customs stamp duty.\n\nI'm curious about these Bank classified financial documents. Could you please elaborate more on what they entail? Also, if I choose to have it delivered, how would the process be different from being there in person?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nBryce"
+    },
+    {
+        "from": "scammer_362",
+        "to": "baiter_362",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.1601157407407405,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "GUARANTEED",
+        "body": "Dear Sir,\r\n\r\nIf you would love to have the card delivered to your preferred address, the\r\nonly difference is that the card will be delivered together with the\r\ndocuments for your notarization and return the signed copies back to us for\r\nrecord purposes and accountability. Either you are here in person or to be\r\ndelivered by courier service, the documents must be signed as an embodiment\r\nof the payment to complement the laws of the Federal Government and not for\r\nceremonial purposes.\r\n\r\nUpon the receipt of the $450 US dollars, the card and the documents will be\r\ndelivered to you, it is guaranteed. Meanwhile, I'm still waiting for your\r\ndetails.\r\n\r\nKenny"
+    },
+    {
+        "from": "baiter_362",
+        "to": "scammer_362",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.1734953703703703,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: GUARANTEED",
+        "body": "Hello Kenny,\n\nThank you for your detailed explanation. I appreciate the time and effort you've put into this. It's quite interesting to learn about the process of having the card delivered along with the documents.\n\nI'm curious, could you please elaborate more on what these documents are? And why is it necessary for them to be signed? Also, how does this process complement the laws of the Federal Government?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nBryce"
+    }
+]

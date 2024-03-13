@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_138",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  United States Reconciliation",
+        "body": "  United States Reconciliation Committee\n1114 6th Ave #17thW.\nR. Grace Building, New York,\nNY 10110, USA\nAttn: Sir/ Madam..\nDo you know that by now you should have concluded everything\nconcerning your transaction and receive your long overdue payment. I\nwill give you every detail the reasons and why all the efforts you\nhave made were to no avail.If you ignore this message then, I will\nstill keep watching you as you waste more of your time and money. For\nyour information there is NO WAY that transaction can be concluded\nwithout my concept because the foundation of that transaction was\nnever perfected and you were not aware.\nNO body else can assist you conclude that transaction without my\ninvolvement so STOP wasting your time because they can NOT help you\nrather cause you more harm by giving you more empty promises that will\nNOT come through.\nYours in Service\nMr. Anthony Brooks   "
+    },
+    {
+        "from": "baiter_138",
+        "to": "scammer_138",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   United States Reconciliation",
+        "body": "Hello Mr. Anthony Brooks,\n\nThank you for reaching out and sharing this information with me. I must admit, I'm a bit confused about the details of what you're referring to. Could you please elaborate more on the matter? What is it that should have been concluded by now? \n\nI'm also curious about your role in all of this. How are you involved and why is your consent necessary for the conclusion of this matter?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJames"
+    }
+]

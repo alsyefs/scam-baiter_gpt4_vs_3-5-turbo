@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2491",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "UBA Group Bank",
+        "body": "UBA Group Bank\nCarrefour des trios Banques Avenue Pape Jean Paul II, Cotonou\nRemittance Director: Ngari Peter\nContact Tel: +229 69631676\nEmail:ubaremittancedepartmentu@gmail.com\nAttention Beneficiary.\nWe have been mandated to inform you of your pending unclaimed fund\namounting to the sum of ($12,500.000USD) in our Bank and also to bring\nto your notice that all unpaid fund has been directed by the United\nNation/International Monetary Fund to dispatch to the various\nbeneficiaries including you with immediate effect due to the ongoing\npandemic saga. \nYou are advised to get back to us now with your details\nfor fast processing and transfer of your fund as directed.\nCongratulations and waiting to hear back from you\nThanks for your Co-operation and we looking forward to hear from you.\nNancy yuna\nFrom UBA Group Bank\nubaremittancedepartmentu@gmail.com"
+    },
+    {
+        "from": "baiter_2491",
+        "to": "scammer_2491",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: UBA Group Bank",
+        "body": "Hello Nancy,\n\nThank you for reaching out to me regarding the pending unclaimed fund. I appreciate you bringing this to my attention. Can you please provide me with more details about the fund? Specifically, I would like to know the amount and any relevant information about its origin.\n\nAdditionally, could you clarify how the ongoing pandemic saga is related to the dispatch of unpaid funds? I'm curious to understand the connection between these two factors.\n\nLooking forward to your response.\n\nBest wishes,\nTanesha"
+    }
+]

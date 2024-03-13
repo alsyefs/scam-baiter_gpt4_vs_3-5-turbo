@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1034",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Greetings,",
+        "body": "  Greetings,\nI am Cameron, a financial analyst. I do have some business discussion I would like us to deliberate on that would yield good profit. I can assure you that you would like it.\nGet back to me for more information.\nThanks\nCameron Gundersun   "
+    },
+    {
+        "from": "baiter_1034",
+        "to": "scammer_1034",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Greetings,",
+        "body": "Hello Cameron,\n\nThank you for reaching out. I'm always interested in hearing about new business opportunities. Could you please provide more details about this venture? What kind of business is it and how does it work?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nJuan"
+    }
+]

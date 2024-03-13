@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_1837",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Happy New Year 2024..",
+        "body": "  Happy New Year 2024..\nYour payment falls into the category  of the first quarter of 2024\npayment list. You are advised to inform us if you have received  above\n$5MIllion into your bank account so that we can maintain your personal\naccount for the transfer but if you have not received such a huge\namount automatically, the bank will open an online bank account where\nyour funds can be wired into immediately.\nThanks.\nDominique Williams   "
+    },
+    {
+        "from": "baiter_1837",
+        "to": "scammer_1837",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Happy New Year 2024..",
+        "body": "Happy New Year! Thank you for the information. Can you please provide more details about the payment list and how I can ensure that the transfer goes smoothly?\n\nBest wishes,\nEldon"
+    },
+    {
+        "from": "scammer_1837",
+        "to": "baiter_1837",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Happy New Year 2024..",
+        "body": ""
+    },
+    {
+        "from": "baiter_1837",
+        "to": "scammer_1837",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0415625,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Happy New Year 2024..",
+        "body": "Hello! How can I help you today?\n\nBest wishes,\nEldon"
+    },
+    {
+        "from": "scammer_1837",
+        "to": "baiter_1837",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6795601851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Thanks for your urgent response to my email.",
+        "body": "Dear Eldon,\r\n\r\nThanks for your urgent response to my email, your email was among the fraud\r\nvictims selected to be paid in the first quarter of 2024.  All I need from\r\nyou is your full information in order to process your payment.\r\n\r\n*Your full name, address, Telephone Number and Identification*, so that we\r\nwill do all the paperwork for the claim of the funds.\r\n\r\nThanks and get back to us with the requested information.\r\n\r\nDominique Williams."
+    },
+    {
+        "from": "baiter_1837",
+        "to": "scammer_1837",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7083796296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Thanks for your urgent response to my email.",
+        "body": "Hello Dominique,\nThank you for reaching out to me. I appreciate the opportunity to claim the funds. Could you please provide more details about the process and how soon I can expect to receive the payment? Looking forward to your response.\n\nBest wishes,\nEldon"
+    }
+]

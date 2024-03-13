@@ -1,0 +1,272 @@
+[
+    {
+        "from": "scammer_130",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   From:       Foreign Debt Of",
+        "body": "   From:       Foreign Debt Office,\n                Office of the President.\n                Federal Republic of Nigeria.\nDate:        5th February, 2024, Time: 01.35 PM: WAT.\nWe are writing to inform you that we have unclaimed funds in your name as the legal beneficiary.\nWe are mandated by the office of the Presidency to contact you that your payment funds valued $10.2M to be processed and transferred to you within 24 hours of opening  communication with you.\nYou are to send the following: Full name, address, your form of identification, telephone number (WhatsAPP).\nWe will start the process as soon as you respond.\nWe will keep you informed as soon as we can.\nThank you,\nMr. Andrew Tweedie.\nHead, Foreign Debt Office.\nFederal Republic of Nigeria.  "
+    },
+    {
+        "from": "baiter_130",
+        "to": "scammer_130",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    From:       Foreign Debt Of",
+        "body": "Hello Mr. Andrew Tweedie,\n\nThank you for reaching out to me. I'm quite surprised to hear about these unclaimed funds. Could you please provide more details about this? How did my name come up in relation to these funds? \n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nRoscoe"
+    },
+    {
+        "from": "scammer_130",
+        "to": "baiter_130",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: From: Foreign Debt Of",
+        "body": "From:       Foreign Debt Office,\r\n                Office of the President.\r\n                Federal Republic of Nigeria.\r\nDate:        5th February, 2024, Time: 01.35 PM: WAT.\r\n\r\n\r\nWe discovered your name on our database as among the beneficiaries that\r\nwill receive the sum of $10,200,000.00.\r\nYou are to send the following: Full name, address, your form of\r\nidentification, telephone number (WhatsAPP).\r\nWe will start the process as soon as you respond.\r\n\r\nWe will keep you informed as soon as we can.\r\n\r\nThank you,\r\n\r\nMr. Andrew Tweedie.\r\nHead, Foreign Debt Office.\r\nFederal Republic of Nigeria."
+    },
+    {
+        "from": "baiter_130",
+        "to": "scammer_130",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0005324074074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: From: Foreign Debt Of",
+        "body": "Hello Mr. Andrew Tweedie,\n\nWow, that's quite a surprise! I wasn't expecting to receive such news today. Could you please tell me more about this? How did my name end up in your database? And what is this sum for?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRoscoe"
+    },
+    {
+        "from": "scammer_130",
+        "to": "baiter_130",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.004791666666666666,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: From: Foreign Debt Of",
+        "body": "From:       Foreign Debt Office,\r\n                Office of the President.\r\n                Federal Republic of Nigeria.\r\nDate:        5th February, 2024, Time: 01.35 PM: WAT.\r\n\r\n\r\nYour email was selected randomly as among the beneficiaries to get paid as\r\ncompensation..\r\nYou are to send the following: Full name, address, your form of\r\nidentification, telephone number (WhatsAPP).\r\nWe will start the process as soon as you respond.\r\n\r\nWe will keep you informed as soon as we can.\r\n\r\nThank you,\r\n\r\nMr. Andrew Tweedie.\r\nHead, Foreign Debt Office.\r\nFederal Republic of Nigeria."
+    },
+    {
+        "from": "baiter_130",
+        "to": "scammer_130",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.005405092592592592,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: From: Foreign Debt Of",
+        "body": "Hello Mr. Andrew Tweedie,\n\nWow, this is such a surprise! I can't believe my email was selected randomly. Could you please tell me more about this process? How did you come across my email address? And what exactly does the Foreign Debt Office do?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRoscoe"
+    },
+    {
+        "from": "scammer_130",
+        "to": "baiter_130",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.01902777777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: From: Foreign Debt Of",
+        "body": "From:       Foreign Debt Office,\r\n                Office of the President.\r\n                Federal Republic of Nigeria.\r\nDate:        5th February, 2024, Time: 01.35 PM: WAT.\r\n\r\n\r\nYou are asking too many questions, I am only instructed to contact you for\r\nthe funds claim.You have a decision to send your details so that we can\r\nprocess the release of the funds to you.\r\nThe foreign offices are in charge of processing the release of funds to all\r\nbeneficiaries which you are among them.\r\nThe process is as soon as you provide your details, we will commence and\r\ninstruct the paying bank to open communication with you and pay you the sum.\r\n\r\nYou are to send the following: Full name, address, your form of\r\nidentification, telephone number (WhatsAPP).\r\nWe will start the process as soon as you respond.\r\n\r\nWe will keep you informed as soon as we can.\r\n\r\nThank you,\r\n\r\nMr. Andrew Tweedie.\r\nHead, Foreign Debt Office.\r\nFederal Republic of Nigeria."
+    },
+    {
+        "from": "baiter_130",
+        "to": "scammer_130",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.019502314814814816,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: From: Foreign Debt Of",
+        "body": "Hello Mr. Andrew Tweedie,\n\nThank you for reaching out to me. I'm quite intrigued by this process and the opportunity to receive funds. Could you please explain a bit more about how this works? \n\nAlso, could you tell me more about the Foreign Debt Office and its operations in Nigeria? I'm always interested in learning about new things.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRoscoe"
+    },
+    {
+        "from": "baiter_130",
+        "to": "scammer_130",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.01960648148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: From: Foreign Debt Of",
+        "body": "Hello Mr. Andrew Tweedie,\n\nThank you for reaching out to me. I'm quite intrigued by this process you've mentioned. Could you please elaborate more on it? How exactly does the release of funds work? And what role does the foreign office play in this?\n\nAlso, could you tell me more about the paying bank? Which bank is it and where is it located?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nRoscoe"
+    },
+    {
+        "from": "scammer_130",
+        "to": "baiter_130",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.022719907407407407,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: From: Foreign Debt Of",
+        "body": "From:       Foreign Debt Office,\r\n                Office of the President.\r\n                Federal Republic of Nigeria.\r\nDate:        5th February, 2024, Time: 01.35 PM: WAT.\r\n\r\n\r\nI HAVE ANSWERED  ALL YOUR QUESTIONS HERE.\r\nYou are asking too many questions, I am only instructed to contact you for\r\nthe funds claim.You have a decision to send your details so that we can\r\nprocess the release of the funds to you.\r\nThe foreign offices are in charge of processing the release of funds to all\r\nbeneficiaries which you are among them.\r\nThe process is as soon as you provide your details, we will commence and\r\ninstruct the paying bank to open communication with you and pay you the sum.\r\n\r\nYou are to send the following: Full name, address, your form of\r\nidentification, telephone number (WhatsAPP).\r\nWe will start the process as soon as you respond.\r\n\r\nWe will keep you informed as soon as we can.\r\n\r\nThank you,\r\n\r\nMr. Andrew Tweedie.\r\nHead, Foreign Debt Office.\r\nFederal Republic of Nigeria."
+    },
+    {
+        "from": "baiter_130",
+        "to": "scammer_130",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.023483796296296298,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: From: Foreign Debt Of",
+        "body": "Hello Mr. Andrew Tweedie,\n\nThank you for your message and the information provided. It's really interesting to know about the process of releasing funds. I'm curious, how does this process usually work? And what role does the foreign debt office play in it?\n\nAlso, could you please tell me more about the paying bank? How do they ensure that the funds are transferred securely?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nRoscoe"
+    },
+    {
+        "from": "baiter_130",
+        "to": "scammer_130",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.023622685185185184,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: From: Foreign Debt Of",
+        "body": "Hello Mr. Andrew Tweedie,\n\nThank you for your message and the information provided. It's quite interesting to learn about this process. I'm curious, could you please explain a bit more about how the foreign offices work in processing the release of funds? \n\nAlso, I wonder if there are any specific requirements or procedures that I need to follow on my end? \n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nRoscoe"
+    },
+    {
+        "from": "scammer_130",
+        "to": "baiter_130",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.13547453703703705,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: From: Foreign Debt Of",
+        "body": "From:       Foreign Debt Office,\r\n                Office of the President.\r\n                Federal Republic of Nigeria.\r\nDate:        9th February, 2024, Time: 01.35 PM: WAT.\r\n\r\n\r\nThe paying bank is Vitu bank, the bank will contact you as soon as you\r\nprovide to us with your full details as requested.\r\nThe bank will request for you to open a new account with them, whereby the\r\n$10.2M will be deposited to the new account you will open with them\r\nThe bank will also provide you with the userID and password which you can\r\nuse to login to the account and you can commence  funds transfer from the\r\nnew account to the account of your choice in your own country, you can\r\ntransfer a maximum of $1m per day , you can also decide to maintain and run\r\nthe account whereby you can be receiving interests monthly from the account.\r\nThe role of the  Foreign Debt Office is only to receive your details and\r\nforward them to the Vitu bank and will also ensure that you receive your\r\nfunds, that is all\r\nThe only specific requirements or procedures that you need to follow is to\r\nabide by the bank instructions for a successful funds release.\r\n.\r\nKindly send the following:\r\n Full name, address, your form of identification, telephone number\r\n(WhatsAPP).\r\nWe will start the process as soon as you respond.\r\n\r\nWe will keep you informed as soon as we can.\r\n\r\nThank you,\r\n\r\nMr. Andrew Tweedie.\r\nHead, Foreign Debt Office.\r\nFederal Republic of Nigeria."
+    },
+    {
+        "from": "baiter_130",
+        "to": "scammer_130",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.25605324074074076,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: From: Foreign Debt Of",
+        "body": "Hello Mr. Andrew Tweedie,\n\nThank you for your detailed explanation. It's quite interesting to learn about the process involved in this transaction. I have a few questions though, if you don't mind.\n\nFirstly, could you tell me more about Vitu bank? I've never heard of it before and would like to know more about its reputation and services.\n\nSecondly, you mentioned that the bank will provide me with a username and password. How secure is this online banking system? \n\nLastly, regarding the transfer limit per day, is there any way to increase this limit if needed?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRoscoe"
+    },
+    {
+        "from": "scammer_130",
+        "to": "baiter_130",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.9788194444444445,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: From: Foreign Debt Of",
+        "body": "From:       Foreign Debt Office,\r\n                Office of the President.\r\n                Federal Republic of Nigeria.\r\nDate:        9th February, 2024, Time: 01.35 PM: WAT.\r\n\r\n\r\nI am surprised you did not come back to me to claim your funds, why?\r\n\r\n\r\nWe will keep you informed as soon as we can.\r\n\r\nThank you,\r\n\r\nMr. Andrew Tweedie.\r\nHead, Foreign Debt Office.\r\nFederal Republic of Nigeria."
+    },
+    {
+        "from": "baiter_130",
+        "to": "scammer_130",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.339849537037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: From: Foreign Debt Of",
+        "body": "Hello Mr. Andrew Tweedie,\n\nI'm really surprised to hear about these funds! I wasn't aware that there was anything for me to claim. Could you please provide more information about this? How did this situation come about?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRoscoe"
+    },
+    {
+        "from": "scammer_130",
+        "to": "baiter_130",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.382152777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: From: Foreign Debt Of",
+        "body": "I am sorry i have nothing more to tell you\r\nIf you want to claim it come around if not then forget it."
+    },
+    {
+        "from": "baiter_130",
+        "to": "scammer_130",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.402581018518519,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: From: Foreign Debt Of",
+        "body": "Hello there! I appreciate your message. It sounds like you have something interesting to share. Could you please provide more details about it? I'm quite curious to know more.\n\nBest wishes,\nRoscoe"
+    },
+    {
+        "from": "scammer_130",
+        "to": "baiter_130",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.4231597222222225,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: From: Foreign Debt Of",
+        "body": "I have nothing\r\nif you are not interested then receive the money and take 70% while i take\r\n30%"
+    },
+    {
+        "from": "baiter_130",
+        "to": "scammer_130",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.403680555555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: From: Foreign Debt Of",
+        "body": "Hello there! I appreciate your message. It sounds like you're offering me an opportunity to receive some money? Could you please explain a bit more about how this works?\n\nBest wishes,\nRoscoe"
+    },
+    {
+        "from": "scammer_130",
+        "to": "baiter_130",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.518935185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Re: From: Foreign Debt Of",
+        "body": "FUCK OFF"
+    },
+    {
+        "from": "baiter_130",
+        "to": "scammer_130",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.527743055555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: From: Foreign Debt Of",
+        "body": "Sorry, but I can't assist with that.\n\nBest wishes,\nRoscoe"
+    },
+    {
+        "from": "baiter_130",
+        "to": "scammer_130",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.715150462962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "22",
+        "subject": "Re: From: Foreign Debt Of",
+        "body": "Hello Mr. Andrew Tweedie,\n\nThank you for your detailed explanation. It's really interesting to learn about the process of transferring funds through Vitu bank. I have a few questions though, if you don't mind.\n\nFirstly, could you please explain more about how the new account opening process works? Is it something that can be done online or do I need to visit a branch of Vitu bank?\n\nSecondly, you mentioned that I can transfer a maximum amount per day from the new account. Could you please specify what this maximum amount is?\n\nLastly, I'm curious about the interest rate on this account. How much interest would I be receiving monthly?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRoscoe"
+    },
+    {
+        "from": "scammer_130",
+        "to": "baiter_130",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.737743055555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "23",
+        "subject": "Re: From: Foreign Debt Of",
+        "body": "Why are you disturbing me with questions upon questions?\r\nThe interest rate is 2.1%\r\nYou are to open the account online so no need to visit the bank branch\r\nThe maximum amount to transfer per day is $1,000,000.00"
+    },
+    {
+        "from": "baiter_130",
+        "to": "scammer_130",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.7559375,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "24",
+        "subject": "Re: From: Foreign Debt Of",
+        "body": "Hello there! \n\nI appreciate your response. I'm just trying to understand everything clearly, so please bear with me. \n\nYou mentioned an interest rate but didn't specify what it is. Could you please tell me more about that? \n\nAlso, opening an account online sounds convenient! But how secure is the process? I mean, in terms of my personal information and funds?\n\nAnd regarding the maximum amount to transfer per day, could you clarify what that limit is? \n\nThank you for your patience and assistance!\n\nBest wishes,\nRoscoe"
+    },
+    {
+        "from": "scammer_130",
+        "to": "baiter_130",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.758472222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "25",
+        "subject": "Re: From: Foreign Debt Of",
+        "body": "I have nothing to explain further\r\nIf you want to proceed send your full names,address, date of birth, phone\r\nnumber\r\nIf you are not ready to send them, better stop communication so that i can\r\nfind someone else\r\nNO MORE CLARIFICATION\r\nNO MORE QUESTIONS TO ANSWER\r\nYOU ARE SOUNDING LIKE A JOKER"
+    },
+    {
+        "from": "baiter_130",
+        "to": "scammer_130",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.777673611111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "26",
+        "subject": "Re: From: Foreign Debt Of",
+        "body": "Hello there! I appreciate your message, but I'm afraid I can't provide the information you're asking for. However, I'd love to continue our conversation. Can you tell me more about what you do?\n\nBest wishes,\nRoscoe"
+    }
+]

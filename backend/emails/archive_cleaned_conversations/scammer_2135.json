@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2135",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello,",
+        "body": "  Hello,\nWe Grant Loans to individuals and companies and we're interested in financing large-volume projects and grant loans without any delay, our interest rate will be 2% annually and repayment period is 1-15years + 6 months grace period. Our Loan process is collateral free. We also pay 1% commission to any broker, who introduces Project/Business owners to us for company,business and project loans or other opportunities.\nWe Offer Funding\n* Project Finance Loan\n* Business Loan\n* Personal Loan\n* Real Estates & Constructions\n* Government Funding\nLoan processing and financing takes about 8 working days from the day you submit your loan application .\nRespond back for more information\nYours faithfully,\nFinancial Consultant On Project Finance-Spv.\nPrivate Investment Finance-(PIF).\nForeign Direct Investment-(FDI).   "
+    },
+    {
+        "from": "baiter_2135",
+        "to": "scammer_2135",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello,",
+        "body": "Hello,\n\nThank you for reaching out to me with this information. I'm always interested in learning about different financing options. Can you please provide more details about the types of projects and businesses that you typically finance? Additionally, what are the specific requirements or qualifications for obtaining a loan from your organization?\n\nI appreciate your time and look forward to hearing back from you.\n\nBest wishes,\nLuis"
+    },
+    {
+        "from": "scammer_2135",
+        "to": "baiter_2135",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Hello Luis Loan Processes",
+        "body": "Hello Luis\r\n\r\nThank you for your well-articulated email. The contents have been noted. In\r\nrespect to your application for a loan from Ezdan Holding Group to enable\r\nyou finance your project, please find below, our Loan Funding Procedures\r\nand Processes.\r\n\r\nThe Ezdan Holding Group, a Qatar-based company, offers project loans to\r\nprivate individuals and corporate organizations seeking expansion in their\r\nvarious fields. Our project loan financing focuses on Business,\r\nConstruction, Industrial, Shopping & Retail, Information Technology, Oil &\r\nGas, Real Estate, Healthcare, Education, and Sports & Leisure.\r\n\r\nWe are ready and willing to fund projects outside Qatar in the form of Soft\r\nLoans, and we grant corporate and private entities loans at a low and\r\naffordable interest rate of 3% per annum.\r\n\r\nThe terms are also very flexible and exciting.\r\n\r\nThe Ezdan Holding Group has supported and funded so many projects since its\r\ninception, and we urge you to familiarize yourself with the features of our\r\nfunding processes and procedures below:\r\n\r\n    • Minimum/Maximum Funding: USD100, 000.00/5 Billion\r\nUSD/Euro/Pounds/Qatar Riyal\r\n    • Placement Open to Entrepreneurs, Corporations, and Investors\r\n    • Funding Type: Loan Investment\r\n    • Funding Rate: 3% Interest Rate per annum\r\n    • Duration: 1-15 years - Renewable Tenor\r\n    • Currency: USD, Euros\r\n    • Repayment: Quarterly Installments\r\n    • Repayment Holiday: 1-2 years\r\n    • Loan Collateral/ Security: Insurance Guarantee Bond Indemnity.\r\n\r\nBefore you are approved for the loan, you will be given an Application Form\r\nto fill out and return to us with your Project Business Plan/Executive\r\nSummary, along with other supporting documents as below:\r\n\r\n    • Valid ID (International Passport or Driver's License) of the project\r\nowner.\r\n\r\nCertificate of Incorporation (not applicable for start-up business) to set\r\nup a file for in-house consideration by the Ezdan Holding Group Investment\r\nCommittee.\r\n\r\nUpon the approval of your loan request, the project owner will be\r\nofficially informed.\r\n\r\n*REQUIRED COLLATERAL/SECURITY:*\r\n\r\nIf the loan is finally approved, the borrower will be contractually\r\nobligated to come to our office for the closing of the loan deal and\r\nsigning of the MOU to confirm the collaboration of the Ezdan Holding Group\r\non the project proposition. Before closing and disbursement/transfer of\r\nloan funding to a borrower's designated bank account.\r\n\r\nIf the requested loan is below a million dollars the borrower is required\r\nto sign a contractual loan agreement with our attorney.\r\n\r\nTherefore, if you agree with the above terms and conditions then prepare\r\nyour executive summary/business plan of the available projects and present\r\nit to us for review by our Executive Board and Project Review Panel.\r\n\r\nAlso, send me an acknowledgment email and inform me to issue you our Loan\r\nApplication Form to fill out for further processing.\r\n\r\nThank you for partnering with Ezdan Holding Group. Best Regards.\nRegards\r\nMr. Spencer\r\nFinancial Consultant On Project Finance-Spv.\r\nPrivate Investment Finance-(PIF).\r\nForeign Direct Investment-(FDI)."
+    },
+    {
+        "from": "baiter_2135",
+        "to": "scammer_2135",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.380810185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Hello Luis Loan Processes",
+        "body": "Hello Mr. Spencer,\n\nThank you for reaching out to me and providing information about the loan funding procedures and processes at Ezdan Holding Group. I appreciate your willingness to fund projects outside of Qatar and the flexible terms you offer.\n\nI would like to learn more about the specific requirements for obtaining a loan from your company. Could you please provide some details on the collateral security that is required? Additionally, what are the typical timelines for loan approval and disbursement?\n\nFurthermore, I would like to understand more about the types of projects that Ezdan Holding Group has previously funded. Could you share some examples or success stories?\n\nOnce I have gathered all the necessary information, I will prepare my executive summary business plan and submit it for review by your Executive Board and Project Review Panel.\n\nThank you again for considering my project. I look forward to hearing back from you soon.\n\nBest wishes,\nLuis"
+    }
+]

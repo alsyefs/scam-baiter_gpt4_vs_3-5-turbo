@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2358",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Sir,",
+        "body": "Sir,\nThis email is coming to you after a serious thought concerning your\noutstanding fund transfer in Ghana. My name is Mrs. Grace Aduamah the\nHead of International Banking Operations, Bank of Ghana. I am\nresponsible for all wire remittance and final crediting to all\noutgoing wire transfers at Bank of Ghana. I am compelled to contact\nyou directly considering the pressure, threat and blackmail directed\nat my person by your associates, here in Ghana over my refusal to\nauthorize remittance of your inherited sum, which is still in Bank of\nGhana’s suspense account till date. Now I have been vindicated,\nclearance has been issued for the wire, please confirm if you are\nstill alive for us to initiate the wire.\nYours Sincerely\nMrs. Grace Aduamah\nInternational Banking Operations\nBank of Ghana\n+233208744437"
+    },
+    {
+        "from": "baiter_2358",
+        "to": "scammer_2358",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Sir,",
+        "body": "Dear Mrs. Grace Aduamah,\n\nThank you for reaching out to me regarding my fund transfer in Ghana. I appreciate your concern and willingness to assist me. However, I have a few questions before we proceed.\n\nCould you please provide more details about the inherited sum that is currently in the Bank of Ghana suspense account? How did this sum come about, and who is it inherited from? Also, what is the total amount of the fund?\n\nAdditionally, you mentioned pressure, threats, and blackmail directed at you due to your refusal to authorize the remittance. Could you elaborate on this situation? Who is pressuring you, and why are they doing so?\n\nI look forward to your response.\n\nBest wishes,\nMichael"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2416",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Toronto-Dominion Bank.",
+        "body": "Toronto-Dominion Bank.\n14 park ave Lac Du Bonnet Manitoba Canada.\nAbandoned Fund Payment of $10.5Million USD.\nAttention: Fund Beneficiary,\nI'm here to notify you about the latest development concerning your fund payments that are left in our custody, besides,you are given a bill of Sum in order to receive your payment of $10.5million USD which we haven't heard from you for some time now. Hence, we are now offering a Special BONUS of the Year to help all our customers that are having their payment in our custody due to high prices. In other words \nwe are now requesting that you should pay only the sum of $50 dollars\n to receive your funds payment abandoned in our custody by online transfer or ATM card if you wish so.\nSo\n you are requested to send the fee $50 only by apple gift Card, because it can be redeemed to cash all we need is the picture of the card\n, I will be forwarding to you the account logging details to enable you access your funds online and proceed on transfer to your designated bank account in any part of the world Or Tracking Number Of Your ATM Card Delivery to enable you Monitor the Arriver of your ATM without any further delay as soon as you update us copy of the required Fee $50 to take note.\nYours Faithfully,\nMr. Bharat Masrani\nCEO of TD Bank Canada\nEmail: \ntdbank846@aol.com"
+    },
+    {
+        "from": "baiter_2416",
+        "to": "scammer_2416",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Toronto-Dominion Bank.",
+        "body": "Hello Mr. Bharat Masrani,\n\nThank you for reaching out to me regarding my fund payments. I appreciate the update and the special bonus offer. However, I have a few questions before proceeding.\n\nCould you please provide more details about the abandoned funds? How did they end up in your custody? And what is the total amount of the funds?\n\nAdditionally, I'm not familiar with using apple gift cards for payment purposes. Could you explain why this method is being used instead of a more traditional payment method?\n\nI look forward to your response.\n\nBest wishes,\nAnthony"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_663",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  From The Stable",
+        "body": "  From The Stable\nOf Dr. Ronald Briggs\nGlobal Investment Loan Company,\nEngland, United Kingdom\nSir/Madam,\nI hope this Mail Meets you in Good Health and Sound Mind.\nI am a Business Start-Up and Investment Consultant, I work with Angel Investors, Private Investors / Lenders, VC's, Venture Funds, Investment Companies and other Financing Sources that are Privately Seeking Opportunities to Invest their Funds in Viable Business, such as, Real Estate Funding, Oil and Gas Companies, Bio-Energy,  Telecommunication, Automobile / Aviation Companies, Manufacturing Industries any other Turnkey Project(s) etc. That can Generate a Good Return of Investment for their Private Investment Portfolio.\nKindly let me know if you have Interest in our Proposal. Thank you.\nBest Regards,\nDr. Ronald Briggs\nGlobal Investment Loan Company,\nEngland, United Kingdom   "
+    },
+    {
+        "from": "baiter_663",
+        "to": "scammer_663",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   From The Stable",
+        "body": "Hello Dr. Ronald Briggs,\n\nThank you for reaching out to me. I hope this response finds you well. I must say, your proposal sounds quite interesting. Could you please provide me with more details about the types of investments and projects that your company is currently involved in? Additionally, what kind of returns can one expect from these investments?\n\nLooking forward to hearing from you.\n\nBest wishes,\nMarilyn"
+    }
+]

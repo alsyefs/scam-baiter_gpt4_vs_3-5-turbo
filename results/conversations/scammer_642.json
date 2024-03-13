@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_642",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  U.S. Department of Treasury",
+        "body": "  U.S. Department of Treasury\nTreasury Building 1500 Pennsylvania\nAvenue, NW Washington, D.C., U.S\nAttn Dear\nThis is to bring to your notice that the US Department of Treasury\nin affiliation with the Office of Foreign Assets Control (\"OFAC\") has\nbeen authorized to compensate 1,000 scam victims who were victims\nof internet scam.The USA Department of the Treasury has decided\nto pay you $5.5 Million each in order to alleviate\nhardship and restore hope for some depressed scam victims.\nYou were mentioned by one of the syndicates who was\narrested here in United States by the FBI and United States secret\nservice as one of the victims of their operations.You are hereby\nwarned not to communicate or duplicate this message to him or her for\nany reason whatsoever as the US SECRET SERVICE and FBI are already in\nsearch of the other criminals anywhere around the world ,these information\nshould remain confidential till they are all apprehended,other victims\nwho have not been  contacted can submit their applications as well for\nscrutiny and possible consideration.To make the payment simple,safe from any theft and to avoid risk of confiscation,\nWe have approved an ATM Master card for all the scam victims,and all necessary\narrangements for your ATM MASTER CARD Payment worth {US$5.500,000.00} have been\ngranted for your payment through Our ATM Card Issuance Department.\nNow Your ATM Master Card is well packaged with all the legal\ndocuments to convey it to you without having any problem with any\nsecurity Officials. Therefore we hereby invite you to our office\nhere in Washington DC ,United States, to enable us complete the\ndocumentation and activation process of your ATM Master Card and issue the\nSecret PIN CODE/NUMBER that will enable you to use your Card at any ATM\nMACHINE nearest you in any Country , as soon as it is activated.\nBest Regards,\nDr.Kate Henshaw(Mrs),\nAssistant Secretary for Economic Policy,\nUnited State Department of Treasury.   "
+    },
+    {
+        "from": "baiter_642",
+        "to": "scammer_642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   U.S. Department of Treasury",
+        "body": "Hello Mrs. Henshaw,\n\nThank you for reaching out to me with this information. I must say, it's quite surprising to hear that I've been mentioned by a syndicate member. Could you please provide more details about how my name came up in their investigation? \n\nAlso, the idea of receiving an ATM Master card is intriguing. However, I'm curious about the process involved in activating this card and how it would work internationally. Could you explain more about this?\n\nI appreciate your time and look forward to hearing from you soon.\n\nBest wishes,\nCorinne"
+    },
+    {
+        "from": "scammer_642",
+        "to": "baiter_642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: U.S. Department of Treasury",
+        "body": "Attn Beneficiary:\r\n\r\nI want to acknowledge that I received your response and the content is duly\r\nnoted.I could not respond to your email earlier because I was out of office\r\nfor an international conference in Switzerland,pardon my delayed response.\r\n\r\n In line with the ATM Master Card Issuance guidelines, you are required to\r\ncome to our office here in Washington for documentation and to collect your\r\nATM Master Card and the Pin/pass code. But since you cannot come to\r\nWashington due to illness, you have to send the following details to us\r\nimmediately.\r\n\r\nYOUR FULL NAME...........................\r\nADDRESS.........................................\r\nPHONE NUMBER.............................\r\nOCCUPATION...................................\r\nNEXT OF KIN....................................\r\nCOPY OF VALID ID CARD................\r\n\r\nOur legal team will carry out the documentation process after which your\r\nATM Master Card will be sent to your designated address with the whole\r\nlegal documents attached.Be assured that your approved fund will get to\r\nyour designated address once you adhere to the instructions.\nBest Regards,\r\nDr.Kate Henshaw (Mrs.)\r\nAssistant Secretary for Economic Policy,\r\nUnited State Treasury Department."
+    },
+    {
+        "from": "baiter_642",
+        "to": "scammer_642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.009039351851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: U.S. Department of Treasury",
+        "body": "Hello Mrs. Henshaw,\n\nThank you for your response and the information provided. I'm really excited about this ATM Master Card Issuance, it sounds like a great opportunity! \n\nI'm sorry to hear that I need to come to Washington, as my current health condition doesn't allow me to travel long distances. However, I'm glad there's an alternative way for me to get the card.\n\nBefore we proceed, could you please explain more about how this process works? And what is the purpose of the ATM Master Card? Also, could you tell me more about the legal documents that will be sent along with the card?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nCorinne"
+    },
+    {
+        "from": "scammer_642",
+        "to": "baiter_642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.479351851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: U.S. Department of Treasury",
+        "body": "Attn Beneficiary:\r\n\r\nYour email was received and the content was duly noted,\r\n\r\nBe informed that your approved fund of $5.5million will be contained in the\r\nATM Master card, you can withdraw your fund in any ATM Gallery in your\r\ncountry or anywhere in the world. But before the issuance of the Master\r\nCard, there must be proper documentation done either by you or our legal\r\nteam on your behalf,there must a third party insurance on your fund, there\r\nmust also be Special Control Unit Against Money Laundry\r\nCertification(SCUML) on your fund and full details must be on our database\r\nfor proper documentation and accountability to the US Government.\r\n\r\nTherefore you are required to send the following detail:\r\nYOUR FULL NAME...........................\r\nADDRESS.........................................\r\nPHONE NUMBER.............................\r\nOCCUPATION...................................\r\nNEXT OF KIN....................................\r\nCOPY OF VALID ID CARD................\nBest Regards,\r\nDr.Kate Henshaw (Mrs.)\r\nAssistant Secretary for Economic Policy,\r\nUnited State Treasury Department."
+    },
+    {
+        "from": "baiter_642",
+        "to": "scammer_642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.489027777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: U.S. Department of Treasury",
+        "body": "Hello Mrs. Henshaw,\n\nThank you for your email and the information provided. It's quite interesting to hear about this approved fund and the ATM Master card. I must say, it's a new concept for me.\n\nCould you please explain more about how this process works? How does the third party insurance on my fund work? And what is the Special Control Unit Against Money Laundry (SCUML)? \n\nI'm also curious about why my full details need to be on your database. Could you elaborate on that?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nCorinne"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_1390",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "We have received many prizes f",
+        "body": "We have received many prizes for the winners who won the Dwayne Johnson Foundation and KBC lottery without taking home their US$3,000,000.00 cash prizes.\nSo \nwe decided to compensate the lucky winners.  We would like you to send us the necessary information. Full Name, Age, Residential Address, Country, Email, Mobile Phone and \nID\n.\n You can reach me with my private email:  \nj_siobhan@aol.com\nGreetings\nEvelyn Williams"
+    },
+    {
+        "from": "baiter_1390",
+        "to": "scammer_1390",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: We have received many prizes f",
+        "body": "Hello Evelyn Williams,\n\nThank you for reaching out to me. I'm intrigued by the prizes you mentioned for the Dwayne Johnson Foundation and KBC lottery winners. Could you please provide more details about these prizes? What kind of prizes are they? And how exactly do the winners receive them?\n\nI understand that you need certain personal information from me, such as my full name, age, address, country, email, mobile phone, and ID. Before I share any personal information, could you please explain why these details are necessary? How will they be used to compensate the lucky winners?\n\nLooking forward to your response.\n\nBest wishes,\nJeanne"
+    },
+    {
+        "from": "scammer_1390",
+        "to": "baiter_1390",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "TREAT AS URGENT AND KEEP ME POSTED",
+        "body": "Thank for your email and understanding in this transaction.\r\nI want you to understand that this transaction is legal and legitimate success is assured.\r\nBe rest assured that your details is necessary which will be used to ascertain the lottery wining certificate to enable us direct you to the payment bank that will transfer your lottery award to your nominated bank account.\r\nKindly send your details to enable us proceed immediately."
+    },
+    {
+        "from": "scammer_1390",
+        "to": "baiter_1390",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.008912037037037038,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "VIEW M ATTACHED ID",
+        "body": "full name, Age, Address, Country, email, Mobile phone, and ID"
+    },
+    {
+        "from": "baiter_1390",
+        "to": "scammer_1390",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.010081018518518519,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: VIEW M ATTACHED ID",
+        "body": "Hello! Thank you for reaching out. How can I assist you today?\n\nBest wishes,\nJeanne"
+    },
+    {
+        "from": "scammer_1390",
+        "to": "baiter_1390",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.3147916666666667,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: VIEW M ATTACHED ID",
+        "body": "You have to send your details to enable us proceed."
+    },
+    {
+        "from": "baiter_1390",
+        "to": "scammer_1390",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.34349537037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: VIEW M ATTACHED ID",
+        "body": "Hello! Thank you for reaching out. I'm interested in learning more about what information you need from me. Could you please provide some details about the process and why my information is necessary?\n\nBest wishes,\nJeanne"
+    },
+    {
+        "from": "baiter_1390",
+        "to": "scammer_1390",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.5739236111111112,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: TREAT AS URGENT AND KEEP ME POSTED",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate your assurance that this opportunity is legal and legitimate. However, before I proceed, I would like to know more about the lottery and how it works. Could you please provide me with some additional information? \n\n1. How was I selected as a winner for this lottery?\n2. What is the name of the lottery organization or company running this promotion?\n3. Can you explain the process of claiming the prize and transferring it to my bank account?\n4. Are there any fees or charges involved in receiving the prize money?\n\nI look forward to your response.\n\nBest wishes,\nJeanne"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "from": "scammer_197",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  You have to pay through Bitc",
+        "body": "  You have to pay through Bitcoin or perfect money?   "
+    },
+    {
+        "from": "baiter_197",
+        "to": "scammer_197",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   You have to pay through Bitc",
+        "body": "Oh, that's interesting! I've heard a bit about Bitcoin and Perfect Money, but I'm not too familiar with them. Could you explain how they work?\n\nBest wishes,\nEsperanza"
+    },
+    {
+        "from": "scammer_197",
+        "to": "baiter_197",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: You have to pay through Bitc",
+        "body": "Are you ready to pay the required fee today or not? \n \n \n \n Sent: Sunday, March 03, 2024 at 9:49 AM From: \"Esperanza\" <zt97821@***.com> To: bankdirector@consultant.com Subject: Re: You have to pay through Bitc \n \nOh, that's interesting! I've heard a bit about Bitcoin and Perfect Money, but I'm not too familiar with them. Could you explain how they work?\nBest wishes, \nEsperanza"
+    },
+    {
+        "from": "baiter_197",
+        "to": "scammer_197",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.026319444444444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: You have to pay through Bitc",
+        "body": "Hello there,\n\nI'm not quite sure I understand. Could you please explain more about this required fee? What is it for exactly? And as for Bitcoin and Perfect Money, I've heard of them but don't really know how they work. Could you provide some more information?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nEsperanza"
+    },
+    {
+        "from": "scammer_197",
+        "to": "baiter_197",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.032685185185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Re: You have to pay through Bitc",
+        "body": "Let us know when you are ready"
+    },
+    {
+        "from": "baiter_197",
+        "to": "scammer_197",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.06800925925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Re: You have to pay through Bitc",
+        "body": "Hello there! I'm ready to share some information. What would you like to know?\n\nBest wishes,\nEsperanza"
+    },
+    {
+        "from": "scammer_197",
+        "to": "baiter_197",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.4561689814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Re: You have to pay through Bitc",
+        "body": "Oky share the information \n \n \n \n Sent: Sunday, March 03, 2024 at 3:49 PM From: \"Esperanza\" <zt97821@***.com> To: bankdirector@consultant.com Subject: Re: Re: You have to pay through Bitc \n \nHello there! I'm ready to share some information. What would you like to know?\nBest wishes, \nEsperanza"
+    },
+    {
+        "from": "baiter_197",
+        "to": "scammer_197",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.4846412037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Re: You have to pay through Bitc",
+        "body": "Hello! I'm glad to hear that you're interested in sharing some information. Could you please tell me more about the topic you'd like to discuss?\n\nBest wishes,\nEsperanza"
+    },
+    {
+        "from": "baiter_197",
+        "to": "scammer_197",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.48515046296296294,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Re: You have to pay through Bitc",
+        "body": "Hello! I'm glad to hear that you're open to sharing some information. Could you tell me more about your interests or hobbies?\n\nBest wishes,\nEsperanza"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1548",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir/Madam,",
+        "body": "  Dear Sir/Madam,\nToday I wish to inform you that confirmation of scam victims compensation payment was forwarded to us for the immediate release of your Fund through interbank cashier cheque process of the United Nations, World bank and the Inter-bank Payments. Please confirm your mailing address for delivery of your cashier cheque to your mailing address.\nYOUR FULL NAME:\nYOUR FULL ADDRESS:\nYOUR MOBILE TELEPHONE NUMBER:\nCongratulations and do get back to us without delay.\nYours Sincerely\nMr Mark Williams   "
+    },
+    {
+        "from": "baiter_1548",
+        "to": "scammer_1548",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir/Madam,",
+        "body": "Hello Mr. Mark Williams,\n\nThank you for reaching out to me. I'm quite surprised by your message, as I wasn't expecting any funds. Could you please provide more details about this? How did my name come up in this process?\n\nAlso, could you clarify what the interbank cashier cheque process is? I'm not very familiar with it.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMaryanne"
+    }
+]

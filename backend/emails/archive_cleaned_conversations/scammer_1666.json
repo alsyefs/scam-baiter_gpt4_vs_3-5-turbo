@@ -1,0 +1,102 @@
+[
+    {
+        "from": "scammer_1666",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Greetings to you,",
+        "body": "  Greetings to you,\nI am a Consultant linked with investors with a high profile from the\ngulf region who are interested and willing to invest in your\ncompany/individual in any current project you are undergoing by means\nof loans up to USD5 Billion and investment fund up to USD300M-USD500M\nas they are seeking means of expanding their portfolio outside the\ngulf region.\nShould you be interested in engaging us for a more detailed discussion\non the proposal, we would be happy to do so in whatever medium you\nfind much more appropriate for this engagement.\nI look forward to your response and you can reply for further details\nor my Whatsapp: +97155 647 4204 number.\nRegards,\nMA\nFinancial Consultant\nWhatsapp: +97155 647 4204   "
+    },
+    {
+        "from": "baiter_1666",
+        "to": "scammer_1666",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Greetings to you,",
+        "body": "Hello MA,\n\nThank you for reaching out to me with this opportunity. I'm interested in learning more about the proposal and how it could benefit my company. Could you please provide some additional information about the investors and their background? What industries or sectors are they particularly interested in?\n\nAdditionally, I would like to know more about the terms of the loans and investment funds. What are the interest rates, repayment terms, and any other conditions that may apply? It would be helpful to have a clear understanding of these details before proceeding further.\n\nI appreciate your willingness to discuss this proposal further. Please provide me with more information so that we can continue our conversation.\n\nBest wishes,\nCorey"
+    },
+    {
+        "from": "scammer_1666",
+        "to": "baiter_1666",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: FUNDING OPTION 1",
+        "body": "Dear sir,\r\n\r\nIt is great to make contact with you.\r\n\r\nThis is an investment fund originating from an already executed contract\r\npayment in Qatar by His Highness Sheikh Al-Tani of the Qatar Royal Family.\r\n\r\nHis Higness Sheikh Mubarak AL-Thaniassisted a Turkish company get an oil\r\nservice contract in his country a few years ago. The company awarded the\r\ncontract legally executed the contract and a balance payment of USD500M was\r\nleft pending for payment and this is the amount to be paid to you and\r\nreinvested for 10 years.\r\nThe USD500M represents the consultancy payment due to his highness for\r\nassisting the said contract get the contract and because of the position of\r\nhis Highness as a member of the qatar Royal Family, he cannot come out\r\nopening to claim the funds from Qatar Energy company but he can appointed a\r\npartner to claim and investment the said funds on agree sharing ratio.\r\nWe shall be working with Qatar Energy company for the paperwork needed for\r\nthe release of the payment to you because the transaction with Qatar\r\nPetroleum is a foreign contract payment and, this is the reason Sheikh\r\nMubarak AL-Thani cannot receive the fund under his name which has\r\nnecessitated for us to reassign the fund to you (a foreign national) for\r\nInvestment purpose.\r\n\r\nYou will hold the funds and roll it over in an Investment for a period of\r\nten (10) years before the funds will be returned back to a bank account\r\ndesignated by Sheikh Mubarak AL-Thani.\r\n\r\nAt this early stage of the transaction, our discussion with Qatar Petroleum\r\nis unofficial. This means every discussion between us on the transaction\r\nmust be kept top secret and confidential pending when we reassign the\r\npayment documents to reflect your name as beneficiary.\r\n\r\nThe approval process is handled by our key contacts holding senior\r\nexecutive positions in Qatar Petroleum and some of these contacts are\r\nextended family relatives of Sheikh Mubarak AL-Thani. Hence, we would not\r\nencounter any problem reassigning the paperwork to your name as beneficiary\r\nand concluding transfer of the fund to you.\r\n\r\nWe shall depend upon your full cooperation, participation, adherence to\r\ninstruction and absolute commitment to successfully conclude this payment\r\nwithout any obstacle.\r\n\r\nThe good thing is, Qatar Petroleum shall maintain records of the documents\r\nfor at least one (1) year after payment is completed. This is to ensure\r\nproper auditing of financial records of Qatar Petroleum and also, the\r\nfinancial/monetary authority in your country can verify the source of the\r\npayment to your name if needed.\r\n\r\nSome documents shall be sent across to you, it’s important you have in your\r\npossession copies of these documents which show the source of the payment\r\nto your name is legitimate, clean and not related to Money Laundering,\r\nTerrorism or Drug.\r\n\r\nFor the transaction to commence, kindly fill-in your details below:-\r\n\r\n1. Your full name:\r\n   Your resident address:\r\n   Country:\r\n\r\n2. Company Name:\r\n   Company Address:\r\n\r\n3. Contact Telephone:\r\n   Mobile:\r\n   Fax:\r\n\r\n4. Current work position:\r\n\r\nThe above details are required to get the documents to be signed between\r\nyou and Sheikh Mubarak AL-Thani for the Investment Partnership.\r\n\r\nWe understand that moving the fund via bank to bank attracts much attention\r\nfrom international supervising institutions and therefore is high risk\r\nexposure. In discussions with our associate in Qatar Petroleum, we have\r\nmapped out a procedure to conclude payment to your name as beneficiary\r\nwithout any risk to you or the fund.\r\n\r\nI await your reply.\r\n\nSincerely,\r\n\r\nMohammed Al-Kuwari\r\nwhatsapp +971556474204\r\nOffice email: info@gulfbusinesserviceslimited.com"
+    },
+    {
+        "from": "baiter_1666",
+        "to": "scammer_1666",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0003935185185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: FUNDING OPTION 1",
+        "body": "Dear Mohammed,\n\nThank you for reaching out to me and providing this information. I must say, it sounds quite intriguing. I have a few questions before we proceed further.\n\n1. Could you please provide more details about the investment opportunity? What kind of investment are we talking about?\n2. How much is the total amount that needs to be invested, and what would be my expected return on investment?\n3. Can you explain the process of transferring the funds to me without attracting any attention or risk?\n\nI appreciate your understanding and look forward to your response.\n\nBest wishes,\nCorey"
+    },
+    {
+        "from": "scammer_1666",
+        "to": "baiter_1666",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0005439814814814814,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: FUNDING OPTION 2",
+        "body": "Thank you for the email message.\r\n\r\nWe are providing Loan/Investment funds to Companies and Individuals with\r\nprofitable projects in any area of specialization at a low  interest rate\r\nof between 2% - 3.5% PA for a duration of 1 to 10 years plus a 12-24 months\r\ngrace period depending on the project type and region you are located.\r\n\r\n     We have two options for loans as stated below:\r\n\r\n     Secured Loan\r\n     Loan criteria features are as stated below:\r\n\r\n     * Placement Opens to: Entrepreneurs and Corporations worldwide.\r\n\r\n     * Region: Anywhere in the world\r\n\r\n     * Min Loan Amount approx: 1,000,000.00 USD/EURO\r\n\r\n     * Max Loan Amount: 10 Billion USD/EURO\r\n\r\n     * Terms: 1 to 10 year's Renewable tenure with option of early repayment\r\n\r\n     * Repayment: Yearly\r\n\r\n     * Grace period: 1 year\r\n\r\n     * Interest: 2% per year (Fixed)\r\n\r\n     * Borrower shall provide an insurance / surety Bond as collateral\r\n security for the needed loan\r\n\r\nThe Loan is offered with low interest rate and will be secured by a\r\n Collateral which the Borrower shall pledge to stand as security  against\r\nrisk of loss by the Lender.\r\n\r\n\r\n\r\n     Unsecured Loan\r\n     Loan criteria features are as stated below:\r\n\r\n     * Placement Opens to: Entrepreneurs, Corporations and Lenders\r\n\r\n     * Region: Anywhere in the world\r\n\r\n     * Min Loan Amount approx: 50,00.00 USD/EURO\r\n\r\n     * Max Loan Amount: 2 Billion USD/EURO\r\n\r\n     * Terms: 1 to 5 year's Renewable tenure with option of early repayment\r\n\r\n     * Repayment: Yearly\r\n\r\n     * Grace period: 1 year\r\n\r\n     * Interest: 2.5% per year (Fixed)\r\n\r\n     * Borrower shall provide an insurance / surety Bond as collateral\r\n security for the needed loan\r\n\r\nLender in collaboration with Banker shall appoint representatives who  will\r\nbe inspecting the Business/Project funded in time bases every six  Calendar\r\n(6 Months) twice annually pending when the Borrower finished  the repayment\r\nPlan of the Loan.\r\n\r\nTo proceed on either way, we need the attached application form  completed\r\nand the documents requested below provided.\r\n\r\n     1. Your full name and address\r\n     2. Company name and address/ company registration documents\r\n     3. Contact Telephone Number, mobile and Fax\r\n     4. Current work position\r\n     5. International passport / driver license\r\n     6. Project Summary\r\n     7. Formal loan request letter on your company letter headed paper\r\n\r\nAbove is basically the available loan options and after we receive the\r\ncompleted application attached, details of the insurance company will  be\r\nadvised to you for further contact with them via purchase of the  insurance\r\n/ surety bond document.\r\n\n Sincerely\r\n  Dr. Mohammed AL-Kuwari\r\n  Gulf Pacific Investment and Loans Limited\r\n  Website:https://www.gulfpacific-group.com\r\n  Email: info@gulfbusinesserviceslimited.com"
+    },
+    {
+        "from": "baiter_1666",
+        "to": "scammer_1666",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0009722222222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: FUNDING OPTION 2",
+        "body": "Dear Dr. Mohammed,\n\nThank you for reaching out to me with this loan investment opportunity. I'm interested in learning more about it. Could you please provide me with some additional information?\n\n1. What types of companies and projects are eligible for this loan investment?\n2. Can you give me an example of the interest rate range for these loans?\n3. How long is the typical duration of the loan, and what does the grace period entail?\n4. Could you explain more about the collateral that would be required as security for the loan?\n5. Who will be inspecting the business project funded, and how often will these inspections take place?\n\nI appreciate your assistance in providing these details so that I can better understand this opportunity.\n\nBest wishes,\nCorey"
+    },
+    {
+        "from": "scammer_1666",
+        "to": "baiter_1666",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0023032407407407407,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: FUNDING OPTION 1",
+        "body": "1. Could you please provide more details about the investment opportunity?\r\nWhat kind of investment are we talking about?\r\nAns: The investment choice is  your decision to make , we are only\r\ninterested in the ROI to be paid to Gulf Pacific investment and loans\r\n2. How much is the total amount that needs to be invested, and what would\r\nbe my expected return on investment?\r\nAns: Investment amount is USD500M\r\n3. Can you explain the process of transferring the funds to me without\r\nattracting any attention or risk?\r\nAns: Fund shall be available in Spain in cash and moved through a banking\r\nchannel as you might desire"
+    },
+    {
+        "from": "baiter_1666",
+        "to": "scammer_1666",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0030439814814814813,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: FUNDING OPTION 1",
+        "body": "Hello! Thank you for reaching out. I'm interested in learning more about the investment opportunity you mentioned. Could you please provide some additional details?\n\nFirstly, what kind of investment are we talking about? Is it a specific industry or sector? And could you clarify what ROI stands for in this context?\n\nI'd also like to know how much is the total amount that needs to be invested and what would be my expected return on investment. Understanding the potential gains is important for me to make an informed decision.\n\nAdditionally, I'm curious about the process of transferring funds without attracting any attention or risk. Could you explain how this would work? It's important for me to understand the channels and steps involved.\n\nThank you again for sharing this information with me. I look forward to hearing back from you soon!\n\nBest wishes,\nCorey"
+    },
+    {
+        "from": "scammer_1666",
+        "to": "baiter_1666",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.010289351851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: FUNDING OPTION 2",
+        "body": "1. What types of companies and projects are eligible for this loan\r\ninvestment?\r\nAns: Any company is eligible so long as you have a registered company and\r\nyour proposed project has a low risk level\r\n2. Can you give me an example of the interest rate range for these loans?\r\nAns: Basically 2% PA\r\n3. How long is the typical duration of the loan, and what does the grace\r\nperiod entail?\r\nAns: Details are stated in my last email\r\n4. Could you explain more about the collateral that would be required as\r\nsecurity for the loan?\r\nAns: Collateral is a signed repayment letter duly notarised and an\r\ninsurance bond\r\n5. Who will be inspecting the business project funded, and how often will\r\nthese inspections take place?\r\nAns: Lender and borrower shall agree during a closing meeting"
+    },
+    {
+        "from": "baiter_1666",
+        "to": "scammer_1666",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.010601851851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: FUNDING OPTION 2",
+        "body": "Hello! Thank you for reaching out. I'm interested in learning more about the loan options you mentioned. Could you please provide me with some information on the types of companies and projects that are eligible for this loan? Additionally, I'd like to know if there are any specific criteria or requirements for eligibility.\n\nYou mentioned that my proposed project has a low risk level. That's great to hear! Can you give me an example of the interest rate range for these loans? I want to make sure I have a clear understanding of the financial aspects.\n\nI'm also curious about the duration of the loan and what the grace period entails. How long is the typical duration, and how does the grace period work? It would be helpful to have more details on this aspect.\n\nAnother point I'd like to understand better is the collateral required as security for the loan. Could you explain more about what kind of collateral would be needed and how it would be evaluated?\n\nLastly, I'm curious about who will be inspecting the business project funded by this loan and how often these inspections will take place. It would be helpful to know more about this process.\n\nThank you in advance for providing me with these details.\n\nBest wishes,\nCorey"
+    }
+]

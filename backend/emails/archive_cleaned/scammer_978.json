@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_978",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear xxx",
+        "body": "Dear xxx\nMy name is Sarah Gomez. I am the Chief Operating Officer and internal auditor with one of the top banks in Spain, also working as part of a bigger team that covers the entire region. I had taken pain to find your contact using the deceased last name.\nOn routine audit check last year, I discovered some investment accounts with vast amount of money (Twenty-Six Million Seven Hundred Thousand United States Dollars ($26.7 Million USD) belonging to one of our clients, who died few years ago and according to our banking legislation any account that has been dormant for at least Fifteen years without operation will be confiscated. All these accounts belong to a single/one account holder late Mr. Alfred STOUFFER.\nThe above set of facts underscores my reason for writing and proposing to you. My investigation of the said account reveals that the investor, a foreign national, died a few years ago and after his death was the exact time the account was last operated. I can confirm with certainty that the said investor died interstate with his family (wife and 13 years old daughter) and no next of kin to his estate has been found or has come forward all these years.\nI am of the settled conviction that using my insider leverage, working with you can secure the funds in the account for us instead of allowing it to pass as unclaimed funds into the coffers of the Spanish Government. This is possible as you share the same last name/surname with the said investor. This is exactly why I crave your participation and co-operation. In my possession I have some relevant documents we will use to facilitate the process of the application as the claimant/beneficiary of the funds and ultimately transfer the money to an account to be nominated by you.\nBear in mind, that you shall be handsomely rewarded for your part in this transaction, as I, and my Husband has agreed to allocate 40% of the total funds for your efforts and whilst 50% would be for I (Me and My Husband) and 10% would be given to any Charity organisation.\nI shall leave out the further details of this transaction till I receive an affirmation of your desire to participate.  Be rest assured that I am on top of this situation all the time and there will be no risk or whatsoever, if you are elected to come on board. Needless to say, utmost confidentiality is of vital importance if we are to successfully reap the immense benefits of this transaction.\nAbove are written Telephone/Fax and email contacts that you may reach me on.\nI do expect your prompt response.Reply to below'; \ngschmiechen1621@gmail.com\nYours truly,\nMrs. Sarah Gomez"
+    },
+    {
+        "from": "baiter_978",
+        "to": "scammer_978",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear xxx",
+        "body": "Hello Mrs. Sarah Gomez,\n\nThank you for reaching out and sharing this intriguing information with me. I must say, it's quite a surprise to hear about Mr. Alfred Stouffer and the dormant account. It's unfortunate that he passed away without any next of kin to claim his estate.\n\nI'm curious about the process involved in claiming these funds. Could you please elaborate more on how we can secure the funds? Also, what kind of documents are required for this process?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nPablo"
+    }
+]

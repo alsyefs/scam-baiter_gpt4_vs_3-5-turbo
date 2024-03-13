@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_2164",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  From: Dr. Raymond Duru (Sena",
+        "body": "  From: Dr. Raymond Duru (Senate Chairman)\nSenate Committee on Anti-Corruption and Financial Crimes.\nRef: FGN/SEN/COMM/CONTRACT/INHERITANCE/-201\nRE: Top Secret and Honest Attention:\nSir,\nI am the Senate Committee Chairman on Anti-Corruption and Financial Crimes. In charge of the Federal Ministry of Finance (FMF), I hope this message finds you in good health. I have your information on my desk; your name has appeared here on several occasions as one of the debtors to receive their payment but without any success at last.\nFrom all my personal investigation in your payment file today, I sincerely wish to inform you that you are not the original inheritance/beneficiary of the said funds because you did not execute\nany contract for the Nigeria government. The original contractor has completed his/her contract long ago and also received its full payment before you file in your application for claim on the said fund.\nMeanwhile, there are still a few mistakes and illegal approval documents in your payment file, even the contract details and amount etc, these are the reasons why you could not receive this payment up till this day and will not receive it until you comply with my terms. However this\nfund came as a result of an over-invoiced contract inheritance, which has already been approved for payment in your name. But due to the above reasons we cannot further this payment unless you will agree on my conditions that this fund shall be a deal between me and you.\nMy conditions is as follows:\n1) As soon as you receive this fund I shall be entitled to 50% of the total sum. 2) You shall keep this deal between me and you as top secret. 3) You shall also give me a letter of assurance to prove that you will surely release my own share percentage to me as we will agree and will\nnever reveal this deal to anybody.\nIf you cannot agree to work on my above conditions, I shall forward my report to the following authorities such as Central Bank of Nigeria (CBN), Senate Committee on Anti-Corruption and Financial Crimes (S.C.A.C.F.C) and office of Economic & Financial Crime Commission\n(E.F.C.C) for onward cancellation of this payment file. Therefore all I need is your sincere truth and co-operation so that I can tell you the next thing to do for immediate release of the funds to you for our both benefit.\nFinally and remember, some of our officials, Banks and individuals both here in Africa and Europe (etc) have tried to transfer this fund to you but failed due to their dishonesty and unnecessary demand for fees, You are hereby advised to stop any further communications with\nany one else or any other financial institution and comply with this to avoid any further delay. Do reply in my private box:.\nI wait for your reply.\nBe advised.\nDr. Raymond Duru (Senate Chairman)\nSenate Committee Chairman on Anti-Corruption and Financial Crimes   "
+    },
+    {
+        "from": "baiter_2164",
+        "to": "scammer_2164",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   From: Dr. Raymond Duru (Sena",
+        "body": "Hello Dr. Raymond Duru,\n\nI hope this message finds you well. I must say, your email has taken me by surprise! I wasn't aware that my name was associated with any debts or contracts in Nigeria. It's quite puzzling, to be honest.\n\nYou mentioned some mistakes and illegal approval documents in my payment file. Could you please elaborate on what these mistakes are? And how did my name get involved in an already completed contract?\n\nAlso, you've proposed a deal where I would receive a certain percentage of the total sum. While this sounds intriguing, could you provide more details about this arrangement? What exactly would be required from me?\n\nI appreciate your patience and look forward to hearing from you soon.\n\nBest wishes,\nRuth"
+    },
+    {
+        "from": "scammer_2164",
+        "to": "baiter_2164",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Reply,",
+        "body": "Dear: Ruth,\r\nI received your message and it has been noted, yes I mentioned some of the\r\nmistakes which are in your file. The illegal approval I mean was some\r\ndocuments found in your file were not enough some are missing, such as your\r\nfund ownership certificate and deed of agreement where not to be found.\r\n\r\nSo it needs to be replaced before your payment process can be completed,\r\nalso I advise you now to reconfirm again your direct telephone numbers and\r\nyour ID card copy for identification of yourself to this office, then your\r\nresident/office address will be included.\r\nI look forward to hearing from you soon.\nRegards\r\nMr. Raymond Duru."
+    },
+    {
+        "from": "baiter_2164",
+        "to": "scammer_2164",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0002314814814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Reply,",
+        "body": "Hello Mr. Raymond Duru,\n\nThank you for your message and the information provided. I understand that there are some missing documents in my file, specifically the fund ownership and deed of agreement. \n\nCould you please explain to me what these documents are? And how can I go about replacing them? \n\nAs for my direct telephone numbers and ID card copy, I'm afraid I can't provide those at this time due to privacy concerns. However, I am more than willing to help resolve any issues with my file.\n\nLooking forward to your guidance on this matter.\n\nBest regards.\n\nBest wishes,\nRuth"
+    },
+    {
+        "from": "scammer_2164",
+        "to": "baiter_2164",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.2483912037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Reply,",
+        "body": "No those things mention have to been available before I proceed."
+    },
+    {
+        "from": "baiter_2164",
+        "to": "scammer_2164",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.24887731481481482,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Reply,",
+        "body": "Hello there! I appreciate your response. Could you please elaborate on what things need to be available before we proceed? I'm eager to understand better.\n\nBest wishes,\nRuth"
+    }
+]

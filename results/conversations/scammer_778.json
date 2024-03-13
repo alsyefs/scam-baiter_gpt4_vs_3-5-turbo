@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_778",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello,",
+        "body": "  Hello,\nWe are a U.S Base Investment Company offering Corporate and Personal Investment Funding at a 2~7% ROI for a duration of   10 Years. Kindly have our membership card at 25 dollars only and also sign our Agreement / MOU Clearance you will be   guaranteed to have a non collateral loan of 100  to 10million dollars with credit union loan investment company, we  \nalso offer 1%  to individuals who introduce  project owners for finance or other opportunities.\nPlease get back to me if you are interested in more details.\nYours faithfully,\nJohn Henry Markson\nInvestment Analyst\nEmail:  \na.john@servicecdu.com\n "
+    },
+    {
+        "from": "baiter_778",
+        "to": "scammer_778",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello,",
+        "body": "Hello John Henry Markson,\n\nThank you for reaching out to me with this investment opportunity. I'm always interested in learning more about potential investments. Could you please provide me with some additional details about your company and the types of investments you offer? How long has your company been in operation, and what is your track record?\n\nAdditionally, I would like to know more about the terms and conditions of the membership card and the Agreement MOU Clearance. Could you explain how these work and what benefits they provide?\n\nI appreciate your time and look forward to hearing back from you.\n\nBest wishes,\nBenjamin"
+    },
+    {
+        "from": "scammer_778",
+        "to": "baiter_778",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Hello,",
+        "body": "Good Day Ben\r\n\r\n\r\n\r\nI am  John Henry Markson, , Personal Assistant (PA) to Miss Isabela  Dos\r\nSantos,\r\nthe First Daughter of Angola's former President José Eduardo dos Santos\r\nAn Investor.  Right now the Daughter is looking for a\r\n reliable company that will need a loan of $2.5 Billion  for an investment,\r\ninto a  company\r\n that needs funds  for expansion only.\r\n\r\n\r\nshe can not invest the money\r\n to new Companies that want to start up but into Companies that\r\nhave been making good profits but need funds for EXPANSION. Unless the\r\ncompany will accept a smaller amount if your company is new.\r\n\r\n\r\nHis Area of concentrations are Real Estate, Biotech,Textiles ,\r\nInformation technology, Pharmaceuticals , Oil & Energy\r\nIndustries, Mining &Metals Industry, Management Consulting\r\nIndustry ,Maritime industry, Hospital & Health Care Industry,\r\nConsumer Services Industry, International Trade and Development\r\nIndustry ,Gambling & Casinos Industry, Electrical/Electronic\r\nManufacturing Industry, Insurance Industry, Chemical industries,\r\nMarketing and Advertising Industry, Leisure, Travel & Tourism\r\nIndustry, Agriculture, Aviation, Retail, Import and Export, Trade\r\nand development industry, Real Estate & Construction Industry and\r\nany other viable investment opportunities just like yours.\r\n\r\n\r\n\r\n\r\nIf you recommend a Company to take loan or investment funds\r\nfrom my client the investor, me and you will be entitled to 5% of\r\n  any amount received by the Company from the investor but if you\r\nare taking the fund directly as a company i will be entitled to\r\n  2.5% and you will retain 2.5% as Global Finder's fee commission.\r\nThere will be a face to face meeting between the investor and the\r\ninvestee after signing (MOU) the (AORI) should not be less than\r\n 2% per annum, duration of payment is 10 to 15years.\r\n\r\nLook for a reliable Company that need funding and we can easily\r\n make 5% of the amount received from the investor but we need to\r\n maintain absolute confidentiality in the transaction as the fund\r\nprovider want to remain silent, so you have to keep it highly\r\nconfidential between us.\r\n\r\n\r\nI will need the company profile and the project summary of the\r\ncompany that will need funding to present to my investor.\r\n\r\n\r\nI am looking  forward to hear from you.\r\n\r\n\r\n\r\nSincerely\r\nJohn Henry Markson,"
+    },
+    {
+        "from": "baiter_778",
+        "to": "scammer_778",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00032407407407407406,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Hello,",
+        "body": "Good day John Henry Markson,\n\nThank you for reaching out with this opportunity. I'm interested in learning more about the potential investment and loan options available through your client, Miss Isabela Dos Santos. Could you provide more details on the terms and conditions of the funding, as well as any specific requirements or criteria that companies need to meet in order to be considered for this opportunity?\n\nI appreciate your time and look forward to hearing back from you soon.\n\nBest wishes,\nBenjamin"
+    },
+    {
+        "from": "scammer_778",
+        "to": "baiter_778",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.002372685185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Hello,",
+        "body": "Mr Ben,\r\nBefore we proceed, I will required your full details and a valid\r\nIdentification\r\nfinally, you must provide your investment plan schedule\r\nand the exact amount that will complete the project ."
+    },
+    {
+        "from": "baiter_778",
+        "to": "scammer_778",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.020555555555555556,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Hello,",
+        "body": "Hello Mr. Ben,\n\nThank you for reaching out. Could you please provide more details about the project and investment plan schedule? I would like to understand the scope of the project before proceeding further.\n\nBest wishes,\nBenjamin"
+    }
+]

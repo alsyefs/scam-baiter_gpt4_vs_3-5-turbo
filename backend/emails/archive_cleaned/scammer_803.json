@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_803",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Anti-Terrorist and Monetary ",
+        "body": "  Anti-Terrorist and Monetary Crimes Division.\nFederal Bureau of Investigation\nJ. Edgar Hoover Building\n935 Pennsylvania Avenue, \nNW Washington, D.C. 20535-0001, USA\n \nFEDERAL BUREAU OF INVESTIGATION MONITORING DEPARTMENT\nATTENTION;  PLEASE,\n \nThe information reached my desk From the Office of the  Current President of Nigeria? That you are DEAD since 2019 and therefore your Allocation will be used for another beneficiary that is still alive. So i don't know how true this story is, that is why i decided to send you this mail then if i did not get any response from you i will give them the go ahead order to remove your name on the loaded ATM CARD. Without wasting time I advise you to get back to me if you are alive. Thanks.\nFaithfully Yours\nCHRISTOPHER A WRAY\n \nFederal Bureau of Investigation\nJ. Edgar Hoover Building\n935 Pennsylvania Avenue, \nNW Washington, D.C. 20535-0001, USA   "
+    },
+    {
+        "from": "baiter_803",
+        "to": "scammer_803",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Anti-Terrorist and Monetary ",
+        "body": "Hello there,\n\nWow, that's quite a story! I can assure you that I am very much alive and kicking. It's interesting to hear about this mix-up. Can you tell me more about how this confusion happened? And what is this allocation you mentioned?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nGail"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_153",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Beloved,",
+        "body": "  Dear Beloved,\nPlease kindly pardon me for any inconvenience this letter might have caused you, because I know it may come to you as a surprise as we have no previous correspondence.\nI am Mrs.Yvonne Bolton. and i have been suffering from ovarian cancer disease and the doctor says that i have just few days to leave. I am from (Melbourne)Australia, but based in Burkina Faso in West Africa since Nineteen years ago as a business woman dealing with gold exportation and Sales.\nNow that I am about to end the race like this, without any family members and no child. I have $2.1 Million US DOLLARS in  African Development-Bank (A.D.B) Burkina Faso which i instructed the bank to give St Andrews Missionary Home here in Burkina Faso. But my mind is not at rest because I am writing this letter now through the help of my computer beside my sick bed.\nI also have $6.5 Million US Dollars at BANK OF AFRICA (BOA) here in Burkina Faso and i instructed the bank to release my money to any one who apply for the release and as a foreigner.\nPlease i want you to be specific on this issue, because this is my WILL and have promise that if you can execute this project, i will offer you 50% of the fund and you will give 50% to the orphanages home in your country for my heart to rest in peace.\nRespond to me immediately for further details since I have just few days to end my life due to the ovarian cancer disease, hoping you will understand my pains\nYours fairly friend,\nMrs.Yvonne C .Bolton.   "
+    },
+    {
+        "from": "baiter_153",
+        "to": "scammer_153",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Beloved,",
+        "body": "Dear Beloved,\n\nThank you for reaching out to me. I'm sorry to hear about your health condition and the difficult situation you are facing. It must be challenging for you to be going through this alone without any family members or children.\n\nI understand that you have a significant amount of money in Burkina Faso, both with the St Andrews Missionary Home and at the BANK OF AFRICA BOA. It's kind of you to consider donating the funds to orphanages in my country.\n\nI would like to help if I can, but I have a few questions first. Could you please provide more details about how exactly I can assist you? What specific steps do I need to take in order to access and distribute the funds? Additionally, is there any legal documentation or process that needs to be followed?\n\nI appreciate your trust in me and hope that we can work together towards fulfilling your wishes. Please let me know how we can proceed.\n\nWishing you strength during this difficult time.\n\nBest wishes,\nJoseph"
+    }
+]

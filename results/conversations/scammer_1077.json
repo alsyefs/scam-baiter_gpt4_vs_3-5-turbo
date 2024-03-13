@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_1077",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Good day, I am Stephanie fr",
+        "body": "   Good day, I am Stephanie from Indeed International Recruitment Agency and we are looking for Individuals to help hotel booking platforms optimize their  bookings through reviews to increase visibility and bookings. \nWe offer part-time and full-time flexible jobs, like working 5 days a week, 60 to 90 minutes a day, with flexible hours and location (based on your own schedule) and a basic daily stipend of $300,  $600 for 2 consecutive workdays, $1,500 for 5 consecutive workdays and $4,500 for 15 consecutive workdays.\n If you earn $9,000 for 30 consecutive workdays, you will receive an extra basic salary allowance of $6,200 for one consecutive month. Annual leave with pay: In addition to maternity, paternity and other statutory leave. \nRegular employees are entitled to 5-15 days of paid annual leave.  If you are interested, you can contact our team via: \nindintrecagency@outlook.com\n  for more information!\nRegards,\nStephanie.   "
+    },
+    {
+        "from": "baiter_1077",
+        "to": "scammer_1077",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    Good day, I am Stephanie fr",
+        "body": "Hello Stephanie,\n\nThank you for reaching out to me. I'm interested in learning more about how Indeed Agency can help hotel booking platforms optimize their bookings through reviews. Can you please provide me with some more details on how this process works?\n\nAlso, could you clarify the flexible jobs you mentioned? What kind of tasks would be involved and what are the specific working hours and locations?\n\nLooking forward to hearing from you.\n\nBest wishes,\nLynne"
+    },
+    {
+        "from": "scammer_1077",
+        "to": "baiter_1077",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re:    Good day, I am Stephanie fr",
+        "body": "Your job description includes;\r\n\r\n1. **Review Optimization Specialist:**\r\n   Seeking individuals proficient in analyzing and enhancing hotel booking platforms. Responsibilities include leveraging reviews strategically to boost visibility and drive bookings. Must possess a keen understanding of online consumer behavior and the hospitality industry.\r\n\r\n2. **Booking Platform Analyst:**\r\n   Join our team to analyze and optimize hotel booking platforms. The role involves utilizing reviews to enhance platform visibility, attract potential customers, and increase booking conversions. Strong analytical skills and a strategic mindset are crucial for success.\r\n\r\n3. **Visibility Enhancement Coordinator:**\r\n   We are hiring professionals to optimize hotel bookings through strategic review management. Responsibilities include implementing tactics to improve platform visibility and increase bookings. Ideal candidates will have a background in digital marketing and a data-driven approach.\r\n\r\n4. **Consumer Engagement Specialist:**\r\n   Seeking individuals to enhance hotel booking platforms by leveraging consumer reviews. The role involves developing strategies to improve platform visibility and drive bookings. Successful candidates will have a customer-centric mindset and strong communication skills.\r\n\r\n5. **Booking Optimization Consultant:**\r\n   Join our team as a consultant specializing in optimizing hotel bookings through reviews. Responsibilities include providing expert guidance to hotel booking platforms on strategies to increase visibility and improve the overall booking experience. Strong industry knowledge and analytical skills are essential.\r\n\r\nWhich would you rather opt for ?"
+    },
+    {
+        "from": "scammer_1077",
+        "to": "baiter_1077",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0005092592592592592,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re:    Good day, I am Stephanie fr",
+        "body": "Clarification on One-Time $100 Sign-Up Fee for Job Application.\r\n\r\nDear Applicant,\r\n\r\nThank you for your interest in the job position with our company. Now you're required to send your Resume/CV in your next email. We appreciate your dedication to joining our team. The one-time $100 sign-up fee is a standard procedure that helps cover administrative costs associated with processing applications and ensuring a streamlined onboarding process.\r\n\r\nPaying this fee not only secures your application but also grants you access to exclusive resources and support services tailored for our employees. These benefits include personalized training programs, mentorship opportunities, and priority consideration for internal promotions.\r\n\r\nWe understand the financial commitment and rest assured, this fee is a small investment in your future success with our company. It enables us to maintain the high standards and quality of services provided to our employees.\r\n\r\nWe look forward to welcoming you to our team and appreciate your understanding of this process. As tou sendd your Resume/ CV, let me  know how you will be sending the one time sign up fee of $100, so that we can get started without further delay.\nBest Regards,\r\nOffice of the Recruitment Team.\r\nIndeed International Recruitment Agency."
+    },
+    {
+        "from": "baiter_1077",
+        "to": "scammer_1077",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.012002314814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re:    Good day, I am Stephanie fr",
+        "body": "Hello! Thank you for sharing these job opportunities with me. They all seem quite interesting. Can you please provide me with more details about each position? I would like to know more about the specific responsibilities and qualifications required for each role.\n\nBest wishes,\nLynne"
+    },
+    {
+        "from": "baiter_1077",
+        "to": "scammer_1077",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.012129629629629629,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re:    Good day, I am Stephanie fr",
+        "body": "Dear Office of the Team,\n\nThank you for considering my application and providing me with more information about the job position. I understand that there is a fee involved in the onboarding process, which helps cover processing costs and provides access to exclusive resources and support services.\n\nCould you please provide more details about the training programs and mentorship opportunities that are included with this fee? I am interested in knowing how these resources can contribute to my future success with your company.\n\nAdditionally, I would like to inquire about the payment method for the one-time sign-up fee. Could you please let me know how I can securely make this payment?\n\nThank you once again for your time and consideration. I look forward to hearing back from you soon.\n\nBest wishes,\nLynne"
+    },
+    {
+        "from": "scammer_1077",
+        "to": "baiter_1077",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.25175925925925924,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re:    Good day, I am Stephanie fr",
+        "body": "Dear Lynne,\r\n\r\nI am in receipt of your response to the previous emails, I suggest you read each of the previous emails one more time, you will clearly see the response to your last questions.\r\n\r\nMy next question to you would be, do you have a Cash App Tag/ account ? If yes, you can simply send the one time fee via Cash App. Do let me know in your next mail, so as to get you the details to send send fee to get you on board without further delay.\r\n\r\nI await your swift response.\nRegards!"
+    },
+    {
+        "from": "baiter_1077",
+        "to": "scammer_1077",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.26136574074074076,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re:    Good day, I am Stephanie fr",
+        "body": "Dear Lynne,\n\nThank you for your response. I apologize if I missed any information in the previous emails. I will make sure to go through them again carefully.\n\nRegarding your question about Cash App Tag account, I'm not familiar with it. Could you please provide more details about how it works and what the one-time fee is for? I want to make sure I understand everything clearly before proceeding.\n\nLooking forward to your prompt reply.\n\nBest wishes,\nLynne"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1945",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "ATTENTION!!",
+        "body": "ATTENTION!!\nYOUR ATM MASTER CARD OF $50 MILLION USD HAS BEEN APPROVED AND WAS DEPOSITED\nWITH DHL DELIVERY COMPANY THIS MORNING FOR REGISTRATION AND WE AGREED UP THAT\nTHE DELIVERY OF YOUR $50 MILLION USD ATM PACKAGE WILL TAKE OFF TOMORROW MORNING\nSO \nCONTACT US WITH YOUR FULL INFORMATION WHERE YOUR ATM CARD WILL BE\nDELIVERED TO,\n(1) FULL NAME ..................\n(2) MOBILE NUMBER................\n(3) YOUR DELIVERY ADDRESS..........\n(4) \nA COPY OF YOUR ID\n................\n(5) WHATSAPP TELEPHONE NUMBER..........\nURGENT GET BACK TO US TODAY WITH YOUR FULL ADDRESS WHERE YOUR ATM\nMASTER CARD PACKAGE\nWILL BE DELIVERED TO BECAUSE I WILL NOT BE IN THE OFFICE NEXT WEEK AND\nTHE AMOUNT IN YOUR ATM CARD IS $50 MILLION USD,\nBEST REGARDS,\nMR .JOHNSON BEN"
+    },
+    {
+        "from": "baiter_1945",
+        "to": "scammer_1945",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: ATTENTION!!",
+        "body": "Hello,\n\nThank you for reaching out to me. I am interested in learning more about this opportunity. Could you please provide me with some additional information? \n\n1. What is the purpose of this ATM Master Card?\n2. How was it approved and why was it deposited with DHL Delivery Company?\n3. Can you explain the process of delivery and how long it will take?\n4. Is there any cost or fee associated with receiving the ATM card?\n5. Can you provide more details about the amount of money on the card and how it was acquired?\n\nI look forward to your response.\n\nBest wishes,\nCarlos"
+    }
+]

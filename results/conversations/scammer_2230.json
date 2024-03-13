@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_2230",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  I hope this email finds you ",
+        "body": "  I hope this email finds you in good health and high spirits. My name is Mr. Robert K. Yancey, and this communication is regarding unclaimed inheritance funds that have been linked to your name for some years now. I am reaching out to you as an authorized representative to help you navigate through the process.\nKindly provide me with your home address  so that I may provide you with further details and the necessary instructions  on how you will receive your Ten Million USD without any delay\nRegards\nMr Robert K. Yancey   "
+    },
+    {
+        "from": "baiter_2230",
+        "to": "scammer_2230",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   I hope this email finds you ",
+        "body": "Hello Mr. Robert K. Yancey,\n\nI hope this message finds you well. I'm quite surprised to hear about these unclaimed funds linked to my name. It's not every day that one hears about such a thing, isn't it?\n\nCould you please provide me with more information about these funds? Where did they come from and why have they been unclaimed for so long? \n\nLooking forward to hearing from you.\n\nBest wishes,\nJohn"
+    },
+    {
+        "from": "scammer_2230",
+        "to": "baiter_2230",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: I hope this email finds you",
+        "body": "Good day to you .\r\n\r\nYou will be required to  travel to Vietnam  to meet  our payment \r\nofficers and sign some documents that will enable you to receive your \r\npayment and you are not going to pay any fee to any one or pay for any \r\ntravailing ticket ,we are to cover all and make sure you receive your \r\npayment okay ..\r\nPlease sir, we would like to know when you will be ready for this trip \r\nand also send us your passport copy to enable us to start the processing \r\nof your trip to Vietnam\r\nHave it in mind that you will not pay for any fee or any flight ticket \r\nokay , We are to pay all that  to proof to you that we are legit not \r\nscammers okay\r\n\r\nDo you have international passport if you do send a copy to enable us \r\nstart the process okay \r\ninformation  required Full name home address Cell phone number Copy of \r\nyour international passport \r\n.Regards\r\n Mr. Robert K. Yancey,"
+    },
+    {
+        "from": "baiter_2230",
+        "to": "scammer_2230",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0253125,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: I hope this email finds you",
+        "body": "Hello Mr. Robert K. Yancey,\n\nThank you for reaching out to me and explaining the process. It sounds like an interesting opportunity, and I appreciate your assurance about covering all the costs.\n\nHowever, before we proceed further, could you please provide more details about this payment that I am supposed to receive? What is it for exactly? And why does it require me to travel all the way to Vietnam?\n\nAlso, could you tell me more about your organization? How long have you been in operation and what kind of work do you do?\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJohn"
+    },
+    {
+        "from": "scammer_2230",
+        "to": "baiter_2230",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.03319444444444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: I hope this email finds you",
+        "body": "Re confirm your address lets confirm where  that will be easy for you to \r\ngo for your payment i also work under funds release unity"
+    },
+    {
+        "from": "baiter_2230",
+        "to": "scammer_2230",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.06707175925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: I hope this email finds you",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm really excited about this opportunity. However, I would like to know more about the payment process and how it works. Could you please provide more details? \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJohn"
+    }
+]

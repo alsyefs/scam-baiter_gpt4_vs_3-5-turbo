@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1239",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "UNITED NATIONS OFFICE",
+        "body": "UNITED NATIONS OFFICE\nFOR THE COORDINATION OF\nHUMANITARIAN AFFAIR.\nOur Ref: UN/ANT/UAL\nYour Ref: ING/ATM/857\nAttention: Dear Beneficiary,\nThe INTERNATIONAL MONETARY FUND (IMF) enhanced by the United Nations and Federal Bureau of Investigation have successfully passed a mandate to the current president of the United State's his Excellency President\nJoe Biden to boost the exercise of clearing all foreign debts owed to you and other individuals and organizations who have been found not to have receive their Contract Sum, Lottery/Gambling, Inheritance and also to help Citizens to fight against COVID -19 pandemic.\nNow, all modalities regarding your fund release has been put in place and your total sum of $2.5M (Two Million, Five Hundred Thousand United States Dollars) has been uploaded into an ATM Card with a custom pin based which you will use to withdraw up to $12,000 per day from any ATM machine that has the Master Card Logo on it and the card have to be renewed in 4 years time which is 2026. Also with the ATM card you will\nbe able to transfer your funds to your local bank account. The ATM card comes with a handbook or manual to enlighten you how to use it. Even if you do not have a bank account.\nIt is my pleasure to inform you that your ATM Master Card has been registered with FedEx shipment Center for delivery to your resident address and it is estimated to be delivered in the next 2-3 working days. You are therefore advised to contact the FedEx shipment center office in Los Angeles, CA so that they can issue you the delivery tracking information which will enable you to monitor the movement of the delivery until it finally\narrives at your door steps. \nReconfirm to them your delivery information such as Full Name/Address/City/State/Zip Code/Home and Cell Phone numbers.\n Below is their contact information;\nFedEx Shipment Center\n1 World Way, Los Angeles, CA 90045, USA\nContact Person: Floyd Jason\nEmail: \njasonfloyd183@gmail.com\nCongratulations, your long awaited fund will now be delivered to you\nwithout further delay.\nYours Faithfully,\nThamos Leclair\nUNCC Co-ordinator"
+    },
+    {
+        "from": "baiter_1239",
+        "to": "scammer_1239",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: UNITED NATIONS OFFICE",
+        "body": "Hello Thamos Leclair,\n\nThank you for your message. It's quite exciting to hear about this opportunity! I'm a bit confused though, could you please explain more about how this process works? How was I selected for this?\n\nAlso, is there any fee that I need to pay for the delivery of the ATM card? And what happens if I don't have a bank account?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nNancy"
+    }
+]

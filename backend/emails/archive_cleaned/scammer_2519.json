@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2519",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attn;  Fund Owner,",
+        "body": "  Attn;  Fund Owner,\n \n \nWe have decided to contact you immediately because we caught one of\nour staff trying to present a lady as your representative to receive\nyour US$10.5M dollars. But when we started asking her some sensitive\nquestions concerning the fund, she could not give the correct answer.\n \nSo we arrested her and she confessed about her involvement with\nthe staff. The two of them are now in police detention. You are\ntherefore to get back with your details to enable us start the\nprocessing of your fund release.\n \nI wish you plenty of luck.\n \nBest regards,\n \nLeonard Benjamin\n \nDIRECTOR ATM CARD Department,\nUnited Bank for Africa   "
+    },
+    {
+        "from": "baiter_2519",
+        "to": "scammer_2519",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attn;  Fund Owner,",
+        "body": "Hello Leonard Benjamin,\n\nThank you for reaching out and informing me about this situation. It's quite shocking to hear that someone was trying to impersonate me. I'm glad your team was vigilant enough to catch the discrepancy.\n\nCould you please provide more details about this incident? How did your staff realize that the lady was not genuine? Also, what measures are being taken against the culprits?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nSara"
+    }
+]

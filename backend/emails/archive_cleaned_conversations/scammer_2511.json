@@ -1,0 +1,122 @@
+[
+    {
+        "from": "scammer_2511",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Hello Dearest,",
+        "body": "   Hello Dearest,\nMy name is Mrs. Sarah Brown. I am a dying woman who has decided to donate what I have to a reliable individual who will act as I will instruct here. I am 69 years old and was diagnosed with cancer about 3 years ago. I have been touched by God to donate what I have inherited from my late father to you for the good work of God rather than allow my uncle to use my father's hard-earned funds ungodly.\nI will be undergoing an operation in London, and I pray that I survive the operation. I have decided to WILL the sum of $7,000,000.00 (seven million United States dollars only) deposited in a security company to you for the good work of the Lord, the orphanage, the needy, and to help the motherless.\nPresently, I have informed my doctor, Dr. John Kelvin, about my decision to give this fund to a reliable individual. You are to get back to me immediately if you are interested in carrying out this task so that I can instruct you on how to get in touch with my doctor.\nLastly, I know I have never met you, but to fulfill this, which borders me most, my mind tells me to inform you about this, and I hope you act sincerely. Please get back to me immediately through my email.\nGod bless you.\nMrs. Sarah Brown   "
+    },
+    {
+        "from": "baiter_2511",
+        "to": "scammer_2511",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    Hello Dearest,",
+        "body": "Hello Mrs. Sarah Brown,\n\nThank you for reaching out to me with this opportunity to help others through your generous donation. I am interested in learning more about how I can assist in carrying out your wishes. Could you please provide me with further details on how to proceed and get in touch with your doctor, Dr. John Kelvin?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAlfred"
+    },
+    {
+        "from": "scammer_2511",
+        "to": "baiter_2511",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Hello Dearest,",
+        "body": "Thanks  for your kind and genuine reply, I appreciate your response, I\r\ncontacted you because of what my immediate family did to me along with my\r\npersonal lawyer, they connived and diverted my funds in some of my banks\r\nwhich I asked them to use for charity, they took it all without using it as\r\nI willed, thinking I won't survive, This is my reason for contacting you to\r\nhelp me carry out my last wish even when I am no more.Please assure me that\r\nyou will not betray my trust like my family did to me.I will be  expecting\r\nyour reply so I can direct my bank to commence with the transfer to you as\r\nmy new beneficiary.\r\nAlso send me your full names, contact address and telephone number.\r\nBless you,\r\nSarah."
+    },
+    {
+        "from": "baiter_2511",
+        "to": "scammer_2511",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03027777777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Hello Dearest,",
+        "body": "Hello Sarah, I'm sorry to hear about what happened with your family and lawyer. It must have been a difficult situation for you. Can you provide more details about how I can assist you with carrying out your last wish?\n\nBest wishes,\nAlfred"
+    },
+    {
+        "from": "baiter_2511",
+        "to": "scammer_2511",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3633796296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Hello Dearest,",
+        "body": "Hello Sarah, I'm sorry to hear about what happened with your family and lawyer. It must be a difficult situation for you. Can you provide more details about how I can assist you with carrying out your last wish?\n\nBest wishes,\nAlfred"
+    },
+    {
+        "from": "baiter_2511",
+        "to": "scammer_2511",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.36398148148148146,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Hello Dearest,",
+        "body": "Hello Sarah, I'm sorry to hear about what happened with your family and lawyer. It must have been a difficult situation for you. Can you provide me with more details about how I can assist you with carrying out your last wish?\n\nBest wishes,\nAlfred"
+    },
+    {
+        "from": "scammer_2511",
+        "to": "baiter_2511",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0212037037037036,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Hello Dearest,",
+        "body": "Thank you so much, if you are interested in helping, kindly send your\r\ndetails as I requested in my previous message, then I can now contact my\r\nbank and ask them to commence with the transfer on your name as my new\r\nbeneficiary.\r\nBless you,\r\nSarah."
+    },
+    {
+        "from": "baiter_2511",
+        "to": "scammer_2511",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0299537037037036,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Hello Dearest,",
+        "body": "Hello Sarah, I appreciate your willingness to help. Could you please provide more details about the transfer process? I want to make sure everything is clear before proceeding. Thank you.\n\nBest wishes,\nAlfred"
+    },
+    {
+        "from": "scammer_2511",
+        "to": "baiter_2511",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0363194444444443,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Hello Dearest,",
+        "body": "Bless you,\r\nSarah."
+    },
+    {
+        "from": "baiter_2511",
+        "to": "scammer_2511",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.071724537037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Hello Dearest,",
+        "body": "Thank you for your kind words, Sarah. How can I help you today?\n\nBest wishes,\nAlfred"
+    },
+    {
+        "from": "scammer_2511",
+        "to": "baiter_2511",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.1479745370370371,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Hello Dearest,",
+        "body": "I now know you are a joker, thanks for your time anyway.\r\nSarah."
+    },
+    {
+        "from": "baiter_2511",
+        "to": "scammer_2511",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.1552777777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Hello Dearest,",
+        "body": "Hi Sarah! I'm glad you found our conversation amusing. Is there anything else you'd like to know or discuss?\n\nBest wishes,\nAlfred"
+    }
+]

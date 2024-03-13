@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2212",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Address Street:N0,5 Ådalen C",
+        "body": "  Address Street:N0,5 Ådalen City: Frederiksberg C\nState/province/area:Region Sjaelland\nZip code 1900 Country Denmark.\nAttn,\nThanks For Choosing Our Investment Firm,\nWith Due Respect,   \nWe are into project financing, if you have any good projects that need funding Kindly contact us for financing your investment. We also give loans to both Corporate and private entities at a low interest rate of  3% ROI Per Annum. We also pay 2% commission to brokers, who introduce project owners for finance or other opportunities.\nOur investment funding can provide direct loans of more than US$10 Billion with flexible repayments structure that's tailored to resuscitate your business.\nWe provide investment loans to many sectors and geographies, these include; energy, agriculture,oil,real estate, pharmaceutical , tourism, start-ups, mining, manufacturing sectors  and more.I would be delighted to discuss further with you as we are open to offer direct lending to any interested *borrower.\nOur website and contact details will be forwarded to you as soon as we hear from you.\nYour sincere response will be highly appreciated.   \nRegards.\nMr.Richard Fairbank.   "
+    },
+    {
+        "from": "baiter_2212",
+        "to": "scammer_2212",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Address Street:N0,5 Ådalen C",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate your interest in providing project financing and loans. Can you please provide more information about the types of projects or businesses that your investment firm typically funds? Additionally, what are the specific terms and conditions for the loans you offer, such as repayment period and interest rates?\n\nI would also like to know more about the sectors you mentioned, such as energy, estate, tourism, and mining. Could you elaborate on the specific investment opportunities within these sectors?\n\nLastly, I would be interested in learning more about the commission structure for brokers who introduce project owners for finance or other purposes. How does that work?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nClare"
+    }
+]

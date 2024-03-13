@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1396",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hi dear,",
+        "body": "  Hi dear,\nHow are you today? My name is Kathryn Maxwell and I come from Kentucky, United States. What is your name and where are you from? I await your urgent reply on ((\nkathrynmax8@gmail.com\n))\nGod bless you\nKathryn   "
+    },
+    {
+        "from": "baiter_1396",
+        "to": "scammer_1396",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Hi dear,",
+        "body": "Hello Kathryn,\n\nI'm doing well, thank you for asking. My name is John and I'm from California, United States. It's nice to meet you! How can I help you today?\n\nBest wishes,\nHelene"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_149",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Congratulations! Your email ad",
+        "body": "Congratulations! Your email address has been selected to receive a\n$10,000,000.00 Donation Fund.\nDear Sir/Madam\nCongratulations from the Jeff Skoll Philanthropies Foundation, where\nlife changing opportunities and cash are given out on a daily basis.\nOur Founder has indeed been a great philanthropist to this generation\nand is truly committed to giving while living.\nWe are therefore pleased to inform you that you are one of the lucky\npeople to benefit and receive $10,000,000.00 USD from our Foundation's ongoing\ngoodwill project (Grant/Donations Program). Is this message sent to a valid e\nmail account? \nYour email account was randomly selected from a massive pool to\nreceive a cash donation of $10,000,000.00 from the Foundation.\nKindly provide the listed information below for your funds payment\nIf this is a valid email account, kindly contact Att. Raymond  Arner\n(Attorney / Payment Supervisor) via (\narnerraymond@gmail.com\n), for\nmore comprehensive information.\nHappy New Year in Advance.\nSincerely,\nMrs. Shirley Williamson,\nDirector, Jeff Skoll Philanthropic Foundation."
+    },
+    {
+        "from": "baiter_149",
+        "to": "scammer_149",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Congratulations! Your email ad",
+        "body": "Dear Mrs. Shirley,\n\nThank you for reaching out to me and considering me as one of the lucky recipients of the Donation Fund from Jeff Skoll. I must say, it sounds like a wonderful opportunity.\n\nBefore proceeding further, I would like to confirm the authenticity of this email. Can you please provide some additional information about the ongoing goodwill project Grant Donations Program? I am curious to know more about how it works and what criteria were used to select me as a recipient.\n\nAlso, could you please clarify what specific information you require from me in order to process the funds payment? I want to make sure that everything is in order before proceeding.\n\nThank you once again for considering me for this opportunity. I look forward to your response.\n\nBest wishes,\nDaniel"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1993",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Meaning you're not interested",
+        "body": " Meaning you're not interested anymore if you are serious you will\nfollow my instruction   "
+    },
+    {
+        "from": "baiter_1993",
+        "to": "scammer_1993",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  Meaning you're not interested",
+        "body": "instructions. Oh, I see! Could you please elaborate more on these instructions? I'm really interested to know more about it.\n\nBest wishes,\nRonald"
+    }
+]

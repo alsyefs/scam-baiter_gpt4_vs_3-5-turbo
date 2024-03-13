@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1606",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Return-Path: <mgtbrokers@mai",
+        "body": "  Return-Path: <mgtbrokers@mail.ru>\nReceived: from f56.i.mail.ru (f56.i.mail.ru. [45.84.128.5])\nFrom: \"MR. CHIZHOV\" <mgtbrokers@mail.ru>\nSubject: CORPORATE OFFER\nDate: Fri, 10 Nov 2023 14:26:30 +0300\nMessage-ID: <1699615590.624582452@f725.i.mail.ru>\nReply-To: \"MR. CHIZHOV\" <mgtbrokers@mail.ru>   "
+    },
+    {
+        "from": "baiter_1606",
+        "to": "scammer_1606",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Return-Path: <mgtbrokers@mai",
+        "body": "Hello! How can I help you today?\n\nBest wishes,\nNicole"
+    }
+]

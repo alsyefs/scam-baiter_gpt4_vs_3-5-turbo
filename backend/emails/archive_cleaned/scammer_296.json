@@ -1,0 +1,152 @@
+[
+    {
+        "from": "scammer_296",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello,",
+        "body": "  Hello,\n \nMy name is Mrs. Bong Ja.\nThere is something very important that I want to discuss with you.\nI'm a very lonely woman, but sick and dying.\n \nI'm suffering from severe malignancy and have a few more months to live.\nI am sending you this message because I want to donate some money to you, for charity and investment purposes in your country.\n \nGet back to me so that I can send you more details about my donation (\nbongja4798@gmail.com\n)\n \nWarm Regards,\nMrs. Bong Ja.   "
+    },
+    {
+        "from": "baiter_296",
+        "to": "scammer_296",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello,",
+        "body": "Hello Mrs. Bong Ja,\n\nI'm sorry to hear about your health condition. It's very kind of you to think about donating money for charity and investment purposes. Can you please provide more details about how you would like to proceed with the donation?\n\nBest wishes,\nApril"
+    },
+    {
+        "from": "scammer_296",
+        "to": "baiter_296",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Hello,",
+        "body": "Hello April,\r\n\r\nI'm glad to receive your message. Thank you for your reply. I'm sorry if my\r\nreply arrived late. My health is not stable, so I find it difficult to\r\nwrite to you earlier. I promise you that you will not regret this day\r\nknowing that your heart is pure and sincere.\r\nI contacted you faithfully after looking for a reliable and trustworthy\r\nperson I can trust for this great task. I want to donate from a charity\r\nfund so that you can use it to reach the poor and homeless people living in\r\nrural areas, especially in your country.\r\n\r\nIf you want to help me, then you have to make sure I do what I want you to\r\ndo.\r\nYou have to assure me and promise me that a portion of the Fund will be\r\nused to finance the poor, orphanages, widows and charities in your country.\r\nYou can use the rest to help yourself and invest in any profitable business\r\nthat can bring annual income that will allow you to help charity annually.\r\nI have no more than two months to live, and this is my mortal desire. If\r\nyou honour my wish then my soul will be at peace when I finally leave this\r\nworld. Meanwhile, the money is $5.5MUSD\r\n\r\nIf you have any questions about this proposal, please do not hesitate to\r\nask them and I will be willing to clarify them. Go back to me so I can tell\r\nyou what you can get.\r\n\r\nI wait patiently for your answer.\r\nTake care of yourself and remain blessed.\r\n\nYours sincerely,\r\n\r\nMs. Bong Ja"
+    },
+    {
+        "from": "baiter_296",
+        "to": "scammer_296",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.010439814814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Hello,",
+        "body": "Hello! Thank you for reaching out to me with this opportunity. I appreciate your trust in wanting to donate to help those in need. Can you please provide more details about the charity fund and how it can be accessed for the intended purpose? I want to ensure that everything is clear before moving forward. Looking forward to hearing from you soon.\n\nBest wishes,\nApril"
+    },
+    {
+        "from": "scammer_296",
+        "to": "baiter_296",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.2764699074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Hello,",
+        "body": "Hello April,\r\n\r\nGood to read from you indicating your readiness to champion this charity\r\nproject work to a successful conclusion. However, I feel it's high time for\r\nme to let you know what will be your entitlement as a reward upon\r\ncompletion. I want to use this medium to inform you that it is very\r\npossible and easy to carry out this task if only you will give this\r\nproposal the attention it all deserves.\r\nThe total value of the fund is 5.5 million dollars. I wish that 50% of this\r\nmoney be used to establish a charity home, where the less privileged in\r\nsociety can be catered to and it should be in your country so that it would\r\nbe very easy for you to handle. You will be entitled to 30% as compensation\r\nfor your inputs/efforts in securing these funds over to your end. while the\r\nremaining will be used on a lucrative investment depending on your\r\ndirectives or advice on this.\r\n\r\nThere's nothing serious or complicated there to undergo than for you to\r\nadhere strictly to all my instructions so that you will not make any\r\nmistakes.\r\n\r\n\r\nYou will be required to provide the following information for legal\r\ndocumentation which will enable the automatic bequeath of funds to you as\r\nthe acclaimed foreign beneficiary:\r\n\r\nFull names:\r\nFull address:\r\nProfession:\r\nCompany's name(if any):\r\nTelephone No:\r\nNationality:\r\nA valid copy of your ID:\r\n\r\nDo provide the above-stipulated information for immediate implementation of\r\nthe needed legal works regarding this affair.\nThanks,\r\n\r\nMrs. Bong Ja"
+    },
+    {
+        "from": "baiter_296",
+        "to": "scammer_296",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.28076388888888887,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Hello,",
+        "body": "Hello Mrs. Bong Ja,\n\nThank you for reaching out to me about this charity project. I appreciate the opportunity to potentially be involved in such a meaningful cause. Could you please provide more details about how the funds will be secured and transferred for the establishment of the charity home? Additionally, what specific steps do you need me to take in order to move forward with this initiative?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nApril"
+    },
+    {
+        "from": "scammer_296",
+        "to": "baiter_296",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.3772800925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Hello,",
+        "body": "Hello April,\r\n\r\nYou need to send me the details I asked from you so that I can send you the\r\ndocument and the contacts details of the Bank where the money has been\r\ndeposited. I wait to hear from you soon."
+    },
+    {
+        "from": "baiter_296",
+        "to": "scammer_296",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.38528935185185187,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Hello,",
+        "body": "Hello! Thank you for reaching out. I'm interested in learning more about the document and the bank details. Could you please provide me with some more information on how this process works?\n\nBest wishes,\nApril"
+    },
+    {
+        "from": "baiter_296",
+        "to": "scammer_296",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3854282407407407,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Hello,",
+        "body": "Hello! I'm interested in receiving the details from you. Could you please provide more information about the document and the bank where the money has been deposited? I look forward to hearing back from you soon.\n\nBest wishes,\nApril"
+    },
+    {
+        "from": "scammer_296",
+        "to": "baiter_296",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.019050925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Hello,",
+        "body": "Hello April,\r\n\r\nI need to have your full details before sending the contact details of the\r\nBank so that you can write and ask for the process to follow.\nThanks,\r\nBong Ja"
+    },
+    {
+        "from": "baiter_296",
+        "to": "scammer_296",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0303819444444444,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Hello,",
+        "body": "Hello Bong Ja,\nThank you for reaching out. I'd be happy to provide my details. What information do you need from me in order to proceed with sharing the contact details of the bank?\nLooking forward to your response.\n\nBest wishes,\nApril"
+    },
+    {
+        "from": "scammer_296",
+        "to": "baiter_296",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0789236111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Hello,",
+        "body": "Hello April,\r\n\r\nBelow are the details I need.\r\n\r\nFull names:\r\nFull address:\r\nProfession:\r\nCompany's name(if any):\nTelephone No:\r\nNationality:\r\nA valid copy of your ID:\r\n\r\nThank you,\r\n\r\nBong Ja"
+    },
+    {
+        "from": "baiter_296",
+        "to": "scammer_296",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.093900462962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Hello,",
+        "body": "Hello Bong Ja,\nThank you for reaching out. Could you please provide more information about the company you are referring to? I would be happy to help if I can.\n\nBest wishes,\nApril"
+    },
+    {
+        "from": "scammer_296",
+        "to": "baiter_296",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.9975231481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Hello,",
+        "body": "Hello April,\r\n\r\nNice to hear from you again. In my last message to you, the company I am\r\nreferring to is if you have any company and what is the name of the\r\ncompany. Please get back to me as soon as you have read my message with the\r\ndetails needed.\nThanks,\r\nBong Ja"
+    },
+    {
+        "from": "baiter_296",
+        "to": "scammer_296",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.0102546296296295,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: Hello,",
+        "body": "Hello Bong Ja,\nThank you for reaching out. I appreciate your interest in my company. The name of my company is XYZ Enterprises. What specific details would you like to know about it?\nLooking forward to hearing from you.\n\nBest wishes,\nApril"
+    }
+]

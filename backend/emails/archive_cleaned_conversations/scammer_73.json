@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_73",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Scam victim compensation of $1",
+        "body": "Scam victim compensation of $1,000,000 has been budgeted and set aside on your favor and also scheduled to be paid to you through a Bank in Canada. The IMF rolled out this program to repay victims of all sort of scam.\nThis transaction will cost no headache or lavish spending because a fiduciary has been nominated to stand as a trustee between you and the bank during the course of this transaction. The main reason why a trustee is hired is to secure and retrieve your fund payment without hitches.\nThe fiduciary service charge cannot be more than US$50,000 and will only be paid to him once you receive and confirm your payment to your bank account.\nEmail me:- \naivafinance@hotmail.com\n IF YOU ARE WILLING TO WORK WITH THE FIDUCIARY SO THAT I CAN EMAIL YOU HIS CONTACTS.\nYours Truly,\nRebecca Hall\nCEO\nAIVA Finance Inc"
+    },
+    {
+        "from": "baiter_73",
+        "to": "scammer_73",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Scam victim compensation of $1",
+        "body": "Hello Rebecca Hall,\n\nThank you for reaching out and sharing this information. It's quite interesting to hear about the IMF program. I'm curious, how does this program work exactly? And could you tell me more about the role of the fiduciary in this process?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nDarlene"
+    },
+    {
+        "from": "scammer_73",
+        "to": "baiter_73",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "RE: Scam victim compensation of $1",
+        "body": "Thanks for your prompt response\r\n\r\nYour fiduciary agent has been nominated.  While writing him, first and foremost start by introducing yourself to him, after which you will make reference to your approved payment which is to be paid through Trust Bank of Canada.\r\n\r\nYou must keep me posted on every step you go with him until you confirm your fund into your bank account.\r\n\r\nBelow are the contact detail of the fiduciary agent.\r\n\r\nName: Charles Beke\r\nEmail: charlesbeke.fiduciary@hotmail.com\r\n\r\nONCE AGAIN, KEEPING ME POSTED IS VITAL SO LONG AS ADVICE AND GUIDANCE TO THE SUCCESS AND CREDITING OF YOUR ACCOUNT WITH YOUR FUND IS CONCERN.\r\n\nYours Truly,\r\n\r\nRebecca Hall\r\nCEO\r\nAIVA Finance Inc"
+    },
+    {
+        "from": "baiter_73",
+        "to": "scammer_73",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.5897800925925925,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: RE: Scam victim compensation of $1",
+        "body": "Hello Rebecca Hall,\n\nThank you for your quick response and the information provided. It's great to hear that a fiduciary agent has been nominated for me. I'm curious, could you tell me more about what the role of a fiduciary agent is? \n\nAlso, I'd like to know more about Trust Bank of Canada. How long have they been in operation and how secure are their services? \n\nI appreciate your guidance throughout this process and will certainly keep you posted on every step as advised.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDarlene"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_686",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Good day to you dear custome",
+        "body": "  Good day to you dear customer,  \nyour messages are  well received,\nwith your information and everything is processed,\nBe aware that all beneficiary’s will be responsible for processing\ncharges which cannot be deducted from the fund.\nBecause there’s a bond\nholding the Fund that stated that only the sole beneficiary of\nthe fund is permitted to touch funds, charges is only $50\nalso note that the federal high court here will alert the United State\nBureau and also your state police immediately your transfer is completed\nas to avoid any restrictions of problems before the\nfund get to its port of destination.\nBelow is the cashier details to send the charges via Ria\nMoney transfer. or money-gram, or kindly get to apple store and\n get apple\ncard o $50\n and get back to me with the receipts and picture o the card\nRia Money Transfer Information.\nFull Name: F. C.\nCountry: Benin Republic\nAmount: $50\nTelephone: +229 5941-2456\nAddress:   Cotonou, Benin\nText Question: Color\nAnswer: White\nGet back with the MTCN# numbers for easier confirmation.    "
+    },
+    {
+        "from": "baiter_686",
+        "to": "scammer_686",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Good day to you dear custome",
+        "body": "Hello there,\n\nThank you for your message. I'm a bit confused about the process you've described. Could you please explain it to me in simpler terms? What exactly are these processing charges for? And why can't they be deducted from the fund?\n\nAlso, could you clarify what you mean by \"the federal high court here will alert the United State Bureau and also your state police\"? I'm not sure I understand this part.\n\nLastly, could you tell me more about this Ria Money Transfer or Apple card method? How does it work and why is it necessary?\n\nLooking forward to your response.\n\nBest wishes,\nRod"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2459",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello:sir/Ma,",
+        "body": "  Hello:sir/Ma,\nGood day, I  was directed by the US Government to inform you that your fund Via ATM DEBIT CARD Valued $15.5Million is now under our custody\nready to be released to you as soon as we receive your acknowledgement and readiness to receive your funds.\nPlease, your prompt response will be appreciated.\ntransferdept100000@gmail.com\nBest regards,\nMrs . Mary Johnson\nChief Operations Officer\nFinancial and Regulation Dept\nUnited States of America   "
+    },
+    {
+        "from": "baiter_2459",
+        "to": "scammer_2459",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello:sir/Ma,",
+        "body": "Hello Mrs. Mary Johnson,\n\nThank you for reaching out to me. I'm thrilled to hear about this opportunity! Could you please provide more details about this fund? How did it come under your custody and why is it being released to me?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nFloyd"
+    }
+]

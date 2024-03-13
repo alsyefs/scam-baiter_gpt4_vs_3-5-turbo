@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1903",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  United Nations Canada Center",
+        "body": "  United Nations Canada Center\nAddress: 30 Metcalfe St Suite 400 Ottawa\nON K1P 5L4 Canada\nCharity in Ottawa Canada Center\n \nGreetings ,\nI Am writing this mail from the office of the UNITED NATION IN CANADA .\nThis is to inform you of your uncleared transactions for the period in which Sérgio Vieira de Mello served as the officer incharge of debts in Canada,  A memorandum of understanding has been reached to pay you a total of $6.700,000.00 United State Dollars In Draft.\nThe following information is needed to carry out all the modalities and to prepare your Draft for immediate delivery.\n1. Full Name\n2. Residential Address\n3. Valid Identity Card\n4. Country/ state of Origin.\nBest Regards,\nNoel Jones ,\nPermanent representative   "
+    },
+    {
+        "from": "baiter_1903",
+        "to": "scammer_1903",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   United Nations Canada Center",
+        "body": "Hello,\n\nThank you for reaching out to me from the office of the United Nations in Canada. I appreciate your message and would like to learn more about this opportunity. Could you please provide me with some additional information?\n\n1. What is the purpose of this payment? Why am I being offered a draft of United States Dollars?\n2. Can you explain who rgio Vieira de Mello is and how he is related to this matter?\n3. What are the modalities that need to be carried out before the draft can be prepared for delivery?\n4. Is there any specific reason why my full name, address, valid identity card, and country/state of origin are required?\n\nI look forward to your response.\n\nBest wishes,\nSara"
+    }
+]

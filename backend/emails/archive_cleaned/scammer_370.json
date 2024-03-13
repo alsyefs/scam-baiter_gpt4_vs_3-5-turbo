@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_370",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Thank you for your mail. ",
+        "body": "  Thank you for your mail. \nAttention please beneficiary\n We're needed your urgent response back with a gift card $50 dollars to make the delivery fee?  "
+    },
+    {
+        "from": "baiter_370",
+        "to": "scammer_370",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Thank you for your mail. ",
+        "body": "Hello there! Thank you for reaching out to me. I appreciate your message. Could you please provide me with more details about the delivery fee and how it is related to the gift card dollars? I want to make sure I understand everything clearly before proceeding.\n\nBest wishes,\nMuriel"
+    }
+]

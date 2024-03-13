@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_419",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "This is Mr Christopher Wray fr",
+        "body": "This is Mr Christopher Wray from FBI. I am here to inform you that\nyour ATM Card which you have paid a lot of money for and in return got\nnothing has been brought to our office yesterday by the IMF. So you\nare to come over here in our office to have your package free of\ncharge. Office is in Harrisburg when you get to Harrisburg i will give\nyou further directions, But if you won't be able to come to our office\nhere in Harrisburg you are free to tell me so that i can get an\nofficer available for the delivery of the fund to your nearest\nairport."
+    },
+    {
+        "from": "baiter_419",
+        "to": "scammer_419",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: This is Mr Christopher Wray fr",
+        "body": "Hello Mr. Wray from the FBI,\n\nThank you for reaching out to me. I appreciate you informing me about my ATM card situation. However, I have a few questions before proceeding further. Can you please provide more details about why the IMF brought my card to your office? Also, what is the reason behind needing me to come to your office in Harrisburg? Is there any specific documentation or identification that I need to bring with me?\n\nI apologize for any inconvenience, but it would be helpful if you could clarify these points for me. Thank you.\n\nBest wishes,\nJennifer"
+    },
+    {
+        "from": "scammer_419",
+        "to": "baiter_419",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: This is Mr Christopher Wray fr",
+        "body": "If you want our delivery agent to bring it to your home address you will\r\npay for the delivery charges if you come to our office you will pick it up\r\nby yourself thanks there is nothing much"
+    },
+    {
+        "from": "baiter_419",
+        "to": "scammer_419",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0005208333333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: This is Mr Christopher Wray fr",
+        "body": "Hello there! Thank you for reaching out. I appreciate the information about the delivery options. Could you please provide me with more details about the product or service you are offering? I'm interested in learning more before making any decisions.\n\nBest wishes,\nJennifer"
+    },
+    {
+        "from": "scammer_419",
+        "to": "baiter_419",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0034837962962962965,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: This is Mr Christopher Wray fr",
+        "body": "What do you want ?"
+    },
+    {
+        "from": "baiter_419",
+        "to": "scammer_419",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.003993055555555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: This is Mr Christopher Wray fr",
+        "body": "Hello! I hope you're doing well. I wanted to share some exciting information with you. Have you ever heard of a new investment opportunity called \"CryptoGold\"? It's a revolutionary platform that allows you to earn huge profits by investing in cryptocurrencies. Would you be interested in learning more about it?\n\nBest wishes,\nJennifer"
+    },
+    {
+        "from": "scammer_419",
+        "to": "baiter_419",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.009039351851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: This is Mr Christopher Wray fr",
+        "body": "No"
+    },
+    {
+        "from": "baiter_419",
+        "to": "scammer_419",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00949074074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: This is Mr Christopher Wray fr",
+        "body": "Hello! How are you today? I hope you're doing well. I wanted to share some interesting information with you. Have you ever heard about a unique investment opportunity that guarantees high returns within a short period of time? It's quite fascinating, and I think you might find it intriguing as well. Would you like to hear more about it?\n\nBest wishes,\nJennifer"
+    }
+]

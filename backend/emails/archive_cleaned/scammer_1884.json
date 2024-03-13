@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1884",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Sir,",
+        "body": "  Sir,\nComplement of the season and welcome into a prosperous year 2024,\nThis is to announce to your notice that your overdue contractual payment of $10.5m has been approved and ready for settlement with immediate effect, as you are expected to visit our regional office to sign all the necessary documents of $10.5mimllin and have your payment released without any form of delay as legally reached with the sponsor’s investor.  \nThis trip to  our regional office  will not cost you anything  because your traveling flight ticket will be paid by the investor including  your hotel accommodation,  All you need is to make yourself available to sign  all the documents  which will give you the opportunity to receive your approved $10.5M.\nFor your information, we need a copy of your passport and the name of the airport you are traveling from, quickly  get back to this office with the required information such as a copy of your international passport your\n telephone number and your contact address to enable us to process your flight itineraries, the agreement stated that you will be giving %10  of total funds at end of this transfer to the financier as agreed into law.\nBest Regards\nMr John Kalu\nForeign debt settlement coordinator   "
+    },
+    {
+        "from": "baiter_1884",
+        "to": "scammer_1884",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Sir,",
+        "body": "Hello Mr. John Kalu,\n\nThank you for reaching out to me and providing this information. I appreciate your warm wishes for the season and the new year.\n\nI must say, this sounds like a great opportunity to settle my overdue payment. However, I have a few questions before proceeding further. Could you please clarify the following points for me?\n\n1. Which regional office should I visit to sign the necessary documents?\n2. Can you provide more details about the sponsor investor who will be covering my travel expenses?\n3. What is the total amount of my approved payment that will be released upon signing the documents?\n4. Is there any specific timeframe within which I need to make myself available for this trip?\n\nOnce I have these details, I will be able to provide you with the required information such as a copy of my passport, telephone number, and contact address.\n\nThank you again for your assistance, and I look forward to your response.\n\nBest wishes,\nMichael"
+    }
+]

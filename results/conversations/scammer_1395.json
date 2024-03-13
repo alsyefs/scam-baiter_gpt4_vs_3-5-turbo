@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1395",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Sir /Madam",
+        "body": "Dear Sir /Madam\nThis is to inform you that your payment has been approved by FIRS United States and United Nations for immediate release via wire transfer (Bank to Bank transfer) and \nyou are requested to reconfirm your Bank Account details to make the transfer.\nYou are also informed that you do not have to make any more payments for the release of your funds as the United States Government and United Nations has waived all Fees / Charges related to your payment,The United Nations will give you a Lawyer that will Verify and Authenticate your claims to avoid double Claims OR Anyone interfering in your Funds again.\nPlease get back to us immediately with your account and personal details for the release of your funds.\nYour urgent response is welcomed.\nYours Faithfully,\nKaren Mouritsen."
+    },
+    {
+        "from": "baiter_1395",
+        "to": "scammer_1395",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Sir /Madam",
+        "body": "Hello Karen Mouritsen,\n\nThank you for your email. It's quite exciting to hear about this payment approval from FIRS United States and the United Nations. I must say, it's not every day that one receives such news.\n\nCould you please provide more information about this process? For instance, how was my name selected for this payment? And what is the exact amount that has been approved?\n\nI'm also curious about the lawyer you mentioned who will verify my claims. Could you tell me more about them? What is their name and how can I get in touch with them?\n\nI look forward to hearing back from you soon.\n\nBest regards.\n\nBest wishes,\nJohn"
+    },
+    {
+        "from": "scammer_1395",
+        "to": "baiter_1395",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Dear John..,",
+        "body": "Dear  John,\r\nGood Afternoon and How're you doing today It was nice to read from you.The\r\nBitter truth is that you should discontinue any further communication from\r\nany One that claims to have your funds at this Moment.The United Nations\r\nand FIRS have moved your funds to the Bank of America for safety reasons.\r\n\r\nListen carefully:\r\n\r\nAre you not Tired of sending money out? Or Are you not tired of their empty\r\npromises?\r\n\r\nThey have nothing to offer you and that's why the Federal Government of\r\nAmerica has mandated  us to make sure the funds get to you as soon as\r\npossible.They have millions of stories to tell or Convince you but Please\r\nkindly listen and stop wasting more money on your funds.\r\n\r\nThe Total funds you to receive is $9.5 Million us Dollars.The funds will be\r\ntransferred to you without any issues again.You will be contacting our\r\nOfficial Lawyer to Draft a Seal and Verification your  Payment to avoid any\r\ndouble claims or someone coming to Interfere again in your funds.The\r\nVerification Panel will give us instruction as soon as they are done with\r\ntheir necessary enquiry.It might take 1 or 2 days to get this done.Kindly\r\ncontact the Lawyer with the following details :\r\n\r\nFull name:\r\nAddress:\r\nOccupation\r\nAge:\r\nHow much you have spent to get your funds in the past:\r\n\r\n       The lawyer email is as follows:\r\nascsolicitorsandadvocates@outlook.com (mailto:\r\nascsolicitorsandadvocates@outlook.com)\r\n\r\n\r\nYours Sincerely,\r\nCassandra B.\r\nFIR\r\nS Payment Department.\r\nUnited States of America."
+    },
+    {
+        "from": "baiter_1395",
+        "to": "scammer_1395",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.024421296296296295,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Dear John..,",
+        "body": "Hello John,\n\nGood afternoon! I hope this message finds you well. I recently came across some information that I thought might be of interest to you.\n\nIt appears that there have been some developments regarding funds that were previously held by the United Nations and FIRS. For safety reasons, these funds have now been moved to the Bank of America.\n\nI understand how frustrating it can be to constantly send money out without seeing any return. It's easy to feel like you're just throwing your hard-earned cash into a black hole, isn't it? And all those empty promises don't make things any easier.\n\nHowever, it seems like there might be a light at the end of the tunnel. The Federal Government of America has stepped in and is working diligently to ensure these funds reach their rightful owners as soon as possible.\n\nThe total amount you're set to receive is quite substantial - we're talking millions here! And the best part? There won't be any issues or complications; everything will proceed smoothly.\n\nOur official lawyer is currently drafting up a seal for your payment. This is an important step as it prevents double claims or interference from third parties. Once our panel completes their necessary checks (which should take about 2-3 days), we'll be able to move forward with the process.\n\nCould you tell me more about your experience so far? Have you had any other interactions with organizations claiming they could help retrieve your funds?\n\nLooking forward to hearing from you!\n\nBest,\nCassandra B.\n\nBest wishes,\nJohn"
+    }
+]

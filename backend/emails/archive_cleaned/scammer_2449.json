@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2449",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear owner",
+        "body": "Dear owner\nI am Mr.David J. Moyes, Head Officer-in-Charge, Administrative Service Inspection United Nations Inspection Agency in Harts-field-Jackson International Airport Atlanta, Georgia. During our investigation, I discovered an abandoned shipment through a Diplomat from United Kingdom which was transferred from JF Kennedy Airport to our facility here in Atlanta, and when scanned it revealed an undisclosed scam\nThe consignment was abandoned because the Content was not properly declared by the consignee as money rather it was declared as personal effect/classified document to either avoid diversion by the Shipping Agent or confiscation by the relevant authorities.\nThe diplomat's inability to pay for Non Inspection fees among other things are the reason why the consignment is delayed and abandoned. By my assessment, each of the boxes contains about $4M or more.They are still left in the airport storage facility till today. The Consignments like I said, are two metal trunk boxes weighing about 65kg each (Internal dimension: W61 x H156 x D73 (cm) effective capacity: 680 L) Approximately. The details of the consignment including your name and email on the official document from the United Nations' office in London where the shipment was tagged as personal effects/classified document is still available with us. \nAs it stands now, you have to reconfirm your full name, Phone Number, and full address so I can cross-check and see if it corresponds with the one on the official documents. \nIt is now left to you to decide if you still need the consignment or allow us to repatriate it back to the UK (place of origin) as we were instructed.\nAs I did say again, the shipper abandoned it and ran away most importantly because he gave a false declaration, he could not pay for the yellow tag, he could not secure a valid non inspection document(s), etc. I am ready to assist you in any way I can for you to get back These packages provided you will also give me something out of it (financial gratification). You can either come in person, or you engage the services of a secure shipping/delivery Company/agent that will provide the necessary security that is required to deliver the package to your doorstep or the destination of your choice. I need all the guarantees that I can get from you before I can get involved in this project.\nReply me through this:Email:(\ntonye7273@gmail.com\n)  for the delivery details\nBest Regards,\nMr.David Jim Moyes\nHead Officer-in-Charge\nAdministrative Service Inspection Unite."
+    },
+    {
+        "from": "baiter_2449",
+        "to": "scammer_2449",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear owner",
+        "body": "Dear Jim Moyes,\n\nThank you for reaching out to me regarding the abandoned shipment. I appreciate you providing me with this information. Can you please clarify what exactly was in the shipment that was declared as personal effects classified document? I want to make sure I have a clear understanding of the situation.\n\nAlso, could you explain why the diplomat was unable to pay for the Non Inspection fees? Was there a specific reason or circumstance that led to this?\n\nFurthermore, I would like to know more about the process of repatriating the shipment back to the UK. What steps would be involved in doing so?\n\nLastly, if I decide to proceed with retrieving the packages, what kind of financial assistance are you referring to? Could you please provide more details on that?\n\nI look forward to your response.\n\nBest wishes,\nKerry"
+    }
+]

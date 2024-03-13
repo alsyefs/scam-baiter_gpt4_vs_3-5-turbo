@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1057",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "19/02/2024",
+        "body": "19/02/2024\nICJ Netherlands\nInternational Court of Justice\nPeace Place\nCarnegieplien\n2517 KJ The Hague\nNetherlands\nEmail: \nicj20233@gmail.com\nAttention\nRe: Your ICJ Universal Protection Certificate referred.\nYou are listed as one of those whose fund has been trapped in Nigeria due to bureaucratic bottlenecks.\nPlease note that the International Court of Justice acting under the United Nations Organization has introduced and enacted into law a document called \"ICJ Universal Protection Certificate\" clears your fund and transaction from all such bureaucratic bottlenecks and further payment on your transaction. It also keeps all documents valid and protects the fund and you from all security investigation.This document is binding on all countries under the United Nations Organization and supersedes every other demand from such individual countries. This document will be processed free for you by our designated Lawyers in each of the countries under our control.\nOnce the original certificate is received and confirmed to be true and legal, your fund will be allowed to drop into your designated account without further let or hindrance. \nWith your consent and declaration of intention to receive your fund, we will instruct the applicable Lawyer to process the document and send the same to you.\nBe guided accordingly.\nTruly\nJoan Donoghue\nPresident of ICJ"
+    },
+    {
+        "from": "baiter_1057",
+        "to": "scammer_1057",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: 19/02/2024",
+        "body": "Hello Joan Donoghue,\n\nThank you for reaching out to me. I'm quite surprised to hear that my fund has been trapped in Nigeria. Could you please provide more details about this situation? How did it happen and how was my name involved?\n\nYou mentioned an ICJ Universal Protection document, could you explain a bit more about what this document is and how it works? \n\nI appreciate your help in this matter.\n\nBest regards.\n\nBest wishes,\nFern"
+    }
+]

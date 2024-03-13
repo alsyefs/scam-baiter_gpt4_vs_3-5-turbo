@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_286",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Mr. xxx,",
+        "body": "Dear Mr. xxx,\nThe request for your personal information is for our further Identification and clarification for security reasons. Sequel to this, we have presently commenced work on your fund file regarding the updates of What you need to do now is to open the online account activation and that will cost you £850.00 Great Britain Pound and Barrister Kelvin Arthur to obtain some documents on your behalf.\nWe only give you an option if you want some money  through MoneyGram ? after payment of the online account activation  that will be available the same day of payment we only want you to make a choice ...\n \nTherefore the payment of  required fee you are sending to us in London,  which best way you know is good for you to make the payment across to us the information will be provided to you     \nwe wish to request for your full basic contact information as follows :\n 1 )Physical Address…………….....\n2) Telephone Number……………\n3)  A Scan Copy of International Passport or any Identity.........................\n 4)Name of Next of Kin...............\nRespectfully yours,\nMr. Sam Roy.\nHead, Information Dept .\nBMCE Bank International Plc, London .\nTelephone;  +44748-1988-661"
+    },
+    {
+        "from": "baiter_286",
+        "to": "scammer_286",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Mr. xxx,",
+        "body": "Hello Mr. Sam Roy,\n\nThank you for your message and the information provided. I appreciate your efforts in working on my fund file.\n\nI'm a bit confused about the online account activation process you mentioned. Could you please explain it to me in more detail? How does this process work and why is there a cost associated with it?\n\nAlso, could you clarify what documents Barrister Kelvin Arthur will be obtaining on my behalf? What are these documents for?\n\nLastly, I noticed that you asked for some personal details such as physical address, telephone number, scan copy of passport or any, and name of next of. However, I am not comfortable sharing these details over email due to privacy concerns. Is there another way we can proceed without sharing this information?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJacqueline"
+    }
+]

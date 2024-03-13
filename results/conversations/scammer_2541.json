@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2541",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good day,",
+        "body": "Good day,\nI am Ambassador Dennis Francis, President of the United Nation General\nAssembly (UN). I work hand to hand with the Federal Treasury\nDepartment, International Monetary Fund and the World Bank. Further\ndetails about me can be found on the official United Nations website\nor via the link below;  https: // press.un.org/en/2023/ga12504.doc.htm\nWe found that you have an unclaimed compensation payment that was\nsuppose to be remitted to you has just showed up at my office, maybe\ndue to some unforeseen circumstance that allow you to finish your\ntransactions home or abroad, so I took it upon myself to get in touch\nwith you, before it will be forfeited as you still have the chance to\nclaim your payment.\nCurrently, states, federal agencies and other organizations\ncollectively hold more than $198 billion in unclaimed cash and\nbenefits, which come from a variety of sources, including abandoned\nbank accounts and stock holdings, unclaimed life insurance payouts and\nforgotten pension benefits seizures of third party benefit, legal\nfinancial transactions, like lotto winnings, Inheritance claims that\nwas abandon by individuals over skepticism etc. \nIt was however\nascertain that you were supposed to receive a sum of $950,000,00\nbeneficiary, kindly email this office for claims.\nAnd get back to me for more information on how to claim your funds\nbefore its marked unclaimed.\nYours sincerely,\nAmbassador Dennis Francis (UN)\nEmail address \nunnationsorg@outlook.com"
+    },
+    {
+        "from": "baiter_2541",
+        "to": "scammer_2541",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Good day,",
+        "body": "Good day Ambassador Dennis Francis,\n\nThank you for reaching out to me regarding the unclaimed payment. I appreciate your efforts in contacting me before it is forfeited. I would like to know more about the details of this payment and how I can claim it.\n\nCould you please provide me with more information about the source of this payment? How was it determined that I am entitled to receive this sum? Additionally, what steps do I need to take in order to claim the funds?\n\nI look forward to hearing back from you soon.\n\nBest wishes,\nRamon"
+    },
+    {
+        "from": "scammer_2541",
+        "to": "baiter_2541",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Good day,",
+        "body": "JOKER"
+    },
+    {
+        "from": "baiter_2541",
+        "to": "scammer_2541",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.018819444444444444,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Good day,",
+        "body": "Hello there! How can I help you today?\n\nBest wishes,\nRamon"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_335",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good Day,",
+        "body": "Good Day,\nI am Green Carlos and I work with UNITED BANK For AFRICA. Please Can you use ATM Visa card to withdraw money at ATM cash machine in your country?\nI want to transfer money to you from my country; it’s part of money taken by some old politician that was forced out of power.I will change the account details to\nyours, and apply for a visa card with your details in our bank,\nthey will send the visa card to you and you will be withdrawing money with it and always send my own percentage of the money,\nand the money we are talking about is $11.5Million us dollars about is $11.5Million us dollars. Whatever amount you withdraw daily, you will send 50% to me and you\nwill take 50%, the visa card and the bank account will be on your name,\nI will be waiting for your information as soon as possible.\nYour name..........................\nAge...........................\nSex...........................\nCountry.......................\nOccupation....................\nPhone number........................\nCopy of your passport\n.............\nBest Regards.\nGreen Carlos"
+    },
+    {
+        "from": "baiter_335",
+        "to": "scammer_335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Good Day,",
+        "body": "Hello Green Carlos,\n\nThank you for reaching out to me. I hope you're doing well. I have a few questions regarding the transfer you mentioned. Could you please provide more details about the source of the money and why it needs to be transferred? Additionally, what is the process for obtaining the ATM Visa card and how does it work exactly? \n\nI appreciate your time and look forward to hearing back from you soon.\n\nBest wishes,\nAllison"
+    },
+    {
+        "from": "scammer_335",
+        "to": "baiter_335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Good Day,",
+        "body": ""
+    },
+    {
+        "from": "baiter_335",
+        "to": "scammer_335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.4236342592592592,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Good Day,",
+        "body": "Hello! How can I help you today?\n\nBest wishes,\nAllison"
+    }
+]

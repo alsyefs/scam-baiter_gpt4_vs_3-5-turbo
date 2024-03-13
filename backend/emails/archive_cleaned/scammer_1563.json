@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1563",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  FORM CHEVROLET TRUCK DEALERS",
+        "body": "  FORM CHEVROLET TRUCK DEALERSHIP\nI am Mrs Mary Barra CEO Of Chevrolet truck and I am writing to inform\nyou about your Chevrolet truck winning that brought by the United\nEmbassy which has been on our office for so long due to the pendamic\nvirus we could not deliver the Chevrolet truck and your funds worth\nthe sum $8.5 million USD now it has settled down slowly by the\ngovernment of USA in the white house Washington DC The 2Chevrolet\ntruck have Been Mandated to be deliver to your address as soon as\npossible.\nThanks & God bless you contact this email  (\nmarybarraceo483@gmail.com\n)\nphone : (209) 682-5383\nKind Regards\nMary Barra?   "
+    },
+    {
+        "from": "baiter_1563",
+        "to": "scammer_1563",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   FORM CHEVROLET TRUCK DEALERS",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate the information about my Chevrolet truck winning. However, I have a few questions before proceeding further. Could you please provide more details about the United Embassy and how they are connected to this prize? Additionally, what steps do I need to take in order to have the truck delivered to my address?\n\nBest wishes,\nSylvia"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_340",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Beneficiary:",
+        "body": "Dear Beneficiary:\nCONTACT THIS EMAIL ADDRESS:  \ncaroltome459@gmail.com\nThis is Ups Global Express International Delivery Company, We wish to officially inform you that we received a package containing an ATM CARD with your name valued $10.5Million to be delivered to your residential address.. It was brought to our notice yesterday morning from the International Monetary Fund Department (IMF). \nKindly reconfirm the below information properly to avoid any mistakes during delivery.\n* Your Full Names:_______________________\n* Your Country: __________________________\n* Home Address:_____________________\n* Direct Phone Number:________________________\n* Occupation:_______________________\n* Marital Status:________________________\n* Age:________________________\n*\nCopy Of ID CARD\n:________________________\nBELOW IS THE CONTACT AGENT INFORMATION'S:\nContact Person Mrs.Carol B Tome\nContact this email: \ncaroltome459@gmail.com\n / \nupsdeliverycompany@usa.com\nWe will register your package and send you the tracking number for safety delivery of your package as soon as you reconfirm the required information needed for safety delivery of your ATM Card to your\nresidential address in your Country.\nI will be looking forward to hearing from you within 48hours.\nYours affectionately."
+    },
+    {
+        "from": "baiter_340",
+        "to": "scammer_340",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Beneficiary:",
+        "body": "Dear Ups Global Express Delivery Company,\n\nThank you for reaching out to me regarding the package containing an ATM CARD with my name. I appreciate the update and would like to proceed with the delivery. However, before I provide any information, could you please clarify a few things for me?\n\n1. How did the Monetary Fund Department IMF come to know about this package? \n2. Can you provide more details about the purpose of this ATM card?\n3. Is there any cost or fee associated with the delivery of this package?\n4. Could you please explain why a copy of my ID card is required?\n\nOnce I have these details, I will be able to reconfirm the necessary information for safe delivery.\n\nLooking forward to your response.\n\nBest wishes,\nJohn"
+    }
+]

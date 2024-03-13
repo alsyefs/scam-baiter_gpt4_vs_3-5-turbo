@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_28",
+        "to": "baiter_28",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Business sponsorship!! Get up",
+        "body": "If you are interested to deal with us kindly furnish us with the below\r\nrequired details as our official requirements to enable us start the\r\nprocessing of your requested sponsorship amount*.*\r\n\r\n\r\n\r\nCompany Name (if available):...........\r\n\r\nFirst Name:.................\r\n\r\nMiddle Name:...........\r\n\r\nLast Name:.......\r\n\r\nAge:.............\r\n\r\nSex:....................\r\n\r\nMarital Status:............\r\n\r\nOffice Phone / Fax:..........\r\n\r\nMobile:..............\r\n\r\nCurrent Contact Address:.......\r\n\r\nCity:......................\r\n\r\nState/Province:............\r\n\r\nCountry:...................\r\n\r\nOccupation:..............\r\n\r\nMonthly Income……..\r\n\r\nAnnual Income:......................\r\n\r\nSponsorship Amount needed:……………..\r\n\r\n\r\n\r\n Once we are in receipt of the above details from you, we will send you the\r\nsponsorship calculation/repayment draft.\r\n\r\n\r\n\r\nSincerely Yours,\r\n\r\nMonebglobal Team"
+    },
+    {
+        "from": "baiter_28",
+        "to": "scammer_28",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Business sponsorship!! Get up",
+        "body": "Hello Team,\n\nThank you for reaching out to me. I'm interested in learning more about your offer. However, before I provide any personal information, could you please clarify what exactly the deal entails? What kind of services or products are you offering?\n\nAlso, could you please explain what the repayment draft is and how it works? I want to make sure I fully understand the process before proceeding.\n\nLooking forward to hearing back from you.\n\nBest wishes,\nMatthew"
+    },
+    {
+        "from": "scammer_28",
+        "to": "baiter_28",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.1584722222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Business sponsorship!! Get up",
+        "body": "Kindly fill in your details, and send it to us then we can send you your\r\nrepayment calculations draft"
+    },
+    {
+        "from": "baiter_28",
+        "to": "scammer_28",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7175578703703703,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Business sponsorship!! Get up",
+        "body": "Hello there! Thank you for reaching out to me. I appreciate your offer to help with my repayment draft. Before I proceed, could you please provide me with some more information? I just want to make sure everything is clear before I send anything. Could you let me know what kind of repayment draft this is and how it works?\n\nBest wishes,\nMatthew"
+    }
+]

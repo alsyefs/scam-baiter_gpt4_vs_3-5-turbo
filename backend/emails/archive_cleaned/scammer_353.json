@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_353",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Please stop sending your mon",
+        "body": "  Please stop sending your money to internet Fraud Stars. Their Fraud\nstories has no end. They will never stop asking you for more money. We\nwill send FBI to your home if you send any money to them again. White\nHouse has directed FBI,Police and Homeland security to start\nmonitoring all your movements and transactions .\nAs it is now,President Joe Biden can only approve $10.5 million\nKindly fill the information below .\n1 Your fullname............\n2 Your current delivery address.......\n3 phone number......../whatsApp....\n4 How best do you want to receive your funds....\n5 Any valid ID......\nOnly President Joe Biden can release this funds to you\nJeffrey Dunston Zients\nWhite House chief of staff\nWashington DC,USA.\n president Joe Biden Office   "
+    },
+    {
+        "from": "baiter_353",
+        "to": "scammer_353",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Please stop sending your mon",
+        "body": "Hello,\n\nThank you for reaching out and sharing this information. It's important to be cautious when dealing with online scams. Can you provide more details about the specific fraud stories you mentioned? I want to make sure I have a clear understanding of the situation.\n\nAdditionally, could you explain how the White House and President Joe Biden are involved in this matter? I'm curious to know more about their role in addressing internet fraud.\n\nLooking forward to your response.\n\nBest wishes,\nSarah"
+    }
+]

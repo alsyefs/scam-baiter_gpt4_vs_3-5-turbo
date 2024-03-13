@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1177",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Attn:",
+        "body": " Attn:\nMy Name is Diplomat Joe Collins.  I have been trying to reach you on\nyour House delivery address and your telephone for about an hour now\njust to inform you about My successful arrival in your country Airport\nIn 2 trunk boxes of consignment worth $15.5 Million United State\nDollars which I have been instructed by the United Nation to be\ndelivered to you.\nThe Airport authority demanded for all the legal back up papers to\nprove to them that the fund is no way related with drug nor fraud\nmoney, I have presented the papers I handed to them and they are very\nmuch pleased with the paper’s Please try and reach me with my email\naddress \ndiplomatjoecollins469@gmail.com\nI cannot afford to spend more time here due to other deliveries I have\nto take care of in New Mexico, Florida, South Carolina, Kansas,\nPennsylvania, Texas, Wisconsin and Washington. I want you to know that\nyou have 24 hours to email me \ndiplomatjoecollins469@gmail.com\n as you\nmay know I do not want the security company where this Consignment is\nlodged to start raising an eyebrow because of the length of time it\nhas stayed.\nHowever, before the delivery is affected, we need you to reconfirm the\nfollowing information so that the funds will not be delivered to\nsomeone else. After verification of the information with what I have\non file, I shall contact you so that we can make arrangements on the\nexact time I will be bringing your package to your residential\naddress.\nRegards.\nDiplomat Joe Collins.    "
+    },
+    {
+        "from": "baiter_1177",
+        "to": "scammer_1177",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  Attn:",
+        "body": "Hello Diplomat Joe Collins,\n\nWow, this is quite a surprise! I wasn't expecting any delivery, especially not one of such value. It's fascinating how these things work out, isn't it? \n\nI'm curious about the process though. How did the United Nation come to decide on delivering this fund to me? And why in trunk boxes? That seems like an unusual method.\n\nAlso, you mentioned that you have other deliveries to take care of in various states. Are they similar to mine or different?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nOralia"
+    }
+]

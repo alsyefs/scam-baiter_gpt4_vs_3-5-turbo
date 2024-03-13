@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1503",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello Sir/Maam ,",
+        "body": "  Hello Sir/Maam ,\nI would like to apply through this medium for your co-operation and to secure an opportunity to invest with you in your country with my inheritance .My name\nis Mr Joseph Sermani 25 years old single never marry from Swaziland presently living in Cotonou, The Republic Of Benin, under (UN) United Nation.\nI have a substantial capital Nine million American dollars i honorably intend to invest in your country into a very lucrative business venture of which you\nare to advise and execute the said venture over there for the mutual benefits of both of us , this money was made by my late beloved father through Diamond\nExport and he deposited it in fiduciary company here in Cotonou, Benin Republic under my name as the next of Kin. all the document that covering this fund is with me here , i have meet the fiduciary company on my arrival here and the fund has approve to release to me that is why i contacted you so that i can live with you and invest with this money under your proper management\nand care.\nI dont want to live here in Africa because of War here and there every day that is why i contact you because i want to live the rest of my life in your country and invest with this money.\nWhat i need is your ideas on how this money will be invested,properly managed and the type of investment the money will invest in your position because this\nmoney is my only hope to start a new life.\nLooking forward to your response.\nYours Faithfully,\nMr Joseph Sermani   "
+    },
+    {
+        "from": "baiter_1503",
+        "to": "scammer_1503",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello Sir/Maam ,",
+        "body": "Hello Mr. Joseph Sermani,\n\nThank you for reaching out and sharing your situation with me. It sounds like you've been through a lot and I appreciate your trust in considering me to help manage your investment.\n\nI'm curious about the type of business ventures you're interested in. Are there any specific industries or sectors that you have in mind? Also, could you tell me more about how the diamond export business worked? It sounds fascinating!\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRonald"
+    }
+]

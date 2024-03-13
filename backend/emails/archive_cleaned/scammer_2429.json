@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2429",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Mr. Thomas Cashman.",
+        "body": "Mr. Thomas Cashman.\nThe General Manager Of Fidelity Capital Group Inc.\nLocated In: 825 Third Ave.\nAddress: 825 3rd Ave, New York, NY 10022, United States.\nDate: January 27th, 2024.\nOn behalf of the board and management of Fidelity Capital Group Inc. I am Mr. Thomas Cashman, the General Manager of Fidelity Capital Group Inc. Fund Department, I want to inform you that during my recently withheld package routine check, I discovered that you have not received your Fund of $10.5Million from Fidelity Capital Group Inc. Fund Department and it is available for you to receive.\nBe informed that we have concluded the 50% out of the 100% arrangement of the transaction. I will send you more details on how I will proceed. \nKindly respond to this message immediately with your full contact details below in order to release the fund to you within 24 hours and you have to keep this transaction confidential and I will appreciate it.\n1. Full Name: 2. Contact Address: 3. Phone/WhatsApp: 4. \nMeans of Identification\n: 5. Occupation: 6. Age: 7. Gender: 8. Marital Status: 9. Nearest Airport:\nYours faithfully,\nMr. Thomas Cashman.\nPhone/WhatsApp: +1 305 767 4762."
+    },
+    {
+        "from": "baiter_2429",
+        "to": "scammer_2429",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Mr. Thomas Cashman.",
+        "body": "Hello Mr. Thomas Cashman,\n\nThank you for reaching out to me regarding the fund from Fidelity Capital Group Inc. I appreciate you taking the time to inform me about this opportunity. However, before I provide any personal information, I would like to know more details about the process and how it works.\n\nCould you please explain to me how the fund will be released? What are the steps involved in receiving it? Additionally, what is the purpose of collecting my occupation, age, gender, marital status, and nearest airport? \n\nI look forward to your response.\n\nBest wishes,\nKathleen"
+    }
+]

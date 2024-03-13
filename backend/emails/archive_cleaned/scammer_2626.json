@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2626",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings,",
+        "body": "Greetings,\nIt's my pleasure to extend our financial offer to your esteemed company for an investment loan opportunity, We are re-investing through project funding in investment loans to project owners and third party investors on 2.5% interest rate per annually, on long term investment projects, Our investment funding is from Two Million dollars to Six Billion dollars for Minimum funding period of 2 to 5 years and maximum period of 6 to 25 years.\nOur investors are ready to fund your project no matter the size and location, Kindly contact us at ( \nwilliamduke@accountant.com\n )  to schedule a meeting for discussion and collaboration\nThank you.\nMr. Ian Cole."
+    },
+    {
+        "from": "baiter_2626",
+        "to": "scammer_2626",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings,",
+        "body": "Hello Mr. Ian Cole,\n\nThank you for reaching out to me with this financial offer. I'm interested in learning more about the investment loan you mentioned. Could you please provide some additional details about the terms and conditions? Specifically, I would like to know more about the interest rate, repayment options, and any collateral requirements.\n\nAdditionally, could you share some information about the investors who would be funding my project? It would be helpful to understand their background and track record in order to make an informed decision.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarie"
+    }
+]

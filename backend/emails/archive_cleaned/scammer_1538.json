@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1538",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear funds beneficiary,",
+        "body": "  Dear funds beneficiary,\nIt is with great joy we wish to announce to you that one Christopher Abbot and his cronies arrested on the 16th of July 2023 via FBI Intelligence Surveillance Network were prosecuted and finally sentenced to 15yrs jail term today. The court gave an injunction to confiscate their investments, assets and breeze bank accounts to ensure victims were duly refunded.\nDuring intelligent interrogations, he made surprising confessional statements to have defrauded you and others Millions of dollars under false pretense. According to the FBI anti-fraud mission, anyone who battered the image of the United States of America will face the consequences. We have obeyed the rule of law. Right now, many scam victims have been trooping our office for refunds. It will amount to gross disservice if we fail to contact you for refunds as well.\nWe therefore contact you to give us the accurate amount he defrauded you for refunds.\nYour urgent response is highly needed.  \nBruce Carrs (Commissioner)  \nH/Q, FBI Anti-Fraud Unit, USA\nEmail: \nmarkjohnbush@gmail.com\n "
+    },
+    {
+        "from": "baiter_1538",
+        "to": "scammer_1538",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear funds beneficiary,",
+        "body": "Dear Bruce Carrs,\n\nThank you for reaching out to me with this information. It's certainly surprising to hear about the arrest and prosecution of Abbot and his cronies. I'm glad that the court has taken action to ensure that their assets are confiscated and victims are refunded.\n\nI must admit, I wasn't aware that I was a victim of this scam. Could you please provide me with more details about how Abbot defrauded me? I want to make sure that I provide you with accurate information so that I can be included in the refund process.\n\nLooking forward to your prompt response.\n\nBest wishes,\nRonald"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1480",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "For Your Immediate Attention",
+        "body": "For Your Immediate Attention\nThe World Bank, IMF and African Union Organization has Approved to pay you your outstanding payment{$1,950,000.00} via First Financial Credit Union USA.\nThis decision was made last week. With this development, a woman by name Sarah Anderson came to our office with an application stating that you gave her the power of attorney as the beneficiary of your outstanding fund.She made us believe that you are dead and that she is your next of kin.\nWe decided to contact you via your email address for confirmation hoping to find out if you are dead or alive and also to find out if you at any time gave this woman the power of attorney to represent you.\nShe recently indicated sending us the mandatory fees for the Procurement of THE AFFIDAVIT OF CLAIM which is needed to process the transfer of funds.\nWe have so far refused to collect till we confirm if she was sent by you.\nPlease let us know also if you are aware that we are almost ready to transfer part payment of your outstanding funds to her nominated bank account stated below:\nBank Name: Bank Of America\nAddress: 1723 Palmdale Bulv.Palmdale Ca. 93550\nAcct #: 3573813158\nRout#: 322271627\nSwift code #: WMSBUS66\nBeneficiary: Sarah  Anderson\nIf you are not aware of the above instruction, Please respond to this email immediately .\nRegards\nMr.Larry Lee\nRep: First Financial, Virginia. USA\nTel:  518-601-1554\nEmail: \nllee1960@usa.com"
+    },
+    {
+        "from": "baiter_1480",
+        "to": "scammer_1480",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: For Your Immediate Attention",
+        "body": "Hello Lee,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I'm not aware of any Sarah Anderson and I certainly didn't give anyone the power of attorney to represent me. \n\nI'm curious about this whole situation. Could you please provide more details? How did Sarah Anderson come into possession of my information?\n\nBest wishes,\nSherly"
+    }
+]

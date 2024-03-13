@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1711",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention:Beneficiary,",
+        "body": "Attention:Beneficiary,\nGood Day,\nGood Day, Why you don't want to receive your fund from my office and why I do not hear from you again this is Dr Olayemi Cardoso I am back to my office so try your best to make sure that you get back to me as soon as you receive this email by today and try your best to call me +2348033859653 so that we can talk on phone as soon as you receive this email by today and you will receive your from fund from my new office immediately and you are going to receive it through a secured/ certified mode of payment Via ATM Visa Card.Make sure that you Reply to this email: \ngovernorofthecentral@gmail.com\nAs soon as the above mentioned details are received, your payment will be made to you immediately,\nYours faithfully,\n Dr Olayemi Cardoso\nGovernor of the Central"
+    },
+    {
+        "from": "baiter_1711",
+        "to": "scammer_1711",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attention:Beneficiary,",
+        "body": "Hello Dr. Olayemi Cardoso,\n\nI hope this message finds you well. I must say, your email has certainly piqued my interest! It's not every day that one receives an email about a fund from the Governor of the Central.\n\nCould you please provide me with more details about this fund? How did it come to be in my name? And why is it being held at your office?\n\nAlso, could you explain a bit more about the secured certified mode of payment Via ATM Visa? I'm not very familiar with these financial terms and would appreciate some clarification.\n\nLooking forward to hearing from you soon!\n\nBest regards.\n\nBest wishes,\nMerrill"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1386",
+        "to": "baiter_1386",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Hello Carlos",
+        "body": "How are you doing today.\r\nAm contacting you concerning your fund which has in our custody, I wait\r\nto hear from you for immediate procedure of your fund Ok."
+    },
+    {
+        "from": "baiter_1386",
+        "to": "scammer_1386",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Hello Carlos",
+        "body": "Hello! I'm doing well, thank you for asking. I appreciate you reaching out to me about my fund. Can you please provide me with more details about it? I would like to understand the procedure and how I can access it.\n\nBest wishes,\nCarlos"
+    },
+    {
+        "from": "scammer_1386",
+        "to": "baiter_1386",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.10623842592592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Hello Carlos",
+        "body": "This is a compensation fund from United State government for scam victims.\r\nYou have to send me your address if you need it delivered to you but if you\r\nwant it transferred into your bank account then send me your\r\naccount details.\r\nI'm waiting to hear from you soon okay"
+    },
+    {
+        "from": "baiter_1386",
+        "to": "scammer_1386",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7236689814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Hello Carlos",
+        "body": "Hello there! Thank you for reaching out to me. I'm interested in learning more about this fund from the United States government for scam victims. Can you please provide me with some additional information? How exactly does this fund work? Is there a specific process or application that needs to be followed?\n\nBest wishes,\nCarlos"
+    }
+]

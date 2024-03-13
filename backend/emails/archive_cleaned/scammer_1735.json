@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1735",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear   ",
+        "body": "  Dear   \nThanks for your mail and I received your contact details, meanwhile I have communicated with my colleagues on how to conduct the transfer without contravene the banking rules of both countries because I wouldn’t want anything to jeopardize my position. \nFinally, we have conclusive arrangement to transfer the 10 million dollars to your yet nominated bank account in your country, kindly contact my colleague on the below information. \nBank Name: WESBANK PLC. \nPersonnel in charge   Paul Mr. Kutele Mnyamana \nEmail: \ninfo@westrbk.com\n \nEmail: \nkutele.mnyamana@hotmail.com\n \nPhone: Tel: +27 86 128 8271 / Fax: +27 864984880 \nNote that you have to tell him that I directed you to him in regards to the transfer of 10 million dollars and always update me. \nRegards, \nMr.John Sipho.   "
+    },
+    {
+        "from": "baiter_1735",
+        "to": "scammer_1735",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear   ",
+        "body": "Dear Sipho,\n\nThank you for reaching out to me. I appreciate your consideration in ensuring that the transfer is conducted within the banking rules of both countries. It's important to follow all the necessary procedures to avoid any complications.\n\nI will definitely contact your colleague, Mr. Kutele Mnyamana, as per your instructions. Could you please provide me with his contact details? I want to make sure I reach out to the right person regarding the transfer of the million dollars.\n\nAlso, could you please clarify what specific information or documents I would need to provide for this transfer? I want to make sure I have everything in order before proceeding.\n\nThank you once again for your assistance and guidance throughout this process. I look forward to hearing from you soon.\n\nBest wishes,\nWendy"
+    }
+]

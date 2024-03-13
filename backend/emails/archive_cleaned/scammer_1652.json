@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1652",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "From Rtd-Col. Sambo Dasuki",
+        "body": "From Rtd-Col. Sambo Dasuki\nDear Sir,\nI am Col. Sambo Dasuki (Rtd), Chairman, Foreign Debt Implementation Committee, Federal Republic of Nigeria.This Committee has just been set up by the President of the Federal Republic of Nigeria and charged with the responsibility of looking into the anomalies occasioned by the delays in paying the nation's foreign debts with a view to settling them within two weeks working days.\nIn line with this and the directives released by the President and Commander-in-Chief of the Armed Forces of the Federal Republic of Nigeria President Bola Ahmed Tinubu ordering all unclaimed Foreign contract and inheritance debts to be returned to the Treasury of the Federal Government and be forfeited two weeks after the date of this directives where they still remain unclaimed, I write to inform you that while going through the files of those affected \nit was discovered that you still have unclaimed funds here with the Nigerian Authorities.\nIn order to facilitate the immediate release of the payment to you within the stipulated time frame of two weeks, you are hereby directed to re-confirm the following information to enable us crosscheck with those in your file made available to this office to ensure that your fund is NOT released to a wrong person.\nA. Your Full Names/Contact Address\nB. Direct Telephone Number(s)\nC. Total Amount Owed\nD. Purpose of Payment (Inheritance or Contract Payment)\nE. Reason for Not Claiming Your Payment till date\nF.\n Copy of your Personal ID\n.\nAwaiting your urgent response to this email.\nRegards,\nRtd-Col. Sambo Dasuki\n     Chairman\nForeign Debt Implementation Committee"
+    },
+    {
+        "from": "baiter_1652",
+        "to": "scammer_1652",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: From Rtd-Col. Sambo Dasuki",
+        "body": "Dear Sambo Dasuki,\n\nThank you for reaching out to me regarding the Foreign Debt Committee and the unclaimed funds. I appreciate your efforts in looking into the anomalies and working towards settling the nation's foreign debts.\n\nI understand that you require certain information from me to ensure that the payment is released correctly. However, before I provide any personal details, could you please clarify a few things for me?\n\n1. How did my name come up in relation to these unclaimed funds?\n2. Can you provide more information about the specific contract or payment that this relates to?\n3. What is the process for verifying and claiming these funds?\n4. Are there any fees or charges involved in this process?\n\nOnce I have a better understanding of the situation, I will be able to provide you with the necessary information.\n\nBest wishes,\nWilliam"
+    }
+]

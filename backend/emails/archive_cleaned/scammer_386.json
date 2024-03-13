@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_386",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Received: from 127.0.0.1",
+        "body": "  Received: from 127.0.0.1\nReturn-Path: < \ndraftoffice2@gmail.com\n >\nX-Originating-Ip: [209.85.218.53]\n Reply-To: \ndakunasircharles@gmail.com\nFrom: \"Mr.Nasir Daku.\" <draftoffice2@gmail.com>\nDate: Sun, 9 Oct 2022 15:32:21 +0800\nMessage-ID: <CAHVSdQkaGZLfhtJWfH4Do3n3N8ACxgCG_Zx6Jn8Bq3RyXTFt7g@mail.gmail.com>\nSubject: Request for Investment  "
+    },
+    {
+        "from": "baiter_386",
+        "to": "scammer_386",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Received: from 127.0.0.1",
+        "body": "Hello! How can I help you today?\n\nBest wishes,\nAudrey"
+    }
+]

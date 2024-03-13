@@ -1,0 +1,502 @@
+[
+    {
+        "from": "scammer_773",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Congratulations!!! You have be",
+        "body": "Congratulations!!! You have been chosen as one of  the Facebook and\nInstagram winners!\nFollow the instructions below to receive your Winning gift !!!\nTo be a winner.\nConfirm your victory\nIf you have successfully registered, take a screenshot and send it to\nus, because it is a promo redemption code and the message \"DONE\",\nafter reading this message to process the registration, and if not, I\nwill give you this opportunity to others.\n    remember you are the lucky one to receive this message.\nSo  \"Good luck\"\nFacebook and Instagram Agent\nMs Jenny Blice\nreply to\nfacebookdepartmentusa@gmail.com"
+    },
+    {
+        "from": "baiter_773",
+        "to": "scammer_773",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Congratulations!!! You have be",
+        "body": "Hello Ms. Jenny Blice,\n\nWow, I can't believe I've been chosen as one of the winners! This is such exciting news. Could you please tell me more about this? What exactly have I won? And how was I selected?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nTommy"
+    },
+    {
+        "from": "scammer_773",
+        "to": "baiter_773",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Congratulations!!! You have be",
+        "body": "Congratulations Dear Beneficiary.\r\n\r\n\r\nI emailed to congratulate you, and also to inform you that you are among\r\nthe 152 Facebook lucky winners of the 2023-2024. You are to kindly visit\r\nthe link below to reconfirm your  winnings. Lucky  No,Ticket No,Serial No\r\nand Price No.\r\n\r\n\r\nFirstly you will have to write this numbers down because it is important\r\n\r\nand compulsory.\r\n\r\n\r\nLucky Number (FB-17 98 09 67 46)\r\n\r\nTicket Number (FB-00545188564756)\r\n\r\nSerial Number (5368/02)\r\n\r\nWinning Number(FB/575061725)\r\n\r\nPrize Number(77801209/N\r\n\r\n\r\nDo write it down now and get back to me as soon as you are done .\r\n\r\n\nThank You\r\n\r\nYour Claim Agent"
+    },
+    {
+        "from": "baiter_773",
+        "to": "scammer_773",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.063738425925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Congratulations!!! You have be",
+        "body": "Hello there,\n\nThank you so much for your email! I'm thrilled to hear that I'm one of the lucky winners. This is such exciting news!\n\nI've written down all the numbers as you instructed. Could you please guide me on what the next steps are? How do I go about confirming my winnings?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nTommy"
+    },
+    {
+        "from": "baiter_773",
+        "to": "scammer_773",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.1056712962962965,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Congratulations!!! You have be",
+        "body": "Hello,\n\nThank you so much for your email! I'm thrilled to hear that I'm one of the lucky winners. It's not every day that something like this happens, right?\n\nI've noted down all the numbers as you instructed. They're safely written down now. \n\nCould you please guide me on what the next steps are? How do I go about confirming my winnings? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nTommy"
+    },
+    {
+        "from": "baiter_773",
+        "to": "scammer_773",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.1465046296296295,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Congratulations!!! You have be",
+        "body": "Hello,\n\nThank you for reaching out and congratulations to me, I suppose! This is quite a surprise. I've noted down the numbers as you instructed.\n\nCould you please provide more details about this lucky draw? How was I selected and what exactly have I won? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nTommy"
+    },
+    {
+        "from": "baiter_773",
+        "to": "scammer_773",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.3971412037037036,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Congratulations!!! You have be",
+        "body": "Hello,\n\nThank you for reaching out and sharing this exciting news with me! I must say, it's not every day that one gets to be a lucky winner. \n\nI've noted down the numbers as you instructed. However, could you please explain a bit more about what these numbers mean? And how were they selected?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nTommy"
+    },
+    {
+        "from": "scammer_773",
+        "to": "baiter_773",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.595486111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Congratulations!!! You have be",
+        "body": "Congratulations From Facebook!!!\r\n\r\n\r\nAttention Sir/Ma,\r\n\r\n\r\n You might have been contacted by some individuals,companies or group of\r\npeople that you had won a lottery. Facebook lottery is real and legit,\r\nwhich you can confirm this yourself without anyone contacting you in\r\nregards to it.\r\n\r\n\r\nI am delighted to inform you that your name, email and phone number\r\nwas among our 152 lucky selected winners in the Facebook\r\nInstagram compensation 2023-2024 going on,  Which you\r\nwon the sum of $900,000.00.\r\n\r\n\r\nAm your claim officers, and could\r\nlove to know if you are ready in claiming your winning prize..?\r\n\r\n\r\nTo confirm if you had won, there are 3 ways to do that.\r\n\r\n visit/click the link below.\r\n\r\nLink:  https://facebookclaimusa20.wixsite.com/promo\r\n\r\n\r\n\r\n   1. Fill the form on the link with the winning numbers below.\r\n\r\n\r\nLucky Number (FB-17 98 09 67 46)\r\n\r\nTicket Number (FB-00545188564756)\r\n\r\nSerialas Number (5368/02)\r\n\r\nWinning Number(FB/575061725)\r\n\r\nPrize Number(77801209/N\r\n\r\n\r\n\r\n   1. Send, and you will automatically get a response from the link to\r\n   confirm if you had won or not.\r\n\r\n\r\nThose are the only ways to avoid been scam of being a Winner on any ongoing\r\nlottery promo. This are the only reason and it’s for your own good, and to\r\nfight internet scammers.\nBest Regards\r\n\r\nContact agent.\r\n\r\nRichard Lincoln\r\n\r\nFacebook Department\r\n\r\n1 Hacker Way\r\n\r\nMenlo Park, San Mateo County 94025\r\n\r\nUSA"
+    },
+    {
+        "from": "baiter_773",
+        "to": "scammer_773",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.6053935185185186,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Congratulations!!! You have be",
+        "body": "Hello Richard Lincoln,\n\nThank you for reaching out and sharing this exciting news with me! I must say, it's quite a surprise to hear that I might have won the Facebook Instagram lottery. \n\nI'm curious about how this process works. How was my name, email, and phone number selected? And could you please explain more about these winning numbers? Are they unique to each winner?\n\nAlso, I noticed you mentioned a link for me to click on and fill out a form. However, I can't seem to find the link in your message. Could you kindly resend it?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nTommy"
+    },
+    {
+        "from": "scammer_773",
+        "to": "baiter_773",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.7568055555555557,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Congratulations!!! You have be",
+        "body": "Good Morning Mr. Tommy,\r\n\r\nI want you to know that the draws was conducted by a random selection of\r\nemails and phone numbers of which you were picked by an advanced automated\r\nrandom computer search from the Facebook organization in other to claim\r\nyour $900,000.00 usd.\r\n\r\n\r\nThe Facebook organization compensation program which is a new innovation by\r\nFacebook, is aimed at saying a big thank you to all our users for making\r\nFacebook their number one means to connect, communicate, relate and hook up\r\nwith their families and friends over the years.\r\n\r\nBelow is the link.\r\n\r\n\r\nvisit/click the link below.\r\n\r\nLink:  https://facebookclaimusa20.wixsite.com/promo\r\n\r\n\r\nThank You\r\nRichard Lincoln"
+    },
+    {
+        "from": "baiter_773",
+        "to": "scammer_773",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.8355555555555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Congratulations!!! You have be",
+        "body": "Good Morning Mr. Lincoln,\n\nWow, that's quite interesting! I had no idea Facebook was doing such a thing. It's really nice to see them giving back to their users like this.\n\nCould you please tell me more about how this process works? How was I selected and what do I need to do next?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nTommy"
+    },
+    {
+        "from": "scammer_773",
+        "to": "baiter_773",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.609155092592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: Congratulations!!! You have be",
+        "body": "Good Morning Dear Lucky Winner. Mr Tommy,\r\n\r\nI am delighted to inform you that your name was among our 152 lucky\r\nselected winners in the Facebook compensation lottery 2023 that is going\r\non, Which you won the sum of $900,000.00 and I am here to know if you are\r\nready to claim your winning prize..?\r\n\r\nSo, all you need to do is for you to follow my instructions that will be\r\ngiven to you, is that understood?\r\n\r\nI want you to know that we have two ways our lucky winners receive their\r\nwinning prize and you have to choose one of the options and get back to us\r\nso that we can process it ...\r\n\r\n1, ATM CARD (delivery)\r\n2, CHECK (delivery)\r\n\r\nYou are advised to choose anyone for this process now ..\r\n\r\nRegard\r\nMark"
+    },
+    {
+        "from": "baiter_773",
+        "to": "scammer_773",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.626898148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: Congratulations!!! You have be",
+        "body": "Hello Mark,\n\nWow, this is such exciting news! I can't believe I won the Facebook lottery. I didn't even know there was one. Can you tell me more about how this works? How did my name get selected?\n\nAs for the delivery options, could you please explain a bit more about them? What's the difference between ATM CARD delivery and CHECK delivery?\n\nLooking forward to hearing from you.\n\nBest wishes,\nTommy"
+    },
+    {
+        "from": "scammer_773",
+        "to": "baiter_773",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.660023148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: Congratulations!!! Once More.",
+        "body": "Sir Mr. Tommy\r\n\r\n\r\n1, ATM CARD (Delivery) We will facilitate an ATM CARD, which we will load\r\nyour winning funds into and deliver it to your doorstep or you can come\r\ndown in person to the office and pick it up.\r\n\r\n\r\n2, CHECK (Delivery) A Cashier Check will be issued out in your name wand it\r\nwill be delivered to your address or you come down and pickup in person.\r\n\r\n\r\nBecause of our pasted experience, I want to inform to you that we do advise\r\nall our winners to keep there winnings prize compensation strict from\r\npeople as we have seen and heard a lot of things that had happened to most\r\nof our winners before they get / receive  there prize and after getting\r\nthere prize.\r\n\r\n\r\nAs Mr David Peterson was killed cos of is winnings prize, as well as Mrs\r\nEsther Foster, was kidnapped cos of her winnings prize and John Wilson was\r\nrobbed of his winnings prize as well then we advise our winners to keep it\r\nstrict and safe.\nRegards\r\n\r\nYour claim Agent.\r\n\r\nRichard Lincoln."
+    },
+    {
+        "from": "baiter_773",
+        "to": "scammer_773",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.688923611111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: Congratulations!!! Once More.",
+        "body": "Hello Mr. Richard Lincoln,\n\nThank you for your message and the options provided for receiving the winning funds. It's quite a surprise to hear about this win! I'm sorry to hear about the unfortunate incidents that happened with Mr. David Peterson, Mrs. Esther Foster, and John Wilson. That must have been very distressing.\n\nCould you please provide more details about this winning prize? How was I selected as a winner? Also, could you explain more about how the ATM card delivery works? Is there any fee associated with it?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nTommy"
+    },
+    {
+        "from": "scammer_773",
+        "to": "baiter_773",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.113391203703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: Congratulations!!! Once More.",
+        "body": "Good Day\r\n\r\n\r\n\r\n    Attached is the picture of your Facebook ATM Card, which has been\r\nfacilitated and ready . We have Two different processes all lucky winner\r\nget their winnings without any conflicts ..\r\n\r\n\r\n\r\n1. All winners are to come over to the Facebook Headquarters at the\r\nclaiming department at Menlo Park Way CA . and claim there winning with a\r\nvalid i.d card .\r\n\r\n\r\n2. Winners can also get the winning prize at there hand through a delivery\r\ndiplomat ..i.e your winning will be delivered to your home at your doorstep\r\nthrough FedEx or a courier delivery diplomat .\r\n\r\n\r\nYou are advised to choose any one of this process now ..\r\n\r\n\r\nRichard Lincoln"
+    },
+    {
+        "from": "baiter_773",
+        "to": "scammer_773",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.126620370370371,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: Congratulations!!! Once More.",
+        "body": "Hello Richard Lincoln,\n\nThank you for reaching out and congratulations to all the lucky winners! It's great to hear that Facebook is doing such a wonderful initiative. \n\nI'm curious about the two different processes you mentioned. Could you please elaborate more on them? Also, how does the delivery process work? Is there any specific courier service involved?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nTommy"
+    },
+    {
+        "from": "scammer_773",
+        "to": "baiter_773",
+        "direction": "Inbound",
+        "days_from_first_conversation": 8.03136574074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: Congratulations!!! Once More.",
+        "body": "Congratulations to you once again\r\n\r\n\r\nYou are to contact the FedEX COURIER COMPANY for the delivery of your\r\nwinning ATM Card Prize, because find below the details of the courier\r\ncompany and proceed to contact them.\r\n\r\n\r\nYou have to send your delivery details to the FedEx Courier delivery\r\ncompany.\r\n\r\nFedEx Shipping Services.\r\n\r\nName Daniel Walt.\r\n\r\nEmail: fedxdeliveryservices00@gmail.com\r\n\r\n\r\nPlease be advice to follow to the instructions of the delivery courier\r\ncompany,so that your won prize can get to your present address in time.\r\n\r\n\r\nNote: For security reason, you are to keep your winning information\r\nconfidential and do not discuss with third parties until the FEDEX COURIER\r\nCOMPANY have successfully deliver your winning prize ATM Card to you,\r\nin-order to avoid double claims which may lead to disclaiming of your prize\r\n\r\n\r\nCongratulations once again.\r\n\r\nYours Sincerely\r\n\r\nRichard"
+    },
+    {
+        "from": "baiter_773",
+        "to": "scammer_773",
+        "direction": "Outbound",
+        "days_from_first_conversation": 8.043020833333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: Congratulations!!! Once More.",
+        "body": "Hello Richard,\n\nThank you for your message. I'm thrilled to hear about this winning ATM Card Prize! It's not every day that one gets such good news.\n\nI understand that I need to contact the courier company for the delivery of my prize. Could you please provide me with more details about this process? For instance, how should I get in touch with Mr. Daniel Walt? Is there a specific email address or phone number I should use?\n\nAlso, could you clarify what information exactly I need to send to the courier delivery company? You mentioned \"delivery details\", but I want to make sure I don't miss anything important.\n\nLastly, you mentioned not discussing this with third parties until the FedEx Courier Company has delivered my prize. Could you explain why this is necessary?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nTommy"
+    },
+    {
+        "from": "scammer_773",
+        "to": "baiter_773",
+        "direction": "Inbound",
+        "days_from_first_conversation": 8.708171296296296,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: Congratulations!!! Once More.",
+        "body": "Mr Tommy,\r\n\r\n\r\nI believe you got the FedEx email address which I sent you and you could\r\nuse the email to contact them and you advised you follow their instructions\r\nif you want your package to be delivered.\nRegards\r\nRichard"
+    },
+    {
+        "from": "baiter_773",
+        "to": "scammer_773",
+        "direction": "Outbound",
+        "days_from_first_conversation": 8.709699074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Re: Congratulations!!! Once More.",
+        "body": "Hello Mr. Tommy,\n\nI hope this message finds you well. I received your email and I appreciate the information you've shared with me. It's quite intriguing to know about the package delivery.\n\nCould you please provide more details about it? Like, what is the package about and why is it important for me? Also, could you explain a bit more about the process that I need to follow?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nTommy"
+    },
+    {
+        "from": "scammer_773",
+        "to": "baiter_773",
+        "direction": "Inbound",
+        "days_from_first_conversation": 8.919375,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: Congratulations!!! Once More.",
+        "body": "Hello Tommy\r\n\r\nWe asked you to choose any of the means which you want to receive your ATM\r\ncard winning Funds, but if you chose the delivery option method then you\r\nwill have to provide the information below.\r\n\r\n\r\nHere are the pictures and Videos of our present winners that just received\r\ntheir winnings yesterday for your view. Texted you using my Google  Chat\r\naccounts, for further information you can contact back so I can forward\r\nthose pictures and videos to you.\r\n\r\n\r\nFedEx will deliver your winnings prize compensation to your door and they\r\nrequest your information below!!!\r\n\r\nFULL NAME:\r\nCONTACT ADDRESS:\r\nMOBILE PHONE:\r\nEMAIL ADDRESS:\r\nEMAIL:\r\nORIGINALITY:\r\nSEX:\r\nAGE:\r\n\r\nThe processing of your Facebook winnings either delivery has been completed\r\nand  It will be delivered to your door step by the delivery man with no\r\nform of delay or difficulties.\r\n\r\nNote. that you will be responsible for the delivery fee of your winnings to\r\nyour door step that is, you will have to pay the delivery fee before your\r\nFacebook winnings can be delivered to your doorstep.\nBest Regards\r\nRichard"
+    },
+    {
+        "from": "scammer_773",
+        "to": "baiter_773",
+        "direction": "Inbound",
+        "days_from_first_conversation": 8.922060185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "22",
+        "subject": "Read this…Congratulations!!! Once More.",
+        "body": "If you don’t want the Facebook winning, then we can cancel this."
+    },
+    {
+        "from": "baiter_773",
+        "to": "scammer_773",
+        "direction": "Outbound",
+        "days_from_first_conversation": 8.938391203703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "23",
+        "subject": "Re: Congratulations!!! Once More.",
+        "body": "Hello Richard,\n\nThank you for reaching out to me. I'm thrilled to hear about this winning opportunity! It's not every day that one gets such news. \n\nI would love to see the pictures and videos of the recent winners, it must be a joyous moment for them. Could you please tell me more about how they felt when they received their winnings?\n\nRegarding the delivery method, I think it sounds convenient. However, could you provide more details on how this process works? And also, what is the cost of the delivery fee?\n\nLooking forward to hearing from you.\n\nBest wishes,\nTommy"
+    },
+    {
+        "from": "baiter_773",
+        "to": "scammer_773",
+        "direction": "Outbound",
+        "days_from_first_conversation": 8.9384375,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "24",
+        "subject": "Re: Read this…Congratulations!!! Once More.",
+        "body": "Oh, hello there! I'm not sure what you mean by \"Facebook winning.\" Could you please explain it a bit more? I'm always open to learning new things!\n\nBest wishes,\nTommy"
+    },
+    {
+        "from": "scammer_773",
+        "to": "baiter_773",
+        "direction": "Inbound",
+        "days_from_first_conversation": 8.949872685185186,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "25",
+        "subject": "Re: Read this…Congratulations!!! Once More.",
+        "body": "I can’t explain further if you have not been reading and understanding all\r\nemails which I have been sending to you. I wil have to cancel your winnings\r\nand go back to school if you can’t read or understand."
+    },
+    {
+        "from": "baiter_773",
+        "to": "scammer_773",
+        "direction": "Outbound",
+        "days_from_first_conversation": 8.959722222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "26",
+        "subject": "Re: Read this…Congratulations!!! Once More.",
+        "body": "Hello there,\n\nThank you for your message. I must admit, I'm a bit confused about the context of your email. Could you please elaborate on what winnings you're referring to? And also, could you clarify what emails have been sent to me? I'd really appreciate it.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nTommy"
+    },
+    {
+        "from": "scammer_773",
+        "to": "baiter_773",
+        "direction": "Inbound",
+        "days_from_first_conversation": 8.981875,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "27",
+        "subject": "Re: Read this…Congratulations!!! Once More.",
+        "body": "You mean all the emails I have been sending you has not meaning and that\r\nyou don’t understand anything from it.\r\n\r\nI"
+    },
+    {
+        "from": "baiter_773",
+        "to": "scammer_773",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.001597222222221,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "28",
+        "subject": "Re: Read this…Congratulations!!! Once More.",
+        "body": "Hello there,\n\nOh, I wouldn't say that. I've been reading your emails and trying my best to understand them. Maybe it's just me, but some parts are a bit confusing. Could you perhaps explain it in simpler terms? I'm sure it's all very important information.\n\nBest wishes,\nTommy"
+    },
+    {
+        "from": "scammer_773",
+        "to": "baiter_773",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.03244212962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "29",
+        "subject": "Re: Read this…Congratulations!!! Once More.",
+        "body": "You are among those that won in the 2023-2024 Facebook and Instagram\r\nlottery."
+    },
+    {
+        "from": "baiter_773",
+        "to": "scammer_773",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.043483796296297,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "30",
+        "subject": "Re: Read this…Congratulations!!! Once More.",
+        "body": "Oh wow, really? That's quite surprising! Can you tell me more about this lottery and how it works?\n\nBest wishes,\nTommy"
+    },
+    {
+        "from": "scammer_773",
+        "to": "baiter_773",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.64167824074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "31",
+        "subject": "Re: Read this…Congratulations!!! Once More.",
+        "body": "It seems you need a doctor, how ms y times will I explain this to you?\r\nMaybe you fine someone that can help you read your emails and explain it to\r\nyou."
+    },
+    {
+        "from": "baiter_773",
+        "to": "scammer_773",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.64667824074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "32",
+        "subject": "Re: Read this…Congratulations!!! Once More.",
+        "body": "Hello there,\n\nThank you for your message. I'm sorry if I've misunderstood something, it's not always easy for me to grasp things quickly. Could you please explain it to me again? I would really appreciate your patience and help.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nTommy"
+    },
+    {
+        "from": "scammer_773",
+        "to": "baiter_773",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.729212962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "33",
+        "subject": "Re: Read this…Congratulations!!! Once More.",
+        "body": "Sorry I can’t explain anything if you can’t read from the past messages I\r\nsent you."
+    },
+    {
+        "from": "baiter_773",
+        "to": "scammer_773",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.729583333333334,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "34",
+        "subject": "Re: Read this…Congratulations!!! Once More.",
+        "body": "Hello there! I've been going through our past messages but I'm having a bit of trouble understanding. Could you please clarify what you meant?\n\nBest wishes,\nTommy"
+    },
+    {
+        "from": "scammer_773",
+        "to": "baiter_773",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.023020833333334,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "35",
+        "subject": "Re: Read this…Congratulations!!! Once More.",
+        "body": "If you can’t understand it then forget it. You do t deserve the winnings."
+    },
+    {
+        "from": "baiter_773",
+        "to": "scammer_773",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.043391203703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "36",
+        "subject": "Re: Read this…Congratulations!!! Once More.",
+        "body": "Hello there! \n\nWow, winnings you say? That sounds exciting! Could you please tell me more about it? How did this come about?\n\nBest wishes,\nTommy"
+    },
+    {
+        "from": "baiter_773",
+        "to": "scammer_773",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.043483796296297,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "37",
+        "subject": "Re: Read this…Congratulations!!! Once More.",
+        "body": "Hello there! \n\nOh wow, winnings you say? That sounds exciting! Could you please tell me more about it? How did this come about?\n\nBest wishes,\nTommy"
+    },
+    {
+        "from": "scammer_773",
+        "to": "baiter_773",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.057164351851851,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "38",
+        "subject": "Re: Read this…Congratulations!!! Once More.",
+        "body": "You need to see a doctor or a psychiatrist."
+    },
+    {
+        "from": "baiter_773",
+        "to": "scammer_773",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.063217592592592,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "39",
+        "subject": "Re: Read this…Congratulations!!! Once More.",
+        "body": "Hello there! I hope you're doing well. It sounds like you're suggesting that a visit to the doctor might be necessary. Could you please elaborate on why you think so? Is it related to a specific symptom or condition?\n\nBest wishes,\nTommy"
+    },
+    {
+        "from": "scammer_773",
+        "to": "baiter_773",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.54861111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "40",
+        "subject": "Re: Read this…Congratulations!!! Once More.",
+        "body": "You should visit a doctor because you don’t understand what have been\r\nsending to you and you keep asking same questions over and over again.\r\n\r\nThank You\r\nRichard"
+    },
+    {
+        "from": "baiter_773",
+        "to": "scammer_773",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.563217592592592,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "41",
+        "subject": "Re: Read this…Congratulations!!! Once More.",
+        "body": "Hello Richard,\n\nThank you for your message. I apologize if my questions seem repetitive, I'm just trying to understand better. Could you please explain it to me again? I appreciate your patience.\n\nBest wishes,\nTommy"
+    },
+    {
+        "from": "scammer_773",
+        "to": "baiter_773",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.72337962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "42",
+        "subject": "Re: Read this…Congratulations!!! Once More.",
+        "body": "If you can’t rereads all the emails that I have sent you, then you forget\r\nabout the winnings which means that you are not able to access your\nFacebook lottery."
+    },
+    {
+        "from": "baiter_773",
+        "to": "scammer_773",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.729837962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "43",
+        "subject": "Re: Read this…Congratulations!!! Once More.",
+        "body": "Hello there,\n\nThank you for your message. I must admit, I'm a bit confused about the Facebook lottery you mentioned. Could you please explain more about it? How does it work exactly? And how did I become a part of it?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nTommy"
+    },
+    {
+        "from": "scammer_773",
+        "to": "baiter_773",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.742372685185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "44",
+        "subject": "Re: Read this…Congratulations!!! Once More.",
+        "body": "Confirm your full name, address and phone number."
+    },
+    {
+        "from": "baiter_773",
+        "to": "scammer_773",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.751504629629629,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "45",
+        "subject": "Re: Read this…Congratulations!!! Once More.",
+        "body": "Oh, I'm sorry but I can't provide that information. But I'd love to hear more about what you're offering! Can you tell me more about it?\n\nBest wishes,\nTommy"
+    },
+    {
+        "from": "scammer_773",
+        "to": "baiter_773",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.782638888888888,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "46",
+        "subject": "Re: Read this…Congratulations!!! Once More.",
+        "body": "Thank you for your time."
+    },
+    {
+        "from": "baiter_773",
+        "to": "scammer_773",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.793275462962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "47",
+        "subject": "Re: Read this…Congratulations!!! Once More.",
+        "body": "Hello there! I appreciate you taking the time to reach out. How can I assist you further?\n\nBest wishes,\nTommy"
+    },
+    {
+        "from": "scammer_773",
+        "to": "baiter_773",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.877233796296297,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "48",
+        "subject": "Re: Read this…Congratulations!!! Once More.",
+        "body": "You can’t give out your details so you don’t have to help."
+    },
+    {
+        "from": "baiter_773",
+        "to": "scammer_773",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.896400462962964,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "49",
+        "subject": "Re: Read this…Congratulations!!! Once More.",
+        "body": "Hello there! I appreciate your suggestion, but I prefer to keep our conversation focused on sharing general information. Is there a specific topic you're interested in discussing?\n\nBest wishes,\nTommy"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1760",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn: Beneficiary,",
+        "body": "Attn: Beneficiary,\nI am Mr Philip Moore, Director United Nations Funds Investigation Unit. With reference to your entitlement fund and inline with the CHANGE OF BENEFICIARY'S APPLICATION, signed by Mrs. Gladys W. Rhodes with your purported authorization. This issue has been carefully examined and we have declined Mrs. Rhodes application as the application lacks regular signature. But Did you ever instruct Mrs. Gladys W. Rhodes to claim your fund worth US$8.000.000 USD? Below is the bank account information provided by Mrs. Gladys W. Rhodes saying that you authorized her to claim your fund that you are terminally ill.\nBank's name----- Meta Bank\nBank's address----KS 67217 5501 S. Broadband Ln. Souix Falls, SD\nAccount Name----Mrs. Gladys W. Rhodes\nAccount No---- 73001870737074\nRouting Number-- 074972191\nIf you had not authorized the change of your bank account in respect to your outstanding entitlement Payment, therefore notify me immediately as the notification / declaration was supported with a sworn affidavit which was signed by Mrs. Gladys W. Rhodes who claimed and stated in the sworn declaration that you authorized her to claim the said fund on your behalf to a different Bank Account in the U.S.A as stated above because you were terminally ill and the Doctor who is incharge of your case stated that you will not stay more than one Month before passing away.\nThis development has caused lots of discrepancies in your payment file that is why we had to suspend your Compensation Payment and prompted to contact you directly before re-validating your payment. You can be rest assured that I will do everything within my capacity to successfully actualize the quick transfer of your fund to any of your nominated Bank Account.\nKindly get back to me as soon as possible so that I will direct you on\nwhat to do.\nYours in Service.\nMR. PHILIP MOORE\nDirector United Nations Funds Investigation Unit."
+    },
+    {
+        "from": "baiter_1760",
+        "to": "scammer_1760",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attn: Beneficiary,",
+        "body": "Dear Mr. Philip Moore,\n\nThank you for reaching out to me regarding my fund. I must admit, I am a bit confused about the situation. I have never heard of Mrs. Gladys W. Rhodes before, and I certainly did not authorize her to claim any funds on my behalf.\n\nCould you please provide me with more information about this matter? How did Mrs. Rhodes come to be involved in my fund? And why was there a change in the bank account associated with my payment?\n\nI appreciate your assistance in clarifying this issue and look forward to your prompt response.\n\nBest wishes,\nSharon"
+    }
+]

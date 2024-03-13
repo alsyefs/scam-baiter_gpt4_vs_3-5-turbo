@@ -1,0 +1,372 @@
+[
+    {
+        "from": "scammer_1473",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Yes, It shows that ",
+        "body": "Yes, It shows that \nyou are qualified to receive the Grant\n,Your Grants\nhas\nbeen confirmed and the money will be delivered to you in next 4 hours in\ncheck.\nYou are to choose the amount you wish to claim from us and your Grant\nwill\nbe sent to you\n through our FedEx men. Email: \nlg4946406@gmail.com"
+    },
+    {
+        "from": "baiter_1473",
+        "to": "scammer_1473",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Yes, It shows that ",
+        "body": "Hello! That sounds great. Can you please provide more details about the grant and how I can claim it?\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1473",
+        "to": "baiter_1473",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Yes, It shows that",
+        "body": "Dear Beneficiary,\r\n\r\nYou will pay for the documentation, clearance and delivery fees.\r\n\r\nWe will make every effort to ship your order as soon as possible.\r\n\r\nYou are to choose below the amount you want to claim.\r\n\r\nYou Pay $500 and get $50,000.00\r\nYou Pay $1,000 and get $90,000.00\r\nYou Pay $2,000 and get $100,000.00.\r\nYou Pay $3,000 and get $160,000.00.\r\nYou pay $4,000 and get $200,000.00.\r\nYou pay $5,000 and get $350,000.00.\r\nYou pay $6,000 and get $500,000.00\r\nYou pay $7,000 and get $550,000.00\r\nYou pay $9,000 and get $600,000.00\r\nYou pay $11,000and get $700,000.00\r\nYou pay $15,000 and get $900,000.00\r\nYou pay $17,000 and get $1,000,000.00\r\nFinally you pay $20,000 and get $3,000,000.00\r\n\r\nLet us know the amount you are claiming so we can start working on your\r\nGrant document.\nRegards\r\nMr Martins Lukas\r\nStreet: 3003 Granville St\r\nCity: French Village\r\nState/province/area:Nova Scotia\r\nPhone number:902-821-746\r\nZip code:B3K 5M1\r\nCountry calling code:+1\r\nCountry:  Canada"
+    },
+    {
+        "from": "baiter_1473",
+        "to": "scammer_1473",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.011296296296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Yes, It shows that",
+        "body": "Hello,\n\nThank you for reaching out. I'm interested in learning more about the process. Could you please provide me with further details on how the payment and delivery process works?\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "baiter_1473",
+        "to": "scammer_1473",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.11478009259259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Yes, It shows that",
+        "body": "Hello! Thank you for sharing this information with me. Could you please provide more details about the clearance and delivery fees? I'm interested in learning more about how the process works.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1473",
+        "to": "baiter_1473",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.13541666666666666,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Yes, It shows that",
+        "body": "You are advised to provide us with the following information below.\r\n\r\nComplete full name\r\nHome address\r\nPhone number\r\nDate of birth\r\nOccupation\r\nNationality\r\n\r\nWe shall give you more details as soon as we receive your email."
+    },
+    {
+        "from": "baiter_1473",
+        "to": "scammer_1473",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.13653935185185184,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Yes, It shows that",
+        "body": "Hello! Thank you for reaching out. Can you please tell me more about why you need this information? I want to make sure I understand the purpose before providing any personal details.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1473",
+        "to": "baiter_1473",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.1378125,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Yes, It shows that",
+        "body": "We shall use the requested information to process your Grant."
+    },
+    {
+        "from": "baiter_1473",
+        "to": "scammer_1473",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.15840277777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Yes, It shows that",
+        "body": "Hello! That sounds great. Can you please provide more details on how the grant process works? I'm interested in learning more about it.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "baiter_1473",
+        "to": "scammer_1473",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2399074074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Yes, It shows that",
+        "body": "Hello! Thank you for reaching out. Can you please tell me more about why you need this information? I'd like to understand how it will be used before providing any personal details.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "baiter_1473",
+        "to": "scammer_1473",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.26175925925925925,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Yes, It shows that",
+        "body": "That's great to hear! Can you please provide more details on how the grant process works? I'm interested in learning more about it.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "baiter_1473",
+        "to": "scammer_1473",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3648726851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Yes, It shows that",
+        "body": "That's great to hear! Could you please provide more details on how the grant process works? I'm curious to learn more about it.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "baiter_1473",
+        "to": "scammer_1473",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3862962962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Yes, It shows that",
+        "body": "Hello,\n\nThank you for the information. Could you please provide more details about the clearance and delivery fees? I would like to understand the process better before proceeding.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "baiter_1473",
+        "to": "scammer_1473",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.38663194444444443,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Yes, It shows that",
+        "body": "Hello,\n\nThank you for the information. Could you please provide more details about the clearance and delivery fees? How much do they amount to, and what payment methods are accepted? Additionally, could you clarify what exactly I will be receiving once the payment is made?\n\nLooking forward to your response.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "baiter_1473",
+        "to": "scammer_1473",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.47020833333333334,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: Yes, It shows that",
+        "body": "Hello,\n\nThank you for reaching out. I'm interested in learning more about the process. Could you please provide me with further details on how the clearance and delivery fees work? How do I go about choosing the amount I want to claim, and what is the next step after that?\n\nLooking forward to your response.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1473",
+        "to": "baiter_1473",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.5605439814814814,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: Yes, It shows that",
+        "body": "You are to choose below the amount you want to claim.\r\n\r\nYou Pay $500 and get $50,000.00\r\nYou Pay $1,000 and get $90,000.00\r\nYou Pay $2,000 and get $100,000.00.\r\nYou Pay $3,000 and get $160,000.00.\r\nYou pay $4,000 and get $200,000.00.\r\nYou pay $5,000 and get $350,000.00.\r\nYou pay $6,000 and get $500,000.00\r\nYou pay $7,000 and get $550,000.00\r\nYou pay $9,000 and get $600,000.00\r\nYou pay $11,000and get $700,000.00\r\nYou pay $15,000 and get $900,000.00\r\nYou pay $17,000 and get $1,000,000.00\r\nFinally you pay $20,000 and get $3,000,000.00\r\n\r\nLet us know the amount you are claiming so we can start working on your\nGrant document."
+    },
+    {
+        "from": "baiter_1473",
+        "to": "scammer_1473",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.5735763888888888,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: Yes, It shows that",
+        "body": "Hello! That sounds interesting. Can you please provide more details about the grant and how the process works?\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1473",
+        "to": "baiter_1473",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6262731481481482,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: Yes, It shows that",
+        "body": "You are to choose below the amount you want to claim.\r\n\r\nYou Pay $500 and get $50,000.00\r\nYou Pay $1,000 and get $90,000.00\r\nYou Pay $2,000 and get $100,000.00.\r\nYou Pay $3,000 and get $160,000.00.\r\nYou pay $4,000 and get $200,000.00.\r\nYou pay $5,000 and get $350,000.00.\r\nYou pay $6,000 and get $500,000.00\r\nYou pay $7,000 and get $550,000.00\r\nYou pay $9,000 and get $600,000.00\r\nYou pay $11,000and get $700,000.00\r\nYou pay $15,000 and get $900,000.00\r\nYou pay $17,000 and get $1,000,000.00\r\nFinally you pay $20,000 and get $3,000,000.00"
+    },
+    {
+        "from": "baiter_1473",
+        "to": "scammer_1473",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6365856481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re: Yes, It shows that",
+        "body": "Hello! That sounds interesting. Can you tell me more about how it works?\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1473",
+        "to": "baiter_1473",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6374537037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "19",
+        "subject": "Re: Yes, It shows that",
+        "body": "Send us the required details?"
+    },
+    {
+        "from": "baiter_1473",
+        "to": "scammer_1473",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6565162037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "20",
+        "subject": "Re: Yes, It shows that",
+        "body": "Hello! Sure, I'd be happy to help. Could you please let me know what specific details you are looking for?\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1473",
+        "to": "baiter_1473",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6598379629629629,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "21",
+        "subject": "Re: Yes, It shows that",
+        "body": "You have not provide us with your information."
+    },
+    {
+        "from": "baiter_1473",
+        "to": "scammer_1473",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6780439814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "22",
+        "subject": "Re: Yes, It shows that",
+        "body": "Hello! I'm here to share some exciting information with you. Did you know that there are amazing opportunities available for those looking to invest in the stock market? It's a great way to potentially grow your wealth over time. Have you ever considered investing in stocks before?\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1473",
+        "to": "baiter_1473",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.9793518518518518,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "23",
+        "subject": "Re: Yes, It shows that",
+        "body": "No"
+    },
+    {
+        "from": "baiter_1473",
+        "to": "scammer_1473",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9898263888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "24",
+        "subject": "Re: Yes, It shows that",
+        "body": "Hello! I have some exciting information to share with you. Would you be interested in hearing more about it?\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1473",
+        "to": "baiter_1473",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0155671296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "25",
+        "subject": "Re: Yes, It shows that",
+        "body": "no"
+    },
+    {
+        "from": "baiter_1473",
+        "to": "scammer_1473",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0315393518518519,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "26",
+        "subject": "Re: Yes, It shows that",
+        "body": "Hello! How can I help you today?\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1473",
+        "to": "baiter_1473",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.1452083333333334,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "27",
+        "subject": "Re: Yes, It shows that",
+        "body": "Help me or what reason"
+    },
+    {
+        "from": "baiter_1473",
+        "to": "scammer_1473",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.156550925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "28",
+        "subject": "Re: Yes, It shows that",
+        "body": "Hello! I have some information that might interest you. Have you heard about the latest investment opportunities in the market?\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "baiter_1473",
+        "to": "scammer_1473",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.1783564814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "29",
+        "subject": "Re: Yes, It shows that",
+        "body": "Hello! I have some exciting information to share with you. Would you be interested in learning more about it?\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1473",
+        "to": "baiter_1473",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.1996064814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "30",
+        "subject": "Re: Yes, It shows that",
+        "body": "Am not interested to hearing from you"
+    },
+    {
+        "from": "baiter_1473",
+        "to": "scammer_1473",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2200694444444444,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "31",
+        "subject": "Re: Yes, It shows that",
+        "body": "Hello! I completely understand if you're not interested, but I just wanted to share some information with you. Can I ask what specifically doesn't interest you about this topic?\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1473",
+        "to": "baiter_1473",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.2325231481481482,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "32",
+        "subject": "Re: Yes, It shows that",
+        "body": "Nothing"
+    },
+    {
+        "from": "baiter_1473",
+        "to": "scammer_1473",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2397916666666666,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "33",
+        "subject": "Re: Yes, It shows that",
+        "body": "Hello! I wanted to share some information with you about a great opportunity that I came across recently. Have you ever considered investing in cryptocurrency? It's a rapidly growing market with huge potential for profit. Would you be interested in learning more about it?\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1473",
+        "to": "baiter_1473",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.2508217592592592,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "34",
+        "subject": "Re: Yes, It shows that",
+        "body": "Am not interested"
+    },
+    {
+        "from": "baiter_1473",
+        "to": "scammer_1473",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2613425925925925,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "35",
+        "subject": "Re: Yes, It shows that",
+        "body": "That's totally fine! I just wanted to share some interesting information with you. Did you know that there are many opportunities online to make extra money from home? Have you ever considered looking into any of those options?\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "baiter_1473",
+        "to": "scammer_1473",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2621875,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "36",
+        "subject": "Re: Yes, It shows that",
+        "body": "That's totally fine! I just wanted to share some interesting information with you. Did you know that there are new ways to save money on your monthly expenses? Would you like to hear more about it?\n\nBest wishes,\nJames"
+    }
+]

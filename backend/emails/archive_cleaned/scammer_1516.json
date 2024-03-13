@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1516",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Fund Approved",
+        "body": "  Fund Approved\nThis is to inform you that an instruction and Approvals given from the International Monetary Fund regards the deposited funds from IMF, sum US$25 Million. as full payment of your Compensation fund as a scam victim to proceed with this transaction, you are required to send the following\ninformation for the claim of your fund.\n1. Your Full Name\n2. Your Resident Address\n3. Your Direct Phone Number\n4. Your Occupation\n5.Your Next of Kin\n6. Your Driver's License\nWe are looking forward to hearing from you.\nThank you for choosing British Global Development Bank\nBest Regards,\nMr. Brian Robbison\nExecutive Region Manager   "
+    },
+    {
+        "from": "baiter_1516",
+        "to": "scammer_1516",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Fund Approved",
+        "body": "Hello Mr. Brian Robbison,\n\nThank you for your message. I'm thrilled to hear about the approval from the Monetary Fund! It's not every day that one receives such news.\n\nI'm curious, though, how did my name come up in this? And could you please explain a bit more about what this fund is and why it's being distributed? \n\nLooking forward to hearing more about this exciting opportunity!\n\nBest wishes,\nMark"
+    }
+]

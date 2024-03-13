@@ -1,0 +1,202 @@
+[
+    {
+        "from": "scammer_522",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "I am pleased to inform you tha",
+        "body": "I am pleased to inform you that your funds are secured under our custody.\nThese two people posing as your next of kin and your attorney came here with the $250 recovery fee to reclaim your funds .\nThey want to pay the unpaid claim costs to access the funds because they said you died in a car accident and they need the funds for your funeral arrangements \nbut I resist them .\nI made it very clear to them that we will not accept the $250 from them until I hear from you to avoid a wrong transfer of your funds.\nShe said you where very clear about the WILL you wrote before the incident. We have your funds worth $76,700,000.00, which are still unclaimed from the Treasury Department till date .\nThe reclaim fee has to be paid by you if your did not authorized your sister and your attorney to claim the funds .\nIf you did authorized them, please let us know so that we can accept the $250 from them and release the funds to them, but \nif you did not authorized them, then you can pay the $250 and have your funds transferred to your account.\nBest regard\nMr. David Robert Malpass."
+    },
+    {
+        "from": "baiter_522",
+        "to": "scammer_522",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: I am pleased to inform you tha",
+        "body": "Hello Mr. David Robert Malpass,\n\nThank you for your message and the information provided. I must say, it's quite a surprise to hear about this situation. I'm not aware of any such incident or having written a will.\n\nCould you please provide more details about these individuals claiming to be my next of kin and attorney? Also, could you clarify what exactly is this recovery fee they are trying to pay?\n\nI would also like to know more about the funds that are supposedly under your custody. How did they end up there and why are they unclaimed?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nCharlene"
+    },
+    {
+        "from": "scammer_522",
+        "to": "baiter_522",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: I am pleased to inform you tha",
+        "body": "Gladly the imposter has been apprehend by FBI and will be justify by the law In regards of your funds to be authorized to you kindly forward us your full name home address and your valid ID before we can proceed\n\nGod bless you and your family."
+    },
+    {
+        "from": "baiter_522",
+        "to": "scammer_522",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.308622685185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: I am pleased to inform you tha",
+        "body": "Hello there,\n\nThank you for your message. It's great to hear that the imposter has been apprehended by the FBI. I'm sure justice will be served.\n\nAs for my funds, I'm curious about how this process works. Could you please explain it a bit more? How did these funds come into existence and why are they being authorized to me?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nCharlene"
+    },
+    {
+        "from": "scammer_522",
+        "to": "baiter_522",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.316886574074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: I am pleased to inform you tha",
+        "body": "Hello, dear beneficiary Charlene note this a compensation funds from USA. Presidential candidates, in regards of your funds to be authorized to you kindly provide us your suitable option to receive your funds with no further delay below is the option\n\n1) Bank to bank wire transfer under 24 hours\n\n2) Cash delivery to your very home address within 3 working days\n\n3) By cryptocurrency payment BTC.\n\nI await your response now before we can proceed."
+    },
+    {
+        "from": "baiter_522",
+        "to": "scammer_522",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.327766203703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: I am pleased to inform you tha",
+        "body": "Hello there! \n\nThank you so much for reaching out to me about this. I must say, it's quite a surprise! Could you please tell me more about these funds? How did they come to be authorized to me? \n\nAs for the options you've provided, I'm not very familiar with them. Could you explain how each one works? Especially the bank to bank wire transfer and cash delivery, those sound interesting.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nCharlene"
+    },
+    {
+        "from": "scammer_522",
+        "to": "baiter_522",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.574976851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: I am pleased to inform you tha",
+        "body": "Kindly provide us your full name home address now before the delivery of your funds would commence I await your response now."
+    },
+    {
+        "from": "baiter_522",
+        "to": "scammer_522",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.578194444444445,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: I am pleased to inform you tha",
+        "body": "Hello there! I'm really excited about this delivery. Can you tell me more about what it is? And also, how did I get so lucky to receive it?\n\nBest wishes,\nCharlene"
+    },
+    {
+        "from": "scammer_522",
+        "to": "baiter_522",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.595081018518519,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: I am pleased to inform you tha",
+        "body": "In regards of your funds to be delivered to your very home address kindly forward us your full name home address now so we can proceed with the delivery immediately"
+    },
+    {
+        "from": "baiter_522",
+        "to": "scammer_522",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.599918981481482,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: I am pleased to inform you tha",
+        "body": "Oh, hello there! I'm so excited to hear about this. Can you tell me more about these funds? How did I come to receive them?\n\nBest wishes,\nCharlene"
+    },
+    {
+        "from": "scammer_522",
+        "to": "baiter_522",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.6049189814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: I am pleased to inform you tha",
+        "body": "It will be delivered to your very home address so all you have to do now is to forward us your full name home address now before the delivery will commence"
+    },
+    {
+        "from": "baiter_522",
+        "to": "scammer_522",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.620127314814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: I am pleased to inform you tha",
+        "body": "Oh, that sounds really convenient! I'm always amazed at how things can be delivered right to our doorsteps these days. Can you tell me more about the delivery process? How does it work exactly?\n\nBest wishes,\nCharlene"
+    },
+    {
+        "from": "scammer_522",
+        "to": "baiter_522",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.625694444444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "",
+        "body": "Listen carefully dear beneficiary I have other customers to attend to so kindly provide us your delivery address so we can proceed with the delivery immediately"
+    },
+    {
+        "from": "baiter_522",
+        "to": "scammer_522",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.641527777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: ",
+        "body": "Oh, hello there! I'm so excited about this delivery. Can you tell me more about what's being delivered? I just love surprises!\n\nBest wishes,\nCharlene"
+    },
+    {
+        "from": "scammer_522",
+        "to": "baiter_522",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.653101851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re:",
+        "body": "Your funds worth $76,700,000.00 will be delivered to you so kindly get me your address and full name now before we can proceed"
+    },
+    {
+        "from": "baiter_522",
+        "to": "scammer_522",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.661145833333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re:",
+        "body": "Oh, that sounds interesting! Can you tell me more about these funds? How did I come to have them?\n\nBest wishes,\nCharlene"
+    },
+    {
+        "from": "baiter_522",
+        "to": "scammer_522",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.661284722222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re:",
+        "body": "Oh, wow! That sounds really exciting. I'm not sure how this works though. Could you explain a bit more about the process?\n\nBest wishes,\nCharlene"
+    },
+    {
+        "from": "scammer_522",
+        "to": "baiter_522",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.7177546296296295,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re:",
+        "body": "When you are ready to receive your funds you get back to me with the required details"
+    },
+    {
+        "from": "baiter_522",
+        "to": "scammer_522",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.724328703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re:",
+        "body": "Hello there! I'm really excited to hear more about these funds you mentioned. Could you please provide me with more information? Like, how did I come to receive these funds? And what are the next steps in this process?\n\nBest wishes,\nCharlene"
+    },
+    {
+        "from": "baiter_522",
+        "to": "scammer_522",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.725578703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re:",
+        "body": "Hello there! I'm thrilled to hear about these funds. Could you please provide me with more information? Like, where are these funds coming from and why am I receiving them?\n\nBest wishes,\nCharlene"
+    }
+]

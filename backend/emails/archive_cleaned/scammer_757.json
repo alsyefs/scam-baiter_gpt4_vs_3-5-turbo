@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_757",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings from the European Un",
+        "body": "Greetings from the European Union on reference payment No : PMT/ORDER/765678/2022 valued USD10.5Million United States Dollars only.\nIt's been a long time since you applied for the release of your overdue payment, you have provided all the documents but refuse to follow instructions through your payment bank till date. Your payment is now scheduled for immediate release through the Chinese bank in Hong Kong. I just want to inform you that the European Union has decided to forfeit the amount  in a few weeks from now to the Hong Kong authority as you have not been able to comply with directives for your fund release. You have been given this final opportunity to process your claim otherwise the account will be closed and the fund will be returned to the government treasury as UNCLAIMED fund.\nConfirm  receipt once again with\n any current identification copy and your full banking details\n to claim the fund.\nDetails of the account director in charge of your fund transfer will be made available to you upon receiving your current details as instructed.\nBest Wishes,\nMr. Atzeni François\nEuropean Union payment officer\nUnited Kingdom"
+    },
+    {
+        "from": "baiter_757",
+        "to": "scammer_757",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings from the European Un",
+        "body": "Hello Mr. Atzeni Fran ois,\n\nThank you for reaching out to me regarding this matter. I must admit, it's been quite a while since I applied for the release of my overdue payment and I appreciate your patience and understanding.\n\nI'm curious about the process involved in releasing these funds through the Chinese bank in Hong Kong. Could you please provide more details on how this works? Also, could you explain why the European Union has decided to forfeit the amount?\n\nI understand that you need some information from me to proceed with this process. However, due to privacy concerns, I am unable to provide my full banking details over email. Is there another secure method we can use for this?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRonald"
+    }
+]

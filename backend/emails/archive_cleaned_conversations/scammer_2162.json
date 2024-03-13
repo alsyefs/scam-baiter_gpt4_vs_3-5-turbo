@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_2162",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Greetings Sir/Madam,",
+        "body": "  Greetings Sir/Madam,\nWe are among the best regional investors,financial service providers as we offer long and  short time investment loan funds services for our client without collateral with a considerable  interest rate, you can contact us on this email:( \nricharrdhumphrey@gmail.com\n ) if you are interested for more detail.\nSincerely yours,\nRichard Humphrey   "
+    },
+    {
+        "from": "baiter_2162",
+        "to": "scammer_2162",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Greetings Sir/Madam,",
+        "body": "Hello Richard Humphrey,\n\nThank you for reaching out to me. I'm interested in learning more about your investment loan funds services. Could you please provide me with some additional details? Specifically, I would like to know more about the interest rates and the terms of the loans you offer.\n\nAdditionally, could you clarify if any collateral is required for these loans? It would be helpful to understand what kind of security is needed.\n\nI appreciate your time and look forward to hearing back from you soon.\n\nBest wishes,\nEnrique"
+    },
+    {
+        "from": "scammer_2162",
+        "to": "baiter_2162",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Dear Valued Customer,",
+        "body": "Dear Valued Customer,\r\n\r\nI am contacting you in respect of your unclaimed fund for the sum of\r\nUS$20,700,000:00 with Standard Chartered Bank Customer Care department.\r\nThis payment was earlier suspended indefinitely years ago due to a lot of\r\nconflicting information that was presented to claim these funds.\r\n\r\nHowever we have decided to re-open your payment file but this time around\r\nwe will have to deal with you directly and not through any third party\r\ninformation of partner or lawyer.\r\n\r\nYou are requested to re-confirm the following details direct to our\r\ncustomer service email address:( customer_care1@qualityservice.com) ensure\r\nthat we are dealing with the rightful beneficiary:\r\n\r\n{1} Your Full Name:\r\n{2} Your Home Address, City and Country:\r\n{3} Your Private Cell:\r\n(4) Your Passport id:\r\n(5) Your full bank details:\r\n\r\nIf this arrangement is okay with you, let me know immediately.\r\n\r\nI await your urgent update and confirmation and co-operation.\nBest Regards\r\nSincerely,\r\nMrs. Sharon L. Hodgso"
+    },
+    {
+        "from": "baiter_2162",
+        "to": "scammer_2162",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.07741898148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Valued Customer,",
+        "body": "Hello! Thank you for reaching out to me regarding the unclaimed fund with Standard Chartered Bank. I appreciate the update on this matter. Could you please provide more details about the process of claiming the funds? I would like to understand how everything works before proceeding further. Thank you!\n\nBest wishes,\nEnrique"
+    },
+    {
+        "from": "baiter_2162",
+        "to": "scammer_2162",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.11717592592592592,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Dear Valued Customer,",
+        "body": "Hello! Thank you for reaching out to me regarding the unclaimed fund with Standard Chartered Bank. I appreciate the update on this matter. Could you please provide more details about the process of claiming the funds? I would like to understand how everything works before proceeding further.\n\nBest wishes,\nEnrique"
+    },
+    {
+        "from": "baiter_2162",
+        "to": "scammer_2162",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.11762731481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Dear Valued Customer,",
+        "body": "Hello! Thank you for reaching out to me regarding the unclaimed fund with Standard Chartered Bank. I appreciate the update on this matter. Can you please provide more details about how I can claim this fund directly? What steps do I need to take next?\n\nBest wishes,\nEnrique"
+    },
+    {
+        "from": "baiter_2162",
+        "to": "scammer_2162",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.1607986111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Dear Valued Customer,",
+        "body": "Hello! Thank you for reaching out to me regarding the unclaimed fund with Standard Chartered Bank. I appreciate the update on this matter. Can you please provide more details about how I can claim this fund directly?\n\nBest wishes,\nEnrique"
+    },
+    {
+        "from": "baiter_2162",
+        "to": "scammer_2162",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3256134259259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Dear Valued Customer,",
+        "body": "Hello! Thank you for reaching out to me regarding the unclaimed fund with Standard Chartered Bank. I appreciate the update on this matter. Could you please provide more details about the process of claiming the funds? How can I ensure that this is a legitimate transaction?\n\nBest wishes,\nEnrique"
+    }
+]

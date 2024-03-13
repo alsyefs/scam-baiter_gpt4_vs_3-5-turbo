@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_328",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " ",
+        "body": " \ncapecreditfinancialservices@gmail.com\n+27 871333494\nAPPLY FOR A BUSINESS OR PERSONAL LOAN AT 5% INTEREST RATE.\nYou can borrow from R20 000 to R20 Million Rand and\naffordable repayment periods range from 12 months\nto 20years.\nWe offers a comprehensive range of personal loans, business\nloans, home loans and debt consolidation\nloans that can be adapted to suit your changing needs and\ncircumstances at 5% interest rate.\nWhat you get:\n„h Immediate access to your funds after approval\n„h Competitive interest rates\n„h Flexible repayment terms\n„h The ability to pay off your loan faster (extra payments\nreduce the capital amount of the loan)\n„h Easy approval if you require additional funds\n„h Your first repayment of the loan begins in three months\nafter approval.\nRepayment Schedule\nLoan\nAmount Duration\nRepayment Period\nLoan Amount\nDuration Repayment\nPeriod Loan\nAmount Duration\nRepayment Period\nR20,000 2 Years R877.43 R20,000 3 Years R559.42 R20,000 5\nYears R377.42\nR50,000 2 Years R2,193.57 R50,000 3 Years R1,498.54 R50,000\n5 Years R943.56\nR100,000 3 Years R2,997.09 R100,000 4 Years R2,302.93\nR100,000 6 Years R1,610.49\nR150,000 3 Years R4,495.63 R150,000 5 Years R2,830.69\nR150,000 7 Years R2,120.09\nR300,000 4 Years R6,908.79 R300,000 6 Years R4,831.48\nR300,000 8 Years R3,797.98\nR400,000 5 Years R7,548.49 R400,000 7 Years R5,653.56\nR400,000 9 Years R4,606.91\nR600,000 6 Years R9,662.96 R600,000 8 Years R7,595.95\nR600,000 10 Years R6,363,93\nR800,000 7 Years R11,307.33 R800,000 9 Years R9,213.82\nR800,000 11 Years R7,891.59\nR1,000,000 8 Years R12,659.92 R1,000,000 10 Years\nR10,606.55 R1,000,000 12 Years R9,248.90\nHow to apply: BUSINESS LOAN:\nCopy of your Company Registration,ID Copy, Occupation,\nMonthly Income, Loan Amount, Loan\nDuration and cell phone Number to: (Email:\ncapecreditfinancialservices@gmail.com\n)\nPERSONAL LOAN:\nCopy of your ID Copy, Pay Slip, Occupation, Monthly\nIncome,Loan Amount, Loan Duration, Salary\nDate and Cell phone Number to:\n(Email:capecreditfinancialservices@gmail.com) T&C¡¦s Apply.\nDaniella Khozi (Mrs.)\nWE OFFER LOAN\nSenior Loan Manager   "
+    },
+    {
+        "from": "baiter_328",
+        "to": "scammer_328",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  ",
+        "body": "Hello Daniella Khozi,\n\nThank you for reaching out and providing information about your loan services. I'm interested in learning more about the options you offer. Could you please provide some additional details?\n\n1. What are the specific interest rates for personal loans, business loans, home loans, and debt consolidation loans?\n2. Are there any specific eligibility criteria or requirements that applicants need to meet?\n3. How long does the approval process usually take?\n4. Can you provide some examples of the repayment terms available for each type of loan?\n5. Is there a maximum loan amount that can be borrowed?\n\nI appreciate your assistance in answering these questions.\n\nBest wishes,\nAlan"
+    },
+    {
+        "from": "scammer_328",
+        "to": "baiter_328",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Loan",
+        "body": "Dear Alan,\r\n\r\nBefore all your questions can be answered, which country are you applying\r\nfrom?"
+    },
+    {
+        "from": "baiter_328",
+        "to": "scammer_328",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.01392361111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Loan",
+        "body": "Hello Alan,\nThank you for reaching out. I'm happy to help answer your questions. I am currently applying from the United States. How about you? Where are you applying from?\n\nBest wishes,\nAlan"
+    }
+]

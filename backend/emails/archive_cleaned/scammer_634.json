@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_634",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  DHL EXPRESS DELIVERY",
+        "body": "  DHL EXPRESS DELIVERY\n  Rue Ex Léon G. Damas X Rue F, Fann Residence, Dakar Senegal\n  Tel: (+221) 333-8691 11 Or (+221)765989226\n  Fax: 33 864 02 36\n \nSir,  we are in position of your envelope with the contents of the ATM CARD recorded here in our office and waiting for your details to enable the delivery.to your doorstep.\n \nTo grant the delivery to your doorstep, kindly send as follows\n1 - Your full name ............................................ ..... .................\n2 - Your E-mail........................... ............... .. ..\n3 - Your postal code.................................................. ........... .....\n4 - Your country ............................................ ......... .........\n5 - Your telephone numbers ............................................ ...... .\n \nAfter filling  this information,, kindly send it back with the  amount of ($175) only  for the posting etc.\nNB:  send the ($175) only, through via western union or money gram under the secretary's name\nMrs. ASSY ABBA.\nTel -  (+221)765989226\nAddress BP19024 Dakar  Senegal   "
+    },
+    {
+        "from": "baiter_634",
+        "to": "scammer_634",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   DHL EXPRESS DELIVERY",
+        "body": "Hello Mrs. Assy Abba,\n\nThank you for reaching out to me! I'm thrilled to hear about the ATM card. It's not every day that one receives such news.\n\nHowever, I'm a bit curious about this process. Could you please explain more about how this works? How did my name come up for this ATM card? And what exactly does the card entail?\n\nLooking forward to hearing from you soon!\n\nBest regards.\n\nBest wishes,\nJulia"
+    }
+]

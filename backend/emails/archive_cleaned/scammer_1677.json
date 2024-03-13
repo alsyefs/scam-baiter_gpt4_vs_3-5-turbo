@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1677",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn:  Sir/Madam,",
+        "body": "Attn:  Sir/Madam,\n \nThis is to notify all our customers about the latest development concerning all the payments that are left in our custody,which yours are inclusive.\n This is the opportunity for you to reclaim your abandoned fund and \nthis fund will be transferred to your address immediately. We confirm this $375.00usd. But remember that after (3 DAYS) you did not make the payment then we will divert your funds to the Government Fund, to avoid problems or we will cancel the payment.\nSo be advised to send the $375.00 immediately so that we will register your payment and for you to start picking up your funds. Be advised that there is no time.\n \nAfter the payment of $375.00 you will start receiving your money every day $10,000 through Money Gram until the full payment of $950,000 is completely transferred to your name. So what you will be receiving per day is $10,000usd.\n The moment we receive the payment of $375.00 we will release the first payment information of $10,000  for you and you will pick up the money and I will send you another money tomorrow.It's a continuous process.\nHoping to hear from you.\nDr.Arthur Mark.\nMoney Gram Funds Release Dept."
+    },
+    {
+        "from": "baiter_1677",
+        "to": "scammer_1677",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attn:  Sir/Madam,",
+        "body": "Hello Mark,\n\nThank you for reaching out to me regarding the latest updates on my payments. I appreciate the notification and would like to know more about reclaiming my abandoned funds. Can you please provide me with some additional details?\n\nCould you clarify what exactly needs to be done in order for me to receive my funds? You mentioned making a payment, but I would like to understand the purpose of this payment and how it relates to releasing my funds.\n\nAdditionally, could you explain why there is a time constraint? It would be helpful for me to know the deadline by which I need to take action.\n\nLooking forward to your response.\n\nBest wishes,\nCliff"
+    }
+]

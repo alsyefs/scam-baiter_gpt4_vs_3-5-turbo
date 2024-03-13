@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1174",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  U.S.A GOVERNMENT,WORLD BANK,",
+        "body": "  U.S.A GOVERNMENT,WORLD BANK,UNITED NATION ORGANIZATION OFFICIAL APPROVAL ACCRUED INTEREST PAYMENT VALUED US$587,491.00.\nAttn: Sir/Madam\nI wish to find out if your accrued interest funds of (US$587,491.00) have been paid to you by the paying bank as reported in our Payment database? Confirm the status to me by E-mail: \ningsdaniel861@gmail.com\nIf I did not receive any response from you within the next 48 hours, we shall assume your accrued interest funds of US$587,491.00 (Five Hundred And Eighty-Five Thousand, Four Hundred And Ninety-One US Dollars) have been successfully received by you.\nRegards\nMrs. Theresa Brown\nUNITED NATION,USA.\nUnited Nation Grant Alleviation Allocation Programme (UNGAAP) Agent.   "
+    },
+    {
+        "from": "baiter_1174",
+        "to": "scammer_1174",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   U.S.A GOVERNMENT,WORLD BANK,",
+        "body": "Hello Mrs. Theresa Brown,\n\nThank you for reaching out to me regarding the accrued interest payment. I appreciate your concern and would like to confirm the status of my funds. Could you please provide me with more details about the payment database and how I can check the status of my accrued interest funds?\n\nLooking forward to your response.\n\nBest wishes,\nBrent"
+    }
+]

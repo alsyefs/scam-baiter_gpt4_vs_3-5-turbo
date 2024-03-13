@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_865",
+        "to": "baiter_865",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Acknowledgment.",
+        "body": "Mr. James Smith\r\nFunds-Transfer Director\r\nFirst Financial Trust\r\n\r\nAttn: Arthur,\r\n\r\nThis is to acknowledge receipt of your email. Firstly, we would like to\r\ninform you based on the details we received from the International Monetary\r\nFund (IMF) regarding your funds. We were informed by the International\r\nMonetary Fund (IMF) officials that your funds were supposed to have been\r\nreceived by you long ago but due to the corrupt practices of the Bank\r\nofficials in those Banks, that was the reason you have not yet received\r\nyour funds.\r\n\r\nWe personally carried out some investigations on those Banks in Africa and\r\nEurope and we discovered that most funds beneficiaries are being asked to\r\npay certain irrelevant charges by those Banks officials especially Africa\r\ncountries and Europe, therefore making it very difficult for those\r\nbeneficiaries to claim their funds which is contrary to Section \"37\"\r\nSubsection \"C\" of the Article XII of Banks and other financial decree of\r\n1995 as amended in 1998.\r\n\r\nPlease note that you are to receive your funds ($9,500,000.00) through our\r\nonline banking system which we believe is the safest way of making\r\ntransfers in the modern banking system.\r\n\r\nTo enable us commence with the opening of your online banking account, you\r\nare requested to provide us the below required information.\r\n\r\nYour\r\nName:............................................................................................................................................\r\nOccupation:............................................................................................................................................\r\nAddress..................................................................................................................................................\r\nDate of\r\nbirth:..........................................................................................................................................\r\nMarital\r\nstatus:........................................................................................................................................\r\nSex:......................................................................................................................................................\r\nNext of\r\nkin:............................................................................................................................................\r\nID\r\nCard..................................................................................................................................................\r\nTelephone::............................................................................................................................................\r\n\r\nUpon the receipt of the above required information, we shall commence\r\nfurther with the opening of your online banking account and your funds will\r\nbe credited into your online banking account.\r\n\r\nSincerely Yours,\r\nMr. James Smith\r\n(Funds-Transfer Director)"
+    },
+    {
+        "from": "baiter_865",
+        "to": "scammer_865",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Acknowledgment.",
+        "body": "Hello Mr. James Smith,\n\nThank you for your email and the information provided. It's quite surprising to hear about the corrupt practices in those banks, I had no idea! \n\nI'm intrigued by this online banking system you mentioned. Could you please explain more about how it works? Is it safe and secure? Also, could you clarify what \"Section Subsection of the Article XII of Banks and other financial decree\" means?\n\nLooking forward to hearing from you.\n\nBest wishes,\nArthur"
+    },
+    {
+        "from": "scammer_865",
+        "to": "baiter_865",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.03414351851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Responding To Your Email.",
+        "body": "Mr. James Smith\r\nFunds-Transfer Director\r\nFirst Financial Trust\r\n\r\nAttn: Arthur,\r\n\r\nThis is to acknowledge the receipt of your email.  As stated in our\r\nprevious email, the online account is very safe and convinient to use. As\r\nsoon as your online account is opened and activated, your online account\r\ninformation including the access code number will be sent to you to enable\r\nyou to login into your online account and have access to your funds in your\r\nonline account.\r\n\r\nIt is contrary to Section \"37\" Subsection \"C\" of the Article XII of Banks\r\nand other financial decree of 1995 as amended in 1998 for bank officials to\r\ndemand for unnecessary charges like cost of transfer and certain other\r\nchanges before funds are transferred. Such charges are not meant to be paid\r\nto the bank before funds are transferred.\r\n\r\nHowever, you are advised to provide the required information to enable us\r\nto proceed further with the opening of your online account.\r\n\r\nSincerely Yours,\r\nMr. James Smith\r\n(Funds-Transfer Director)"
+    },
+    {
+        "from": "baiter_865",
+        "to": "scammer_865",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03484953703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Responding To Your Email.",
+        "body": "Hello Mr. James Smith,\n\nThank you for your prompt response and the detailed explanation about the online account. It sounds very convenient indeed! I'm quite excited about this opportunity.\n\nJust to clarify, you mentioned that there are certain charges not meant to be paid before funds are transferred. Could you please elaborate on what these charges might be? Also, could you explain a bit more about Section Subsection of Article XII? I'm not very familiar with banking decrees and would love to understand better.\n\nYou also mentioned some required information needed for opening the online account. Could you specify what kind of information is needed?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nArthur"
+    }
+]

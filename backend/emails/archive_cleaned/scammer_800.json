@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_800",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attn Esteemed Beneficiary!",
+        "body": "  Attn Esteemed Beneficiary!\nThis is to bring to your notice that orders given by the  Presidency and the entire house of senate for the year 2024 is that my bank is the chosen bank to pay out all foreign contract/inheritance funds beneficiaries.\nMy bank was ordered after meeting held in the presidential villa Aso-Rock Abuja to contact and proceed with payment of your contract/inheritance Funds by informing you that the former bank in charge of your payment being Oceanic Bank plc, Zenith Bank,Union Bank, Eco Bank, etC is no longer in charge of this payment.\nI wish to inform you that your (3.5 MILLION UNITED STATES DOLLARS) outstanding payment has been approved and ready to be paid but we want to confirm first from you by giving you our mode of payment this arrangement was agreed between the Presidency and the Senate\nCommittees .\nTherefore take note that we only have (2) mode of Payment Stated Below:\n(1) Certified Bank Draft: Certified:  Bank Draft Will Be Charged With This Amount $240.\n(2) ATM Card Payment: An ATM Card Will Be Charged With This Amount $180 with Limited Withdrawals per Day..\nI will require you to make your choice out of the two modes of payment you would want to receive from our bank and get back to this office regarding this information and we will take it from there.  You will be required to forward your particulars for verification such as.\nFull Name----------\nAddress------------\nMobile Phone Number----------\nNext Of Kin Name----------------\nCurrent Occupation-------------\nSex----------Age----------------\nContract/ Fund Inheritance Number---------------\nI will Be waiting for your swift response.\nYours Respectfully,\nDr John Kelvin\nPresident Service Delivery,\nUBA BANK PLC\nTel.+234-803-480-7496   "
+    },
+    {
+        "from": "baiter_800",
+        "to": "scammer_800",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attn Esteemed Beneficiary!",
+        "body": "Hello Dr. John Kelvin,\n\nThank you for reaching out to me with this information. It's quite a surprise to hear about this contract fund, I must say.\n\nBefore we proceed, could you please clarify a few things for me? \n\n1. How was my name selected for this contract fund?\n2. What is the purpose of these funds?\n3. Could you provide more details about the two modes of payment?\n\nI'm not sure which mode of payment would be best for me without knowing more details.\n\nLooking forward to your response.\n\nBest wishes,\nDouglas"
+    }
+]

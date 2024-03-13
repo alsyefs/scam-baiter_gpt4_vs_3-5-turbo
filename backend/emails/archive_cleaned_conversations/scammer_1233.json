@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1233",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Happy New Year, Esteem Benefi",
+        "body": " Happy New Year, Esteem Beneficiary,\nYou are advise to re-confirm your preferred choice of receiving your payment that is with the U.S.Bank ,and get your US$12,800,000.00 release to you through your choice of receiving payment on or before 29th February 2024, as \nadvised by the Financial Services Director for International Settlements Authority for Contract/Inheritance Fund from the \nUnited Nation/IMF financial support.\nYour preferred choice of receiving payment\n(A) Bank to Bank wire transfer:\n(B) ATM Cash Card:\n(C) Cashier Check\n(D) Online Banking\nYours in service\nMrs Janet Yallen\nUs Treasury Department      "
+    },
+    {
+        "from": "baiter_1233",
+        "to": "scammer_1233",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  Happy New Year, Esteem Benefi",
+        "body": "Hello Mrs. Janet Yallen,\n\nHappy New Year to you too! I hope this message finds you well. \n\nThank you for your email and the options provided for receiving payment. It's quite a surprise, as I wasn't expecting any payment from the United Nation IMF financial support.\n\nCould you please provide more details about this? Like, why am I receiving this payment and what is it for? Also, how did my name come up in your system?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRachel"
+    },
+    {
+        "from": "scammer_1233",
+        "to": "baiter_1233",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Dear Rachel,",
+        "body": "Dear Rachel,\r\n\r\n\r\n\r\nIf you have not done any transaction in Africa before now, you should see\r\nyourself as being lucky to have failed into this IMF/ World Bank gesture in\r\ncollaboration with the United Nation to compensate some individuals. So to\r\nlegalize your name as those that will receive this grant of Three Million\r\nUnited States Dollars ($3,000,000.00), you should forward your full name\r\naddress and telephone number to enable the legal department to secure all\r\nthe fund protection documents in your name before the transfer will take\r\nplace to your bank account.\r\n\r\n\r\n\r\nKindly respond as soon as you receive this mail.\r\n\nSincerely Yours\r\nMrs Janet Yellen\r\nUs Treasury Secretary"
+    },
+    {
+        "from": "baiter_1233",
+        "to": "scammer_1233",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0007175925925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Rachel,",
+        "body": "Hello Mrs. Janet Yellen,\n\nThank you for your email and the exciting news about the IMF World Bank gesture in collaboration with the United Nations. It's indeed a great opportunity to be considered for such a grant.\n\nI'm curious to know more about this process. Could you please provide more details on how this works? How was I selected for this grant? And what are these fund protection documents that need to be secured?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRachel"
+    }
+]

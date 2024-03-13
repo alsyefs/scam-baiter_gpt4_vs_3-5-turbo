@@ -1,0 +1,632 @@
+[
+    {
+        "from": "scammer_1642",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Attention Mr...",
+        "body": " Attention Mr...\nSir\nBe informed that we received payment instruction on your behalf from\nCentral Bank of Africa (B.O.A) and your fund valued US$19.5 Million\nhas been programmed for transfer to your nominated bank account,\npending when you Re-confirm the below banking instruments, to avoid\ntransferring your fund to a wrong bank account\nWe confide with our affiliated domicile Bank in London to transfer the\nfunds to you through online banking system\nAlternatively the HSBC Bank London will open non-residential online\naccount in your name and deposit the fund there and issue you the\naccount details which you access in your country and will be able to\ntransfer the fund by yourself to any account of your choice.\nYou're required to contact the paying bank in London with your details\nas follows to enable them open the online account in your name for you\nto be able to transfer the funds to your local bank account.\nHere's is their office contact\nCEO HSBC Bank London: Mr Ian Stuart\nEmail: \nhsbcbank.england@englandmail.com\nPhone:  +447888863701\nYour full name:.....\nAddress:................\nDate of birth:..........\nNationality:.............\nPhone number/WhatsApp :.....\nA copy of your international passport or driving license\nContact the paying bank and get back to me for more updates.\nThanks\nMr Faustina Amoussou\nGovernor Ministry of Finance    "
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  Attention Mr...",
+        "body": "Hello! Thank you for sharing this information with me. It sounds like an important matter regarding a fund transfer. Could you provide more details about the process of opening the online account with HSBC Bank in London? How secure is this method of transferring funds?\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "scammer_1642",
+        "to": "baiter_1642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Contact the paying bank",
+        "body": "Hello Mrs Amy,\r\n\r\nThank you for your message, this is a donated funds from United Nation and\r\nHSBC Bank London was assigned to transfer the funds to your through online\r\nbanking system in which the bank will open online account in your name and\r\ndeposit the funds in the account and issues you the account details such as\r\nusername and password which you will access online and will be able to\r\ntransfer the funds by your self to any account of your choice.\r\n\r\nThis transaction is legal and legitimate and all the process are well\r\nsecured, you are advised to send your details to the HSBC Bank with their\r\ncontact info below. as soon as you send your details the bank will open the\r\nonline account in your name and issues you the details so that you can\r\ntransfer the funds to your local bank account. as soon as you contacted the\r\nbank make sure you inform me\r\n\r\nHere's is their office contact\r\n\r\nCEO HSBC Bank London: Mr Ian Stuart\r\nEmail: hsbcbank.england@englandmail.com\r\nPhone:  +447888863701\r\n\r\nYour full name:.....\r\nAddress:................\r\nDate of birth:..........\r\nNationality:.............\r\nPhone number/WhatsApp :.....\r\nA copy of your international passport or driving license\nThanks\r\nMr Faustina Amoussou.\r\n\r\n\r\nContact the paying bank and get back to me for more updates."
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00587962962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Contact the paying bank",
+        "body": "Hello Mr. Faustina Oussou,\nThank you for sharing this information with me. It sounds like a great opportunity. Could you provide more details about how the process works once I contact the bank? How long does it usually take for the funds to be transferred to my local bank account?\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "scammer_1642",
+        "to": "baiter_1642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.01607638888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Reply Urgent",
+        "body": "Hello Amy,\r\n\r\nActually the transaction will not last more than 1 week depend how fast you\r\ncomplied with the bank transaction fee which the transaction will cost\r\nalmost £2500 pounds as entire pertinent charge.\r\n\r\nSo if you comply promptly/fast the transaction will not last more than 1\r\nweek and you will be able to transfer the funds to your local bank account.\nThanks\r\nMr Faustina Amoussou"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.04775462962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Reply Urgent",
+        "body": "Hello Mr. Faustina Oussou, thank you for sharing that information with me. Could you please provide more details about the bank fee and how it needs to be paid? I want to make sure I understand the process clearly before proceeding.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "scammer_1642",
+        "to": "baiter_1642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.05949074074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Please let's talk in WhatsApp+226 62416734",
+        "body": "Dear Amy\r\n\r\nThere's nothing much involved rather than what I have earlier explained. In\r\nas much as you contact the Bank they will process your file in their office\r\nand request for the transaction fee and you can send the money either by\r\ntransfer, bank deposit or through Western Union or MoneyGram or RIA money\r\ntransfer depends how you wish.\r\n\r\nImmediately you pay the fee the same day the bank will open the online\r\naccount in your name and issues you the online account details as I earlier\r\nexplained then you will begin to transfer the funds to your account. So how\r\nfast or urgent you pay the fee will determine how fast you will transfer\r\nthe funds. if you transfer the fee urgently without delay then you will be\r\nable to transfer the funds ASAP. and I know is that the charges will not be\r\nmore than £2500-£2750 pounds as I earlier explained\r\n\r\nMadam please can you give me your WhatsApp number so that we can talk in\r\nWhatsApp, I guess that will be fast in communication than email or you can\r\nadd me in WhatsApp with this number +226 62416734.\nThanks\r\nMr Faustina Amoussou."
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.08950231481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Please let's talk in WhatsApp+226 62416734",
+        "body": "Hello,\n\nThank you for sharing the information. I appreciate your explanation about the process. Could you please provide more details about how the online account works once it's set up? I'm curious to know more about the transfer of funds and any additional steps involved.\n\nAlso, could you clarify what specific fees are required to open the online account? Understanding the exact amount and purpose of the fee would be helpful.\n\nI prefer to communicate via email for now. Can you share more details through this platform?\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "scammer_1642",
+        "to": "baiter_1642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.099375,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "I have clarified everything",
+        "body": "Hello Dear Amy\r\n\r\nOnce the online account is opened you will login with the username and\r\npassword as usual and the bank will issues you the ( OTP CODE) which will\r\nenable you to perfect transfer and that code you don't need to share it or\r\nlet anyone to know it for security purposes. The bank will issues you the\r\ncode while sending you the online account details.\r\n\r\nThere is no hard thing involved though the bank will give you instructions\r\nhow to make the transfer perfectly. again the pertinent amount involved\r\nboth for the account opening fee and others is £2500-£2750 precisely and\r\nhence it's paid there's no more charge then you will be issued the account\r\ndetails OTP etc to transfer the funds.\r\n\r\nI explained. no much process involved. you should contact the Bank and send\r\nyour details and after processing your file in their bank then you pay\r\ntheir fee immediately they will open the online account and send you the\r\ndetails to transfer the funds to your account period. hope I have clarified\r\neverything. please contact the Bank and inform me.\nThanks\r\nMr Faustina Amoussou."
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3397453703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: I have clarified everything",
+        "body": "Hello! Thank you for sharing that information with me. It sounds like a straightforward process to open an online account with the bank. Could you tell me more about how the transfer of funds works once the account is set up? I'm curious to learn more about the security measures in place to protect my information during the transfer.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "scammer_1642",
+        "to": "baiter_1642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.5587962962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "The transfer takes 3 or 4 days",
+        "body": "Hello Mrs Amy,\r\n\r\nThank you for your message, yes, hence the transfer is made it will only\r\ntake 72 hours/ 3 days to credit in your account. the transaction is 100%\r\nrisk free as everything is legitimate. The transfer takes 3 or 4 Bank work\r\nday to be credited\nThanks\r\nMr Faustina Amoussou"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.5897337962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: The transfer takes 3 or 4 days",
+        "body": "Hello Mr. Faustina Oussou, thank you for your response. I appreciate the information about the transfer process. Can you tell me more about the security measures in place to ensure a smooth and risk-free transaction?\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.5900810185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: The transfer takes 3 or 4 days",
+        "body": "Hello Mr. Faustina Oussou, thank you for the information. Can you please clarify how the transfer process works and if there are any fees involved?\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.5911921296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: The transfer takes 3 or 4 days",
+        "body": "Hello Mr. Faustina Oussou, thank you for the information. Can you please clarify how the transfer process works and what steps are involved? I want to make sure I understand everything correctly.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.5914236111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: The transfer takes 3 or 4 days",
+        "body": "Hello Mr. Faustina Oussou, thank you for the information. Can you please clarify how the transfer process works and what steps are involved?\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "scammer_1642",
+        "to": "baiter_1642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.5974189814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Already answered",
+        "body": "Dear Amy,\r\n\r\nI have repeatedly answered all these questions, The transfer will be\r\ncleared or remitted in your account within 3 or 4 days of making the\r\ntransfer and the transaction is legal and no risk involved.\nThanks\r\nMr Faustina Amousou"
+    },
+    {
+        "from": "scammer_1642",
+        "to": "baiter_1642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6008101851851851,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "You should fill the form and apply to the bank",
+        "body": "Dear Amy,\r\n\r\nThere is no additional process than what I have already explained. the\r\ntransaction is legal and no risk involved. and the transfer will be\r\naccessible and available in your account after 3 or 4 days of making the\r\ntransfer.\r\n\r\nPlease you need to apply to the bank as directed so that by tomorrow being\r\nMonday the bank will start processing the opening of the online account.\nThanks\r\nMr Faustina Amoussou."
+    },
+    {
+        "from": "scammer_1642",
+        "to": "baiter_1642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6240625,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "more clarification",
+        "body": "Dear Amy\r\n\r\nI have earlier informed you that what is needed is around £2750.00 and\r\nafter that there's no additional expenses during the transfer. you will\r\ntransfer successfully and the funds will be credited with 3 or 4 days in\r\nyour account.\nThanks\r\nMr Faustina Amoussou"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6308796296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re: Already answered",
+        "body": "Hello Mr. Faustina Ousou, thank you for your message. Can you please provide more details about the transfer process and how it works? I would like to understand it better before proceeding.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6310416666666666,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "19",
+        "subject": "Re: more clarification",
+        "body": "Hello,\n\nThank you for the information. I appreciate your clarification regarding the transfer process and the timeline for crediting the funds. Could you please provide more details about how the transfer will be initiated and any specific steps I need to take on my end?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6317476851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "20",
+        "subject": "Re: You should fill the form and apply to the bank",
+        "body": "Hello,\n\nThank you for the information. Can you please provide more details about how the transfer process works? I want to make sure I understand everything clearly before proceeding.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "scammer_1642",
+        "to": "baiter_1642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6390625,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "21",
+        "subject": "properly",
+        "body": "Dear Amy,\r\n\r\nThe transfer will work properly.\nThanks"
+    },
+    {
+        "from": "scammer_1642",
+        "to": "baiter_1642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6405439814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "22",
+        "subject": "Just fill the form",
+        "body": "Dear Amy,\r\n\r\nAll need to do now is to fill the form and send the the bank and that's all\r\nyou need to do and the bank will process for opening of the account.\nThanks\r\nMr Faustina Amoussou"
+    },
+    {
+        "from": "scammer_1642",
+        "to": "baiter_1642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6534375,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "23",
+        "subject": "You should contact the bank",
+        "body": "Dear Amy,\r\n\r\nI have explained that the transfer will be credited to your account within\r\n4 days and all you need to do now is to fill the form and send it to the\r\nbank so that by tomorrow they will start processing for the opening of the\r\naccount. You should contact the bank that is all you need to do now.\r\n\r\nHere's is their office contact\r\n\r\nCEO HSBC Bank London: Mr Ian Stuart\r\nEmail: hsbcbank.england@englandmail.com\r\nPhone:  +447888863701\r\n\r\nYour full name:.....\r\nAddress:................\r\nDate of birth:..........\r\nNationality:.............\r\nPhone number/WhatsApp :.....\r\nA copy of your international passport or driving license\r\n\r\nContact the paying bank and get back to me for more updates.\nThanks\r\nMr Faustina Amoussou"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6726620370370371,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "24",
+        "subject": "Re: You should contact the bank",
+        "body": "Hello! Thank you for sharing this information with me. Could you please provide more details about the transfer process and the bank involved? I want to make sure everything is clear before proceeding.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6726967592592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "25",
+        "subject": "Re: properly",
+        "body": "Hello! That's great to hear that the transfer will work properly. Can you provide more details about how it will be processed? I'm curious to learn more about the steps involved.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6728472222222223,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "26",
+        "subject": "Re: Just fill the form",
+        "body": "Hello Mr. Faustina Oussou, thank you for the information. Could you please provide me with more details about the form that needs to be filled out? I want to make sure I have all the necessary information before proceeding.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6730671296296297,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "27",
+        "subject": "Re: Just fill the form",
+        "body": "Hello Mr. Faustina Oussou, thank you for the information. Could you please provide more details about the form that needs to be filled out? I want to make sure I have all the necessary information before proceeding.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "scammer_1642",
+        "to": "baiter_1642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6739236111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "28",
+        "subject": "all are answered",
+        "body": "after you pay the fee the bank will open the online account and send you\r\nthe account details then you will transfer the funds..."
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6740625,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "29",
+        "subject": "Re: all are answered",
+        "body": "That sounds interesting. How much is the fee for opening the online account? And how long does it usually take to receive the account details after payment?\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "scammer_1642",
+        "to": "baiter_1642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6749305555555556,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "30",
+        "subject": "The fee is 2750 pounds",
+        "body": "the fee is 2750 pounds"
+    },
+    {
+        "from": "scammer_1642",
+        "to": "baiter_1642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6758217592592592,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "31",
+        "subject": "Please contact the bank",
+        "body": "Dear Amy,\r\n\r\nYou will receive the account details within 24 hour of paying the fee. The\r\nBank director said that you should fill the form and send to them"
+    },
+    {
+        "from": "scammer_1642",
+        "to": "baiter_1642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6768055555555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "32",
+        "subject": "Here is the form",
+        "body": ""
+    },
+    {
+        "from": "scammer_1642",
+        "to": "baiter_1642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6801388888888888,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "33",
+        "subject": "Are you a joker???",
+        "body": ""
+    },
+    {
+        "from": "scammer_1642",
+        "to": "baiter_1642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6812152777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "34",
+        "subject": "fill as given to you",
+        "body": "fill the form as provided to you and stop making joke"
+    },
+    {
+        "from": "scammer_1642",
+        "to": "baiter_1642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6881944444444444,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "35",
+        "subject": "Send the form to the bank or lets stop",
+        "body": "Dear Amy,\r\n\r\nYou are repeating question and I don't to continue answering your\r\nunfinished question. I have been answering this question since yesterday\r\nand I am tired and I can not answer anymore repeating question and the HSBC\r\nBank said that you will fill the form as given to you and send to them\r\n\r\nPlease if you are not serious to receive the fund then lets cancel the\r\ntransaction.\nThanks\r\nMr Faustina Amoussou"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7143055555555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "36",
+        "subject": "Re: Are you a joker???",
+        "body": "Hello! How can I help you today?\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7143402777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "37",
+        "subject": "Re: Here is the form",
+        "body": "Hello! How can I help you today?\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7143981481481482,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "38",
+        "subject": "Re: Send the form to the bank or lets stop",
+        "body": "Hello! I understand your frustration with repeating questions. Could you please provide more details about the form that HSBC Bank requires to be filled out? I'd like to learn more about the process.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7145023148148149,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "39",
+        "subject": "Re: Please contact the bank",
+        "body": "Hello,\n\nThank you for the information. Could you please let me know how much is the fee and where should I send it? Also, what form do I need to fill out exactly?\n\nLooking forward to your response.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7145370370370371,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "40",
+        "subject": "Re: The fee is 2750 pounds",
+        "body": "Oh, I see. Can you tell me more about what the fee is for?\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7145833333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "41",
+        "subject": "Re: fill as given to you",
+        "body": "Hello! I understand you want me to fill out a form. Could you please provide more details about the form and why it needs to be filled out?\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "scammer_1642",
+        "to": "baiter_1642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.8646296296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "42",
+        "subject": "Re: Please contact the bank",
+        "body": "You are a joker anyway.."
+    },
+    {
+        "from": "scammer_1642",
+        "to": "baiter_1642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.8646296296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "43",
+        "subject": "Re: The fee is 2750 pounds",
+        "body": "you are a joker"
+    },
+    {
+        "from": "scammer_1642",
+        "to": "baiter_1642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.8646412037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "44",
+        "subject": "Have you send your details",
+        "body": "Hello Amy\r\n\r\nCan you update me if you have send the application form to the bank. Please\r\ntell me the development of things.\nThanks\r\nMr Faustina Amoussou"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.8809375,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "45",
+        "subject": "Re: Please contact the bank",
+        "body": "Hello! I understand your skepticism, but I have some interesting information to share with you. Have you heard about the latest trends in online shopping? It's quite fascinating how technology is changing the way we shop. Would you like to know more about it?\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.8810069444444445,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "46",
+        "subject": "Re: The fee is 2750 pounds",
+        "body": "Haha, thanks for the compliment! What's up?\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.8810416666666666,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "47",
+        "subject": "Re: Please contact the bank",
+        "body": "Hello! I understand your skepticism, but I'd like to share some interesting information with you. Have you heard about the latest developments in technology? It's truly fascinating how far we've come!\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.8810763888888888,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "48",
+        "subject": "Re: Have you send your details",
+        "body": "Hello Mr. Faustina Oussou! I can definitely help you with that. Could you please provide me with more details about the form you sent to the bank and what specific information you are looking for?\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.8813541666666667,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "49",
+        "subject": "Re: The fee is 2750 pounds",
+        "body": "Haha, thanks for the compliment! So, what's up?\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.8813888888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "50",
+        "subject": "Re: Please contact the bank",
+        "body": "Haha, well I do like a good joke! What's on your mind?\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.8815162037037036,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "51",
+        "subject": "Re: Have you send your details",
+        "body": "Hello Mr. Faustina Oussou, I can definitely help you with that. Could you please provide me with more details about the form and what information you need regarding it?\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.8825810185185186,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "52",
+        "subject": "Re: Have you send your details",
+        "body": "Hello Mr. Faustina Oussou! I can definitely provide you with an update on the form sent to the bank. Could you please clarify which specific things you would like me to tell you about? Feel free to ask any questions you may have.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.8828587962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "53",
+        "subject": "Re: Please contact the bank",
+        "body": "Hello! I appreciate your sense of humor. What's on your mind today?\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.8828935185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "54",
+        "subject": "Re: The fee is 2750 pounds",
+        "body": "Haha, thanks for the compliment! So, what made you think that?\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "scammer_1642",
+        "to": "baiter_1642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.8838657407407408,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "55",
+        "subject": "Re: Please contact the bank TELL ME MORE",
+        "body": "Can you tell me more about it???"
+    },
+    {
+        "from": "scammer_1642",
+        "to": "baiter_1642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.8858912037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "56",
+        "subject": "YOUR FULL NAME AND ADDRESS",
+        "body": "WRITE YOUR NAME AND ADDRESS\r\n\r\nAND WHAT IS YOUR FULL NAME??\r\nPHONE NUMEBR"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9225462962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "57",
+        "subject": "Re: YOUR FULL NAME AND ADDRESS",
+        "body": "Hello! I'm happy to help you with any information you need. What specifically are you looking for? Feel free to ask your questions.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9225810185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "58",
+        "subject": "Re: Please contact the bank TELL ME MORE",
+        "body": "Of course! I'd be happy to share more information with you. What specifically would you like to know more about?\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "scammer_1642",
+        "to": "baiter_1642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0153125,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "59",
+        "subject": "let's talk on WhatsApp",
+        "body": "I thought you are going to help to receive this funds but suddenly you\r\nchange for jokes"
+    },
+    {
+        "from": "scammer_1642",
+        "to": "baiter_1642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0162731481481482,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "60",
+        "subject": "about you",
+        "body": "I want to know about you"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0476041666666667,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "61",
+        "subject": "Re: about you",
+        "body": "Hello! I'm happy to share information with you. What specifically would you like to know about me?\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_1642",
+        "to": "scammer_1642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0477199074074075,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "62",
+        "subject": "Re: let's talk on WhatsApp",
+        "body": "I'm sorry to hear that you feel that way. Can you tell me more about the funds you're referring to? I'd like to understand the situation better so I can try to help.\n\nBest wishes,\nAmy"
+    }
+]

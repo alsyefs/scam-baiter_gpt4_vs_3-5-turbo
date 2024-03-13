@@ -1,0 +1,102 @@
+[
+    {
+        "from": "scammer_515",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir,",
+        "body": "  Dear Sir,\nFrom: Venture Capital\nI'm sorry for my intrusion, your particulars were given to me by a\nfriend who is with the London Chamber of commerce.\nWe are a United Kingdom based venture capital firm which specializes\nin growth capital investments for existing companies and Start up\nbusiness.\nWe are looking to invest in entrepreneurial teams with big ideas and a\nneed for seed capital to turn their ideas into great companies.\nWe believe every business man or woman is basically an entrepreneur,\nfor we all strive to achieve optimal goals using limited resources.\nIn seeking out worthwhile investment opportunities, we are ready to\ninvest in project developments and business ventures that can generate\nat least 10% ROI per year. Our offer for investment is based purely on\nLoan / Debt Financing basis on 3% yearly interest pay back throughout\nthe duration of the collaboration.\nWe have the financial capacity to grant a loan/funding of between $5M\nto $20Billion for a duration of 2 to 20 years, with 6 to 12 months\ngrace period, depending on the size and nature of your business.\nShould there be any available partnership or investment options and or\nopenings for new investors within your firm, we will be happy if\nobliged\nYours faithfully,\nAgent: David Lan Gilligham\nEmail: \ndavidlangilligham@accountant.com\n "
+    },
+    {
+        "from": "baiter_515",
+        "to": "scammer_515",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir,",
+        "body": "Dear Sir,\n\nThank you for reaching out and considering me for this opportunity. It's quite exciting to hear about your venture capital firm and the work you're doing to support startups and existing businesses.\n\nI'm curious, could you tell me more about the types of businesses or industries that your firm typically invests in? Also, what kind of support does your firm provide beyond financial investment?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nForrest"
+    },
+    {
+        "from": "scammer_515",
+        "to": "baiter_515",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Dear Sir,",
+        "body": "Dear Sir,\r\n\r\nThank you for your email, and your interest to partner with us.\r\n\r\nNote that we are ready, willing and able to render financial assistance to your firm by way of loan grants or equity participation on viable and profitable ventures/projects which your firm may want to undertake presently or in the nearest future, and we invest in all sectors.\r\n\r\nWe can approve loans/funding from $5M up to $10Billion, for a period of 2 to 25 years, on a yearly interest pay back of 3%.\r\n\r\nIt's imperative we notify you that we do not play any direct active participation on whatever project/s your firm's wishes to go into as all\r\nwe do is to offer the necessary finance needed for the entire project after a careful evaluation of your firm's profile, its capability as\r\nwell as project analysis.\r\n\r\nHowever, to enable us proceed as well as approve a loan for your firm's project/s, we require you to furnish us with the following details and information as clearly stated thus;\r\n\r\n1. Your company's executive summary\r\n\r\n2. Your company's business plan/s\r\n\r\n3. Your company's financial projection/s\r\n\r\n4. Your direct telephone/whatsapp numbers .\r\n\r\n5. Copy of your int'l passport or any photo ID\r\n\r\n6. Your company's certificate of incorporation\r\n\r\n7. Your residential or office address.\r\n\r\n8. Loan Amount\r\n\r\n9. Duration of the loan\r\n\r\nWe need these information and details submitted to us as soon as possible to enable our financial advisers to study them and then advise us accordingly on the next step to follow; either to proceed with the investment or not.\r\n\r\nI shall require you to furnish me with all these details as stated and as quickly as you can.\r\n\r\nFurther discussions such as our meeting for further deliberation and signing of contract/loan paperwork will be arranged as at when due, and that will be after our advisers may have given us the nod to enter into a business transaction with your firm.\r\n\r\nYours faithfully,\r\n\r\nMr. David Ian Gillingham\r\nFinance Director, Clearline Financial Services Limited\r\nAddress: 1 Woodlands Grove, Caversham, Reading, United Kingdom, RG4 6NB, UK.\nCompany Number: 11786679\r\n8th February, 1974"
+    },
+    {
+        "from": "baiter_515",
+        "to": "scammer_515",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0005208333333333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Sir,",
+        "body": "Hello Mr. David Ian Gillingham,\n\nThank you for your prompt response and the detailed information about your financial assistance program. It's great to hear that Clearline Financial Services Limited is ready to support businesses in their ventures.\n\nI'm curious about the process of loan approval. Could you please elaborate on how you evaluate a firm's profile, its capability, and project analysis? I believe this would give me a better understanding of what factors are considered important in your decision-making process.\n\nAlso, could you provide more details about the interest rate? You mentioned a yearly payback but didn't specify the rate. \n\nRegarding the documents you requested, I am more than willing to provide them. However, I must apologize as I cannot share my personal identification or direct contact numbers due to privacy concerns. I hope this won't be an issue and we can continue our discussions via email.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nForrest"
+    },
+    {
+        "from": "scammer_515",
+        "to": "baiter_515",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.016261574074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Dear Sir,",
+        "body": "Dear Sir,\r\n\r\nThank you for your email, Note that this firm is not here to play games, we cannot do without having the required details.\r\n\r\nAll the details are required for easy and trusted business, feel free to provide the details while we processed.\r\n\r\nYours faithfully,\r\n\r\nMr. David Ian Gillingham\r\nFinance Director, Clearline Financial Services Limited\r\nAddress: 1 Woodlands Grove, Caversham, Reading, United Kingdom, RG4 6NB, UK.\nCompany Number: 11786679\r\n8th February, 1974"
+    },
+    {
+        "from": "baiter_515",
+        "to": "scammer_515",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.07224537037037038,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Dear Sir,",
+        "body": "Hello Mr. David Ian Gillingham,\n\nThank you for your prompt response. I appreciate your dedication to ensuring a smooth and trustworthy business process. However, I would like to understand more about the details you require from me.\n\nCould you please elaborate on why these details are necessary? And how will they be used in our business dealings?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nForrest"
+    },
+    {
+        "from": "scammer_515",
+        "to": "baiter_515",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.10729166666666666,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Dear Sir,",
+        "body": "Attention Mr. Forrest,\r\n\r\nYour email is well receive, kindly send your telephone number to enable us discuss on this.\r\n\r\nThanks.\r\n\r\nYours faithfully,\r\n\r\nMr. David Ian Gillingham\r\nFinance Director, Clearline Financial Services Limited\r\nAddress: 1 Woodlands Grove, Caversham, Reading, United Kingdom, RG4 6NB, UK.\nCompany Number: 11786679\r\n8th February, 1974"
+    },
+    {
+        "from": "baiter_515",
+        "to": "scammer_515",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.10743055555555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Dear Sir,",
+        "body": "Hello Mr. David Ian Gillingham,\n\nThank you for your prompt response. I'm glad to hear from you. However, I must apologize as I am not comfortable sharing my telephone number at this time. \n\nCould we perhaps continue our discussion via email? It would be great if you could provide more details about the matter at hand.\n\nLooking forward to hearing from you soon.\n\nBest regards,\nMr.\n\nBest wishes,\nForrest"
+    },
+    {
+        "from": "scammer_515",
+        "to": "baiter_515",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.15688657407407408,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Dear Sir,",
+        "body": "Attention Mr. Forrest,\r\n\r\nYour message is well received, I want to assure you that you have nothing to worry about or entertain any fears.\r\n\r\nMeanwhile kindly contact the principal loan provider for more details, with the below information.\r\n\r\nMr. Josef Hopfinger\r\nCEO, Josef Hopfinger Private Consulting Firm TeamFinancial Lenders and Private Equity Capital Investors\r\n\r\nOffice Address: Grafenauweg 10, 6300 Zug, Switzerland.\r\nCompany Registration No.: 17010099308\r\nTel/Whatsapp: +41-76-575-9001\r\nFax: +41-41-740-1157\r\nEmail: josef.hopfinger@josefhopfinger-pcft.com\r\nPrivate Email: josefhopfinger824@gmail.com\r\nWebsite: www.josefhopfinger-pcft.com\r\n\r\nDo let me know as soon as you finished discussing with him\r\n\r\nThanks.\r\n\r\nYours faithfully,\r\n\r\nMr. David Ian Gillingham\r\nFinance Director, Clearline Financial Services Limited\r\nAddress: 1 Woodlands Grove, Caversham, Reading, United Kingdom, RG4 6NB, UK.\nCompany Number: 11786679\r\n8th February, 1974"
+    },
+    {
+        "from": "baiter_515",
+        "to": "scammer_515",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.15758101851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Dear Sir,",
+        "body": "Hello Mr. David Ian Gillingham,\n\nThank you for your prompt response and the information provided. It's great to hear from you! I'm quite interested in learning more about this opportunity.\n\nCould you please provide me with more details about the loan provider, Mr. Josef Hopfinger? What kind of services does his consulting firm offer? And how long has he been in this field?\n\nAlso, could you tell me a bit more about Clearline Financial Services Limited? What kind of financial services do you offer?\n\nLooking forward to hearing from you soon.\n\nBest regards,\nMr.\n\nBest wishes,\nForrest"
+    }
+]

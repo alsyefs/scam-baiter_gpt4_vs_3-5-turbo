@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1225",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  I am Mr. james Royce, CEO  \"",
+        "body": "  I am Mr. james Royce, CEO  \"MDV INCORPORATED\", a premier\nfinancial consultancy firm based in Ohio, United States. I am\ncontacting you based on my personal interest to develop a mutual\nbusiness relationship with you in your Country. I am a financial\nconsultant to an investor from a Mineral-Oil Rich European Country\nwith sensitive political background who wants to invest outside his\nCountry and without the appearance of his name on the investments.\n As stated above, my client had approached me with a mandate to seek\nfor individuals with professional experience in financial management\nthat can help him channel these funds into profitable investments\nwhere these funds could exist outside his name and Country.\n Should this be of interest to you, kindly respond with your CV and/or\npersonal profile so we can discuss further. Kindly send your reply to\nmy private email for more comprehensive details.\n Here is my private email:jamesroyce002@gmail.com\n Sincerely,\n Mr. james Royce   "
+    },
+    {
+        "from": "baiter_1225",
+        "to": "scammer_1225",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   I am Mr. james Royce, CEO  \"",
+        "body": "Hello Mr. James Royce,\n\nThank you for reaching out and considering me for this opportunity. It's quite intriguing to hear about your client's interest in investing outside of his country. I'm curious, what kind of business sectors is he particularly interested in? \n\nAlso, could you please provide more information about the nature of the investment? What are the expected returns and what would be my role in managing these funds?\n\nLooking forward to hearing from you.\n\nBest wishes,\nClarence"
+    }
+]

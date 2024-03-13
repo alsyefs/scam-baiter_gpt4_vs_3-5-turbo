@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1740",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Hello my good friend ",
+        "body": "   Hello my good friend \nHow are you today? Hope all is well with you and your family? you may not understand why this mail came to you. But if you do not remember me, you might have received an email from me in the past regarding a multi-million-dollars business proposal which we never concluded.\nI am using this opportunity to inform you that this multi-million-dollars business has been concluded with the assistance of another partner from India who financed the transaction to a logical conclusion. I thank you for your great effort to our unfinished transfer of funds into your account due to one reason or the other best known to you.\nBut I want to inform you that I have successfully transferred the fund out of my bank to my new partner's account in India that was capable of assisting me in this great venture. Due to your effort, sincerity, courage and trustworthiness you showed during the course of the transaction.I want to compensate you and show my gratitude to you with the sum of $2,500,000.00. I have left a certified international ATM CARD for you worth $2,500,000.00 cash able anywhere in the world.\nMy dear friend, I would like you to contact my Account Officer Mr.Kennedy Hugo on his direct email address at:[mrkennedyhugo@outlook.com] the collection of your ATM CARD. I authorized him to release the ATM CARD to you whenever you contact him regarding it. At the moment, I'm very busy here because of the investment projects, which I and the new partner are having at hand.\nPlease, I would like you to accept this token with good faith as this is from the bottom of my heart,Also comply with Mr.Kennedy Hugo directives so that he will send the ATM CARD to you without any delay.\nContact Person: Mr.Kennedy Hugo\nCotonou Benin Republic West Africa\nTel: +229 66598096\nHis email address:[mrkennedyhugo@outlook.com ]\nTherefore, you should send him your full Name and telephone number/your correct mailing address where you want him to send the ATM CARD to you.\nThanks and God bless you and your family.\nBest Regard\nMrs.Rosalyn Richardson   "
+    },
+    {
+        "from": "baiter_1740",
+        "to": "scammer_1740",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    Hello my good friend ",
+        "body": "Hello! I hope you are doing well. It's interesting to hear about your business venture and the successful conclusion with your new partner from India. Could you tell me more about how you decided to work with them and what made them stand out to you? Also, what kind of investment projects are keeping you busy at the moment?\n\nBest wishes,\nHoward"
+    }
+]

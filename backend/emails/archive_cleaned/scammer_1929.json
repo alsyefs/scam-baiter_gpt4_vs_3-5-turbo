@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1929",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Europe House 32 Smith Square",
+        "body": "  Europe House 32 Smith Square\nLondon SW1P 3EU\nMrs Mairead McGuinness Financial services European Union Commission\nDated  27th of September  2023\nDEAR  Beneficiary\n1. Did you instruct one Mr. John Tsai of Indo-China group Ltd.\nHong-Kong, to claim and receive your outstanding fund on your behalf?\n2. Did you sign any \"Deed of Assignment\" in his favor thereby making\nhim the current beneficiary with the Bank account details below:\nAccount Name: Indo-China Group Ltd,\nA/C No: USD114-1025567-8,\nBank Name: Standard Chattered Bank,Hong Kong,\nSwift Code: SCBL11K111.\nFinally, you are hereby advised to indicate to this honorable office\nwith immediate effect, if Tsai should come forward for the claim of\nthese funds before we can endorse for the final payment approval order\non his favor. But if your answer is negative then finish this\nTransaction by paying for the CLEARANCE  CERTIFICATE\nRemain Bless\nYours Sincerely\nMrs Mairead McGuinness Financial services European Union Commission   "
+    },
+    {
+        "from": "baiter_1929",
+        "to": "scammer_1929",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Europe House 32 Smith Square",
+        "body": "Hello Mrs Mairead,\n\nThank you for your message. I'm a bit confused about this situation. I don't recall instructing anyone named Mr. John Tsai to claim or receive any funds on my behalf. And as far as I know, I haven't signed any Deed of Assignment in his favor.\n\nCould you please provide more details about this fund? How did it come into existence and why is it associated with my name? Also, could you explain what the CLEARANCE fee is for?\n\nLooking forward to your response.\n\nBest wishes,\nTyrell"
+    }
+]

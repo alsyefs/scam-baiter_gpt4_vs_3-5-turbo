@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1591",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Dear Sir / Madam,",
+        "body": " Dear Sir / Madam,\nI write to inform you that the GOVERNMENT OF UNITED STATES in\nconjunction with International Monetary Fund (IMF), has resolved to\nrefund each victim of scam (Advance Fee FRAUD) the sum of $7,500.000\n(Seven Million Five Hundred Thousand Dollars only) On that note, I\nseek your consent to collaborate with me so that I will put your name\nas one of the victims entitle and legible for this refunds for our\nmutual benefits.\nIf you are interested in actualizing this deal with me respond back\nurgently with your below details to enable me put your name among\nthose that will benefit from the refund this month.\n1 Your full names/ address.\n2 Your phone number.\n3 Your age/sex and occupation.\nPlease note that the process of filing for this refund is risk free\nand has nothing to do with illegality because I have perfected every\nplan for the smooth processing of the refunds. Bear in mind that our\nworking ratio shall be 50% each as soon as we get the refund in your\nname.  Email {  \nmellisakallinleininger@gmail.com\n    }\nYours Faithfully,\nMs. Kristalina Georgieva\nManaging Director\nInternational Monetary Fund    "
+    },
+    {
+        "from": "baiter_1591",
+        "to": "scammer_1591",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  Dear Sir / Madam,",
+        "body": "Hello Ms. Kristalina Georgieva,\n\nThank you for reaching out to me with this information. It's quite surprising to hear about such a generous refund from the Government of United States and Monetary Fund IMF.\n\nI'm curious, how did you come across my contact? Also, could you please provide more details about this refund process? How does it work exactly?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nVictoria"
+    }
+]

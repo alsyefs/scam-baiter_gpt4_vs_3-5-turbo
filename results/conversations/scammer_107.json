@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_107",
+        "to": "baiter_107",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "PROJECT FUNDING CONSIDERATIONS",
+        "body": "Dear Mary,\r\nWe write to inform you that we have received your file for possible funding\r\nconsiderations.\r\n\r\nKindly find attached our official letter to that effect.\nRegards,\r\nStuart"
+    },
+    {
+        "from": "baiter_107",
+        "to": "scammer_107",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: PROJECT FUNDING CONSIDERATIONS",
+        "body": "Hello Mary,\n\nI hope this message finds you well. I'm writing to let you know that we've received your file for potential funding. That's really exciting news!\n\nCould you please provide me with more details about the next steps in the process? I'm eager to learn more about what this opportunity entails.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMary"
+    },
+    {
+        "from": "scammer_107",
+        "to": "baiter_107",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.002199074074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "PROJECT FUNDING CONSIDERATIONS",
+        "body": "Dear Adam,\r\nWe write to inform you that we have received your file for possible funding\r\nconsiderations.\r\n\r\nKindly find attached our official letter to that effect.\nRegards,\r\nStuart"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_539",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "DIRECT GLOBAL SHIPPING COMPANY",
+        "body": "DIRECT GLOBAL SHIPPING COMPANY\nBRANCH : 32  AWOLOWO ROAD, IKOYI .LAGOS – NIGERIA.\nHEAD OFFICE : CHICAGO CITY , UNITED STATE\n                ****** DGL SHIPMENT PACKAGE DELIVERY NOTIFICATION ******\n                              Greetings from  Direct Global Shipping\nCompany , The\nManagement of this company, wishes to inform you that, we received a\nPackage Containing An ATM Master Card Worth US$5,000,000.00\n(Five Million United State Dollars) with some vital documents attached\n On it for safety delivery to your home address in your country.\nThis parcel was brought to us this morning by the ATM Card payment\nOffice/Federal Ministry of Finance (FMF) as your inheritance approved\nFund to be delivered to you, without delay,\n \nKindly reconfirm the   Below  information, to avoid Wrong  Delivery\nof your Package.\nFull names..............................................\nParcel owner address..............................\nPhone......................................................\nOccupation..............................................\nCopy of ID CARD\n :>>>>>>>……………\nWe will register your package and send you the tracking numbers before\nin order to\nProceed for safety delivery of your package as soon as you reconfirm\nThe required information's for safety delivery.\n                               ______THANKS & REGARD_________\nMr. George Daniel\nChief Executive Officer Dhl Global Company\nWhatsapp line : +234-9057200381\nDirect line: +1(714) 477 9985"
+    },
+    {
+        "from": "baiter_539",
+        "to": "scammer_539",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: DIRECT GLOBAL SHIPPING COMPANY",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding the delivery of an ATM Master Card worth US Five Million United State Dollars. However, before proceeding, I would like to ask a few questions to ensure everything is in order.\n\n1. Can you please provide more details about the origin of this package? How did it come to be in your possession?\n\n2. What are the vital documents attached to the ATM Master Card? Could you please specify what they are for?\n\n3. Is there any reason why this package needs to be delivered through your company instead of a more traditional banking method?\n\nI look forward to your response and further clarification on these matters.\n\nBest wishes,\nAlan"
+    },
+    {
+        "from": "scammer_539",
+        "to": "baiter_539",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: DIRECT GLOBAL SHIPPING COMPANY",
+        "body": "*DHL Express Courier service32 Awolowo Rd, Ikoyi, Lagos.HEAD OFFICE :\r\nCHICAGO CITY , UNITED STATE\r\n ---------PACKAGE  DELIVERY PROCEDURE ----------*\r\n\r\n\r\nThanks for your email and well noted information. I want to bring to your\r\nnotice that your Package was deposited to our office as a Compensation\r\nfrom the United Nation Organization in line with the International\r\n Monetary Fund Department , to be delivered to your home address .\r\n\r\n\r\n    I am Mr George Daniel Chief Executive Official For The Direct Global\r\nExpress Company ,and i want you to reconfirm the following details\r\nso we can commence with the delivery of your card without any much delay:\r\n\r\n\r\n***Full names...................................\r\n***Parcel owner address..................\r\n***Phone............................................\r\n***Occupation......................................\r\n***Copy Of ID Card / picture >>>>>>\r\n\r\n\r\nNote : As soon as you reconfirm the required information , We would register\r\nyour package and send you the tracking numbers before we\r\nproceed for safety delivery of your package\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*      ****** We are waiting for your urgent response *************Mr.\r\nGeorge DanielChief Executive Officer Dhl Global CompanyWhatsapp line :\r\n+234-9057200381Direct line: +1(714) 477 9985 *"
+    },
+    {
+        "from": "baiter_539",
+        "to": "scammer_539",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.01885416666666667,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: DIRECT GLOBAL SHIPPING COMPANY",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate your assistance in delivering my package. However, before I provide any further information, could you please clarify a few things for me?\n\n1. Can you confirm the sender of the package and what it contains?\n2. How did the United Nations and Monetary Fund Department get involved in this delivery?\n3. Is there any specific reason why Mr. George Daniel, the Chief Executive Official, needs my ID card picture?\n\nOnce I have these details clarified, I will be happy to proceed with providing the necessary information.\n\nBest wishes,\nAlan"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1477",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   KMT Probate, L.L.C.",
+        "body": "   KMT Probate, L.L.C.\nAddress: 1636 CA-2, Los Angeles, CA 90045\nTel:  +1 (213) 550-3310\ne-Mail: \nkmtprobate@skiff.com\nLast Will & Testament.\nDear Sir/Madam,\nThis letter is to notify you of your late partner, Dawn Shireen King who left behind a Last Will and Testament at the tune of $10,500,000.00 (Ten Million Five Hundred Thousand United States Dollars Only) for a long overdue contract executed before her demise. Please indicate your interest in claiming the fund by submitting the below information as quickly as possible;\n1. Full Names\n2. Home/Office Address:\n3. Cell Phone #:\n4. Copy of your ID\nUpon the receipt of the above requested information, we shall forward all relevant documents of claim relating to the fund and we shall commence the process of your claim immediately.\nPlease reply as quickly as possible.\nTruly,\nMr. Rodney Morgan Brown\ne-Mail: \nrodmbrown7@gmail.com\nTel:  +1 (213) 550-3310   "
+    },
+    {
+        "from": "baiter_1477",
+        "to": "scammer_1477",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    KMT Probate, L.L.C.",
+        "body": "Hello! Thank you for sharing this information with me. Could you please provide more details about the late partner, Dawn Shireen King, and the nature of the contract that was executed before her demise? I'm interested in learning more about how this process works.\n\nBest wishes,\nEssie"
+    }
+]

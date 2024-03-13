@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1739",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Ref: 90087PAXUS",
+        "body": "  Ref: 90087PAXUS\nAttn: Beneficiary,\nThis is to notify you that your overdue outstanding funds release is programmed to be released through the Federal Reserve Bank of New York, U.S.A., and you are hereby requested to reconfirm your details as stated below to enable us to immediately release instructions to the banker with the Federal Reserve Bank of New York, USA, to process the funds release of your overdue outstanding payment.\nReconfirmation of the below:\nFull names:\nHome address:\nDirect telephone number:\nAge:\nOccupation:\nDue Amount:\nRegards\nMr. Ken Getz\nDebt Reconcilation Officer\nThe Federal Funds Monitor   "
+    },
+    {
+        "from": "baiter_1739",
+        "to": "scammer_1739",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Ref: 90087PAXUS",
+        "body": "Hello Mr. Ken Getz,\n\nThank you for reaching out to me about this matter. I must say, it's quite surprising to hear about these overdue funds. Could you please provide more information on this? For instance, how did this situation come about and what is the exact amount of the overdue payment?\n\nI'm also curious as to why the Federal Reserve Bank of New York is involved in this process. Is it common for them to handle such matters? \n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nPatricia"
+    }
+]

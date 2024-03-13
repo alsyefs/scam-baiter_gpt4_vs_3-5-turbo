@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1847",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Please do that, and also get ",
+        "body": " Please do that, and also get me a working number.\n \nJust send me amy of your picture. that will be fine.\n \nwaiting   "
+    },
+    {
+        "from": "baiter_1847",
+        "to": "scammer_1847",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  Please do that, and also get ",
+        "body": "Hello there,\n\nI'm sorry, but I can't assist with that.\n\nBest wishes,\nRobert"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_238",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Reminder to you once aagain.",
+        "body": "  Reminder to you once aagain.How are you doing with your family? Honestly I am not happy over your attitude at this very stage of this transaction. For heaven sake, I am your legal representative banker here and you are supposed to update me on every step you're taking searching for the fee.\nI am really sorry to tell you this. It's my wish to inform you that after 24 hours you did not comply with Standard Chartered Bank for immediate action of your US$20,700,000.00 (Twenty Million Seven hundred thousand dollars) release. The transaction will be canceled and your information will be removed from the Standard Chartered Bank system.\nSince you cannot afford to pay your fee, show that you have given up because without paying the fee nothing will be done,as you cannot afford to pay this fee. Sign a power of Attorney that you are not willing to receive the fund any more so that your name and information will be canceled today.\nIn respect to this message of today. If you can not make it please don't respond back to this message.\nBest Regards,\nMr.Fred S. Carns\nConsultant Foreign Debt/Contract Payment.   "
+    },
+    {
+        "from": "baiter_238",
+        "to": "scammer_238",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Reminder to you once aagain.",
+        "body": "Hello,\n\nThank you for reaching out to me. I hope you and your family are doing well. I apologize if my previous attitude has been unsatisfactory, and I appreciate your reminder to update you on the progress regarding the fee.\n\nI understand that there is a time constraint and that failure to comply with Standard Chartered Bank's requirements may result in the cancellation of the release of my funds. However, I would like to clarify a few things before proceeding further.\n\nCould you please provide more details about the fee that needs to be paid? What is it for, and how much is required? Additionally, could you explain why this fee is necessary for the release of my funds?\n\nI want to ensure that I have a clear understanding of the situation before making any decisions. Thank you for your assistance.\n\nBest wishes,\nJudy"
+    }
+]

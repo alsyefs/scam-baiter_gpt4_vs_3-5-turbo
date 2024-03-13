@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1319",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  My name Is Mrs. A. Rosemary ",
+        "body": "  My name Is Mrs. A. Rosemary Johnson, I am a Banker working In the computer section of a Bank. I need your urgent assistance to transfer some funds out of this Bank, the sum amount to $26.6 Million Dollar that has been doormat In our bank for years now. I cannot directly achieve this without the help of a foreigner and that Is why I am contacting you. All documents to enable the smooth release of this fund to you will be carefully worked out and there will be practically no risk involved, this will be executed under a legitimate arrangement that will protect you from any breach of the law as a change of fund ownership certificate In your name will be legally initiated.\nA perfect arrangement Is In place for the release of the fund to you without hitches through Bank transfer. This measure was thought of due to the difficulties In transferring huge funds from one country to another, because of the global fight on illicit movement of funds to sponsor terrorism or the risk of not contacting the ongoing dreaded disease called Covid 19 pandemic and now Omicron. Transferring the fund to you through Bank transfer Is a perfect way or whichever way you wish Is been done In your country.\nNote that all necessary relevant documents for the process of the fund will be taken care of by the both of us. The fund will immediately be transferred into your bank account within a week or two weeks as soon as the document Is done and sent to the appropriate bank department.\nIf you agree to work with me and you are ready to proceed In the process, I want you to state how you wish us to share the funds in percentage, so that both parties will be satisfied. Should you have worries or further questions please ask but If you are not interested or have found this email offensive, please do not reply. For further explanation contact:  \njohnson_m85@aol.com\nRegard,\nMrs. A. Rosemary Johnson.   "
+    },
+    {
+        "from": "baiter_1319",
+        "to": "scammer_1319",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   My name Is Mrs. A. Rosemary ",
+        "body": "Hello Mrs. A. Rosemary Johnson,\n\nThank you for reaching out to me with this opportunity. I must say, it sounds quite intriguing. I appreciate your assurance that there will be no risk involved and that all necessary documents will be taken care of.\n\nBefore we proceed, could you please provide me with more details about the origin of these funds? How did they come to be dormant in your bank for so many years? And what is the source of these funds?\n\nAdditionally, I would like to know more about the legitimate process that will protect me from any breach of the law. Could you explain how this process works and what steps need to be taken?\n\nOnce I have a better understanding of these aspects, we can discuss how we can share the funds in a way that satisfies both parties.\n\nLooking forward to your response.\n\nBest wishes,\nSam"
+    },
+    {
+        "from": "scammer_1319",
+        "to": "baiter_1319",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "I AWAIT YOUR RESPONSE.",
+        "body": "Dear Sam,\r\nHow are you, I hope you are fine. I am writing to you in respect of our ongoing transaction. I have been waiting all this while to receive your mail but you have kept mute and I am really worried and concerned over your silences. I understand why you are reluctant to proceed. I have taken care of every necessary documentation if only you are still willing to receive the funds of $26m in your possession, all you need to do is to send me your complete details, your bank account, and $500 for reactivation of your account to online access, so I can give you all the necessary details to enable you do the transfer of minimum daily withdrawal of $100,000 at your online comfort. I await to hear a final word from you. Yes or No. The funds release ownership is still available for you to receive. Kindly forward the below details to me.\r\n1. Your account number.2. Your full name.3. Your home address.4. Your telephone number.\nRegards,\r\nMrs. A. Rosemary Johnson."
+    },
+    {
+        "from": "baiter_1319",
+        "to": "scammer_1319",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.01494212962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: I AWAIT YOUR RESPONSE.",
+        "body": "Hello Mrs. A. Rosemary Johnson,\n\nThank you for reaching out to me. I appreciate your message regarding the ongoing matter. I understand your concerns and would like to know more about the process of receiving the funds. Could you please provide me with more details on how this transfer would work? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSam"
+    }
+]

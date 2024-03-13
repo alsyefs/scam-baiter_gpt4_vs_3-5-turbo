@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1559",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Good News",
+        "body": "  Good News\nI want to use this opportunity to let you know that you should have done any contract over the world the word word organisation committee is given composition of $US500,000 United State dollars for every abandoned contract payment for have not been paid or anyone have been scammed before to contact his office this is the bank that will pay you your contract payment continue fault so you have to contact this bank Liberty Trust Bank United States of America.\nName:Mr Martins Ivan\nEmail:martinsivan@consultant.com\nMr. Phillips  Edward    "
+    },
+    {
+        "from": "baiter_1559",
+        "to": "scammer_1559",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Good News",
+        "body": "Hello Mr. Phillips Edward,\n\nWow, that sounds like an interesting opportunity! I'm always open to learning more about these kinds of things. Could you please provide me with more details? How does this process work exactly? And how did the world word committee come up with this idea?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nClaire"
+    }
+]

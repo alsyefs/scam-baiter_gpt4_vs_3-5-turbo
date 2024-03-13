@@ -1,0 +1,402 @@
+[
+    {
+        "from": "scammer_226",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Attention: Overdue payment ",
+        "body": "   Attention: Overdue payment claim\nDear Sir\nThis is Dr. Suleiman Barau, from the  central bank of Nigeria.\nMy office has been mandated to open up communication with you so that we can reach a compromise and proceed to release your overdue payment with the bank\nYou are advised to reconfirm your details, your mobile phone, valid ID and your receiving bank details as soon as possible.\nWe received an application from your representative to change your detailed\nNote: we have sent several mails to you but  got no response\nRegards\nDr. Suleiman Barau\nFor :Mgt  "
+    },
+    {
+        "from": "baiter_226",
+        "to": "scammer_226",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    Attention: Overdue payment ",
+        "body": "Dear Dr. Suleiman Barau,\n\nThank you for reaching out to me regarding my overdue payment. I appreciate your assistance in this matter. \n\nI would be happy to provide you with the necessary details to proceed. However, before I do so, could you please clarify which payment you are referring to? I want to make sure we are on the same page.\n\nAdditionally, could you explain why my details need to be reconfirmed? I just want to ensure that everything is in order before proceeding.\n\nBest wishes,\nJohnnie"
+    },
+    {
+        "from": "scammer_226",
+        "to": "baiter_226",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Dear Johnnie\r\nRefrence to your mail response and request.\r\nThe fund is a contract/inheritance fund.\r\nSecondly, the request for confirmation of your details is based on the fact of double application for claim.\r\nIf you read our previous message, someone made application as your respresentaive. But the information provided is conflicting with what we have in the file.\r\n\r\nWe need you ID, mobile phone and mailing address.\r\n\r\nWe shall be sending to you a true beneficiary form issued by the federal ministry of justice via the federal high court of Nigeria.\nThanks\r\nDr. Suleiman Barau"
+    },
+    {
+        "from": "baiter_226",
+        "to": "scammer_226",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0001388888888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Dear Dr. Suleiman Barau,\n\nThank you for your response and providing me with more information about the fund. I understand that it is a contract fund, but could you please clarify what exactly the contract is for? I want to make sure I have a clear understanding of the situation.\n\nRegarding the request for my details, I appreciate your explanation about the need for verification due to a potential double claim. However, I am a bit cautious about sharing personal information online. Is there any other way we can proceed with the verification process without disclosing sensitive details?\n\nI look forward to your response.\n\nBest wishes,\nJohnnie"
+    },
+    {
+        "from": "scammer_226",
+        "to": "baiter_226",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0023148148148148147,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "The contract fund came from NNPC\r\nAnd email or whatsapp is the options that is much secure for transmission of vital message like you said.\r\nDr. Suleiman Barau"
+    },
+    {
+        "from": "baiter_226",
+        "to": "scammer_226",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.003263888888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Hello Dr. Suleiman Barau,\n\nThank you for reaching out to me. I appreciate your suggestion of using email or WhatsApp for secure communication. Could you please provide me with more details about the contract fund that came from NNPC? I'm interested in learning more about it.\n\nWhat is the purpose of this contract fund and how did it come about? Are there any specific requirements or steps that need to be taken in order to access or utilize the funds? I would appreciate any additional information you can provide.\n\nThank you again for contacting me, and I look forward to hearing back from you soon.\n\nBest wishes,\nJohnnie"
+    },
+    {
+        "from": "scammer_226",
+        "to": "baiter_226",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.01707175925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Dear Johnnie\r\nThe contract from nnpc was carried out years back.\r\nThe contract was for the installation of underground pipe through offshore rig.\r\nThe contract was completely executed by the contractor. But during the award of the contract, the sum of the contract was over invoiced to the sum of  $24.5 million above the real sum.\r\n\r\nNow the over invoiced sum cannot be claimed without a foreign partner who will stand in as a subcontractor to receive the $24.5 m.\r\n\r\nTo receive this fund, you will provide the needed information,\r\nWe are going to need the service of an attorney from here who will facilitate the documentation with various agencies in the government.\r\n\r\nWe shall jointly pay the documentation process.\r\nWe have the documents already, but we need to do change of ownership to your name.\r\nSecure power of attorney in your favour. Then renew some of the expired documents.\nThanks\r\nDr. Suleiman Barau"
+    },
+    {
+        "from": "baiter_226",
+        "to": "scammer_226",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0175,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Dear Dr. Suleiman Barau,\n\nThank you for reaching out to me with this information about the contract from nnpc. It sounds like quite a complex situation. I'm curious to learn more about how I can assist you as a foreign partner.\n\nCould you please provide me with some additional details? Specifically, I would like to know what my role would be in receiving the over invoiced sum and how the attorney's involvement is necessary. Additionally, if there are any potential risks or challenges involved, it would be helpful to have a better understanding of those as well.\n\nLooking forward to your response.\n\nBest wishes,\nJohnnie"
+    },
+    {
+        "from": "scammer_226",
+        "to": "baiter_226",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.020196759259259258,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Dear\r\nYour role, will be to partner, in the payment of documents renewal, attorney fee.\r\nYes, the attorney is needed because I am not one. He will be the one to do the run around.\r\n\r\nThe transaction is 100% risk free.\r\nAnd we shall share tye proceed 50-50\nThanks"
+    },
+    {
+        "from": "baiter_226",
+        "to": "scammer_226",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.020289351851851854,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Dear,\n\nThank you for reaching out to me. I appreciate your offer to partner in the payment of documents renewal and attorney fees. Could you please provide more details about the specific documents that need to be renewed? Additionally, I would like to understand why an attorney is necessary for this process.\n\nI am interested in learning more about how this partnership works and what the potential benefits are. Could you please explain further how we would share the proceeds? It's important for me to have a clear understanding of the arrangement before moving forward.\n\nThank you again for considering me as a partner. I look forward to hearing back from you with more information.\n\nBest wishes,\nJohnnie"
+    },
+    {
+        "from": "scammer_226",
+        "to": "baiter_226",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.031828703703703706,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Dear\r\nThere are 8 documents in the file from the awarding contract to  job completion.\r\nAnd the documents are classified.\r\nAgain, I am not an attorney, there is division of Labour.\r\n\r\nWe are sharing 50% to you and 50% to me.\r\nAnd you can draw an MOU if you wish. Once the money is moved into your account, I will provide an offshore account where you will remit mine or I will come over in person\nThanks\r\nDr. Suleiman Barau"
+    },
+    {
+        "from": "baiter_226",
+        "to": "scammer_226",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03215277777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Dear Dr. Suleiman Barau,\n\nThank you for reaching out to me and sharing this information about the documents related to awarding contracts and job opportunities. I appreciate your willingness to share with me.\n\nCould you please provide more details about the specific contracts and job opportunities mentioned in the documents? I would like to understand better what they entail.\n\nAdditionally, could you explain what you mean by drawing an MOU (Memorandum of Understanding)? How would that be relevant in this situation?\n\nRegarding the money transfer, can you clarify why it needs to be moved into my account first before providing an offshore account for remittance? What is the purpose of this process?\n\nI look forward to hearing back from you with more information.\n\nBest wishes,\nJohnnie"
+    },
+    {
+        "from": "scammer_226",
+        "to": "baiter_226",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.03613425925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "I said job completion, not job opportunity\r\nThe MOU, specifically center on the sharing, and readiness to remit mine once you receive it.\r\n\r\nAs as nigerian, the fund cannot be remitted directly into my account, my name and address. It will not be approved.\r\nIf it were possible, I won't look for your partnership."
+    },
+    {
+        "from": "baiter_226",
+        "to": "scammer_226",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03626157407407407,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Hello there! Thank you for reaching out to me. I appreciate your willingness to share information with me. Could you please provide more details about the MOU and what it entails? I'm curious to learn more about it.\n\nBest wishes,\nJohnnie"
+    },
+    {
+        "from": "scammer_226",
+        "to": "baiter_226",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.03707175925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "A promise that you will remit my share of the proceed nothing more"
+    },
+    {
+        "from": "baiter_226",
+        "to": "scammer_226",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03763888888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate your offer, but I would like to know more details before proceeding. Could you please provide me with some additional information about the opportunity you are referring to? What exactly is the proceed that you mentioned?\n\nI'm interested in learning more about how this works and what my role would be. Can you explain the process and any potential risks involved? It's important for me to have a clear understanding before making any decisions.\n\nLooking forward to hearing back from you.\n\nBest wishes,\nJohnnie"
+    },
+    {
+        "from": "scammer_226",
+        "to": "baiter_226",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.04038194444444444,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Johnnie\r\nAm not here for jokes.  If you are not going ahead we call it off.\r\nI am done with the explanation"
+    },
+    {
+        "from": "baiter_226",
+        "to": "scammer_226",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.04068287037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Hello Johnnie,\n\nI apologize if my previous message came across as a joke. I assure you that I am serious and interested in hearing what you have to share. Could you please provide more details about what you would like to discuss?\n\nBest wishes,\nJohnnie"
+    },
+    {
+        "from": "scammer_226",
+        "to": "baiter_226",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.04259259259259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "If there is anything you did not understand, you check through my previous message. I have said it all."
+    },
+    {
+        "from": "baiter_226",
+        "to": "scammer_226",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.043020833333333335,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "19",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Hello! Thank you for reaching out. I appreciate your message, but could you please provide me with more information about what you would like to share? I want to make sure I understand everything clearly before we proceed.\n\nBest wishes,\nJohnnie"
+    },
+    {
+        "from": "scammer_226",
+        "to": "baiter_226",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.05056712962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "20",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Send your details.\r\nThe money we realize will be shared 50 50"
+    },
+    {
+        "from": "baiter_226",
+        "to": "scammer_226",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.05108796296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "21",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Hello there! Thank you for reaching out. I'm interested in learning more about the opportunity you mentioned. Could you please provide me with some additional details? How exactly does the sharing of money work?\n\nBest wishes,\nJohnnie"
+    },
+    {
+        "from": "scammer_226",
+        "to": "baiter_226",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.053668981481481484,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "22",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "You take half of the money I take half this is my last message"
+    },
+    {
+        "from": "baiter_226",
+        "to": "scammer_226",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.05400462962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "23",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Hello there! Thank you for reaching out. I'm curious to know more about what you're referring to when you mention taking half of the money. Could you please provide some additional details? I'm here to listen and learn.\n\nBest wishes,\nJohnnie"
+    },
+    {
+        "from": "scammer_226",
+        "to": "baiter_226",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.05675925925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "24",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Stop fooling your self. You know what you are doing. I dont like wasted journey."
+    },
+    {
+        "from": "scammer_226",
+        "to": "baiter_226",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.2828935185185186,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "25",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Read my previous mails to you, you will understand"
+    },
+    {
+        "from": "baiter_226",
+        "to": "scammer_226",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.638136574074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "26",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Hello,\n\nThank you for reaching out to me again. I apologize if I missed any previous emails from you. Could you please remind me of the topic or information you would like to share? I'm here to listen and learn.\n\nBest wishes,\nJohnnie"
+    },
+    {
+        "from": "baiter_226",
+        "to": "scammer_226",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.576805555555556,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "27",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Hello there! I hope you're having a great day. I understand that you may have some concerns, but I assure you that I'm not here to fool anyone or waste anyone's time. In fact, I'm here to share some interesting information with you. If you're open to it, I'd be happy to continue the conversation and address any questions or doubts you may have. Let's keep the dialogue going!\n\nBest wishes,\nJohnnie"
+    },
+    {
+        "from": "scammer_226",
+        "to": "baiter_226",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.0271875,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "28",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "I am not dialoguing with you . If you are interested you follow my instructions, pay the fee then we move on. I dont like repeating myself"
+    },
+    {
+        "from": "baiter_226",
+        "to": "scammer_226",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.034328703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "29",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Hello! Thank you for reaching out. I'm definitely interested in learning more about what you have to offer. Could you please provide me with some additional information about the fee and how it relates to the opportunity? I just want to make sure I fully understand before moving forward.\n\nBest wishes,\nJohnnie"
+    },
+    {
+        "from": "scammer_226",
+        "to": "baiter_226",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.050532407407408,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "30",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "The fee is $1,900. It's court affidavit fee.\r\nThe documents available in the file have expired and need to be renewed.\r\nOnce this is done, we start the processing"
+    },
+    {
+        "from": "baiter_226",
+        "to": "scammer_226",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.054861111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "31",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Hello! Thank you for reaching out to me. I appreciate the information you provided about the court affidavit fee and the need to renew some documents. Could you please tell me more about the processing that will take place once everything is renewed? I'm curious to learn more about it.\n\nBest wishes,\nJohnnie"
+    },
+    {
+        "from": "scammer_226",
+        "to": "baiter_226",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.063194444444444,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "32",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "After you send the fee, I take it to court, do the affidavit. Renew the documents.\r\nThen court gives approval, and  we move over everything to the bank. Bank will then transfer to your desigbatedx Cvx is"
+    },
+    {
+        "from": "baiter_226",
+        "to": "scammer_226",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.076805555555556,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "33",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Hello! Thank you for reaching out and sharing this information with me. I appreciate your guidance on what steps to take after sending the fee. Could you please provide me with more details about the court process? How long does it usually take for the court to give approval? And once everything is transferred to the bank, how long does it typically take for the funds to be transferred to my Cvx account?\n\nBest wishes,\nJohnnie"
+    },
+    {
+        "from": "scammer_226",
+        "to": "baiter_226",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.116875,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "34",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Court process, 72 hours, which is 3 days.\r\n\r\nThe bank process, 4 to 5 working days to your account"
+    },
+    {
+        "from": "baiter_226",
+        "to": "scammer_226",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.1176967592592595,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "35",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Hello! Thank you for sharing this information. Could you please provide me with more details about the court process? I'm curious to know what it entails and how long it usually takes. Additionally, could you explain the bank process in more detail? I'd like to understand how many working days it typically takes for funds to be transferred into an account.\n\nBest wishes,\nJohnnie"
+    },
+    {
+        "from": "scammer_226",
+        "to": "baiter_226",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.1261226851851855,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "36",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "You have started again. This is final.\r\n\r\nCourt process takes 3 working days from the date of filling the application.\r\nBank international transfer, takes minimum of 3 working days to reflect on the recipients account.\r\n\r\nNo more questions."
+    },
+    {
+        "from": "baiter_226",
+        "to": "scammer_226",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.137731481481482,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "37",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Hello there! Thank you for reaching out to me again. I appreciate your willingness to share information with me. I understand that court processes can take some time, and bank transfers may also have their own processing period. Can you please provide me with more details about the specific court process or bank transfer you are referring to? I'm curious to learn more about it.\n\nBest wishes,\nJohnnie"
+    },
+    {
+        "from": "scammer_226",
+        "to": "baiter_226",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.1597685185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "38",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Thanks, am done. Stop your folly"
+    },
+    {
+        "from": "baiter_226",
+        "to": "scammer_226",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.179351851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "39",
+        "subject": "Re:    Attention: Overdue payment",
+        "body": "Hello! Thank you for reaching out. I'm always open to learning new things and sharing information. What would you like to talk about?\n\nBest wishes,\nJohnnie"
+    }
+]

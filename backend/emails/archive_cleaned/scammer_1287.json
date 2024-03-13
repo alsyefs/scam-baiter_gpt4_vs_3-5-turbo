@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1287",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Email:  ",
+        "body": "Email:  \njoetunner44@gmail.com\nWhatsApp: +447466195045\n \nSorry for intruding on your privacy without prior notice.\nMy name is Joe Turner, a staff of Standard Chartered Bank, London. As an account Officer, I am privy to the particulars of an esteemed customer who died intestate (without Will).\nHaving expected his next of kin or relatives to come forward and claim his funds in line with our banking rules and ethical guidelines on inheritance claim without success, I want you therefore to come in as the Next Of Kin to the deceased. Please, note that all needed cooperation to make the claims feasible will be given to you by me officially.\nUpon the successful claim and transfer of the INHERITANCE into your nominated bank account, it will be shared in an agreed percentage between the two of us.\n \nPlease, indicate your readiness and willingness by contacting me through my private email address or WhatsApp number above for confidential information and modalities.\nThanks,\nJoe Turner."
+    },
+    {
+        "from": "baiter_1287",
+        "to": "scammer_1287",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Email:  ",
+        "body": "Hello Joe Turner,\n\nThank you for reaching out to me. I'm sorry to hear about the loss of your esteemed customer. It's always sad when someone passes away without their affairs in order.\n\nI'm a bit surprised that you've contacted me about this matter, though. How did you come across my contact information? And why do you believe I could be the next of kin to the deceased?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMarilyn"
+    }
+]

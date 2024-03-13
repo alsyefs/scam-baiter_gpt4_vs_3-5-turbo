@@ -1,0 +1,52 @@
+[
+    {
+        "from": "scammer_86",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello,",
+        "body": "  Hello,\nBased on a series of petitions we received from various organizations such as Corporate Bodies and Non-Governmental Organization (NGO) on the Inability of some Government officials, Commercial banks and World Lottery Organization to settle their clients Contract debt, Inheritance and Winning Prizes. We have been authorized by the Debt Reconciliation Unit of this institution (United Nations), to investigate the unnecessary delay on the payment approved in your favor. During the course of our investigation, we discovered with dismay that your payment has been unnecessarily delayed by corrupt officials of the Bank who are trying to divert your funds into their personal accounts.\nAs you are well aware many foreigners have invested thousands of United States Dollars into Nigeria and in many parts of the world transactions in Hopeless Dreams to have none of them become a reality. Your file is one of the approved legitimate beneficiaries to receive a grant of US$150,000.00 (One Hundred and Fifty Thousand United States Dollars) Only, as directed by the United Nations Secretary General Mr. Antonio Guterres, We have agreed with the African, European, Asian and American Government that US$150,000.00 (One Hundred and Fifty Thousand United States Dollars) Only would be paid to you as grant Via special arrangement as first installment. This is to enable you to have enough funds to pay for the Tax Clearance and bank charges before you will receive the balance of your funds.\nYour immediate reply with your correct and valid details is highly needed to avoid cancellation of your grant.\nRegards,\nMr. Patrick David Kanja.   "
+    },
+    {
+        "from": "baiter_86",
+        "to": "scammer_86",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello,",
+        "body": "Hello Mr. Patrick David Kanja,\n\nThank you for reaching out to me with this information. I appreciate your efforts in helping resolve the delay in my payment. It is unfortunate to hear about the corrupt officials trying to divert funds, but I'm glad that you are here to assist.\n\nCould you please provide me with more details about the grant? How was I selected for this opportunity? Also, what is the process for receiving the grant and paying the necessary tax clearance and bank charges?\n\nI look forward to your response.\n\nBest wishes,\nHenry"
+    },
+    {
+        "from": "scammer_86",
+        "to": "baiter_86",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re:   Hello,",
+        "body": "Hello Henry,\r\n\r\nAll you need to now is to provide the following information's:\r\n\r\nFull Name:\r\nAddress:\r\nPhone Number:\r\nUtility Bill:\r\nA copy of your ID:\r\n\r\nI'm waiting for your response with the needed information.\nRegards,\r\nMr. Patrick David Kanja,\r\nUnder-Secretary-General,\r\nFor Operational Support and Grant"
+    },
+    {
+        "from": "baiter_86",
+        "to": "scammer_86",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.007638888888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re:   Hello,",
+        "body": "Hello Mr. Patrick David Kanja,\n\nThank you for reaching out to me. I'm interested in learning more about the information you mentioned. Could you please provide me with some details on what exactly I need to do and what kind of support and grant you are offering?\n\nI appreciate your time and look forward to hearing back from you.\n\nBest wishes,\nHenry"
+    },
+    {
+        "from": "baiter_86",
+        "to": "scammer_86",
+        "direction": "Outbound",
+        "days_from_first_conversation": 22.88533564814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re:   Hello,",
+        "body": "Hello Mr. Patrick David Kanja,\nThank you for reaching out. I'd be happy to provide the information needed. Could you please specify what exactly you are looking for?\n\nBest wishes,\nHenry"
+    }
+]

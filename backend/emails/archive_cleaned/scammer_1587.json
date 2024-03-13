@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1587",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Friend .",
+        "body": "  Dear Friend .\nThank you for this privileged to communicate to you as regards\nfinancial investment offer to invest in mining,or exotic properties\nfor commercial/residential and development\nproperties,hotels and any other viable opportunities you deem\nlucrative based on your recommend will be highly welcomed. please,\nSend your expression of interest .\nSincerely,\nMele Kyari.   "
+    },
+    {
+        "from": "baiter_1587",
+        "to": "scammer_1587",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Friend .",
+        "body": "Dear Mele Kyari,\n\nThank you for reaching out to me with this investment opportunity. I'm always interested in exploring new possibilities, especially when it comes to financial investments. Could you please provide me with more details about the exotic properties you mentioned? What kind of commercial opportunities are available, and what makes them lucrative?\n\nI appreciate your time and look forward to hearing back from you.\n\nBest wishes,\nMichael"
+    }
+]

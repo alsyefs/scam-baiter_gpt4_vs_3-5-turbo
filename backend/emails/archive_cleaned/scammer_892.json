@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_892",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dr. FRANCISCO C AMAGOS & CO LA",
+        "body": "Dr. FRANCISCO C AMAGOS & CO LAW FIRM\nCastellon de la Palna 20, 28006 Madrid, Spain.\nTel: +34625659797\nEmail: \ndrfranciscocameleoamagos@gmail.com\nReference number: AUK2023-004/ESP 08/01/2024\nAttention:  Beneficiary,\nWe are pleased to inform you about the result of the just concluded International Lottery Commission Summer Jackpot draws that your name was among the 10 lucky winners who won 2,250,000.00 Euros. (Two million, Two Hundred and Fifty Thousand Euros) each in the Christmas draw of the International Lottery Commission, which took place on November 21, 2023. Your name is attached to the lottery number: 283-11775738-103, serial number: 2113-06, reference number: AUK2023-004/ESP, lucky number: 4. attached: -13-21-27-36-38, bonus ball (45) that won in this third category,\nYour prize money has been deposited with our internationally accredited security company (REALE FINANCE S.A.) in Barcelona, Spain, and duly insured in your name.\nTo avoid complications, please keep all details about your prize money secret. To begin the claims process, please contact the International Claims Agent: Dr. Francisco C. Amagos from DR. Francisco C. AMAGOS & Co. Law Firm Tel: +34625659797.Email:  \ndrfranciscocameleoamagos@gmail.com\nPlease complete and return the official claim processing form so that your escrow agent can take further steps to process and release your winning funds.\nPLEASE COMPLETE THIS FORM AND RETURN THE FULL COPY TO THE EMAIL ADDRESSED ABOVE.\nFIRST NAME:------------------------------------------------ --------- \nLAST NAME:--------------------------------- \nDATE OF BIRTH:---- --------------------------------------\nTELEPHONE NO.:--------------------------------- \nCELL PHONE:------------ ------------------------- \nFAX:---------------------- ----- \nWINNING AMOUNT:------------------------------\nSTREET NAME:------------------------------------------------ ----------------------------------------- \nHOUSE NUMBER:------- -----------------------------------------------\nPostal Code/City: ------------------ ----------- \nCOUNTRY:-------------------------------- \nREFERENCE NUMBER:----- -------------------------------\nBATCH NUMBER:------------ ---------------------------------- --------------- \nEMAIL:--------------------------------- --------- ---------------------------------------\nSincerely,\nDr. Francisco Cameleo Amagos\nDr. FRANCISCO C AMAGOS & CO LAW FIRM"
+    },
+    {
+        "from": "baiter_892",
+        "to": "scammer_892",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dr. FRANCISCO C AMAGOS & CO LA",
+        "body": "Dear Dr. Francisco Cameleo Agos,\n\nThank you for reaching out to me and providing this exciting information about the Lottery Commission Summer Jackpot draws. Winning Two Million, Two Hundred and Fifty Thousand Euros sounds incredible!\n\nI appreciate your concern about keeping the details of my prize money secret. It's important to ensure the safety and security of such a significant amount. Could you please provide more information about the official claim processing form? What kind of details would be required on the form?\n\nAlso, I noticed that you mentioned contacting the Claims Agent, Dr. Francisco C. Agos from DR. Francisco C. AGOS Co. Law Firm. Could you please share their contact information so that I can get in touch with them regarding the claims process?\n\nThank you once again for this opportunity, and I look forward to your response.\n\nBest wishes,\nGretchen"
+    }
+]

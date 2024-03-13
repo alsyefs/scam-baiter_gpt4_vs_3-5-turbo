@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1444",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "From the Central Bank Of Niger",
+        "body": "From the Central Bank Of Nigeria.\nDirector,Foreign Payments Department.\nCBN.\nAttn: Sir/Madam,\n                          RE-2023 CHANGE OF ACCOUNT.\nWith regards to your outstanding payment, It may interest you to know that my name is Mr.Lambert Uche,Director,Central Bank of Nigeria,in charge of the approved funds.I was appointed by the newly elected President of the Federal Republic of Nigeria and the Senate President to pay/transact the funds in this second quarter paying period of the fiscal year 2023.You may know that these funds has been pending & overdue for payments and I am to ensure that debts owed to all foreign beneficiaries from contract/inheritance/lottery winnings are completely paid in this last quarter paying period of the fiscal year 2023.\nAt the same time,we have therefore discovered that a new bank account has been submitted to my Department to divert your payment to a German bank as stated below:\nBank name :Bank of America\nBank address:1 Perimeter Center\nWest Atlanta Ga 30346\nAccount name: RAJITEC LLC\nAccount Number: 335070517622\nRouting Number : 026009593\nSwift Code : BOFAUS6S\nThe new account was submitted with a letter stating that you're dead,that you died of Covid-19, and have directed the new beneficiary to claim your fund as valued at $5.5Million. You are therefore required to urgently confirm if this development is true and has your authority to claim the approved funds from the apex bank of Nigeria. All arrangements to effect payment to the above new bank account have been completed, but are kept pending until we hear from you on the subject matter.\nRespond immediately with your full details, so that all perceived anomalies will be corrected, to ensure that we do not release your fund to the wrong persons.\nSincerely,\nMr.Lambert Uche.\nDirector,\nBanking & Payment System\nCentral Bank of Nigeria.\nDID YOU INSTRUCT WILLIAM BROOKMAN TO CLAIM THE FUNDS?"
+    },
+    {
+        "from": "baiter_1444",
+        "to": "scammer_1444",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: From the Central Bank Of Niger",
+        "body": "Hello Uche,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I had no idea about any funds pending in my name. \n\nAs for your question, I don't recall giving any instructions to a William Brookman to claim funds on my behalf. Could you please provide more details about this situation? How did this come about?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nJames"
+    }
+]

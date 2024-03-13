@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1721",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  J.P. Morgan Chase Bank of Ne",
+        "body": "  J.P. Morgan Chase Bank of New York\n270 Park Avenue, 39th Floor,\nWebside: /www.jpmorgan..com / wss\nhttps:/ /chaseonline.chase.com/\nAttn: Beneficiary,\nI write to inform you that today is Friday, March 08, 2024. To re-inform you, it’s indeed great news that the Federal Executive Council of the United States of America, in collaboration with JP Morgan Chase Bank, will compensate you with the sum of US$10.5 million (ten million five hundred thousand USD) after discovering you are a victim of scams by some impostors who claim to be what they are not, and we have mounted our network motoring code to track them down with such acts here in the United States and other countries.\nNote: This decision was taken by the Federal Executive Council of the United States of America in collaboration with JP Morgan Chase Bank to enable you to reach out with the goal and objective of the Charitable Organization Union in your communities. And we don’t know how much you were scammed years ago in trying to receive your contract or inheritance payment, but we believe the stated amount of $7.5 million (seven million five hundred thousand USD) will put you in a position to forget your past and continue your future without participating in such a scandal again. And for us to finalize your approved payment with us, you will have to re-confirm the information below to us after reading this email for a quick processing of your payment.\n1) Your full name\n2) Your direct telephone number\nYour complete address\n4) A Copy of Your Identification I.D.\n5) Occupation and Position\nUpon receipt of the above information from you, I will switch into action with further instructions on your payment without any further delay. So be advised that your maximum cooperation with this office will help us release your funds to you.\nYours Sincerely\nMr. James Dimon.\nAccount Chief Executive Officer,\nMember of the Operating Committee of JP Morgan   "
+    },
+    {
+        "from": "baiter_1721",
+        "to": "scammer_1721",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   J.P. Morgan Chase Bank of Ne",
+        "body": "Hello Mr. James Dimon,\n\nWow, this is indeed great news! I can't believe my luck. It's not every day that one gets to hear about such a generous compensation. I'm really grateful for your efforts in tracking down those impostors.\n\nI do have a few questions though, if you don't mind me asking. How was my name selected for this compensation? And how did these impostors manage to scam people like me? Also, could you please explain the process of receiving this compensation?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDenise"
+    }
+]

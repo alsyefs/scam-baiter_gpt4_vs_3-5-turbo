@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2247",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Sir/Madam",
+        "body": "  Sir/Madam\nI am John Kenneth Rowsthorne,I am a top Government official here in Australia,I have a very sensitive and private interest in investment outside Australia in this regards I hereby ask for your partnership to re-profile funds over $85,000,000.00(Eighty Five Million United State Dollars Only)I will give the details, but in summary, the fund is deposited with ST GEORGE BANK here in Australia where I have a considerable stake. Presently I have established a profiling channel through ST GEORGE BANK Australia.\nI need to present You/your Company as an Investment management to undertake and complete this re-profiling job. This is a legitimate transaction. I propose that you will be paid 20% of this fund for your proposed “ Investment management invoiced charges”, for your assistance to re-profile these funds appropriately, if I am able to reach terms with you.\nIf you are willing to render this assistance quietly,please write back by email and provide me with your confidential telephone number, email address and corporate profile and I will provide further details.Please keep this close to your chest as much as possible,I cannot afford any political problems with the Australian Government. Whatever your decision, Write me back. I look forward to it.\nView the attached file in this message and get back to me urgently if you are intersted.\nPlease Kindly reach me on the email id below.\nRegards,\nMr.John Kenneth Rowsthorne\nE-mail:rowsthornejohnkenneth@gmail.com   "
+    },
+    {
+        "from": "baiter_2247",
+        "to": "scammer_2247",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Sir/Madam",
+        "body": "Hello Kenneth Rowsthorne,\n\nThank you for reaching out and considering me for this opportunity. It's quite an interesting proposal you have there, involving such a large sum of money. I'm curious to know more about it.\n\nCould you please elaborate on the nature of the investment that you're planning? Also, what kind of assistance exactly are you expecting from my end?\n\nI would also like to understand how the funds will be transferred and managed. Could you provide some details on that as well?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nLydia"
+    },
+    {
+        "from": "scammer_2247",
+        "to": "baiter_2247",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Sir/Madam",
+        "body": "Dear Lydia\r\n\r\nThank you for the response and I will like to know more about you and your\r\ncountry very soon.\r\n\nSincerely\r\nJohn Kenneth"
+    },
+    {
+        "from": "baiter_2247",
+        "to": "scammer_2247",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.02494212962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Sir/Madam",
+        "body": "Hello Lydia,\n\nThank you for your response! I'm really interested in learning more about you and your country. Could you tell me more about the culture, traditions, and what daily life is like over there? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLydia"
+    }
+]

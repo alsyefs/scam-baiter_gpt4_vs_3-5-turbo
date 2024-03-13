@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1126",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attn: ",
+        "body": "  Attn: \nWe request for the following informations stated below\nID.\nOccupation\nDate of Birth\nCountry of Origin\nNext of Kin\nBank Address\nFind attached part of the filled forms which all have been forwarded to IRS Office for evaluation. Admin department of this bank will be contacting you upon the receipt of the requested informations and also update you on how your bank to bank transfer will commence.\nThanks for your cooperation.\nSincerely,\nCelia Guerra\nMD, QueensTown Trust Credit Union\nMaryland, 26710 USA\nStrictly reply to this email: \ninfo@queenstowntcu.com\n "
+    },
+    {
+        "from": "baiter_1126",
+        "to": "scammer_1126",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attn: ",
+        "body": "Hello Celia Guerra,\n\nThank you for reaching out to me. I appreciate your willingness to share information. However, I have a few questions before I proceed with providing the requested details.\n\n1. May I know the purpose of requesting my ID, occupation, date of birth, country of origin, and next of kin?\n2. Could you please explain why my bank address is needed for this process?\n3. Can you provide more information about the IRS Office and its role in this bank transfer?\n\nI look forward to your response.\n\nBest wishes,\nArmand"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "from": "scammer_1406",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  I Am Kelvin Barry from Turke",
+        "body": "  I Am Kelvin Barry from Turkey, work with the N P O G C ( National Petroleum Oil And Gas corporation) and I have total of $3,000,000.00 ( UNITED STATE DOLLARS THREE MILLION DOLLARS ) that is still outstanding since 2015 and all necessary confirmations has been made by my committee and we have decided to search for another person that will assist us so that we can agree with the person to enable us pay the sum of $3,000,000.00 ( UNITED STATE DOLLARS THREE MILLION DOLLARS ) to his or her account or any Bank Account he will provide to us.Hence our Contact to you.\nAs a matter of fact, there is no atom of risk involved in this payment exercise. If you are interested to receive this funds, please indicate by\nresponding to this mail.( \nkelvin_barry22@yahoo.com\n )\nOur committee has agreed to share this $3,000,000.00 ( UNITED STATE DOLLARS THREE MILLION DOLLARS  ) with you at the ratio of 60:40. 60% for us and 40% for you as our foreign partner.\nIf you have any questions to ask, please feel free to do so.\nThanks for your anticipated cooperation,\nYours Sincerely,\nDr  Kelvin Barry   "
+    },
+    {
+        "from": "baiter_1406",
+        "to": "scammer_1406",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   I Am Kelvin Barry from Turke",
+        "body": "Hello Kelvin Barry, thank you for reaching out to me with this opportunity. I am interested in learning more about how I can assist with the transfer of the funds. Could you please provide me with more details on the process and what would be required from my end?\n\nBest wishes,\nLorraine"
+    },
+    {
+        "from": "scammer_1406",
+        "to": "baiter_1406",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re:   I Am Kelvin Barry from Turke",
+        "body": "Please fill and send back for immediate processing. \n\nFULL NAMES OF BENEFICIARY…………………………………………………………………………… \n\nNEXT OF KIN TO BENEFICIARY……………………………………………………………..…… \n\nADDRESS OF BENEFICIARY………………………………………………………………………. \n\nDATE OF BIRTH OF BENEFICIARY………………………………………………………………. \n\nOCCUPATION OF BENEFICIARY…………………………………………………………………. \n\nBENEFICIARY TEL…………………………………………………………………………………… \n\nBENEFICIARY MOBILE NUMBERS…………………………………………………………………………………. \n\nBENEFICIARY FAX…………………………………………………….…………………………….. \n\nBENEFICIARY BANK NAME / ADDRESS……………………………………….…………………......... \n\nBANK TEL……………………………………………………………………………………………… \n\nBANK FAX………………………………………………………………………………...……………. \n\nACCOUNT NUMBER………………………………………………………...………………………. \n\nSWIFT CODE…………………………………………………………………………"
+    },
+    {
+        "from": "baiter_1406",
+        "to": "scammer_1406",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.012835648148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re:   I Am Kelvin Barry from Turke",
+        "body": "Hello! Thank you for sharing this information. Could you please provide more details about why this information is needed and how it will be used? I want to make sure everything is clear before proceeding.\n\nBest wishes,\nLorraine"
+    },
+    {
+        "from": "baiter_1406",
+        "to": "scammer_1406",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.05246527777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re:   I Am Kelvin Barry from Turke",
+        "body": "Hello! Thank you for sharing this information. Could you please provide more details on why this information is needed and how it will be used? I want to make sure everything is clear before proceeding.\n\nBest wishes,\nLorraine"
+    },
+    {
+        "from": "baiter_1406",
+        "to": "scammer_1406",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.13663194444444443,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re:   I Am Kelvin Barry from Turke",
+        "body": "Hello! Thank you for sharing this information. Can you please provide more details about why this information is needed and how it will be used? I want to make sure everything is clear before proceeding.\n\nBest wishes,\nLorraine"
+    },
+    {
+        "from": "baiter_1406",
+        "to": "scammer_1406",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.468935185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re:   I Am Kelvin Barry from Turke",
+        "body": "Hello! Thank you for sharing this information with me. Could you please provide more details on why this information is needed and how it will be used? I want to make sure everything is clear before proceeding.\n\nBest wishes,\nLorraine"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_302",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "    Attn:  Beneficiary,",
+        "body": "    Attn:  Beneficiary,\nWe hereby confirm the receipt of the sum of US$10,500,000.00 dollars only, into our official ESCROW account with the  Banco Progreso Madrid Spain. This is in line with the order from the African Development Bank (ADB) in charge of Foreign Debt Recovery Committee on Overdue Contract / Inheritance payments in Africa/Europe/Asia and America, as indicated in our database.\nKindly provide us with the below information by email attachment, to reconfirm your details in our database for immediate remittance into your designated account;\nBank name:...................\nBank Address:......\nBeneficiary Name:...............\nAccount Number:......\nBeneficiary Address:....\nSwift Code:.................\nWe sincerely apologize for the delays and advise you to STOP any further communication with your associate in any of the African/European/Asian countries for they contributed 100% hindrances to the release of your funds. Our final fund release order will be forwarded to our operational paying bank in Europe (Banco Progreso Madrid Spain ), for immediate transfer of your allocation into your designated account upon receipt and official re-confirmation of your information in our database.\nThe Fund will be retrieved to the treasury after ten (10) business days of this notice.\n \nYours Service,\nJames Williams\nTREASURY CONTROLLER\nForeign Operation Dept/Treasury   "
+    },
+    {
+        "from": "baiter_302",
+        "to": "scammer_302",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:     Attn:  Beneficiary,",
+        "body": "Hello James Williams,\n\nThank you for your email. It's quite interesting to hear about the fund transfer from Banco Progreso Madrid Spain. I'm curious, how does this process usually work? \n\nAlso, could you please clarify what you mean by \"STOP any further with your associate in any of the African European Asian countries\"? I'm not sure I fully understand.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nGuy"
+    }
+]

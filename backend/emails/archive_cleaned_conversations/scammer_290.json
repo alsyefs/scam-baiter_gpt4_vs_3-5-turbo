@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_290",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention: Beneficiary:",
+        "body": "Attention: Beneficiary:\nThis is to let you know that we have received an instruction from the\nMinistry of Finance by orders of the His Excellency, Republic of Benin\nto release your payment. My heart has been troubled ever since I lost\ncontact with you.\nAlternatively, I have sent you a lot of email and also called you\nseveral times before traveling out from the office to Saudi Arabia for\na business transactions have not been happy because my heart has not\nbeen at peace because your fund has been troubling me, and I came back\njust some few weeks ago and when I asked about your payment case, I\nwas informed that your compensation fund has not yet been completed\nand paid out.\nPerhaps, your fund has been wired into an ATM CARD but due to the\ndelay in the process of delivering your ATM CARD, the process was\ncanceled and now your fund has been withdrawn and ready to be wired to\nyou in cash. But orders came from His Excellency President Patric\nTalon he instructed us to send your fund valued $1.6 Million USD\nthrough a CLARIFIED AND CERTIFIED BANK DRAFT CHEQUE which will be\nposted as a letter to your home address immediately you send us your\ninformation now.\nFurthermore, \nthis mode of payment will also be safe and easy for you\nto receive your fund because no one is going to come and deliver the\nCHEQUE to you and no one is going to ask you for any money anymore.\nBut the only fee required by the DIAMOND BANK is just the BANK\nACTIVATION APPROVAL OF THE CHEQUE which is $75. only and this payment\nis the only money you will have to pay to receive this cheque, and as\nsoon as you send this $75, you are going to receive your funds\n through\na LETTERED BANK DRAFT CHEQUE within 24 hours and the reason why this\n$75 is needed for the ACTIVATION of the cheque is to enable having no\nproblems in cashing out the cheque in any bank because as soon as this\ncheque is activated, and when you receive it you can take it to any\nbank of your choice and pick up the cash without any trouble or any\nfurther delay.\nFinally, remember to send me an email regarding the confirmation of\nyour HOME ADDRESS to avoid any mistakes or errors in posting your\nLETTERED BANK DRAFT CHEQUE but you did not. And our Excellency the\npresident has already signed the cheque today on 3//9/2024 and he said\nI should notify and inform him when the cheque is posted. Because this\n$75 is the only thing that will delay it, OK.\nThank you,\nMr. Idu Ben\nEmail: (\nbnkdraftcheck02@outlook.com\n)"
+    },
+    {
+        "from": "baiter_290",
+        "to": "scammer_290",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attention: Beneficiary:",
+        "body": "Hello Mr. Idu Ben,\n\nThank you for reaching out to me regarding the release of my payment from the Ministry of Finance in Benin. I appreciate your efforts in trying to get in touch with me and providing me with this information.\n\nI am interested in learning more about the process of receiving my funds through a clarified and certified bank draft cheque. Could you please provide me with more details on how I can proceed with the activation approval of the cheque? \n\nAlso, I would like to confirm the steps I need to take to ensure that my home address is correctly provided for the posting of the lettered bank draft cheque. \n\nLooking forward to your guidance on this matter.\n\nBest wishes,\nTracy"
+    },
+    {
+        "from": "scammer_290",
+        "to": "baiter_290",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Attention: Beneficiary:",
+        "body": "I received your email Tracy, just wanted to let you know that is needed from you is your home address and the $75 for the Activation fee"
+    },
+    {
+        "from": "baiter_290",
+        "to": "scammer_290",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.02861111111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Attention: Beneficiary:",
+        "body": "Hi Tracy, thank you for reaching out. Could you please provide more details about the activation fee and why my home address is needed? I want to make sure I understand everything clearly before proceeding.\n\nBest wishes,\nTracy"
+    }
+]

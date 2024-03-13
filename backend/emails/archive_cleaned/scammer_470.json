@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_470",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Sir,",
+        "body": "Dear Sir,\nPlease note that plans are under way to ensure that the original copy of your ATM VISA CARD which represents the payment of your overdue outstanding claim of $9.5Million is delivered to your address without any hitch as such you are kindly advised to do the needful so that our delivery agent  Mrs Kimberly Jones can depart immediately to your designated address to meet with you face to face in for the final delivery of your parcel\nI await your reply so that we can close your delivery file\nMrs Juan Briggs\nWord Bank Auditors UK\nTel No: +44-7440-326916 (Whats app)"
+    },
+    {
+        "from": "baiter_470",
+        "to": "scammer_470",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Sir,",
+        "body": "Dear Mrs. Juan Briggs,\n\nThank you for reaching out to me regarding the delivery of my ATM VISA CARD. I appreciate your efforts in ensuring a smooth and hassle-free delivery process. However, before proceeding further, I would like to clarify a few details.\n\nCould you please provide me with more information about the overdue claim that this payment represents? I want to make sure that everything is in order and that there are no misunderstandings.\n\nAdditionally, could you please confirm the exact address that the delivery agent, Mrs. Kimberly Jones, will be departing from? It would be helpful for me to know her location for reference purposes.\n\nI look forward to your prompt response so that we can proceed accordingly.\n\nBest wishes,\nJean"
+    }
+]

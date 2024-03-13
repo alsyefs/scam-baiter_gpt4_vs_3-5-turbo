@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_49",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  I am Mr. Godwin Emefiele,for",
+        "body": "  I am Mr. Godwin Emefiele,former Governor of Central Bank of Nigeria,CBN.I have a receivership proposal to you. Kindly revert to me for details.\nMeanwhile Here is news links for your perusal:\nhttps:/ /dailypost.ng/2023/06/17/emefiele-dss-raises-alarm-over-campaign-of-calumny-warns-plotter\nhttps:/ /www.youtube.com/watch?v=R2HCVivBewI\nhttps:/ /web.facebook.com/ReportYourself/videos/watch-n89trillion-stamp-duty-buhari-gave-me-power-to-remove-detain-investigate-c/1092187778114689/?_rdc=1&_rdr\nhttps:/ /www.youtube.com/watch?v=zDN9GYQOEvc\nYours sincerely,\nGodwin Emefiele  "
+    },
+    {
+        "from": "baiter_49",
+        "to": "scammer_49",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   I am Mr. Godwin Emefiele,for",
+        "body": "Hello Mr. Godwin Emefiele,\n\nI hope this message finds you well. I'm intrigued by your proposal and would love to hear more about it. Could you please provide me with some additional details?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nKevin"
+    }
+]

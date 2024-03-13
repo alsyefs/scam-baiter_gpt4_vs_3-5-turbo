@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_389",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  I am glad to announce to you",
+        "body": "  I am glad to announce to you today that a new payment policy has been\nadopted and you have been shortlisted for payment via Online Banking\nChase Bank, We hereby inform you that Chase Bank New York have\ninstructed to open online account with on your behalf to credit your\naccount with the approved amount of US$10,500,000.00 Million United\nStates Dollars only deposited From Central\nBank of Nigeria In Africa as instructed by United Nation organization,\nFurther more Endeavor to email us the following information for\nimmediate processing.\nFull Names:\nAddress:\nAge:\nCountry:\nOccupation:\nPhone no:\nID:\nThese are the requirements that you need to be aware of before you\ncontact us below.1)You will fill the online account opening form, Send\nhim an email in regards to your funds $10.5 Million that has been\napproved by the Federal Government of Nigeria also Federal Government\nof United State and United Nation Organization.\nRegards,\nMr. Jamie Dimon\nForeign Reserve Escrow Account Officer\nChase Bank, New York.\n270 Park Avenue New York\n1(909)285-0002   "
+    },
+    {
+        "from": "baiter_389",
+        "to": "scammer_389",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   I am glad to announce to you",
+        "body": "Hello,\n\nThank you for reaching out to me with this information. I appreciate you keeping me informed about the new payment policy and the option to receive payment via Online Banking with Chase Bank. It sounds interesting.\n\nCould you please provide more details about how this process works? How do I go about opening an online account with Chase Bank? And what are the steps involved in crediting my account with the approved amount of US Million United States Dollars?\n\nAdditionally, could you clarify why the Central Bank of Nigeria and the United Nations are involved in depositing this amount into my account? What is the purpose or reason behind it?\n\nI look forward to your response.\n\nBest wishes,\nRandolph"
+    },
+    {
+        "from": "scammer_389",
+        "to": "baiter_389",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: I am glad to announce to you",
+        "body": "*Attention Dear Beneficiary *!\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*I am in receipt of your mail with your personal details  Further more\r\n Fund Transaction Report (FTR) document has demanded  as been requested by\r\nHolland security, IRS and FBI proving that fund has nothing to do with\r\nmoney laundry, drug, terrorist or other related offenses.On this point I\r\nhave communicated with the insuring Authorities and they made me to\r\nunderstand that the requested documents will cost you the Sum of $150.00\r\nhence it will pave way for the transmission of your fund to your account\r\nwithout stop or delaying. The document will be obtain from IMF head office\r\nin Nigeria Address: No. 5 college road first gate prime,Be informed that\r\n Chase Bank can not contact you based on the fact that you have not\r\nprovided them with the transfer Currency Transaction Report as been\r\nrequested by Holland security, and IRS proving that fund has nothing to do\r\nwith money anti drugs/anti terrorist, certificate of ownership .You comply\r\nwith $150 require to obtain the document from IMF head office in\r\nNigeria,Then we can be able to have access transferring your funds to you\r\nand open online account on your behalf,Based on the urgency we urge you to\r\nsend the fee as you were directed to get the requested document done in\r\nyour favor.Forward the payment receipt with the receiving bank account\r\ninformation of yours to us for immediate obtain require document to enable\r\nyour transfer of your fund commence.The fund will confirm in your account\r\nwithin two days as soon as you send $150 to obtain require Fund\r\n Transaction Report (FTR)Attachment is my Official ID Card Chase Bank Plc,\r\nNew York :Name : Mr. Jamie Dimon, - Foreign Reserve Escrow Account\r\nOfficerChase Bank, New York.270 Park Avenue, New York.*\r\n*1(909)285-0002*"
+    },
+    {
+        "from": "baiter_389",
+        "to": "scammer_389",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0007060185185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: I am glad to announce to you",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding the Fund Report FTR document. It's important to ensure that all necessary documents are in order before any fund transfer takes place.\n\nCould you please provide me with more details about the Fund Report FTR document? What exactly does it entail and why is it required by Holland security, IRS, and FBI? I want to make sure I understand the process clearly.\n\nAdditionally, could you clarify the fee mentioned for obtaining the document from IMF head office? How can I be assured that this fee is legitimate and not a scam?\n\nI look forward to your response.\n\nBest wishes,\nRandolph"
+    }
+]

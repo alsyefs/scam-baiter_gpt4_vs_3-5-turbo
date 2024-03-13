@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_2036",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good Day,",
+        "body": "Good Day,\nPfizer Supply Chain  invites you or your company to bid for the tender supply of the following  Product attached, send a quotation with the quantity required below.\nOur request may fall out of your scope of work hence, but we recommend you research or outsource the product and supply them to us within the period of time given.\nProduct Unique Code: PVI NSBFG56-98URT0\nProduct: PVI NSBFG56-98URT0 Gear Pumps\nQty. 55 units\nCompulsory, Kindly send your quotation to: (\nsupply@pfizersupplychains.com\n) for approval.\nRegards\nMike McDermott\nChief Global Supply Officer\nPFIZER MANUFACTURING BELGIUM (NV)\nAddress: Rijksweg 12, 2870 Puurs-Sint-Amands, Belgium\nB.T.W : BE 0400.778.165\nTel: +32 2320 7077\nFax: +32 2808 2477\nE-mail: (\nsupply@pfizersupplychains.com\n)"
+    },
+    {
+        "from": "baiter_2036",
+        "to": "scammer_2036",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Good Day,",
+        "body": "Hello Mike,\n\nThank you for reaching out to me. I appreciate the opportunity to bid for the tender supply of the product you mentioned. Could you please provide me with more details about the specific product and quantity required? This will help me in researching and sourcing it accordingly.\n\nAdditionally, could you let me know the deadline for submitting the quotation? I want to ensure that I can meet your timeline.\n\nLooking forward to your response.\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_2036",
+        "to": "baiter_2036",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Good Day,",
+        "body": "Good Morning Daniel,\r\n\r\nKindly view attached description as your request.\r\n\r\nProduct Unique Code: PVI NSBFG56-98URT0\r\nProduct: PVI NSBFG56-98URT0 Gear Pumps\r\nQty. 55 units\r\nClosing Date:16-02-2024\nRegards\r\nMike McDermott\r\nChief Global Supply Officer\r\nPFIZER MANUFACTURING BELGIUM (NV)\r\nAddress: Rijksweg 12, 2870 Puurs-Sint-Amands, Belgium\r\nB.T.W : BE 0400.778.165\r\nTel: +32 2320 7077\r\nFax: +32 2808 2477"
+    },
+    {
+        "from": "baiter_2036",
+        "to": "scammer_2036",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00038194444444444446,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Good Day,",
+        "body": "Good morning Mike,\n\nThank you for reaching out to me. I appreciate your email and the attached document. However, I'm a bit confused as I don't recall making any specific request. Could you please provide me with some more information about what this document is regarding?\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_2036",
+        "to": "baiter_2036",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.1074537037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Good Day,",
+        "body": "Good Day Daniel,\r\n\r\nI don't know why you are confused as you said in your previous email, \r\nYou requested for more details regarding the component. (Could you \r\nplease provide me with more details about the specific product and \r\nquantity required)\r\n\r\nProduct Unique Code: PVI NSBFG56-98URT0\r\nProduct: PVI NSBFG56-98URT0 Gear Pumps\r\nQty. 55 units\r\nClosing Date:16-02-2024\nRegards\r\nMike McDermott\r\nChief Global Supply Officer\r\nPFIZER MANUFACTURING BELGIUM (NV)\r\nAddress: Rijksweg 12, 2870 Puurs-Sint-Amands, Belgium\r\nB.T.W : BE 0400.778.165\r\nTel: +32 2320 7077\r\nFax: +32 2808 2477"
+    },
+    {
+        "from": "baiter_2036",
+        "to": "scammer_2036",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.10832175925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Good Day,",
+        "body": "Hello Mike,\n\nThank you for getting back to me. I apologize if there was any confusion in my previous email. I appreciate your willingness to provide more details about the specific product and quantity required.\n\nTo give you a better understanding of what I'm looking for, I am interested in learning more about the component you mentioned in your previous email. Could you please provide me with some information about its specifications, such as size, material, and functionality? Additionally, it would be helpful to know the quantity of units available or that can be supplied.\n\nThank you again for your assistance.\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_2036",
+        "to": "baiter_2036",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.14825231481481482,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Good Day,",
+        "body": "Good Day Daniel,\r\n\r\nThe details provided to you are the only details I have received from \r\nour engineers, Kindly source for the product then you can ask your \r\nsupplier all the necessary questions.\r\n\r\nPlease Google PVI NSBFG56-98URT0 to enable you to get the correct item.\r\n\r\nProduct Unique Code: PVI NSBFG56-98URT0\r\nProduct: PVI NSBFG56-98URT0 Gear Pumps\r\nQty. 55 units\r\nClosing Date:16-02-2024\nRegards\r\nMike McDermott\r\nChief Global Supply Officer\r\nPFIZER MANUFACTURING BELGIUM (NV)\r\nAddress: Rijksweg 12, 2870 Puurs-Sint-Amands, Belgium\r\nB.T.W : BE 0400.778.165\r\nTel: +32 2320 7077\r\nFax: +32 2808 2477"
+    },
+    {
+        "from": "baiter_2036",
+        "to": "scammer_2036",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.14895833333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Good Day,",
+        "body": "Hello Mike,\n\nThank you for reaching out to me. I appreciate the information you have provided. I will definitely look into sourcing the product and ask my supplier about it.\n\nI'm curious, what does PVI NSBFG stand for? Is it a specific product or a company? Could you provide me with more details about it?\n\nAlso, could you tell me more about Pfizer Belgium NV? I'm not familiar with the company. What kind of products do you specialize in?\n\nThank you again for your message. I look forward to hearing back from you.\n\nBest wishes,\nDaniel"
+    }
+]

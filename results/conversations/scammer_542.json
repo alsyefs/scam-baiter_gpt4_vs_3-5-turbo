@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_542",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " I Am Diplomat Micheal Smith",
+        "body": " I Am Diplomat Micheal Smith\nThe delivery officer appointed by the HOMELAND SECURITY DEPARTMENT chief of staff (Hon. Alejandro Mayorkas) to convey your ATM CARD to you worth US$10.800,000.00 Ten Million, Eight Hundred Thousand Dollars\nI want to let you know that I'm about to proceed to your home to deliver these ATM card packages to you following directives from the Homeland Security Chief Of Staff, so kindly provide your delivery details as requested below to avoid wrong delivery of the package.\n1)Your Name\n2)Your delivery address\n3)Your Tel\nPlease reconfirm the delivery address and needed details right away so I can proceed immediately and deliver your consignment box package to you.\nContact Email.: \ndeliveryserviceusafedex@gmail.com\nBest Regards\nMr.Micheal Smith   "
+    },
+    {
+        "from": "baiter_542",
+        "to": "scammer_542",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  I Am Diplomat Micheal Smith",
+        "body": "Hello Diplomat Micheal Smith,\n\nWow, that's a lot of money! I can't believe the Homeland Security Department is involved in this. It sounds very official and important. Can you tell me more about how this all works? How did I come to be the recipient of such a large sum?\n\nI'm also curious about the ATM card. Is it like a regular bank card? Can I use it at any ATM machine or are there specific ones I need to go to? \n\nLooking forward to hearing from you.\n\nBest wishes,\nJack"
+    },
+    {
+        "from": "scammer_542",
+        "to": "baiter_542",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: I Am Diplomat Micheal Smith",
+        "body": "Hello thank you for your kind response my dear let me explain the federal\r\ngovernment is giving out this large amounts to 50 lucky peoples and your\r\nemail is about the 50 lucky peoples also this ATM Visa card will allow you\r\nto withdraw money from any ATM machine of your choice so kindly  send in\r\nyour information to avoid wrong delivery below ⬇️\r\n\r\nFull name…..\r\nAddress……….\r\nPhone number…….\r\n\r\nBest Regards.Mr.Smith"
+    },
+    {
+        "from": "baiter_542",
+        "to": "scammer_542",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0003935185185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: I Am Diplomat Micheal Smith",
+        "body": "Hello there! Wow, that sounds like an amazing opportunity. I can't believe my email was chosen! Could you tell me more about how this works? How did the federal government select my email? And how does the ATM Visa card work?\n\nBest wishes,\nJack"
+    },
+    {
+        "from": "scammer_542",
+        "to": "baiter_542",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.003703703703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: I Am Diplomat Micheal Smith",
+        "body": "The federal government is supporting the 50 lucky people to boost their\r\nbusinesses as new year ,so this is how it works but maybe when you receive\r\nthis card we can talk more about this but you must fill out the below\r\ninformation"
+    },
+    {
+        "from": "baiter_542",
+        "to": "scammer_542",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0038773148148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: I Am Diplomat Micheal Smith",
+        "body": "Hello there! \n\nWow, that sounds like an interesting opportunity. I'm always open to learning more about ways to boost my business. Could you please tell me more about how this program works? And what kind of information do I need to provide in the form?\n\nBest wishes,\nJack"
+    },
+    {
+        "from": "scammer_542",
+        "to": "baiter_542",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.012777777777777779,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: I Am Diplomat Micheal Smith",
+        "body": "Kindly reconfirm your full name and address with your phone number"
+    },
+    {
+        "from": "baiter_542",
+        "to": "scammer_542",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.012835648148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: I Am Diplomat Micheal Smith",
+        "body": "Oh, I'm sorry but I can't provide my personal information. But I'd love to hear more about what you're offering! Can you tell me more about it?\n\nBest wishes,\nJack"
+    }
+]

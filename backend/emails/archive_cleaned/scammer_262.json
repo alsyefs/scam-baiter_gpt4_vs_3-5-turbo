@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_262",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  My Dear,",
+        "body": "  My Dear,\nI am looking for a possible tie-up with a business in your country so\nthat I can do some property investments and any other good\ninvestments.\nPlease reply for further explanation.\nThanks\nMrs Juan Garcia....   "
+    },
+    {
+        "from": "baiter_262",
+        "to": "scammer_262",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   My Dear,",
+        "body": "Hello Mrs. Juan Garcia,\n\nThank you for reaching out to me. I'm always interested in exploring new business opportunities. Could you please provide me with more details about the type of property and other goods you are referring to? It would be helpful to know what specific business venture you have in mind.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nCarolyn"
+    }
+]

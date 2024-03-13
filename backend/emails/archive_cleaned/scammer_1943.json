@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1943",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "The International Monetary Fun",
+        "body": "The International Monetary Fund (IMF) is compensating all the scam victims\nand \nyour email address was found in the scam victim's list\n.we have been\nmandated by the IMF to transfer your compensation to you via Western Union\nMoney transfer.\nHowever, we have concluded to effect your own payment through Western Union\nMoney Transfer, $5,000 daily until the total sum of $3,500.000.00 USD is\ncompletely transferred to you.\nWe can not be able to send the payment with your email address\nalone,thereby we need your information to where we will be sending the\nfunds to you, such as;\n   Receiver's name________\n   Address________\n   Country__________\n   Phone number________\n \nAttached copy of your Identification\n_______\n   Age ___________\nWe will start the transfer as soon as we received your information:\nThanks yours faithfully,\n Mrs Linda Watkins, Director Western Union Money Transfer,\n Head Office Laurel, Maryland United States.\n Text us @ +1 615-285-9425"
+    },
+    {
+        "from": "baiter_1943",
+        "to": "scammer_1943",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: The International Monetary Fun",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate the information you have shared regarding the Monetary Fund IMF and the transfer of funds via Western Union Money Transfer. However, I would like to clarify a few things before proceeding.\n\nCould you please provide more details about why my email address was found in the scam victim's list? I want to ensure that this is a legitimate transaction and not a scam itself. Additionally, could you explain how the funds will be transferred to me through Western Union Money Transfer on a daily basis?\n\nFurthermore, I would like to know what specific information you require from me in order to proceed with the transfer. Could you please clarify what you mean by \"we can not be able to send the payment with your email address\"?\n\nI look forward to your response.\n\nBest wishes,\nDennis"
+    }
+]

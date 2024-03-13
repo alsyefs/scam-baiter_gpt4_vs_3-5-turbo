@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_656",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir/Ma,",
+        "body": "  Dear Sir/Ma,\nMy name is Dr.Olayemi Michael Cardoso.I am the new governor of Central\nBank of Nigeria.While going through beneficiaries'/contractors' files\nyesterday, I came across your own file and discovered that the major\nreason why you have not received your fund for the past years is\nbecause you are not the real contractor who executed this contract.And\nif you continue to fight to receive this fund it will be impossible\nfor you to get it.\nBased on that fact, I want you and I to strike a deal so that if you\nare ready to receive the fund, I will guide you on the necessary\nthings to be done so that you will receive this fund.  If you keep\ntrying on your own to claim this fund they will need you to get the\nvital documents from the original contractor that backs up this fund.\nBut I want to make it much easier for you if you can accept to work\nwith me so that I will make it possible for you to receive this fund.\nThe total amount in question is USD50.5M.  So if you are ready to work\nwith me, I need you to provide your full information to me such as\nyour full names, address, phone and any of your identification\ncard.  On receipt of those information from you, I will tell you the next step.\nYou can also call me on the phone number: +234-08186298740.\nI look forward to hearing from you.\nDr.Olayemi Michael Cardoso\nCentral Bank Governor.   "
+    },
+    {
+        "from": "baiter_656",
+        "to": "scammer_656",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir/Ma,",
+        "body": "Dear Michael Cardoso,\n\nThank you for reaching out to me. I appreciate your offer to help me receive my fund. However, before we proceed, I have a few questions regarding the process.\n\n1. Can you please provide more details about the fund? How was it generated and what is the source of the funds?\n\n2. You mentioned that I am not the real contractor who executed this project. Could you clarify who the original contractor is and why their involvement is necessary?\n\n3. What are the necessary steps that need to be taken in order for me to receive this fund? Are there any fees or charges involved?\n\n4. Can you explain how working with you will make it easier for me to receive the fund compared to claiming it on my own?\n\nI look forward to your response and further guidance on this matter.\n\nBest wishes,\nJoan"
+    }
+]

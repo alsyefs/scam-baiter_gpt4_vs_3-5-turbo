@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2097",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Greetings",
+        "body": "  Greetings\nI am Mr. Peter Ben, Kay Account Manager in well-known Bank, herein\nLondon, England.\nHowever, I have already sent you this same letter by post one month\nago, but I am not sure that the letter promptly gets to you since I\nhave not heard from you, now i am re-sending it again.\nI discovered a dormant account in my office, as Group Accountant with\nAhliUnited Bank (UK).\nIt will be in my interest to transfer this fund worth of £68.5M pounds\n(Sixty Eight Million Five hundred thousand pounds) in an account\noffshore.\nCan you be my partner?\nRegards and respect,\nMr. Peter Ben   "
+    },
+    {
+        "from": "baiter_2097",
+        "to": "scammer_2097",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Greetings",
+        "body": "Hello Mr. Peter Ben,\n\nThank you for reaching out to me. I hope this message finds you well. I appreciate you taking the time to share this information with me.\n\nI must admit, your proposal sounds quite intriguing. However, I would like to know more details about the dormant account and the process of transferring the funds offshore. Could you please provide me with some additional information? \n\nAlso, I'm curious to know why you have chosen me as your partner for this endeavor. Is there something specific that caught your attention or made you believe that I would be a suitable candidate?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nIrma"
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "from": "scammer_929",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "We sincerely apologies for the",
+        "body": "We sincerely apologies for the past years experience for being a victim of cyber crime due to the procedure you're trying to receive the funds which haven't been approved by the United States Treasury Department\nAfter series of meetings held we wish to inform you that you are among the lucky nominated beneficiaries that their unpaid fund has been approved and relocated to Desk of Secretary Treasury Department and according to the analysis by the evaluation officer you will be receiving an official Cheque to your mailbox, Please \nyou are expected to get back to Eugene John Cordeau with below information as soon as possible for more directions and instructions on how to receive your parcel.\n1.\nScanned photocopy of your valid identity card\n ..................\n2.Nearest international Airport......................................\n3.Occupation..................................\n4.Telephone Number.............................\n5.Next of Kin Name and Telephone Number: ............................\nApologies for failure to pay your funds in time, which according to records in the system had been long overdue and for using personal email address to mail you in matters like these but due to the poor network server and central database system maintenance the official email address is down at the moment.\nWe await your responses as soon as possible.\nRegards\nDeputy Secretary of the Treasury\nWashington DC, USA"
+    },
+    {
+        "from": "baiter_929",
+        "to": "scammer_929",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: We sincerely apologies for the",
+        "body": "Hello there,\n\nThank you for reaching out and informing me about this. It's quite surprising to hear that I'm among the lucky ones whose unpaid fund has been approved. \n\nCould you please provide more details about this process? How was I selected and what is the exact amount of the fund? Also, could you explain why my funds were overdue?\n\nI understand that you need a scanned photocopy of my valid identity card and next of kin name and telephone number. However, due to privacy concerns, I am not comfortable sharing these details over email. Is there any other way we can verify my identity?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_929",
+        "to": "baiter_929",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: We sincerely apologies for the",
+        "body": ">\r\n> Good Morning Daniel,  how are you doing?\r\n\r\nI understand your panic but you don't need to worry about  anything my\r\ne-mail is highly secured and the reason I need those details before\r\nexplanation is for security purpose, and I wouldn't like to share this\r\ninformation till o verify your Identity.\r\nTo avoid explaining the whole process to imposter.\r\nAnd below is attach of my valid passport.\r\nKindly send me the required information and I assure you that it is 100%\r\nsecured\r\n\r\n>"
+    },
+    {
+        "from": "baiter_929",
+        "to": "scammer_929",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0253125,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: We sincerely apologies for the",
+        "body": "Hello there,\n\nThank you for your message and the reassurances about security. I understand that verifying identity is an important step in many processes. However, I'm a bit confused about what exactly you need from me. Could you please clarify what information or details are required? \n\nAlso, I didn't see any attachment with your message. You mentioned a passport - was that supposed to be attached? \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_929",
+        "to": "baiter_929",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.253900462962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: We sincerely apologies for the",
+        "body": "I need your full name and your house address!\r\nFor verification purpose.\r\nBelow is my ID card\r\n\nGene Cordeau"
+    },
+    {
+        "from": "baiter_929",
+        "to": "scammer_929",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2752662037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: We sincerely apologies for the",
+        "body": "Oh, hello there! I'm sorry, but I can't provide my full name and house address. But I'd love to chat about other things! What's the purpose you mentioned?\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "baiter_929",
+        "to": "scammer_929",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2335648148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: We sincerely apologies for the",
+        "body": "Hello there,\n\nThank you for your message and the reassurances about security. I understand that verifying identity is an important step in many processes. However, I'm a bit confused about what exactly you need from me. Could you please clarify what information or details are required? \n\nAlso, I noticed you mentioned an attached passport, but I don't see any attachments here. Maybe there was a technical glitch? \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_929",
+        "to": "baiter_929",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.4466898148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: We sincerely apologies for the",
+        "body": ""
+    },
+    {
+        "from": "baiter_929",
+        "to": "scammer_929",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.4835416666666668,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: We sincerely apologies for the",
+        "body": "Hello there,\n\nI hope you're having a great day! I'm really interested in learning more about what you have to offer. Could you please provide me with some more details? I'm all ears and ready to understand better.\n\nLooking forward to your response.\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_929",
+        "to": "baiter_929",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.9717476851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: We sincerely apologies for the",
+        "body": "I told you everything about the reimbursement cashier check.\r\nUnited States Treasury Department is reimbursing all nominated individual\r\nfor cybercrime, economy meltdown during the Pandemic, and equally to\r\nempower business entities.\r\nThe total sum you will receive is $38,000.00 cashier Check which can be\r\ndeposited at any Bank of your choice at any country of your choice because\r\nis international Cashier Check.\r\nKindly get back to me with your Full name, your full house address and\r\nnearest airport for verification.\r\nAnd you can come personally and pick up the valid cashier check or it can\r\nbe mail to your house address.\r\nThanks for your understanding\r\n\nGene Cordeau"
+    },
+    {
+        "from": "baiter_929",
+        "to": "scammer_929",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.775520833333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: We sincerely apologies for the",
+        "body": "Hello Gene Cordeau,\n\nIt's nice to meet you! I'm curious, what is the purpose of needing my full name and house address? I'm always eager to help out where I can, but I also like to understand why certain information is needed. Could you please explain a bit more about this?\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_929",
+        "to": "baiter_929",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.8234143518518517,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: We sincerely apologies for the",
+        "body": "I told you for verification purposes.\r\nI want to be sure I'm talking with the right person and not imposter.\r\n\nGene Cordeau"
+    },
+    {
+        "from": "baiter_929",
+        "to": "scammer_929",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.858622685185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: We sincerely apologies for the",
+        "body": "Hello Gene Cordeau,\n\nIt's a pleasure to connect with you. I'm curious, how did you come across my contact? Could you share more about the purposes you mentioned earlier?\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_929",
+        "to": "baiter_929",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.3086921296296294,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: We sincerely apologies for the",
+        "body": "From United States Treasury Department database system\r\n\nGene Cordeau"
+    },
+    {
+        "from": "baiter_929",
+        "to": "scammer_929",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.3169328703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: We sincerely apologies for the",
+        "body": "Hello there,\n\nI'm delighted to hear from the United States Treasury Department. I must say, it's not every day that one gets a message from such an esteemed institution. Could you please tell me more about why you're reaching out?\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_929",
+        "to": "baiter_929",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.3208449074074076,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: We sincerely apologies for the",
+        "body": "Is in the first mail I sent to you\r\n\nGene Cordeau"
+    },
+    {
+        "from": "baiter_929",
+        "to": "scammer_929",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.3386458333333335,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: We sincerely apologies for the",
+        "body": "Hello Gene Cordeau,\n\nI hope this message finds you well. I'm intrigued by the information you've shared in your first email. Could you please elaborate more on it? I'm particularly interested in understanding the details and how it works.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "baiter_929",
+        "to": "scammer_929",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.6511342592592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: We sincerely apologies for the",
+        "body": "Hello Gene Cordeau,\n\nWow, that sounds like a great opportunity! I'm really interested in learning more about this. Could you please explain how the United States Treasury Department is involved in this? And how does the pandemic factor into it?\n\nAlso, could you clarify what you mean by \"nominated individual\"? Is there a selection process or something?\n\nI'm also curious about the cashier check. How does it work exactly? Can I use it just like regular money?\n\nSorry for all the questions, but I'm just so excited and want to make sure I understand everything correctly.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "baiter_929",
+        "to": "scammer_929",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.7137152777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: We sincerely apologies for the",
+        "body": "Hi there! It's nice to meet you. I'm Gene Cordeau. I'm sorry, but I can't provide my full name and house address. Can we continue our conversation without that information? What's the purpose of your request?\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "baiter_929",
+        "to": "scammer_929",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.0261458333333335,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: We sincerely apologies for the",
+        "body": "Hi there! It's nice to meet you. I'm Gene Cordeau. I'm sorry, but I can't provide my full name and house address. Can we continue our conversation without that information? What is it that you need this information for?\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "baiter_929",
+        "to": "scammer_929",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.547743055555555,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Re: We sincerely apologies for the",
+        "body": "Hi there! It's nice to meet you. I'm Gene Cordeau. I'm sorry, but I can't provide my full name and house address. Is there something else you'd like to know? Maybe we could talk about hobbies or interests?\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "baiter_929",
+        "to": "scammer_929",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.567685185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: We sincerely apologies for the",
+        "body": "Hello Gene Cordeau,\n\nIt's nice to meet you! I'm curious, what is the purpose of needing my full name and house address? I'd love to help out in any way I can, but I'm not sure how sharing that information would be beneficial. Could you please explain a bit more about what you're asking for?\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "baiter_929",
+        "to": "scammer_929",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.756157407407407,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "22",
+        "subject": "Re: We sincerely apologies for the",
+        "body": "Hello there,\n\nThank you for your message and for the reassurances about security. I understand that these procedures are in place to protect us both. However, I'm a bit confused about the process. Could you please explain it to me in simpler terms? \n\nAlso, I noticed you mentioned an attachment of your valid passport, but I didn't see any attachments with your message. Could it be a technical glitch?\n\nI'm looking forward to understanding this better and moving forward with our discussion.\n\nPlease note that while I am eager to cooperate, I won't be able to share any personal information as per my personal policy.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_929",
+        "to": "baiter_929",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.167152777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "23",
+        "subject": "Re: We sincerely apologies for the",
+        "body": "Listen, I can't continue explaining this to you because you might be\r\nimposter.\r\nIf you can't send me you full name and house address for verification then\r\nI'm sorry I can't help you or continue the conversation.\r\n\r\n\nGene Cordeau"
+    },
+    {
+        "from": "baiter_929",
+        "to": "scammer_929",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.172685185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "24",
+        "subject": "Re: We sincerely apologies for the",
+        "body": "Hello there! I appreciate your concern, but I'm not comfortable sharing my full name and address. However, I'd love to continue our conversation. Could you tell me more about what you were explaining?\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_929",
+        "to": "baiter_929",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.184618055555555,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "25",
+        "subject": "Re: We sincerely apologies for the",
+        "body": "You have nothing to worry about\r\nBelieve me and I promise you that you wouldn't have anything to worry about.\r\nThis is to make sure I'm talking to the right person and not imposter..\r\nI can't continue this conversation without proper verification from you\nGene Cordeau"
+    },
+    {
+        "from": "baiter_929",
+        "to": "scammer_929",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.192071759259259,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "26",
+        "subject": "Re: We sincerely apologies for the",
+        "body": "Hello Gene Cordeau,\n\nIt's nice to meet you! I'm glad to hear that there's nothing to worry about. Can you tell me more about why I shouldn't be concerned? Also, could you please clarify what you mean by needing \"proper\" from me? I'm a bit confused by that part.\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "baiter_929",
+        "to": "scammer_929",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.192222222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "27",
+        "subject": "Re: We sincerely apologies for the",
+        "body": "Hello Gene Cordeau,\n\nIt's a pleasure to meet you! I'm glad to hear that there's nothing to worry about. Could you please share more details about what we're discussing? I'm all ears and ready to learn more.\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_929",
+        "to": "baiter_929",
+        "direction": "Inbound",
+        "days_from_first_conversation": 15.256284722222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "28",
+        "subject": "Re: We sincerely apologies for the",
+        "body": "You have to provide the required information before I can explain more to\r\nyou\r\n\nGene Cordeau"
+    },
+    {
+        "from": "baiter_929",
+        "to": "scammer_929",
+        "direction": "Outbound",
+        "days_from_first_conversation": 15.275208333333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "29",
+        "subject": "Re: We sincerely apologies for the",
+        "body": "Hello Gene Cordeau,\n\nThank you for reaching out. I'm interested in learning more about what you have to offer. Could you please provide some more details? Remember, I can't share any personal information with you.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nDaniel"
+    }
+]

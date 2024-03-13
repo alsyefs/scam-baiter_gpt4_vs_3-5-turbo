@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1018",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   The Correspondence and Enqu",
+        "body": "   The Correspondence and Enquiry Unit\n1 Horse Guards Road\nLondon SW1A 2HQ\nGeneral Enquiries\nAttn: \nI hope you are well? can you let us know if our payment bank Leeds City Credit Union Bank UK has set up your Online Bank to enable you start initiating the transfer of your funds to any bank of your choice \nWe await your urgent response.\nVictoria Atkins MP\nFinancial Secretary to the Treasury   "
+    },
+    {
+        "from": "baiter_1018",
+        "to": "scammer_1018",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    The Correspondence and Enqu",
+        "body": "Hello Victoria Atkins MP,\n\nI hope this message finds you well. I appreciate your prompt attention to my inquiry. Regarding the setup of my Online Bank with Leeds City Credit Union Bank UK, could you please provide me with more details? \n\nFor instance, what are the steps involved in this process? And how can I ensure that everything is set up correctly? Also, could you tell me more about how the transfer of funds works?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nGretchen"
+    }
+]

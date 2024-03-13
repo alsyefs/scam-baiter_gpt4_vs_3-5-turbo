@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2192",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  I have been expecting to rec",
+        "body": "  I have been expecting to receive your ID and your update on the documents processing?\nRev Brown Okon  "
+    },
+    {
+        "from": "baiter_2192",
+        "to": "scammer_2192",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   I have been expecting to rec",
+        "body": "Hello Rev Brown Okon,\n\nThank you for reaching out to me. I'm sorry, but I don't recall any previous conversation or expectation regarding my ID and documents. Could you please provide me with more details about what this is in reference to?\n\nI appreciate your prompt response.\n\nBest wishes,\nDonna"
+    },
+    {
+        "from": "scammer_2192",
+        "to": "baiter_2192",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: I have been expecting to rec",
+        "body": "WHO ARE YOU PLEASE?"
+    },
+    {
+        "from": "baiter_2192",
+        "to": "scammer_2192",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0005092592592592592,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: I have been expecting to rec",
+        "body": "Hello! I'm glad you reached out. My name is . How can I assist you today?\n\nBest wishes,\nDonna"
+    }
+]

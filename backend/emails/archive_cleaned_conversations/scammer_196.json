@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_196",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Customers,",
+        "body": "Dear Customers,\nl Highly to inform you that your ATM CARD Number: 4577932463160548\n($12 million) is ready and has been approved and upgraded in your favor.\nYou are therefore advised that a maximum withdrawal value of $25000  ONLY is permitted to be withdrawn daily. We are glad to further inform you that we are inter-switched which denotes that you can make withdrawal in any designated location of any ATM Card Centers of your choice anywhere in the world.\nConsequently, You are to be rest assured that this transaction is legal and legitimate paperwork in regards to this ATM CARD due to its banking issuing authority.\nBe informed that you are to make yourself available in our office for the collection of this ATM CARD or the delivery of this ATM CARD will be made available to your home address within 48 banking hours through UPS SERVICES.\nTreat with urgent response.\nYours in service,\nMr. Paul P Jesus,    \nGeneral Manager, United Bank for Africa - UBA Contact Email Account\nbankdirector505@gmail.com"
+    },
+    {
+        "from": "baiter_196",
+        "to": "scammer_196",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Customers,",
+        "body": "Hello Mr. Paul Jesus,\n\nThank you for your email and the information provided. It's exciting to hear about this opportunity! I have a few questions, if you don't mind.\n\nFirstly, could you please explain more about how this ATM card works? Is it similar to a regular debit card that I can use at any ATM worldwide?\n\nSecondly, you mentioned that the card can be collected from your office or delivered to my home address. Could you please provide more details about these options? For instance, where is your office located? And if I choose delivery, how long would it take for the card to arrive?\n\nLastly, could you clarify what \"maximum withdrawal value of ONLY\" means? Is there a specific limit on how much money I can withdraw each day?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nEsther"
+    },
+    {
+        "from": "scammer_196",
+        "to": "baiter_196",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Customers,",
+        "body": "We need your info before the process we been moved to you."
+    },
+    {
+        "from": "baiter_196",
+        "to": "scammer_196",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0037731481481481483,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Customers,",
+        "body": "Oh, hello there! I'm so excited to be part of this process. Could you please tell me more about it? What kind of information do you need exactly?\n\nBest wishes,\nEsther"
+    },
+    {
+        "from": "scammer_196",
+        "to": "baiter_196",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.013900462962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Dear Customers,",
+        "body": "Your full details below:\r\n\r\n1.Full name:______\r\n2.Home Address:______\r\n3. Telephone:______\r\n4.Occupation:______\r\n5. I'd card______\r\n\r\nThis is excitedly info we need your ATM card delivery to your home address\r\nimmediately you provide it here I'm waiting."
+    },
+    {
+        "from": "baiter_196",
+        "to": "scammer_196",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.04542824074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Dear Customers,",
+        "body": "Hello there! I'm thrilled to hear from you. It's always a pleasure to engage in such conversations. However, I must apologize as I can't provide the details you're asking for at this moment. But hey, let's keep the conversation going! Can you tell me more about this ATM card delivery? How does it work?\n\nBest wishes,\nEsther"
+    }
+]

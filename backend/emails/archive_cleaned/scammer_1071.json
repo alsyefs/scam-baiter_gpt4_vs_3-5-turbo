@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1071",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  DEPT PAYMENT RECONCILIATION ",
+        "body": "  DEPT PAYMENT RECONCILIATION UNIT\n   UN/IMF ANNEX OFFICE USA.\nemail \nimfpaymentverificationunit@inbox.lt\n \nAttn Beneficiary,\n                                    CHANGE OF BENEFICIARY\n      I hereby send to you the information submitted by Mr. TIMMY\nCROSS U.S.A of Florida group Ltd, with an application to receive your\npayment on your behalf. Please as a matter of urgency, you are\nrequired to verify the following information and inform us if you are\naware or know anything about this.\n    This morning Mr. TIMMY CROSS came to the office claiming that you\nhave instructed him to come and receive the payment on your behalf\nwith some  representatives.\n    I have ask them to come back tomorrow as they did not provide any\npower of an attorney from you which will proof that you thoroughly\nsend them, This was to enable me contact you to verify how genuine\nthis people are to you.\n    1. Did you instruct one Mr. TIMMY CROSS of USA Florida group Ltd.\nwhose information's is below, to claim and receive the payment on your\nbehalf?\n    2. Did you sign any 'Deed of Assignment' in his favor thereby\nmaking him the current beneficiary with the following account details:\n    Account Name: Timmy Cross Group Ltd,\n    A/C #USD114-1025567-8,\n    Bank Name: Standard Chattered Bank\n    Florida Swift Code: SCBL 11K111.\n    Finally, you are hereby advised to indicate to this honorable\noffice with immediate effect, if you are the person that instructed\nthe above client to come for the claim of your fund worth of\n$10,500.000.00 (Ten Million, Five Hundred Thousand United States\nDollars), to enable us endorse for the final payment approval order on\nhis behalf. Endeavor send your reply to Dr Mrs Ruth Sheets  for urgent\nattention.\n    We shall be waiting for your urgent and prompt response and note\nthat you need to indicate to this office via our legal officer by name\nBARRISTERFRANKLIN DAVE  and indicate the mode of payment suitable to\nyou as the rightful beneficiary of the approved fund. Accept our\ncongratulations in advance as we await your urgent reply.\n  Sincerely,\n  Dr Mrs Rita Smith   "
+    },
+    {
+        "from": "baiter_1071",
+        "to": "scammer_1071",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   DEPT PAYMENT RECONCILIATION ",
+        "body": "Dear Dr Mrs Rita Smith,\n\nThank you for reaching out to me regarding this matter. I must admit that I am a bit confused about the situation. I have not instructed anyone named Mr. Timmy Cross or any Florida group Ltd to receive any payment on my behalf. This is the first time I am hearing about it.\n\nCould you please provide me with more details about this payment and why someone would claim to be acting on my behalf? I want to make sure that everything is legitimate before taking any further action.\n\nAlso, could you clarify what you mean by indicating the mode of payment suitable to me? What are the available options?\n\nI appreciate your assistance in resolving this matter and look forward to your prompt response.\n\nBest wishes,\nMonique"
+    }
+]

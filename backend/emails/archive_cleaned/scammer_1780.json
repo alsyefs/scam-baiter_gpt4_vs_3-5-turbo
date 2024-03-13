@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1780",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Debt Management Office Nige",
+        "body": "   Debt Management Office Nigeria (D.M.O)\nNDIC Building (1st Floor),\nPlot 447/448 Constitution Avenue,\nCentral Business District,\nP.M.B. 532, Garki Abuja, Nigeria.\nAttn: Beneficiary,\nRe: Your Secured Unlimited Master Card\nDespite all efforts to move out your funds from the banks, it has proved very difficult over the years due to international clearances being demanded by some international organizations. Consequently, I have had series of meetings with officials of the bank of America (BOA), regarding the best option to move your fund without problems.\nOur financial consultant followed up with the bank and has finally resolved with the bank and agreed to move the funds through a privately secured unlimited master card, which will be issued in your name or company name. With the master card, you can make daily withdrawals of up to $10,000.00 from any bank ATM machine. You can also transfer up to $300,000.00 weekly using this privately secured unlimited master card.\nI think this is the best option for you to receive your fund in your country because, everything about the privately secured unlimited master card has been designed to work anywhere in the world.\nAcknowledge the receipt of this letter via my official e-mail address:\nI look for your urgent response,\nYours Faithful.\nMrs. Elizabeth Kwaghbulah.\nHead, Debt Recording and Settlement Department.(D.M.O)  "
+    },
+    {
+        "from": "baiter_1780",
+        "to": "scammer_1780",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Debt Management Office Nige",
+        "body": "Hello Mrs. Elizabeth,\n\nThank you for reaching out and providing such detailed information about the privately secured unlimited master card. It sounds like a very convenient way to access funds.\n\nI'm curious, how does this process work exactly? And what kind of clearances were being demanded by the banks that made it difficult to move the funds?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nMinnie"
+    }
+]

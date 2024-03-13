@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_598",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "United Nations",
+        "body": "United Nations\nDiplomatic Foreign Mission\n760 United Nations Plaza, Manhattan, New York, United States.\nThis is to inform you that all the arrangements for the delivery of your\nfunds is completed today and the Diplomatic agent will depart for the\nonward delivery of the consignment boxes to you once all the legal\ndocuments  is secure on your behalf to avoid any hitch but be informed\nthat the Diplomatic agent did not know that the consignment boxes\ncontains your funds to avoid any hitch in the process of the delivery\nand  for the safety of your funds, so do not allow anybody to know that\nthe boxes contains money including the agent until the boxes is\ndelivered to your address.\nAlso attached is a copy of the agent passport and the videos of the\nboxes when the money was packed from the finance department and also be\naware that you will assist the agent to complete the clearance of boxes\non his arrival to your airport. You are advised to reconfirm below\ninformation to the agent.\nFull Name:\nFull Address:\nMobile Number:\nPrivate  email address:\nOccupation:\nMarital Status:\nAge:\nSex:\nMeanwhile, you should contact the agent with the above information on\nhis Email: \ndiplomatdavidchurchill01@gmail.com\n or Whats app number +1\n917-444-3066 for further instruction\nI will be waiting for your reply for the legal documents to ensure that\nthe agent will proceed with the delivery without a hitch.\nRegards,\nDiplomat Steve Marshall Page\nUnited Nations Diplomatic Foreign Mission"
+    },
+    {
+        "from": "baiter_598",
+        "to": "scammer_598",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: United Nations",
+        "body": "Hello Diplomat Steve Marshall Page,\n\nThank you for your message. It's quite exciting to hear about the completion of the delivery process. I'm curious, though, could you please explain a bit more about these legal documents that need to be secured on my behalf? What exactly do they entail?\n\nAlso, I'm wondering why the diplomatic agent isn't aware that the boxes contain funds. Is this a standard procedure in such operations?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAlbert"
+    }
+]

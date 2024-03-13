@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_592",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "DOCUMENT & PARCEL LIMITED",
+        "body": "DOCUMENT & PARCEL LIMITED\nADDRESS: PLOT 432 BENSON IDAHOSA \nAVENUE IKOYI LAGOS, NIGERIA \nOUR REF: DIP/ADMIN/674/2023\nDATE: 25TH OCTOBER, 2023\nTELEPHONE: 234156438\nAttn: Beneficiary,\nBeloved I have decided to send you this secret email because i am a devoted Christian and hate cheating in my life. I wish to inform you that i am the Senior Store Manager of Documents & Parcel Limited where some top Officials of Central Bank of Nigeria brought your ATM CARD and Covering Documents for delivery to your Address.\nI am sure that you have paid some money to them for issuance and the delivery of the ATM CARD but due to their greed and wicked fraudulent acts,they have continued to delay from sending you the Atm Card even up til this moment.I am very sure they have continued to demand more money from you.\nBe informed that i was going through some luggage's in the Main Store and was surprised to see the Package containing your Atm Card and Covering documents in a Highly Sealed Envelop. Be informed that what this evil men does is always to frustrate the owner's of the Card  and when you forget about the Card,they will discount the Card via the bank and use the money for their selfish interest.\nThese go on daily basis and has no end but you are very lucky. You should count yourself lucky that your Atm Card and Covering Documents are still here and i think the Almighty God want to use me and help you.\nWHAT TO DO; I have secretly removed the Package from where it was kept and personally kept it in a secret place where nobody will see it unless myself as the Store Manager. \nAll you need to is to send the Token Delivery and Insurance Fee of $155 Only and i will personally dispatch the package to your Address and send you the Air waybill and Tracking Number of the package to you accordingly.\nNOTE: Please be informed that the below information are what i saw on top of the package and i need your confirmation to avoid delivery to wrong person:\nAddress: Tree Nut Nirvana\n4725 Panama Ln., D3-120 Bakersfield, Ca. 93313\nPhone: 661-833-0483 Cell- 661-599-0519 Fax- 661-324-1566\nWhen you receive the Parcel, i will send you Central Bank of Nigeria Customer Care Telephone Number to call and request the PIN via text message to activate the Atm Card and thereafter you can give me whatever you feel like.\nPlease if you are ready, get back to me. Please this is a TOP SECRET and must not be revealed even after you receive the Parcel from here as that may cause me my job or life.\nAwaiting your prompt response and remain blessed.\nYours Faithfully,\nRev. Richard Nnaji\nSenior Store Manager\nDocuments & Parcel Limited"
+    },
+    {
+        "from": "baiter_592",
+        "to": "scammer_592",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: DOCUMENT & PARCEL LIMITED",
+        "body": "Dear Rev. Richard Nnaji,\n\nThank you for reaching out to me with this information. I appreciate your concern and willingness to help. It's unfortunate to hear about the greed and fraudulent activities of some individuals.\n\nI understand that you have personally kept my ATM card and covering documents in a secure place. Could you please provide me with more details about the token delivery and insurance fee? How can I make the payment? Is there a specific deadline for sending the fee?\n\nAlso, could you clarify how long it would take for the package to be delivered to my address once the fee is paid? I want to ensure that I am available to receive it.\n\nThank you again for your assistance, and I look forward to your response.\n\nBest wishes,\nIva"
+    }
+]

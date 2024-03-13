@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_1883",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "From:Dr.Suleman Dabo",
+        "body": "From:Dr.Suleman Dabo\nChief Coordinator Telex Dept\nCentral bank of Nigeria\nBeneficiary,\nThis is to inform you that the West African Fund Compensation Unit (WAFCU) with the United Nation committee on finance held a meeting with African leaders concerning the ongoing scam/fraud in Africa. After the meeting today, three African presidents approved $2.5Million as compensation in your name. This is because you have been a victim of a scam in Africa.\nYou are hereby advised to send your names and address and \nbank account information \nimmediately for the immediate wire of your compensation fund to your nominated bank account.Please you should also send your private telephone to me.\nYours faithfully,\nDr.Suleman Dabo\nChief Coordinator Telex Dept"
+    },
+    {
+        "from": "baiter_1883",
+        "to": "scammer_1883",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: From:Dr.Suleman Dabo",
+        "body": "Hello Dabo,\n\nThank you for reaching out to me. It's quite surprising to hear about this development. I'm curious, how did my name come up in the meeting? And could you please provide more details about the West African Fund Unit and their operations?\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nWalker"
+    },
+    {
+        "from": "scammer_1883",
+        "to": "baiter_1883",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: From:Dr.Suleman Dabo",
+        "body": "From:Dr.Suleman Dabo\r\nChief Coordinator Telex Dept\r\nCentral bank of Nigeria\r\n\r\nTo:  Walker,\r\n\r\nKindly acknowledge receipt of this mail and please furnish me with the\r\nbelow information.\r\n\r\n1.Your real names and address:\r\n2.Your telephone number and fax:\r\n3.Your age/Occupation:\r\n4:Your international passport/drivers license\r\n5.Your receiving bank information\r\n6.Your total payment value amount:\r\n\r\nAll these I will use and secure fresh payment approvals in your names and\r\nfavor through this mode payment so that it will be easy for you.\r\n\r\nAcknowledge receipt of this email please.\r\n\r\nYours faithfully,\r\nDr.Suleman Dabo\r\nChief Coordinator Telex Dept\r\nTel:+234-09092200377"
+    },
+    {
+        "from": "baiter_1883",
+        "to": "scammer_1883",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.030891203703703702,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: From:Dr.Suleman Dabo",
+        "body": "Hello Dabo,\n\nThank you for reaching out to me. I'm quite intrigued by your message and would love to learn more about this opportunity. Could you please provide more details about the process and how it works? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nWalker"
+    },
+    {
+        "from": "baiter_1883",
+        "to": "scammer_1883",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03229166666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: From:Dr.Suleman Dabo",
+        "body": "Hello Dabo,\n\nThank you for reaching out to me. I'm quite intrigued by your message and would love to learn more about this opportunity. Could you please provide more details about the process and how it works? \n\nI'm also curious, how did you find my contact information? And why have I been chosen for this?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nWalker"
+    },
+    {
+        "from": "baiter_1883",
+        "to": "scammer_1883",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.032893518518518516,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: From:Dr.Suleman Dabo",
+        "body": "Hello Dabo,\n\nThank you for reaching out to me. I'm quite intrigued by your message and would love to learn more about this opportunity. Could you please provide more details about the process and how it works? \n\nI'm a bit confused about why you need all that information though. Could you explain why it's necessary? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nWalker"
+    },
+    {
+        "from": "baiter_1883",
+        "to": "scammer_1883",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03297453703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: From:Dr.Suleman Dabo",
+        "body": "Hello Dabo,\n\nThank you for reaching out to me. I'm really excited about this opportunity. However, I'm a bit confused about the process. Could you please explain it to me in simpler terms? \n\nAlso, could you tell me more about your role as Chief of the Telex Department at the Central Bank of Nigeria? It sounds like a very important position.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nWalker"
+    },
+    {
+        "from": "baiter_1883",
+        "to": "scammer_1883",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.11380787037037036,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: From:Dr.Suleman Dabo",
+        "body": "Hello Dabo,\n\nThank you for reaching out to me. I'm really excited about this opportunity. However, I have a few questions before we proceed further.\n\nCould you please explain more about the process? How does it work exactly? And what is the purpose of collecting all these details?\n\nI'm also curious about the total payment value. Could you provide more information on that?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nWalker"
+    }
+]

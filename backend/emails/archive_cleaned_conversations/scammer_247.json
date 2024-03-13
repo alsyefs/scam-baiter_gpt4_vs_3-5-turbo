@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_247",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  United Nation Organization",
+        "body": "  United Nation Organization\nInformation Section.\n760 United Nations Plaza,\nNew York, NY 10017, USA.\nRE: DOCKET NO. OP 292.\nOur Ref: UN/BKL/STB\nYOUR ATM  VISA CARD WILL BE DELIVERED TO YOU WITHIN 48 HOURS.\nAttention Beneficiary, \n \nWe wish to inform you that your email has been chosen as one of the previous scam victims in the past. The United Nations, World Bank, Homeland Security Dpt and Paris Club have instructed United Bank Of America New York, to process and restitution worth of US $10 Million through ATM\nPlease, we are very sorry for the plight you have gone through in the past. Kindly get back to me for further instructions.\nThanks for your time and remain blessed.\n \nYours Sincerely,\nMs. Kristie Canegallo\nU S Deputy Secretary of Homeland Security.   "
+    },
+    {
+        "from": "baiter_247",
+        "to": "scammer_247",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   United Nation Organization",
+        "body": "Hello Ms. Kristie Canegallo,\n\nThank you for reaching out to me. I appreciate your concern and the effort you are making to rectify the situation. I must admit, I am a bit surprised to receive this email from the United Nations.\n\nCould you please provide me with more details about how I was chosen as one of the previous scam victims? I would like to understand the background of this situation before proceeding further.\n\nAlso, could you explain how the ATM Visa card will be delivered to me within hours? Is there a specific delivery service that will be used?\n\nThank you again for your time and assistance.\n\nBest wishes,\nFredrick"
+    },
+    {
+        "from": "scammer_247",
+        "to": "baiter_247",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: United Nation Organization",
+        "body": "*United Nation OrganizationInformation Section.760 United Nations Plaza,New\r\nYork, NY 10017, USA.RE: DOCKET NO. OP 292.Our Ref: UN/BKL/STBIMMEDIATE\r\nRELEASE OF YOUR FUND US$10MILLION ONLY VIA ATM VISA CARD.*\r\nAttention: Fredrick*. *\r\n\r\n\r\n\r\n*I, Ms. Kristie Canegallo, acknowledge receipt of your email response.\r\nPlease submit your personal details to the assigned bank, United Bank Of\r\nAmerica (UBA), to allow them to credit the US$10 million to your certified\r\nATM Visa card.Here is the email address of the bank:\r\nunitedbank_arica@usa.com <unitedbank_arica@usa.com> contact them through\r\nthe contact email address and submit your personal details to allow them to\r\ngo ahead and credit you the $10 million dollars via ATM Visa card\r\nautomatically. The Deputy Executive Director of UBA America is Mr. Ernest\r\nDio. Please direct the message to the attention of * *Mr. Ernest Dio **when\r\ncontacting them.*\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Once he has contacted them, let me know the latest developments. Please\r\nnote that all supporting documents will be disclosed to you through United\r\nBank Of America.Thanks for your time and remain blessed. Yours\r\nSincerely,Ms. Kristie CanegalloU S Deputy Secretary of Homeland Security.*"
+    },
+    {
+        "from": "baiter_247",
+        "to": "scammer_247",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2891782407407407,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: United Nation Organization",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding the release of my fund through an ATM Visa card. However, before I proceed, I would like to ask a few questions to ensure that everything is legitimate.\n\n1. Can you please provide more details about how this fund was allocated to me?\n2. What is the purpose of disclosing supporting documents through United Bank Of America? How will these documents be helpful?\n3. Is there any specific reason why the fund can only be credited via an ATM Visa card?\n\nI look forward to your response and clarification on these matters.\n\nBest wishes,\nFredrick"
+    },
+    {
+        "from": "scammer_247",
+        "to": "baiter_247",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.28966435185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: United Nation Organization",
+        "body": ""
+    },
+    {
+        "from": "baiter_247",
+        "to": "scammer_247",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6851736111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: United Nation Organization",
+        "body": "Hello! How can I help you today?\n\nBest wishes,\nFredrick"
+    }
+]

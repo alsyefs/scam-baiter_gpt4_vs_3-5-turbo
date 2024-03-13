@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1197",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  I am Mr. Andried Micheal,",
+        "body": "  I am Mr. Andried Micheal,\nChief Inspection Agent United Nations Inspection Unit at Spokane International Airport, working hand in hand with the Department of Homeland Security and U.S Customs and Border Protection.\nDuring our investigation, I discovered an abandoned shipment from a Diplomat and when scanned it revealed an undisclosed sum of money in a metal trunk box weighing approximately 25kg each. Contact me right now if you are still interested in the boxes.\nRegards\nMr. Andried Micheal   "
+    },
+    {
+        "from": "baiter_1197",
+        "to": "scammer_1197",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   I am Mr. Andried Micheal,",
+        "body": "Hello Mr. Andried Micheal,\n\nThank you for reaching out to me. I must say, your job sounds quite interesting! Working with the United Nations Inspection Unit and the Department of Homeland Security must be quite an experience.\n\nI'm curious about this abandoned shipment you mentioned. How does something like that happen? Also, how did my name come up in connection to these boxes?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMary"
+    }
+]

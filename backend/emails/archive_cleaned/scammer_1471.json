@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1471",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "My name is Mr.   Donna Mchenne",
+        "body": "My name is Mr.   Donna Mchenney. I am the new  Chief Inspection Agent- at JFK International Airport and working hand in hand with the Department of Homeland Security and U.S Customs and Border Protection. During our\nInvestigation, I discovered an abandoned shipment from a Diplomat from London, UK and when opened it revealed an undisclosed sum of money in a metal trunk box weighing approximately 25kg each. The consignment was abandoned because the Content was not properly declared by the consignee as\nmoney rather it was declared as a personal effect to avoid diversion by the shipping agent and also the Diplomat's inability to pay for Non-Inspection Fees of US$6467. On my assumption, each of the boxes will contain\nabout 3Million to 4Million each, and the consignment is still left in the storage house today.  \n The consignments are two metal boxes with a weight of about 25kg each (Internal dimension: W61 x H156 x D73 (cm). Effective capacity: 110 LBS.)Approximately. The details of the consignment\nincluding your name, and the official document from the United Nations office in London were attached to the Metal Trunk boxes.  I have decided to attach to this mail a picture of the consignments captured during my inspection so that you can testify that what I am telling you is true. and genuine  All I need to do is obtain the required documents to release the consignments since your consignments are no longer under my authority and I no longer have access to them\nYou can send the required details to me by email for onward delivery. All communication must be held extremely confidential. I can get everything concluded within 5-6 hours upon your acceptance and proceed to your address for delivery if you assure me of sharing the content 30% for me / 70% with you on my arrival at your house.  I want us to transact this business with you and share the money since the shipper has abandoned it and disappeared. I will pay for the Non-inspection fee and arrange for the\nboxes to be moved out of this airport to your address by myself. But I will share it 30%: 70% with you. Do you agree? \nYours sincerely,\nDonna Mchenney"
+    },
+    {
+        "from": "baiter_1471",
+        "to": "scammer_1471",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: My name is Mr.   Donna Mchenne",
+        "body": "Hello Mr. Donna Mchenney,\n\nThank you for reaching out to me with this interesting opportunity. I must say, it sounds quite intriguing. I appreciate you sharing the details and even attaching a picture of the captured shipment. It definitely adds credibility to your story.\n\nI have a few questions before we proceed. Firstly, could you please clarify what exactly is required from me in terms of obtaining the necessary documents? Additionally, how long do you estimate it will take to complete this process?\n\nFurthermore, I would like to understand how the sharing of the money would work. Could you provide more information on that? And finally, what guarantees can you offer regarding the safety and legality of this transaction?\n\nThank you once again for considering me as a potential partner in this endeavor. I look forward to your response.\n\nBest wishes,\nBonnie"
+    }
+]

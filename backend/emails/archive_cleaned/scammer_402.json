@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_402",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Head office | Standard Charter",
+        "body": "Head office | Standard Chartered Bank |\nBasinghall Ave, London EC2V 5DD, UK\nTelefax. +44-0-579016544\nAttention.Beneficiary\nIn our efforts to foster global monetary cooperation, secure financial stability and facilitate individual and company economic growth.LIOYDS BANK through our international monitoring network has recovered your UNPAID FUND that has been on hold.You are reminded that we am under strict obligation to making  sure that your payment safely gets to you.\nYou are also reminded that the total amount of your overdue fund with us for payment to you is $10.5M (Nine Million Five Hundred Thousand United States Dollar Only).Go through your record to confirm if this amount is accurate.\nIn addition, \nyou are required to reconfirm your details/data so that we can cross check with the record in our file to be sure that we are corresponding with the bonafide owner of the fund to avoid wrong payment. Such reconfirm-able details are as follows.\nFull Name:...............\nAddress:....................\nCountry:.....................\nTelephone:....................\nMobile:........................\nEmail:.........................\nBank Name:--------------------------\nAddress:----------------------------\nAccount No.:------------------------\nRouting No.:------------------------\nSwift Code:-------------------------\nAccount Name:-----------------------\nAs soon as these details are received and confirmed from our record, you shall be informed of your payment schedule.Thanks for banking with Standard Chartered Bank while we looking forward to serving you with the best of our service.\nThanks and Congratulations in Advance.\nSincerely\nMr. Saif Malik.\nStandard Chartered Bank London"
+    },
+    {
+        "from": "baiter_402",
+        "to": "scammer_402",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Head office | Standard Charter",
+        "body": "Hello Mr. Saif Malik,\n\nThank you for reaching out to me from Standard Chartered Bank London. It's quite a surprise to hear about this overdue fund of Nine Million Five Hundred Thousand United States Dollar. I must say, it's a significant amount and I'm curious as to how this came about.\n\nBefore we proceed, could you please provide more information on how my name was associated with this fund? Also, could you explain the process that will be followed once the details are confirmed?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nDenise"
+    }
+]

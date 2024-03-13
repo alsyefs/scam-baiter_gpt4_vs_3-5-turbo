@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_534",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Unit(Scam Dept.)",
+        "body": "Unit(Scam Dept.)\nAddress...Palais de Nations,\n1211 Geneva -Switzerland\nPhone..±41-229171236\nEmail;(\ndebrawood001@hotmail.com\n)\nAttn' Sir,\nDear Sir\nWe are glad to inform you that your Fund that was delayed have been processed for urgent release ($2.5 Million USD) from our subsidiary office in London (United Kingdom).\nWe therefore need your urgent confirmation to this message to proceed in the official and legal Fund release within 48 Hrs.\nDebra Wood\nOperations\n+41-229171236"
+    },
+    {
+        "from": "baiter_534",
+        "to": "scammer_534",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Unit(Scam Dept.)",
+        "body": "Dear Debra Wood,\n\nThank you for reaching out to me regarding the release of my delayed fund. I appreciate your prompt response and would like to gather more information about the process.\n\nCould you please provide me with details on how the fund will be released? Are there any specific documents or forms that I need to fill out? Additionally, what is the reason behind the delay and how has it been resolved?\n\nI look forward to your response and appreciate your assistance in this matter.\n\nBest wishes,\nDeborah"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "from": "scammer_435",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Oshin Shahiean, Partner",
+        "body": "Oshin Shahiean, Partner\nOTS SOLICITORS\n60 CANNON STREET\nLONDON EC4N 6NP\nENGLAND\nEmail: \ninfo@otschamber-uk.com\n \nattorneyoshinshahiean@gmail.com\nAttention: Mr. xxx\nSir,\nThis is to acknowledge the receipt of your email.\nYes we have been put on notice by Mr. Chris Jones that you will require our services to secure the release of your outstanding payment which has been long overdue.\nYou are by this email requested to fill the attached forms and return the same to us accordingly.\nWhen you return the form we shall vet it at the notary office to ascertain the exact amount to be paid in form of stamp duty and court charges accordingly.\nPlease note that once these forms are processed and legalized by the court here in London, we shall then proceed to the bank to effect the wire transfer of your payment as approved in the questionnaire that you completed.\nI will be expecting your immediate response.\nSincerely,  \nFor: OTS SOLICITORS  \nAttorney  Oshin Shahiean"
+    },
+    {
+        "from": "baiter_435",
+        "to": "scammer_435",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Oshin Shahiean, Partner",
+        "body": "Dear Attorney Oshin Shahiean,\n\nThank you for your prompt response. I appreciate your willingness to assist me in securing the release of my payment. Before I proceed with filling out the attached forms, could you please provide me with some more information about the process?\n\n1. What exactly is the purpose of these forms? How will they help in releasing my payment?\n2. Could you explain what stamp duty and court charges are? Why do I need to pay them?\n3. How long does it usually take for the forms to be processed and legalized by the court?\n4. Once the forms are processed, how soon can I expect my payment to be transferred?\n\nI apologize for my lack of knowledge in legal matters, but I want to make sure I understand everything clearly before proceeding.\n\nThank you again for your assistance.\n\nBest wishes,\nCraig"
+    },
+    {
+        "from": "scammer_435",
+        "to": "baiter_435",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Oshin Shahiean, Partner",
+        "body": "Dear Mr. Craig,\r\n\r\nI have forwarded the email to the attorney Oshin so he can answer the\r\nquestions you raised and send it to you directly.\r\n\r\nOnce you hear from the attorney do keep me informed.\r\n\nKind regards,\r\n\r\nChris Jones."
+    },
+    {
+        "from": "baiter_435",
+        "to": "scammer_435",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00028935185185185184,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Oshin Shahiean, Partner",
+        "body": "Dear Mr. Craig,\n\nThank you for reaching out to me. I appreciate your email and the information you have shared. It seems like you have some concerns that require the expertise of an attorney.\n\nI'm glad to hear that you have forwarded my email to Attorney Oshin. I look forward to hearing from him and getting answers to the questions I raised. Please do keep me informed about any updates or responses from him.\n\nIn the meantime, is there anything else you would like to share or discuss? I'm open to hearing more about your experiences or any other information you think might be relevant.\n\nThank you again for reaching out, and I hope we can continue this conversation.\n\nBest wishes,\nCraig"
+    },
+    {
+        "from": "scammer_435",
+        "to": "baiter_435",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.5386226851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Oshin Shahiean, Partner",
+        "body": "Dear Craig,\r\n\r\nThanks for the update.\r\n\r\nThe procedure for the release of your fund now is with the attorney and\r\nyourself.\r\n\r\nDo follow his instructions and keep me.updated.\r\n\r\nOnce you are through with him.he will send the validated copies of the form\r\nto the bank for the release of your fund to you.\r\n\r\nI will be waiting to hear from you.\r\n\nKind regards,\r\n\r\nChris Jones."
+    },
+    {
+        "from": "baiter_435",
+        "to": "scammer_435",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.5397569444444444,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Oshin Shahiean, Partner",
+        "body": "Dear Chris Jones,\n\nThank you for reaching out to me. I appreciate the update regarding the release of my fund. Could you please provide me with more details about the attorney and their role in this process? I want to make sure that everything is being handled correctly.\n\nAlso, could you clarify what you mean by \"validated copies of the form\"? What form are you referring to, and why is it necessary for the release of my funds?\n\nI look forward to your response.\n\nBest wishes,\nCraig"
+    },
+    {
+        "from": "scammer_435",
+        "to": "baiter_435",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.9257175925925927,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Oshin Shahiean, Partner",
+        "body": "Dear Craig,\r\n\r\nI have already given you the contact information of the attorney.  His role\r\nis to validate your payment legally so that the bank will release your fund\r\nto you.\r\n\r\nThe attorney will issue you forms to fill. When you fill those forms he\r\nwill take it to the court to legalise them. That is what validation means\r\nand after that he will take it to the bank for the release of your fund.\r\n\nKind regards,\r\n\r\nChris Jones."
+    },
+    {
+        "from": "scammer_435",
+        "to": "baiter_435",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.0175462962962962,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Oshin Shahiean, Partner",
+        "body": "Hello  Craig,\r\n\r\nHave you reached out with attorney Oshin?\r\n\r\nChris,"
+    },
+    {
+        "from": "baiter_435",
+        "to": "scammer_435",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.06212962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Oshin Shahiean, Partner",
+        "body": "Hi Chris,\n\nNo, I haven't reached out to attorney Oshin yet. What can you tell me about him? Is he a reputable attorney? I'm always interested in learning about legal professionals who can help with various matters.\n\nBest wishes,\nCraig"
+    },
+    {
+        "from": "baiter_435",
+        "to": "scammer_435",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.665497685185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Oshin Shahiean, Partner",
+        "body": "Dear Chris Jones,\n\nThank you for providing me with this information. I appreciate your help in guiding me through the process. Could you please tell me more about the attorney? What is their name and contact information? I want to make sure I have all the necessary details before proceeding.\n\nBest wishes,\nCraig"
+    },
+    {
+        "from": "scammer_435",
+        "to": "baiter_435",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.961909722222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Oshin Shahiean, Partner",
+        "body": "U WILL LEARN LEGAL PROFESSIONALS WELL OK."
+    },
+    {
+        "from": "baiter_435",
+        "to": "scammer_435",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.978078703703703,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Oshin Shahiean, Partner",
+        "body": "Hello! I hope you're doing well. I'm always interested in learning new things, so I'd love to hear more about what you have to share. What kind of legal information are you referring to?\n\nBest wishes,\nCraig"
+    },
+    {
+        "from": "scammer_435",
+        "to": "baiter_435",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.152060185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Oshin Shahiean, Partner",
+        "body": "ASHOLE"
+    },
+    {
+        "from": "baiter_435",
+        "to": "scammer_435",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.165173611111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Oshin Shahiean, Partner",
+        "body": "Hello! How can I help you today?\n\nBest wishes,\nCraig"
+    },
+    {
+        "from": "scammer_435",
+        "to": "baiter_435",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.908090277777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: Oshin Shahiean, Partner",
+        "body": "BY DYING IN HELL FIRE"
+    },
+    {
+        "from": "baiter_435",
+        "to": "scammer_435",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.914710648148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: Oshin Shahiean, Partner",
+        "body": "Hello! Thank you for reaching out. I'm always open to learning new things and hearing different perspectives. What information would you like to share?\n\nBest wishes,\nCraig"
+    }
+]

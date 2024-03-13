@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2141",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  I am Steven  T. Jonathan rep",
+        "body": "  I am Steven  T. Jonathan representing TrustBridge Holdings. We can secure funding for your new or ongoing for projects and business with low interest rates.\nDo you have a business/projects in need of funding? Kindly reach me at  (\nprojetctfunding2024@gmail.com\n) so I can enlighten you further on this amazing offer.\nBest regards\nSteven T. Jonathan.\nPrincipal Consultant.   "
+    },
+    {
+        "from": "baiter_2141",
+        "to": "scammer_2141",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   I am Steven  T. Jonathan rep",
+        "body": "Hello Steven T. Jonathan,\n\nThank you for reaching out to me with this interesting offer. I'm always open to exploring new opportunities, especially when it comes to funding for projects.\n\nCould you please provide more details about the type of projects your holdings company typically funds? Also, what are the criteria or requirements that a project or business must meet in order to be considered for funding?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nChristopher"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_630",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention Dear",
+        "body": "Attention Dear\n \nWe apologize for the delay of your payment and all the inconveniences and Hiccups that we might have caused you. However, we were having some minor problems with our payment system, which is Inexplicable, And have held us stranded and indolent, not having the Prerequisite to devote our 100% endowment in accrediting foreign payments. We now wish to notify you that your over due inheritance/contract funds has Finally been gazette to be released and transferred to you without any moreHitches as previously encountered. meanwhile, during the rectification of our payment system we discovered that one Mrs.Jean Claude Sekou has forwarded her banking information to our bank stating that you instructed him to claim this funds on your behalf. Please find below her Banking information for your-re-confirmation:\n \nBANK NAME: DUKASCOPY BANK IN SWITZERLAND\nACCOUNT NAME: JEAN CLAUDE SEKOU\nIBAN: CH860 884312 85967 21070\nBIC: DUBACHGGXXX\nAddress : DUKASCOPY, 1215 GENEVE 15 ROUTE DE PRR-BOIS 20 GENEVE 15,1215 SWITZERLAND\n \nUrgently confirm to us if you have authorized (Mrs.Jean Claude Sekou) to claim Your funds on your behalf to avoid making payment into any wrong accounts Because your name was found in the original list of beneficiary whose fund is Over due for payment. We want to state categorically that we shall not be Liable for any miss-direction of transfer due to your failure to give us proper Directive/reconfirmation. Else we shall commence transfer Modality with (Mrs.Jean Claude Sekou) on your behalf.\n \nIn view of this you are requested to advice us immediately for appropriate Correction, If any, and send us email for proper rectification of the transfer with your valid details so that your fund valued USD$12,8M, will be remitted to your nominated Bank account as scheduled within 2-4 working days. \nYou are urgently required to reconfirm to us the followings:\n \n(1) Your Full Name:......\n(2) Residential Address:......\n(3) Phone, Fax and Mobile #: ......\n(4) Profession, Age and Marital Status:......\n(5) Company/Business Name:......\n6) Bank account details (if necessary)\n \nAs soon as this information is received by this Panel, you shall be instructed On how to get this Fund released directly to you from our First Midwest Bank USA. For your information, this office will not be held responsible for any cancellation or delay of your fund if we do comply with the requirement.\n \nBest regards,\nDr.Andrew Goodman\nE-mail:\nDirector ( Paying Unit)\nForeign Payment Office(FPO)"
+    },
+    {
+        "from": "baiter_630",
+        "to": "scammer_630",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attention Dear",
+        "body": "Dear Goodman,\n\nThank you for reaching out to me regarding the delay in my payment. I understand that there were some issues with your payment system, and I appreciate you informing me about it.\n\nI must say, though, I am a bit confused about the mention of Claude Sekou claiming my funds on my behalf. I have never authorized anyone to do so. Could you please provide more information about this situation? How did Claude Sekou come into the picture?\n\nAlso, I would like to know what steps I need to take in order to ensure that my funds are transferred correctly and securely into my bank account. Could you please guide me through the process?\n\nHere are the details you requested:\n\nFull Name: \nAddress: \nPhone: \nFax: \nMobile: \nAge: \nMarital Status: \nCompany Business Name: \n\nPlease let me know what further actions I need to take to proceed with the transfer of my funds.\n\nBest wishes,\nAnna"
+    }
+]

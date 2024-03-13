@@ -1,0 +1,92 @@
+[
+    {
+        "from": "scammer_1343",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn: Sir",
+        "body": "Attn: Sir\n \nZenith Bank Plc is using this pledge to inform you that your fund of USD$3.5Million has been credited into an ATM card which bears your name. \nYou are hereby advised to confirm to us with the below information, hence this will enable us to dispatch the card to your destination.\n1. Full Name:\n2. Address:\n3. Nationality/Sex:\n4. Age/Date of Birth:\n5. Occupation:\n6. Phone:\n7. State of Origin/Country:\n8. \nDriver's license\n:\n9. \nCopy Of Your Identity\n:\nOnce the required information has been sent, Inform us so that we shall disclose your tracking details to you.\nThanks for your cooperation.\n \nYours Faithfully,\nJoseph Favor"
+    },
+    {
+        "from": "baiter_1343",
+        "to": "scammer_1343",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attn: Sir",
+        "body": "Hello Joseph Favor,\n\nThank you for your message. It's quite exciting to hear about this ATM card! I'm curious, how did my name get selected for this? And could you please explain a bit more about how this process works?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nAntonio"
+    },
+    {
+        "from": "scammer_1343",
+        "to": "baiter_1343",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Attn: Sir",
+        "body": "Thank you for your mail and do send your full name , a scan copy of your\r\npassport or driver's license to enable me to direct you to the officer that\r\nwill dispatch your atm card to your doorstep. I wait to hear from you soon ."
+    },
+    {
+        "from": "baiter_1343",
+        "to": "scammer_1343",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0005324074074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Attn: Sir",
+        "body": "Hello there,\n\nThank you for your quick response. I'm really excited about this ATM card dispatch. However, I'm a bit confused about why you need a scan of my passport or driver's license. Could you please explain the process to me in more detail? \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nAntonio"
+    },
+    {
+        "from": "scammer_1343",
+        "to": "baiter_1343",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0011689814814814816,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Attn: Sir",
+        "body": "Thank you for your mail and do send your full name , a scan copy of your\r\npassport or driver's license to enable me to direct you to the officer that\r\nwill dispatch your atm card to your doorstep address . I wait to hear from\r\nyou soon ."
+    },
+    {
+        "from": "baiter_1343",
+        "to": "scammer_1343",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0020717592592592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Attn: Sir",
+        "body": "Hello there,\n\nThank you so much for your quick response. I'm really excited about this ATM card dispatch! It sounds like a great opportunity.\n\nHowever, I'm a bit confused about why you need a scan of my passport or driver's license. Could you please explain more about the process and why these documents are necessary? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAntonio"
+    },
+    {
+        "from": "baiter_1343",
+        "to": "scammer_1343",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0021527777777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Attn: Sir",
+        "body": "Hello there,\n\nThank you so much for your quick response. I'm really excited about this ATM card dispatch. However, I'm a bit confused about why you need a scan of my passport or driver's license. Could you please explain to me how it will help in the process? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAntonio"
+    },
+    {
+        "from": "scammer_1343",
+        "to": "baiter_1343",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.8993518518518515,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Attn: Sir",
+        "body": "Thank you for your mail and sending your phone and fax number including\r\nyour bank details , a scan copy page of your passport or driver's license\r\ntogether with your home address for the immediate release of this said fund\r\nin your name/favor , i wait to hear from you soon ."
+    },
+    {
+        "from": "baiter_1343",
+        "to": "scammer_1343",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.915960648148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Attn: Sir",
+        "body": "Hello there,\n\nThank you for reaching out to me. I appreciate your prompt response and the details you've provided. However, I must apologize as I am unable to provide the information you requested due to personal reasons.\n\nI'm quite interested in learning more about this fund release process though. Could you please explain it a bit more? How does it work exactly? And what are the next steps?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAntonio"
+    }
+]

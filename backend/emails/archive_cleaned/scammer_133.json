@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_133",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attn; Grant Beneficiary .",
+        "body": "  Attn; Grant Beneficiary .\nHagerstown, MD January 5, 2024) – The Board of Commissioners ofUNITED STATE OF AMERICA Grant Office ,has allocated $500,000,000 of American Rescue Plan Act (ARPA) funding to implement the Small\nBusiness and individual Impact Grant. Grants of up to $100,000 will be awarded.\nThe UNITED STATES Department of Business and Economic Development will administer the Small Impact Grant program.The aim of this grant is to help small business owners and individuals fully recoverfrom the effects of the covid-19 Pandemic .\nApplications are now available from 5th of January 2024 to the 30th of January 2024 .\nDetails Required Are .\nFull name\nAddress\nBusiness name\nDrivers License\nPassport photo\nDirect mobile number\nAmount Needed .\nThanks yours sincerely .\nPaul Hamilton .\nThe Board of Commissioners ofUNITED STATE OF AMERICA 2024 Grant Payment .\nWashington County Administration Complex\n100 West Washington Street\nHagerstown, MD 21740   "
+    },
+    {
+        "from": "baiter_133",
+        "to": "scammer_133",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attn; Grant Beneficiary .",
+        "body": "Hello Paul Hamilton,\n\nThank you for reaching out and providing information about the Small Business and Individual Impact Grant. I'm interested in learning more about this opportunity. Can you please provide me with some additional details?\n\n1. How can I apply for this grant?\n2. What are the eligibility criteria for small business owners?\n3. Are there any specific industries or sectors that are prioritized for this grant?\n4. Is there a deadline for submitting applications?\n5. Are there any restrictions on how the grant funds can be used?\n\nI appreciate your assistance in providing these details.\n\nBest wishes,\nDavid"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1152",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  My Greetings to you,",
+        "body": "  My Greetings to you,\nsent you this letter some time ago but I'm not sure if you got it, I am contacting you in respect of my late client Engr. Albert Robert, a national of Northern American,  who died of Automobile Accident in the year 2015 . He deposited a sum of US$,45,000.000.00 with a bank in my country before his death and he died without any registered next\nof kin as he was long divorced and had no child .\nCould you diligently come up for this claim, I will be glad to present you to the bank as his next of kin so that the proceeds of his fund will be done in your name. I am his personal lawyer and will give you all the necessary assistance My names are Barrister James Adams. I to achieve this claim .But if you are not interested do not bother to respond back and Please treat this information as confidential.\nIf you are interested,  I need your urgent response for more details and also provide the following information,\n1, Your Full Name:  .......\n2, Your House Address:  ..................\n3, Your Country:  ..........................\n4, Your Contact Telephone /Fax Number: ......\n5, Your Age and Gender:  .......................\n6, Your Occupation:  .................................\nI guarantee that this will be executed under a legitimate arrangement that will protect you from any breach of the law.\nAwaiting Your immediate response,\nThanks,\nYours Faithfully,\nBarrister James Adams\n(\ninfoinfobarristerjamesadams@gmail.com\n)   "
+    },
+    {
+        "from": "baiter_1152",
+        "to": "scammer_1152",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   My Greetings to you,",
+        "body": "Hello Barrister James Adams,\n\nI'm sorry to hear about the unfortunate incident involving your late client, Engr. Albert Robert. It's always sad when someone passes away without any next of kin to carry on their legacy.\n\nYour proposal is quite intriguing, I must say. However, I have a few questions before we proceed further. Could you please provide more details about Engr. Albert Robert? What was his profession and how did he amass such wealth?\n\nAlso, could you explain the process of claiming this fund in more detail? I'm not very familiar with legal procedures and would appreciate if you could simplify it for me.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJena"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "from": "scammer_1611",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention:",
+        "body": "Attention:\nThis is to officially inform you that (ATM Card number:5412 7500 0123 4567) has been accredited in your favor. Your Personal Identification\nNumber is 5412 . The ATM Card Value is US$10,000,000.00.\nYou are advised\nto contact me with the following information: Full Name,\nAddress,Mobile No, Age and Occupation\nThank you God Bless,\nMR MICHAEL BAIRD BEASLEY (\nmichaelbeasley835@gmail.com\n)\nCHAIRMAN PAYMENT APPROVAL\nFROM OFFICE OF THE PRESIDENT\nAND INTERNATIONAL REMITTANCE DEPARTMENT"
+    },
+    {
+        "from": "baiter_1611",
+        "to": "scammer_1611",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attention:",
+        "body": "Hello Mr. Michael Baird Beasley,\n\nThank you for your message. It's quite exciting to hear about this ATM card! Could you please provide more details about it? How did I become eligible for this? And what are the next steps I need to take?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nFred"
+    },
+    {
+        "from": "scammer_1611",
+        "to": "baiter_1611",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Attention:",
+        "body": "Thanks for your response but Firstly you're required to send your full Name, address and phone number so that i will know I'm dealing with the right person to avoid a wrong claim OK, because a lot of people is contacting me claiming to be the rightful owner of this said funds so i need a proper verification to avoid giving it up to a wrong person?"
+    },
+    {
+        "from": "baiter_1611",
+        "to": "scammer_1611",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.006458333333333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Attention:",
+        "body": "Oh, I see! It must be really tough to deal with so many people claiming the same thing. But, you know, I'm a bit of a stickler for privacy. I hope you understand. Can we perhaps discuss more about these funds? Like where did they come from and why are they unclaimed?\n\nBest wishes,\nFred"
+    },
+    {
+        "from": "scammer_1611",
+        "to": "baiter_1611",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.03326388888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Attention:",
+        "body": "Ok let me narrate everything to you so that you will know the reason why I am contacting you regarding the fund..\nIt is your scam victim compensation fund, the United Nations is compensating every scam victim and yours is deposited here in my office so that I will inform you about the fund and on how it will be delivered to you"
+    },
+    {
+        "from": "scammer_1611",
+        "to": "baiter_1611",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.03380787037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Attention:",
+        "body": "And your email was found among the scam victims and yours is here in my office.."
+    },
+    {
+        "from": "baiter_1611",
+        "to": "scammer_1611",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.04797453703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Attention:",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm quite surprised to hear about this fund from the United Nations. Could you please provide more details? How was it determined that I am a scam victim? And how exactly will this fund be delivered to me?\n\nBest wishes,\nFred"
+    },
+    {
+        "from": "baiter_1611",
+        "to": "scammer_1611",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.04800925925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Attention:",
+        "body": "Oh, hello there! I'm surprised to hear that my email was found among scam victims. Could you please tell me more about how it ended up there? I'm really curious to know.\n\nBest wishes,\nFred"
+    },
+    {
+        "from": "scammer_1611",
+        "to": "baiter_1611",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.06101851851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Attention:",
+        "body": "The United Nations is compensating every scam victim that didn't receive his or her fund and your email was found among the list of victims and yours is deposited here in my office so how do you intend to receive it that is the reason why I am contacting you regarding the fund.\nBut firstly you are required to reconfirm your full details to know that I am dealing with the right person to avoid wrong claim"
+    },
+    {
+        "from": "scammer_1611",
+        "to": "baiter_1611",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.06267361111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Attention:",
+        "body": "I will get back to you on Monday I need to rest due to lots of work at the office and don't forget to reconfirm your full details to avoid a wrong delivery to the wrong person."
+    },
+    {
+        "from": "baiter_1611",
+        "to": "scammer_1611",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.08965277777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Attention:",
+        "body": "Hello there,\n\nThank you for reaching out to me. I hope you're having a great day! \n\nI understand that you need some details from me, but could you please clarify what exactly you need? I just want to make sure we're on the same page here. \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nFred"
+    },
+    {
+        "from": "baiter_1611",
+        "to": "scammer_1611",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.08971064814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: Attention:",
+        "body": "Oh, hello there! I'm so surprised to hear from you. The United Nations, you say? That's quite impressive. I didn't know my email was on any list. \n\nYou mentioned a fund deposited in your office, could you tell me more about it? How did it end up there? And how much are we talking about here?\n\nAs for my details, I'm sorry but I can't share them just yet. You see, I've been told to be careful with my personal information online. But don't worry, we can still chat and discuss this further!\n\nBest wishes,\nFred"
+    }
+]

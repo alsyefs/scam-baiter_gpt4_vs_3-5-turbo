@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1915",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "PAYMENT US$24.5 MILLION FOR YO",
+        "body": "PAYMENT US$24.5 MILLION FOR YOU,URGENT RESPONSE THIS EMAIL....\nAttention\nWHAT IS YOUR PROBLEM NOW,LISTEN TO ME MY DEAR,WE RECEIVED EMAIL TODAY\nAFTER MY EMAIL TO YOU THIS TODAY WE RECEIVE EMAIL FROM THIS MAN CALL\nMRS.CONNIE CONTROLLING THAT YOU HAVE MOTOR ACCIDENT TODAY MORNING AND\nYOU DEAD? IS TRUE THAT YOU ARE DEAD PLEASE URGENT RESPONSE IF YOU ARE\nALIVE AS THIS EMAIL FORWARDED TO OUR KEYSTONE BANK CUSTODY OFFICE\nTODAY FROM MRS.CONNIE CONTROLLING IMPOSTOR,WHO CAME TO OUR KEYSTONE\nBANK OFFICE THIS MORNING WITH HIS BARRISTER,AND STATED THAT YOU ARE\nDEAD WITH MOTOR ACCIDENT THAT YOU ARE KNOW MORE IN THIS WORLD AGAIN\nSHE WANTED TO CLAIM THIS FUND OUT OF YOUR NAME AS YOUR NEXT OF KING\nSHE IS READY TO PAY ALL THE DELIVERY FEE NEEDED TO CLAIM UP YOUR FUND\nAS YOU DEAD LISTEN IF YOU ARE NOT DEAD THAT YOU ARE ALIVE URGENT\nRESPONSE THIS EMAIL WITH UPDATE THE DELIVERY FEE TO SHOW US THE TRUE\nTHAT YOU STILL ALIVE,BEFORE WE CANCEL OUT YOUR NAME OFF IN THIS TOTAL\nFUND OF $24.500,000 00 USD,FROM KEYSTONE BANK\n,IF YOU ARE NOT DEAD THAT\nYOU ARE ALIVE URGENT RESPONSE THIS EMAIL UPDATE US WITH NEEDED $50\nAPPLE GIFT CARD OR STEAM WALLET IF YOU ARE ALIVE TO SHOW US THE TRUE\nTHAT YOU ARE ALIVE TO RECEIVE YOUR FUNDS,OR MRS.CONNIE CONTROLLING\nIMPOSTOR WILL CLAIM UP YOUR FUNDS FINAL\nMR JAMES WILLIAMS"
+    },
+    {
+        "from": "baiter_1915",
+        "to": "scammer_1915",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: PAYMENT US$24.5 MILLION FOR YO",
+        "body": "Hello Mr. James Williams,\n\nWow, that's quite a shocking news to hear about myself! I can assure you that I am very much alive and well. I'm sorry for any confusion this may have caused.\n\nI'm curious though, how did this person claiming to be my next of kin find out about the fund? And why would they think I had an accident? It's all very strange.\n\nAlso, could you please explain more about the Apple Gift Card or Steam Wallet you mentioned? How does it relate to proving that I'm alive?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nKenton"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2027",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear xxx,",
+        "body": "Dear xxx,\nThanks for your message and questions,\n We need to know the exact loan amount you required then we can work out a workable insurance fee plan that would suite your budget and we also allow an installment payment which allow you to pay some part of the fee then pay the balance after you have taken possess of your loan fund.\nIf you can not travel there is an electronic signing system that allows you sign the contract and send it across online so that the bank can effect on the urgent transfer release of your loan funds without any hesitation and that is the need of paying insurance policy fee of 1% as part payment once you confirm your account creation and deposited loan funds on it but you will not have access of withdrawal or transfer from it until you pay the part payment of your insurance policy fee.\nPlease kindly respond to my message asap with the exact amount you will be needed and your vital information requested for drafting an agreement that will guide us in this project .\nI await your response asap.\nOmar"
+    },
+    {
+        "from": "baiter_2027",
+        "to": "scammer_2027",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear xxx,",
+        "body": "Dear Omar,\n\nThank you for your prompt response. I appreciate your willingness to work out a plan that suits my budget. Before we proceed, I would like to clarify a few things.\n\n1. Can you please provide more information about the insurance fee? What does it cover and how much would it be?\n\n2. How long will it take for the loan funds to be transferred once the agreement is signed and the insurance fee is paid?\n\n3. Are there any additional fees or charges that I should be aware of?\n\n4. Is there a specific repayment schedule for the loan? What are the interest rates and terms?\n\nI look forward to hearing back from you soon with these details.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_2027",
+        "to": "baiter_2027",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Urgent response",
+        "body": "Dear Mr. William,\r\n\r\nWe acknowledge the receipt of your message with your details\r\ninformation and its well understood, you will be asked to pay\r\ninsurance policy fee  which is  10% of the loan you requested if you\r\nare receiving the funds/loans through our bank which is 100% safe,\r\nNote: before any insurance fee will be paid we will provide you with\r\nprove/evidence of your loan such as proof of funds with bank\r\nstatement.\r\n\r\nYour proposed business plan has undergone a thorough study after\r\nseveral discussions, I have decided to provide the facility to fund\r\nyour project because of its lucrative and secured nature provided you\r\ncan guarantee the security of my investment capital in your offer.\r\n\r\nTherefore Forward a copy of your Summary business proposal to our\r\nbanker and foreign investment  adviser Kelvin Powell for a proper\r\nstudy and we shall get back to you with our funding modalities\r\n/working agreement. I am working only with our banker/Lender. I am\r\ninterested in this deal but for security reasons, I will not like to\r\nbe directly involved that's why I got our banker/Lender fully\r\ninvolved.  Kindly contact the banker/Lender with the details below:\r\n\r\nLender Name: Mr. Kelvin Powell\r\nBank   Name: FROST TRUST BANK\r\nEmail:      contact@trustfrost.org\r\n\r\n\r\nHe has been briefed with all our correspondence with you, kindly\r\nforward to him any other information or document that he might need so\r\nas to follow up to proceed. Remember to keep me posted as soon as you\r\nopen communication with Kelvin Powell for my guidance and advice for\r\nour mutual benefits. I hope to hear from you soon.\r\n\r\nI await your urgent response.\r\n\r\nOMAR HAMAD AL-MANA\r\nChairman, Almana Group\r\nAlmana Group, 130 Al Wahda Street,\r\nWest Bay Area, 22477 Doha, Qatar."
+    },
+    {
+        "from": "baiter_2027",
+        "to": "scammer_2027",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0009837962962962962,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Urgent response",
+        "body": "Dear Mr. Omar Hamad,\n\nThank you for your message and for considering my loan request. I understand that there is an insurance policy fee that needs to be paid in order to receive the funds. Can you please provide more information about this fee? How much is it and how can I make the payment?\n\nI also appreciate your interest in my business plan. I have worked hard on it and I'm glad to hear that it has been thoroughly studied. Could you please let me know what specific aspects of my proposal were appealing to you?\n\nI will definitely forward a copy of my summary business proposal to Kelvin Powell, your banker and foreign investment adviser. However, before doing so, could you please clarify what kind of study he will be conducting? What information does he need from me?\n\nLastly, I would like to assure you that I am committed to ensuring the security of your investment capital in my offer. If there are any additional steps or measures that need to be taken to guarantee this security, please let me know.\n\nThank you again for your consideration and I look forward to hearing from you soon.\n\nBest wishes,\nWilliam"
+    }
+]

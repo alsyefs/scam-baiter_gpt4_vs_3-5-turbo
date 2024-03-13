@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_487",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "We have experienced exponentia",
+        "body": "We have experienced exponential growth \nsince our establishment in 1972\n, earning the title of \"The Bank You Can Trust.\" Thanks to its reputable management's competency, which has been very steady, as well as its unwavering strategy, constant profitability, good asset quality, and solid capitalization over the years. We have been successful in creating a cutting-edge banking organization that gives individual, corporate, and institutional clients access to a full range of cutting-edge and unmatched financial and investment services and solutions."
+    },
+    {
+        "from": "baiter_487",
+        "to": "scammer_487",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: We have experienced exponentia",
+        "body": "Hello there! Thank you for reaching out and sharing this information about your bank. It's great to hear that you have experienced growth and earned the title of \"The Bank You Can Trust.\" I'm curious to know more about your reputable strategy and constant good asset quality. Could you please provide some specific examples or details?\n\nBest wishes,\nWilliam"
+    }
+]

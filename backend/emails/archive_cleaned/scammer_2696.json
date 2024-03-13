@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_2696",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention:Beneficiary,",
+        "body": "  Attention:Beneficiary,\nI was instructed from above to release your funds through ATM DEBIT MASTERCARD within 48hrs. You are advised to forward your information such as full name, address, whatsapp  number, identity card.\nYours faithfully,\nMr. John Ndu\nForeign Payment Due Process Unit\nFederal Republic of Nigeria     "
+    },
+    {
+        "from": "baiter_2696",
+        "to": "scammer_2696",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention:Beneficiary,",
+        "body": "Hello Mr. John Ndu,\n\nThank you for reaching out to me. I appreciate your assistance in releasing my funds through an ATM Debit Mastercard. However, before I provide any personal information, could you please clarify a few things for me?\n\n1. Can you explain the process of how the funds will be transferred to the ATM Debit Mastercard?\n2. Is there any fee or cost associated with this transfer? If so, what are the details?\n3. Are there any specific requirements or documents that I need to provide in order to receive the funds?\n\nI look forward to your response and further guidance.\n\nBest wishes,\nErin"
+    },
+    {
+        "from": "scammer_2696",
+        "to": "baiter_2696",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Attention:Beneficiary,",
+        "body": "The important thing is to send your details such as a full name, address,\r\nmobile number, it's cost you  some money for documentation. The Mastercard\r\nwill deliver to you within 48hrs.\nThanks\r\n\r\nMr.John Ndu"
+    },
+    {
+        "from": "baiter_2696",
+        "to": "scammer_2696",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0006365740740740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Attention:Beneficiary,",
+        "body": "Hello Ndu,\n\nThank you for reaching out to me. I appreciate your willingness to share information with me. However, I have a few questions before I proceed. Could you please provide more details about the Mastercard? What are the benefits and features it offers? Also, what is the cost involved in obtaining it?\n\nI'm interested in learning more about this opportunity, but I would like to gather all the necessary information first. Thank you for your understanding.\n\nBest wishes,\nErin"
+    },
+    {
+        "from": "scammer_2696",
+        "to": "baiter_2696",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.1529513888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Attention:Beneficiary,",
+        "body": "You have to send your information I will confirm how much it will cost you\r\nto receive the mastercard."
+    },
+    {
+        "from": "baiter_2696",
+        "to": "scammer_2696",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.15342592592592594,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Attention:Beneficiary,",
+        "body": "Hello there! Thank you for reaching out. I'm interested in learning more about the cost involved in receiving whatever it is you're offering. Could you please provide me with some additional details?\n\nBest wishes,\nErin"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_706",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  My name is Engr. Joly SH, I ",
+        "body": "  My name is Engr. Joly SH, I am contacting you because of my present predicament and circumstances, I am an esophageal Cancer patient, and presently hospitalized.\nMy doctor says I have a few months to live.\nI have been touched by God to donate what I have inherited from my late husband to you for good work of God.  I will be going in for a surgery soon.\nI decided to WILL/donate the sum of 7million USD to you for the good work of God in order to help the less privileged, orphanage homes, those affected by cancer for their medical support and treatment.\nAnd then for your support and efforts to fulfill this mission, 30% of this fund will be for you, and the rest 70%, you will use it to support the above-mentioned organizations as our agreement.\nPlease help me to fulfill this my last wish.\nGod knows us, and he has a reason and a great purpose of directing this message to you.\nI will provide you with more detailed information after knowing your willingness to handle this fund.\nThanks, and God bless.\nEngr. Joly SH   "
+    },
+    {
+        "from": "baiter_706",
+        "to": "scammer_706",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   My name is Engr. Joly SH, I ",
+        "body": "Hello Engr. Joly SH,\n\nThank you for reaching out to me and sharing your story. I'm sorry to hear about your health condition, and I hope you're receiving the best possible care.\n\nI appreciate your intention to donate a significant sum of money for a good cause. It's wonderful that you want to help orphanage homes and those affected by cancer. Can you please provide more details about the fund? How much exactly are you planning to donate, and how would you like me to handle it?\n\nAlso, I would like to know more about your late husband and his wishes regarding this donation. Understanding the background will help me better understand the purpose behind this generous act.\n\nThank you again for considering me for this opportunity. I look forward to hearing from you soon.\n\nBest wishes,\nMartha"
+    }
+]

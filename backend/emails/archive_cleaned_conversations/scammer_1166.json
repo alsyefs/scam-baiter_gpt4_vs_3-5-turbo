@@ -1,0 +1,72 @@
+[
+    {
+        "from": "scammer_1166",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Ref: UN US$1,500,000 Compens",
+        "body": "  Ref: UN US$1,500,000 Compensation for scam victims.\n          Dear Sir/Ma,\n        It is noted that scam crime is on the increase across the World and\n        investigations by UN revealed that several people who have fallen\n        victim to scam crime are usually left either bankruptcy, deserted by\n        families, sick or even dead.\n        To have a peaceful and healthy society, U.N. in collaboration with the\n        World Bank as co sponsors, have began implementing the FBI\n        recommendations to bring relief to the victims, hence a compensation\n        of US$1, 500,000.00 to each victim.\n        We need your information that will enable us to certify the report of\n        your involvement in this scam as revealed by the FBI reports. The\n        required details are your full name, cell phone number, home address,\n        copy of Valid ID card and banking coordinates.\n      Please note, if your transaction is already ongoing and you\nreceive this message,\n      ignore it.\n        Congratulations.\n        Eric Holmes.\n        UN New York.   "
+    },
+    {
+        "from": "baiter_1166",
+        "to": "scammer_1166",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Ref: UN US$1,500,000 Compens",
+        "body": "Hello there! I received your message. Could you please provide more details about it?\n\nBest wishes,\nAshley"
+    },
+    {
+        "from": "scammer_1166",
+        "to": "baiter_1166",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Ref: UN US$1,500,000 Compens",
+        "body": "What do you need to know more about your compensation funds?"
+    },
+    {
+        "from": "baiter_1166",
+        "to": "scammer_1166",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0018171296296296297,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Ref: UN US$1,500,000 Compens",
+        "body": "Hello there! I'm curious to know more about how these funds are managed. Could you explain the process to me?\n\nBest wishes,\nAshley"
+    },
+    {
+        "from": "scammer_1166",
+        "to": "baiter_1166",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.8910416666666666,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Ref: UN US$1,500,000 Compens",
+        "body": "United Nations Headquarters\r\n 05 E 42nd St, New York, NY 10017, USA\r\n\r\n\r\n Re: Your $1,500,000 Compensation fund.\r\n\r\n Dear    Ashley   ,\r\n\r\n We believe you are one of the scam victims as recommended by the FBI and\r\nthe UN Nigeria. Which is why you were awarded this funds, $1,500,000along\r\nwith some other beneficiaries. The Federal Reserve Bank, our chosen bank\r\nwill complete the transaction by wire of the funds to your account as soon\r\nas your clearance authorization is transmitted to the FRB by the UN\r\nNigeria. Which is why we require your full details, full name, address and\r\nrecipient bank information to process your transaction and get it done.\r\n\r\nSee attached copy of my work id for your perusal.\r\n\r\n Best regards.\r\n\r\n Eric W. Holmes.\r\n U.N.New York."
+    },
+    {
+        "from": "baiter_1166",
+        "to": "scammer_1166",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9177546296296296,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Ref: UN US$1,500,000 Compens",
+        "body": "Hello Eric W. Holmes,\n\nThank you for reaching out to me. I'm quite surprised by this news, but also a bit confused. Could you please explain more about how I became a victim? And what exactly is the role of the FBI and UN Nigeria in this situation?\n\nAlso, could you clarify what you mean by \"awarded this funds\"? Is there a specific amount that has been allocated to me? \n\nI understand that The Federal Reserve Bank will be handling the transfer of these funds. However, I'm not sure what you mean by \"clearance\". Could you elaborate on that?\n\nLastly, I appreciate your request for my personal details, but due to privacy concerns, I prefer not to share them over email. Is there another secure method we can use for this process?\n\nLooking forward to your response.\n\nBest wishes,\nAshley"
+    },
+    {
+        "from": "scammer_1166",
+        "to": "baiter_1166",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.9897916666666666,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Ref: UN US$1,500,000 Compens",
+        "body": "United Nations Headquarters\r\n 05 E 42nd St, New York, NY 10017, USA\r\n\r\n\r\n Re: Your $1,500,000 Compensation fund.\r\n\r\n Dear    Ashley   ,\r\n\r\n Okay. The FBI conducted a massive investigation after the report from the\r\nUnited Nations office in Nigeria regarding victims of scam. Here your name\r\nwas involved among other victims and so recommendations were made which\r\nincludes you for compensation. And so you were awarded a compensation fund\r\nin the amount of $1,500,000. Yes, the UN Nigeria is responsible for the\r\nverification and release of your clearance authorization to the Federal\r\nReserve Bank of New York, who in turn will complete your transaction by\r\nwire transfer. We need only your full name, cell phone no. and your bank\r\naccount to get it done. This method of processing  has been secured.\r\n\r\n Best regards.\r\n\r\n Eric W. Holmes.\r\n U.N.New York."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_82",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Al Maha Financial Services is ",
+        "body": "Al Maha Financial Services is an independent, private investment management company with offices in Muscat, Sultanate of Oman. Since its establishment in August 2009, the company has built a strong reputation and a proud history of providing exceptional services. Currently, we manage $17.1bn and employ more than 50 members of staff worldwide. The headquarters of Al Maha Financial Services LLC is located in Muscat, Oman. The company operates in the finance sector and specializes in providing a range of services, including brokerage, investment banking, asset management, SMS trade confirmations, fund transfers, and deposit facilities. Our asset management services encompass portfolio management, portfolio maintenance and reconstruction, as well as key investment mandates."
+    },
+    {
+        "from": "baiter_82",
+        "to": "scammer_82",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Al Maha Financial Services is ",
+        "body": "Hello there! Thank you for sharing information about Al Maha Financial Services. It sounds like a reputable company with a wide range of services in the finance sector. I'm curious to know more about your investment management strategies. Could you please tell me how Al Maha Financial Services approaches portfolio management and what sets it apart from other companies in the industry?\n\nBest wishes,\nCarla"
+    }
+]

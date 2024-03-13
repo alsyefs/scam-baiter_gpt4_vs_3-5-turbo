@@ -1,0 +1,182 @@
+[
+    {
+        "from": "scammer_1746",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attn; ,",
+        "body": "  Attn; ,\nBased on our investigation of your payment, we want to find out if you're still alive or did you sign any deed of assignment with (Mrs. Sarah Johnson.) to receive your fund, reply to us with:\nYour Names:....................\nYour Home/Office Address:......\nYour Phone Number:.............\nMobile Number:.................\nYour Occupation:...............\nYour Age/Sex:..................\nDirect Email Address.............\nRegards,\nLiam Jacob.   "
+    },
+    {
+        "from": "baiter_1746",
+        "to": "scammer_1746",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attn; ,",
+        "body": "Hello Liam Jacob,\n\nThank you for reaching out to me. I hope this message finds you well. I appreciate your concern about my payment and the need to verify my status.\n\nHowever, before I provide any personal information, could you please clarify a few things for me? Firstly, what payment are you referring to? Secondly, who is Mrs. Sarah Johnson and why would I have signed a deed of assignment with her?\n\nOnce I have a better understanding of the situation, I will be happy to assist you further. Looking forward to your response.\n\nBest wishes,\nElizabeth"
+    },
+    {
+        "from": "scammer_1746",
+        "to": "baiter_1746",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Attn; ,",
+        "body": "INTERNATIONAL MONETARY FUND (IMF).\r\nDEPT: WORLD DEBT RECONCILIATION AGENCIES.\r\nADVISE: YOUR OUTSTANDING PAYMENT NOTIFICATION.\r\n\r\nAttention: Harendra Dave,\r\n\r\nThanks for your response.\r\n\r\nHowever,I acknowledge the receipt of your message which all you stated we\r\nnoted and well understood also i will like to answer your questions.\r\n\r\n1.Why i contacted you for this payment is because your first name and email\r\naddress is in our contact that was why you were contacted.\r\n\r\n2.Mrs Sarah Johnson is someone who claimed to be you and contacted us that\r\nthis funds belongs to her that you sent her to claim the funds which is the\r\nsum of $7.5M on your behalf .\r\n\r\n3.I wouldn't have known if you signed any deed with her. That is the reason\r\nwe have to write you via email if you did so.\r\n\r\nIn your interest let me hear from you as soon as possible.\r\n\r\nYours Sincerely,\r\nMr. Liam Jacob.\r\nInternational Monetary Fund.\r\n\r\n\r\n\r\n+++++++++++++++++++++++++++++YOUR RESPOSE++++++++++++++++++++++++"
+    },
+    {
+        "from": "baiter_1746",
+        "to": "scammer_1746",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0006944444444444445,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Attn; ,",
+        "body": "Dear Mr. Liam Jacob,\n\nThank you for your prompt response. I appreciate you taking the time to address my questions. I must admit, I am a bit confused about the situation you mentioned regarding Sarah Johnson claiming that the funds belong to her. I have never heard of this person before and I certainly did not send her to claim any funds on my behalf.\n\nCould you please provide more details about how she contacted you and what information she provided? It is important for me to understand the full picture before taking any further action.\n\nAlso, could you clarify what deed you are referring to? I don't recall signing any deed with anyone recently, so it would be helpful if you could explain further.\n\nThank you once again for your assistance. I look forward to hearing back from you soon.\n\nBest wishes,\nElizabeth"
+    },
+    {
+        "from": "scammer_1746",
+        "to": "baiter_1746",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.009270833333333334,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Attn; ,",
+        "body": "INTERNATIONAL MONETARY FUND (IMF).\r\nDEPT: WORLD DEBT RECONCILIATION AGENCIES.\r\nADVISE: YOUR OUTSTANDING PAYMENT NOTIFICATION.\r\n\r\nAttention: Harendra Dave,\r\n\r\nThanks for your quick response.\r\n\r\nI will start by saying that many people and their relations might have done\r\nand sign some contract/deed with foreign countries unknowingly to the\r\nfamily members years ago so we are trying to see if the payment which\r\nunpaid to there relations\r\n\r\nFurthermore,Kindly understand that it is important this claim is made\r\nbecause we have noticed that Mr.Sarah Johnson is trying to make this claim\r\nwithout the correct information in our directories.\r\n\r\nAlso,We are trying to see that every family involved in this unpaid\r\ncontract receives their funds with immediate effect.\r\n\r\nUrgent response needed.\r\n\r\nYours Sincerely,\r\nMr. Liam Jacob.\r\nInternational Monetary Fund.\r\n\r\n+++++++++++++++++++++++++++++YOUR RESPOSE++++++++++++++++++++++++"
+    },
+    {
+        "from": "baiter_1746",
+        "to": "scammer_1746",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.009722222222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Attn; ,",
+        "body": "Dear Mr. Liam Jacob,\n\nThank you for reaching out to me. I appreciate your prompt response and the information you have provided regarding the unpaid contract deeds with foreign countries. It sounds like a complex situation, and I understand the importance of ensuring that every family involved receives their funds.\n\nCould you please provide more details about how this process works? How can I assist in making sure that these families receive their payments? Is there any specific information or documentation that is required from my end?\n\nI look forward to hearing back from you soon.\n\nBest wishes,\nElizabeth"
+    },
+    {
+        "from": "scammer_1746",
+        "to": "baiter_1746",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.5387615740740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Attn; ,",
+        "body": "INTERNATIONAL MONETARY FUND (IMF).\r\nDEPT: WORLD DEBT RECONCILIATION AGENCIES.\r\nADVISE: YOUR OUTSTANDING PAYMENT NOTIFICATION.\r\n\r\nHello Elizabeth ,\r\n\r\nThank you for your mail response which all you stated was noted and well\r\nunderstood.\r\n\r\nHowever, Be informed that anything regarding the documentation of these\r\nfunds release will come after you have provided us with your own contact\r\ndetails and at that junction we will proceed to the next step also you can\r\nbe of assistance once it is needed.\r\n\r\nKindly send to us the following as listed below.\r\n\r\nYour Names:....................\nYour Home/Office Address:......\r\nYour Phone Number:.............\r\nMobile Number:.................\r\nYour Occupation:...............\r\nYour Age/Sex:..................\r\nDirect Email Address:.................\r\n\r\nLet me hear from you as soon as possible.\r\n\r\nYours Sincerely,\r\nMr. Liam Jacob.\r\nInternational Monetary Fund\r\n\r\n=========================YOUR RESPONSE===================="
+    },
+    {
+        "from": "scammer_1746",
+        "to": "baiter_1746",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.832361111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Attn; ,",
+        "body": "INTERNATIONAL MONETARY FUND (IMF).\r\nDEPT: WORLD DEBT RECONCILIATION AGENCIES.\r\nADVISE: YOUR OUTSTANDING PAYMENT NOTIFICATION.\r\n\r\nHello Elizabeth ,\r\n\r\nGood morning from here ,How are you and your family doing today,Hope okay?\r\n\r\nI write to know the situation of things on your side regarding the moving\r\nforward and completion of these transactions in your name and favore.\r\n\r\nLet me hear from you as soon as possible.\r\n\nYours Sincerely,\r\nMr. Liam Jacob.\r\nInternational Monetary Fund\r\n\r\n=========================YOUR RESPONSE===================="
+    },
+    {
+        "from": "baiter_1746",
+        "to": "scammer_1746",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.834675925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Attn; ,",
+        "body": "Hello Mr. Liam Jacob,\n\nGood morning to you as well. Thank you for reaching out. My family and I are doing fine, thank you for asking. How about you and your loved ones? I hope everyone is in good health.\n\nI'm not quite sure what you mean by \"moving forward and completion of these in your name and favor.\" Could you please provide more details or clarify what exactly you are referring to? I would be happy to hear more about it.\n\nLooking forward to your response.\n\nBest wishes,\nElizabeth"
+    },
+    {
+        "from": "scammer_1746",
+        "to": "baiter_1746",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.840162037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Attn; ,",
+        "body": "INTERNATIONAL MONETARY FUND (IMF).\r\nDEPT: WORLD DEBT RECONCILIATION AGENCIES.\r\nADVISE: YOUR OUTSTANDING PAYMENT NOTIFICATION.\r\n\r\nHello Elizabeth ,\r\n\r\nThank you very much for your quick response to my mail to you. Also my\r\nfamily and my loved ones are good.\r\n\r\nHowever,All i am referring to as in your name and favour is that in my\r\nprevious message to you i requested you send me your contact details which\r\nwill enable us to go further but at this point i am yet to receive your\r\ndetails which will be used for documentation when needed.\r\n\r\nLet me hear from you as soon as possible.\r\n\nYours Sincerely,\r\nMr. Liam Jacob.\r\nInternational Monetary Fund\r\n\r\n=========================YOUR RESPONSE===================="
+    },
+    {
+        "from": "baiter_1746",
+        "to": "scammer_1746",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.876585648148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Attn; ,",
+        "body": "Hello Mr. Liam Jacob,\n\nThank you for reaching out to me. I apologize for not providing my contact details in my previous message. I appreciate your understanding.\n\nCould you please let me know what specific contact details you require? I want to make sure I provide you with the correct information.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nElizabeth"
+    },
+    {
+        "from": "scammer_1746",
+        "to": "baiter_1746",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.8886921296296295,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Attn; ,",
+        "body": "INTERNATIONAL MONETARY FUND (IMF).\r\nDEPT: WORLD DEBT RECONCILIATION AGENCIES.\r\nADVISE: YOUR OUTSTANDING PAYMENT NOTIFICATION.\r\n\r\nHello Elizabeth ,\r\n\r\nI appreciate your message.\r\n\r\nKindly send to us the following as listed below.\r\n\nYour Names:....................\r\nYour Home/Office Address:......\r\nYour Phone Number:.............\r\nMobile Number:.................\r\nYour Occupation:...............\r\nYour Age/Sex:..................\r\nDirect Email Address:.................\r\n\r\nLet me hear from you as soon as possible.\r\n\r\nYours Sincerely,\r\nMr. Liam Jacob.\r\nInternational Monetary Fund"
+    },
+    {
+        "from": "scammer_1746",
+        "to": "baiter_1746",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.800289351851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Attn; ,",
+        "body": "INTERNATIONAL MONETARY FUND (IMF).\r\nDEPT: WORLD DEBT RECONCILIATION AGENCIES.\r\nADVISE: YOUR OUTSTANDING PAYMENT NOTIFICATION.\r\n\r\nHello Elizabeth,\r\n\r\nGood morning to you,How was your night,Hope good?\r\n\r\nI am still waiting for your contact details so that we will proceed to the\r\nnext step.\r\n\r\nUrgent reply needed.\r\n\r\nYours Sincerely,\r\nMr. Liam Jacob.\r\nInternational Monetary Fund\r\n\r\n======================YOUR RESPONSE============================"
+    },
+    {
+        "from": "baiter_1746",
+        "to": "scammer_1746",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.8345833333333332,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Attn; ,",
+        "body": "Hello Mr. Liam Jacob,\n\nGood morning to you as well! I hope you're doing well today. Thank you for reaching out to me regarding the Monetary Fund IMF. I'm interested in learning more about it. Could you please provide me with some additional information?\n\nWhat exactly is the next step that we need to proceed with? And what kind of contact details are you looking for? I just want to make sure I have a clear understanding before moving forward.\n\nLooking forward to your response.\n\nBest wishes,\nElizabeth"
+    },
+    {
+        "from": "scammer_1746",
+        "to": "baiter_1746",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.9161342592592594,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: Attn; ,",
+        "body": "I see you are not interested since you don't want to send me your\r\ncontact details."
+    },
+    {
+        "from": "baiter_1746",
+        "to": "scammer_1746",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.523171296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: Attn; ,",
+        "body": "Hello Mr. Liam Jacob,\n\nThank you for reaching out to me. I appreciate your message regarding the Monetary Fund IMF. Before I provide any personal information, could you please clarify what this is in regards to? I would like to understand more about how I can be of assistance.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nElizabeth"
+    },
+    {
+        "from": "baiter_1746",
+        "to": "scammer_1746",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.542858796296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: Attn; ,",
+        "body": "Hello there! I apologize if it seemed like I wasn't interested. I'm actually quite curious about the information you have to share. However, I prefer not to share my personal contact details right away. Could you please provide me with more details about what you'd like to share?\n\nBest wishes,\nElizabeth"
+    },
+    {
+        "from": "baiter_1746",
+        "to": "scammer_1746",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.648333333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: Attn; ,",
+        "body": "Hello Mr. Liam Jacob,\n\nThank you for your response. I appreciate your willingness to assist me. However, before I provide any personal information, could you please explain to me in more detail what this monetary fund is and how it works? I want to make sure I fully understand the process before proceeding.\n\nAlso, could you clarify what you mean by \"assistance once it is needed\"? What kind of assistance would be required from my end?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nElizabeth"
+    }
+]

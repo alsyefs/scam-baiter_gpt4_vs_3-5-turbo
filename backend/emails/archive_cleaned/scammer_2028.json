@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2028",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Dear Sir/Madam,",
+        "body": " Dear Sir/Madam,\nIf you received this email note that you have not received your fund\nfrom us. We are sorry that the past administrations did not do their\nbest in making sure you received your fund payment.\nKindly reply to this email with the following:\n1. Full name\n2. Receiving address\n3. Total Fund amount\n4. Phone number/WhatsApp\n5.Mode of payment\n6. ID card.\nAs soon as We received the requested information we shall crosscheck and\nproceed with your payment.\nWaiting for your reply.\nThanks.\nMichael Olaymei Cardoso.\nCentral Bank of Nigeria Governor.    "
+    },
+    {
+        "from": "baiter_2028",
+        "to": "scammer_2028",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  Dear Sir/Madam,",
+        "body": "Dear Michael Olaymei Cardoso,\n\nThank you for reaching out to me regarding the pending fund payment. I appreciate your efforts in rectifying the situation and ensuring that I receive my funds. \n\nTo proceed with the payment, could you please provide me with some more information? Specifically, I would like to know:\n\n1. What is the total amount of the fund that I am supposed to receive?\n2. Can you confirm the receiving address where the payment should be sent?\n3. Is there any specific identification card that I need to provide for verification purposes?\n\nOnce I have these details, I will be able to assist you further and ensure a smooth transaction.\n\nBest wishes,\nBeverly"
+    }
+]

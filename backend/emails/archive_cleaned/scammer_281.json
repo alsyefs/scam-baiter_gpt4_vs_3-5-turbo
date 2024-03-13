@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_281",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Beneficiary:",
+        "body": "Dear Beneficiary:\nThis message is from the Department of Blacklist Removal office, USA, why we decided to communicate with you today is because we have discovered that you are pursuing too many transactions in internet in which all are failing you after wasting too much money in pursuing them, \nsome of these transactions are FAKE and Some are REAL but the reason you have not received any fund is because your name is in US BLACKLIST which makes it impossible for you to send money out and also receive your inheritance funds out of the country or within, so it is better you stop wasting your money in the name of receiving your inheritance funds until your name is removed from the BLACKLIST and enter into the US WHITE-LIST, blacklist is a list of people or groups regarded as unacceptable or untrustworthy and often marked down for exclusion or blocked from receiving huge amount of funds outside the country or within the country.\nSo if you want to remove your name from the blacklist and place it in the American white-list then contact this office or you keep having problems receiving your funds after sending so much money to them.\nThe requirement for removing your from the Blacklist are as follow\nA...Your full Name..............\nB...Your home address.......\nC.. .Cell Phone number......\nD....Your occupation...........\nE...Country.................. .....\nF..\nYour drivers license /or state I.D\nAbove all, you are obliged to pay the sum of $50.00  iTUNES GIFT CARD for the insurance of removing your name from the blacklist \nbut please do not contact us if you know that you cannot pay this fee but if you are willing to remove your name from the blacklist then get back to us with the $50.00 and after that we shall transfer your total fund $4,500,000.00, into your Bank account or any means by which you want to receive your fund.\nThanks,\nRev. Ben Robinson\nDirector Of Blacklist Removal Office,USA\nPhone Text SMS: +1 641-243-1232"
+    },
+    {
+        "from": "baiter_281",
+        "to": "scammer_281",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Beneficiary:",
+        "body": "Hello Rev. Ben Robinson,\n\nThank you for reaching out and explaining the situation to me. I must admit, I was not aware that my name was on a blacklist. This is quite surprising news.\n\nI'm curious about how this happened. Could you please provide more details about how names end up on this blacklist? Also, could you explain more about the process of removing a name from it?\n\nYou mentioned a GIFT CARD fee for the insurance of removing my name from the blacklist. How does this work exactly? \n\nLooking forward to your response.\n\nBest wishes,\nLillian"
+    }
+]

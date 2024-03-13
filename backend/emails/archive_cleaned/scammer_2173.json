@@ -1,0 +1,302 @@
+[
+    {
+        "from": "scammer_2173",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Greetings, Good Morning and",
+        "body": "   Greetings, Good Morning and  how are you doing? It's a pleasure to  write you this email .\nI have something to discuss with you regarding a recent development. Kindly get back to me so I can\nexplain more details on the subject matter in regards to this conversation.\nI'll be looking forward to reading from you note this matter is of importance\nhave a blessed week ahead.\n \nRegards,\nRebecca Dosu.  "
+    },
+    {
+        "from": "baiter_2173",
+        "to": "scammer_2173",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    Greetings, Good Morning and",
+        "body": "Hello Rebecca,\n\nGood morning! I hope you're doing well. Thank you for reaching out to me. I'm curious to know what you would like to discuss. Could you please provide me with more details about the subject matter? I'm interested in learning more.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJessie"
+    },
+    {
+        "from": "scammer_2173",
+        "to": "baiter_2173",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "Thank you very much for your email it was read and well noted, how are you\r\ndoing today it's a pleasure to write you this email, and the purpose of my\r\nemail will be plain and understandable to you, I was assigned to make\r\ncontact to you by the government of Ghana as a result of information\r\ngathered on your behalf in regards to many failed attempts to receive your\r\nfunds that has been in Ghana for so many years i'm also sorry for my late\r\nresponse due to weekends and other official duties,\r\n\r\nThe said funds has a lot history of a back and forth trial and error\r\nprocess carried out by some scrupulous and unprofessional personnel and\r\nsometimes greed, it happens that due to your absence people take advantage\r\nof that to swindle you,\r\n\r\nLeast I forget I'm Ms Rebecca Dosu the current general manager of Ecobank\r\nWestlands , your funds are worth 33,898,835.00 USD which is currently in a\r\nliquidated account, you will have to fill the below details for the setting\r\nup of your New Non Residential account, as stated initially your funds are\r\nin a liquidated account it's still available for claim due to thorough\r\ninvestigations by the\r\ngovernment of Ghana and a hired top financial firm and all informations\r\nindicated that indeed you're the rightful Beneficiary (owner) of the\r\nmentioned funds above and still eligible to claim your funds once every\r\ndocumentation process has been completed.\r\n\r\nOnce your account has been set up the next in line of actions is it to\r\nsetup an online account , you'll also be issued with A MasterCard which has\r\na Validity date of about 4 years and a huge daily limit to enable you\r\nwithdraw funds and with the help of online access you can wire huge chunk\r\nof your funds to any designated account but must be in line with the daily\r\nlimits of the recipient account and receivers bank policy.\r\n\r\nPersonal Details\r\nTitle:\r\nSurname:\r\nFirst Name:\r\nOther Name:\r\nOccupation:\r\nGender:\r\nDate Of Birth:\r\nNationality:\r\nMarital Status:\r\nPlace Of Birth:\r\nResidential Address:\r\nfor possible delivery purpose\r\n\nTel N°:\r\nCurrency used in your country:\r\n\r\nForm Of Identification:\r\nId N°:\r\nIssue Date:\r\nExpiry Date:\r\n\r\nMs  Rebecca Dosu\r\nGeneral manager\r\nEcobank   Westlands   Branch\r\nAccra Ghana."
+    },
+    {
+        "from": "baiter_2173",
+        "to": "scammer_2173",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.02753472222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "Hello Ms. Rebecca Dosu,\n\nThank you for reaching out to me and providing this information. I hope you are doing well too. I must admit, I am a bit surprised to receive an email like this, but I am interested in learning more about it.\n\nCould you please explain to me in more detail how my funds ended up in Ghana? I don't recall having any business or financial dealings there.\n\nAlso, what exactly is a \"New Non account\"? How does it differ from a regular bank account?\n\nI appreciate your assistance in clarifying these matters.\n\nBest wishes,\nJessie"
+    },
+    {
+        "from": "scammer_2173",
+        "to": "baiter_2173",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.973726851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "Good to hear from you i'm so sorry for my late response, your funds got\r\nhere as a result of funds recovered by the Bureau of National investigation\r\nof\r\nGhana Money that was stolen from other countries with the name of Ghana\r\ngovernment most of this funds are inheritance funds as to where exactly\r\nyour funds was recovered from i must be sincere with you i have no clue as\r\nexplained on my previous email most of the details are in piece and you\r\ncan't make sense of them going through these details,\r\n\r\nA New Non Residential account is a normal and regular account but the\r\ndifference is, this Non residential account is only used by customers who\r\nare abroad and not present here in Ghana. Hopefully I was able to explain\r\nthis very well.\nRegards\r\n\r\nMs. Rebecca Dosu\r\nGeneral manager\r\nEcobank  Westlands   Branch\r\nAccra Ghana."
+    },
+    {
+        "from": "baiter_2173",
+        "to": "scammer_2173",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.985625,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "Thank you for your message, Ms. Rebecca Dosu. I appreciate the information about the funds recovered by the Bureau of National Ghana Money. Can you please provide more details on how the funds were recovered and what steps are needed for me to access them through the Non account?\n\nBest wishes,\nJessie"
+    },
+    {
+        "from": "scammer_2173",
+        "to": "baiter_2173",
+        "direction": "Inbound",
+        "days_from_first_conversation": 11.110648148148147,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "Thank you for your response, your  funds were recovered when the minister\r\nof Finance was doing a cleans up of the banking sector where many banks and\r\nseveral microfinance in their hundreds were closed down and other banks\r\nconsolidated, after that the introduction of account updating came where\r\nmany\r\nfraudulent account and account belonging to several foreign beneficiaries\r\nwas discovered you happens to be one of the lucky one that can still reclaim\r\ntheir funds,\r\n\r\nwhat you have to do now is fill the necessary details below so we can\r\nproceed\r\n\r\nPersonal Details\r\nTitle:\r\nSurname:\r\nFirst Name:\r\nOther Name:\r\nOccupation:\r\nGender:\r\nDate Of Birth:\r\nNationality:\r\nMarital Status:\r\nPlace Of Birth:\r\nResidential Address:\r\nfor possible delivery purpose\r\n\nTel N°:\r\nCurrency used in your country:\r\n\r\nForm Of Identification:\r\nId N°:\r\nIssue Date:\r\nExpiry Date:\r\n\r\nMs  Rebecca Dosu\r\nGeneral manager\r\nEcobank   Westlands   Branch\r\nAccra Ghana."
+    },
+    {
+        "from": "baiter_2173",
+        "to": "scammer_2173",
+        "direction": "Outbound",
+        "days_from_first_conversation": 11.131956018518519,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "Thank you for sharing this information. Can you provide more details about the process of reclaiming the funds? How long does it usually take for the funds to be delivered once the necessary details are filled out?\n\nBest wishes,\nJessie"
+    },
+    {
+        "from": "scammer_2173",
+        "to": "baiter_2173",
+        "direction": "Inbound",
+        "days_from_first_conversation": 11.196435185185186,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "The process of reclaiming the funds is as simply as setting up the account\r\nfor you then with the card and online access you can securely access your\r\nfund,\r\nonce the details are filled within the next 48 hours you will have access\r\nto your funds provided you're  quick in responding to the process\nRegards\r\n\r\nMs. Rebecca Dosu\r\nGeneral manager\r\nEcobank  Westlands   Branch\r\nAccra Ghana."
+    },
+    {
+        "from": "baiter_2173",
+        "to": "scammer_2173",
+        "direction": "Outbound",
+        "days_from_first_conversation": 11.215324074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "Hello! Thank you for sharing this information with me. Could you please provide more details on how the account setup process works and what steps are involved in accessing the funds securely?\n\nBest wishes,\nJessie"
+    },
+    {
+        "from": "scammer_2173",
+        "to": "baiter_2173",
+        "direction": "Inbound",
+        "days_from_first_conversation": 11.216759259259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "Do you have a personal account?"
+    },
+    {
+        "from": "baiter_2173",
+        "to": "scammer_2173",
+        "direction": "Outbound",
+        "days_from_first_conversation": 11.235532407407407,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "Hello! Yes, I do have a personal account. What information are you looking to share or discuss regarding personal accounts?\n\nBest wishes,\nJessie"
+    },
+    {
+        "from": "scammer_2173",
+        "to": "baiter_2173",
+        "direction": "Inbound",
+        "days_from_first_conversation": 11.238715277777779,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "The reason I asked you is because I wanted to find out if you've ever\r\ncreated an account it's the same process, like I explained earlier on it's\r\na no normal regular account the creation process are the same all we need\r\nare the required information as listed previously"
+    },
+    {
+        "from": "baiter_2173",
+        "to": "scammer_2173",
+        "direction": "Outbound",
+        "days_from_first_conversation": 11.256979166666667,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "Oh, I see. Could you please clarify what the required information is for creating this account? I want to make sure I have everything ready before proceeding.\n\nBest wishes,\nJessie"
+    },
+    {
+        "from": "scammer_2173",
+        "to": "baiter_2173",
+        "direction": "Inbound",
+        "days_from_first_conversation": 11.261608796296295,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "Below are the required details needed with a picture of your Id thank you\r\n\r\nPersonal Details\r\nTitle:\r\nSurname:\r\nFirst Name:\r\nOther Name:\r\nOccupation:\r\nGender:\r\nDate Of Birth:\r\nNationality:\r\nMarital Status:\r\nPlace Of Birth:\r\nResidential Address:\r\nfor possible delivery purpose\r\n\nTel N°:\r\nCurrency used in your country:\r\n\r\nForm Of Identification:\r\nId N°:\r\nIssue Date:\r\nExpiry Date:\r\n\r\nMs Rebecca Dosu\r\nGeneral manager\r\nEcobank Westlands Branch\r\nAccra Ghana."
+    },
+    {
+        "from": "baiter_2173",
+        "to": "scammer_2173",
+        "direction": "Outbound",
+        "days_from_first_conversation": 11.277118055555556,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "Hello! Thank you for sharing the details. Could you please provide more information about why my ID is needed for possible delivery purposes? I want to make sure I understand the process clearly.\n\nBest wishes,\nJessie"
+    },
+    {
+        "from": "scammer_2173",
+        "to": "baiter_2173",
+        "direction": "Inbound",
+        "days_from_first_conversation": 11.283495370370371,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "Your ID is needed not just for delivery purposes every bank customer has a\r\ncopy of there ID attached to their accounts for identification purposes"
+    },
+    {
+        "from": "baiter_2173",
+        "to": "scammer_2173",
+        "direction": "Outbound",
+        "days_from_first_conversation": 11.298831018518518,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "Hello! Thank you for sharing that information. Can you tell me more about why the ID is needed for delivery and bank accounts? How does it help with security or verification?\n\nBest wishes,\nJessie"
+    },
+    {
+        "from": "scammer_2173",
+        "to": "baiter_2173",
+        "direction": "Inbound",
+        "days_from_first_conversation": 11.310856481481482,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "As I said your ID is not needed for delivery purposes only and may not be\r\nneeded for delivery at all it is needed for your account setup which is\r\nsomething that's normal, it serve as a security and verification medium\r\nbecause without your ID on your account anyone can claim to be you, once\r\nyour ID is in your account yourself or anyone who cliams to be has to\r\nprovide an ID which will then be checked for detailed  accuracy of same\r\npersonality I'm sure this has answers all your questions if you are\r\nserious about this kindly send your information as requested thank you"
+    },
+    {
+        "from": "baiter_2173",
+        "to": "scammer_2173",
+        "direction": "Outbound",
+        "days_from_first_conversation": 11.319027777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "19",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "Hello! Thank you for sharing that information. I appreciate your explanation about the ID requirement for account setup and security purposes. Can you provide more details on how my information will be used to ensure the security of my account?\n\nBest wishes,\nJessie"
+    },
+    {
+        "from": "scammer_2173",
+        "to": "baiter_2173",
+        "direction": "Inbound",
+        "days_from_first_conversation": 11.335266203703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "20",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "Just like your ID same applies"
+    },
+    {
+        "from": "baiter_2173",
+        "to": "scammer_2173",
+        "direction": "Outbound",
+        "days_from_first_conversation": 11.340509259259258,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "21",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "Hello! What do you mean by \"Just like your ID same applies\"? Can you please explain further?\n\nBest wishes,\nJessie"
+    },
+    {
+        "from": "scammer_2173",
+        "to": "baiter_2173",
+        "direction": "Inbound",
+        "days_from_first_conversation": 11.375752314814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "22",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "If you understood my explanation on the topic of ID that explanation is the\r\nsame or similar to how your information protects your account"
+    },
+    {
+        "from": "baiter_2173",
+        "to": "scammer_2173",
+        "direction": "Outbound",
+        "days_from_first_conversation": 11.381956018518519,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "23",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "Hello! I'm interested in learning more about how my ID can protect my account. Can you provide more details on this topic?\n\nBest wishes,\nJessie"
+    },
+    {
+        "from": "scammer_2173",
+        "to": "baiter_2173",
+        "direction": "Inbound",
+        "days_from_first_conversation": 11.38363425925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "24",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "The explanation I have already given is a 100% explanation enough to\r\nunderstand how your ID protects your account"
+    },
+    {
+        "from": "baiter_2173",
+        "to": "scammer_2173",
+        "direction": "Outbound",
+        "days_from_first_conversation": 11.401967592592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "25",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "That's great to hear! Can you tell me more about how the ID protects the account? I'm interested in learning more about it.\n\nBest wishes,\nJessie"
+    },
+    {
+        "from": "scammer_2173",
+        "to": "baiter_2173",
+        "direction": "Inbound",
+        "days_from_first_conversation": 11.428796296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "26",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "i'm sorry there's nothing more to tell you"
+    },
+    {
+        "from": "baiter_2173",
+        "to": "scammer_2173",
+        "direction": "Outbound",
+        "days_from_first_conversation": 11.443622685185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "27",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "That's okay, I understand. Can you please share what you've already told me again? I want to make sure I didn't miss anything important.\n\nBest wishes,\nJessie"
+    },
+    {
+        "from": "scammer_2173",
+        "to": "baiter_2173",
+        "direction": "Inbound",
+        "days_from_first_conversation": 11.45923611111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "28",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "Then just read through all my previous emails"
+    },
+    {
+        "from": "baiter_2173",
+        "to": "scammer_2173",
+        "direction": "Outbound",
+        "days_from_first_conversation": 11.465208333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "29",
+        "subject": "Re: Greetings, Good Morning and",
+        "body": "I understand, but could you please provide me with a brief summary or key points from your previous emails?\n\nBest wishes,\nJessie"
+    }
+]

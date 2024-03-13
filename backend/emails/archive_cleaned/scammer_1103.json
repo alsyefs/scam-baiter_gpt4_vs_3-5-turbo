@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1103",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "BreitBurn Energy Partners Inc ",
+        "body": "BreitBurn Energy Partners Inc is an Energy company that has a long history. Taking a leading position in the global market, we are still going forward, honing our skills and introducing advanced technologies. And \nfor more than 48 years we are known as a responsible and efficient partner\n which is capable to fulfill any task qualitatively. "
+    },
+    {
+        "from": "baiter_1103",
+        "to": "scammer_1103",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: BreitBurn Energy Partners Inc ",
+        "body": "Hello there! \n\nWow, Energy Partners Inc sounds like a really impressive company. It's great to hear about your long history and leading position in the global market. I'm curious, what kind of tasks are you typically asked to fulfill? And how do you keep honing your skills and advancing in such a competitive field?\n\nBest wishes,\nPatricia"
+    }
+]

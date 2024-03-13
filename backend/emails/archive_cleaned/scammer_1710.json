@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1710",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir,",
+        "body": "  Dear Sir,\nYou have been appointed a board member of Economic community of west African states{ECOWAS} You will attend monthly meeting to contribute your ideas in a quest for solutions that will bring all the problems going on in Africa to a stop,\nYou will receive two hundred thousand united states dollars {$200,000.00} in any meeting you attend and one hundred thousand united states dollars {$100,000.00} will will be your monthly salary for the period of ten years as a contract.\nECOWAS will take care of your travel tickets, hotel accommodation and feeding and security in any board meetings for period of two days being the minimum days the meeting will take place.\nyour ideas and contribution is needed urgently to help solve the increasing maintenance in Africa to create and enabling environment for our future generations.\nKindly reply this message with the following information as soon as possible;\n1;Your full name\n2;Complete address\n3;Contact telephone/whatsup numbers\n4;Any form of identification,\nThanks.\nYours Mr. Donald Lewis   "
+    },
+    {
+        "from": "baiter_1710",
+        "to": "scammer_1710",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir,",
+        "body": "Dear Mr. Donald Lewis,\n\nThank you for reaching out to me and considering me for the position of board member at ECOWAS. I am honored to have been chosen and excited about the opportunity to contribute my ideas towards finding solutions for the problems in Africa.\n\nBefore I provide you with the requested information, I would like to know more about the specific issues that ECOWAS aims to address. Could you please share some details about the main challenges that need to be tackled? Additionally, what kind of ideas or expertise are you looking for from board members?\n\nI appreciate your assistance in providing these details so that I can better understand how I can contribute effectively. Looking forward to your response.\n\nBest wishes,\nMario"
+    }
+]

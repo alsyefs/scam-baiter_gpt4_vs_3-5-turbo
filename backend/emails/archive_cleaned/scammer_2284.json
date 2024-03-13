@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2284",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention,",
+        "body": "Attention,\n \nI represent an investor seeking` to invest  in any lucrative investment in your country, If you have a solid background and idea of making good profit in real estate or in any other business, Please  write me for possible business co-operation.\n \nRegards,\n \nBarr.Samuel A.Ohene"
+    },
+    {
+        "from": "baiter_2284",
+        "to": "scammer_2284",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attention,",
+        "body": "Hello,\n\nThank you for reaching out to me. I'm definitely interested in learning more about potential investment opportunities. Could you please provide me with some additional details? What kind of investments are you specifically looking for? Are there any specific industries or sectors that you prefer?\n\nI appreciate your time and look forward to hearing back from you soon.\n\nBest wishes,\nEdward"
+    }
+]

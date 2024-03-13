@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_653",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Good Day,",
+        "body": "   Good Day,\nI am an official here at a bank in Nigeria, Please I want you to keep my communication with you a very top secret.\nDo you know that the sum of $3,700,000.00 (Three Million Seven Hundred Thousand United States Dollars) have been approved to be paid to you through DMT, but the senior officials here do not want you to receive the $3,700,000.00\nI don't know why these senior officials are preventing you from receiving the $3,700,000.00 that has been approved to be paid to you through DMT.\nYour fund is more than $3,700,000.00 but it is only $3,700,000.00 that has been approved to be paid to you through DMT.\nI don't want to take much of your time, I will make sure the $3,700,000.00 is paid to you through DMT but you have to protect my identity.\nIf you assure me, you will protect my identity, I want you to reply back to me by sending me this information of yours which I will submit to DMT to enable DMT to process the transfer of the sum of $3,700,000.00 to you.\nA. Your WhatsApp Number (Your WhatsApp number is very important).\nB. Your telephone Number.\nC. Your Bank account details where the sum of $3,700,000.00 will be transferred to.\nSincerely,\nMr. Paul Katau.  "
+    },
+    {
+        "from": "baiter_653",
+        "to": "scammer_653",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Good Day,",
+        "body": "Hello Mr. Paul Katau,\n\nI hope this message finds you well. I must say, your email has certainly piqued my interest! It's not every day that one hears about such a large sum of money.\n\nHowever, I'm a bit confused about some details in your message. You mentioned DMT several times - could you please clarify what DMT stands for? Also, it seems like some parts of the text are missing or unclear. Could you kindly provide more information?\n\nAs for the details you asked for, I'm afraid I can't share them at this point as we're still getting to know each other and discussing this matter. But rest assured, your identity is safe with me.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nRuth"
+    }
+]

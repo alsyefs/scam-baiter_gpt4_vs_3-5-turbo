@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2547",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Your atm master card is read",
+        "body": "  Your atm master card is ready you have to send your\ncontact to this email \nups20200@gmail.com\n contact us\nwith the WhatsApp number +229 9172 8549\ninformation now via\nworthy $40.5million so that the delivery of\nyour Atm Master Card will take place today,\nfill-up this info here\n1)Your Full Name..............\n2)Mobile Phone Number........\n3)Whataspp no................\n3)Current Home Address.......\n5)Country....................\n6)City......................\n7)Nearest Airport...............\n8)Copy of your ID..................\nThis is your registration code DHJKT00678G\nMr. Alex Agu\nEmail \nups20200@gmail.com\ncall and WhatsApp +229 9172 8549   "
+    },
+    {
+        "from": "baiter_2547",
+        "to": "scammer_2547",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Your atm master card is read",
+        "body": "Hello there,\n\nWow, that's great news! I can't believe my ATM Master Card is ready. I'm really excited about this. Can you tell me more about the process? How does it work exactly?\n\nAlso, could you please explain what the code DHJKT is for? Is it some kind of tracking number or something else?\n\nLooking forward to hearing from you soon.\n\nP.S. - Just a quick note, I'm not comfortable sharing personal information via email. I hope that's okay with you.\n\nBest wishes,\nStella"
+    }
+]

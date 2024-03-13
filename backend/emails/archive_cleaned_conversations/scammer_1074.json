@@ -1,0 +1,152 @@
+[
+    {
+        "from": "scammer_1074",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Sir/Madam,",
+        "body": "Dear Sir/Madam,\nI hope this message finds you in good health.\nWe are the wealth managers of the family of the past president of GABON. The funds are Four Hundred Million US Dollars ($400,000,000.00) and (500 kilograms of gold bars), Five Hundred Kilograms.\nYour responsibility is to fly down here for TTM (Table Top Meeting) so you can also see things for yourself. If you’re here, you will have a better idea of how we can transfer/transport this wealth out of Africa to a more secure place.\nWe are offering 30% and open to discuss any concern you may have.\nThanks, in anticipation of your prompt reply with my Email   \nim_84@aol.com\nMr.Y.Abula"
+    },
+    {
+        "from": "baiter_1074",
+        "to": "scammer_1074",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Sir/Madam,",
+        "body": "Dear Sir/Madam,\n\nThank you for reaching out to me. I hope this message finds you well too. I am intrigued by the opportunity you have presented regarding the wealth management of the family of the past president of GABON.\n\nI would be interested in learning more about how this process works and how I can potentially assist in transferring and securing these funds and gold bars. However, before proceeding further, I have a few questions:\n\n1. What is the purpose of the TTM Table Top Meeting? Can you provide more details about what it entails?\n\n2. Are there any costs or fees associated with attending the meeting or facilitating the transfer of these assets? If so, could you please explain them in more detail?\n\n3. How long do you anticipate this process will take from start to finish?\n\nI appreciate your willingness to discuss any concerns I may have, and I look forward to your prompt reply with more information.\n\nBest wishes,\nRobert"
+    },
+    {
+        "from": "scammer_1074",
+        "to": "baiter_1074",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Sir/Madam,",
+        "body": "Dear ROBERT,\r\nWhere are you writing from?\r\nTable Top Meeting offers us the opportunity to know each other and interact face to face.\r\nWe can start and conclude this transaction within 60 working days maximum but all will depend on the level of contact you have at your end. i suggest you contact me on WhatsApp for easy communication  +233 20 535 2332\nRegards,\r\nAbula"
+    },
+    {
+        "from": "baiter_1074",
+        "to": "scammer_1074",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0225,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Sir/Madam,",
+        "body": "Dear Abula,\n\nThank you for reaching out to me. I appreciate your interest in getting to know each other and interacting face to face. However, before we proceed further, I would like to know more about Table Top Meeting and how it can benefit us.\n\nCould you please provide me with some more information about the purpose and agenda of this meeting? Additionally, I would like to understand the level of contact you mentioned at my end. Could you elaborate on that?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRobert"
+    },
+    {
+        "from": "baiter_1074",
+        "to": "scammer_1074",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.314363425925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Dear Sir/Madam,",
+        "body": "Dear Abula,\n\nThank you for reaching out to me. I appreciate your interest in getting to know each other and interacting face to face. However, before we proceed further, I would like to know more about Table Top Meeting and how it can benefit us.\n\nCould you please provide some additional information about the purpose and agenda of this meeting? Also, I would like to understand the level of contact you have at your end and how it relates to our potential interaction.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRobert"
+    },
+    {
+        "from": "scammer_1074",
+        "to": "baiter_1074",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.211192129629629,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Dear Sir/Madam,",
+        "body": "Dear ROBERT,\r\nI requested for your contact number especially your WhatsApp number so that I can furnish you with whatever information you may need. I even gave you my WhatApp number to contact me but you failed to contact me. \r\nregards,Abula"
+    },
+    {
+        "from": "baiter_1074",
+        "to": "scammer_1074",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.2310185185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Dear Sir/Madam,",
+        "body": "Hello Robert,\n\nThank you for reaching out to me. I apologize if I missed your previous message or failed to contact you. I appreciate your willingness to provide me with the information I may need. However, before we proceed, could you please clarify what exactly it is that you would like to furnish me with? It would be helpful for me to understand the purpose of our communication.\n\nLooking forward to hearing back from you.\n\nBest wishes,\nRobert"
+    },
+    {
+        "from": "scammer_1074",
+        "to": "baiter_1074",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.054074074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Dear Sir/Madam,",
+        "body": "I SHALL RESPOND TO YOU ON WHATSAPP ONLY. \r\nSEE YOU ON WHATSAPP"
+    },
+    {
+        "from": "baiter_1074",
+        "to": "scammer_1074",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.064293981481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Dear Sir/Madam,",
+        "body": "Sure, I understand. Could you please let me know why you prefer to communicate on WhatsApp?\n\nBest wishes,\nRobert"
+    },
+    {
+        "from": "scammer_1074",
+        "to": "baiter_1074",
+        "direction": "Inbound",
+        "days_from_first_conversation": 7.4378125,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Dear Sir/Madam,",
+        "body": "WhatsApp is more secured and this is a confidential business transaction."
+    },
+    {
+        "from": "baiter_1074",
+        "to": "scammer_1074",
+        "direction": "Outbound",
+        "days_from_first_conversation": 7.4391087962962965,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Dear Sir/Madam,",
+        "body": "Hello! That's great to hear that it's more secure for business purposes. Can you tell me more about how it ensures security?\n\nBest wishes,\nRobert"
+    },
+    {
+        "from": "scammer_1074",
+        "to": "baiter_1074",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.247708333333334,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Dear Sir/Madam,",
+        "body": "SORRY I HAVE NO TIME FOR THIS"
+    },
+    {
+        "from": "baiter_1074",
+        "to": "scammer_1074",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.252361111111112,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Dear Sir/Madam,",
+        "body": "No problem at all! I completely understand that time is precious. Just wanted to quickly share some interesting information with you. Did you know that there are new ways to save money on your monthly expenses? Would you be interested in learning more about it?\n\nBest wishes,\nRobert"
+    },
+    {
+        "from": "scammer_1074",
+        "to": "baiter_1074",
+        "direction": "Inbound",
+        "days_from_first_conversation": 11.322175925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Dear Sir/Madam,",
+        "body": "YOU CAN SHARE IT ON WHATSAPP OR FORGET"
+    },
+    {
+        "from": "baiter_1074",
+        "to": "scammer_1074",
+        "direction": "Outbound",
+        "days_from_first_conversation": 11.335694444444444,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: Dear Sir/Madam,",
+        "body": "Hello! Sure, I'd love to hear more about it. What exactly are you referring to that I can share on WhatsApp?\n\nBest wishes,\nRobert"
+    }
+]

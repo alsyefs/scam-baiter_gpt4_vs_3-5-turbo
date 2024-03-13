@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2393",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dr Micheal Douglas",
+        "body": "Dr Micheal Douglas\nFunds-Transfer Director\nFirst State Bank\n1403 13th Ave. Mendota, NY\n61342 United States.\nPhone No + 1631865618\nDear Sir\nWe are pleased to inform you that the International Monetary Fund (IMF) in conjunction with the United Nations (UN) have successfully recovered 50% of funds belonging to various beneficiaries that are being held in Africa,Asia,and Europe due to some bogus fees and charges.\nAmong the funds recovered is $10,500,000.00(Ten Million Five Hundred Thousand United States Dollars) belonging to you as the beneficiary and it has been tagged Abandoned.\nWe sent a notification email to you a few days ago but unfortunately, no response has been received from you till this moment. We are sending you this email as a final notice and \nyou are expected to respond back within three days of receiving this email to enable us to finalize an arrangement to transfer your funds into your Bank Account.\nYour confirmation to the above matter will be appreciated. We look forward to hearing from you soon for further advice.\nSincerely Yours,\nDr Micheal Douglas\n(Funds-Transfer Director)"
+    },
+    {
+        "from": "baiter_2393",
+        "to": "scammer_2393",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dr Micheal Douglas",
+        "body": "Dear Dr. Micheal Douglas,\n\nThank you for reaching out to me with this information. I must admit, I am quite surprised to hear about these recovered funds. Can you please provide me with more details about how my funds ended up being tagged as abandoned?\n\nAdditionally, could you clarify the process of transferring the funds into my bank account? Are there any fees or charges involved in this transfer? I want to make sure that everything is transparent and legitimate before proceeding.\n\nI appreciate your prompt response and look forward to hearing from you soon.\n\nBest wishes,\nJohn"
+    }
+]

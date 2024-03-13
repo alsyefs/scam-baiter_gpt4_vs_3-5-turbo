@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_847",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Your E-mail-Address was select",
+        "body": "Your E-mail-Address was selected for category A in this Year's Annual Electronics Promotions,e-Mail programme.At the American Mega Millions Lottery\n,\nThese are your details.\nRef Number: EUM DN 0808-9T6\nBatch Number: EUM QY-4LJ8\nTicket Number: 3510-EM 48\nSerial Number: NPU-24\nLucky Number: 05 13 27 33 42 (00-02)\nPlease contact the program attorney & coordinator. Complete the information below and forward same and above stated details strictly to the program attorney & coordinator. Your draw has a total value of $4,200,000:00USD.\nnb:. \nKindly note the attorney will handle every cost of transfer, so you're liable to complete transfer at no extra cost.\nFull Names:\nCountry of Residence:\nAddress:\nOccupation:\nDate of Birth:\nTelephone:\nCopy of Identity\n:\nPROGRAM ATTORNEY & COORDINATOR\nName: Barrister Barry Moore\nE-mail: \nfileinput00@gmail.com\n---------------------------------------------------------------------\nCONFIDENTIALITY NOTICE:\nThis message (including any attachments) is intended only for the use of the individual or entity to which it is addressed and may contain information that is proprietary, non-public, and confidential to Annual Electronics Promotions. If you are not the intended recipient, you are hereby notified that any use, dissemination, distribution, or copying of this communication is strictly prohibited. If you have received this communication in error, please contact the sender and delete this message immediately."
+    },
+    {
+        "from": "baiter_847",
+        "to": "scammer_847",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Your E-mail-Address was select",
+        "body": "Hello there,\n\nWow, this sounds like an amazing opportunity! I can't believe my luck. Could you please tell me more about this Annual American Mega Millions Lottery? How was I selected and what does it mean to have a total value of USD?\n\nI'm also curious about the program attorney. What will their role be in this process? And how will they handle the cost of transfer?\n\nLooking forward to hearing more about this exciting news!\n\nPlease note that for security reasons, I won't be able to provide a copy of my identity at this time.\n\nThank you!\n\nBest wishes,\nMichelle"
+    }
+]

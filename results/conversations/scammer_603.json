@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_603",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention: Beneficiary.",
+        "body": "  Attention: Beneficiary.\nThe Director of the FBI Intelligence Unit and European bank\nstakeholders have signed $10.5m to be released in your name.The\nInternational funds control Department is working with the FBI to\nrelease an approved $10.5m to your account.You need an Affidavit of\nClaims and Deed of Assignment to receive the approved USD10.5M.\nShould In case you do not have the documents in your possession,\ncontact us immediately to direct you where you will obtain the\nAffidavit of Claims and Payment Deed of Assignment for release of\nUSD10.5M to your designated bank account.\nMr. Christopher A. Wray\nDirector Federal Bureau of Investigation FBI\nEmail: \ndirectorfbiuschapter@gmail.com\n "
+    },
+    {
+        "from": "baiter_603",
+        "to": "scammer_603",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention: Beneficiary.",
+        "body": "Hello Mr. A. Wray,\n\nThank you for reaching out to me. I appreciate the information you have shared regarding the release of funds from the FBI Unit and European bank. It sounds like an important matter.\n\nCould you please provide me with more details about the process of obtaining the Affidavit of Claims and Payment Deed of Assignment? I want to make sure I understand everything correctly before proceeding.\n\nAdditionally, could you clarify how long this process usually takes? I am curious to know when I can expect the funds to be released into my designated bank account.\n\nThank you once again for your assistance in this matter.\n\nBest wishes,\nBrittany"
+    },
+    {
+        "from": "scammer_603",
+        "to": "baiter_603",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Attention: Brittany",
+        "body": "Attention: Brittany.\r\n\r\nKindly update me on how far you have gone with Mr. Robert Jackson.\r\n\r\n\nMr. Christopher A. Wray\r\nDirector Federal Bureau of Investigation FBI\r\n\r\n>"
+    },
+    {
+        "from": "baiter_603",
+        "to": "scammer_603",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9598263888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Attention: Brittany",
+        "body": "Hello Mr. A. Wray,\n\nThank you for reaching out to me. I'm not sure who Mr. Robert Jackson is or what the progress might be, as I don't have any information about him. Could you please provide me with more details? I'm always interested in staying informed.\n\nBest wishes,\nBrittany"
+    },
+    {
+        "from": "scammer_603",
+        "to": "baiter_603",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.045891203703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Attention: Brittany",
+        "body": "Attention: Brittany.\r\n\r\nI have contacted Mr. Robert Jackson and he said you keep repeating the same\r\nmessages over and over again. It seems you are a joker according to him.\r\nWhat is going on?\r\n\r\n\nMr. Christopher A. Wray\r\nDirector Federal Bureau of Investigation FBI"
+    },
+    {
+        "from": "baiter_603",
+        "to": "scammer_603",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.064560185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Attention: Brittany",
+        "body": "Hello Mr. A. Wray,\n\nThank you for reaching out to me. I apologize if there has been any confusion or misunderstanding. Could you please provide me with more details about the messages that Mr. Robert Jackson mentioned? I want to make sure I understand the situation correctly.\n\nBest wishes,\nBrittany"
+    },
+    {
+        "from": "scammer_603",
+        "to": "baiter_603",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.240763888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Attention: Brittany",
+        "body": "Attention: Brittany.\r\n\r\nYou have in your email all the correspondence with Mr. Roberts. Kindly\r\nprovide him with the information he requested from you to enable the\r\nimmediate release of your funds.\r\n\r\nIf you are here to play games, I would advise you to walk away instead of\r\nplaying deceitful games. Thank you\r\n\r\n\r\n\nMr. Christopher A. Wray\r\nDirector Federal Bureau of Investigation FBI"
+    },
+    {
+        "from": "baiter_603",
+        "to": "scammer_603",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.2519560185185186,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Attention: Brittany",
+        "body": "Hello Mr. Wray,\n\nThank you for reaching out to me. I apologize if there was any confusion in my previous email. I assure you that I am not here to play games or engage in deceitful activities. I am genuinely interested in learning more about the information you mentioned.\n\nCould you please provide me with some additional details about the funds and what is required from my end? I want to make sure that everything is clear before proceeding further.\n\nBest wishes,\nBrittany"
+    }
+]

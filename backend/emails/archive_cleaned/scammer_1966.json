@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1966",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello friend,",
+        "body": "Hello friend,\nIt's my pleasure to contact you through this medium. I have an important issue to discuss with you, which I hope will be beneficial to both of us.\nI will expand on it for you upon your response to my email.\nRegards,\nMr. Ishmael Reed."
+    },
+    {
+        "from": "baiter_1966",
+        "to": "scammer_1966",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello friend,",
+        "body": "Hello Mr. Ishmael Reed,\n\nI'm delighted to receive your message! I'm always open to discussing important issues, especially if they could be beneficial for both of us. Could you please provide more details about the matter you'd like to discuss? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nWalter"
+    }
+]

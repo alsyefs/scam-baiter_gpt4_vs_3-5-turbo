@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_2333",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Your fund of €8,000,000.00 is ",
+        "body": "Your fund of €8,000,000.00 is still in our bank, why did you abandon it because of €50.\nI am a man of integrity, I write to you with 100% sincerity from my heart and I give you 100% guarantee on this. \nAs soon as you send the last Required fee of €50 now an Apple Itunes card, or Steam card.  Your Approved fund of €8,000,000.00 will be transferred to you, without any more delays.\nMr. Johnson Max\nCitibank New York."
+    },
+    {
+        "from": "baiter_2333",
+        "to": "scammer_2333",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Your fund of €8,000,000.00 is ",
+        "body": "Hello Mr. Johnson Max,\n\nThank you for reaching out to me about this matter. I must admit, I'm a bit surprised to hear about this fund in your bank. Could you please provide more details? How did the fund end up there and why was it abandoned?\n\nAlso, could you explain why an Apple Itunes card or Steam card is required for the transaction? I'm not very familiar with these things.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nAndres"
+    },
+    {
+        "from": "scammer_2333",
+        "to": "baiter_2333",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Your fund of €8,000,000.00 is",
+        "body": "The Apple Card or the Steam card is a miss of payment.\r\n\r\nThe fund is a grant awarded to you by the government. Since you send the\r\nrequired fee, it will be transferred to you."
+    },
+    {
+        "from": "baiter_2333",
+        "to": "scammer_2333",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.087662037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Your fund of €8,000,000.00 is",
+        "body": "Hello there,\n\nThank you for sharing this information with me. It's quite interesting to hear about the Apple Card and Steam card payment issue. Could you please elaborate more on this? How exactly does the fund grant work? And what is the required fee that needs to be sent?\n\nRemember, I'm just trying to understand better. Thanks again for your time!\n\nBest wishes,\nAndres"
+    },
+    {
+        "from": "scammer_2333",
+        "to": "baiter_2333",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.875254629629629,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Your fund of €8,000,000.00 is",
+        "body": "* Good morning , what is going on ? We are still waiting for the card to\r\ncomplete your fund transactions, and ensure that the $5,000,000.00 to be\r\ncredited to your account.Kindly send the apple card of $50 fast.I am a man\r\nof integrity and honor, I swear to you 100% that the fund will be\r\ntransferred to you immediately.*"
+    },
+    {
+        "from": "baiter_2333",
+        "to": "scammer_2333",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.8789699074074075,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Your fund of €8,000,000.00 is",
+        "body": "Good morning! I hope you're doing well. It's interesting to hear about this fund and the apple card. Could you please explain more about how this process works? And what exactly is the role of the apple card in it?\n\nBest wishes,\nAndres"
+    }
+]

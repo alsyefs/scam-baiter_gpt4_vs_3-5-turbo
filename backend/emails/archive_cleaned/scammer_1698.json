@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1698",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Re,Our (Ref: Our File No-342)",
+        "body": " Re,Our (Ref: Our File No-342)\nHow are you doing today? Please, I am worried over the information we released to your family. Confirm to me if you received it or not. With Subject:(Ref: Our File No-342). Looking forward to hearing from you. Remain blessed with your family.\nRegards,\nMr. Andrew Wills\nLondon UK\nTel:  +447452295073      "
+    },
+    {
+        "from": "baiter_1698",
+        "to": "scammer_1698",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  Re,Our (Ref: Our File No-342)",
+        "body": "Hello Mr. Andrew Wills,\n\nI hope this message finds you well in London, UK. I'm doing quite alright myself, thank you for asking.\n\nRegarding the file you mentioned, could you please provide more details? I'm not sure which file you're referring to. Could it be something that got lost in the mail or perhaps an email that ended up in my spam folder?\n\nLooking forward to your response and clarification on this matter.\n\nBest wishes,\nThomas"
+    }
+]

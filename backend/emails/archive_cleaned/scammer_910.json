@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_910",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "I have good news for you.  Our",
+        "body": "I have good news for you.  Our bank agent has agreed with your Government and the central bank of your country, to transfer your fund little by little in the amount of €500,000 each transfer until the total fund of 4 million euro will be paid to you.\nNow all you have to do is to send €10 only and the first €500,000 will be paid to your account today.\nMy friend, I write to you with all sincerity and honesty, don’t waste time on this now.\nHurry to send the €10 only and the first €500,000 will be paid to you now. send the €10 by an Apple Itunes card, or Steam card.  and  the first €500,000 will be paid to your account today, without any more delays.\nTom Freeman \nFEDERAL RESERVE BANK."
+    },
+    {
+        "from": "baiter_910",
+        "to": "scammer_910",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: I have good news for you.  Our",
+        "body": "Hello Tom Freeman,\n\nWow, that sounds like an amazing opportunity! I'm really excited about this. Could you please explain a bit more about how this process works? How does the bank manage to transfer such large amounts of money little by little? \n\nAlso, I'm not very familiar with Apple Itunes cards or Steam cards. Could you guide me on how to use them for transactions?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nCarla"
+    }
+]

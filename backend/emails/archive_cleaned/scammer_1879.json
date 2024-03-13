@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1879",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attn: Lucky Beneficiary,",
+        "body": "  Attn: Lucky Beneficiary,\nCOMPENSATION FUNDS PAYMENT NOTIFICATION LETTER.\nThis is to inform you that the World Bank compensation department in conjunction with the United Nations Organization have been working towards the eradication of fraudsters and scam Artists in Africa with the help of the African Union (AU), the International Monetary Fund (IMF) and FBI. We have been able to track down so many of this scam artists in various parts of African countries and Europe, which includes (Nigeria, United Kingdom, Spain, Ghana, Cameroon and Senegal) and they are all in Government custody now, they will appear at the International Criminal Court (ICC) Hague (Netherlands) soon for Criminal/Fraud Justice.\nDuring the course of our investigation, we have been able to recover so much money from these scam artists. The United Nations Anti-Crime Commission and the World Bank Auditors in conjunction with the International Monetary Fund (IMF) have ordered that the money recovered from the Scammers be shared among 100 Lucky people around the World for compensation. You are therefore being compensated with the sum of US$1,020,000.00 (One Million and Twenty Thousand United State Dollars).\nWe have arranged your payment to be paid to you through one of the designated deposit banks in Europe, and you are therefore advised to contact the (World Bank Auditors) who will verify and transfer your payment file to the paying bank. Note, that we are committed to monitor this payment and the transfer communications to avoid further delay or misdirection of your fund. Kindly contact the World Bank Auditors now and forward the below details:\n1). Your Full Name: 2). Your Age: 3). Occupation: 4). Cell/Mobile Number: 5). Complete Address:\nYours in Service.\nMRS. NATTA MILLER,\n(World Bank Compensation Settlement Department).\nCONTACT E-MAIL ADDRESS: \nnattailler34@msgden.com\n "
+    },
+    {
+        "from": "baiter_1879",
+        "to": "scammer_1879",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attn: Lucky Beneficiary,",
+        "body": "Hello Mrs. Natta Miller,\n\nWow, this is such an unexpected surprise! I can't believe I'm one of the lucky people to receive this sum. It's really amazing what you and your team are doing, tracking down those scam artists and recovering money. \n\nI'm curious though, how did you select the lucky people to share the recovered money with? And could you tell me more about the process of transferring these funds? \n\nLooking forward to hearing from you.\n\nBest wishes,\nBrandon"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1173",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Good day,",
+        "body": "  Good day,\nI have a client who is interested to invest the sum of {$550.Million\nDollars} on {Real Estate and Stocks, Industrialists, Commercial\nBusinessmen and women, Investment Companies, Individuals Farmers &\nConstruction Companies / Oil & Gas/Tourism ,/Churches and NGO'S} in\nyour country.\nIf it interests You, Kindly confirm your cooperation in this regard by\nforwarding your Name Or Your Company Name/ Telephone number for easy\nCommunication.\nHope to hear from you.\nBest regards,\nDavid Martins.\nLondon W1J 8DZ, United Kingdom.\nEmail: \ninfo_unit@aol.com\n "
+    },
+    {
+        "from": "baiter_1173",
+        "to": "scammer_1173",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Good day,",
+        "body": "Hello David Martins,\n\nGood day to you! I'm delighted to hear about your client's interest in investing such a significant amount in various sectors within my country. It's always exciting to see potential growth and development opportunities.\n\nI'm particularly intrigued by the diverse range of sectors your client is interested in. Could you perhaps share more details about the specific areas they are most keen on? For instance, what kind of real estate projects are they looking at? Are there any particular industries within the commercial sector that they're interested in?\n\nAlso, it would be helpful if you could provide some information about the investment timeline and expected returns. This will give me a better understanding of your client's expectations and how we can potentially work together.\n\nPlease note that while I am very interested in this opportunity, I would prefer not to share my personal contact details at this stage. However, I am more than happy to continue our conversation here until we reach a point where sharing such information becomes necessary.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nErnest"
+    }
+]

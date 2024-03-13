@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_862",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention Dear Fund Owner ",
+        "body": "Attention Dear Fund Owner \nI am Mrs. Jovita Carranza, From The United States Treasury, am emailing you regarding your abandoned fund worth of ($20 million United States Dollars ) with American First Credit Union Bank,\nThe United State Government has ordered that every Money owed to any individual should be released to them both fund from Lottery Awards and Inheritance Funds,\nbe it Compensation funds or Money Owe to individual from Empowerment Program run by United State Government or  from IMF, IRS and United Nation all are being settled and that is why we have been mandated to monitor the transfer and make sure everything is done as instructed by United State Government.\nAfter our investigations we have discovered that your unpaid fund worth $20,000, 000.00 USD owed to you has been deposited in the AMERICAN FIRST CREDIT UNION BANK USA and has not been released,\nbut United State Government has ordered the American First Credit Union Bank to release your fund with immediate effect.\nThe AMERICAN FIRST CREDIT UNION BANK has been ordered to open an online account in your name and make a deposit of your fund $20,000,000.00 USD before the end of next week,\nthe online account will be opened in your name and the account login will be made available to you to enable you confirm your fund and start transferring your fund to your private Bank account anywhere in the world.\nTherefore \nyou will be required to pay the sum of $580 USD to the Bank for (Fund Legality Certificate and Transfer Permit)\n the certificate will enable the Bank to open an online account and transfer your fund $20,000,000.00 USD into your account and every information both the login and user name to the account will be release to you before three (3) hours of sending the account opening fee to enable you begin the transfer of your fund to your private account anywhere in the world. \nYou are not required to pay any other fee after you have pay them the $580 for the account opening fee to enable them obtain (Fund Legality Certificate and Bulk Money Transfer Permit) the certificate will enable them open an online account to enable them transfer your fund into your account and make sure you contact the\nbank immediately with your information in full.\nBelow is the Bank contact detail writes them to their email:\nBank Name: American First Credit Union Bank.\n200 West Street New York\nE-Mail: \nfirstcredituniona@gmail.com\nContact Person: Mr Thayne Shaffer \nKindly write to the Bank now to transfer your fund $20,000,000.00 into your online account which they have been instructed to open and deposit your fund and then release the account information to you to enable you to start transferring your funds immediately to your private Bank account.\nBest Regards.\nMrs.Jovita Carranza\nUnited State Treasury"
+    },
+    {
+        "from": "baiter_862",
+        "to": "scammer_862",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attention Dear Fund Owner ",
+        "body": "Hello,\n\nThank you for reaching out to me regarding my abandoned fund. I appreciate the information you have provided. Can you please clarify how exactly the United States Government has ordered the release of my funds from the ERICAN FIRST CREDIT UNION BANK? Is there any documentation or proof that I can review?\n\nAdditionally, I would like to understand why there is a need for me to pay a fee for Fund Legality and Transfer Permit. Can you explain what this fee covers and why it is necessary?\n\nI look forward to your response.\n\nBest wishes,\nSteve"
+    }
+]

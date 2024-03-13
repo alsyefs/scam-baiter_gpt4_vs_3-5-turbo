@@ -1,0 +1,132 @@
+[
+    {
+        "from": "scammer_2370",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear  Good day,",
+        "body": "Dear  Good day,\nHow are you? It's been years since we heard from one another. Hope all is well with you and your family?, You may not understand why this mail came to you.if you do not remember me, you have received an email from me in the past regarding a business proposal which we never concluded. \nThe National bank has completed the process of Mrs.Reeshen Acqunetta inheritance fund and everything was successful,now in the Union Bank it was confirmed by my new partner,so I informed him of your effort,sincerity, courage and trust worthiness You showed during the course despite it did not work as planned between us. I am therefore compensating you based on my promise to you at that time. Please reach out to the below contact person at Union Bank.\nName: Mr.Steven Adebayo\nPosition: Head of Banking Operations\nEmail: \nstevenadebayohboperations@gmail.com\nMy partner has given him instruction to release the $500,000.00 (Five Hundred Thousand United States Dollar) to you.I was told the Bank cannot make a direct wire remittance to you; rather they will issue an electronic payment card and load the money in it and then ship to your designated address. I hope with this, I have kept and fulfilled my promise to you. \nRegards to your beautiful family and let me know when you get the money.\nThank you.\nMrs Selina Nnabuchi"
+    },
+    {
+        "from": "baiter_2370",
+        "to": "scammer_2370",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear  Good day,",
+        "body": "Hello Mrs Selina Nnabuchi,\n\nI hope this message finds you in good health. It's indeed been a while since we last communicated. I must admit, your email took me by surprise as I don't recall our previous interaction regarding a business proposal.\n\nHowever, it's interesting to hear about the completion of the Acqunetta fund process and the subsequent transfer to Union Bank. The mention of Five Hundred Thousand United States Dollar is quite intriguing.\n\nCould you please provide more details about this electronic payment card? How does it work? And how can I ensure its safety during shipment?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJamie"
+    },
+    {
+        "from": "scammer_2370",
+        "to": "baiter_2370",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "My Compensation to you is ready for you to receive ( Jamie )",
+        "body": "Goodday Dear   Jamie,\r\n\r\nThe receipt of your mail was acknowledged.\r\n\r\nI was instructed to send the mentioned Compensation funds (Atm Master card\r\n) with the sum of $500,000 in it to you as the beneficiary.\r\n\r\nUnion Bank is another bank that followed the ongoing trend of expanding its\r\ninternational transactions without entertaining any obstacles,Its dollar\r\nspending / withdrawing limit went from $9,200 to $12,700 daily for\r\nforeigners.\r\n\r\nYou are to confirm your full name,your receiving address to enable us to\r\ncross check the address that is already with us which your previous partner\r\ngave us before we can be able to dispatch the card to you.\r\n\r\nRemember that it is not the responsibility of our bank to take care of the\r\nUPS courier delivery fee\r\n\r\nYour urgent response shall be highly appreciated\nBest Regards\r\nSteven Adeby\r\nHead of Bank Operations"
+    },
+    {
+        "from": "baiter_2370",
+        "to": "scammer_2370",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0005555555555555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: My Compensation to you is ready for you to receive ( Jamie )",
+        "body": "Hello Steven,\n\nThank you for your email. It's a pleasure to hear from you. I'm quite intrigued by the information you've shared about the ATM Master card and Union Bank's expansion.\n\nCould you please provide more details about this ATM Master card? How does it work exactly? And what are the benefits of having such a card?\n\nAlso, could you elaborate on Union Bank's ongoing trend of expansion? What kind of expansions are we talking about here?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nJamie"
+    },
+    {
+        "from": "baiter_2370",
+        "to": "scammer_2370",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0006365740740740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: My Compensation to you is ready for you to receive ( Jamie )",
+        "body": "Hello Steven,\n\nThank you for your email. It's a pleasure to hear from you. I'm quite intrigued by the ATM Master card you mentioned. Could you please provide more details about it? How does it work exactly?\n\nAlso, could you clarify what you mean by my \"previous partner\"? I'm not sure I understand that part.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJamie"
+    },
+    {
+        "from": "scammer_2370",
+        "to": "baiter_2370",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.01138888888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "My Compensation to you is ready for you to receive ( Jamie )",
+        "body": "Goodday Dear   Jamie,\r\n\r\nThe receipt of your mail was acknowledged.\r\n\r\nThe compensation fund was the sum of $500,000  that was downloaded in the\r\nATM CARD as compensation funds from your former partner  (Mrs.Reeshen\r\nAcqunetta inheritance fund) who happened to be our customer  when she was\r\nexecuting her transaction.\r\n\r\nHowever,our bank Union Bank Plc was directed as a commercial bank to issue\r\nyou the ATM CARD and dispatch it to you.\r\n\r\nOnce again it is a compensation funds and its risk  free,so if you don't\r\nwant to claim it,then you indicate to us to enable us to stop all processes.\r\n\r\nRemember that it is not the responsibility of our bank to take care of the\r\nUPS courier delivery fee\r\n\r\nYour urgent response shall be highly appreciated\nBest Regards\r\nSteven Adeby\r\nHead of Bank Operations"
+    },
+    {
+        "from": "baiter_2370",
+        "to": "scammer_2370",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.01167824074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: My Compensation to you is ready for you to receive ( Jamie )",
+        "body": "Hello Steven,\n\nThank you for your email. I'm quite surprised to hear about this fund from my former partner Acqunetta. Could you please provide me with more details? How did this come about and why was I chosen to receive the ATM card?\n\nAlso, could you clarify what you mean by \"it is funds and its risk\"? I'm not sure I fully understand that part.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJamie"
+    },
+    {
+        "from": "scammer_2370",
+        "to": "baiter_2370",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0253125,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "My Compensation to you is ready for you to receive ( Jamie )",
+        "body": "Goodday Dear   Jamie,\r\n\r\nThe receipt of your mail was acknowledged.\r\n\r\nWhat we meant by risk free is that,it is WILLINGLY given to you as\r\ncompensation and regard to that our bank will issue a letter to you in that\r\nregard as well.\r\n\r\nAgain what we need from you  is your full name and receiving address where\r\nthe ATM CARD will be delivered to you,and also it will be stated in our\r\nletter to you and also it will be given to courier service that will\r\ndeliver the ATM CARD to you.\r\n\r\nRemember that it is not the responsibility of our bank to take care of the\r\nUPS courier delivery fee\r\n\r\nYour urgent response shall be highly appreciated\nBest Regards\r\nSteven Adeby\r\nHead of Bank Operations"
+    },
+    {
+        "from": "baiter_2370",
+        "to": "scammer_2370",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.025625,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: My Compensation to you is ready for you to receive ( Jamie )",
+        "body": "Hello Steven,\n\nThank you for your prompt response. It's a pleasure to hear from you. I'm intrigued by the idea of receiving an ATM card, it sounds like a convenient way to handle transactions.\n\nHowever, I have a few questions before we proceed further. Could you please explain more about how this ATM card works? Is it similar to the regular bank cards that we use daily? Also, could you clarify what you mean by 'risk-free'? \n\nI understand that I need to provide my full name and receiving address for the delivery of the ATM card. However, I am curious about the security measures in place to ensure that my information remains confidential.\n\nLastly, regarding the UPS courier delivery fee, is there any specific reason why your bank does not cover this cost?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJamie"
+    },
+    {
+        "from": "scammer_2370",
+        "to": "baiter_2370",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.0375810185185186,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "My Compensation to you is ready for you to receive ( Jamie )",
+        "body": "Goodday Dear   Jamie,\r\n\r\nThe receipt of your mail was acknowledged.\r\n\r\nOrdinarily,I wouldn't have responded to this in your last mail but I just\r\nwant to clarify it to your proper understanding.\r\n\r\nPlease know that the compensation fund is a gift from your former partner\r\nbut if you decide not to receive it,there is no problem neither will it\r\ntake you anything .\r\n\r\nLastly,we have demanded your address and also telephone number so that\r\nwhatever you need more clarification we can talk on the phone\r\nconversation but till now you never complied.\r\n\r\nYour urgent response shall be highly appreciated\nBest Regards\r\nSteven Adeby\r\nHead of Bank Operations"
+    },
+    {
+        "from": "baiter_2370",
+        "to": "scammer_2370",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.758090277777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: My Compensation to you is ready for you to receive ( Jamie )",
+        "body": "Hello Steven,\n\nI hope this message finds you well. I appreciate your prompt response and the information provided. It's quite a surprise to hear about this gift from my former partner.\n\nHowever, I'm a bit confused about some details. Could you please elaborate more on the nature of this fund? And why is it that my former partner chose to give me this gift through your bank?\n\nAlso, I would like to know more about the process involved in receiving this fund. What are the steps that need to be taken?\n\nAs for my contact details, I prefer communicating via email at the moment due to my busy schedule. I hope you understand.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJamie"
+    },
+    {
+        "from": "scammer_2370",
+        "to": "baiter_2370",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.019351851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "My Compensation to you is ready for you to receive ( Jamie )",
+        "body": "Goodday Dear   Jamie,\r\n\r\nThe receipt of your mail was acknowledged.\r\n\r\nYou should go ahead to send your receiving address or your phone number so\r\nthat I can call you to explain more to you since you do not understand the\r\ncontents of the email.\r\n\r\nYour urgent response shall be highly appreciated\nBest Regards\r\nSteven Adeby\r\nHead of Bank Operations"
+    },
+    {
+        "from": "baiter_2370",
+        "to": "scammer_2370",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.027465277777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: My Compensation to you is ready for you to receive ( Jamie )",
+        "body": "Hello Steven,\n\nThank you for your prompt response. I'm glad to hear from you. However, I must admit that I'm a bit confused about the details of your email. Could you please explain more about it? What exactly is this all about?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJamie"
+    }
+]

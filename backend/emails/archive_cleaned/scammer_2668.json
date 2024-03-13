@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2668",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "FBI- Criminal Justice Informat",
+        "body": "FBI- Criminal Justice Information Services Division\nFederal Government Office\nAddress: 935 Pennsylvania Ave NW, Washington, DC 20535 ,United States\nAttention Beneficiary,\nWE KNOW YOU HAVE NOT BEEN ABLE TO RECEIVE YOUR FUNDS.\nI am FBI Director Christopher Wray. This is to officially inform you that out of our thorough\ninvestigation lately ,we found out that one of the abandoned valid Packages such as ATM Cards And Consignment Boxes worth $18.3million\nmillion United State Dollars by diplomatic agents who complained that the beneficiaries were not able to provide the anti terrorist\nclearance certificate to guide and show that the fund is no way related to fraud or drug money,with the information we have here.\nWe found out that one of the funds belongs to you and \nyou are meant to report back quickly with the fee for the needed certificate(anti terrorist clearance certificate) which is $75\nIn conclusion, you are advised to stop any other transaction you are doing before now because your fund is now under our custody\nand we will deliver it to you directly.\nGet back to me quickly on how to send the fee and most importantly to avoid more delays on your fund\nyou provide your phone number as well for easy communication.\nThanks,\n( \nwraymrchristopher0@gmail.com\n )\nMr. Christopher wray\nFBI Director"
+    },
+    {
+        "from": "baiter_2668",
+        "to": "scammer_2668",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: FBI- Criminal Justice Informat",
+        "body": "Hello Mr. Wray,\n\nThank you for reaching out to me regarding the abandoned funds. I must admit, this is quite surprising news. Can you please provide me with more details about the funds and how they ended up in your custody? I want to make sure that everything is legitimate before proceeding any further.\n\nAdditionally, could you clarify what exactly the anti-terrorist clearance fee is for? I want to understand why it is necessary and how it ensures that the funds are not related to any fraudulent or illegal activities.\n\nI appreciate your assistance in this matter and look forward to your prompt response.\n\nBest wishes,\nRosa"
+    }
+]

@@ -1,0 +1,612 @@
+[
+    {
+        "from": "scammer_1279",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Do you receive your scam com",
+        "body": "  Do you receive your scam compensation refund from the paying bank?\nThis is the paying bank email address here: \nremittancebk@usa.com\n "
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Do you receive your scam com",
+        "body": "Hello there! Thank you for reaching out. I'm not sure what you mean by a \"scam refund from the paying bank.\" Could you please provide me with more information? I'm always interested in learning new things and sharing information.\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "scammer_1279",
+        "to": "baiter_1279",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Do you receive your scam com",
+        "body": "Kindly check the attached document and follow the directive."
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0005902777777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Do you receive your scam com",
+        "body": "Hello! Thank you for reaching out. I appreciate your message. Could you please provide me with some more information about the attached document and the directive you mentioned? I want to make sure I fully understand before proceeding.\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "scammer_1279",
+        "to": "baiter_1279",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0034027777777777776,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Do you receive your scam com",
+        "body": "J. Edgar Hoover Building, 935 Pennsylvania\r\n\r\n170096785641\r\n\r\nAvenue, NW Washington, D.C. 20535.\r\n\r\n                     APPROVED REFUND OF SCAM VICTIM’S FUNDS:\r\n\r\nWe are here to inform you that we have been able to trap down some of the\r\nscam artists which have been terrorizing the general public in the name of\r\nhelping our individuals to get their benefit fund or to indulge into\r\nbusiness with them with the aim of defrauding the general public.\r\nUpon the course of our investigations, we found some documents bearing your\r\nname and your email address in the computer hard disk of the scammers.\r\nHaving reported this matter to the World Bank president (Jim Yong Kim), who\r\ninstructed that the assets confiscated from the scammers should be shared\r\nto those that their name and email addresses was found in the possession of\r\nthe scam artists as a refund of loosed money in the form of cash payment\r\nwhich you are among.\r\n\r\n\r\n\r\n*You are therefore to be compensated with the sum of $900,000.00 United\r\nStates Dollars.*\r\n\r\nAlso, we arrested some men who claimed to be bank officials, Contract\r\nmanagers, Barristers and Lottery Agents who has been sending you bogus\r\nletters and SMS via your telephone numbers and Facebook indicating that you\r\nhave won a lottery which does not exist, claiming to release fund to you\r\nvia ATM CARD,BANK TRANSFER,DIPLOMATIC MEANS OF PAYMENT COURIER SERVICE\r\nDELIVERY COMPANY proposing business which does not exist and those using\r\ndifferent Bank names to scam the general public.\r\n\r\nBelow is the link of the arrested fraudsters for your perusal.\r\n\r\n *ttp://nakedsecurity.sophos.com/2020/07/27/fbi-arrests-24-in-internet-credit-card-fraud-ring/\r\n<http://nakedsecurity.sophos.com/2020/07/27/fbi-arrests-24-in-internet-credit-card-fraud-ring/>*\r\n\r\nTherefore, you are to contact the Deputy Governor of Islamic Bank on this\r\nemail:\r\n\r\n*remittancebk@usa.com <remittancebk@usa.com>* With the below information\r\nfor his verification and instructions to guide you on the refund process of\r\nyour money, as he is in position to notify your bank for immediate\r\ncrediting of this fund to your local bank account because the United\r\nNations Anti-Crime Commission, International Monetary Fund (IMF) and the\r\nWorld bank has chosen them to payout all the compensation funds to the\r\nvictims.\r\n\r\nWarning: You are to stop all communications you are having with any\r\nperson/persons, claiming to be agent, investor or bank officials in Africa,\r\nEurope (London) and Asia regarding any form of release of funds to you as\r\ntheir aim is to defraud you.\r\n\r\n1. Your Full Name:\r\n\r\n2. Physical Address:\r\n\r\n3. Occupation:\r\n\r\n4. Age and Sex:\r\n\r\n5. Direct Telephone Number:\r\n\r\n6. Country:\r\n\r\n7. A copy of your identification:\r\n\r\nYours Faithfully,\r\n\r\n.............................................\r\n\r\nMr. Michael bricks.\r\n\r\nAssistant Commissioner\r\n\r\nCyber Crime Cell Commissioner Office"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.004085648148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Do you receive your scam com",
+        "body": "Hello Mr. Michael Bricks,\n\nThank you for reaching out to me and providing this information. It's quite concerning to hear about these scam artists and their attempts to defraud the general public. I appreciate your efforts in tracking them down.\n\nCould you please provide me with more details about how exactly my name and email address ended up in the possession of these scammers? I'm curious to know if there was a specific incident or if it was just a random occurrence.\n\nAlso, could you clarify how the refund process works? You mentioned that I am entitled to a sum of United States Dollars, but I would like to understand the steps involved in receiving this refund. Is there any paperwork or verification process that needs to be completed?\n\nLastly, I noticed that you mentioned contacting the Deputy Governor of Islamic Bank for further guidance. Could you please provide me with their contact information so that I can reach out to them directly?\n\nThank you once again for bringing this matter to my attention. I look forward to your response.\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "scammer_1279",
+        "to": "baiter_1279",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.013414351851851853,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Do you receive your scam com",
+        "body": "We have already advised you to contact the Deputy Governor of Islamic Bank\r\non this email:\r\n*remittancebk@usa.com <remittancebk@usa.com>* With the below information\r\nfor his verification and instructions to guide you on the refund process of\r\nyour money, as he is in position to notify your bank for immediate\r\ncrediting of this fund to your local bank account because the United\r\nNations Anti-Crime Commission, International Monetary Fund (IMF) and the\r\nWorld bank has chosen them to payout all the compensation funds to the\r\nvictims."
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.013877314814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Do you receive your scam com",
+        "body": "Hello there! Thank you for reaching out to me. I appreciate your advice about contacting the Deputy Governor of Islamic Bank. Could you please provide me with more information about how this process works? I want to make sure I understand it correctly before taking any further steps.\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "scammer_1279",
+        "to": "baiter_1279",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.019733796296296298,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Do you receive your scam com",
+        "body": "*  Please kindly read the full information again before you reply because\r\nyou find it difficult to understand the process.  *\r\n\r\n\r\nAPPROVED REFUND OF SCAM VICTIM’S FUNDS:\r\n\r\nWe are here to inform you that we have been able to trap down some of the\r\nscam artists which have been terrorizing the general public in the name of\r\nhelping our individuals to get their benefit fund or to indulge into\r\nbusiness with them with the aim of defrauding the general public.\r\nUpon the course of our investigations, we found some documents bearing your\r\nname and your email address in the computer hard disk of the scammers.\r\nHaving reported this matter to the World Bank president (Jim Yong Kim), who\r\ninstructed that the assets confiscated from the scammers should be shared\r\nto those that their name and email addresses was found in the possession of\r\nthe scam artists as a refund of loosed money in the form of cash payment\r\nwhich you are among.\r\n\r\n\r\n\r\n*You are therefore to be compensated with the sum of $900,000.00 United\r\nStates Dollars.*\r\n\r\nAlso, we arrested some men who claimed to be bank officials, Contract\r\nmanagers, Barristers and Lottery Agents who has been sending you bogus\r\nletters and SMS via your telephone numbers and Facebook indicating that you\r\nhave won a lottery which does not exist, claiming to release fund to you\r\nvia ATM CARD,BANK TRANSFER,DIPLOMATIC MEANS OF PAYMENT COURIER SERVICE\r\nDELIVERY COMPANY proposing business which does not exist and those using\r\ndifferent Bank names to scam the general public.\r\n\r\nBelow is the link of the arrested fraudsters for your perusal.\r\n\r\n *ttp://nakedsecurity.sophos.com/2020/07/27/fbi-arrests-24-in-internet-credit-card-fraud-ring/\r\n<http://nakedsecurity.sophos.com/2020/07/27/fbi-arrests-24-in-internet-credit-card-fraud-ring/>*\r\n\r\nTherefore, you are to contact the Deputy Governor of Islamic Bank on this\r\nemail:\r\n\r\n*remittancebk@usa.com <remittancebk@usa.com>* With the below information\r\nfor his verification and instructions to guide you on the refund process of\r\nyour money, as he is in position to notify your bank for immediate\r\ncrediting of this fund to your local bank account because the United\r\nNations Anti-Crime Commission, International Monetary Fund (IMF) and the\r\nWorld bank has chosen them to payout all the compensation funds to the\r\nvictims.\r\n\r\nWarning: You are to stop all communications you are having with any\r\nperson/persons, claiming to be agent, investor or bank officials in Africa,\r\nEurope (London) and Asia regarding any form of release of funds to you as\r\ntheir aim is to defraud you.\r\n\r\n1. Your Full Name:\r\n\r\n2. Physical Address:\r\n\r\n3. Occupation:\r\n\r\n4. Age and Sex:\r\n\r\n5. Direct Telephone Number:\r\n\r\n6. Country:\r\n\r\n7. A copy of your identification:\r\n\r\nYours Faithfully,\r\n\r\n.............................................\r\n\r\nMr. Michael bricks.\r\n\r\nAssistant Commissioner\r\n\r\nCyber Crime Cell Commissioner Office"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.020104166666666666,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Do you receive your scam com",
+        "body": "Hello Mr. Michael Bricks,\n\nThank you for reaching out to me with this information. I must admit, it is quite alarming to hear about these scam artists and their attempts to defraud innocent people. I appreciate your efforts in trapping them and taking action.\n\nI would like to know more about the process of receiving the refund for the funds that were lost due to these scams. Could you please provide me with some additional details? How exactly will the cash payment be made? Will it be through a bank transfer or another method?\n\nAlso, I noticed that you mentioned some individuals who claimed to be bank officials, contract managers, barristers, and lottery agents involved in these scams. Are they also being held accountable for their actions? It's important to ensure that justice is served and that they are prevented from continuing their fraudulent activities.\n\nLastly, could you please clarify what role the Deputy Governor of Islamic Bank plays in this refund process? How can I contact him and what information should I provide when reaching out?\n\nThank you once again for bringing this matter to my attention. I look forward to your response.\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "scammer_1279",
+        "to": "baiter_1279",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.03201388888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Do you receive your scam com",
+        "body": "You are required to file your information below.\r\n\r\n1. Your Full Name:\r\n\r\n2. Physical Address:\r\n\r\n3. Occupation:\r\n\r\n4. Age and Sex:\r\n\r\n5. Direct Telephone Number:\r\n\r\n6. Country:\r\n7. A copy of your identification:\r\n\r\nKindly send your details  to Deputy Governor of Islamic Bank on this\r\nemail: *remittancebk@usa.com\r\n<remittancebk@usa.com>*\r\n\r\n*Let us know as soon as you contact *Deputy Governor of Islamic Bank.\r\n\r\n\r\n\r\n\r\n*Yours Faithfully,Mr. Michael bricks.Assistant CommissionerCyber Crime Cell\r\nCommissioner Office*"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.032546296296296295,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Do you receive your scam com",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate your message, but I have a few questions before I can proceed. Could you please provide more information about why my personal details are required? What is the purpose of filing this information with the Deputy Governor of Islamic Bank?\n\nAdditionally, could you clarify who Michael Crime Cell is and what their role is in this process? It would be helpful to understand how they are connected to the Islamic Bank.\n\nI look forward to your response.\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "scammer_1279",
+        "to": "baiter_1279",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.037939814814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Do you receive your scam com",
+        "body": "My friend, it is not a force to claim your compensation fund,claiming your\r\nfund is for your own good and not me,we have already advised you the steps\r\nyou will take to receive your fund but you refuse to follow the directive."
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03809027777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Do you receive your scam com",
+        "body": "Hello there! Thank you for reaching out to me. I appreciate your concern and willingness to help. Could you please provide me with more information about the steps I need to take in order to receive my fund? I want to make sure I understand everything correctly before proceeding.\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "scammer_1279",
+        "to": "baiter_1279",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.04003472222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: Do you receive your scam com",
+        "body": "You are required to file your information below.\r\n\r\n1. Your Full Name:\r\n\r\n2. Physical Address:\r\n\r\n3. Occupation:\r\n\r\n4. Age and Sex:\r\n\r\n5. Direct Telephone Number:\r\n\r\n6. Country:\r\n7. A copy of your identification:\r\n\r\nKindly send your details  to Deputy Governor of Islamic Bank on this\r\nemail: *remittancebk@usa.com\r\n<remittancebk@usa.com>*\r\n\r\n*Let us know as soon as you contact *Deputy Governor of Islamic Bank."
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.11965277777777777,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: Do you receive your scam com",
+        "body": "Hello there! Thank you for reaching out to me. I appreciate your message, but I have a few questions before I proceed. Could you please provide me with more information about why these details are required? Additionally, could you clarify who the Deputy Governor of Islamic Bank is and how they are involved in this process? Thank you!\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "scammer_1279",
+        "to": "baiter_1279",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.21930555555555556,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: Do you receive your scam com",
+        "body": "The reason you have to provide the required information to the Deputy\r\nGovernor of Islamic Bank is to enable them process your compensation scam\r\nfund and release it to you.\r\n\r\nThe United Nations Anti-Crime Commission, International Monetary Fund (IMF)\r\ndeposited the scam compensation fund with Islamic Bank for safe keeping.\r\n\r\nMr.Jamil awang is Deputy Governor of Islamic Bank,your fund shall be\r\nreleased to you as soon as you follow the instruction."
+    },
+    {
+        "from": "scammer_1279",
+        "to": "baiter_1279",
+        "direction": "Inbound",
+        "days_from_first_conversation": 17.638217592592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "We are waiting for you to complete your fund claim.",
+        "body": "We are waiting for you to complete your fund claim."
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 17.66792824074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Hello! Thank you for reaching out. Can you please provide more details about the fund claim process? I would like to know how I can proceed with completing it.\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "scammer_1279",
+        "to": "baiter_1279",
+        "direction": "Inbound",
+        "days_from_first_conversation": 18.16353009259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "19",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "You have to pay the required fee so that your fund can be transferred to\r\nyour bank account without any delay."
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 18.16784722222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "20",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Hello! Thank you for the information. Can you please provide more details about the fee and how it will ensure a smooth transfer of the funds to my bank account?\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 18.16991898148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "21",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Hello! Thank you for the information. Can you please provide more details about the required fee and how it will ensure the smooth transfer of funds to my bank account?\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 18.17017361111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "22",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Hello! I appreciate the information. Can you please provide more details about the fee and how it will ensure a smooth transfer of the funds to my bank account?\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 18.170208333333335,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "23",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Hello! Thank you for the information. Can you please provide more details about the fee that needs to be paid? I want to make sure everything is clear before proceeding.\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 18.210127314814816,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "24",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Hello! Thank you for the information. Can you please provide more details about the required fee and how it will ensure a smooth transfer of the funds to my bank account?\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "scammer_1279",
+        "to": "baiter_1279",
+        "direction": "Inbound",
+        "days_from_first_conversation": 18.25806712962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "25",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Can you be able to pay the required fee of $2,890 USD for bank Transfer\r\nInsurance coverage through western union money transfer or money gram."
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 18.292766203703703,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "26",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Hello! Thank you for reaching out. Can you please provide more details about the bank transfer insurance coverage through Western Union or MoneyGram? I'm interested in learning more about how it works.\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "scammer_1279",
+        "to": "baiter_1279",
+        "direction": "Inbound",
+        "days_from_first_conversation": 18.63423611111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "27",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Pay to my name via western union?"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 18.751516203703705,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "28",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Hello! Can you tell me more about why you need the payment to be made via Western Union?\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 18.835034722222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "29",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Hello! Thank you for reaching out. Can you please provide more information about why you need the payment to be made via Western Union? I'm here to help and understand better.\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "scammer_1279",
+        "to": "baiter_1279",
+        "direction": "Inbound",
+        "days_from_first_conversation": 19.159606481481482,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "30",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Everytime you need more details.your are not a serious person?"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 19.16962962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "31",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Hello! I understand your concern. Can you please provide more details about what you mean by \"more are not serious person\"? I'd like to learn more about your perspective.\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 19.169837962962962,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "32",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Hello! I understand your concern. Could you please provide more details about what you mean by \"every time you need more\"? I'd like to learn more about your perspective on this.\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 19.20971064814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "33",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Hello! I'm sorry to hear that you feel that way. Can you tell me more about what you mean by \"not serious person\"? I'd like to understand your perspective better.\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 19.210763888888888,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "34",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Hello! Thank you for the information. Can you please provide more details about the fee and how it will ensure a smooth transfer of the funds?\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 19.212118055555557,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "35",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Hello! Thank you for the information. Can you please provide more details about the required fee and how it will ensure a smooth transfer to my bank account?\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 19.29340277777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "36",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Hello! I understand your concern. Can you please provide more details so I can better assist you?\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 19.29510416666667,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "37",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Hello! Thank you for the information. Can you please provide more details about the fee and the process to ensure a smooth transfer of the funds?\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "scammer_1279",
+        "to": "baiter_1279",
+        "direction": "Inbound",
+        "days_from_first_conversation": 20.447881944444443,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "38",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "We shall give you payment information to pay the required fee when you are\r\nready?"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 20.501458333333332,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "39",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Hello! That sounds interesting. Can you please provide more details about the payment and the fee that needs to be paid?\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 20.50353009259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "40",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Hello! Thank you for the offer. Can you please provide more details about the payment and the required fee? I want to make sure I understand everything clearly before proceeding.\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 20.628703703703703,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "41",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Hello! Thank you for the offer. Can you please provide more details about what the payment is for and how it works?\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "scammer_1279",
+        "to": "baiter_1279",
+        "direction": "Inbound",
+        "days_from_first_conversation": 20.687326388888888,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "42",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "You are required to pay the required fee of $2.948 USD to our cashier\r\nthrough western union money transfer or money gram."
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 20.709421296296295,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "43",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Hello! Thank you for the information. Can you please provide more details about why this fee is required and how it will be used?\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 20.711400462962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "44",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Hello! Thank you for the information. Can you please provide more details about why this fee is required and how it will benefit me?\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "scammer_1279",
+        "to": "baiter_1279",
+        "direction": "Inbound",
+        "days_from_first_conversation": 21.003101851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "45",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "The required fee will be used to process your fund?"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 21.04287037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "46",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "That's interesting. Can you tell me more about how the fee is used to process the fund?\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "scammer_1279",
+        "to": "baiter_1279",
+        "direction": "Inbound",
+        "days_from_first_conversation": 21.045358796296295,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "47",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "fee is used to process the fund"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 21.084502314814817,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "48",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Oh, I see. Can you tell me more about how the fee is used to process the fund? How does the process work exactly?\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "scammer_1279",
+        "to": "baiter_1279",
+        "direction": "Inbound",
+        "days_from_first_conversation": 21.762025462962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "49",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "We shall tell you as soon as we receive your payment today?"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 21.793368055555554,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "50",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Oh, that sounds great! Could you please provide more details about the payment process and how it works? I'm interested in learning more about this.\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 21.87650462962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "51",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Oh, that sounds interesting! Could you please provide more details about what the payment is for and how it will benefit me?\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 21.91818287037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "52",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Oh, that sounds important. Can you please provide more details about what the payment is for and how it will be processed? I want to make sure everything goes smoothly for you.\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 21.959791666666668,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "53",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Oh, that sounds interesting! Could you please provide more details about what the payment is for and how it will benefit me? I'm curious to learn more about this opportunity.\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "scammer_1279",
+        "to": "baiter_1279",
+        "direction": "Inbound",
+        "days_from_first_conversation": 22.181030092592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "54",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "We wait for your payment today?"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 22.25109953703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "55",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Hello! Can you please provide more information about the payment you are referring to?\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 22.252939814814816,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "56",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Hello! Can you please provide more information about the payment you are referring to? I want to make sure I have all the details correct.\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 22.293576388888887,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "57",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Oh, I wasn't aware of any payment that needed to be made today. Can you please provide more details about what it's for and how I can proceed with the payment?\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 22.37613425925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "58",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Hello! Can you please provide more information about the payment you are referring to? I want to make sure I have all the details correct before proceeding.\n\nBest wishes,\nAndree"
+    },
+    {
+        "from": "scammer_1279",
+        "to": "baiter_1279",
+        "direction": "Inbound",
+        "days_from_first_conversation": 22.630601851851853,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "59",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "proceed with the payment?"
+    },
+    {
+        "from": "baiter_1279",
+        "to": "scammer_1279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 22.961030092592594,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "60",
+        "subject": "Re: We are waiting for you to complete your fund claim.",
+        "body": "Hello! I'd love to learn more about the payment process. Could you please provide me with some details on how it works?\n\nBest wishes,\nAndree"
+    }
+]

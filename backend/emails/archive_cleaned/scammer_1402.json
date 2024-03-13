@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1402",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Western Union Money Agent",
+        "body": "  Western Union Money Agent\nPlot 18 Prosperity Street Ajao Estate\nLagos-Nigeria\nTel:(+234) 80-5600567----- Direct number\nFor Your Payment Valued US$950,000.00\nWestern Union Money Transfer, in conjunction with the International Monetary Fund(I.M.F) Reconciliation Committee had agreed to pay you a total amount of US$950,000.00  as scam victim compensation fund.\nThe compensation fund has been signed to be paid to you for all the money you have lost to scammers and impostors through internet banking frauds from the Central Bank of Nigeria (C.B.N) or other Banks.\nYour name appeared on our payment schedule list of beneficiaries that will receive their funds in this first quarter payment of the year 2023 according to our banking regulation from the Central Bank of Nigeria (C.B.N) Board of Directors. We apologize for the delay of your payment.\nThe sum of US$5,500 or its equivalent in your local currency will be transferred to you via Western Union every day until all the US$950,000.00 is sent across to you for collection.\nWe have registered your first payment of US$5,500 online through Western Union Money Transfer Just confirm your first payment with below instruction, Open this\nwebsite: ( \nhttps://www.westernunion.com/web/global ... k-transfer\n ) then click \"Track Transfer\", for you to see the status of the transaction online.\nAs soon as you open the website, enter this tracking number(M.T.C.N):566-617-0388 and click \"CONTINUE\" to confirm your first compensation payment yourself.\nThese are the details you need to present to the Western Union Officials. Also go with your Identification Card like Driving License or National id or International passport.\n M.T.C.N:566-617-0388\n Sender Names: MARCY EGOBIA\n City:  LAGOS\n Country of sender: NIGERIA\n Amount sent: US$5,500\n    Money Transfer | Global Money Transfer | Western Union\nAwaiting for your urgent and immediate responses and Kindly respond on time to enable us confirm you have picked up the first US$5,500 to send more the next day till you receive your full compensation payment of US$950,000.00 we urge you to treat this letter genuinely, Thank you\nYours faithfully,\nMr.Kelly Austin\nPlot 18 Prosperity Street Ajao Estate\nLagos-Nigeria\nTel:(+234) 80-5600567 ----- Direct number   "
+    },
+    {
+        "from": "baiter_1402",
+        "to": "scammer_1402",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Western Union Money Agent",
+        "body": "Hello Austin,\n\nThank you for your message. It's quite surprising to hear that I've been listed as a scam victim and that there's a fund waiting for me. Can you please explain more about how this process works? \n\nAlso, could you clarify how my name ended up on the payment schedule list? I don't recall ever reporting any scams or frauds. \n\nI'm also curious about the tracking number you mentioned. Is it supposed to be included in your message? Because I couldn't find it.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nCharles"
+    }
+]

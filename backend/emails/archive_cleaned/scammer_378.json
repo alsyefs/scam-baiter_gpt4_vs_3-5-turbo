@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_378",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "The same fraudster also operat",
+        "body": "The same fraudster also operates few other domain names used only for the email address:\n...\nfrbnj.com\n..."
+    },
+    {
+        "from": "baiter_378",
+        "to": "scammer_378",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: The same fraudster also operat",
+        "body": "Hello! How can I help you today?\n\nBest wishes,\nDeborah"
+    }
+]

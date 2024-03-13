@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2568",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Are you in search of a reputab",
+        "body": "Are you in search of a reputable and reliable lender/loan company? tired of being rejected by banks, financial institutions, taking advantage of? are you tired of looking for funding for your business, or you are financially embarrassed that you can not repay your debts and bills, hurry up and grab a guaranteed, secure and unsecured loan Today without stress, get back to me now on \nusgloballendingcooperative@aol.com"
+    },
+    {
+        "from": "baiter_2568",
+        "to": "scammer_2568",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Are you in search of a reputab",
+        "body": "Hello there! \n\nYour message certainly piqued my interest. I'm always open to exploring new opportunities, especially when it comes to financial matters. Could you please provide more details about this unsecured loan? For instance, what are the terms and conditions? What is the interest rate? And how does the repayment process work?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nLena"
+    }
+]

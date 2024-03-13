@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_413",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "FBI- Criminal Justice Informat",
+        "body": "FBI- Criminal Justice Information Services Division\nFederal Government Office\nAddress: 935 Pennsylvania Ave NW, Washington, DC 20535 ,United States\nI’m contacting you by your Text Phone however; I feel it’s best and\nmore convenient for me to explain why I am contacting you. I\nnotice that you have being receiving numerous emails from people who\nclaims to have funds coming to you but I advise that if you’re still\nin communication\nwith any of them on issue of funds however, you’re hereby advise to\nstop every communication right now because those people has being\ninvestigated\nand confirmed to be a Fraud.\nDue to the delay  of getting this funds to you, your funds has now\nbeen increased to $10.5 Million USD …….\nI’m informing you this today because I came to notice that you’re not\ncommunicating with a legitimate person who is in charge of getting\nthese funds to you …\nIf you’re really interested in receiving your unpaid funds , I advise\nthat you should get back to me immediately. AlI  I need is your\ncooperation and understanding.\nPlease urgently contact me back once you receive this text ….\n (1)Home address.....\n(2)phone number…..\n(3)email address….\n(4)[color=#FF0000]copy of picture /I’d\n ……\n(5)Occupation & sex….\n(6)Age….[/color]\nMr Christopher wray"
+    },
+    {
+        "from": "baiter_413",
+        "to": "scammer_413",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: FBI- Criminal Justice Informat",
+        "body": "Hello Mr. Wray,\n\nThank you for reaching out to me from the Criminal Justice Services Division. I appreciate you taking the time to explain why you are contacting me. It's interesting to hear about these emails claiming to have funds coming my way.\n\nI must admit, I've received a few similar emails in the past, so it's good to know that you're advising me to be cautious. Could you please provide more details about why these people are considered fraud? What kind of scams are they running?\n\nAlso, I'm curious about how my funds have increased to a million USD. That sounds quite substantial! Can you explain why there was a delay in getting the funds to me in the first place?\n\nBefore we proceed further, could you clarify your role and responsibilities within the Criminal Justice Services Division? It would help me understand better why you are involved in this matter.\n\nLooking forward to your response.\n\nBest wishes,\nSharon"
+    }
+]

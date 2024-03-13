@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2339",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello,",
+        "body": "Hello,\n \nHow are you doing today? Well I have a business plan from my company to share with you. Reply this email to send you details of my intent.\n \nThank you,\n \nMartin Klonz."
+    },
+    {
+        "from": "baiter_2339",
+        "to": "scammer_2339",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello,",
+        "body": "Hello Martin,\n\nI hope this message finds you well. I'm doing quite alright, thank you for asking. Your business plan sounds interesting and I would love to hear more about it. Could you please provide me with some more details?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nMichael"
+    }
+]

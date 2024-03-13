@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2487",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Beneficiary:  ",
+        "body": "Dear Beneficiary:  \nI am Mr. Samuel Ekeh, The Managing Director/Chief Executive Officer of United Bank For Africa Nigeria. I write to informed you that we have received an instruction from United Nations Headquarters New York City United States, I received an instruction with authorized letter to compensate Two Hundred and fifty thousand scammed victims from U.S.A, Europe, Canada, United Arab Emirates,Bahrain, Qatar, Saudi Arabia, South America, South Korea, UK, Australia,Asia and Africa Continent through swift ATM Master Card as a global compensatory settlement from the Federal Government of Nigeria to recompense the scammed victims those who has lost their businesses.\nNote we have arranged your payment through ATM Master Card and this will be issued on your Name and it shall be posted directly to your address by the courier services available in your country upon your contact with us.\nThe sum of US$10.500,000.00 compensatory settlement will be credited into the ATM Master Card and enable you to withdraw your funds through ATM Machine in your country with a maximum withdrawal of US$10.000.00 per day. Your limit can be increased to any amount upon your request.\nIn this regard, \nyou are to furnish us with the requested information below for issuance and delivery of your ATM Master Card at your doorstep address without any further delay; I will do anything humanly possible to ensure you receive your compensatory settlement once you comply with bank rules.\n1. Mobile Telephone:\n2. Delivery Address:\n3. Full Name:\n4. \nID Card copy\n:\n5. Occupation:\n6. Age:\nYour urgent response needed to this email as directed to avoid further delay in receiving your ATM Master Card at your doorstep address.\nYours faithfully,\nMr Samuel Ekeh\nManaging Director/Chief Executive\nOfficer of United Bank For Africa\nwhatsapp +234-916-560-1224\nReply E-mail: \nubagroup@ubaatmcardgroup.com"
+    },
+    {
+        "from": "baiter_2487",
+        "to": "scammer_2487",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Beneficiary:  ",
+        "body": "Hello Mr. Samuel Ekeh,\n\nThank you for reaching out to me with this information. It's quite interesting to hear about the global settlement from the Federal Government of Nigeria. I must say, it's a very generous initiative.\n\nI'm curious about how this process works though. How was my name selected for this compensation? Also, could you please provide more details on how the ATM Master Card system functions? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDeborah"
+    },
+    {
+        "from": "scammer_2487",
+        "to": "baiter_2487",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Attn: Deborah",
+        "body": "Attn: Deborah\r\n\r\nI acknowledge the receipt of your response.\r\n\r\nThis is to let you know that your ATM CARD will be ready soon for us to \r\nsend it to your doorstep, Understand the reason why the United Nations \r\nare giving you this fund is because your email address is among the \r\npeople that was scammed before and the United Nations want to use this \r\nfund to compensate you.\r\n\r\nWe are giving you 100% assurance that your ATM card will be delivered to \r\nyour doorstep and the insurance and shipment will cost you $226.00 only, \r\nI reassure you that your nightmare will be over once you follow this due \r\nprocess.\r\n\r\nIn this regard, you are to furnish us with the requested information \r\nbelow for issuance and delivery of your ATM Master Card at your doorstep \r\naddress without any further delay;\r\n\r\n1. Mobile Telephone:\r\n2. Delivery Address:\r\n3. Full Name:\r\n4. ID Card copy:\r\n5. Occupation:\r\n6. Age:\r\n\r\nIt is very important you understand our working procedures. Just follow \r\nmy instructions and you will receive your fund.\r\n\r\nYours faithfully,\r\n\r\nMr Samuel Ekeh\r\nManaging Director/Chief Executive\r\nOfficer of United Bank For Africa\r\nwhatsapp +234-916-560-1224"
+    },
+    {
+        "from": "baiter_2487",
+        "to": "scammer_2487",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03753472222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Attn: Deborah",
+        "body": "Hello Mr. Samuel Ekeh,\n\nThank you for your message and the assurance of receiving an ATM card. It's really kind of the United Nations to compensate people who have been scammed before.\n\nI'm curious about a few things though. Could you please explain more about how my email address was chosen? Also, could you provide more details on how this compensation process works?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDeborah"
+    }
+]

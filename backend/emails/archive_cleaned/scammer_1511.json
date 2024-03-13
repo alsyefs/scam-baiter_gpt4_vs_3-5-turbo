@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1511",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Our Ref: WB/NF/UN/XX028 UNIT",
+        "body": "  Our Ref: WB/NF/UN/XX028 UNITED NATIONS.\n(WORLD BANK ASSISTED PROGRAMME)\nDIRECTORATE OF INTERNATIONAL\nPAYMENT AND TRANSFERS.\n87 MANDELLAS DESTRICT NG LAGOS STATE  10017\nWIRE TRANSFER/AUDIT UNIT\nAttention: Honorable Beneficiary,\nIRREVOCABLE PAYMENT ORDER VIA ATM CARD\n    We have actually been authorized by the newly appointed United Nation\nsecretary general, and the governing body of the UNITED NATIONS monetary\nunit,\nto investigate the unnecessary delay on your payment, recommended and\napproved in your favor. During the course of our investigation, we\ndiscovered with dismay that your payment has been.\nunnecessarily Delayed by corrupt officials of the Bank who are Trying to\ndivert your funds into their private accounts.\nTo forestall this, security for your funds was organized in the form of\nyour personal identification number (PIN) ATM CARD and this will enable.\nonly you to have direct Control.\nyour funds in the ATM CARD. We will monitor this payment ourselves to\navoid the hopeless situation created by the Officials of the bank.\n    An irrevocable payment guarantee has been issued by the presidency,\nFederal republic of Nigeria on your payment. However, we are happy to inform.\nyou.\nyou based on our recommendation /instructions, your complete contract.\nFunds has been credited in your Favor through ATM CARD\n`\nNOTE: We are also to inform you that we initiated a New Manager (GEORGE\nIBE OBASI) handling this situation for effective results and appropriate.\nreimbursement funds to the various perspective's accounts.\n \nContact: Rev. George Ibe Obaise\nmailgeorgeibe@mail.com\n \nTHANKS  \n Management     "
+    },
+    {
+        "from": "baiter_1511",
+        "to": "scammer_1511",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Our Ref: WB/NF/UN/XX028 UNIT",
+        "body": "Hello! That sounds like an interesting opportunity. Can you provide more details about how the World Bank assisted programme works? How does the ATM card payment system function exactly?\n\nBest wishes,\nKaren"
+    }
+]

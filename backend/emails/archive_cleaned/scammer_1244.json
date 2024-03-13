@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1244",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "From the Desk of Mr. Jeff Clau",
+        "body": "From the Desk of Mr. Jeff Clauss\nDirector Customs Department\nU.S Customs and Border Protection, St. Petersburg, Florida\n14700 Teminal Blvd #120, Clearwater, FL 33762, United States\nGood day to you and how are you doing today?\nMy name is Mr. Jeff Clauss from St. Petersburg, Florida. I am\nwriting to let you know that we received several consignment boxes\nsigned and approved by the United Nations with some different people's\nnames/inscription on the boxes and among the consignment boxes that\nare still in our custody, your name was included on two of the\nconsignment boxes. Other of these consignment boxes are from our New\nJersey branch Customs Office while some are from several banks in\nEurope and some parts of Asia which have all been sent to our office\nhere in St. Petersburg for our office to make clarification that you\nreceive your two consignment boxes in our custody.\nHowever, two days ago (Mrs. Susan Brown) sent us a message stating\nthat she was a family member of yours. Not only that, she also said\nthat you are no more alive, and for that, she made us to understand\nthat you handed over your two consignment boxes in our custody to her\nwhen you were still alive. Therefore, this lady (Mrs. Susan Brown) is\ndemanding from our office that the two consignment boxes be released\nto her since she is standing as your next of kin but we the custom\ndepartment St. Petersburg, Florida is still waiting to see if you will\nrespond to this email, thereby, delaying to accede to her request.\nSo, this lady (Mrs. Susan Brown) is not your Next of Kin?\nYours Faithfully,\nMr. Jeff Clauss\nDirector Customs Department\nSt. Petersburg, Florida"
+    },
+    {
+        "from": "baiter_1244",
+        "to": "scammer_1244",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: From the Desk of Mr. Jeff Clau",
+        "body": "Hello Mr. Jeff Clauss,\n\nThank you for reaching out to me. I hope you are doing well too. I must say, this is quite surprising news to receive. I can assure you that Mrs. Susan Brown is not my next of kin, and I am very much alive.\n\nI'm curious to know more about these boxes that have been sent to your office in St. Petersburg. Could you please provide me with some additional details? What exactly is inside these boxes and why were they sent to your office? Also, how did the United Nations come to be involved in this matter?\n\nI appreciate your assistance in clarifying this situation for me.\n\nBest wishes,\nJulie"
+    },
+    {
+        "from": "scammer_1244",
+        "to": "baiter_1244",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: From the Desk of Mr. Jeff Clau",
+        "body": "ATTN:  Julie\r\nI received your email and I thank you so much for your quick response to\r\nthe email that i sent to you, and please thank your God that you are still\r\nalive because Susan brown wanted to lie against you and then sit on your\r\ntwo consignment boxes, so therefore please I want you to reconfirm to me\r\nyour complete full name and the address of where you are living, so that\r\nyour two consignment boxes can be deliver to you right there, and make sure\r\nyou also give me your cell phone or any phone where you can be reach, so\r\nthat I will call you after meeting with my higher authorities today\r\nfor the release of your two consignment boxes.\r\n\r\nYour urgent response is needed and once I hear from you with the\r\nneeded information,  and I will hand it over to our delivering department\r\nso that our delivering agent will start coming to meet with you by tomorrow\r\nand I will not forget to let you know that this  two consignment boxes\r\nis made up of cash and  one of the consignment box contain 5 million\r\ndollars while the other consignment box contain 5.5 million dollars\r\nwhich is totaling 10.5 million dollars and this two consignment boxes\r\nis from the United Nations office and it was approved in your name and the\r\nmission of this two consignment boxes that is coming to you is for you\r\nto use 40% of the total 10.5 million dollars to set up a charity\r\norganization in the name of the United Nations and in other to be\r\nhelping the poor and then %60 will go for you and therefore please\r\ngive me your cell phone number because i will call you today after\r\nhaving a meeting with my higher authorities and you need to let me know the\r\nbest time to reach you on the telephone so that i can details you more\r\non how this delivery of your two consignment boxes can be done to your\r\nhouse.\r\nwithout having any problem.\nThanks\r\nMr. Mark Clifford\r\nCustoms Department Director\r\nSAINT Petersburg Florida USA"
+    },
+    {
+        "from": "baiter_1244",
+        "to": "scammer_1244",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.4027777777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: From the Desk of Mr. Jeff Clau",
+        "body": "Hello Mr. Mark Clifford,\n\nThank you for your email and for reaching out to me. I appreciate your concern about Susan Brown and the information you have shared with me. However, before I provide any personal details, I would like to know more about the background of this situation.\n\nCould you please explain to me how Susan Brown is involved and why she wanted to lie against me? Also, what are the two boxes that you mentioned? It would be helpful if you could provide more information about their contents and how they are related to the United Nations.\n\nAdditionally, I am curious to know how the delivery process will work. Will there be any fees or charges associated with it? And what security measures are in place to ensure the safe arrival of these boxes?\n\nI look forward to hearing from you soon with more details.\n\nBest wishes,\nJulie"
+    }
+]

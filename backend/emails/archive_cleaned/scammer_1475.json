@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1475",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "This is for your Attention,",
+        "body": "This is for your Attention,\nWe can bring you an interesting and exciting financial opportunity\nthat you can key into to enhance, grow your business/project world. If\nyou decide to take advantage of what I am about to offer you, it will\nenable you to raise capital for larger and long-term projects with an\nachievable repayment plan. For more details contact me.\nThank you for your anticipated interest.\nSincerely,\nW. Montgomery Jr.\nConsultant/Broker\nEmail: \nlinbelcher95@gmail.com"
+    },
+    {
+        "from": "baiter_1475",
+        "to": "scammer_1475",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: This is for your Attention,",
+        "body": "Hello W. Montgomery Jr.,\n\nThank you for reaching out and sharing this exciting opportunity with me! I'm always interested in exploring new ways to enhance and grow my business projects.\n\nCould you please provide more details about this financial opportunity? What kind of projects does it typically support? And how does the repayment plan work?\n\nLooking forward to hearing from you soon!\n\nBest regards.\n\nBest wishes,\nTimothy"
+    }
+]

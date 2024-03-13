@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1552",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "I am Lt Mrs. Marquez Jane Peir",
+        "body": "I am Lt Mrs. Marquez Jane Peire, a U.S soldier currently  carrying out my duty in Iran. I have a proposal for you. I and some of my colleagues recovered some huge amounts of money here the last two weeks during an operation. We just shared the money some days ago and I want to move mine to a safe place. Why am I contacting you through this mail because this is the only means of communication I have here. \nI came across your email when I was searching for a random person online who I can trust with this proposal.\n I am willing to offer you40% of the total money which is $7.8 million USD if you are willing to do the deal with me and I want you to know that this is very legit.\nHere is my personal email address: (\nitmanepeire399@gmail.com\n) you can reply to me here if you are willing to do this deal with me and I will advise you ahead on how I will send the funds out to you.\nI will wait for your response.\nThank You Lt Mrs. Marquez Jane Peire,"
+    },
+    {
+        "from": "baiter_1552",
+        "to": "scammer_1552",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: I am Lt Mrs. Marquez Jane Peir",
+        "body": "Hello Lt Mrs. Marquez Jane Peire,\n\nThank you for reaching out to me with your proposal. I must say, it sounds quite intriguing. I appreciate that you trust me enough to share this opportunity.\n\nCould you please provide me with more details about the operation and how exactly the money was recovered? I want to make sure I fully understand the situation before moving forward.\n\nAdditionally, what would be my role in this deal? How can I assist you in moving the funds to a safe place?\n\nLooking forward to your response.\n\nBest wishes,\nLorraine"
+    }
+]

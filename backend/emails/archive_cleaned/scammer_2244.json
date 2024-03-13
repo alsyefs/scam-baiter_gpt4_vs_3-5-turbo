@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2244",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " ",
+        "body": " \n My name is Rose Davison from Trinidad and Tobago,  Am  17 years old Orphan because my parents are late but I am the only child of my parents,  My late father was a Civil Engineer who worked for many companies before he died, he sold all his properties and deposited the money to a financial Institute and used my name as the next of kin, Right now I am suffering so much because I am living with my late father's friend who is not taking care of me at all but they choose to Maltreat me for no reason since they are not my biological parents. They drop me out from school and I only eat once a day.  The suffering is so much on me.\nToday I have contact the Financial Institute where my father deposited the sum of $9,500.000.00 (Nine Million Five Hundred Thousand Dollars) to release it to me so that I can start up a new life,  The Financial Institute insisted that my late father signed an agreement with them that I can only access the money at the age of 30 years or they should release the money to anyone I present to them who is above 29 years.\nPlease I am appealing you with heavy tears on my eyes now, I want you to contact Financial Institute on my behalf and tell them to release the $9,500.000.00 (Nine Million Five Hundred Thousand Dollars) to you while you take your own percentage and send the balance to me so that i can help my life instead of suffering this way.\nI am waiting for your response so that i will send you the Bank Contact details.\nThank You so Much.\nRose   "
+    },
+    {
+        "from": "baiter_2244",
+        "to": "scammer_2244",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  ",
+        "body": "Hello Rose,\n\nI'm sorry to hear about your difficult situation. It must be tough for you to go through all of this. I understand that you're looking for help in accessing the money your late father left behind. However, I have a few questions before I can proceed.\n\nFirstly, could you please provide me with more information about the financial institute where your father deposited the money? What is the name of the institution and how can I contact them? Additionally, what percentage would you like me to keep for myself once the funds are released?\n\nI want to make sure that everything is clear before taking any further steps. Looking forward to hearing from you soon.\n\nBest wishes,\nTeresa"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_256",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hi, I have emailed you befor",
+        "body": "  Hi, I have emailed you before but there has been no reply\nfrom you, answer when you receive my message ??   "
+    },
+    {
+        "from": "baiter_256",
+        "to": "scammer_256",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hi, I have emailed you befor",
+        "body": "Hello there! I'm sorry if I missed your previous email. How can I assist you today?\n\nBest wishes,\nJesse"
+    }
+]

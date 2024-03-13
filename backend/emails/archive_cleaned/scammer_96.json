@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_96",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir/Madam",
+        "body": "  Dear Sir/Madam\nMy name is Dr Sammy W George. I am a loan and project funding consultant with G.F LOAN CAPITAL, Switzerland. Are you in need of a Loan or do you have a project that needs funding? We offer all types of non-recourse Loan and funding at a very low Interest Rate both long- and short-term duration. Look no further because G.F Loan Captial has private FUNDERS that have over $5 Billion USD to give out as loans for expansion of businesses or funding of projects in any part of the world.\nIf you are interested get back to me for further discussions on terms and conditions.\n \nRegards\nDr Sammy W George.       .\n Email: \nAllegiances@financier.com\n "
+    },
+    {
+        "from": "baiter_96",
+        "to": "scammer_96",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir/Madam",
+        "body": "Hello Dr. Sammy George,\n\nThank you for reaching out and offering your services. It's quite interesting to hear about the opportunities that LOAN CAPITAL provides. I'm curious, could you please elaborate more on the types of projects your funders are interested in? Also, what is the usual process for applying for a loan or project funding?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nJessie"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2331",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "I know it will be a great surp",
+        "body": "I know it will be a great surprise reading from me\ntoday but consider This divine intervention as a pastor explained to\nmy understanding. I'm Mrs. Sherry Ballou, I'm a widow from\nUSA, I am writing you from my sick bed because I have been fighting\ncancer for a while now, I will tell you more about myself and also explain\nwhy I need your help. Please write me soon as possible, my health is pretty\nbad and my Doctors say I will be moved to the intensive care unit.\nI hope I can trust you! please do pray for me, I wait for your email\nfeedback Thanks!"
+    },
+    {
+        "from": "baiter_2331",
+        "to": "scammer_2331",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: I know it will be a great surp",
+        "body": "Hello Mrs. Sherry Ballou,\n\nI'm really sorry to hear about your health condition. It must be a tough time for you. I appreciate your trust in reaching out to me and I will certainly keep you in my prayers.\n\nCould you please share more about yourself? And how may I assist you during this difficult time? Please remember, I'm here to help within my capabilities.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMargaret"
+    }
+]

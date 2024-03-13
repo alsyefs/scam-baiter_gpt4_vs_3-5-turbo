@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2231",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Urgently Response Needed!",
+        "body": "Urgently Response Needed!\nGreetings from the desk of Robo Bank of the Netherlands. I have a vital\ninformation which needs to be attended immediately. Did you\nauthorized anyone to pick up your Compensation funds from our Bank\nhere in Netherlands?  One Mr Ralph Jerry came to our bank in-respect of\nyour $18.5 million dollars which has been custody for the past\n1 years He said that you authorized him to collect the Account\nonline login Access.\nSo we decided to write to you to make sure that you are fine and\naware of the  Mr Ralph Jerry  claim before we will release the\nonline account login.\nYour urgent attention with your information 1. Full name: 2. Address:\n3. Mobile Number: are needed to enables\nproceed with the transaction as your fund is ready to pay out to you.\nYours In Service\nMr.Berry Marttin\nManaging Director\nRoboBank of Netherlands"
+    },
+    {
+        "from": "baiter_2231",
+        "to": "scammer_2231",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Urgently Response Needed!",
+        "body": "Dear Marttin,\n\nThank you for reaching out to me from Robo Bank. I hope this message finds you well. I appreciate you bringing this matter to my attention.\n\nI must admit that I am a bit confused about the situation. I have not authorized anyone to pick up any funds from your bank, nor am I familiar with a person named Ralph Jerry. Could you please provide me with more details regarding this claim? \n\nAdditionally, I would like to know more about the online account login access that Mr. Ralph Jerry is referring to. What is it exactly and how does it relate to my account?\n\nI understand that you require my full name, address, and mobile number in order to proceed with the matter. However, before providing any personal information, I would appreciate further clarification on the situation.\n\nThank you for your assistance.\n\nBest wishes,\nLarry"
+    }
+]

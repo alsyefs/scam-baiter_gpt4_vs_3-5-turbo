@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1700",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attn",
+        "body": "  Attn\nI am Edward Okeke, a computer I.T with the central bank of Nigeria. I am 26 years old, I just started work with the Central Bank Of Nigeria, I came across your file which was marked X and your released Disk painted RED. I took time to study it and found out that you have paid VIRTUALLY all fees and certificates, but the fund has not been released to you. The most annoying thing is that they cannot tell you the truth that\nOn no account will they ever release the fund to you; instead, they let you spend\nmoney unnecessarily. I  do not intend to work here all the days of my life; I can release this fund to you if you can certify / assure me of my security, and how I can run away from this Country called Nigeria if I do this, because if I don't run away from this Country after I the transfer to you, I will be seriously be in trouble and my life will be in danger. Please this is like a Mafia setting in Nigeria, you may not understand it because you are not a Nigerian. I would like to visit you in your Country to earn a living and get a job there. I hope you can assist me to get a job there.\nThe only thing I will need to release this fund is a special HARD DISK we call it HD120 GIG. I will buy two of it, recopy your information, destroy the previous one, punch the computer to reflect in your bank within 48 banking hours. I will clean up the tracer and destroy your file, after which I will run away from Nigeria to meet with you. If you are interested.\nDo, get in touch with me immediately, You should send to me your convenient telephone for easy communications and also re-confirm your banking details, so that there won't be any mistake in transferring the funds into your nominated bank account. I am waiting for your response Asap. My Boss is now on his annual leave and i would want us to conclude this transfer before he returns back to the office.\nRegards,\nEdward Okeke\nComputer I.T\nCENTRAL BANK OF NIGERIA   "
+    },
+    {
+        "from": "baiter_1700",
+        "to": "scammer_1700",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attn",
+        "body": "Hello Edward Okeke,\n\nThank you for reaching out to me. I appreciate you taking the time to study my file and bring this matter to my attention. It sounds like a complicated situation, and I'm sorry to hear that you're facing difficulties in releasing the funds.\n\nI understand your concerns about the safety and security of both of us. However, before we proceed any further, could you please provide me with more information about the process? I want to make sure I fully understand how everything will work.\n\nAlso, regarding your request for assistance in finding a job in my country, could you please let me know what kind of job you are looking for? That way, I can see if there are any opportunities that might be suitable for you.\n\nLooking forward to hearing back from you soon.\n\nBest wishes,\nMarlene"
+    }
+]

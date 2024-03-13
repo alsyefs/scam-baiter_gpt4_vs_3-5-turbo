@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_459",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir",
+        "body": "  Dear Sir\nGood Morning\n                         THIS IS FOR YOUR URGENT ATTENTION\nWe write to let you know that one Mr. Hasrul said you authorized him to receive your funds as your partner for investment both of you have together in Indonesia. Could this be the reason why you refused to respond to all the messages that were sent to you anymore?.\nPlease do you know Mr Hasrul from Indonesia as your partner and you want him to receive your Trustee funds $5m?\nHe further submitted to us his details with his banking account as follows\nAccount name, ; Hasrul\nAddress Home : ANDI MANAPPIANG NO. 4 RT.001/RW.002 KELURAHAN LAMALAKA,\nKABUPATEN BANTAENG\nPROVENCE : SOUTH SULAWESI\nCOUNTRY : INDONESIA\nPO.BOX : 92411\naccount number : 174-00-0031369-2\nbank routing # OR Swift code : BMRIIDJA\nbank branch code or address : KCP Bantaeng Kartini 17410 ( South Sulawesi In Indonesia )\nHERE IS THE CURRENT RESIDENT HOME ADDRESS WHERE HE GAVE US YOU ARE STAYING IN INDONESIA\nPLEASE CAN YOU CONFIRM TO US THAT YOU ARE CURRENTLY STAYING IN THIS ADDRESS SUBMITTED TO US BY MR HASRUL : ANDI MANAPPIANG NO. 4 RT.001/RW.002 KELURAHAN LAMALAKA, KABUPATEN BANTAENG SOUTH SULAWESI, INDONESIA?\nWe are looking forward to receiving your response and also indicating your interest to get the funds if you did not want him and wishes Mr Hasrul to claim your funds.\nConfirm receipt of email\nHave a pleasant day and stay healthy\nWaiting for your swift response.\nThanks for your cooperation\nYours Sincerely,\nDavid Champion\nAccess Credit & Investment Bank United Kingdom\nTel:+447452343957   "
+    },
+    {
+        "from": "baiter_459",
+        "to": "scammer_459",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir",
+        "body": "Dear David Champion,\n\nGood day! I hope this message finds you well. \n\nI must say, your email has taken me by surprise. While I do know a Mr. Hasrul, our relationship is purely of a personal nature and not business-related. We certainly don't have any joint investments in Indonesia or elsewhere.\n\nAs for the address in Indonesia, I'm afraid there seems to be some confusion. I am not currently residing in Indonesia nor have plans to move there anytime soon.\n\nCould you please provide more details about these funds? How did they come under my name? And what exactly is the role of Mr. Hasrul in all this?\n\nLooking forward to your response.\n\nBest wishes,\nJesse"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2033",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Dear Sir/Madam,",
+        "body": " Dear Sir/Madam,\nWe wish to inform you that your Compensation Funds have been approved\nin your name by the new Elected President Federal Republic of Nigeria\nBola Ahmed Tinubu, Please you are advice to contact the payment\nofficer Dr. King Ibe for more details.\nThanks for your co-operation.\nDr. King Ibe\nE-Mail: \nonotification@yandex.com\nTelephone: +234-704-613-1333    "
+    },
+    {
+        "from": "baiter_2033",
+        "to": "scammer_2033",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  Dear Sir/Madam,",
+        "body": "Hello there,\n\nThank you so much for your message. It's quite exciting to hear about this approval from the new Elected President Federal Republic of Nigeria, Bola Ahmed Tinubu. I'm curious, how did this come about? \n\nI'd love to learn more about this process and what it entails. Could you please provide me with more details?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nEdwin"
+    }
+]

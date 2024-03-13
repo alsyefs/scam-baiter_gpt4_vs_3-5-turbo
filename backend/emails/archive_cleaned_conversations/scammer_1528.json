@@ -1,0 +1,122 @@
+[
+    {
+        "from": "scammer_1528",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  We are direct lenders and up",
+        "body": "  We are direct lenders and up to 100% IPF (international project financing). We provide loans for business expansion, real estate investment, construction and personal loans at very low interest rate.For more information reply; \nmarinerfinancepersonalloans@gmail.com\n "
+    },
+    {
+        "from": "baiter_1528",
+        "to": "scammer_1528",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   We are direct lenders and up",
+        "body": "Hello! That sounds interesting. Can you tell me more about the process of applying for a loan with your company? What are the requirements and how long does it usually take to get approved?\n\nBest wishes,\nLillie"
+    },
+    {
+        "from": "scammer_1528",
+        "to": "baiter_1528",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Loan Application Form Procedure",
+        "body": "Dear Sir/Madam,\r\n\r\nThe main basics of this loan procedure is carefully listed out below,I\r\nlearned this because this is the usual step which all my clients which I\r\nhave funded all followed and they all got funded respectively.\r\n\r\n1. well after i get a quote on the amount that you are interested in\r\nborrowing,i would send you my terms and conditions which you would be\r\nrequired to agree to.\r\n\r\n2. If you are in total agreement with my terms, you are to rightfully\r\ninform me and I would then call the leasing agency to send you whatever\r\npaperwork that they have for you,you would get this via email and you would\r\nbe required to fill it out and then email back to them asap.\r\n\r\n3.we would then have to wait for them to approve us,most times they do and\r\nwhen they don't then we won't be allowed to proceed with this transaction,i\r\nhave had numerous offers declined and those people may have to seek loans\r\nelsewhere.\r\n\r\n4..After getting that i would then proceed to the bank and deposit funds in\r\nyour bank account.\r\n\r\n\r\nThese whole processes will take three to Four (3 - 4) working days,\r\ndepending on your early response to our emails. We would need to\r\ncommunicate with you to verify your provided information.\r\n\r\nA complete form will help us process your application faster.\r\n\r\n 1 Name:\r\n\r\n 2 Prefix (Mr., Mrs., Ms., Dr., etc.):\r\n\r\n 3 First name:\r\n\r\n 4 Last name:\r\n\r\n 5 Business name (If Any) :( Proposed name)\r\n\r\n 6 Purpose of loan:\r\n\r\n 7 Date of birth (yyyy-mm-dd):\r\n\r\n 8 Gender:\r\n\r\n 9 Marital status:\r\n\r\n 10 City:\r\n\r\n 11 Occupation:\r\n\r\n 12 Company name :( if any)\r\n\r\n 13 State/Province:\r\n\r\n 14 Country:\r\n\r\n 15 Phone:\r\n\r\n 16 Amount Needed As The Loan:\r\n\r\n 17 Duration (as stated in the above terms):\r\n\r\n 18 Email Address\r\n\r\n\r\nIf you have a general inquiry, please complete our loan form and we will be\r\nin contact with you within 24 business hours.  We make loans, and will\r\nnever sell or distribute your personal information.\r\n\r\nThank you!!\r\n\nMrs. Miranda Marquit\r\nLoan Officer"
+    },
+    {
+        "from": "baiter_1528",
+        "to": "scammer_1528",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03387731481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Loan Application Form Procedure",
+        "body": "Hello! Thank you for sharing this information about the loan procedure. Can you tell me more about the terms and conditions that would need to be agreed upon? Also, how long have you been working as a loan officer?\n\nBest wishes,\nLillie"
+    },
+    {
+        "from": "baiter_1528",
+        "to": "scammer_1528",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.15873842592592594,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Loan Application Form Procedure",
+        "body": "Hello! Thank you for sharing this information about the loan procedure. Can you tell me more about the terms and conditions that would need to be agreed upon? Also, how does the verification process work before depositing funds into the bank account?\n\nBest wishes,\nLillie"
+    },
+    {
+        "from": "baiter_1528",
+        "to": "scammer_1528",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.15888888888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Loan Application Form Procedure",
+        "body": "Hello! Thank you for sharing the details of the loan procedure. It sounds like a thorough process that ensures clarity and transparency for clients. Could you please provide more information about the terms and conditions involved in this loan? I'm interested in learning more about how the funding process works and what options are available.\n\nBest wishes,\nLillie"
+    },
+    {
+        "from": "scammer_1528",
+        "to": "baiter_1528",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.16923611111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Loan Application Form Procedure",
+        "body": "Dear Mrs. Lillie,\r\n\r\nThanks for your message,well i would like you to understand that i can get\r\nyou funded just as i have funded others before you,well the last 2 clients\r\nthat i funded were from the US and Trinidad and Tobago and they were both\r\nreal estate investors. Fortis Global Ventures has committed itself to serve\r\nthe underserved-from people in urban and ethnic minority communities that\r\nmany financial institutions overlook, to fledgling entrepreneurs, to\r\ncompanies seeking emerging global markets. We are extending that\r\ntrailblazing spirit, actively seeking out and assisting customers with\r\nfinancial needs and those who seek new financial opportunities.\r\n\r\nThese are the terms and conditions required to obtain a loan\r\n\r\nYou must be 18 or above to obtain the loan\r\nYour loan will be given to you at an interest rate of 3%\r\nPrepayment penalty... No\r\nCollateral Issuing Bank... No\r\nGuarantee collateral...No\r\n\r\nPlease your 1st monthly Repayment is to begin exactly 3  months from  the\r\nday you get funded\r\n\r\nOur founding principles remain... to listen to our clients first and to\r\nearn their business by delivering superior solutions. We are compensated\r\nonly when we perform for our clients. We are rewarded for our results, not\r\nfor our advice. Join us as we continue to build long-term customer\r\nrelationships by providing an extraordinary level of service to every\r\nclient, large and small.\r\n\r\nOnce again, thank you for choosing Fortis Global Ventures as your financial\r\npartner. We are dedicated to helping you achieve your project goals, and we\r\nlook forward to resolving any outstanding matters promptly.\r\n\r\nIf you have any questions or require further clarification, please do not\r\nhesitate to reach out to our team\r\n\r\nThank you"
+    },
+    {
+        "from": "baiter_1528",
+        "to": "scammer_1528",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.20024305555555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Loan Application Form Procedure",
+        "body": "Hello Mrs. Lillie,\n\nThank you for sharing this information about Fortis Global Ventures and the funding opportunities available. It's interesting to hear about the previous clients from the US and Trinidad and Tobago who were real estate investors. \n\nI appreciate you outlining the terms and conditions required to obtain a loan, such as the minimum age requirement, interest rate, and repayment details. It's good to know that there are no prepayment penalties or collateral requirements.\n\nIt's also nice to see that customer service is a priority for Fortis Global Ventures, with a focus on listening to clients and delivering superior solutions. Building trust with clients is indeed important in any financial partnership.\n\nIf I may ask, how does the application process work for obtaining a loan from Fortis Global Ventures? Are there specific documents or qualifications that potential borrowers need to provide?\n\nThank you again for reaching out with this information. I look forward to learning more about your services.\n\nBest wishes,\nLillie"
+    },
+    {
+        "from": "baiter_1528",
+        "to": "scammer_1528",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.20059027777777777,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Loan Application Form Procedure",
+        "body": "Hello! Thank you for sharing the details of the loan procedure. It sounds like a thorough process that ensures clarity and transparency for clients. Could you please provide more information about the terms and conditions, as well as the types of loans available? I'm interested in learning more about how this process works.\n\nBest wishes,\nLillie"
+    },
+    {
+        "from": "baiter_1528",
+        "to": "scammer_1528",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2006712962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Loan Application Form Procedure",
+        "body": "Hello! Thank you for sharing this information about the loan procedure. It's interesting to learn about the steps involved in getting funded. Can you tell me more about the types of loans available and the specific terms and conditions that applicants need to agree to?\n\nBest wishes,\nLillie"
+    },
+    {
+        "from": "baiter_1528",
+        "to": "scammer_1528",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2021990740740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Loan Application Form Procedure",
+        "body": "Hello! Thank you for sharing the details of the loan procedure. It's interesting to hear about the steps involved in getting funded. Can you tell me more about the types of loans you offer and what sets your lending process apart from others?\n\nBest wishes,\nLillie"
+    },
+    {
+        "from": "baiter_1528",
+        "to": "scammer_1528",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2427314814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Loan Application Form Procedure",
+        "body": "Hello! Thank you for sharing the details of the loan procedure. It sounds like a thorough process. Could you provide more information about the terms and conditions of the loan? I'm interested in learning more about the amount that can be funded and the duration of the loan. Additionally, how do you ensure the security of personal information provided during this process?\n\nBest wishes,\nLillie"
+    }
+]

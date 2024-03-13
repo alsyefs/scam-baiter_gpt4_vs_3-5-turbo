@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_524",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello Friend,",
+        "body": "Hello Friend,\nI wanted to know if you will be able to find someone who can move funds that is in cash, out from here in Istanbul Turkey.The cash came from Russia the land borders in the name of family treasure. The total amount is $1.5 Million USD.\nCommission is 30% to you and 70% for proposed projects.We can either move it through a private shipping Courier service to your destination Address, or through bank to bank transfer. Let us discuss more if you are ready to do this business with me\nReply to my private Email Address at: \ndavidwillims322@gmail.com\nThanks for your understanding\nDavid William"
+    },
+    {
+        "from": "baiter_524",
+        "to": "scammer_524",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello Friend,",
+        "body": "Hello David William,\n\nWow, that sounds like quite an adventure! I'm intrigued by your proposal. Could you please tell me more about how this process works? How does one move such a large amount of money safely and securely?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJavier"
+    },
+    {
+        "from": "scammer_524",
+        "to": "baiter_524",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Hello Friend,",
+        "body": "Hello  Javier\r\n\r\nYour messenger received with thanks, send your WhatsApp number, so that I\r\nwill call you for more discussion thanks\nDavid William"
+    },
+    {
+        "from": "baiter_524",
+        "to": "scammer_524",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0051967592592592595,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Hello Friend,",
+        "body": "Hello David William,\n\nThank you for your response. I'm glad to hear from you. However, I prefer to keep our conversation here for now. Could you please share more details about the topic we are going to discuss? I'm really interested in learning more.\n\nBest wishes,\nJavier"
+    }
+]

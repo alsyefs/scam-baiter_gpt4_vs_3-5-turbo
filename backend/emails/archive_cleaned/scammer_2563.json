@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2563",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "U.S. Department of State",
+        "body": "U.S. Department of State\nDepartment of Finance and Administration\n2201 C Street NW Washington, DC 20520\nI write to officially inform you that the U.S. Department of State has instructed the Federal Reserve Bank to release your delayed funds valued US$10.5m from the US Treasury Account with them \nto your designated Bank Account\n at no COST. Every and all cost associated with the fund transfer has been prepaid by the U.S Government.\nYours truly,\nMr.Dereck J. Hogan.\nCommissioner, Centralized Accounting,"
+    },
+    {
+        "from": "baiter_2563",
+        "to": "scammer_2563",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: U.S. Department of State",
+        "body": "Hello J. Hogan,\n\nWow, this is such an unexpected surprise! I can't believe the Department of State has instructed the Federal Reserve Bank to release funds to me. Could you please tell me more about how this came about? \n\nAlso, could you clarify what you mean by \"at no COST\"? Does that mean I won't have to pay anything at all for this transfer? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nWilliam"
+    }
+]

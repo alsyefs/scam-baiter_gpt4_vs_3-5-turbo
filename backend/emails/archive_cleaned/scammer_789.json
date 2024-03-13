@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_789",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Federal Bureau of Investigat",
+        "body": "  Federal Bureau of Investigation FBI\nFBIOFFICE@usa.com\nGood day,\nThis is to officially inform you that we received Mr. Brown Donald letter whom you directed to pay for your fund account upgrade charges and receive your contract compensation fund $120Million into his personal provided bank account in Russia as your financier . Thus, we hereby acknowledged the letter. But before we can endorse this letter of your transfer to a third party, you are required to write to us directly and authorize us to permit the bank to release and transfer your fund $120Million to Mr. Brown Donald with an attachment of a copy of your passport ID . This is to help us to be risk free and transparent in this legitimate transaction. For security purposes, are you aware of this letter?\nMeanwhile, it is our duty to ensure that your unclaimed fund $120Million is not diverted to a wrong person. We wait for your approval letter .  We don't want to have a problem with anybody.\nThanks for your cooperation.\nFor the safety of your fund, every communication is considered confidential as you fill the below\nYour name:\nAddress:\nTel:\nYour bank details:\nBest Regards,\nMr. Murphy Richard Joseph\nFBI AGENT\nFBIOFFICE@usa.com\n "
+    },
+    {
+        "from": "baiter_789",
+        "to": "scammer_789",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Federal Bureau of Investigat",
+        "body": "Hello Mr. Murphy Richard Joseph,\n\nThank you for reaching out to me regarding my fund account upgrade charges and the transfer of my contract fund. I appreciate your efforts in ensuring the safety and legitimacy of this transaction.\n\nI understand the need for security measures, and I would like to proceed with authorizing the bank to release and transfer my funds to Mr. Brown Donald. However, before I provide any personal information or copies of my passport ID, could you please clarify a few things for me?\n\n1. How did Mr. Brown Donald become involved in this process? Is he affiliated with the bank or any other official institution?\n2. Can you explain why it is necessary for me to authorize the transfer directly to Mr. Brown Donald's personal bank account in Russia? Are there any alternative options available?\n3. What steps have been taken by the FBI to ensure that my funds will not be diverted or misused during this transfer process?\n\nI apologize for any inconvenience caused by these questions, but I want to make sure that everything is legitimate and secure before proceeding further.\n\nThank you once again for your assistance.\n\nBest wishes,\nLynn"
+    }
+]

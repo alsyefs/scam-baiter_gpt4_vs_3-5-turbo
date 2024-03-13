@@ -1,0 +1,112 @@
+[
+    {
+        "from": "scammer_1076",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear  Sir,",
+        "body": "Dear  Sir,\nHow are you this morning?\n I expected your urgent response to the outstanding payment to enable us to complete this transaction as time is running out.\nContact  Mr. JOHN MARK   Telephone and WhatsAppLine  : +32-495-710-424 /  , also give him your exact traveling date / arrival to Belgium and he will send you the address  and time  and how to meet.\nR.J.C. Wolfgang\nTransaction Investigator\nAuditors & Financial Flow\nCONFIDENTIALITY NOTICE: The contents of this email message and any attachments are intended solely for the addressee(s) and may contain confidential and/or privileged information and may be legally protected from disclosure. If you are not the intended recipient of this message or their agent, or if this message has been addressed to you in error, please immediately alert the sender by reply by email and then delete this message and any attachments. If you are not the intended recipient, you are hereby notified that any use, dissemination, copying, or storage of this message or its attachments is strictly prohibited."
+    },
+    {
+        "from": "baiter_1076",
+        "to": "scammer_1076",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear  Sir,",
+        "body": "Dear Wolfgang,\n\nI hope this email finds you well. Thank you for reaching out to me. I'm curious about the payment you mentioned. Could you please provide more details about what it is for and why it is urgent? I want to make sure I understand the situation correctly.\n\nAlso, who is Mr. John Mark? Is he someone I should be in contact with regarding this payment? It would be helpful if you could provide more information about him and his role in this process.\n\nThank you in advance for your response.\n\nBest wishes,\nTracy"
+    },
+    {
+        "from": "scammer_1076",
+        "to": "baiter_1076",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Sir,",
+        "body": "*Dear  Sir,How are you this morning? I expected your urgent response to the\r\noutstanding payment to enable us to complete this transaction as time is\r\nrunning out.*\r\n\r\n*Contact  Mr. JOHN MARK   Telephone and WhatsAppLine  : +32-495-710-424 /\r\n , also give him your exact traveling date / arrival to Belgium and he will\r\nsend you the address  and time  and how to meet.*\r\n\r\n\r\n\r\n\r\n*R.J.C. WolfgangTransaction InvestigatorAuditors & Financial\r\nFlowCONFIDENTIALITY NOTICE*: *The contents of this email message and any\r\nattachments are intended solely for the addressee(s) and may contain\r\nconfidential and/or privileged information and may be legally protected\r\nfrom disclosure. If you are not the intended recipient of this message or\r\ntheir agent, or if this message has been addressed to you in error, please\r\nimmediately alert the sender by reply by email and then delete this message\r\nand any attachments. If you are not the intended recipient, you are hereby\r\nnotified that any use, dissemination, copying, or storage of this message\r\nor its attachments is strictly prohibited.*"
+    },
+    {
+        "from": "baiter_1076",
+        "to": "scammer_1076",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.006342592592592592,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Sir,",
+        "body": "Hello! I hope you are doing well. Could you please provide more details about the payment and the purpose of it? I would like to understand the situation better before proceeding. Thank you for reaching out.\n\nBest wishes,\nTracy"
+    },
+    {
+        "from": "baiter_1076",
+        "to": "scammer_1076",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.04704861111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Dear Sir,",
+        "body": "Hello! I hope you are doing well. Thank you for sharing this information with me. Could you please provide more details about the payment and the purpose behind it? I would like to understand the situation better before proceeding.\n\nBest wishes,\nTracy"
+    },
+    {
+        "from": "baiter_1076",
+        "to": "scammer_1076",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0882986111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Dear Sir,",
+        "body": "Hello! I hope you are doing well. Thank you for sharing this information with me. Could you provide more details about the payment and the purpose of it? I'm curious to learn more about your upcoming trip to Belgium. What is the reason for the urgency in completing this payment?\n\nBest wishes,\nTracy"
+    },
+    {
+        "from": "scammer_1076",
+        "to": "baiter_1076",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.4706828703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Am still waiting for your arrival date to Belgium",
+        "body": "*Dear  Sir,How are you today?*\r\n\r\n* I expected your urgent response to the outstanding payment to enable us\r\nto complete this transaction as time is running out.*\r\n\r\n*Contact  Mr. JOHN MARK   Telephone and WhatsAppLine  : +32-495-710-424 /\r\n , also give him your exact traveling date / arrival to Belgium and he will\r\nsend you the address  and time  and how to meet.*\r\n\r\n\r\n\r\n\r\n*R.J.C. WolfgangTransaction InvestigatorAuditors & Financial\r\nFlowCONFIDENTIALITY NOTICE*: *The contents of this email message and any\r\nattachments are intended solely for the addressee(s) and may contain\r\nconfidential and/or privileged information and may be legally protected\r\nfrom disclosure. If you are not the intended recipient of this message or\r\ntheir agent, or if this message has been addressed to you in error, please\r\nimmediately alert the sender by reply by email and then delete this message\r\nand any attachments. If you are not the intended recipient, you are hereby\r\nnotified that any use, dissemination, copying, or storage of this message\r\nor its attachments is strictly prohibited.*"
+    },
+    {
+        "from": "baiter_1076",
+        "to": "scammer_1076",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.5050347222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Am still waiting for your arrival date to Belgium",
+        "body": "Hello! I hope you are doing well. Could you please provide more details about the payment and the purpose of it? I would like to understand how I can assist you further. Thank you for reaching out.\n\nBest wishes,\nTracy"
+    },
+    {
+        "from": "baiter_1076",
+        "to": "scammer_1076",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.5475925925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Am still waiting for your arrival date to Belgium",
+        "body": "Hello! I hope you are doing well. Could you please provide more details about the payment and what it is for? I would like to understand the situation better before proceeding. Thank you for reaching out.\n\nBest wishes,\nTracy"
+    },
+    {
+        "from": "scammer_1076",
+        "to": "baiter_1076",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.9960648148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Am still waiting for your arrival date to Belgium",
+        "body": ""
+    },
+    {
+        "from": "baiter_1076",
+        "to": "scammer_1076",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0048958333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Am still waiting for your arrival date to Belgium",
+        "body": "Hello! How can I help you today?\n\nBest wishes,\nTracy"
+    }
+]

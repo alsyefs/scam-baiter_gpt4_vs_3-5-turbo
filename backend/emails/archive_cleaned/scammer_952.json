@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_952",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "CONFIDENTIAL",
+        "body": "CONFIDENTIAL\nTRANSFER OF $15 MILLION U.S DOLLARS\nFrom the desk of: Mr. Victor Morgan.\nI am making this contact with you on behalf of my company,\nI am a member of (Tender Board Committee) of the Ghana National Petroleum Corporation (G.N.P.C) Tema our duties include award Evaluation, and review of Contracts.\nIn the Year 2019 my committee awarded me a contract of 15.000,000.00 (FIFTEEN MILLION U.S DOLLARS), for an engineering procurement, Construction of pipeline network at Tema oil refinery plant .The actual contract sum was deliberately paid over invoice by us (T.B.C) the project was executed and the contract Paid accordingly.\nMy colleagues and I have made every arrangement to move this fund into your personal account in Abroad, for an investment plan. 30% is for you as the sole beneficiary and owner of the account, and 70% left for us the officials (G.N.P.C.).\nConcerning the transaction since we are still in service with the Government of Ghana, and the people of Ghana have a lot of confidence in us, it will not be wise we partake fully in this transaction, that is the reason why we need your assistance and a legal practitioner to move the funds Abroad for investment.\nI will appreciate it if this transaction will be treated with utmost Confidentiality. I do hope I can trust you, as regards. \nIn light of this I would like you to forward to the following information.\n1) YOUR BANK NAME AND ADDRESS.\n2) YOUR ACCOUNT NUMBER.\n3) YOUR PERSONAL TEL\n4) NAME AND ADDRESS OF BENEFICIARY COMPANY CORPORATION.\nThis will enable us to forward the information to our apex bank, bank of Ghana for the purpose of processing and immediate transfer of this fund into your account as the sole beneficiary.\nPlease note that after this transaction you will be giving an invitation.\nYour quick response will be highly appreciated\nBest regards.\nMr. Victor Morgan"
+    },
+    {
+        "from": "baiter_952",
+        "to": "scammer_952",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: CONFIDENTIAL",
+        "body": "Hello Mr. Victor Morgan,\n\nWow, this sounds like an incredible opportunity! I'm really flattered that you've chosen to contact me about this. I must admit, I don't know much about the oil industry or how these things usually work. Could you maybe explain a bit more about how you came across my contact information? \n\nAlso, could you tell me more about the project that was executed? It sounds fascinating! And what kind of investment plan are we talking about here?\n\nI'm sorry for all the questions, but as I said, this is all very new to me and I want to make sure I understand everything correctly.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nRandall"
+    }
+]

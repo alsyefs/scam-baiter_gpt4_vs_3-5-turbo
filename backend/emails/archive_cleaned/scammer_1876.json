@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1876",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Friend,",
+        "body": "  Dear Friend,\nYou have been allocated to receive $10.5M Covid-19 relief funds, This payment has been delayed all this while due to the war in Ukraine, But it has been resolved now. All you have to do to receive this funds is to pay a $50 Authorization and release fee.\nThis is the best and final option for you to receive your long awaited funds and be happy, I will send you the information on how to send the fee to me once I hear from you, I await your swift response, Do send me these information below,\nFull Name\nAddress\nState of Origin\nPhone Number\nOccupation\nCongratulations and God bless.\nYours Truly,\nMr Solomon Bent.\nPay Master General\nUnited Nations   "
+    },
+    {
+        "from": "baiter_1876",
+        "to": "scammer_1876",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Friend,",
+        "body": "Hello there! Thank you for sharing this information with me. I'm interested in learning more about how to receive these relief funds. Could you please provide me with additional details on the process and the amount of the release fee required?\n\nBest wishes,\nNieves"
+    }
+]

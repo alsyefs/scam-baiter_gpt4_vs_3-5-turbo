@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1758",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear friend,",
+        "body": "Dear friend,\nI have an intention to invest in your country and would want to have you as an indigenous partner to help me achieve the project.\n My names are Mr. PETER OCHSNER from Switzerland. I will furnish you with the details of my investment plans as soon as I have your remarks on my private email: \nmrpeterochsner11@gmail.com\n \nThank you."
+    },
+    {
+        "from": "baiter_1758",
+        "to": "scammer_1758",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear friend,",
+        "body": "Hello Mr. Peter Ochsner, thank you for reaching out with your investment proposal. I am interested in learning more about your plans. Could you please provide me with some initial details regarding the project you have in mind?\n\nBest wishes,\nCharles"
+    }
+]

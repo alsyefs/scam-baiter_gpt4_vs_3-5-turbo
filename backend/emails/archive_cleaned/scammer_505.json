@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_505",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  From Miho Oshima",
+        "body": "  From Miho Oshima\nMy name is Mrs. Miho Oshima, I am a dying woman who has decided to donate what I have to Charities. I am 67 years old and was diagnosed with cancer about four years ago, shortly after the death of my husband. I have been touched to donate from what I have inherited from my late husband for the good of humanity rather than allow his relatives to lavish my husband's hard earned money. As I lay on my sick bed, I want you to help me in carrying out my last wish on earth which will also be very profitable to you. I want to WILL a total sum of $5.5 million USD to you which I want you to distribute part of it to any charity home for me and the rest for yourself and your family.\nI pray the good lord touches your heart to get back to me on this important humanitarian work.\nI look forward to your reply.\n \nBest regards,\nMrs. Miho Oshima   "
+    },
+    {
+        "from": "baiter_505",
+        "to": "scammer_505",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   From Miho Oshima",
+        "body": "Hello Mrs. Miho Oshima,\n\nThank you for reaching out and sharing your story with me. I am sorry to hear about your health struggles, and I appreciate your generosity in wanting to donate to charities. Can you please provide more details on how you would like me to proceed with distributing the funds to charity homes?\n\nBest wishes,\nMarina"
+    }
+]

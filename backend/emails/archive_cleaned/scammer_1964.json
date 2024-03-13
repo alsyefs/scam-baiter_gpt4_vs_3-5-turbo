@@ -1,0 +1,522 @@
+[
+    {
+        "from": "scammer_1964",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "We have deposited  your fund w",
+        "body": "We have deposited  your fund worth ($10.5 Milion USD) through a diplomatic agent after our final meeting Today,contact him directly Mr Roobert John (\nofficemokewa@gmail.com\n).He will give you the direction on how you will be receiving package fund from him today, \nsend him your Full information to avoid wrong delivery such as,\n \nReceiver's Name__\nAddress: __\nCountry: __\nPhone Number: _\n \nFrom Treasury Department\nyour Funds Worths $10.5 Million USD\n \nYours Sincerely\nMr.Tony James."
+    },
+    {
+        "from": "baiter_1964",
+        "to": "scammer_1964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: We have deposited  your fund w",
+        "body": "Hello James,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding the deposit of my funds. Could you please provide me with more details about Mr. Roobert John? How can I contact him to receive the package?\n\nAlso, I would like to ensure that there are no mistakes in the delivery process. Could you please confirm the correct spelling of my full name so that there are no issues with the delivery?\n\nThank you again for your assistance.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_1964",
+        "to": "baiter_1964",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: We have deposited your fund w",
+        "body": "i receive you emails but you will send you information so that i will\r\nknow who i will delivery\r\nthe package to\r\nso please re-confirmed your personal information Such as to\r\nthem.\r\n\r\n1. Your full name\r\n2. Address where you will like it to be sent\r\n3. Private phone number\r\n4. Your age.\r\n5. Attached / scanned copy of any identification of yours.\r\n6.you Country"
+    },
+    {
+        "from": "baiter_1964",
+        "to": "scammer_1964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0003356481481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate your interest in sharing information. However, I'm a bit cautious about providing personal details online. Could you please tell me more about the package and why you need my personal information? I would be happy to help if I can understand the situation better.\n\nLooking forward to your response.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_1964",
+        "to": "baiter_1964",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.007847222222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: We have deposited your fund w",
+        "body": "send you personal information\r\n\r\n1. Your full name\r\n2. Address where you will like it to be sent\r\n3. Private phone number\r\n4. Your age.\r\n5. Attached / scanned copy of any identification of yours.\r\n6.you Country"
+    },
+    {
+        "from": "baiter_1964",
+        "to": "scammer_1964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.007974537037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Hello there! Thank you for reaching out. I appreciate your interest in sharing information. However, I'm afraid I cannot provide you with any personal details such as my full name, address, phone number, or age. It's important to prioritize online safety and protect our personal information. Is there anything else I can assist you with or any other topic you'd like to discuss?\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_1964",
+        "to": "baiter_1964",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.016516203703703703,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: We have deposited your fund w",
+        "body": "you will send you country you name you age you phone number you\r\naddress and you id card"
+    },
+    {
+        "from": "baiter_1964",
+        "to": "scammer_1964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.017002314814814814,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Hello! Thank you for reaching out. I appreciate your interest in connecting, but I'm afraid I can't provide you with any personal information like my country, name, age, phone number, address, or ID card. However, I'm more than happy to chat and answer any questions you may have. What would you like to know?\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_1964",
+        "to": "baiter_1964",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.02105324074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: We have deposited your fund w",
+        "body": "yes I can't provide you with any personal information like my\r\ncountry, name, age, phone number, address, or ID card"
+    },
+    {
+        "from": "baiter_1964",
+        "to": "scammer_1964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.021215277777777777,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Hello there! I understand your concern about personal information. It's always important to be cautious when sharing such details online. How can I assist you today?\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_1964",
+        "to": "baiter_1964",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.02295138888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: We have deposited your fund w",
+        "body": "your personal information Such as to\r\nthem.\r\n\r\n1. Your full name\r\n2. Address where you will like it to be sent\r\n3. Private phone number\r\n4. Your age.\r\n5. Attached / scanned copy of any identification of yours.\r\n6.you Country"
+    },
+    {
+        "from": "baiter_1964",
+        "to": "scammer_1964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.023344907407407408,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Hello there! Thank you for reaching out to me. I appreciate your interest in sharing information. However, I must prioritize my privacy and security, so I won't be able to provide you with any personal details or share sensitive information like my full name, address, phone number, age, or scanned copies.\n\nBut please feel free to share any general information or topic you'd like to discuss. I'm here to engage in a conversation and learn from each other.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_1964",
+        "to": "baiter_1964",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.026631944444444444,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: We have deposited your fund w",
+        "body": "ATTN:\r\n\r\n\r\nuare here to let you know that your package will\r\nbe delivered to your nominated home address as soon as you comply with\r\nthis company by the instruction given to you.\r\n\r\nMeanwhile: through our scanning machine we fine out that your package\r\ncontains an ATM VISA CARD which worth the total amount of $15.8\r\nMillion United states dollars and your mailing address where to\r\ndeliver your Package has been noted as the Insurance and the\r\nDelivering Fee of your Package has been paid by Mr. Mr Eric Johnson,\r\nBut you have to pay this company their Security Keeping fee of $350\r\nUSD ONLY which your Package accumulated since it was under the Safe\r\nkeeping of the Security Department before we can dispatch your Cargo\r\nfor delivery.\r\n\r\n============================== =========\r\nSECURITY KEEPING FEE OF :$350 USD\r\n============================== ========\r\n\r\nBe Informed that the Security Keeping fee of your Package will keep\r\nincreasing until you pay the Security Department our Security Keeping\r\nfee of $350  only, before we can go ahead and delivery your package to\r\nyou immediately without any delay, So my dear be advice to go ahead\r\nand send the Security Keeping fee of $350  only immediately as soon as\r\npossible, because that is the only last thing holding you as of now to\r\nreceived your package as the real owner of it, However; you are advice\r\nto send the needed fee via MONEY GRAM  OR RIA MONEY TRANSFER with the\r\ninformation below;\r\n\r\nHERE IS OUR CASHIER INFORMATION WHERE TO SEND NEEDED FEE THROUGH\r\n(MONEY GRAM TRANSFER BELOW).\r\n\r\nRECEIVERS NAME:......................GODWIN UGA\r\nCOUNTRY:...................... .....................; BENIN REPUBLIC\r\nCITY:......................... ...............; COTONOU\r\nAMOUNT;....................... .........;$350\r\nSenders....................... ...Name\r\nSenders....................... MTCN .\r\n\r\nMODE OF DIPLOMATIC DELIVERY.\r\nAs soon as we receive the Security Keeping fee of $350 only, Our\r\ninternational Diplomat agent will depart from Benin republic with your\r\nPackage and your Shipment Airway bill will be sent to you immediately\r\nto track your Cargo to your given address within 72 Hours of receiving\r\nthe needed fee. Our Diplomat agent will call you once he arrives in\r\nyour country to hand over your Package to you.\r\n\r\nCONFIDENTIALITY NOTE\r\nThe information contained in this message is confidential. This\r\nmessage is intended to be read only by the person named above. The\r\nunauthorized use, disclosure, copying or alteration of this message is\r\nstrictly prohibited. If you have received this mail and did not\r\nrequest for it please discard with urgency. This mail was sent on\r\nbehalf of Package delivery in Dhl delivery code of Conduct.Registered\r\nTrademark.\r\n\r\nTreat With Urgency, Call us +229-62628302\r\nBEST REGARDS.\r\n\r\nMr.Roobert John\r\n\r\n(FOREIGN DELIVERY DEPARTMENT DHL BENIN)\r\nDHL EXPRESS COURIER COMPANY LTD,\r\nRegulated by the Delivery Services Authority"
+    },
+    {
+        "from": "baiter_1964",
+        "to": "scammer_1964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.026817129629629628,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Hello John,\n\nThank you for reaching out to me. I appreciate the information about my package delivery. Could you please provide me with more details about the package and its contents? I want to make sure everything is in order before proceeding.\n\nAlso, could you clarify what the Security Keeping fee is for? I want to understand why it needs to be paid and how it ensures the safe delivery of my package.\n\nLastly, can you confirm if there are any alternative payment methods available besides Money Gram or RIA Money Transfer? I would like to explore different options.\n\nThank you for your assistance.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_1964",
+        "to": "baiter_1964",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.03633101851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: We have deposited your fund w",
+        "body": "send me you name and you country i will provide me how to receive you\r\nATM card in you home ok"
+    },
+    {
+        "from": "baiter_1964",
+        "to": "scammer_1964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03652777777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Hello! Thank you for reaching out. I appreciate your offer to help me receive an ATM card in my home. Before we proceed, could you please provide me with more information about yourself and the process? I would like to understand how it works and what steps are involved.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_1964",
+        "to": "baiter_1964",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.050381944444444444,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: We have deposited your fund w",
+        "body": "The Airport Authority demanded for all the legal back up papers to\r\nprove to them that the fund is no way related with drug nor fraud\r\nmoney, I have presented the papers I handed to them and they are very\r\nmuch pleased with the papers I presented but the only thing that is\r\nstill keeping me here is the airport Anti drug/terrorist clearance\r\ncertificate and Police Clearance Report which is not placed on the\r\npackage,\r\n\r\none of the Airport Authority has advise that we get the delivery tag\r\nfrom the fund origin so that I can exit the airport immediately and\r\nmake my delivery successful . I try to reason with them and they\r\nstated the delivery tag will cost us just $350 Dollars only to get the\r\ntwo documents placed on the packages as that documents will enable me\r\ncommence to your home today"
+    },
+    {
+        "from": "baiter_1964",
+        "to": "scammer_1964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.051180555555555556,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Hello,\n\nThank you for reaching out and sharing this information with me. I understand that you are currently facing some challenges with the airport authorities regarding the delivery of a package. It's important to ensure all necessary documents are in order to avoid any misunderstandings.\n\nCould you please provide me with more details about the delivery tag? What exactly is it for, and why is it required? Additionally, can you clarify what you mean by \"the fund origin\"? I want to make sure I have a clear understanding of the situation before offering any suggestions or advice.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_1964",
+        "to": "baiter_1964",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.05179398148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re: We have deposited your fund w",
+        "body": "you see you ATM card if you send the fee with you name i will enter\r\nyou name with the ATM card"
+    },
+    {
+        "from": "baiter_1964",
+        "to": "scammer_1964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.05240740740740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "19",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Hello there! Thank you for reaching out to me. I'm interested in learning more about this opportunity. Could you please provide me with some additional details?\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_1964",
+        "to": "baiter_1964",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.05497685185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "20",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Thank you once again for your mail, Are you not understand the mail we\r\nsent you? I told you the  $350 is to Obtaining the clearnce\r\ncertificate before we start the transfer of your funds and the $350 is\r\nthe only thing holding your funds here and when we receive the  $350 i\r\ngive you 45: minutes we receive the  $350 you receive your ATM CARD\r\nwithout any further delay ok.\r\n\r\nAgain my deay we are not here to play or scam somebody before we\r\ncontact you your funds is here in our UBA BANK so if you want to\r\nreceive your funds in this UBA BANK head office Benin Republic kindly\r\ngo ahead and send the $350 you will receive your funds without any mor\r\nfee again ok.\r\n\r\n\r\nAnd we are waiting for you to send the\r\n$99 usd today, So i advice you to send it\r\nby western union money or money gram transfer office with this information.\r\n\r\nReceiver Name:----- GODWIN UGA\r\nCountry:-----------Republic Benin\r\nCity:--------------Cotonou\r\nAmount:------------$350"
+    },
+    {
+        "from": "baiter_1964",
+        "to": "scammer_1964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.05520833333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "21",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Hello,\n\nThank you for your response. I apologize if there was any confusion in my previous email. I understand that obtaining clearance is necessary before the transfer of funds can take place. Could you please provide me with more details about this clearance process? I want to make sure I have a clear understanding of what needs to be done.\n\nAlso, could you please explain how the ATM card works? Is it a secure and reliable method to receive the funds? I just want to ensure that everything is legitimate and safe.\n\nRegarding the fee, could you please clarify why it is required? Is there any way to reduce or waive this fee? I appreciate your assistance in providing more information on this matter.\n\nThank you once again for your time and cooperation.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "baiter_1964",
+        "to": "scammer_1964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.07677083333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "22",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Hello John,\n\nThank you for reaching out to me. I appreciate the information about my package delivery. Could you please provide me with more details about the package and its contents? I want to make sure everything is in order before proceeding.\n\nAlso, could you clarify why there is a security keeping fee that needs to be paid? Is this a standard procedure for all packages or is there something specific about my package that requires this fee?\n\nI would also like to know more about the diplomatic delivery process. How long does it usually take for the package to reach its destination once the fee has been paid?\n\nThank you for your assistance.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "baiter_1964",
+        "to": "scammer_1964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.07680555555555556,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "23",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Hello John,\n\nThank you for reaching out to me. I appreciate the information about my package delivery. Could you please provide me with more details about the contents of the package? I want to make sure everything is in order before proceeding.\n\nAlso, could you clarify why there is a security keeping fee that needs to be paid? Is this a standard procedure for all packages or is there something specific about my package that requires this fee?\n\nI would also like to know more about the diplomatic delivery process. How long does it usually take for the package to reach its destination once the fee has been paid?\n\nThank you for your assistance.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_1964",
+        "to": "baiter_1964",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.07835648148148149,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "24",
+        "subject": "Re: We have deposited your fund w",
+        "body": "if you like to receive you ATM card you will pay e delivery fee so\r\nthat DHL will delivery you ATM card in you home the delivery is $350"
+    },
+    {
+        "from": "baiter_1964",
+        "to": "scammer_1964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.07899305555555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "25",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Hello there! Thank you for reaching out to me. I'm interested in learning more about this ATM card delivery. Could you please provide me with some additional information? What is the purpose of this card and how does it work?\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_1964",
+        "to": "baiter_1964",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.08612268518518519,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "26",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Meanwhile: through our scanning machine we fine out that your package\r\ncontains an ATM VISA CARD which worth the total amount of $15.8\r\nMillion United states dollars and your mailing address where to\r\ndeliver your Package has been noted as the Insurance and the\r\nDelivering Fee of your Package has been paid by Mr. Mr Eric Johnson,\r\nBut you have to pay this company their Security Keeping fee of $350\r\nUSD ONLY which your Package accumulated since it was under the Safe\r\nkeeping of the Security Department before we can dispatch your Cargo\r\nfor delivery.\r\n\r\n============================== =========\r\nSECURITY KEEPING FEE OF :$350 USD\r\n============================== ========\r\n\r\nBe Informed that the Security Keeping fee of your Package will keep\r\nincreasing until you pay the Security Department our Security Keeping\r\nfee of $350  only, before we can go ahead and delivery your package to\r\nyou immediately without any delay, So my dear be advice to go ahead\r\nand send the Security Keeping fee of $350  only immediately as soon as\r\npossible, because that is the only last thing holding you as of now to\r\nreceived your package as the real owner of it, However; you are advice\r\nto send the needed fee via MONEY GRAM  OR RIA MONEY TRANSFER with the"
+    },
+    {
+        "from": "baiter_1964",
+        "to": "scammer_1964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.08665509259259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "27",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Hello there! Thank you for reaching out to me. I appreciate the information you have shared about the ATM VISA CARD worth a million United States dollars. It sounds quite intriguing. Could you please provide me with more details about this opportunity? I'm curious to learn how it works and what steps I need to take to receive the package.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_1964",
+        "to": "baiter_1964",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.08756944444444445,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "28",
+        "subject": "Re: We have deposited your fund w",
+        "body": "if you not understand is email i sent to you i know that you not\r\nserious about it"
+    },
+    {
+        "from": "baiter_1964",
+        "to": "scammer_1964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.08790509259259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "29",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Hello,\n\nThank you for reaching out to me. I apologize if there was any confusion in my previous response. Could you please provide more details about the email you mentioned? I want to make sure I understand it correctly.\n\nLooking forward to hearing from you.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_1964",
+        "to": "baiter_1964",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.09322916666666667,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "30",
+        "subject": "Re: We have deposited your fund w",
+        "body": "can you tell which provide  you need i send you my id i sent you the\r\nprovide you APPROVAL GUARANTEE APPROVAL CERITIFCATE which you one you\r\nneed"
+    },
+    {
+        "from": "baiter_1964",
+        "to": "scammer_1964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.09347222222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "31",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Hello! Thank you for reaching out. I'm interested in learning more about the approval guarantee you mentioned. Could you please provide me with some details about what it entails?\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_1964",
+        "to": "baiter_1964",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.10144675925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "32",
+        "subject": "Re: We have deposited your fund w",
+        "body": "United Bank for Africa (UBA) is Africa’s Global bank and dhl will\r\ndelivery you ATM card in you home and before you receive you ATM card\r\nin you home you will pay for the delivery fee which is $350  and\r\ninside  the ATM card you will receive $5000 in day"
+    },
+    {
+        "from": "baiter_1964",
+        "to": "scammer_1964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.10181712962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "33",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Hello! Thank you for reaching out to me. I'm interested in learning more about this ATM card delivery service. Could you please provide me with some additional details?\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_1964",
+        "to": "baiter_1964",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.10400462962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "34",
+        "subject": "Re: We have deposited your fund w",
+        "body": "before i do anything you will sent you so please re-confirmed your\r\npersonal information Such as to them.so that i will know that you\r\nserious about to receive you ATM card ok\r\n\r\n1. Your full name\r\n2. Address where you will like it to be sent\r\n3. Private phone number\r\n4. Your age.\r\n5. Attached / scanned copy of any identification of yours.\r\n6.you Country"
+    },
+    {
+        "from": "baiter_1964",
+        "to": "scammer_1964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.10451388888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "35",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate your offer, but before I provide any personal information, I would like to know more about the ATM card you mentioned. Could you please explain how it works and what benefits it offers?\n\nAlso, could you clarify why my age and a scanned copy of any of my documents are required? I just want to make sure I understand the process fully before proceeding.\n\nLooking forward to your response.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_1964",
+        "to": "baiter_1964",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.11319444444444444,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "36",
+        "subject": "Re: We have deposited your fund w",
+        "body": "you nor serious about it ok"
+    },
+    {
+        "from": "baiter_1964",
+        "to": "scammer_1964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.11358796296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "37",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Hello there! I'm sorry if I gave off the wrong impression. I am actually quite serious about sharing information and having a conversation. Is there something specific you would like to discuss or share?\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_1964",
+        "to": "baiter_1964",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.1150925925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "38",
+        "subject": "Re: We have deposited your fund w",
+        "body": "you not serious to recive you ATM card ATTN:\r\n\r\n\r\nuare here to let you know that your package will\r\nbe delivered to your nominated home address as soon as you comply with\r\nthis company by the instruction given to you.\r\n\r\nMeanwhile: through our scanning machine we fine out that your package\r\ncontains an ATM VISA CARD which worth the total amount of $15.8\r\nMillion United states dollars and your mailing address where to\r\ndeliver your Package has been noted as the Insurance and the\r\nDelivering Fee of your Package has been paid by Mr. Mr Eric Johnson,\r\nBut you have to pay this company their Security Keeping fee of $350\r\nUSD ONLY which your Package accumulated since it was under the Safe\r\nkeeping of the Security Department before we can dispatch your Cargo\r\nfor delivery.\r\n\r\n============================== =========\r\nSECURITY KEEPING FEE OF :$350 USD\r\n============================== ========\r\n\r\nBe Informed that the Security Keeping fee of your Package will keep\r\nincreasing until you pay the Security Department our Security Keeping\r\nfee of $350  only, before we can go ahead and delivery your package to\r\nyou immediately without any delay, So my dear be advice to go ahead\r\nand send the Security Keeping fee of $350  only immediately as soon as\r\npossible, because that is the only last thing holding you as of now to\r\nreceived your package as the real owner of it, However; you are advice\r\nto send the needed fee via MONEY GRAM  OR RIA MONEY TRANSFER with the\r\ninformation below;\r\n\r\nHERE IS OUR CASHIER INFORMATION WHERE TO SEND NEEDED FEE THROUGH\r\n(MONEY GRAM TRANSFER BELOW).\r\n\r\nRECEIVERS NAME:......................GODWIN UGA\r\nCOUNTRY:...................... .....................; BENIN REPUBLIC\r\nCITY:......................... ...............; COTONOU\r\nAMOUNT;....................... .........;$350\r\nSenders....................... ...Name\r\nSenders....................... MTCN .\r\n\r\nMODE OF DIPLOMATIC DELIVERY.\r\nAs soon as we receive the Security Keeping fee of $350 only, Our\r\ninternational Diplomat agent will depart from Benin republic with your\r\nPackage and your Shipment Airway bill will be sent to you immediately\r\nto track your Cargo to your given address within 72 Hours of receiving\r\nthe needed fee. Our Diplomat agent will call you once he arrives in\r\nyour country to hand over your Package to you.\r\n\r\nCONFIDENTIALITY NOTE\r\nThe information contained in this message is confidential. This\r\nmessage is intended to be read only by the person named above. The\r\nunauthorized use, disclosure, copying or alteration of this message is\r\nstrictly prohibited. If you have received this mail and did not\r\nrequest for it please discard with urgency. This mail was sent on\r\nbehalf of Package delivery in Dhl delivery code of Conduct.Registered\r\nTrademark.\r\n\r\nTreat With Urgency, Call us +229-62628302\r\nBEST REGARDS.\r\n\r\nMr.Roobert John\r\n\r\n(FOREIGN DELIVERY DEPARTMENT DHL BENIN)\r\nDHL EXPRESS COURIER COMPANY LTD,\r\nRegulated by the Delivery Services Authority"
+    },
+    {
+        "from": "scammer_1964",
+        "to": "baiter_1964",
+        "direction": "Inbound",
+        "days_from_first_conversation": 15.027569444444444,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "39",
+        "subject": "Re: We have deposited your fund w",
+        "body": "This is to acknowledge the receipts of your mail this morning\r\nregarding the releasing of your funds to you . Listen very carefully,\r\nthe total sum of (Twenty Million Five Hundred Thousand United State\r\nDollars) is your fund approved by IMF department.\r\n\r\nAutomated Teller Machine (ATM) card is another safely and cheapest\r\nmeans to transfer money internationally; it is very confidential. It\r\nhelps customers because you can make your withdrawal comfortably once\r\nyou receive a package of your ATM card in your hand. The bank will\r\nissue the card with your name and send it to you together with its pin\r\ncode.\r\n\r\nWe will register and deliver your ATM Card thru DHL Courier Company to\r\nyour doorstep.They will give you DHL tracking number which you can use\r\nto track and monitor your  ATM Card from here to your doorstep in your\r\ncountry. You will receive your CARD without any problem once you\r\ncomply with delivery and insurance fee.\r\n\r\nYou will be require to send delivery and insurance fee of your ATM\r\nCard to enable us delivered it to your house address, The delivery and\r\nInsurance fee of your ATM Card is $350 Dollars and you will require to\r\nsend it immediately thru to buy itunics card . We will give you name\r\nand information to send it once we hear from you today.\r\n\r\nWe wait for your urgent reply"
+    },
+    {
+        "from": "baiter_1964",
+        "to": "scammer_1964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 15.04400462962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "40",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Hello, thank you for reaching out to me. I appreciate the information about the release of funds through an ATM card. Could you please provide more details about how the process works and what steps I need to take to receive the card?\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "baiter_1964",
+        "to": "scammer_1964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 15.168993055555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "41",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Hello! Thank you for sharing this information with me. It's interesting to hear about the possibility of receiving funds through an ATM card. Could you provide more details on how the process works and what steps are involved in receiving the card?\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_1964",
+        "to": "baiter_1964",
+        "direction": "Inbound",
+        "days_from_first_conversation": 15.222719907407408,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "42",
+        "subject": "Re: We have deposited your fund w",
+        "body": "i told you all if you like to receive you ATM card go and send the fee\r\nso that you will get ok"
+    },
+    {
+        "from": "baiter_1964",
+        "to": "scammer_1964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 15.23076388888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "43",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Oh, thank you for letting me know! Could you please provide more details about the fee and how I can send it?\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_1964",
+        "to": "baiter_1964",
+        "direction": "Inbound",
+        "days_from_first_conversation": 15.239421296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "44",
+        "subject": "Re: We have deposited your fund w",
+        "body": "check the email i sent you to know that fee is This is to acknowledge\r\nthe receipts of your mail this morning regarding the releasing of your\r\nfunds to you . Listen very carefully, the total sum of (Twenty Million\r\nFive Hundred Thousand United State Dollars) is your fund approved by\r\nIMF department.\r\n\r\nAutomated Teller Machine (ATM) card is another safely and cheapest\r\nmeans to transfer money internationally; it is very confidential. It\r\nhelps customers because you can make your withdrawal comfortably once\r\nyou receive a package of your ATM card in your hand. The bank will\r\nissue the card with your name and send it to you together with its pin\r\ncode.\r\n\r\nWe will register and deliver your ATM Card thru DHL Courier Company to\r\nyour doorstep.They will give you DHL tracking number which you can use\r\nto track and monitor your  ATM Card from here to your doorstep in your\r\ncountry. You will receive your CARD without any problem once you\r\ncomply with delivery and insurance fee.\r\n\r\nYou will be require to send delivery and insurance fee of your ATM\r\nCard to enable us delivered it to your house address, The delivery and\r\nInsurance fee of your ATM Card is $350 Dollars and you will require to\r\nsend it immediately thru to buy itunics card . We will give you name\r\nand information to send it once we hear from you today.\r\n\r\nWe wait for your urgent reply"
+    },
+    {
+        "from": "baiter_1964",
+        "to": "scammer_1964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 15.252361111111112,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "45",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Hello! Thank you for sharing this information with me. I appreciate the details about the ATM card and the process of receiving it. Could you please provide more information about how the delivery and insurance fee can be paid? I'm interested in learning more about the next steps to receive the card.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_1964",
+        "to": "baiter_1964",
+        "direction": "Inbound",
+        "days_from_first_conversation": 15.475578703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "46",
+        "subject": "Re: We have deposited your fund w",
+        "body": "i live the ATM CARD ok"
+    },
+    {
+        "from": "baiter_1964",
+        "to": "scammer_1964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 15.48076388888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "47",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Hello! Thank you for sharing that information about the ATM card. Can you tell me more about how it works and what I need to do to get one?\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_1964",
+        "to": "baiter_1964",
+        "direction": "Inbound",
+        "days_from_first_conversation": 15.483622685185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "48",
+        "subject": "Re: We have deposited your fund w",
+        "body": "am not have time for you now tell all for the ATM card ok"
+    },
+    {
+        "from": "baiter_1964",
+        "to": "scammer_1964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 15.502337962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "49",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Hello! Sure, I can provide you with information about ATM cards. What specifically would you like to know about them?\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_1964",
+        "to": "baiter_1964",
+        "direction": "Inbound",
+        "days_from_first_conversation": 15.658425925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "50",
+        "subject": "Re: We have deposited your fund w",
+        "body": "send me you information  before i do anything for you ok"
+    },
+    {
+        "from": "baiter_1964",
+        "to": "scammer_1964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 15.668993055555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "51",
+        "subject": "Re: We have deposited your fund w",
+        "body": "Sure, I'd be happy to share some information with you. What would you like to know more about?\n\nBest wishes,\nWilliam"
+    }
+]

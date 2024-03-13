@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_842",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "From: JP Morgan Chase Bank New",
+        "body": "From: JP Morgan Chase Bank New York.\n#455 Broadway New York, NY, 10227 USA.\nDear Customer: Chase Bank HeadQuarter realized your funds back so that you won't lose such an amount of funds. I did according to the instructions given to me.\nYour ATM Card Funds is $2.5Million United States Dollars is still available for claim and am giving you two working days to raise the fee so that your transaction will be finalized without delay.\nReconfirm your full details.\nYour  Full Name:\nYour Home Address:\nYour Phone Number:\nYour WhatsApp Number:\nYour Occupation:\nYour Country:\nYour copy ID\n:\nYour Age:\nThe fee we needed is $50.00 USD send the fee by Steam Wallet Card or Apple iTunes Gift Card.\nI wait for the picture of the gift card.\nThank You For Banking With Us.\nMr. Robert Justin\nCEO Manager Chase Bank"
+    },
+    {
+        "from": "baiter_842",
+        "to": "scammer_842",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: From: JP Morgan Chase Bank New",
+        "body": "Hello Mr. Robert Justin,\n\nThank you for reaching out to me. I hope this message finds you well. I received your email regarding my ATM card funds that are still available for claim. I must say, it sounds quite intriguing.\n\nBefore we proceed further, could you please provide me with some more information? I would like to know how much funds are available on my ATM card and what steps need to be taken in order to claim them. Additionally, could you clarify why the fee needs to be paid using a Steam Wallet Card or Apple Gift Card? I'm not familiar with these methods of payment.\n\nI appreciate your assistance in providing these details so that we can move forward with the process. Looking forward to hearing from you soon.\n\nBest wishes,\nEva"
+    }
+]

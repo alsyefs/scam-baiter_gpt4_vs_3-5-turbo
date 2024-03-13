@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_512",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attn: Sir/Madam,",
+        "body": "  Attn: Sir/Madam,\nGreetings to you. I am a Widow Brenda Hill. My late husband and son were killed by pandemic Covid -19.  It took me time to summon courage before mailing you, I have been suffering from Cancer for a long time. My condition is serious and according to my doctor, I might not survive it. I lost all my families through this evil pandemic Covid-19.\nI drafted this message through my Doctor's PA - PC, in search of trusted traits to facilitate my wealthy accomplishment in life to underprivileged people in the world; presently I have instructed my Branch Bank Manager to take direction from my Lawyer to an interested person who wishes to handle this assignment to help humanity.\nIt's obvious my disease is critical, I'm scared I might not survive it, I prayed to God and asked him to direct an honest person who will receive this fund and use it for the things that will celebrate the name of God, after my prayers, I decided to contact you. Please, I will appreciate you sending your full name and your complete address. \nPlease stay safe and bear in mind Covid-19 is real, always stays 2MT away from people and always wash your hands and stay safe.\nThanks,\nBrenda Hill.   "
+    },
+    {
+        "from": "baiter_512",
+        "to": "scammer_512",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attn: Sir/Madam,",
+        "body": "Hello Brenda Hill,\n\nI'm deeply sorry to hear about your situation. It must be incredibly tough for you, especially losing your family to the pandemic and dealing with a serious illness. I admire your courage and strength in these trying times.\n\nIt's very kind of you to think about helping others even in such a difficult time. However, I would like to know more about this assignment that you mentioned. Could you please provide more details? What exactly does it involve? How can it help humanity?\n\nPlease take care of yourself and stay strong.\n\nBest wishes,\nWilliam"
+    }
+]

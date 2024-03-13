@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2490",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello dear good day to you and",
+        "body": "Hello dear good day to you and your family how are you doing today i\nwant to use this opportunity to inform you that we have credited your\nfunds to an online banking platform which you will be making transfer\nof your funds from the online banking account into any bank account of\nyour choice around the world by your self y\nou have to reconfirm your\ninformation such as your full name\nAddress\nCountry\nCity and state\nOccupation\nDate of Birth\nTelephone Number\nI’d card\nSo that your online banking account login details will be given to you\ntoday as soon as you get back to us with the information required\n so\nyou can login and start making your funds transfer from the online\nbanking account by your self connect email (\nubank83864@yahoo.com\n)"
+    },
+    {
+        "from": "baiter_2490",
+        "to": "scammer_2490",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello dear good day to you and",
+        "body": "Hello! I hope you're doing well. Thank you for reaching out to me with this information. I'm interested in learning more about how this online banking platform works. Could you please provide me with some additional details?\n\n1. How does the online banking platform ensure the security of my funds?\n2. Are there any fees or charges associated with using this platform?\n3. Can I transfer funds to any bank account worldwide, or are there limitations?\n4. Is there a minimum or maximum amount that can be transferred at once?\n5. How long does it typically take for the funds to be transferred from the online banking account to another bank account?\n\nI appreciate your assistance in providing these details so that I can better understand how this system works. Thank you!\n\nBest wishes,\nLinda"
+    }
+]

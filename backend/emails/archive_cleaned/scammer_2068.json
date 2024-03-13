@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2068",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Here below we have replaced ",
+        "body": "  Here below we have replaced you this account details to make the payment since yesterday Wednesday 22 November 2023.\nBank name: Old Point National Bank\nAccount Name: V. T.\nAcct NO: 048163XXXX\nRoutine NO: 051406543\nSwift code: PCBBUS66\nBank Address: P. O. Box 3392 Hampton, VA. 23663\nHouse address:   Williamsburg, VA 23185\nAmount: $590.00\nUSE THE ACCOUNT DETAILS WE REPLACED TO MAKE THE PAYMENT SWIFTLY AND SEND SLIP FOR AN IMMEDIATE CONFIRMATION.   "
+    },
+    {
+        "from": "baiter_2068",
+        "to": "scammer_2068",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Here below we have replaced ",
+        "body": "Hello there,\n\nThank you for your message. I appreciate the information you've provided. However, could you please clarify a few things for me? \n\nFirstly, could you explain why the account details were replaced? And secondly, what is the purpose of this payment? I'm just trying to understand everything clearly.\n\nLooking forward to your response.\n\nBest wishes,\nDeirdre"
+    }
+]

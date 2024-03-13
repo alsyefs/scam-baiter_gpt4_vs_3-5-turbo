@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_439",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Bank of Hawaii,",
+        "body": "   Bank of Hawaii,\n ACH Operations 121, P.O. Box 71160,\n Honolulu, HI 96807-1160.\n \n \n \nDear   BENEFICIARY\n \nCAN WE MOVE FORWARD AS YOUR FUND IS STILL SAFE WITH US HERE DESPITE SEVERAL REMINDERS?STILL WAITING FOR YOUR WORDS AND ACTION IN CLAIMING YOUR FUND WITH US HERE FOR SO LONG \n \nI wish to humbly inform you that the total sum of $25.82m  has just been approved for immediate release to your bank coordinates..\nThis notice was released this last Friday been released by the CEO, Mr. Peter S.Ho\n \nKindly make available your full bank details now for this release process.\n \nIS THIS BANK DETAILS CORRECT?\n \nBANK NAME IS:  ALLY BANK\nBANK ADDRESS:   P.O. BOX 13625\n                                  PHILADELPHIA, PA 19101\nROUTING  NUMBER IS:   124003116\nACCOUNT NUMBER IS:   2117268173\nBANK PHONE NUMBER      1-877-247-2559\nNAME ON ACCT: MICHAEL CRAIG RIXIE\n \nAlways copy my alternative email below\n \nCongratulation.\nBest Rgd,\nHARRY MARVIN\nPAYMENT OFFICE CERTIFICATION OFFICE\nBANK OF HAWAII\nALTERNATIVE EMAIL  \nclearanceofficerboh@gmail.com\n "
+    },
+    {
+        "from": "baiter_439",
+        "to": "scammer_439",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Bank of Hawaii,",
+        "body": "Hello Harry Marvin,\n\nThank you for reaching out to me. I'm quite surprised to hear about this fund. Could you please provide more details about it? How did it come to be in my name? And why has it been waiting for so long?\n\nI would also like to know more about the release process. What steps are involved and how long does it usually take?\n\nAs for the bank details, I'm afraid I can't provide them at this moment. Is there any other way we could proceed with this?\n\nLooking forward to your response.\n\nBest wishes,\nNicholas"
+    }
+]

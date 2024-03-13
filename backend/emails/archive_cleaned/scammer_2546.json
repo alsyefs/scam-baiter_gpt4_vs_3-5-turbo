@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_2546",
+        "to": "baiter_2546",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello,",
+        "body": "Hello Williams,\r\nYou addressed me as Williams which is your name?\r\nPlease let me have your direct telephone number so that we can talk?\r\nI appreciate your agreeing to work with me.\r\nWarm regards.\r\nUng Phallar.\r\n Oknha Ung PhallarTell/WhatsApp +855-88-507 7039Email: uphallar@monarchinvestment-kh.asia____________"
+    },
+    {
+        "from": "baiter_2546",
+        "to": "scammer_2546",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Hello,",
+        "body": "Hello Ung Phallar,\nI apologize for the confusion, but my name is not Williams. I am happy to communicate via email for now. How can I assist you further? Thank you for reaching out.\nWarm regards.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_2546",
+        "to": "baiter_2546",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0433912037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Hello,",
+        "body": "Sorry it was William you addressed me. Releasing your telephone number will show your seriousness.\r\nMy regards."
+    }
+]

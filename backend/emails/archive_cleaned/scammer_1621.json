@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1621",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Hello,",
+        "body": "   Hello,\nMy name is Miguel Astorga. I am a lawyer based in Spain. I am reaching out to you with\na confidential business proposal that presents a unique opportunity for partnership in\nthe transfer of a significant inheritance fund. Perhaps, if you are interested kindly send\nme your direct telephone number to intimate you more about the proposal and the\nprocess. Additionally, Be rest assured this is a very legal, legitimate, and risk-free\nproposal. You can also reach out to me with my direct telephone number in the\nsignature below. Thank you!\nBest Regards,\nMiguel Astorga\nEmail: \nmiguelasnu@gmail.com\nTel no:+34613708427\n "
+    },
+    {
+        "from": "baiter_1621",
+        "to": "scammer_1621",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Hello,",
+        "body": "Hello Miguel,\n\nIt's nice to hear from you. Your proposal sounds interesting, although I must admit, I'm not entirely sure what it entails. Could you please provide more details about this unique business opportunity and the process involved? \n\nJust a heads up, I prefer to communicate via email for now. Looking forward to hearing more about your proposal.\n\nBest regards.\n\nBest wishes,\nRachel"
+    }
+]

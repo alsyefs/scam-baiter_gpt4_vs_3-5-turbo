@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2267",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Greetings        ",
+        "body": "   Greetings        \nAuditors discovered in their 2023 Audit exceptions that your\nCompensated COVID 19 fund is yet to be received by you.Please\nrespond as your funds and its accruing interest cannot remain in the\nGovernment Sundry Suspense Account otherwise your efforts will be in\nvain. Reply to my Private email: \nry3965635@gmail.com\nRegards\nBarrister Michael Jenson\nDebt Reconciliation Committee  "
+    },
+    {
+        "from": "baiter_2267",
+        "to": "scammer_2267",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    Greetings        ",
+        "body": "Greetings Barrister Michael Jenson,\n\nThank you for reaching out to me regarding the COVID fund. I appreciate your concern and would like to know more about the situation. Could you please provide me with some additional information? Specifically, I would like to understand why the funds have not been received yet and what steps need to be taken to ensure they are properly allocated.\n\nAdditionally, I would like to know more about the Audit exceptions that were discovered. What were these exceptions and how do they impact the release of the funds? It is important for me to have a clear understanding of the situation before proceeding further.\n\nI look forward to your response and appreciate your assistance in resolving this matter.\n\nBest wishes,\nShirlee"
+    }
+]

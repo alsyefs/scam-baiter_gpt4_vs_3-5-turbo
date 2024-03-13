@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2604",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Wells Fargo Bank",
+        "body": "Wells Fargo Bank\n463 BROADWAY in New York\nNY 10013 United State\nGreetings from the Wells Fargo bank. I have a vital information which\nneeds to be attended immediately. Did you authorized anyone to pick up\nyour inheritance fund from our branch in Broadway New York? One Mr\nAndrew Cox came to our office yesterday in-respect of your $4.5\nbillion dollars which has been credited with us for the past 2 months\nnow by the Federal Government to be transferred into your account. He\nsaid that you authorized him to pick up the fund.\nThis fund has been in our custody for the past two months now and we\nhave been waiting for you to contact us. but we didn't know what is\nhindering you from reaching us since. So we decided to write to you to\nmake sure that you are fine and aware of the inheritance fund of $4.5\nbillion dollars in our branch office in Broadway NY.\nWe want you to get back to us with the following details:\nFull name\nNext of kin\nEmail address\nPhone Number\nID Card\nOccupation\nThis above listed details are needed as fast as possible if you didn't\nauthorize anyone to pick up your fund from our branch in New York.\nWe have 3 means which you can use to receive your fund and you are to\nchoose the suitable option for you. Here are the options:\n(1) Bank to Bank wire transfer: It will take only 24 hours for you to\nreceive your fund into your preferred account. \nThe cost of transfer\ncharge is $50.\n(2) Credit Card delivery: It will take 24 hours for you to receive\nyour credit card with the $4.5 billion dollar inside the credit card.\nThe maximum amount you can withdraw daily is $10,000.\n The delivery fee\nis $50.\n(3) Consignment box delivery: Your fund will be sealed in a box\nwithout anyone knowing what is inside it and it will be delivered to\nyour house in cash. It will take 2 working days to be delivered to\nyour house. \nThis will cost $50.\nThe above mentioned options are the medium which you can use to\nreceive your fund safely. Endeavor to get back to us as fast as you\ncan with your details and suitable option if you didn't authorize\nanyone to pick up your fund in our branch. Your urgent attention are\nneeded to enable us proceed with the transaction as your fund is ready\nfor delivery.\nPayment should be Gift card, steam wallet card or iTunes card.\nThank you and have a lovely day.\nRegards,\nMr. Leticia Gross\nManager\nWells Fargo Bank"
+    },
+    {
+        "from": "baiter_2604",
+        "to": "scammer_2604",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Wells Fargo Bank",
+        "body": "Hello Mr. Leticia Gross,\n\nThank you for reaching out to me from Wells Fargo Bank. I hope you are doing well. I received your message regarding a fund that has been credited to my account. However, I did not authorize anyone to pick up the fund on my behalf.\n\nI appreciate you taking the time to inform me about this matter. Could you please provide more details about the fund? How did it come about and why was it credited to my account by the Federal Government?\n\nAlso, I would like to know more about the options you mentioned for receiving the fund. Could you explain each option in more detail? What are the associated costs and requirements for each option?\n\nLastly, I noticed that you mentioned payment should be made through gift cards or steam wallet cards. Can you please clarify why these specific payment methods are required?\n\nThank you again for your assistance, and I look forward to your response.\n\nBest wishes,\nCarole"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_2510",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  UN Compensation Department",
+        "body": "  UN Compensation Department\n405 East 42nd Street, New York\nUnited States of America.\nAttn:  Beneficiary,\nWhy have you abandoned your long overdue funds pending for payment through an ATM as you indicated? Do you wish to TERMINATE your funds? You have 24 hours to respond to this email to avoid your funds TERMINATED.\nYours sincerely,\nDon Callahan, LLP\nDirector United States Reconciliation Committee   "
+    },
+    {
+        "from": "baiter_2510",
+        "to": "scammer_2510",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   UN Compensation Department",
+        "body": "Hello Don Callahan,\n\nThank you for reaching out to me. I must say, your message has taken me by surprise. I wasn't aware that I had any funds pending for payment through an ATM. Could you please provide more details about this? How did this situation come about?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nChristopher"
+    },
+    {
+        "from": "scammer_2510",
+        "to": "baiter_2510",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "UN COMPENSATION DEPARTMENT TO CHRISTOPHER",
+        "body": "ATTN: Christopher\r\n\r\nHow are you today hope all is well with you and family?. You may not\r\ncomprehend the reason for this email being sent to you. The Secretary\r\nGeneral of the United Nations directed me to get in touch with you\r\nregarding our first quarter annual meeting for 2024.\r\n\r\nWe receive a confirmation that you where among the scam victims, because of\r\nthis Secretary-General  of United Nations has agreed to reward and\r\ncompensate you and also to pay other victims from your country who has\r\nbeing Victims of Internet scam, The United Nations has decided to pay you (\r\nSeven Hundred and fifty Thousand United States Dollars Only) each. You are\r\nlisted and approved for this payment as one of the scammed victims to be\r\npaid this amount. Also this compensation award extended to victims of\r\nHurricane, earthquake, War displaced and Aged. Anyone who is a victim of\r\nthe above mentioned is liable to benefit from this compensation exercise.\r\nWe found your name in our list and that is why we are contacting you,This\r\nhas been agreed upon and has been signed. Therefore,we are happy to inform\r\nyou that an arrangement has been concluded to effect your payment as soon\r\nas possible in our bid to be transparent and make the world a better place.\r\n\r\nHowever, it is our pleasure to inform you that your ATM Card Number; 4083\r\n0521 0025 0080 has been approved and upgraded in your favor. Meanwhile your\r\nSecret Pin Number will be available as soon as you confirm to us the\r\nreceipt of your ATM CARD. The ATM Card Value is US$750,000.00. Only. You\r\nare advised that a maximum withdrawal value of US$5,000.00 is permitted\r\ndaily.And we are duly inter-switched and you can make withdrawal in any\r\nlocation of the ATM Center of your choice nearest to you anywhere in the\r\nworld.\r\n\r\nWe have also concluded delivery arrangements with our accredited courier\r\nservice Company to oversee the delivery of the ATM Card to you without any\r\nfurther delay. You are hereby advised to send your full Names and Your\r\ndirect Mobile number/your correct mailing address to the Director ATM SWIFT\r\nCARD Department, where you want him to send the ATM CARD to you.\r\n\nYours sincerely,\r\n\r\nDon Callahan, LLP\r\nDirector United States Reconciliation Committee"
+    },
+    {
+        "from": "baiter_2510",
+        "to": "scammer_2510",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.014398148148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: UN COMPENSATION DEPARTMENT TO CHRISTOPHER",
+        "body": "Hello Don Callahan,\n\nThank you for reaching out to me. I must say, your message is quite intriguing! It's not every day that one receives an email from the United Nations. \n\nI'm curious about this annual meeting you mentioned in the first quarter. Could you tell me more about it? What was discussed during this meeting and how does it relate to my situation?\n\nAlso, I'm a bit confused about the ATM card. How exactly does it work? Is there a specific bank I need to use it with or can I use it anywhere?\n\nLooking forward to hearing from you.\n\nBest wishes,\nChristopher"
+    },
+    {
+        "from": "scammer_2510",
+        "to": "baiter_2510",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.739872685185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "UN COMPENSATION DEPARTMENT TO CHRISTOPHER",
+        "body": "Attn: Christopher\r\n\r\nMail received with the content well noted. At the last annual meeting of\r\nthe first quarter, the Secretary General of the United Nations agreed to\r\nprovide compensation to you and others who suffered from internet scams and\r\nnatural disasters. You have been designated as one of the scammed victims\r\nto receive this payment.\r\n\r\n\r\nNote that your ATM Card Number; 4083 0521 0025 0080 has been approved and\r\nupgraded. Your Secret Pin Number will be accessible once you confirm\r\nreceipt of your ATM card with us. The ATM Card has an amount of\r\nUS$750,000.00 Only. It is important to note that you are allowed a daily\r\nwithdrawal of US$5,000.00. We are connected, so you can withdraw at the ATM\r\nCenter nearest to you anywhere in the world.\r\n\r\nIn order to expedite action immediately, it is necessary for you to provide\r\nus with the information listed below.\r\n\r\nYour receiving name:-\r\nYour receiving Address:-\r\nYour private telephone:-\r\nA copy of your International Passport or Driver's License:-\r\n\r\nAs soon as we receive the above information. We shall load your\r\nUS$750,000.00 into your ATM MASTER CARD immediately and inform you of the\r\ndate of shipment to the receiving address you are going to provide as we\r\nhave made necessary arrangements with our accredited courier service\r\ncompany for delivery of the ATM Card to you without any further delay\r\n\nYours sincerely,\r\n\r\nDon Callahan, LLP\r\nDirector United States Reconciliation Committee"
+    },
+    {
+        "from": "baiter_2510",
+        "to": "scammer_2510",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.74494212962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: UN COMPENSATION DEPARTMENT TO CHRISTOPHER",
+        "body": "Hello Don Callahan,\n\nThank you for your email. It's quite surprising to hear about this, I must say! I wasn't aware that the United Nations had such a program in place. \n\nCould you please provide me with more information about this initiative? How was I selected as one of the victims? Also, could you explain how the ATM card works? Is it like a regular debit card?\n\nI'm also curious about the daily withdrawal limit. Is there a reason why it's set at that specific amount?\n\nLooking forward to hearing from you.\n\nBest wishes,\nChristopher"
+    }
+]

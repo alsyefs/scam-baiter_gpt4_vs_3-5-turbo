@@ -1,0 +1,312 @@
+[
+    {
+        "from": "scammer_1345",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attn: Sir",
+        "body": "  Attn: Sir\n \nZenith Bank Plc is using this pledge to inform you that your fund of USD$3.5Million has been credited into an ATM card which bears your name. You are hereby advised to confirm to us with the below information, hence this will enable us to dispatch the card to your destination.\n1. Full Name:\n2. Address:\n3. Nationality/Sex:\n4. Age/Date of Birth:\n5. Occupation:\n6. Phone:\n7. State of Origin/Country:\n8. Driver's license:\n9. Copy Of Your Identity:\nOnce the required information has been sent, Inform us so that we shall disclose your tracking details to you.\nThanks for your cooperation.\n \nYours Faithfully,\nJoseph Favor   "
+    },
+    {
+        "from": "baiter_1345",
+        "to": "scammer_1345",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attn: Sir",
+        "body": "Hello Joseph Favor,\n\nThank you for your message. It's quite exciting to hear about this ATM card! I'm curious, how did my name get selected for this? And could you please explain a bit more about how this process works?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nJesse"
+    },
+    {
+        "from": "scammer_1345",
+        "to": "baiter_1345",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Attn: Sir",
+        "body": "I wait to have your complete details for the immediate release of the funds\r\nin your name/favor. I wait to hear from you soon ."
+    },
+    {
+        "from": "baiter_1345",
+        "to": "scammer_1345",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.02199074074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Attn: Sir",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm quite interested in learning more about this opportunity. Could you please provide more details? What kind of funds are we talking about and how would they be released?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJesse"
+    },
+    {
+        "from": "baiter_1345",
+        "to": "scammer_1345",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.02210648148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Attn: Sir",
+        "body": "Hello there,\n\nThank you for your message. I'm quite interested in learning more about this opportunity. Could you please provide me with more details? What kind of funds are we talking about and how would they be released? \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJesse"
+    },
+    {
+        "from": "baiter_1345",
+        "to": "scammer_1345",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.022256944444444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Attn: Sir",
+        "body": "Hello there,\n\nThank you for your message. I'm quite interested in learning more about this opportunity. Could you please provide me with more details? What kind of funds are we talking about and how would they be released?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJesse"
+    },
+    {
+        "from": "scammer_1345",
+        "to": "baiter_1345",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.332824074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Attn: Sir",
+        "body": "do send your full name and address including with your scan copy page of\r\npassport or drivers license together with your phone and fax number for the\r\nimmediate release of the funds worth of 3.5mlusd in your name/favor , i\r\nwait to hear from you soon ."
+    },
+    {
+        "from": "baiter_1345",
+        "to": "scammer_1345",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.3985532407407408,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Attn: Sir",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm really interested in learning more about this opportunity. Could you please provide more details? How does the process work? And what are the funds for?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJesse"
+    },
+    {
+        "from": "baiter_1345",
+        "to": "scammer_1345",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.4388310185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Attn: Sir",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm quite intrigued by the prospect of releasing funds in my name. Could you please provide more details about this? How did these funds come into existence and why are they being released in my name?\n\nI must apologize, but I am not comfortable sharing personal documents like passport or driver's license scans online due to privacy concerns. Is there another way we can verify my identity that doesn't involve such sensitive information?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJesse"
+    },
+    {
+        "from": "baiter_1345",
+        "to": "scammer_1345",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.440763888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Attn: Sir",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm quite interested in the details of this opportunity. Could you please provide more information about it? How does this process work exactly? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJesse"
+    },
+    {
+        "from": "baiter_1345",
+        "to": "scammer_1345",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.5234027777777779,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Attn: Sir",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm quite interested in learning more about this opportunity. Could you please provide more details? For instance, what is the process involved in releasing these funds? And how did my name come up for this?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nJesse"
+    },
+    {
+        "from": "baiter_1345",
+        "to": "scammer_1345",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.563611111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: Attn: Sir",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm quite intrigued by the information you've shared. Could you please elaborate more on this? What is the purpose of releasing these funds and how did my name come up in this context?\n\nI must apologize, but I am not comfortable sharing personal documents like passport or driver's license scans online due to privacy concerns. Is there another way we can proceed with this without requiring such sensitive information?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJesse"
+    },
+    {
+        "from": "baiter_1345",
+        "to": "scammer_1345",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.5636574074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: Attn: Sir",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm really interested in learning more about this opportunity. Could you please provide more details? For instance, what is the process like and how does it work? \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJesse"
+    },
+    {
+        "from": "baiter_1345",
+        "to": "scammer_1345",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.5653009259259258,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: Attn: Sir",
+        "body": "Oh, hello there! I'm so excited to hear from you. It's not every day that someone reaches out with such an interesting proposition. \n\nI must admit, I'm a bit confused about the details though. Could you perhaps explain a bit more about this fund release? How did it come to be in my name? And what would be the process for releasing it?\n\nI'm sorry for all the questions, but I just want to make sure I understand everything correctly. Looking forward to hearing from you soon!\n\nBest wishes,\nJesse"
+    },
+    {
+        "from": "baiter_1345",
+        "to": "scammer_1345",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.5656597222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: Attn: Sir",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm really interested in learning more about this opportunity. Could you please provide more details? How does the process work? And what is the purpose of releasing these funds?\n\nI'm looking forward to hearing from you soon.\n\nBest wishes,\nJesse"
+    },
+    {
+        "from": "baiter_1345",
+        "to": "scammer_1345",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.6489351851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: Attn: Sir",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm really interested in learning more about this opportunity. Could you please provide more details? How does the process work? And what are the benefits involved?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJesse"
+    },
+    {
+        "from": "baiter_1345",
+        "to": "scammer_1345",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.6901273148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: Attn: Sir",
+        "body": "Oh, hello there! I'm so excited to hear from you. It's not every day that someone reaches out with such an interesting proposition. Can you tell me more about these funds? How did they end up in my name?\n\nBest wishes,\nJesse"
+    },
+    {
+        "from": "baiter_1345",
+        "to": "scammer_1345",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.7305439814814816,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: Attn: Sir",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm really interested in learning more about this opportunity. Could you please provide more details? How does the process work? And what is the purpose of releasing these funds?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJesse"
+    },
+    {
+        "from": "scammer_1345",
+        "to": "baiter_1345",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.882372685185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: Attn: Sir",
+        "body": "kindly send your full name and passport copy including with your bank\r\ndetails to make you a beneficiary for the release of this funds in your\r\nname/favor , i wait to hear from you soon ."
+    },
+    {
+        "from": "baiter_1345",
+        "to": "scammer_1345",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.8969675925925924,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: Attn: Sir",
+        "body": "Oh, hello there! I'm so glad to hear from you. It sounds like you're offering me an exciting opportunity. Could you please tell me more about these funds? How did they come into my name? I'm really curious to know more details before we proceed further.\n\nBest wishes,\nJesse"
+    },
+    {
+        "from": "scammer_1345",
+        "to": "baiter_1345",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.9374652777777777,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Re: Attn: Sir",
+        "body": "i need your first and second name so that i can direct you to the paying\r\nbank , i wait to hear from you soon ."
+    },
+    {
+        "from": "baiter_1345",
+        "to": "scammer_1345",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.9384953703703705,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: Attn: Sir",
+        "body": "Hello there! I appreciate your prompt response. However, I'm not comfortable sharing my full name online. Is there any other way we can proceed with this?\n\nBest wishes,\nJesse"
+    },
+    {
+        "from": "scammer_1345",
+        "to": "baiter_1345",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.9411342592592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "22",
+        "subject": "Re: Attn: Sir",
+        "body": "send your full name so that the bank will belief in you to enable action\r\ntake place ."
+    },
+    {
+        "from": "baiter_1345",
+        "to": "scammer_1345",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.980324074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "23",
+        "subject": "Re: Attn: Sir",
+        "body": "Oh, I see. That sounds interesting! But could you tell me more about how this process works? I'm not very familiar with it.\n\nBest wishes,\nJesse"
+    },
+    {
+        "from": "scammer_1345",
+        "to": "baiter_1345",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.859074074074075,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "24",
+        "subject": "Re: Attn: Sir",
+        "body": "it is your contract payment funds so send your full details so that i can\r\nditrce=t you to the paying bank in charge of your payment release , i wait\r\nto hear from you soon ."
+    },
+    {
+        "from": "scammer_1345",
+        "to": "baiter_1345",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.859456018518518,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "25",
+        "subject": "Re: Attn: Sir",
+        "body": "it is your contract payment funds so send your full details so that i can\r\ndirect you to the paying bank in charge of your payment release , i wait to\r\nhear from you soon ."
+    },
+    {
+        "from": "baiter_1345",
+        "to": "scammer_1345",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.87199074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "26",
+        "subject": "Re: Attn: Sir",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm really excited about this opportunity. Could you please provide more information about the contract? What is it exactly about? And could you also tell me more about the paying bank?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJesse"
+    },
+    {
+        "from": "baiter_1345",
+        "to": "scammer_1345",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.872094907407407,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "27",
+        "subject": "Re: Attn: Sir",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm quite interested in learning more about this contract payment funds you mentioned. Could you please provide more details? For instance, what is the nature of this contract? How did my name come up in relation to it?\n\nLooking forward to your response.\n\nBest wishes,\nJesse"
+    },
+    {
+        "from": "baiter_1345",
+        "to": "scammer_1345",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.872164351851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "28",
+        "subject": "Re: Attn: Sir",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm really excited about this opportunity. Could you please provide more information about the contract payment funds? What is it exactly and how did I qualify for it? \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJesse"
+    },
+    {
+        "from": "scammer_1345",
+        "to": "baiter_1345",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.879618055555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "29",
+        "subject": "Re: Attn: Sir",
+        "body": "Your asking too many questions feel free and send a scan copy page of your\r\npassport or drivers license including with your bank details so that i can\r\ndirect you to the paying bank for the onward transfer of the funds into\r\nyour nominated bank account number , i wait to hear from you soon and to\r\nenable action to take place , i wait to hear from you soon ."
+    },
+    {
+        "from": "baiter_1345",
+        "to": "scammer_1345",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.913530092592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "30",
+        "subject": "Re: Attn: Sir",
+        "body": "Hello there,\n\nThank you for your message. I'm really excited about this opportunity! However, I'm a bit confused about the process. Could you please explain it to me in simpler terms? Also, is there any other way we could verify my identity without sharing personal documents like passport or driver's license? \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJesse"
+    }
+]

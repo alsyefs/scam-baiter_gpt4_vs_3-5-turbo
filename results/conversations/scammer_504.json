@@ -1,0 +1,102 @@
+[
+    {
+        "from": "scammer_504",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear",
+        "body": "Dear\nI am Mr.  Kofi O Williams, the Director in charge of the Auditing and Accounting section of one of the banks in Accra-Ghana West Africa and also Chairman of the Investigating and Auditing Department of this Bank. With due respect and regard I have decided to contact you on a transaction that will be very beneficial to both of us and our families.\nDuring my Investigation and Auditing in this Bank, my department came across a very huge sum of money belonging to a foreign Contractor, who died of Coronavirus in Spain (Covid 19)   months ago according to reliable source, and the fund has been dormant in his account with this Bank without any claim of the fund in our custody either from his family or relation, because he did not indicate any next of kin to this account in case of death such as this.\nAlthough personally, I kept this information secret with my trusted team to enable us to draw out the plans and ideas which will be profitable and successful during the time of execution, the said amount is U.S $2.500,000.00 (Two million, five hundred thousand United States Dollars).\nI will not fail to inform you that this transaction is 100% risk free.\n On the smooth conclusion of this transaction, You will be entitled to 40% of the total sum as gratification, while 60% will be for me and my team. Please, you have been advised to keep it \"Top Secret\" as I am still in service and intend to retire from service after concluding this deal. And I assure you that this transaction will not last more than 14 working days. I will be monitoring the whole situation here in this bank until you confirm the money in your designated account. And ask me to come down to your country for subsequent sharing of the fund according to percentages indicated above and further investment, I suggest you get back to me as soon as possible stating your wish in this deal.\nYours faithfully,\nMr.  Kofi O Williams,\n+233244716706 whatsApp number only"
+    },
+    {
+        "from": "baiter_504",
+        "to": "scammer_504",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear",
+        "body": "Hello Mr. Kofi Williams,\n\nI appreciate you reaching out to me with this intriguing proposition. It's quite a story, isn't it? A dormant account of a deceased foreigner with no next of kin, and such a large sum too! \n\nYou mentioned that the whole process will not take more than a few working days. Could you please elaborate on what these steps might be? I'm curious about how things like this work.\n\nAlso, I noticed that you emphasized the need for secrecy due to your current position at the bank. How do you plan on ensuring that this transaction remains confidential?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRoberta"
+    },
+    {
+        "from": "scammer_504",
+        "to": "baiter_504",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Dear",
+        "body": "Your full name and addresses is needed including your identity to proceed.\r\nWhatssap number for easy communication"
+    },
+    {
+        "from": "baiter_504",
+        "to": "scammer_504",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00037037037037037035,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Dear",
+        "body": "Oh, I'm sorry but I can't provide my personal information. But I'd love to know more about what we're proceeding with? Can you tell me more about it?\n\nBest wishes,\nRoberta"
+    },
+    {
+        "from": "scammer_504",
+        "to": "baiter_504",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.002766203703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Dear",
+        "body": "Do the needful first to open up with you, because i can't open up without\r\nknowing you well."
+    },
+    {
+        "from": "baiter_504",
+        "to": "scammer_504",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00318287037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Dear",
+        "body": "Hello there! I'm glad to hear from you. Could you please tell me a bit more about yourself? What are your interests or hobbies?\n\nBest wishes,\nRoberta"
+    },
+    {
+        "from": "scammer_504",
+        "to": "baiter_504",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.052546296296296,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Dear",
+        "body": "You don't want to open up with me, i requested your details and you never\r\nresponded to my request. I told you the transaction is highly secretive and\r\ni wouldn't  want my name and colleagues names suspended in banking\r\nindustry, so you have comply with me to get the details of the transaction."
+    },
+    {
+        "from": "baiter_504",
+        "to": "scammer_504",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.070266203703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Dear",
+        "body": "Hello there,\n\nI appreciate your concern for confidentiality and I understand the need for secrecy in the banking industry. However, I'm afraid I can't provide any personal details as per my own safety guidelines. \n\nCould you perhaps share more about this secretive matter without needing my personal information? Maybe we could find a way to discuss it further without compromising either of our positions.\n\nBest wishes,\nRoberta"
+    },
+    {
+        "from": "scammer_504",
+        "to": "baiter_504",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.080486111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Dear",
+        "body": "The transaction would require some few cash to excute the transaction\r\nthrough the legal department to change all the concern documents  into your\r\nname and address.  As I told you before that I have all the ducuments\r\nregards the success of the transaction in my control. You just have listens\r\nto instruction and directives to achieve our goals together. Open up to\r\nproceed Mr Roberta"
+    },
+    {
+        "from": "baiter_504",
+        "to": "scammer_504",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.112881944444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Dear",
+        "body": "Hello Mr. Roberta,\n\nThank you for your message. It's interesting to hear about the process of changing documents into my name and address. I'm curious, could you please explain a bit more about these documents? What kind of documents are they and why do they need to be changed into my name? \n\nAlso, I'd love to understand more about the goals we're trying to achieve together. Could you elaborate on that as well?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nRoberta"
+    }
+]

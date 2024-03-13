@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2229",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear ",
+        "body": "  Dear \nIt is not a loan or gift, it is joint venture investment.\nI have a client that is ready to invest the available fund for a project in your country if you are ready to follow it up. If you have the project that you wish to invest, let me know.\nI am waiting.\nRegards,\n \nRobert Simon Wooleson\nDirector\n+48732231567  "
+    },
+    {
+        "from": "baiter_2229",
+        "to": "scammer_2229",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear ",
+        "body": "Dear Robert Simon Wooleson,\n\nThank you for reaching out to me. I appreciate your interest in investing in a project in my country. Could you please provide me with more details about the joint venture opportunity? What kind of project are you looking to invest in? \n\nI would also like to know more about the available funds and how the investment process would work. Are there any specific requirements or conditions that need to be met for this joint venture?\n\nLooking forward to hearing from you.\n\nBest wishes,\nMargie"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_968",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Hello,",
+        "body": " Hello,\nHow are you? I hope the email meets you well. I have important information that concerns you, which I would like to share with you.\nBest regards,\nAndrew Bailey    "
+    },
+    {
+        "from": "baiter_968",
+        "to": "scammer_968",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  Hello,",
+        "body": "Hello Andrew Bailey,\n\nI'm doing well, thank you for asking. I hope this email finds you in good health too. I'm curious to know what important information you have to share with me. Could you please provide more details? I'm open to hearing what you have to say.\n\nBest wishes,\nDustin"
+    }
+]

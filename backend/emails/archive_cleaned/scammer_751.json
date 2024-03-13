@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_751",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Beneficiary,",
+        "body": "  Dear Beneficiary,\nThis is to officially inform you that we have recovered the sum of $7,500,000.00 USD from the Central Bank of West African States (BCEAO) as an abandoned Contract and Inheritance fund belonging to you.\nWe advise that you quickly respond to this message and comply with the procedures to enable us to transfer the fund to you without delay. We shall not hesitate to deposit the above mentioned amount into the African Union (AU) Reserved Account, if you fail or delay to respond immediately and claim the fund.\nThanks,\nMr. Roland Ducharme.\nHead of the European Commission.\nEconomic and Monetary Union (EMU) Togo.\nDirect Phone +22870005653.   "
+    },
+    {
+        "from": "baiter_751",
+        "to": "scammer_751",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Beneficiary,",
+        "body": "Hello Mr. Roland Ducharme,\n\nThank you for reaching out to me with this information. It's quite surprising to hear about an abandoned contract and fund belonging to me. I must admit, I'm a bit confused as I don't recall having any business dealings in West Africa.\n\nCould you please provide more details about this contract? How did my name come up in connection with it? And what are the procedures that need to be followed for the transfer of funds?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nCraig"
+    }
+]

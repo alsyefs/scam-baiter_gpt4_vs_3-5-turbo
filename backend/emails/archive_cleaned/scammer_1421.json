@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1421",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello Sir/Ma,",
+        "body": "  Hello Sir/Ma,\nHope you are doing great?\nI'm following up on the previous email I sent to you. I understand\nthat you are busy, but I would appreciate it if you could review this\nbrief message and respond to me as quickly as possible. I'm a Mandate\nand International Outsource Personeel. In my long years of work with\ntop financial management companies In Europe/Middle East and Asia, I\npresently have a client who have fundsand good things. She chooses to\ninvest in your Country either on an Equity or Loan basis.Please feel\nfree to reply to me immediately so that we can talk more about it\nsince your Country is the investor’s choice for investments in your\ncare and management.\nKind Regards,\nKhan Nasar Younus\nGet back to me by this Email: \nkhannasaryounus3@gmail.com\n "
+    },
+    {
+        "from": "baiter_1421",
+        "to": "scammer_1421",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello Sir/Ma,",
+        "body": "Hello Khan Nasar Younus,\n\nThank you for reaching out to me. I hope you're doing well too. I appreciate your follow-up email and your interest in investing in my country. Can you please provide me with more details about the funds and the investment opportunities? I would like to know more about the potential benefits and risks involved.\n\nAlso, could you clarify what you mean by \"Equity or Loan\"? Are these different options for investment, and if so, how do they differ?\n\nI look forward to hearing back from you.\n\nBest wishes,\nRobert"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1719",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention please",
+        "body": "Attention please\nThis is Mr. Honey Louis From Polaris Bank Limited Badagry I am glad to\ninform you that your total funds of $4.8 million USD was deposited\nhere in my Bank on  22nd October. 2021, with your files from the\nFederal Government Custody  and I went through your files and\ndiscovered that it has been in the Federal Government Custody for two\nyears So I\nwant you to get back to me as soon as possible so we can discuss on\nhow you want your funds to be delivered to you . The three ways by\nwhich you can receive your funds are listed below so i want you to\nread them carefully and get back to me with the one you prefer.\n1. Online Banking _i will open a online bank account in your name and\ndeposit your funds in your online account then send you the username\nand password and \nit will only cost you sum of $90 USD Only\n.\n2. ATM CARD Delivery_i will credit your total funds into an ATM card\nand it will be delivered to your home address by any Delivery company\nof your choice within 48 hours and \nit will only cost you sum of $50\nUSD Only\n3. Bank to Bank Transfer, i will wire your total fund to your account\nand \nit will only cost you sum of $100 USD Only\n So get back to me now\nwith your choice so we can proceed\nBest Regards,\nMr Honey Louis\ncashier Polaris Bank Limited Badagry"
+    },
+    {
+        "from": "baiter_1719",
+        "to": "scammer_1719",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attention please",
+        "body": "Hello Mr. Honey Louis,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding my funds. It's interesting to hear that they have been in the Federal Government Custody for two years.\n\nI would like to know more about the process and ensure that everything is legitimate. Could you please provide me with some additional details? Specifically, I would like to understand how the online banking option works and what steps are involved in setting up the account. Additionally, if I choose the ATM card delivery option, could you explain how the delivery process works and which delivery company would be used?\n\nI look forward to your response.\n\nBest wishes,\nJohn"
+    }
+]

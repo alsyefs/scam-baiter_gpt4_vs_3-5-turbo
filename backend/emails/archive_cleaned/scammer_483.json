@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_483",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Notification!",
+        "body": "Notification!\nThe Wells Fargo Bank U.S. is here to inform you of your file submitted\nby the International Monetary Fund (IMF), although it is an inherited\nspecific fund related to disease control, quarantine measures and drug\nstandardization of the League of Nations Health Organization,\nofficially here to you of the current one Winners Prize/Covid-19\nPalliative Fund payment agreement that includes you as the lucky ones.\nTherefore, we choose to pay you via a digitized payment system by\nopening an online bank account on your behalf. We have decided to pay\nyou the sum of 1,500,000.00 Euros (one million five hundred thousand\nEuros) through Wells Fargo's online bank.\n But before we proceed, you\nneed to confirm your full name and provide one of your ID's as the\nonline account here is opened by Wells Fargo Bank with this\ninformation.\n You will then receive your access data and the amount of\n1,500,000.00 Euros will be transferred to your online account.\nThis agreement was initiated/constituted by the World Health\nOrganization, the United Nations and the International Monetary Fund\ndue to the coronavirus, the Covid-19 pandemic and others to help you\nand others. \nThe policy guiding this fund is that once you receive the\nfund, you must donate 25 percent to the charity.\nBelow you will find the information necessary for the opening\n1) Your full name.....?\n2) \nyour ID card\n....?\n3) Your address\n4) Your Telephone\n5) Your hometown/country of origin....?\n6) Your age.....?\n7) Your gender male or female....?\n8) Your profession civil servant or businessman....?\nBest regards\nCharles W Sharp\nEmail: \ncustomercare8093@outlook.com\nManaging Director of Wells Fargo Bank"
+    },
+    {
+        "from": "baiter_483",
+        "to": "scammer_483",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Notification!",
+        "body": "Hello Charles Sharp,\n\nWow, this is such an unexpected surprise! I can't believe I'm one of the lucky ones. It's really kind of you and your organization to help people during these tough times. \n\nI'm curious about the digitized payment system you mentioned. How does it work? And how secure is it? Also, could you tell me more about the charity donation part? Which charities are eligible for this?\n\nLooking forward to hearing from you.\n\nBest wishes,\nJohn"
+    }
+]

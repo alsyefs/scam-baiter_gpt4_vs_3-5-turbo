@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2474",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Dear Valuable Customer",
+        "body": " Dear Valuable Customer\nThank you for the update. \nSorry for the inconvenience, yes you can provide the information via email what matters is to provide the information to work with.\nWaiting to hear from you soon.\nJacob R. Khumalo\nHead of Int'l Remittance Department\nTel:   +27 (745) 202-179\nFax:  +27 (745) 202-179\nEmail: \nremits@sacib.co.za\nDisclaimer\nThis message contains information intended solely for the addressee and may contain confidential and/or privileged material. If you are not the intended recipient you may not peruse, use, disseminate, distribute, or copy this message or any file attached thereto without breaching its confidentiality and you are therefore requested to delete the original message immediately as any further action or reaction thereon is prohibited. The information contained in this message and any attachments thereto may contain the personal views and opinions of the author, which are not necessarily the views and opinions of Centurion Investment Bank South Africa. We do not accept liability for any claims, loss, or damages of whatsoever nature, arising as a result of the reliance on such information or data which for whatsoever reason proves to be, incorrect, corrupted, or does not reach its intended destination.   "
+    },
+    {
+        "from": "baiter_2474",
+        "to": "scammer_2474",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  Dear Valuable Customer",
+        "body": "Hello Jacob R. Khumalo,\n\nThank you for your prompt response. I appreciate your willingness to assist me in this matter. \n\nI understand that you need some information from me to proceed with the process. Could you please specify what kind of information you require? I want to make sure we're on the same page.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRaymond"
+    }
+]

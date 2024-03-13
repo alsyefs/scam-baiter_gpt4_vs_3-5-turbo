@@ -1,0 +1,262 @@
+[
+    {
+        "from": "scammer_1316",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "From: Mr. Johnson Morgan.",
+        "body": "From: Mr. Johnson Morgan.\nCredit Grand Alliance Bank Plc\n6 Lower Thames Street, London\nGreater London, EC2R 7DU UK\nTel:  44 2038-3553-86\nFax:  44 7092-8593-71\nGood Day Dear!\nHow are you and your family? I hope my letter meets you in your best mood today. My name is Mr. Johnson Morgan, I am the Operation/Regional Branch Head Manager of Credit Grand Alliance Bank Plc London. I decided to seek top secret/confidential cooperation with you in the execution of a transaction deal described here-under for our both mutual benefit. During the annual bank audits, I discovered an abandoned/unclaimed fund, sum total of £19.100,000 GBP (Nineteen Million One Hundred Thousand British Pounds Sterling) in an account that belongs to one of our foreign customers (Late David McDowell Brown) an American from Arlington, Virginia, who unfortunately lost his life as a single with the entire crew on February 1, 2003 over the southern United States Space Shuttle Columbia.\n \nI discovered that he did not specify any next of kin or will beneficiary to his account after going through his file in our bank. I sincerely and deliberately seek your consent to present you as the next of kin / will beneficiary to the deceased so that the sum valued at £19.1 Million British Pounds Sterling will be transferred to you, which will be shared in these percentage ratio:  50% for me and 40% to you respectively while 10% is for any expenses incurred during the transaction.\nI need your sincere cooperation, trust and utmost confidentiality to enable us to conduct this transaction successfully. I assure and promise you that this transaction will be executed under a legitimate arrangement that will protect you from any breach of the law both in your country and here in London as the fund is transferred to your nominated bank account. Upon consideration and acceptance of this offer,\n kindly forward me the following information immediately to my private email address for more confidentiality\n:  \njohnsonmorgan623@outlook.com\n1. Your full name:\n2. Your full contact address:\n3. Your direct mobile telephone number:\n4. Your email address:\n5. Your date of birth\n6. Your occupation:\nTo enable me to upload your information in our bank database to reflect in the bank network system that you are the named next of kin/will be beneficiary of this account, then I will guide you on communication with the bank for onward transfer of this fund to you.\nNOTE: We have few banking days to execute this transaction deal.\nThanks in anticipation of your urgent response.\nRegards,\nMr. Johnson Morgan."
+    },
+    {
+        "from": "baiter_1316",
+        "to": "scammer_1316",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: From: Mr. Johnson Morgan.",
+        "body": "Hello Mr. Johnson Morgan,\n\nThank you for reaching out to me with this opportunity. I appreciate your trust in sharing this information with me. Could you please provide more details about the process of claiming the unclaimed fund? How long does it usually take for such transactions to be completed?\n\nBest wishes,\nTeresa"
+    },
+    {
+        "from": "scammer_1316",
+        "to": "baiter_1316",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: From: Mr. Johnson Morgan.",
+        "body": "Dear Teresa,\r\n\r\nThank you for your quick response and your good interest in this transaction, before i go further, let me introduce myself properly, My name is Mr. Johnson Morgan, I am the Operation/Regional Branch Head Manager of Credit Grand Alliance Banking Plc London, I am 54 years happily married to Mrs. Julian Morgan and we are blessed with two boys and one girl.\r\n\r\n\r\nThe main reason why I contacted you and ask for your assistance in this transaction is the fact that the Credit Grand Alliance Bank has no moral justification to inherit the funds, as an insider in the bank I have all the information that we may need to apply to afford it, without facing any problem, if we do not claim the funds the bank will confiscate the funds and make themselves richer, while there are one million people out there who are unemployed and seeking for employment, I firmly believe that we can open up companies through the proceed of this transaction and create more job opportunities to better the lives of others.\r\n\r\nAll I need from you is your honest cooperation and assistance for us to make this deal successful, because I cannot do it alone, I want to officially introduce you to the bank as next of kin / beneficiary to the deceased's family, I have all the documents that the bank may require from you to prove that you are the next of kin / beneficiary, with your full information such as name and civil address, phone and fax numbers so that i can upload the information here on our bank central server, nothing will stop the bank from transferring the funds into your nominated bank account if you're willing to follow my instructions, I am here as insider I know what it takes to perform this operation. Do not entertain any fear, this transaction is 100% risk free, all i need to do is to ask my lawyer to go to court here in London to legalize all documents in my position in your name just to protect you from any breach of law.\r\n\r\nMy interest in this deal, I intend to invest part of my share in your country, so I'll be with you as soon as funds are transferred to your account in order to have my share, as I previously suggested 50% for me while 40% goes to you, while 10% will be set aside for any expenses that may rise for the transfer of the funds, I hope everything is ok with you?\r\n\r\n\r\nPlease, I would like to know what business you think we can invest into in your country, because I'm going to leave my profession of banking and go into full time private business, remember that your help is seriously needed here, as you know the economic  policy of your country better than me.\r\n\r\nPlease respond now, so I can send you an application form for transfer of fund, which you will fill correctly and send to the International remittance Department of Credit Grand Alliance Bank for further processing and transmission of funds to your bank account in your country.\r\n\r\nThis transaction will be completed in the next few days as soon as you start by responding immediately.\r\n\r\n\r\nI will wait for your quick response and I am 100% ready to give you more detailed information, therefore feel very free to ask questions if there is anything you do not understand.\r\n\r\nThanking you in advance for your good understanding and assistance.\r\n\r\nSincerely,\r\nMr. Morgan."
+    },
+    {
+        "from": "baiter_1316",
+        "to": "scammer_1316",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.015775462962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: From: Mr. Johnson Morgan.",
+        "body": "Dear Mr. Johnson Morgan,\n\nThank you for reaching out and providing such detailed information about the opportunity you have presented. I appreciate your trust in involving me in this potential business venture.\n\nI am intrigued by the idea of investing in a business that could create job opportunities and positively impact the lives of others. It's commendable that you are looking to transition from banking to private business with a noble purpose in mind.\n\nCould you please provide more information about the specific industry or sector you are considering for investment in my country? Understanding the market landscape and potential opportunities would help me assess how we can proceed further.\n\nI look forward to receiving the form for the transfer of funds so we can move forward with the necessary steps. Please feel free to share any additional details or answer any questions I may have as we progress.\n\nThank you once again for considering me for this partnership opportunity.\n\nBest wishes,\nTeresa"
+    },
+    {
+        "from": "scammer_1316",
+        "to": "baiter_1316",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.42670138888888887,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: From: Mr. Johnson Morgan.",
+        "body": "Dear Teresa,\r\n\r\nI have received your letter and i really appreciate your honest response and your good interest in this transaction, find the attached file is the application form/letter of inquiry, fill it properly and send to the international remittance department of Credit Grand Alliance Banking Plc London through the bank's email address on the form (info@creditgrandalliance.com) do make sure that you will forward any response from bank to me for my humble advice to avoid mistake.\r\n\r\nLike i told you earlier that this transaction is 100% risk free if only you can follow my instructions and also keep the secret, i assure you nothing will ever go wrong and nothing will stop the bank from transferring the funds into your nominated bank account without facing any risk, i really did not have any idea of business to invest in your country, that was why i asked as you know the economic policy of your country more than me, you are in a better position to decide.\nThanks,\r\nMr. Bliss."
+    },
+    {
+        "from": "baiter_1316",
+        "to": "scammer_1316",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.4320486111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: From: Mr. Johnson Morgan.",
+        "body": "Hello Teresa,\n\nThank you for sharing this information with me. I appreciate your trust in involving me in this opportunity. Could you provide more details about the nature of this investment and how it works? I want to make sure I understand everything clearly before proceeding.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nTeresa"
+    },
+    {
+        "from": "scammer_1316",
+        "to": "baiter_1316",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.236886574074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: From: Mr. Johnson Morgan.",
+        "body": "Dear Teresa,\r\n\r\nI have received your letter and i really want to know the area you are not clear as i have already giving you the details of this transaction which a lay man can even understand, please specify the area you did not understand while i put you through.\nThanks,\r\nMr. Morgan."
+    },
+    {
+        "from": "baiter_1316",
+        "to": "scammer_1316",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2658217592592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: From: Mr. Johnson Morgan.",
+        "body": "Hello Mr. Morgan,\nThank you for your response. I appreciate your willingness to clarify the information further. Could you please provide more details about the specific area that seems unclear to me? This will help me better understand the topic.\nLooking forward to hearing from you soon.\n\nBest wishes,\nTeresa"
+    },
+    {
+        "from": "baiter_1316",
+        "to": "scammer_1316",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2660648148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: From: Mr. Johnson Morgan.",
+        "body": "Hello Mr. Morgan,\nThank you for your response. I appreciate your willingness to clarify any areas that may not have been clear in my understanding. Could you please provide more details about the specific topic or information that you think I might be unclear about? This will help me address any confusion and ensure that I have a better understanding of the matter at hand.\nLooking forward to hearing from you soon.\n\nBest wishes,\nTeresa"
+    },
+    {
+        "from": "scammer_1316",
+        "to": "baiter_1316",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.4319675925925925,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: From: Mr. Johnson Morgan.",
+        "body": "Dear Teresa,\r\n\r\nIt will please me if you can read my proposal again and point out where you are not clear so that i can clarify you better.\nThanks,\r\nMr. Morgan."
+    },
+    {
+        "from": "baiter_1316",
+        "to": "scammer_1316",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.432650462962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: From: Mr. Johnson Morgan.",
+        "body": "Hello Mr. Morgan,\nI would be happy to take another look at your proposal. Please go ahead and provide me with more details so I can better understand your proposal.\nThank you.\n\nBest wishes,\nTeresa"
+    },
+    {
+        "from": "scammer_1316",
+        "to": "baiter_1316",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.7131597222222221,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: From: Mr. Johnson Morgan.",
+        "body": "From: Mr. Johnson Morgan.\r\nCredit Grand Alliance Bank Plc\r\n6 Lower Thames Street, London\r\nGreater London, EC2R 7DU UK\r\nTel:  44 2038-3553-86\r\nFax:  44 7092-8593-71\r\n\r\n\r\nBelow is my proposal!\r\n\r\nHow are you and your family? I hope my letter meets you in your best mood today. My name is Mr. Johnson Morgan, I am the Operation/Regional Branch Head Manager of Credit Grand Alliance Bank Plc London. I decided to seek top secret/confidential cooperation with you in the execution of a transaction deal described here-under for our both mutual benefit. During the annual bank audits, I discovered an abandoned/unclaimed fund, sum total of £19.100,000 GBP (Nineteen Million One Hundred Thousand British Pounds Sterling) in an account that belongs to one of our foreign customers (Late David McDowell Brown) an American from Arlington, Virginia, who unfortunately lost his life as a single with the entire crew on February 1, 2003 over the southern United States Space Shuttle Columbia.\r\n\r\nI discovered that he did not specify any next of kin or will beneficiary to his account after going through his file in our bank. I sincerely and deliberately seek your consent to present you as the next of kin / will beneficiary to the deceased so that the sum valued at £19.1 Million British Pounds Sterling will be transferred to you, which will be shared in these percentage ratio:  50% for me and 40% to you respectively while 10% is for any expenses incurred during the transaction.\r\n\r\nI need your sincere cooperation, trust and utmost confidentiality to enable us to conduct this transaction successfully. I assure and promise you that this transaction will be executed under a legitimate arrangement that will protect you from any breach of the law both in your country and here in London as the fund is transferred to your nominated bank account. Upon consideration and acceptance of this offer, kindly forward me the following information immediately to my private email address for more confidentiality:  johnsonmorgan623@outlook.com<mailto:johnsonmorgan623@outlook.com>\r\n\r\n1. Your full name:\r\n2. Your full contact address:\r\n3. Your direct mobile telephone number:\r\n4. Your email address:\r\n5. Your date of birth\r\n6. Your occupation:\r\n\r\nTo enable me to upload your information in our bank database to reflect in the bank network system that you are the named next of kin/will be beneficiary of this account, then I will guide you on communication with the bank for onward transfer of this fund to you.\r\n\r\nNOTE: We have few banking days to execute this transaction deal.\r\nThanks in anticipation of your urgent response.\nRegards,\r\nMr. Johnson Morgan."
+    },
+    {
+        "from": "baiter_1316",
+        "to": "scammer_1316",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.7252662037037036,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: From: Mr. Johnson Morgan.",
+        "body": "Hello Mr. Johnson Morgan,\n\nThank you for reaching out to me with this proposal. I hope you are doing well. The information you provided is quite intriguing. Can you please share more details about the process of claiming the unclaimed fund? How does the transfer of funds usually take place in such cases?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nTeresa"
+    },
+    {
+        "from": "baiter_1316",
+        "to": "scammer_1316",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.7253703703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: From: Mr. Johnson Morgan.",
+        "body": "Hello Mr. Johnson Morgan,\n\nThank you for reaching out to me with this proposal. I hope you are doing well. The information you provided is quite intriguing. Can you please share more details about the process of claiming the unclaimed fund and how exactly it will be transferred to my account? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nTeresa"
+    },
+    {
+        "from": "baiter_1316",
+        "to": "scammer_1316",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.7261921296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: From: Mr. Johnson Morgan.",
+        "body": "Hello! I hope you're doing well. Thank you for sharing this information with me. It's quite intriguing. Can you provide more details about the process of claiming the unclaimed fund? How does the bank usually handle such situations?\n\nBest wishes,\nTeresa"
+    },
+    {
+        "from": "baiter_1316",
+        "to": "scammer_1316",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.7656712962962964,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: From: Mr. Johnson Morgan.",
+        "body": "Hello! Thank you for sharing this information with me. I hope you are doing well. Could you please provide more details about the process of claiming the unclaimed fund? How long does it usually take for such transactions to be completed?\n\nBest wishes,\nTeresa"
+    },
+    {
+        "from": "baiter_1316",
+        "to": "scammer_1316",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.767835648148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: From: Mr. Johnson Morgan.",
+        "body": "Hello! I hope you're doing well. Thank you for sharing this information with me. It's quite intriguing. Can you tell me more about how this process works and what would be expected from my end?\n\nBest wishes,\nTeresa"
+    },
+    {
+        "from": "baiter_1316",
+        "to": "scammer_1316",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.8496064814814814,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: From: Mr. Johnson Morgan.",
+        "body": "Hello Mr. Johnson Morgan,\n\nThank you for sharing this information with me. I hope you are doing well. The proposal you mentioned sounds interesting. Can you provide more details about the process of transferring the funds and how we can proceed further?\n\nBest wishes,\nTeresa"
+    },
+    {
+        "from": "baiter_1316",
+        "to": "scammer_1316",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.850289351851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re: From: Mr. Johnson Morgan.",
+        "body": "Hello Mr. Johnson Morgan,\n\nThank you for reaching out to me with this proposal. I hope you are doing well. The information you provided is quite intriguing. Can you please share more details about the process of claiming the unclaimed fund and how exactly it will be transferred to me? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nTeresa"
+    },
+    {
+        "from": "baiter_1316",
+        "to": "scammer_1316",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.8508217592592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "19",
+        "subject": "Re: From: Mr. Johnson Morgan.",
+        "body": "Hello! I hope you're doing well. Thank you for sharing this information with me. It's quite intriguing. Can you tell me more about how this process works and what would be expected from me if I were to proceed with it?\n\nBest wishes,\nTeresa"
+    },
+    {
+        "from": "baiter_1316",
+        "to": "scammer_1316",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.8510763888888888,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "20",
+        "subject": "Re: From: Mr. Johnson Morgan.",
+        "body": "Hello! I hope you're doing well. Thank you for sharing this information with me. It's quite intriguing to hear about the unclaimed fund at Credit Grand Alliance Bank Plc. Can you provide more details about how the process works for claiming such funds?\n\nBest wishes,\nTeresa"
+    },
+    {
+        "from": "scammer_1316",
+        "to": "baiter_1316",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.8556481481481482,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "21",
+        "subject": "Re: From: Mr. Johnson Morgan.",
+        "body": "Dear Teresa,\r\n\r\nThanks for your random response, send your details to enable us proceed if you are interested.\nThanks,\r\nMr. Morgan."
+    },
+    {
+        "from": "baiter_1316",
+        "to": "scammer_1316",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.8903472222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "22",
+        "subject": "Re: From: Mr. Johnson Morgan.",
+        "body": "Hello Mr. Morgan,\nI appreciate your message. Can you please provide more information about what details you need from me in order to proceed?\nThank you.\n\nBest wishes,\nTeresa"
+    },
+    {
+        "from": "baiter_1316",
+        "to": "scammer_1316",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.8914351851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "23",
+        "subject": "Re: From: Mr. Johnson Morgan.",
+        "body": "Hello Mr. Johnson Morgan,\n\nThank you for reaching out to me with this proposal. I hope you are doing well. The information you shared about the unclaimed fund is quite intriguing. Can you provide more details on how the process works and what steps need to be taken to proceed further? I am interested in learning more about this opportunity.\n\nLooking forward to your response.\n\nBest wishes,\nTeresa"
+    },
+    {
+        "from": "baiter_1316",
+        "to": "scammer_1316",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.8921296296296297,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "24",
+        "subject": "Re: From: Mr. Johnson Morgan.",
+        "body": "Hello Mr. Johnson Morgan,\n\nThank you for sharing this information with me. I hope you are doing well. The proposal you mentioned sounds interesting. Can you provide more details about the process of claiming the unclaimed fund? How long does it usually take to complete such a transaction?\n\nBest wishes,\nTeresa"
+    },
+    {
+        "from": "baiter_1316",
+        "to": "scammer_1316",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.8922569444444444,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "25",
+        "subject": "Re: From: Mr. Johnson Morgan.",
+        "body": "Hello! I hope you're doing well. Thank you for sharing this information with me. It's quite intriguing. Can you tell me more about how the process works to claim the unclaimed fund? How long does it usually take for everything to be completed?\n\nBest wishes,\nTeresa"
+    }
+]

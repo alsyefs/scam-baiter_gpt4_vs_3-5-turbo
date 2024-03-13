@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1284",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Hello, greetings to you.",
+        "body": "   Hello, greetings to you.\nPlease did you receive my previous messages i sent to you? I am waiting to hear from you.\n Thank you.\nMr. Andrew  "
+    },
+    {
+        "from": "baiter_1284",
+        "to": "scammer_1284",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Hello, greetings to you.",
+        "body": "Hello Mr. Andrew,\n\nI hope you're doing well. I'm not sure if I received your previous messages, could you please tell me what they were about? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nYvonne"
+    }
+]

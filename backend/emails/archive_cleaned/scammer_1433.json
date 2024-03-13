@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1433",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir,",
+        "body": "  Dear Sir,\nSend me your phone number so that I can call you we talk on the phone.\nWaiting for your urgent reply\nBest regards,\nDr. Koko Michael   "
+    },
+    {
+        "from": "baiter_1433",
+        "to": "scammer_1433",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir,",
+        "body": "Dear Dr. Koko Michael,\n\nThank you for reaching out to me. I appreciate your eagerness to talk on the phone. However, before we proceed, could you please provide me with more information about the purpose of our conversation? It would be helpful to know what topics or subjects we will be discussing.\n\nLooking forward to your response.\n\nBest wishes,\nCurtis"
+    }
+]

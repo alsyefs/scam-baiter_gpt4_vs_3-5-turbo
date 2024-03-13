@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_995",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Good Day,",
+        "body": "  Good Day,\nI'd like to know if you have any initiatives that need financing. We are willing to sponsor such ideas or enterprises. Please provide your email address for further information.\nBest Weshes\nSupport team   "
+    },
+    {
+        "from": "baiter_995",
+        "to": "scammer_995",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Good Day,",
+        "body": "Hello there,\n\nThank you for reaching out and offering your support. It's great to hear that you're interested in financing ideas. Could you please share more details about the kind of projects or ideas you are looking to sponsor? \n\nAlso, could we possibly continue our conversation here instead of sharing email addresses? I believe it would be more convenient.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAgustin"
+    },
+    {
+        "from": "scammer_995",
+        "to": "baiter_995",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Good Day,",
+        "body": "Sir.\r\nMy Name  is Mr Steve Han from the United Kingdom, London UK, an investment\r\nPortfolio manager from CAPITAL INVESTMENTS (MCR) LTD for Asian countries,\r\nSub African Regions and Saudi Arabia. We represent the interests of very\r\nwealthy individuals' top-end but very private investors/lenders.\r\nSee below investor's interests.\r\n\r\nINVESTORS INTEREST AREAS:-\r\nMy principal is interested in any profitable investment venture eg oil and\r\ngas, Technology, Agriculture, Mining in minerals, hospitality business,\r\nReal Estate, Renewable Energy, Industrial Production or in the Health Care\r\nSector of Pharmaceuticals and Devices as well as for other business\r\nventures, he is not interested in partnership but will provide you a loan\r\nfor any amount as long as you agree with them terms mentioned below. My\r\ninvestor is not a shrewd businessman, only a pragmatist, who likes to deal\r\nin fact and figures without sugarcoating so he is open to any kind of other\r\nprofitable business ideas. My client portfolio carries deal size from $USD1\r\nMillion to $USD 7Billion ++, earmarked for investment after risk analysis\r\nand the tenure of the investment is 2 to 10 years and can be renewed.\r\n\r\nRETURNS:-\r\nThe interest returns will be 3-4% annually till the end of the contract,\r\nall will be depending on the years we agreed on for the period of the loan.\r\n\r\nPLANS PRESENTATION, PERUSAL & APPROVAL:-\r\nPlease provide us with your summary of your investment plan which could be\r\na one page document and also your personal profile. After this is received,\r\nI will study and present it to the investor for final approval, an approval\r\nis a precursor for a meeting.\r\n\r\nMEETING, AGREEMENTS & FINANCIAL DISCLOSURE:-\r\nA meeting shall be scheduled for both parties to meet physically and\r\ndiscuss all modalities in person;\r\n\r\nThe sole objective of this meeting shall be as follows:\r\n• To endorse a Memorandum of Understanding (MOU).\r\n• Sign of returning interest Agreement.\r\n• Thirdly and most importantly sign all documents relating to the\r\ndisbursement of funds at which point assets/funds shall be made known and\r\ntransferred to you respectively.\r\n\r\nPlease note that my principal and the investor insist on the need for a\r\nphysical meeting between both parties. If the above basic criteria are met\r\nand our offer is suitable to your project/business venture requirements,\r\nkindly present to me with your business summary/project and how much you\r\nwill need.\r\n\r\nAs mentioned above: please note my investor is not a shrewd business man,\r\nonly a pragmatist, who likes to deal in fact and figures without sugar\r\ncoating so he is open to any kind of other profitable business ideas you\r\nmay like to share with him. Please get back to me at your earliest\r\nconvenience so I can proceed to the next stage.\r\n\r\nYours respectfully\nMr Steve Han"
+    },
+    {
+        "from": "baiter_995",
+        "to": "scammer_995",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.476284722222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Good Day,",
+        "body": "Hello Mr. Steve Han,\n\nThank you for reaching out and sharing this intriguing opportunity. It's quite interesting to hear about the diverse areas your principal is interested in investing in, from oil and gas to health care sector devices.\n\nI'm curious about a few things though. Could you please elaborate more on the terms of the loan? What would be the interest rate and what kind of security does your principal require?\n\nAlso, could you provide some examples of previous investments made by your principal? I believe it would give me a better understanding of his investment style and preferences.\n\nLastly, regarding the physical meeting, where would this typically take place? Would it be in London or somewhere else?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAgustin"
+    },
+    {
+        "from": "scammer_995",
+        "to": "baiter_995",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.889305555555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Good Day,",
+        "body": "Mr.  Agustin\r\n\r\nHappy Valentines day to you and your family, those areas were mentioned\r\nbecause they capital intensive, there are many things my principals are\r\ninterested in or would be interested in, everything depends and what you\r\nwant to do,\r\n\r\nThe terms of the loan have already mentioned in our last email, 3% interest\r\nrate annually. Everything else has already been stated in my last email.\r\n\r\nHis major interest is financing the loan to something that will be\r\nprofitable to the lender so if you want to do so then bring it on and they\r\nwill look into it and give you their reply if they will finance it or not.\r\n\r\nThe meeting will take place in a country where the lender has an offshore\r\naccounts, not in London , but it can take place in south africa Turkey and\r\nUnited states, the choice depends on him not us but the face to face\r\nmeeting will definitely takes place in one of these countries, dont forget\r\nto email send us your business plans next.\r\n\nHan"
+    },
+    {
+        "from": "baiter_995",
+        "to": "scammer_995",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.891724537037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Good Day,",
+        "body": "Hello Mr. Agustin,\n\nI hope you're having a wonderful Valentine's Day as well! It's great to hear that your principals are open to various opportunities. I'm sure we can find something mutually beneficial.\n\nYou mentioned the interest rate in your last email, but could you please remind me what it was? I want to make sure I have all the details correct.\n\nAlso, regarding the meeting locations, is there any particular reason why South Africa, Turkey, and the United States were chosen? Just curious about how these decisions are made.\n\nLastly, could you provide some guidance on what specific information should be included in my business plan? I want to ensure it meets your principals' expectations.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nAgustin"
+    }
+]

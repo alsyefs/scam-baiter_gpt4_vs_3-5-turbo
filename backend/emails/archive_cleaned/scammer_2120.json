@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2120",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "From Post Office -Madrid Spain",
+        "body": "From Post Office -Madrid Spain\nTwo Post Offices -Madrid Spain\nCorreios - Madrid Spain.\nAddress: Plaza del Rey nº 1 28004 Madrid, Spain\nTelephone, +34 69876567\nE-mail, \nposto5658@gmail.com\nWave\nRe: Correios -Madrid Espanha urgently to avoid expiration.\n \nBy regular mail Madrid Spain, Inform you that we exist\nIt is a parcel that contains a Multibanco Cartão in this post deposited by a\nPrivate organization organization on August 2, 2023.\n \nYour e-mail address has been attached to it and will be sent to you. Us\nWe have been waiting for you to contact us to obtain your Cartão\nConformable multibank that contains more than €800,000 Euros and some\nvital documents then Please, come back to this desk (Correio Regular Madrid Espanha)\nto avoid fraudulent inquiries related to this service.\n \nYou must confirm and provide us with your postal address below through\nI straighten up,\n \n \nIts full name..........\nYour country............\nHis postal address.....\nYour direct phone.....\n \nNote: each claim has a validity period of fourteen useful days,\nSo you have it very urgently to avoid expiration.\n \nObliged\nSincerely\nContact person\nMr .Robert Dewey"
+    },
+    {
+        "from": "baiter_2120",
+        "to": "scammer_2120",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: From Post Office -Madrid Spain",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate the information regarding the parcel that contains a Multibanco Cart. Could you please provide me with more details about this package? I would like to know who sent it and what documents are included.\n\nAlso, could you clarify why my address was attached to this parcel? I want to make sure there hasn't been any mistake or misunderstanding.\n\nLastly, I would like to confirm the authenticity of this message. Can you please provide some form of verification or reference number related to the parcel?\n\nThank you in advance for your assistance.\n\nBest wishes,\nJosephine"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "from": "scammer_2186",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Dear   ",
+        "body": "   Dear   \nApologies for my late response.\nUse the following details, email your proof of payment to commence the release of your parcel without further delay.\nACCOUNT NAME: P. W. A.\nACCOUNT NUMBER: 35637XXXX\nSWIFT CODE: SBZAZAJJ\nBRANCH CODE: 051001\nBANK NAME: STANDARD BANK, SOUTH AFRICA\nBANK ADDRESS: 5 SIMMONDS STREET, SAIBY, JOHANNESBURG, 2001, SOUTH AFRICA\nYours sincerely\nDavid Ngcobo (Esq.)\nFinancial Surveillance Department\nWC Office Manager\nResident Representation for South Africa\nI Cape Town, South Africa\nDNgcono@fsd.org\n     Fax   + (27)   086 7633 515    "
+    },
+    {
+        "from": "baiter_2186",
+        "to": "scammer_2186",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    Dear   ",
+        "body": "Dear David Ngcobo Esq.,\n\nThank you for reaching out to me. I appreciate your prompt response. However, I would like to clarify a few things before proceeding with sending any proof of payment.\n\nCould you please provide me with more information about the parcel that you mentioned? What is it exactly and why is it being held? Additionally, could you explain how sending proof of payment will help in releasing the parcel?\n\nI apologize for my cautious approach, but I want to ensure that everything is legitimate before taking any further steps. Thank you for your understanding.\n\nBest wishes,\nCarol"
+    },
+    {
+        "from": "scammer_2186",
+        "to": "baiter_2186",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Fwd: Dear Carol",
+        "body": "I refer you to the attachment below.\r\n\r\nDavid Ngcobo (Esq.)\r\nFinancial Surveillance Department\r\nDNgcono@fsd.org\r\nHatfield 0028   I  Pretoria, South Africa\r\n\r\n---------- Forwarded message ---------\r\nFrom: Remmitance Offi <remmitanceoffice922@gmail.com>\r\nDate: Tue, Jun 13, 2023 at 9:25 AM\r\nSubject: Dear Carol Mokwena\r\nTo: Carol Mokwena <carol.mokwena@gmail.com>\r\n\r\n\r\nDear Carol Mokwena\r\n\r\nTrust you are well today.\r\n\r\nOpen attachment to view your payment notification from the ordering bank,\r\nplease pay the electronic transfer cost R1850 without delay to ensure your\r\nmoney reflects in your bank account tonight.\r\n\r\nThanks in advance for your cooperation.\r\n\r\nYours sincerely\r\nDavid Ngcobo (Esq.)\r\nFinancial Surveillance Department\r\nDNgcono@fsd.org\r\nHatfield 0028   I  Pretoria, South Africa"
+    },
+    {
+        "from": "baiter_2186",
+        "to": "scammer_2186",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.1187152777777776,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Fwd: Dear Carol",
+        "body": "Dear David Ngcobo Esq.,\n\nThank you for reaching out to me. I hope you are doing well too. I received your email and the attachment regarding a payment from the ordering bank. I'm interested in learning more about this opportunity.\n\nCould you please provide me with some additional details about the payment? What is the purpose of this payment and why am I being asked to pay for the electronic transfer cost? Is there any specific deadline for making this payment?\n\nI appreciate your assistance in clarifying these matters.\n\nBest wishes,\nCarol"
+    },
+    {
+        "from": "scammer_2186",
+        "to": "baiter_2186",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.1441550925925927,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Fwd: Dear Carol",
+        "body": "Dear Carol Mokwena\r\n\r\nThanks for your response\r\n\r\nAs clearly indicated in the attachment, the payment of the eclectrnic\r\ntransfer cost will ensure your compensation prize money reflects in your\r\naccount.\r\n\r\nPlease I would implore you to make every effort to pay the R1850 today to\r\nensure that your money reflects in your a/c tonight.\r\n\r\nThanks in advance for your cooperation.\r\n\r\nYours sincerely\r\nDavid Ngcobo (Esq.)\r\nFinancial Surveillance Department\r\nDNgcono@fsd.org\r\nHatfield 0028   I  Pretoria, South Africa"
+    },
+    {
+        "from": "baiter_2186",
+        "to": "scammer_2186",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.1532407407407406,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Fwd: Dear Carol",
+        "body": "Dear David Ngcobo Esq.,\n\nThank you for reaching out to me. I appreciate your response and the information you provided regarding the payment of the electronic transfer cost. It's good to know that this will ensure my prize money reflects in my account.\n\nI understand the importance of making the payment today to expedite the process. However, before proceeding, I have a few questions that I hope you can clarify for me:\n\n1. Can you please provide more details about the electronic transfer cost? What does it cover exactly?\n\n2. How can I be sure that once I make the payment, my prize money will indeed reflect in my account as promised?\n\n3. Are there any alternative methods of payment available, or is electronic transfer the only option?\n\nI look forward to your response and appreciate your assistance in addressing these queries.\n\nBest wishes,\nCarol"
+    },
+    {
+        "from": "scammer_2186",
+        "to": "baiter_2186",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.9848958333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Dear Carol",
+        "body": "Dear Carol Mokwena\r\n\r\nThanks for your response\r\n\r\nAs clearly indicated in the attachment, the payment of the eclectrnic\r\ntransfer cost will ensure your compensation prize money reflects in your\r\naccount.\r\n\r\nPlease I would implore you to make every effort to pay the R1850 today to\r\nensure that your money reflects in your a/c tonight.\r\n\r\nThanks in advance for your cooperation.\r\n\r\nYours sincerely\r\nDavid Ngcobo (Esq.)\r\nFinancial Surveillance Department\r\nDNgcono@fsd.org\r\nHatfield 0028   I  Pretoria, South Africa"
+    },
+    {
+        "from": "baiter_2186",
+        "to": "scammer_2186",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.98625,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Dear Carol",
+        "body": "Dear David Ngcobo Esq.,\n\nThank you for reaching out to me. I appreciate your response and the information you provided regarding the payment of the electronic transfer cost. It's good to know that this will ensure my prize money reflects in my account.\n\nI understand the importance of making the payment today to expedite the process. However, before proceeding, I have a few questions that I hope you can clarify for me:\n\n1. Can you please provide more details about the electronic transfer cost? What does it cover exactly?\n\n2. How can I be sure that once I make the payment, my prize money will indeed reflect in my account as promised?\n\n3. Are there any alternative methods of payment available, or is electronic transfer the only option?\n\nI apologize for these additional inquiries, but I want to make sure I have all the necessary information before proceeding with any payments.\n\nThank you again for your assistance.\n\nBest wishes,\nCarol"
+    },
+    {
+        "from": "scammer_2186",
+        "to": "baiter_2186",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.051736111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Dear Carol",
+        "body": "Dear Carol Mokwena\r\n\r\nThanks for your response\r\n\r\nAgain as I clearly indicated in my earlier reply, the electronic transfer\r\ncost covers the wire transfer fee between African Bank and TymeBank, you\r\nare rest assured that once the fee is paid your money will reflect in your\r\naccount in three bank working days. Electronic transfers are a quick and\r\nmost reliable payment option .\r\n\r\nPlease endeavour to make the payment today.\r\n\r\nThanks in advance for your cooperation.\r\n\r\nYours sincerely\r\nDavid Ngcobo (Esq.)\r\nFinancial Surveillance Department\r\nDNgcono@fsd.org\r\nHatfield 0028   I  Pretoria, South Africa"
+    },
+    {
+        "from": "baiter_2186",
+        "to": "scammer_2186",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.069386574074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Dear Carol",
+        "body": "Dear David Ngcobo Esq.,\n\nThank you for your prompt response. I understand that the electronic transfer cost covers the wire transfer fee between African Bank and myself. It's good to know that once the fee is paid, my money will reflect in my account within three bank working days. Electronic transfers do seem like a quick and reliable payment option.\n\nBefore I proceed with making the payment, could you please provide me with more details about the electronic transfer process? Specifically, I would like to know how I can ensure that my money is being transferred securely and what steps are involved in completing the transfer.\n\nAdditionally, could you clarify if there are any other fees or charges associated with this transaction apart from the electronic transfer cost? It's important for me to have a clear understanding of all expenses involved before proceeding.\n\nThank you again for your assistance. I look forward to your response.\n\nBest wishes,\nCarol"
+    },
+    {
+        "from": "scammer_2186",
+        "to": "baiter_2186",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.105902777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Dear Carol",
+        "body": "Dear Carol Mokwena\r\n\r\nThanks for your response\r\n\r\nNo, there will be no other fees, currently payment from African bank to\r\nyourself has been authorized, once the transfer cost is paid payment will\r\nbe processed and your money will be  available for withdrawal, please pay\r\nthe wire transfer cost without delay, Please find bank details below.\r\n\r\n\r\n\r\n\n*FNB:A/C 63049368243B/C 250655A/N Audrey Masondo*\r\n\r\n*ZAR1850*\r\n\r\nThanks in advance for your cooperation.\r\n\r\nYours sincerely\r\nDavid Ngcobo (Esq.)\r\nFinancial Surveillance Department\r\nDNgcono@fsd.org\r\nHatfield 0028   I  Pretoria, South Africa"
+    },
+    {
+        "from": "scammer_2186",
+        "to": "baiter_2186",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.109259259259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Dear Carol",
+        "body": "Dear Carol Mokwena\r\n\r\nThanks for your response\r\n\r\nNo, there will be no other fees, currently payment from African bank to\r\nyourself has been authorized, once the transfer cost is paid payment will\r\nbe processed and your money will be  available for withdrawal, please pay\r\nthe wire transfer cost without delay, Please find bank details below.\r\n\r\n\r\n\r\n\r\n*FNB:A/C 63049368243B/C 250655A/N Audrey Masondo*\r\n\r\n*ZAR1850*\r\n\r\nPlease email proof of deposit to commence delivery procedure immediately .\r\n\r\nThanks in advance for your cooperation.\r\n\nYours sincerely\r\nDavid Ngcobo (Esq.)\r\nFinancial Surveillance Department\r\nDNgcono@fsd.org\r\nHatfield 0028   I  Pretoria, South Africa"
+    },
+    {
+        "from": "baiter_2186",
+        "to": "scammer_2186",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.111493055555556,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Dear Carol",
+        "body": "Dear David Ngcobo Esq.,\n\nThank you for your prompt response. I appreciate the information you have provided. Before proceeding with the wire transfer cost, I would like to clarify a few things.\n\n1. Could you please confirm the exact amount of the wire transfer cost that needs to be paid?\n\n2. Is there a specific deadline by which the payment needs to be made?\n\n3. Can you provide more details about FNB Audrey Masondo? Is it a branch of First National Bank in South Africa?\n\nI apologize for my cautious approach, but I want to ensure that everything is clear before proceeding with any payments. Your assistance in providing these details would be greatly appreciated.\n\nBest wishes,\nCarol"
+    },
+    {
+        "from": "baiter_2186",
+        "to": "scammer_2186",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.1117939814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Dear Carol",
+        "body": "Dear David Ngcobo Esq.,\n\nThank you for your prompt response. I appreciate the information you have provided. Just to clarify, you mentioned that there will be no other fees apart from the wire transfer cost. Could you please let me know the exact amount of the wire transfer cost? Additionally, could you explain how the payment process works once the transfer cost is paid?\n\nI would also like to confirm if FNB Audrey Masondo is a reputable bank in South Africa. Are there any specific instructions or documents required when making the wire transfer payment? Lastly, could you please provide more details about the delivery procedure once the proof of deposit is emailed?\n\nThank you in advance for your assistance.\n\nBest wishes,\nCarol"
+    },
+    {
+        "from": "scammer_2186",
+        "to": "baiter_2186",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.120775462962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Dear Carol",
+        "body": "Dear Carol Mokwena\r\n\r\nThanks for your response\r\n\r\nZAR1800 only\r\n\r\nAudrey Masondo will oversee your payment processing and authorization\r\n\r\n\r\n\r\n\r\n*FNB:A/C 63049368243B/C 250655A/N Audrey Masondo*\r\n*ZAR1850*\r\n\r\nPlease email proof of deposit to commence procedure immediately .\r\n\r\nThanks in advance for your cooperation.\r\n\nYours sincerely\r\nDavid Ngcobo (Esq.)\r\nFinancial Surveillance Department\r\nDNgcono@fsd.org\r\nHatfield 0028   I  Pretoria, South Africa"
+    },
+    {
+        "from": "scammer_2186",
+        "to": "baiter_2186",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.122303240740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: Dear Carol",
+        "body": "Dear Carol Mokwena\r\n\r\nThanks for your response\r\n\r\nZAR1800 only\r\n\r\nAudrey Masondo will oversee your payment processing and authorization until\r\nmoney reflects in your account.\r\n\r\nDelivery procedure will no longer be required since payment is done through\r\nwire transfer\r\n\r\nThanks in advance for your cooperation.\r\n\nYours sincerely\r\nDavid Ngcobo (Esq.)\r\nFinancial Surveillance Department\r\nDNgcono@fsd.org\r\nHatfield 0028   I  Pretoria, South Africa"
+    },
+    {
+        "from": "baiter_2186",
+        "to": "scammer_2186",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.131493055555556,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: Dear Carol",
+        "body": "Dear David Ngcobo Esq.,\n\nThank you for reaching out to me. I appreciate your response. I understand that Audrey Masondo will be handling the payment processing for my account. Could you please provide me with more details about the wire transfer process? How long does it usually take for the money to reflect in my account?\n\nAlso, could you clarify why the delivery procedure is no longer required? I want to make sure I have a clear understanding of how everything will be handled.\n\nThank you again for your assistance.\n\nBest wishes,\nCarol"
+    },
+    {
+        "from": "baiter_2186",
+        "to": "scammer_2186",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.132037037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: Dear Carol",
+        "body": "Dear David Ngcobo Esq.,\n\nThank you for reaching out to me. I appreciate your prompt response. I understand that Audrey Masondo will be overseeing the payment processing, and I would like to proceed with the procedure.\n\nBefore I email the proof of deposit, could you please provide me with some more information about the payment process? Specifically, I would like to know how long it usually takes for the funds to be processed and when can I expect to receive them?\n\nAdditionally, could you clarify what \"ZAR only\" means? Does it refer to a specific currency or any other requirements related to the payment?\n\nThank you in advance for your assistance.\n\nBest wishes,\nCarol"
+    },
+    {
+        "from": "scammer_2186",
+        "to": "baiter_2186",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.136342592592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re: Dear Carol",
+        "body": "Dear Carol Mokwena\r\n\r\nThanks for your response\r\n\r\nIt takes less than  48hours to materialize, ZAR is the sign of the local\r\ncurrency.\r\n\r\nThanks in advance for your cooperation.\r\n\r\nYours sincerely\r\nDavid Ngcobo (Esq.)\r\nFinancial Surveillance Department\r\nDNgcono@fsd.org\r\nHatfield 0028   I  Pretoria, South Africa"
+    },
+    {
+        "from": "baiter_2186",
+        "to": "scammer_2186",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.153657407407407,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "19",
+        "subject": "Re: Dear Carol",
+        "body": "Dear David Ngcobo Esq.,\n\nThank you for reaching out to me. I appreciate your response. I'm not familiar with the ZAR currency, could you please provide more information about it? How does it compare to other currencies?\n\nAlso, I'm curious about the Financial Department you mentioned. What kind of services or assistance do you provide? Is there a specific reason why you contacted me?\n\nLooking forward to hearing from you.\n\nBest wishes,\nCarol"
+    },
+    {
+        "from": "scammer_2186",
+        "to": "baiter_2186",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.16650462962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "20",
+        "subject": "Dear Carol",
+        "body": "Dear Carol Mokwena\r\n\r\nMake the payment ok.\r\n\r\nThanks in advance for your cooperation.\r\n\r\nYours sincerely\r\nDavid Ngcobo (Esq.)\r\nFinancial Surveillance Department\r\nDNgcono@fsd.org\r\nHatfield 0028   I  Pretoria, South Africa"
+    },
+    {
+        "from": "baiter_2186",
+        "to": "scammer_2186",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.173449074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "21",
+        "subject": "Re: Dear Carol",
+        "body": "Dear David Ngcobo Esq.,\n\nThank you for reaching out to me. I'm interested in learning more about the payment you mentioned. Could you please provide me with some additional details? What is the payment for and what are the steps involved in making it?\n\nI appreciate your assistance and look forward to hearing back from you soon.\n\nBest wishes,\nCarol"
+    },
+    {
+        "from": "scammer_2186",
+        "to": "baiter_2186",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.19974537037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "22",
+        "subject": "Dear Carol",
+        "body": "Dear Carol Mokwena\r\n\r\nPlease kindly make the payment immediately ok.\r\n\r\nThanks in advance for your cooperation.\r\n\r\nYours sincerely\r\nDavid Ngcobo (Esq.)\r\nFinancial Surveillance Department\r\nDNgcono@fsd.org\r\nHatfield 0028   I  Pretoria, South Africa"
+    },
+    {
+        "from": "baiter_2186",
+        "to": "scammer_2186",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.214583333333334,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "23",
+        "subject": "Re: Dear Carol",
+        "body": "Dear David Ngcobo Esq.,\n\nThank you for reaching out to me. I'm sorry, but I'm not sure what payment you are referring to. Could you please provide more details about the payment and why it needs to be made? I want to make sure I have a clear understanding before proceeding.\n\nLooking forward to your response.\n\nBest wishes,\nCarol"
+    }
+]

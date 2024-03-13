@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_452",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention Good Day",
+        "body": "Attention Good Day\nMy name is Dr.Leandro Medina Head of the Secretary’s Department of the Bank of Ghana and a Consultant with the United Nations and the World Bank, It is my utmost pleasure to notify you that the management of those two great Organizations through International Collaborations,  wishes to inform you about your approved compensation of the sum of  $1000.000.00 Us Dollars (ONE MILLION US DOLLARS) as one of the scam victims submitted to us by Microsoft Internet Fraud Monitor (MIFM) i have been mandated by the Bank of Ghana and the United Nations office In New York USA to release this approved said funds to you without any delay. \nAnd \nto enable us proceed further you have to fill the form below so that we can confirm it with the information we have about you before we proceed to the next stage which is the transfer of your funds to you.\nFull Names of Beneficiary:\nAddress:\nCity\\State:\nNationality:\nProfession:\nMarital Status:\nTelephone Number:\nYour Banking Informations\n: \nWaiting for your urgent response so that we can proceed further.\nYours Faithfully\nDr.Leandro Medina\nHead of the Secretary’s Department\nBank of Ghana"
+    },
+    {
+        "from": "baiter_452",
+        "to": "scammer_452",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attention Good Day",
+        "body": "Hello Medina,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding the approved sum of one million US dollars. However, before proceeding further, I would like to ask a few questions to ensure that everything is in order.\n\n1. Can you please provide more details about how I became a scam victim and why Microsoft Internet Fraud Monitor submitted my name to your organization?\n\n2. What specific steps will be taken to release the funds to me? Are there any fees or charges involved in this process?\n\n3. Could you please clarify the role of the Bank of Ghana and the United Nations in this matter? How are they connected to each other and how do they relate to my situation?\n\nI look forward to your prompt response.\n\nBest wishes,\nHenry"
+    }
+]

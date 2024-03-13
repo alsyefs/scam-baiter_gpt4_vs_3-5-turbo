@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_764",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention: Dear Beneficiary",
+        "body": "Attention: Dear Beneficiary\nThis is to bring to your notice that we have credited your total sum of\n$5,000,000.00 USD into an ATM VISA card and we have deposited it with DHL\nExpress Company to deliver it to you. We paid all the necessary charges\nsuch as Company registration and delivery fee.\nThe only money you will send to them is the security keeping charges of your\nATM VISA card $50.00 dollars.\n We tried to pay that but they complained that\nthey don't know when you will contact them for the delivery and the demurrage\nmight have increased by then. I deposited it on 30/01/2024.\nTherefore,\n contact\nthem now with Your:\nYour Full Name........\nYour Country............\nYour City Airport........\nYour Home Address........\nTelephone Number.........\nGender...................\nDHL Express\nAgent In Charge\nCharles R Brewer\nEmail address:expressdeliveryd49@gmail.com"
+    },
+    {
+        "from": "baiter_764",
+        "to": "scammer_764",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attention: Dear Beneficiary",
+        "body": "Hello Charles Brewer,\n\nThank you for your message. It's quite exciting to hear about the ATM VISA card. I'm curious, how did this come about? And could you please explain a bit more about these security keeping charges?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nFrank"
+    }
+]

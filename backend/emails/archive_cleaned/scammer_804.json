@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_804",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  The Federal Reserve Bank wri",
+        "body": "  The Federal Reserve Bank write to notify you that after  series of meetings with the United Nations and World-Bank including the World Health Organization high cost food and inflation we the Federal Reserve Bank have been appointed to pay you and your family member Covid-19  Palliative Funds of  $1,000,000 to support and you and your family as we prayer for the world for peace.\nBefore we will proceed with this payment kindly forward your full details as below.\nFull Name:\nHouse Address:\nYour Direct Phone Number:\nYour Occupation:\nAny kind of ID: International Passport Or ID Card:\nMiss Lydia Brown\nRemittance Department\nE-mail Reply: \nfederalRbank09@usa.com\n "
+    },
+    {
+        "from": "baiter_804",
+        "to": "scammer_804",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   The Federal Reserve Bank wri",
+        "body": "Hello Miss Lydia Brown,\n\nThank you so much for reaching out to me. I'm really grateful for this support during these challenging times. It's heartwarming to know that organizations like the Federal Reserve Bank and the United Nations are working together to help people.\n\nCould you please tell me more about how this Covid Palliative Funds program works? How was it decided who would receive these funds? And what is the process for receiving them?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDale"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2049",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "2024 Overdue payment notificat",
+        "body": "2024 Overdue payment notification.\nI am Mr. Danya Vanko a PRO ( PUBLIC RELATION OFFICER) to the Pacific Western Bank. I hereby notify you that your unclaimed overdue payment have reached our Bank and our Bank director Mr. Matthew Wagner is fully in charge of your funds and the new online account opened on your behalf to secure your funds.\nYou are to contact the Bank director Mr. Matthew Wagner by email as soon as you get this message for your Login details of your online account to have access to your funds.\nBank name: Pacific Western Bank\nDirector: Mr. Mathew P. Wagner\nTell:  +1-862-235-4306\nEmail: \nPacificwesternbanking@pacificwest.com\nLike I said am only a PRO I was only sent by the Bank director to pass this notification to you.\nContact Mr. Matthew Wagner now by the email above.\nSincerely,\nMr. Danya Vanko\nPRO."
+    },
+    {
+        "from": "baiter_2049",
+        "to": "scammer_2049",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: 2024 Overdue payment notificat",
+        "body": "Hello Mr. Danya Vanko,\n\nThank you for reaching out to me regarding the overdue payment. I appreciate you notifying me about this matter. Could you please provide me with more information about the unclaimed funds and why they have reached your bank?\n\nAlso, I would like to know more about the online account that has been opened on my behalf. How does it work? What are the benefits of having an online account for accessing my funds?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nRalph"
+    }
+]

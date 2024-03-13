@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1771",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Good Day",
+        "body": "  Good Day\nDue to my tight schedules I could not contact you earlier before now.I'm happy to inform you about my success in getting those funds\ntransferred under the cooperation of a new partner.\nPresently I'm in Seoul South Korea for an Investment Projects with my own share of the total sum. Meanwhile, I did not forget your past\nefforts and attempts to assist me in transferring those funds despite that it failed us some how and I am sorry for what happened.Now\ncontact my secretary in Lagos Nigeria her name is:Mrs Betty Silas Email address:mrsbettysilas871@gmail.com\nTell her to send you the Atm Master Card, a total sum of US $850.000.00 which I kept for your compensation for all your past efforts and\nattempts to assist me in this transaction, which was applied in your name I appreciated your efforts at that time so much.\nNow get in contact with my secretary Mrs Betty Silas and instruct her where to send the Atm Master Card to you.\nPlease do let me know immediately you receive the Atm Master Card for us to share the joy together after our past efforts at that time. At\nthis moment, I am very busy here because of the investment projects which my new partner and I are having at hand.\nFinally, remember I have forwarded instruction to Mrs Betty Silas on your behalf for her to send you your Atm Master Card.\nBest regards,\nMartins Awele.  "
+    },
+    {
+        "from": "baiter_1771",
+        "to": "scammer_1771",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Good Day",
+        "body": "Hello Martins Awele,\n\nI hope this message finds you well. It's great to hear about your success and the new investment projects you're undertaking in Seoul, South Korea. That sounds really exciting!\n\nRegarding the Atm Master Card, I appreciate your kind gesture. However, I have a few questions before proceeding further.\n\n1. Could you please provide more details about this Atm Master Card? \n2. How will it be delivered to me?\n3. Is there any specific process I need to follow to activate or use it?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nThomas"
+    }
+]

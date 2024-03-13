@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_817",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " FedEx Worldwide Express Deliv",
+        "body": " FedEx Worldwide Express Delivery Services\nAddress: 328 Vauxhall Bridge Rd, London SW1V 1AA,\nUnited Kingdom London\nDear Esteem Customer ,\nThis mail is to inform you of your registered package here. CONTENT:\nATM Card of $950,000.00 USD registered by an Official of the United\nNation. The Fund is a donation to you from the U.N through e-mails\nballoting in affiliation with worldbank poverty eradication program.\nIf interested in receiving your compensation ATM Card kindly reconfirm\nyour full Name, Address, Contact (Mobile) Phone Number, A copy of your\nID Card or passport. Further information the VAT and COD have been\npaid and the only money you will have to pay is the security keeping\nfee which is US$88.00 must be paid before shipment .\nBe rest assured that your Package has been confirmed valid and true\nand delivery will be made once you have meet the necessary\nrequirements. We are a well established company offering courier and\ntransport services 24 hours a day for priority delivery of letters,\nparcels to any destination by road, air or sea.\nThank you as I'm waiting to hear from you soon with the requested information.\nWe Be Glad To Serve You More Better .\nSincerely,\nMr. Dennis Stephen.    "
+    },
+    {
+        "from": "baiter_817",
+        "to": "scammer_817",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  FedEx Worldwide Express Deliv",
+        "body": "Hello Mr. Dennis Stephen,\n\nThank you for reaching out to me regarding the registered package. I appreciate the information you have provided. Could you please clarify what exactly is in the ATM card? Also, could you explain more about the worldbank poverty program and how it is related to this donation?\n\nI would also like to know more about your company, Worldwide Express Delivery Services. How long have you been in operation and what other services do you offer apart from courier and transport?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJudy"
+    }
+]

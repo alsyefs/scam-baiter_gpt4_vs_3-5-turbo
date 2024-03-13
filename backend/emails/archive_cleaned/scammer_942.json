@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_942",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  URG: ATTN: Beneficiary,",
+        "body": "  URG: ATTN: Beneficiary,\nWe have been directed by the British government and European union to pay you the sum of US$10M for scam victim/attempted scam victim compensation fund without delays.\nThis payment is unconditional fund payment as you will not be requested to send any money before the fund would be transferred/paid to you.\nIf you are requested to pay any money at any time, we from the British Government will assist you to pay it for you or we proffer solution as directed by European Union and you will repay us back a month after you must have received your compensation fund valued US$10M in any of your designated bank account.\nTo avoid had I know, I was not told or I was ignorant, you are advised to quickly respond to this mail by sending your below information for more details and urgent follow up in your compensation fund payment.\n1. Your names in full\n2. Your house addresses\n3. Your working mobile phone number.\nYour response is being awaited.\nGod bless you and Have a great day,\nYours truly,\n \nMr. Paul Boardman.\nNov, 2023.\nSCAM VICTIM IMMEDIATE UNCONDITIONAL COMPENSATION FUND PAYMENT/URGENT FOLLOW UP   "
+    },
+    {
+        "from": "baiter_942",
+        "to": "scammer_942",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   URG: ATTN: Beneficiary,",
+        "body": "Hello Mr. Paul Boardman,\n\nThank you for reaching out to me. I must say, this is quite an unexpected message! It's not every day that one hears about such a fund payment.\n\nCould you please provide more details about this? How was I selected for this fund payment? And what exactly does it mean to be a 'scam victim attempted scam victim'? \n\nI'm also curious about the role of the British government and European Union in this process. Could you elaborate on their involvement?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nLorraine"
+    }
+]

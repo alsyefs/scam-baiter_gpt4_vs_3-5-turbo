@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_731",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear ",
+        "body": "  Dear \nI don't know why you don't want to get back to me is it because of the $47,300 don't forget that I told you that I will take care of every expenses that comes out in this transaction so please if it's because of the $47,300 get back to me I am ready to spend it thank you very much and God bless you.\nEmmanuel Anthony   "
+    },
+    {
+        "from": "baiter_731",
+        "to": "scammer_731",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear ",
+        "body": "Hello Emmanuel Anthony,\n\nThank you for your message. I appreciate your willingness to take care of the expenses. However, could you please provide more details about what these expenses are for? I'm just trying to understand better.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDavid"
+    }
+]

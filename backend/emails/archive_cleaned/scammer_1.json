@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_1",
+        "to": "baiter_1",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Asking",
+        "body": "Good Day\r\n\r\nWe have been trying to reach out to you regarding estate funds deposited\r\nwith our bank. Our ancestry search chooses you to be the nearest\r\nbeneficiary to the estate funds. Kindly reply back to this email for\r\nfurther details: *mrrebenham5@gmail.com <mrrebenham5@gmail.com>*\r\n\nMr. Ruben Abraham"
+    },
+    {
+        "from": "baiter_1",
+        "to": "scammer_1",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Asking",
+        "body": "Hello there,\n\nWow, this is quite surprising! I never knew I had any connection to an estate fund. Could you please provide me with more details about this? Like, how did your ancestry search lead to me? And who exactly is Mr. Ruben Abraham?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJerome"
+    },
+    {
+        "from": "baiter_1",
+        "to": "scammer_1",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.04346064814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Asking",
+        "body": "Hello there,\n\nWow, this is quite surprising! I never knew I had any connection to an estate. Could you please tell me more about this? How did you find my connection to Mr. Ruben Abraham's estate?\n\nBest wishes,\nJerome"
+    }
+]

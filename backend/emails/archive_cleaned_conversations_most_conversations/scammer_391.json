@@ -1,0 +1,952 @@
+[
+    {
+        "from": "scammer_391",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Beneficiary I'm here to i",
+        "body": "Dear Beneficiary I'm here to inform you that your compensation Funds\nworth the sum of $3.8 Million USD has been deposited in our office\ntoday by the United Nations\nOrganization to transfer to your account...\n I will like to\nreconfirm your full information to avoid wrong claim. And wrong transfer\nREGARDS: VALLACH KATIE  AATIFA  the chase bank service special Agent\nspecializes in transferring of funds ."
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out to me with this information. I appreciate you letting me know about the funds that have been deposited in your office. Can you please provide me with more details about the transfer process? How long does it usually take for the funds to be transferred to my account?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Listen it will only take 1 hours 30 minutes to reflect in to your account once the transfer is conducted\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gk6q4)\t[2gk6q4]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0004166666666666667,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello there! Thank you for reaching out. I appreciate your response. Could you please provide me with more information about the transfer you mentioned? I'm curious to know how it works and what steps are involved in reflecting the funds into my account.\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.02162037037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "It's your fund how it's work is once you provide your account details the money will be transferred into your account so the only difference is to pay for transfer fees which is going to cost you $750 dollar\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gk860)\t[2gk860]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.022060185185185186,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out to me. I appreciate you explaining how the fund works. Can you please provide more details about the transfer fees? How much would they cost in dollars?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.023171296296296297,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "The transfer fees is $750 USD dollar\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gk89q)\t[2gk89q]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.02340277777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out. I hope you're doing well. Could you please provide me with more information about the transfer fees? What is the purpose of the transfer and why is it in USD dollars?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.025775462962962962,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "The purpose of the fees is because this fund has been I our custody for a bit longer before we able to reach you and wire transfer fee that is what makes it up to sure amount\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gk8fv)\t[2gk8fv]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.02621527777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello there! Thank you for reaching out to me. I appreciate you taking the time to explain the purpose of the fees. Can you please provide me with more details about why these fees are necessary? I just want to make sure I understand everything correctly.\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.029953703703703705,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Ok listen carefully this transfer fees is necessary because you must pay it for this fund to be released and transfer to you once you make the payment I have to contact the international monetary fund because they are the one that discover this fund in your name and asked me to transfer it to your account ok so if you are willing to receive this fund you have to do the needful you are not the only one and this fees she comes through steam wallet card or itunes card because we are using in for internet and maintenance over the machines ok\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gk8q0)\t[2gk8q0]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03027777777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello there! Thank you for reaching out to me. I appreciate you sharing this information with me. Can you please provide me with more details about the transfer fees? I want to make sure I understand everything correctly before proceeding.\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.039050925925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Listen all you have to do is to provide your account details where you want\r\nthis fund to be transferred and make the payment and live the rest for me\r\nto do my job my job is to make sure you received this fund after the\r\npayment why your job is to follow the instructions and Carry out the\r\nprocess to receive your fund do I make myself clear."
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03947916666666667,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out to me. I appreciate your willingness to help me receive the fund. However, before I proceed, could you please provide me with more information about the process? I want to make sure I understand everything clearly.\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.044537037037037035,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Listen all you have to do is to provide your account details where you want this fund to be transferred and make the payment and live the rest for me to do my job my job is to make sure you received this fund after the payment why your job is to follow the instructions and Carry out the process to receive your fund do I make myself clear.\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gk9ou)\t[2gk9ou]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.044988425925925925,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out to me. I appreciate your willingness to help me receive the fund. However, before I proceed, I have a few questions that I hope you can clarify for me.\n\n1. Can you please explain in more detail how the process works? I want to make sure I understand it fully.\n2. What is the purpose of providing my account details? Is it necessary for receiving the fund?\n3. Could you please provide some information about yourself and your role in this process? It would help me feel more comfortable moving forward.\n\nI look forward to hearing from you soon.\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.04659722222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "I am the CEO of Chase Morgan bank in charge of everything happens in the CHASE MORTGAGE BANK\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gk9tt)\t[2gk9tt]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.04704861111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out to me. I'm always interested in learning new things and hearing about different opportunities. Could you please tell me more about the role of the CEO of Chase Morgan bank and what they are responsible for?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.05233796296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "1. How it's work is that once you make the payment you transfer will commence with immediate effect.\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gka7q)\t[2gka7q]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.05261574074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "19",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out. I'm interested to learn more about how the payment transfer works. Could you please explain the process in more detail?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.05533564814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "20",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Listen I told you that this transfer fees is what you have to pay to make your transfer work out\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkaex)\t[2gkaex]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.056122685185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "21",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out. I understand that you mentioned there are transfer fees involved in making the transfer work out. Could you please provide me with more information about these fees? How much are they and what is the purpose of these fees?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0574537037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "22",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "The fees is for transfer\nAnd you hear me several times the fees is $750\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkak1)\t[2gkak1]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.05820601851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "23",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out. I understand that there are fees involved in the transfer process. Could you please provide me with more information about these fees? What is the purpose of these fees and how much do they amount to?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.059027777777777776,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "24",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Amount to pay is $750\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkanr)\t[2gkanr]"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.05929398148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "25",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "The purpose is to make your transfer\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkao3)\t[2gkao3]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.059444444444444446,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "26",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out. I'm interested to learn more about the purpose of this transfer you mentioned. Could you please provide me with some additional details?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.05946759259259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "27",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out. Could you please provide me with more information about the amount to pay? I want to make sure I understand the details correctly.\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.060717592592592594,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "28",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Do you understand English at all\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkarl)\t[2gkarl]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.060821759259259256,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "29",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Yes, I understand English. How can I assist you today?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.060856481481481484,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "30",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "How many times do I have to update you\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkarv)\t[2gkarv]"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.06129629629629629,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "31",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Listen if you are not ready to make the payment and receive your fund just let me be\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkat3)\t[2gkat3]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.061550925925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "32",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello there! I hope you're doing well. I understand that you're offering some sort of payment and fund transfer service. Could you please provide me with more information about how it works? I'm interested in learning more before making any decisions.\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.06269675925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "33",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! I hope you're doing well. I'm sorry, but I'm not sure what you mean by updating me. Could you please provide more information or clarify your question?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.06311342592592592,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "34",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "I have told you everything you have to know about this transaction\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkaxm)\t[2gkaxm]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0631712962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "35",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! I hope you're doing well. I'm sorry, but I'm not sure what you mean by updating me. Could you please provide more information or clarify your question? I'll do my best to assist you.\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0636111111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "36",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for sharing the information about Chase Mortgage Bank Chat Spike. I'm curious to learn more about it. Can you please tell me what exactly this chat spike is and how it affects customers?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.07256944444444445,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "37",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Here is my ID card I am tired of all your questions just go get me steam\r\nwallet card of $750 that is the fees and I will transfer your funds with\r\nimmediate effect thank you."
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.07275462962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "38",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out to me. I understand that you're offering a way to transfer funds through a Steam wallet card. Could you please provide more information about how this process works? I'm curious to learn more before proceeding.\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.07476851851851851,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "39",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Once you go to any store near you you get the card and scratch the card and forward me the picture that is how it works then after I confirmed it I will now transfer your fund into your bank account.\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkbpj)\t[2gkbpj]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.07542824074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "40",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out to me. I appreciate your willingness to share information. Could you please provide me with more details about this card? What kind of card is it and how does it work exactly? I'm curious to learn more about the process before proceeding.\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.07546296296296297,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "41",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out to me. I appreciate your willingness to share information. Could you please provide me with more details about this card? What kind of card is it and how does it work exactly?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0768287037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "42",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Listen do you want to receive this fund\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkbue)\t[2gkbue]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.07802083333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "43",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello there! Thank you for reaching out. I'm interested in learning more about this fund you mentioned. Could you please provide me with some additional details?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.08019675925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "44",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "There is no more additional details\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkc2l)\t[2gkc2l]"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.08112268518518519,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "45",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Of you can get the card to process your fund then you do it but if you think you can waste my time by asking a lot of questions no I am not doing that with you I am done with your question ❓\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkc4s)\t[2gkc4s]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.08116898148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "46",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out. I'm always interested in learning new things and sharing information. What would you like to discuss or share?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.08171296296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "47",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out. I understand that you have a card to process funds. Could you please provide me with more information about how it works? I'm curious to learn more about the process.\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.08189814814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "48",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Your here in my custody is the total sum of 9.9 millions USD dollar.\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkc67)\t[2gkc67]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.08307870370370371,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "49",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello there! Thank you for reaching out to me. I hope you're doing well. It sounds like you have some important information to share regarding a significant sum of money. Could you please provide me with more details about this? I'm curious to know how I can assist you further.\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.08425925925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "50",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Listen I don't think you are getting anything right here\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkcay)\t[2gkcay]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.08458333333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "51",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out. I'm always open to learning new things and hearing different perspectives. What information would you like to share with me about Chase Mortgage Bank?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.08512731481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "52",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Ok listen carefully\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkcee)\t[2gkcee]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0858912037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "53",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! I'm here to listen. What would you like to share about Chase Mortgage Bank?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.08637731481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "54",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "The card is the card you have to buy for me that will serve as the payment you supposed to make before the transfer of your fund\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkbw7)\t[2gkbw7]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.08652777777777777,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "55",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out. I'm a bit confused about the card you mentioned. Could you please provide more details about it? What is its purpose and how does it relate to the transfer of funds?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.08655092592592592,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "56",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out. I'm a bit confused about the card you mentioned. Could you please provide more details about what it is and how it relates to the transfer of funds?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.08864583333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "57",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Listen you know I told you your fund is $9.9 millions USD dollar\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkcmu)\t[2gkcmu]"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.08981481481481482,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "58",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "So the steam wallet card that I told you to get in any near bye store is $750 which stands as the transfer charges ok.\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkcpn)\t[2gkcpn]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.09017361111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "59",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out. I'm not familiar with the steam wallet card you mentioned. Could you please provide more information about it? What is it used for and how does it relate to transfer charges?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.09019675925925925,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "60",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello there! Thank you for reaching out. I'm interested to hear more about the fund you mentioned. Could you please provide me with some additional details?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.09292824074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "61",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "We accept the transfer fees\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkcx5)\t[2gkcx5]"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.09332175925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "62",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Through steam wallet card\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkcxs)\t[2gkcxs]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.09346064814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "63",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out. I'm interested in learning more about the transfer fees you mentioned. Could you please provide me with some additional information?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0935300925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "64",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out. Could you please provide more information about the Steam wallet card? I'm not familiar with it. How does it work and what can it be used for?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.09356481481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "65",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Just go to the store and get the card\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkcy4)\t[2gkcy4]"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.09372685185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "66",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Final\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkcy7)\t[2gkcy7]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.09416666666666666,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "67",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out. Could you please provide me with more information about the card you mentioned? I want to make sure I understand what you're referring to before proceeding further.\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.09418981481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "68",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! How can I assist you today?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.09678240740740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "69",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Listen go to the store and get it\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkd6d)\t[2gkd6d]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.09697916666666667,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "70",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out. I'm sorry, but I'm not sure what you're referring to. Could you please provide more information or clarify your request? I'll do my best to assist you.\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.09703703703703703,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "71",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Stop asking stupid question and follow the instructions\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkd6r)\t[2gkd6r]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.09780092592592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "72",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello there! I hope you're having a great day. I'm sorry if my previous question seemed silly, but I'm genuinely interested in learning more about the Chase mortgage bank chat spike. Could you please provide me with some information?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0985763888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "73",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Steam wallet card is a gift card which serves as method of payment as we\r\nand you can get it at any store near you."
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.09902777777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "74",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for sharing that information about the Steam wallet card. I've heard of it before, but I'm not quite familiar with how it works. Could you please tell me more about how to use it and what stores typically sell them?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.1015625,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "75",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "The only thing you need to do right now is to go get the steam wallet card\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkdhw)\t[2gkdhw]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.1021412037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "76",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out. I'm curious, why do you think I need to get a steam wallet card? Can you please provide more information about it?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.10386574074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "77",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "How you can assist me today in getting your fund to yourself is to get the steam wallet card as requested\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkdnd)\t[2gkdnd]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.10457175925925925,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "78",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out. I'm curious to know more about how the steam wallet card can help me get my funds. Could you please explain further?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.10599537037037036,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "79",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Just get the steam wallet card the bank that is to transfer your fund need it as the method of your payment\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkdsg)\t[2gkdsg]"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.10626157407407408,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "80",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Can't you follow instructions given to you\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkdsu)\t[2gkdsu]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.10665509259259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "81",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out. I'm not quite sure I understand what you mean by getting a steam wallet card for the bank transfer. Could you please provide more information or clarify your request?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.10672453703703703,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "82",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! I hope you're doing well. I'm sorry, but I'm not sure what you mean by \"Can't you follow given to you.\" Could you please provide more context or clarify your message? I'm here to help if there's anything specific you'd like to discuss or share.\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.1104050925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "83",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "So you don't want to receive your fund\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gke34)\t[2gke34]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.11083333333333334,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "84",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out. I'm always interested in learning about different opportunities and information. Could you please tell me more about the fund you mentioned?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.11510416666666666,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "85",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Follow this transaction stop asking stupid question\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkee5)\t[2gkee5]"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.11525462962962962,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "86",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Follow the instructions\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkeec)\t[2gkeec]"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.11554398148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "87",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "The instructions give to you is what you should follow to receive your fund\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkeeu)\t[2gkeeu]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.1157175925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "88",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out. I'm interested in learning more about the information you have to share. Could you please provide me with some details about how I can receive my fund?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.11575231481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "89",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out. I'm here to help and answer any questions you may have. What can I assist you with today?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.11581018518518518,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "90",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! How can I assist you with the Chase mortgage bank chat spike?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.11721064814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "91",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Do I told you that I am asking any questions\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkeje)\t[2gkeje]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.1177662037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "92",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out. I'm happy to help answer any questions you may have. What information would you like to share?\n\nBest wishes,\nLucy"
+    },
+    {
+        "from": "scammer_391",
+        "to": "baiter_391",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.12488425925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "93",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Go to any store near you\n\n[Chase mortgage Bank - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gkf1t)\t[2gkf1t]"
+    },
+    {
+        "from": "baiter_391",
+        "to": "scammer_391",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.1255324074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "94",
+        "subject": "Re: Dear Beneficiary I'm here to i",
+        "body": "Hello! Thank you for reaching out. How can I assist you today?\n\nBest wishes,\nLucy"
+    }
+]

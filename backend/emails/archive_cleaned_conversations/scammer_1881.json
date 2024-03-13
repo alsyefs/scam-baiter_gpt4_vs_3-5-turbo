@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_1881",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  ATTENTION:",
+        "body": "  ATTENTION:\n \nTHIS IS MR.MICHAEL  WOOD GATE, THE HEAD OF THE DIPLOMATIC DELEGATES ASSIGNED FOR DELIVERING YOUR  CONSIGNMENT PACKAGE.\n \nPROCEED AND SEND THE FEE VIA MONEY GRAM OR OVER NIGHT MAIL\nNOTE THAT YOUR LUGGAGE WILL DELIVER AT \nI WAIT FOR YOUR IMMEDIATE COMPLIANCE TO THIS EFFECT. \nREGARDS,\nDIPLOMATIC MICHAEL WOODGATE   "
+    },
+    {
+        "from": "baiter_1881",
+        "to": "scammer_1881",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   ATTENTION:",
+        "body": "Hello Wood Gate,\n\nThank you for reaching out to me. I appreciate your assistance in delivering my package. However, before proceeding with any fees, I would like to gather some more information about the delivery process. Could you please provide me with the details of the package? What is it and where is it coming from?\n\nAdditionally, I would like to know more about the fee you mentioned. Could you please explain why there is a fee and what it covers? Is there any way to verify this information or confirm that this is a legitimate request?\n\nThank you for your understanding.\n\nBest wishes,\nVirginia"
+    },
+    {
+        "from": "scammer_1881",
+        "to": "baiter_1881",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: ATTENTION:",
+        "body": "*[image: NatWest][image: Helpful Banking]From the desk ofMr. Charles\r\nCummings,Director of ONLINE TRANSFERNatwest Bank Plc. London-England,*\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Thanks for your email response. We shall deliver your luggage to your\r\ndoorstep kindly proceed ,if you don't want delivery we can credit your\r\naccount via bank to bank transfer as soon as you pay the required fee of\r\n1,000 us dollars.Below is account details ;Bank: Truist Bank.Name: Lisa\r\nCook.Account number 1180007337142\r\n           Swift code: SNTRUS3ARouting number 083900680Home address: 5905\r\nAlanadale Drive Louisville, KY 40272Amount;1,000Best regards,Thank you and\r\nremain blessed,Mr. Charles Cummings,For; And on behalf of the Natwest Bank\r\nLondon United Kingdom*\r\n\r\n*[image: NatWest][image: Helpful Banking]*"
+    },
+    {
+        "from": "baiter_1881",
+        "to": "scammer_1881",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0006481481481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: ATTENTION:",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate your willingness to deliver my luggage to my doorstep. However, I would like some more information before proceeding.\n\nCould you please provide me with the details of the required fee? I want to make sure I understand the amount and the purpose of this fee.\n\nAdditionally, could you clarify how the bank-to-bank transfer works? I am interested in learning more about this option.\n\nBest wishes,\nVirginia"
+    },
+    {
+        "from": "scammer_1881",
+        "to": "baiter_1881",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.32077546296296294,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: ATTENTION:",
+        "body": "Thanks for your email response we shall credit your account as soon as you\r\npay the required fee of 1,000  you will receive the fee within 2 or 3\r\nhours.proceed and send the required fee as soon as possible.\r\n\r\nBelow is account details ;\r\n\r\nBank: Truist Bank.Name: Lisa Cook.\r\nAccount number 1180007337142\r\n\r\nSwift code: SNTRUS3A\r\nRouting number 083900680\r\nHome address: 5905 Alanadale Drive Louisville, KY 40272\r\nAmount;1,000"
+    },
+    {
+        "from": "baiter_1881",
+        "to": "scammer_1881",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6679050925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: ATTENTION:",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate your prompt response. However, I have a few questions before proceeding with the payment.\n\n1. Could you please provide more details about the fee that needs to be paid? What is it for and how much is the required amount?\n\n2. Can you explain the process of crediting my account once the fee is paid? How long does it usually take?\n\n3. Is there any specific deadline by which I need to make the payment?\n\nI look forward to your response and further clarification on these matters.\n\nBest wishes,\nVirginia"
+    }
+]

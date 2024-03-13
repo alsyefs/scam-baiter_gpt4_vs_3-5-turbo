@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2250",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "This from RBC Royal Bank of Ca",
+        "body": "This from RBC Royal Bank of Canada\n14 park ave Lac Du Bonnet Manitoba Canada\nUS$12,000,000,000.00 USD Payment Notification\nHello My Dear.\nYour message was well received. However, \nI am here taking an oath with the\n100% guaranteeing that you are not paying any other fee apart from this US\n$75 to receive your US$12,000,000,000.00 through on-line banking or ATM\nVisa Card will be delivered to your doorstep.\nyou are required to buy only ($75,usd) Steam Wallet Cards Or iTunes card.\nThe ONLY charge you will ever pay before your package will leave your\naddress. You will never pay a dime again as agreed and signed down here in\nCourt of Canada that you will never pay any other money apart from the\n($75,usd). SEND THE FEE ONLY TO US TO THIS SUPREME COURT AND WE WILL ORDER\nYOUR DELIVERY IMMEDIATELY TODAY OK.\nWe advise you to try as much as possible to see that you send the US$75\nimmediately after you receive this massage\nYours Faithfully,\nMr.David I McKay \nroyalbankofcanada@cheerful.com"
+    },
+    {
+        "from": "baiter_2250",
+        "to": "scammer_2250",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: This from RBC Royal Bank of Ca",
+        "body": "Hello there,\n\nThank you for your message. It's interesting to hear about this opportunity. I'm curious, could you please explain more about the Steam Wallet Cards? How do they work and why are they necessary for this process?\n\nAlso, could you provide more details about the package that will be delivered to my doorstep? What does it contain?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nHenry"
+    }
+]

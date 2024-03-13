@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2552",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Cross Keys Bank USA.",
+        "body": "Cross Keys Bank USA.\nContact Person: Mrs Rose Robert,\nAddress: 307 Plank Rd. Saint Joseph,\nLouisiana 71366 United States of America.\n$3.5 Millions USD Payment notification from Cross Keys Bank USA (RKBu).\nDear Email Owner,\nWe the Cross Keys Bank  Louisiana  USA are to Notify you about the latest development concerning your payment that are left in our custody, Besides, You are given a bill of Sum in order to receive your payment US $3.500,000.00 USD which we didn’t hear from you for sometime now. Hence, \nWe are now offering a Special BONUS to help all our customers that are having their payment in our custody due to high prices. In other words we are now requesting that you should pay only the sum of $50 to receive funds payment abandoned in our custody by online Transfer or ATM Card if you wish so.\nTherefore you are requested to send the fee $50 only by ITunes Card or Steam wallet card is also ACCEPTED because it can be redeemed to cash all we need is a picture of the card.\nI will be forwarding to you the account logging details to enable you access your funds online and proceed on transfer to your designated bank account in any part of the world or Tracking Number Of Your ATM Card Delivery to enable you Monitor the delivery of your ATM without any further delay as soon as you update us with the copy of the cards of the required fee $50 to take note.\nThank you for giving us the opportunity to serve your banking needs.\nMrs Rose Robert,\nChair Of the Cross Keys Bank USA.\nCo-chief Operating Officer,\nCross Keys Bank®\nCorporate Office, NY\nFederal Cross Keys Bank USA, N.A. Member FDIC."
+    },
+    {
+        "from": "baiter_2552",
+        "to": "scammer_2552",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Cross Keys Bank USA.",
+        "body": "Hello,\n\nThank you for reaching out to me from Cross Keys Bank USA. I appreciate you keeping me informed about my payment. However, I have a few questions before proceeding.\n\nCould you please provide more details about the Special BONUS you mentioned? How does it work and what benefits does it offer?\n\nAlso, I would like to know why there is a fee involved in receiving my payment. Can you explain the reason behind this fee?\n\nLastly, could you clarify how the online transfer or ATM card option works? Which method would be more secure and convenient for me?\n\nI look forward to your response.\n\nBest wishes,\nLuisa"
+    }
+]

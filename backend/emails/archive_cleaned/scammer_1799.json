@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1799",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Attn: ",
+        "body": "   Attn: \nHow are you today?\nThank you for your feedback and all is noted.\nGood day.\nBarrister samir battiss\nLegal practitioners.\n31 fairholme road, washwood heath, birmingham, west midlands b36 8hn,\nUnited kingdom.     "
+    },
+    {
+        "from": "baiter_1799",
+        "to": "scammer_1799",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    Attn: ",
+        "body": "Hello! I'm doing well, thank you for asking. How about yourself? I hope everything is going smoothly for you.\n\nI appreciate your response and taking note of my feedback. It's always important to have open communication. Is there anything specific you would like to discuss or share with me?\n\nAlso, I noticed that you mentioned being a barrister in the United Kingdom. That sounds quite interesting! Could you tell me a bit more about your work as a legal professional?\n\nBest wishes,\nDoug"
+    }
+]

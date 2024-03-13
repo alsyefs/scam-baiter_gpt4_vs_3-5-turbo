@@ -1,0 +1,432 @@
+[
+    {
+        "from": "scammer_850",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Sir,",
+        "body": "  Sir,\nWith sincere apology I seek your attention.I got your email contact on Europe email leads with your name.My name Mr Hamza Mohammed,i am a financial consultant.\nI have been details by late president Mahamat Deby Idriss of Chad republic family about his looted funds in million of dollars in different financial institutions in Europe.I want to know if you are credible to take possession of Investment Manager on behalf of the family.Don't hesitate to revert if you are interested.\nBest regards.\nMr Hamza   "
+    },
+    {
+        "from": "baiter_850",
+        "to": "scammer_850",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Sir,",
+        "body": "Hello Mr. Hamza,\n\nI hope this message finds you well. I am intrigued by your proposal and would like to learn more about it. Could you please provide me with more details? For instance, what kind of investments are we talking about? And how did the late president's family come to choose me for this task?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "scammer_850",
+        "to": "baiter_850",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re:   Sir,",
+        "body": "Mr. Shirley,\nFor security reason the family is very careful who to approach anybody fiscally. We considered it more safe and trusted to locate a neutral body to fix trust with him or her. Basically the family is interested in a sound ideas that can be transmitted in future for a steady cash flow. Hence we adopted the options to seek for partnership online via the use of internet search there your contact was discovered i send the proposal to you.\nIf you are competent to handle this transaction we can proceed then our private trusty firm will send the sum of $250m to your company account. Kindly revert asap to proceed on the procedures.\nMr. Hamza\n\nSent with [Proton Mail](https://proton.me/) secure email."
+    },
+    {
+        "from": "baiter_850",
+        "to": "scammer_850",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.28238425925925925,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re:   Sir,",
+        "body": "Hello Mr. Hamza,\n\nThank you for reaching out and considering me for this opportunity. I'm intrigued by your proposal and would love to learn more about it. Could you please provide more details about the nature of the project? What kind of sound ideas are you interested in? \n\nI'm looking forward to hearing from you soon.\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "scammer_850",
+        "to": "baiter_850",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.1774074074074075,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re:   Sir,",
+        "body": "Mr. Shirley,\nI received your email correspondence, sound ideas I meant is about any lucrative business plan, Estate, hotel business, or mall. Kindly send your WhatsApp number for fast communication. We estimate $280M kick off capital\nBest regards,\nMr.Hamza\n\nSent with [Proton Mail](https://proton.me/) secure email."
+    },
+    {
+        "from": "scammer_850",
+        "to": "baiter_850",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.6534722222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re:   From Mr Hamza",
+        "body": "Mr. Shirley,\nI received your email correspondence, sound ideas I meant is about any lucrative business plan, Estate, hotel business, or mall. Kindly send your WhatsApp number for fast communication. We estimate $280M kick off capital\nBest regards,\nMr.Hamza\n\nSent with [Proton Mail](https://proton.me/) secure email."
+    },
+    {
+        "from": "baiter_850",
+        "to": "scammer_850",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.1778125,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re:   Sir,",
+        "body": "Hello Mr. Shirley,\n\nI hope this message finds you well. I'm quite intrigued by your email and the sound ideas you've mentioned. It seems like you have a lot of experience in various fields such as estate, hotel business, and malls.\n\nCould you please provide more details about these plans? What kind of capital are we looking at to kick things off? Also, it would be great if we could discuss this over a call. Could you please share your contact number?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "baiter_850",
+        "to": "scammer_850",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.470740740740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re:   From Mr Hamza",
+        "body": "Hello Mr. Shirley,\n\nI hope this message finds you well. I'm quite intrigued by your email and the potential business opportunities it presents. Whether it's a lucrative business plan, estate, hotel business, or mall, I'm all ears!\n\nCould you please provide more details about these ventures? What kind of capital are we looking at to kick things off? \n\nLooking forward to hearing from you soon.\n\nPlease note that for security reasons, I prefer to keep our conversation here on email rather than sharing my phone number.\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "baiter_850",
+        "to": "scammer_850",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.811550925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re:   Sir,",
+        "body": "Hello Mr. Hamza,\n\nThank you for reaching out and considering me for this opportunity. I'm quite intrigued by your proposal and would love to learn more about it. Could you please provide more details about the nature of this project? What kind of ideas are the family interested in? \n\nI must clarify that while I am open to discussions, I won't be able to share any personal or financial information online for security reasons.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "baiter_850",
+        "to": "scammer_850",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.470335648148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re:   Sir,",
+        "body": "Hello Mr. Shirley,\n\nI'm delighted to hear from you and your intriguing ideas about a potential business venture. It's always exciting to discuss new opportunities, especially in areas such as real estate, the hotel industry, or even a shopping mall.\n\nCould you please provide more details about this plan? What kind of capital are we looking at for the initial phase? And how do you envision our collaboration moving forward?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "scammer_850",
+        "to": "baiter_850",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.814826388888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re:   From Mr Hamza",
+        "body": "Mr.Shirley,\nView the video very well my late client consignment is among those consignments there you are watching. Don't too bother about the security provide your information let us proceed.\nMr Hamza\n\nSent with [Proton Mail](https://proton.me/) secure email."
+    },
+    {
+        "from": "baiter_850",
+        "to": "scammer_850",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.824270833333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re:   From Mr Hamza",
+        "body": "Hello Mr. Hamza,\n\nThank you for your message and the video you mentioned. I'm really interested in learning more about your late client who is featured in the video. Could you please tell me more about him? What was his profession or what did he do for a living?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "scammer_850",
+        "to": "baiter_850",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.830405092592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re:   From Mr Hamza",
+        "body": "late president Mahamat Deby Idriss of Republic of Chad, the looted by the president while he was alive.\n\nSent with [Proton Mail](https://proton.me/) secure email."
+    },
+    {
+        "from": "scammer_850",
+        "to": "baiter_850",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.8319675925925925,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re:   From Mr Hamza",
+        "body": "The late president looted the funds from chad treasury while he was alive.Now in detail i want to know about you\n\nSent with [Proton Mail](https://proton.me/) secure email."
+    },
+    {
+        "from": "baiter_850",
+        "to": "scammer_850",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.845879629629629,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re:   From Mr Hamza",
+        "body": "Hello there,\n\nWow, that's quite an interesting piece of information you've shared about the late president. I'm always eager to learn more about world events and politics. Could you perhaps elaborate more on this situation? How did it come to light? And what has been the impact on Chad's economy?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "baiter_850",
+        "to": "scammer_850",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.8464583333333335,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re:   From Mr Hamza",
+        "body": "Hello there,\n\nThank you for sharing this information with me. It's always interesting to learn about global events and figures. The late president Mahamat Deby Idriss was indeed a significant figure in the Republic of Chad.\n\nCould you please elaborate more on what you mean by \"the looted by the president while he was alive\"? Are you referring to any specific incidents or actions taken by him? \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "scammer_850",
+        "to": "baiter_850",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.6633912037037035,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re:   From Mr Hamza",
+        "body": "Sir,\nI received your mail okay though complicating, because you are deviating from our initial subject matter re-investment of his funds with a trusted foreign partner.Looted means he unofficially carry Republic of Chad public funds, and converted to his personal properties.\nApril 2021 on the 20 it was confirmed by Chad Army that president Idriss killed in battle with rebels that ending his 30- years grip on power.\nIf you are ready for business let me know.\nbest regards,\nMr.Hamza\n\nSent with [Proton Mail](https://proton.me/) secure email."
+    },
+    {
+        "from": "baiter_850",
+        "to": "scammer_850",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.678726851851851,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re:   From Mr Hamza",
+        "body": "Hello,\n\nThank you for your email. I'm intrigued by the information you've shared about the situation in Chad. It's quite a significant event, isn't it? \n\nI'm curious to know more about this business opportunity you mentioned. Could you please provide some more details? What exactly does it involve?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "scammer_850",
+        "to": "baiter_850",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.668784722222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re:   Sir,",
+        "body": "Mr.Shirley\n\nThe initial capital $280M,our collaborations very simple first i will refer you to correspondent office in Belgium where you will witness the capital live. Then we proceed to draft contractual agreement and the MOU. If you consider this procedures workable with your schedules kindly revert for further directives to meet the contact person in Belgium.\nMr Hamza\n\nSent with [Proton Mail](https://proton.me/) secure email."
+    },
+    {
+        "from": "baiter_850",
+        "to": "scammer_850",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.678622685185186,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re:   Sir,",
+        "body": "Hello Mr. Hamza,\n\nThank you for your message and the information provided. It sounds like an interesting opportunity. I'm curious to know more about this capital in Belgium. Could you please elaborate on what exactly I would be witnessing there? \n\nAlso, could you provide some more details about the agreement and MOU that we would be drafting? What kind of terms or conditions might they include?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "scammer_850",
+        "to": "baiter_850",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.217789351851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Re:   Sir,",
+        "body": "Good day,\nAttached herewith contract agreement and MOU template.\n\nSent with [Proton Mail](https://proton.me/) secure email."
+    },
+    {
+        "from": "baiter_850",
+        "to": "scammer_850",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.220752314814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re:   Sir,",
+        "body": "Hello there,\n\nI hope this message finds you well. Thank you for sending over the contract agreement and MOU template. I appreciate your prompt response.\n\nBefore we proceed, could you kindly provide me with a brief overview of the key points in these documents? I would like to understand them better before diving into the details.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "scammer_850",
+        "to": "baiter_850",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.79287037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "22",
+        "subject": "Re:   Sir,",
+        "body": "Mr. Shirley,\nGood Morning,\nThe brief overview or core interest, the general outlook of these huge noble transactions based on trust, commitment observe the rules carefully, expenses 10% estimated for your traveling tickets, hotel reservations and internal welfares, and the administrative handling charges at Belgium to enhances easy transfer, of the total bounded funds of $280M to your account before you leave Belgium to your destination.\nBut to implement the above responsibilities you must have signed the agreement and also convince me with the summary of your business plan to ensure that you will not mess up the family investment.\nRespect,\nMr.Hamza\n\nSent with [Proton Mail](https://proton.me/) secure email."
+    },
+    {
+        "from": "baiter_850",
+        "to": "scammer_850",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.803657407407407,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "23",
+        "subject": "Re:   Sir,",
+        "body": "Hello,\n\nThank you for your email and the information provided. It's quite interesting to learn about the noble trust and commitment involved in this process. I'm curious, could you please elaborate more on how these expenses are estimated? And what exactly does it mean by \"internal welfares\"?\n\nAlso, I'd love to understand more about the agreement that needs to be signed. Could you provide some details on what it entails?\n\nAs for my business plan, I'm still working on refining it but would be happy to share a brief summary once it's ready.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "scammer_850",
+        "to": "baiter_850",
+        "direction": "Inbound",
+        "days_from_first_conversation": 13.244155092592592,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "24",
+        "subject": "Re:   Sir,",
+        "body": "Mr.Shirley\n\nNoble trust I meant, dealing with ex-president immediate family is noble recognition to your status. Commitment I meant Symbolized unwavering attention needed to see the business through and also anticipated cooperation from you. Estimated expenses is not in my capacity to decide or even make any input on the expenses. The fiduciary staff is in a better position to air his voice on that.\nThe internal welfares is about your taxi movement hotel bills and the handling charges to view the consignment, boxes before you lay claim and take charge. Kindly study the agreement I think you will have a better understanding. And please be fast about your business plan, do let me know when you are planning to travel to Belgium.\nMr Hamza\n\nSent with [Proton Mail](https://proton.me/) secure email."
+    },
+    {
+        "from": "baiter_850",
+        "to": "scammer_850",
+        "direction": "Outbound",
+        "days_from_first_conversation": 13.262002314814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "25",
+        "subject": "Re:   Sir,",
+        "body": "Hello Mr. Hamza,\n\nThank you for your detailed response. I appreciate the time you've taken to explain these matters to me. I must admit, some of this is a bit over my head, but I'm eager to understand more.\n\nCould you please elaborate on what you mean by \"noble trust\"? Also, when you mention \"commitment\", are there specific actions or behaviors that would demonstrate this?\n\nRegarding the estimated expenses and internal welfares, could you provide a rough estimate? I understand that the fiduciary staff would have more accurate information, but having a ballpark figure would help me plan better.\n\nLastly, about traveling to Belgium - could you tell me more about what this trip would entail? What kind of preparations should I make?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "scammer_850",
+        "to": "baiter_850",
+        "direction": "Inbound",
+        "days_from_first_conversation": 13.608229166666666,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "26",
+        "subject": "Re:   Sir,",
+        "body": "Mr,Shirley,\nYour email correspondence received. I am in position to advise you correctly doing so i think is better you study the agreement carefully and ask substantial questions that would have effect in parties intentions on the documents contents. I understand your inquisitiveness there's nothing to worry about.\nMake your decision if the family can reinvest these funds in your care. I expecting you to detailed me about yourself. Kindly update me about the following:\n1.Your international passport\n2.Marital status\n3.Your profession\n4.Your estimated net worth\nThe above interested requirements will determine our further correspondences.\nBest regards.\nMr.Hamza\n\nSent with [Proton Mail](https://proton.me/) secure email."
+    },
+    {
+        "from": "baiter_850",
+        "to": "scammer_850",
+        "direction": "Outbound",
+        "days_from_first_conversation": 13.615405092592592,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "27",
+        "subject": "Re:   Sir,",
+        "body": "Hello,\n\nThank you for your email and the opportunity to be involved in this venture. I appreciate your trust in me. However, I must apologize as I am not comfortable sharing personal details such as my passport information, status, profession, and estimated net worth over email due to privacy concerns.\n\nI would love to learn more about the investment opportunity though. Could you please provide more details about it? What kind of business is it? How does it operate? And what would be my role and responsibilities?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "scammer_850",
+        "to": "baiter_850",
+        "direction": "Inbound",
+        "days_from_first_conversation": 14.689699074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "28",
+        "subject": "Re:   Sir,",
+        "body": "Mr.Shirley,\n\nI send to you investment agreement and MOU to study and you left it aside, the agreement should be your guideline and the business highlight what else you want to know about the investment. The family Investment is the capital assets, expressing work force or the type of investment is in your custody to explain to us in your business plan. Some of these repeated questions you asked are competent to disqualify you. I seek to know your details you declined. With sincere apology you left me doubt about your competent.\nBest regards,\nMr.Hamza\n\nSent with [Proton Mail](https://proton.me/) secure email."
+    },
+    {
+        "from": "baiter_850",
+        "to": "scammer_850",
+        "direction": "Outbound",
+        "days_from_first_conversation": 14.698784722222221,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "29",
+        "subject": "Re:   Sir,",
+        "body": "Hello,\n\nThank you for your message and the documents you've sent over. I appreciate your patience with me as I navigate through this process. I'm still trying to understand some aspects of the investment agreement and MOU, so please bear with me.\n\nCould you perhaps explain a bit more about the capital assets involved in The Family Investment? Also, could you provide some insight into what kind of workforce is expected for this type of investment?\n\nI apologize if my questions seem repetitive or basic, but I believe it's important to fully understand all aspects before making any decisions. As for my personal details, I hope you understand that it's just a matter of privacy and security on my part.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "scammer_850",
+        "to": "baiter_850",
+        "direction": "Inbound",
+        "days_from_first_conversation": 15.689594907407407,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "30",
+        "subject": "Re:   Sir,",
+        "body": "Mr.Shirley,\nIn pursuance of credible investment manager Agreement and Mou was drafted to safeguards the liberty of parties involved. It highlighted the obligations of each party and their limitations and jurisdiction. When you seek to know the details of your involvement and limitation I send to you the template of agreement, and I expect that you might have taken your time to study it very well, is either you pen down your assent or veto it.\nYou practically and undoubtedly put me in dust continuing asking repeated questions that is not directly in our agreement template, after this comprehensive explanation I expect you to take position anything short of that I shall decline any further correspondence with you.\nAbout the workforce to reduce stress we narrow to Estate business. The target and the kick off investment capital $280M.The total amount shall be directly wire to your account. 10% set aside for all the expenses that you might incurred. Flight ticket hotel reservations, taxi expenses and administrative charges during the processes and procedures like the legalization/notarization stamp duties for declaration of the fund to your company's name/bank account.\nAll the require procedures is sacrosanct, declaration of the funds to your name at the ministry of justice, hence your protection and the transaction. To avoid any recourse or questioning from the EU financial inspectorates and agents. To make sure the investment funds get to investment manager account without any challenge from the financial monetary monitoring agencies.\nBest regards,\nMr Hamza\n\nSent with [Proton Mail](https://proton.me/) secure email."
+    },
+    {
+        "from": "baiter_850",
+        "to": "scammer_850",
+        "direction": "Outbound",
+        "days_from_first_conversation": 15.698715277777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "31",
+        "subject": "Re:   Sir,",
+        "body": "Hello Mr. Hamza,\n\nThank you for your detailed message. I must admit, some of the terms and procedures you mentioned are a bit complex for me to understand fully. Could you perhaps simplify it a bit? \n\nYou mentioned an investment manager agreement and MOU, could you explain what these are in simpler terms? Also, when you say \"the target and the kick off investment capital total amount shall be directly wire to your account\", does this mean that I will be receiving funds?\n\nI'm also curious about the estate business you mentioned. Is this related to real estate? If so, could you provide more details about how this works?\n\nLastly, I noticed that there seems to be a lot of emphasis on protection and avoiding any issues with financial monitoring agencies. Could you elaborate more on why this is important?\n\nLooking forward to hearing from you.\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "scammer_850",
+        "to": "baiter_850",
+        "direction": "Inbound",
+        "days_from_first_conversation": 17.26596064814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "32",
+        "subject": "Re:   Sir,",
+        "body": "Mr.Shirley,\nTell me about yourself if must proceed from here.\nMr Hamza\n\nSent with [Proton Mail](https://proton.me/) secure email."
+    },
+    {
+        "from": "baiter_850",
+        "to": "scammer_850",
+        "direction": "Outbound",
+        "days_from_first_conversation": 17.30877314814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "33",
+        "subject": "Re:   Sir,",
+        "body": "Hello Mr. Hamza,\n\nThank you for your message. I'm a simple person who enjoys the little things in life, like reading books and spending time with my family. I'm always eager to learn new things and meet new people.\n\nI'd love to hear more about what you do. Could you tell me more about your work or hobbies?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "scammer_850",
+        "to": "baiter_850",
+        "direction": "Inbound",
+        "days_from_first_conversation": 21.40048611111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "34",
+        "subject": "Re:   Sir,",
+        "body": "Mr. Shirley\nI am a financial consultant. In pursuance of our ongoing transaction is clear to me by all indications that you are not a businessman. With due respect continue on business correspondence with you might be a waste of my time.\nMr.Hamza\n\nSent with [Proton Mail](https://proton.me/) secure email."
+    },
+    {
+        "from": "baiter_850",
+        "to": "scammer_850",
+        "direction": "Outbound",
+        "days_from_first_conversation": 21.43166666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "35",
+        "subject": "Re:   Sir,",
+        "body": "Hello Mr. Shirley,\n\nThank you for reaching out to me. I appreciate your honesty and understand your concerns. However, I believe that every conversation is an opportunity to learn something new.\n\nCould you please elaborate on why you think continuing business with me might be a waste of time? Is there anything specific that makes you feel this way?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "baiter_850",
+        "to": "scammer_850",
+        "direction": "Outbound",
+        "days_from_first_conversation": 21.515439814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "36",
+        "subject": "Re:   Sir,",
+        "body": "Hello Mr. Shirley,\n\nThank you for reaching out to me. I'm always interested in learning about new financial opportunities. Could you please provide more details about the business you're referring to? I'd love to understand better how it works and what it involves.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "baiter_850",
+        "to": "scammer_850",
+        "direction": "Outbound",
+        "days_from_first_conversation": 21.599953703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "37",
+        "subject": "Re:   Sir,",
+        "body": "Hello Mr. Shirley,\n\nThank you for reaching out to me. I'm always interested in learning about new financial opportunities. Could you please provide more details about the business you're referring to? I'd love to understand better how it works and what would be expected of me.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "scammer_850",
+        "to": "baiter_850",
+        "direction": "Inbound",
+        "days_from_first_conversation": 22.257453703703703,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "38",
+        "subject": "Re:   Sir,",
+        "body": "Mr. Shirley\nI declined any further email correspondence with you .\nThank you\n\nSent with [Proton Mail](https://proton.me/) secure email."
+    },
+    {
+        "from": "baiter_850",
+        "to": "scammer_850",
+        "direction": "Outbound",
+        "days_from_first_conversation": 22.391493055555557,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "39",
+        "subject": "Re:   Sir,",
+        "body": "Hello there,\n\nI hope this message finds you well. I understand that Mr. Shirley has declined further email communication with me, but I was wondering if there's any particular reason for this decision? \n\nI'm just a simple person trying to share some information and learn from others. Is there anything I can do to change his mind or perhaps someone else I could communicate with instead?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "scammer_850",
+        "to": "baiter_850",
+        "direction": "Inbound",
+        "days_from_first_conversation": 23.185219907407408,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "40",
+        "subject": "Re:   Sir,",
+        "body": "I hate been delay to utilize business opportunity. Your unending inquisitiveness is becoming heady and charm. Watch the videos a client consignment is amongst those many boxes i need a receiver for safe keeping.\nMr Hamza\n\nSent with [Proton Mail](https://proton.me/) secure email."
+    },
+    {
+        "from": "baiter_850",
+        "to": "scammer_850",
+        "direction": "Outbound",
+        "days_from_first_conversation": 23.223275462962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "41",
+        "subject": "Re:   Sir,",
+        "body": "Hello Mr. Hamza,\n\nThank you for reaching out and sharing this information with me. I'm intrigued by your message, although I must admit, I'm a bit confused about the details. Could you please elaborate more on these videos and boxes that need safekeeping? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "baiter_850",
+        "to": "scammer_850",
+        "direction": "Outbound",
+        "days_from_first_conversation": 23.223425925925927,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "42",
+        "subject": "Re:   Sir,",
+        "body": "Hello Mr. Hamza,\n\nThank you for reaching out to me. I'm intrigued by your message, although I must admit, I'm a bit confused about the details. Could you please elaborate more on these videos and boxes that need safekeeping? \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nShirley"
+    }
+]

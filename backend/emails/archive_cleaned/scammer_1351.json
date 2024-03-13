@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1351",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello Dear friend,",
+        "body": "Hello Dear friend,\nI feel comfortable contacting you after going through your profile on your country webpage.\nThe purpose of this letter lies in the information I found in your Country regarding your COUNTRY investment prospect:\n“Your Country has issued Decision 667 approving the Foreign Investment Cooperation Strategy for the period 2021-2030 on reforming the business environment and increasing foreign investment from a number of countries. Therefore, the Government is making efforts to improve foreign investment in both quantity and quality, especially in the fields of high technology and digital economy. Here,  Briefing highlights the main points that investors need to keep in mind when your government implements a new strategy on foreign investment cooperation.\"\nCan I trust you to transfer my investment fund to your Country under your management?. I look forward to hearing from you soon on your suggestions and responses to my investment proposal in your country.\nBest regards\nMr. Josip R."
+    },
+    {
+        "from": "baiter_1351",
+        "to": "scammer_1351",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello Dear friend,",
+        "body": "Hello Mr. Josip R.,\n\nIt's a pleasure to hear from you and thank you for considering my country as a potential place for your investment. The news about the government's decision to improve foreign investment is indeed exciting.\n\nCould you please provide more details about the nature of your investment? What kind of business are you planning to invest in? And how do you think this will benefit our economy?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAnthony"
+    }
+]

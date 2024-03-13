@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_1681",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "GOOD DAY",
+        "body": "GOOD DAY\n we have concluded to Send your payment through Money Gram money\ntransfer $4,000.00 daily until the total fund of ($2.5MILLION ) is\ncompletely transferred. Meanwhile, Mr Hector Giroud has Send you\n$4,000.00 in your name today. So contact Mr Hector Giroud, through\nMoney\nGram money transfer payment Agent to SEND you the MTCN to pick up this\n$4000 now:\nCONTACT PERSON: Mr Hector Giroud\nCONTACT him (\nmoneygramtransfer763@gmail.com\n)\nPlease remember to Call and ask him to give you the Reference Number,\nsender name, question and answer to pick up the $4000.00. \nAlso you\nshould send to him your information to cross check it to avoid\nmistake.\nReceiver's Name________________\nAddress: ______________________\nCountry: ______________________\nPhone Number: _________________\nYour Occupation _______________\nI.D Card\n:______________________\nThough, Mr Hector Giroud has sent $4000 in your name today so contact\nMr Hector Giroud or you whatsapp him (+229)99751395  as soon as you\nreceive\nthis email and tell him to give you the Reference Number, sender name\nand question/answer to pick the $4000 Please let us know as soon as\nyou\nreceived all your fund.\nBest Regards.\nmrs deborah mgbogi"
+    },
+    {
+        "from": "baiter_1681",
+        "to": "scammer_1681",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: GOOD DAY",
+        "body": "Hello Mrs Deborah Mgbogi,\n\nThank you for your message. It's quite exciting to hear about this payment through Money Gram. I'm a bit confused though, could you please explain more about the process? How does it work exactly?\n\nAlso, you mentioned a Mr Hector Giroud. Who is he and what is his role in this? \n\nI'm looking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nDean"
+    },
+    {
+        "from": "scammer_1681",
+        "to": "baiter_1681",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: GOOD DAY",
+        "body": "sorry I respond to you lately, the issue here is that Hector Giroud is the\r\nin charge of the transfer through MoneyGram transfer, though we wanted to\r\nmake the transfer to you on Thursday but the government here said that\r\nthere some documents here that accompany your funds that need to be sign by\r\nan attorney before transferring your funds, meanwhile the attorney said you\r\nmust pay him the sum of $329 before signing those documents, so I suggest\r\nyou get the fee and send across urgently so that we will proceed and\r\ntransfer your funds ok"
+    },
+    {
+        "from": "baiter_1681",
+        "to": "scammer_1681",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.192638888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: GOOD DAY",
+        "body": "Hello there,\n\nThank you for getting back to me. I appreciate your patience and understanding. It's interesting to hear about Hector Giroud being in charge of the transfer. \n\nI'm a bit confused about the documents that need to be signed by an attorney. Could you please elaborate more on what these documents are? Also, why is it necessary for an attorney to sign them?\n\nAs for the fee, could you provide more details? What exactly is this fee for and how was it calculated?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDean"
+    },
+    {
+        "from": "scammer_1681",
+        "to": "baiter_1681",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.364236111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: GOOD DAY",
+        "body": "the documents are the one that show that you are the main owner of the\r\nfunds, and according to the law of this country, the attorney must be the\r\none to sign those documents"
+    },
+    {
+        "from": "baiter_1681",
+        "to": "scammer_1681",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.380636574074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: GOOD DAY",
+        "body": "Hello there,\n\nThank you for sharing this information with me. It's quite interesting to learn about the legal procedures in your country. So, if I understand correctly, the attorney is the one who signs these documents on behalf of the main owner of the funds? \n\nCould you please explain a bit more about how this process works? For instance, what kind of documents are we talking about here? And why is it necessary for an attorney to sign them instead of the actual owner?\n\nI'm really curious to know more about this. Thanks again for enlightening me!\n\nBest wishes,\nDean"
+    }
+]

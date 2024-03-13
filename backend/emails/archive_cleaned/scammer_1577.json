@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1577",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Dear Sir,",
+        "body": "   Dear Sir,\nIt gives me an immense pleasure to inform you that consequent upon\nceaseless and sincere efforts of our visionary, Chief Economist of IMF,\nMs Kristalina Ivanova Georgieva-Kinova, the current Managing Director\n(MD) and Chairwoman of the IMF has approved your payment and issued an\nATM MasterCard in your name. Your payment has been successfully\nprocessed and your ATM MasterCard is ready for pick up.\nThe actualization of the above subject matter will be conducted under a\nlegitimate arrangement which will protect both parties from any breach\nof law. Please write down your real and correct name, address and Funds\npayment amount, for verification of information and data validation.\nFull name:\nAddress:\nCountry:\nTelephone number:\nFunds payment amount:\nGovernment issued ID copy:\nReply to:  <ultra20010@outlook.com>\nWe conduct our business in accordance with all applicable laws and\nregulations. All you need to receive your fund in ATM MasterCard (along\nwith the monetary documents that ensure its withdrawal) is a notarized\nAffidavit of Claim for the release of this sum of money to you as the\nsole beneficiary, which is a laid down procedure in the financial\ninstitution for a situation like this and it is a basic requirement for\nyou to\nsuccessfully claim the funds.  Please be assured that your ATM parcel\nwill be dispatched immediately to your given address in 1 - 2 business\ndays once we confirm your payment, at the same time, we will email a new\ninvoice to you with the tracking number, and you will be tracking your\nshipment online in 48 hours till you receive it. We would like you to\nplace your trust and confidence in our firm, and I assure you that we\nwill do everything possible to provide excellent service.\nYour prompt response would be highly appreciated.\nVery truly yours,\nAlessandro Gullo\nDebt Collection Attorney\nInternational Debt Recovery Committee      "
+    },
+    {
+        "from": "baiter_1577",
+        "to": "scammer_1577",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Dear Sir,",
+        "body": "Hello Alessandro Gullo,\n\nThank you for your email and the exciting news about the ATM card. I must say, it's not every day that one receives such an opportunity. \n\nI'm curious to know more about this process. Could you please elaborate on how this ATM card works? And what exactly is a notarized Affidavit of Claim? Is there any specific procedure I need to follow to get it?\n\nAlso, could you provide more details about the tracking system? How can I track my shipment online?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMaria"
+    }
+]

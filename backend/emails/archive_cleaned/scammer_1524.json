@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1524",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "My name is Marian Andersson I ",
+        "body": "My name is Marian Andersson I am working with Westpac at the international remittance department in Brisbane Australia. I am contacting you because of an over-invoiced contract sum acquired from the energy sector. I chose you because I got your contact and credibility through an online search engine here.\nThe over-invoiced contract amount is $15Million USD and all paperwork, all international legal procedures, ethics, fiscal and financial policy rules are taken care of.\nAll documents that are required to be acquired at the various ministries involved to support the claim will be acquired in your name and charges for it will be paid in full.  \nAll I need from you is to send your full information and bank details to receive the money. \nWe will share 55percent for me, 5percent for charity, and 40 percent for you.\nMarian Andersson"
+    },
+    {
+        "from": "baiter_1524",
+        "to": "scammer_1524",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: My name is Marian Andersson I ",
+        "body": "Hello Marian Andersson,\n\nThank you for reaching out to me. I appreciate you considering me for this opportunity. Can you please provide me with more details about the contract and the energy sector it is related to? I would like to understand the nature of the work before proceeding further.\n\nAdditionally, could you clarify how the funds will be distributed between us, charity, and any other parties involved? It would be helpful to have a clear understanding of the financial arrangement.\n\nLooking forward to your response.\n\nBest wishes,\nPamela"
+    }
+]

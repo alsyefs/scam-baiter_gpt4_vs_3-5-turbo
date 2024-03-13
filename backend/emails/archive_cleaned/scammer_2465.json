@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2465",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Dear Valued Customer,",
+        "body": "   Dear Valued Customer,\nSequel to our database report, we write to inform you that we received\nremittance instructions from the International Monetary Fund to\nrelease your approved outstanding payment amounting to the sum of\n25.7Million USD. to you.  to ensure that all the unpaid beneficiaries\nwill receive their payment in this First quarter of the year without\nany delay. Moreover, this payment exercise has one modes of payment,\nwhich is by ATM card delivery, And you are advised to reconfirm your\ninformation below.\nThis payment was approved in your name by the Management Board of the\nInternational Monetary Fund and we have been instructed to release the\npayment to you from the International Monetary Fund Escrow Bank\nAccount with United Bank For Africa Group.\nWe have been instructed to release your payment after the processing\nof your remittance legal framework. Therefore, we advise you to ensure\nyou furnish us with the below information.\nFull name:\nContact address:\nTel/Fax:\nNationality:\nOccupation:\nDate of birth:\nMarital status:\nAmount : $25.7Million USD\nWe advise you to present the above information accurately for our\nperusal and final verification of your payment file. As soon as we\nreceive the above needed information and complete the final\nverification process, we shall educate you on the process which has\nbeen mastered to facilitate your payment.\nWe await your urgent response.\nYours faithfully,\nLt General James Morgan (Rtd)\nNational Security Adviser to the President\nFederal Republic of Nigeria.\nWhatsapp Cell:+234-8022 565 551  "
+    },
+    {
+        "from": "baiter_2465",
+        "to": "scammer_2465",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Dear Valued Customer,",
+        "body": "Hello Lt General James Morgan Rtd,\n\nThank you for reaching out to me. I'm thrilled to hear about this payment, it's quite a surprise! \n\nI'm curious about the Monetary Fund you mentioned. Could you tell me more about it? How does it work and how was my name selected for this payment?\n\nAlso, could you please explain more about the ATM card delivery method? It sounds interesting but I've never heard of receiving payments in that way before.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nHeather"
+    }
+]

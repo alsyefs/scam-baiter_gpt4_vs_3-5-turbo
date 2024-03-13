@@ -1,0 +1,222 @@
+[
+    {
+        "from": "scammer_772",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello",
+        "body": "  Hello\nWe are currently in search of an International Business Representative, contact us for details if interested:\nYours truly,\nFabio De Campos Padilha\nFCP Management and Consulting Ltd.\n "
+    },
+    {
+        "from": "baiter_772",
+        "to": "scammer_772",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello",
+        "body": "Hello Fabio,\n\nThank you for reaching out. I'm intrigued by your proposal and would love to learn more about this business opportunity. Could you please provide me with some additional details? What kind of business are we talking about here? And what would be my role in it?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJoan"
+    },
+    {
+        "from": "scammer_772",
+        "to": "baiter_772",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Hello",
+        "body": "Hello  Joan,\r\n\r\nI have read your mail, and I think I have a brief insight of the project.\r\n\r\nI work with a United states elite group with an asset management team in\r\nthe United Kingdom. They announced their interest in last August to start\r\nsponsoring valuable investment projects from any sector.\r\n\r\nI have been working with consultants from Eastern Europe, Middle East and\r\nfew states in the USA but we have not found a suitable projects to confirm\r\nthe interest with my team.\r\n\r\nI figured this would be a good point of discussion with the integral\r\npartners.\r\n\r\nI am anticipating your response, hence my interest is piqued, and I and my\r\nteam have declared interest to place the $80 million on the project for 15\r\nto 20 years as a JVC with the expectation of 10% as ROI.\r\n\r\nI need you to answer these few questions so I can share more information\r\nwith him.\r\n\r\nAre you the principal project owner/manager?\r\n\r\nAre you able to travel to meet in person on a round table to finalize the\r\nclosing?\r\n\r\nLet me know your thoughts and feel free to ask any questions.\r\n\r\nYours respectfully,\r\nFabio De Campos Padilha\r\nDirector.\r\n\r\nFCP MANAGEMENT AND CONSULTING LTD\r\nSUTTON LANE,CITY HOUNSLOW,\r\nZIP CODE: TW3 3BB\r\nUNITED KINGDOM\nTel No:+44 7452 113102\r\nWhatsApp:+44 7706 881596\r\nE-mail: fabiocamposde@gmail.com\r\nEmail: info@fcpconsult.uk\r\nEmail: enquiry@fcpconsult.uk\r\nEmail: fabiodecampos@fcpconsult.uk\r\nEmail: fcp.consulting@fcpconsult.uk\r\nWebsite: https://www.fcpconsult.uk"
+    },
+    {
+        "from": "baiter_772",
+        "to": "scammer_772",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0006944444444444445,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Hello",
+        "body": "Hello Fabio,\n\nThank you for your response and the interest in my project. It's great to hear that your team is considering investing in various sectors. I'm sure we can find a common ground for our interests.\n\nTo answer your questions, yes, I am the principal project owner and manager. As for traveling, it would depend on the current situation with travel restrictions due to the pandemic. However, I am open to virtual meetings or any other form of communication that suits us both.\n\nCould you please share more details about what kind of projects your team is interested in? Also, could you elaborate on what you mean by JVC and ROI?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJoan"
+    },
+    {
+        "from": "scammer_772",
+        "to": "baiter_772",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.03214120370370371,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Hello",
+        "body": "Hello  Joan,\r\n\r\nWell, we are happy to work with you, and hopefully, we can work together\r\nlonger than the investment term. And I also would want you have in mind\r\nthat our decisions are collectively deliberated and absolutely have got no\r\nhidden intentions.\r\n\r\nJVC simply means joint venture, while ROI means abbreviation for return on\r\ninvestment, the amount of interest or profit you earns on the projects.\r\n\r\nWe intend to build Academies which shall accommodate several workshops and\r\nalso open up business empires that shall involve these group people our\r\nhearts are going out for. We shall rely on your experience and expertise\r\nfor these investments around the world\r\n\r\nWe are deliberating on your physical visit to a zoned office in Belgium\r\nBrussels) where funds presently are to sign off the fund to your bonafide\r\nchoice destination.\r\n\r\nPlease do throw more light with regards to your projects which you would\r\nwant to Inventure into, and what level of success you will achieve and the\r\namount you will be needing to achieve this goal.\r\n\r\nYours respectfully,\r\nFabio De Campos Padilha\r\nDirector.\r\n\r\nFCP MANAGEMENT AND CONSULTING LTD\r\nSUTTON LANE,CITY HOUNSLOW,\r\nZIP CODE: TW3 3BB\r\nUNITED KINGDOM\nTel No:+44 7452 113102\r\nWhatsApp:+44 7706 881596\r\nE-mail: fabiocamposde@gmail.com\r\nEmail: info@fcpconsult.uk\r\nEmail: enquiry@fcpconsult.uk\r\nEmail: fabiodecampos@fcpconsult.uk\r\nEmail: fcp.consulting@fcpconsult.uk\r\nWebsite: https://www.fcpconsult.uk"
+    },
+    {
+        "from": "baiter_772",
+        "to": "scammer_772",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.032615740740740744,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Hello",
+        "body": "Hello Fabio,\n\nThank you for your detailed response. It's great to hear about the joint venture and return on investment opportunities with FCP Management and Consulting Ltd. The idea of building academies and business empires sounds very promising.\n\nI'm curious, could you tell me more about these workshops that will be part of the academies? What kind of topics or skills will they cover?\n\nAlso, I'm intrigued by the physical visit to the zoned office in Belgium Brussels. Could you provide more details about what this visit would entail?\n\nAs for my projects, I have a few ideas in mind but I'd like to understand more about your company's areas of expertise and interest before I share them. Could you tell me more about the types of projects FCP Management and Consulting Ltd has been involved with in the past?\n\nLooking forward to hearing from you.\n\nBest wishes,\nJoan"
+    },
+    {
+        "from": "scammer_772",
+        "to": "baiter_772",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.12274305555555555,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Hello",
+        "body": "Hello Joan,\r\n\r\nAfter going through your elaborate explanation, we have come to the\r\nconclusion that we want this with you, the partners have agreed and\r\naccepted your proposal in the sectors of your projects.\r\n\r\nWhat this means is that we are signing a Joint Working Agreement with you\r\nfor any amount that is needed for the project with the expectation of an\r\nannual ROI of 10% for a term of 15 years with a grace period of 365 days.\r\n\r\nIt left for you to know how to coordinates your projects founders. you may\r\nwant to distribute the funding to them using your own discretion. We do not\r\nwant to get involved in all of those since. We are not interested in\r\nreaping all of the commercial loan and the interests as you have \"thought\r\naloud\" in suggestion of a best possible way to reap.\r\n\r\nThe Fund covered by this agreement shall be used for Project and Managed\r\nfor 15Years Duration: (I.E)  (Party B) will manage and Invest the funds for\r\na time duration of 15 Years and the Profit of this Investment / Project\r\nwill be shared 10% for (Party A) and 90% For (Party B) respectively this\r\nwill be subject for review after 365 days or Yearly review.\r\n\r\nThe funds are presently secured and shall be paid out to you either\r\ndirectly from my bank in USA, Spain or Belgium, The fund shall be released\r\nto you as non-recourse loan. This is just to defend and protect the funds\r\nin your custody and justifies it for the investments. The funds can be\r\nshared among your accounts within the nations as mentioned. Therefore the\r\nclosing visit shall be in Spain or Belgium.\r\n\r\nI am hopeful that the above explanation could be understood at this point,\r\n\r\nConfirm your understanding of the above to enable me put together an MOU\r\nfor counter signs that shall describe our position so we can joyfully\r\nproceed into this noble partnership.\r\n\r\nLooking forward to your cooperation\r\n\r\nYours respectfully,\r\nFabio De Campos Padilha\r\nDirector.\r\n\r\nFCP MANAGEMENT AND CONSULTING LTD\r\nSUTTON LANE,CITY HOUNSLOW,\r\nZIP CODE: TW3 3BB\r\nUNITED KINGDOM\nTel No:+44 7452 113102\r\nWhatsApp:+44 7706 881596\r\nE-mail: fabiocamposde@gmail.com\r\nEmail: info@fcpconsult.uk\r\nEmail: enquiry@fcpconsult.uk\r\nEmail: fabiodecampos@fcpconsult.uk\r\nEmail: fcp.consulting@fcpconsult.uk\r\nWebsite: https://www.fcpconsult.uk"
+    },
+    {
+        "from": "baiter_772",
+        "to": "scammer_772",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.12362268518518518,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Hello",
+        "body": "Hello Fabio,\n\nThank you for your detailed response. I'm thrilled to hear that the partners have agreed and accepted my proposal. It's great news that we're moving forward with a Joint Working Agreement.\n\nI understand that the funding will be used for the project and managed for a duration of years, with profits shared between both parties. This is indeed an exciting venture.\n\nHowever, I do have a few questions to ensure I fully understand our agreement:\n\n1. Could you please clarify the exact amount needed for the project?\n2. What is the expected annual ROI?\n3. How long is the grace period?\n4. Could you provide more details about how the funds will be distributed?\n\nI also want to confirm that any closing visit would need to take place in Spain or Belgium, as mentioned in your message.\n\nOnce these points are clarified, I'll be more than happy to proceed further into this noble venture.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJoan"
+    },
+    {
+        "from": "scammer_772",
+        "to": "baiter_772",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.15930555555555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Hello",
+        "body": "Hello Joan,\r\n\r\n1. Could you please clarify the exact amount needed for the project?\r\nLike told you already I and my team have declared interest to place the $80\r\nmillion on any profitable project. But it depends on the the amount you\r\nwill be needing to invest in the project.\r\n\r\n2. What is the expected annual ROI?\r\n365 days or Yearly review\r\nLike i mentioned to you previously the ROI is %10\r\n\r\n3. How long is the grace period?\r\nFrom 10/15 to 20 years it depends on how long your project will last.\r\n\r\n4. Could you provide more details about how the funds will be distributed?\r\nYou will receive the investment amount in various installments by wire\r\ntransfer MT103 after the signing of the agreement.\r\n\r\nI also want to confirm that any closing visit would need to take place in\r\nSpain or Belgium, as mentioned in your message.\r\nYES.\r\n\r\nBest regards,\r\nFabio De Campos Padilha\r\nDirector.\r\n\r\nFCP MANAGEMENT AND CONSULTING LTD\r\nSUTTON LANE,CITY HOUNSLOW,\r\nZIP CODE: TW3 3BB\r\nUNITED KINGDOM\nTel No:+44 7452 113102\r\nWhatsApp:+44 7706 881596\r\nE-mail: fabiocamposde@gmail.com\r\nEmail: info@fcpconsult.uk\r\nEmail: enquiry@fcpconsult.uk\r\nEmail: fabiodecampos@fcpconsult.uk\r\nEmail: fcp.consulting@fcpconsult.uk\r\nWebsite: https://www.fcpconsult.uk"
+    },
+    {
+        "from": "baiter_772",
+        "to": "scammer_772",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.15966435185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Hello",
+        "body": "Hello Fabio,\n\nThank you for your detailed response. I appreciate the time you've taken to explain things to me.\n\nI'm still a bit unclear about the exact amount needed for the project. Could you please provide a more specific figure? \n\nAlso, regarding the expected annual ROI, could you give me an estimate or range? I understand it might vary, but having a ballpark figure would be helpful.\n\nAs for the grace period, is there any flexibility in terms of duration? Would it be possible to negotiate this based on the progress of the project?\n\nLastly, concerning the fund transfer process, could you elaborate on how this will work after signing the agreement? Will there be any additional fees or charges involved?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nJoan"
+    },
+    {
+        "from": "scammer_772",
+        "to": "baiter_772",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.2545486111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Hello",
+        "body": "Hello Joan,\r\n\r\nI'm still a bit unclear about the exact amount needed for the project.\r\nCould you please provide a more specific figure?\r\nI have mentioned this to you several time, that I and my team have declared\r\ninterest to place the $80 million\r\n\r\nAlso, regarding the expected annual ROI, could you give me an estimate or\r\nrange? I understand it might vary, but having a ballpark figure would be\r\nhelpful.\r\nNo,I cannot give you an estimated range, because ROI is calculated by\r\nsubtracting the initial cost of the investment from its final value, then\r\ndividing this new number by the cost of the investment\r\n\r\n\r\nAs for the grace period, is there any flexibility in terms of duration?\r\nWould it be possible to negotiate this based on the progress of the project?\r\nYes, it can be negotiable based on the progress of the project.\r\n\r\nLastly, concerning the fund transfer process, could you elaborate on how\r\nthis will work after signing the agreement? Will there be any additional\r\nfees or charges involved?\r\nNormally we usually meet on a round table on the day of close with the\r\nbank, and after we must have countersign our MOU there will be a\r\nregistration of an accreditation in your name, having you officially\r\nrecognize of your status being qualified to handle this investment funding,\r\nwhich will be handle by an agent/attorney that will make the registering of\r\nan accreditation, notary in your name to ensure that you are fit legally to\r\nreceive such funds in the global financial watch, and also agreement will\r\nbe registered with Economic and Financial Affairs (DG ECFIN), Brussels\r\nCourt of Commerce . European Chambers and Commerce, thereafter my bank in\r\nBrussels Belgium, Spain or Federal reserve bank United States of America\r\nwill make direct wire transfer to your designated bank account.\r\n\r\nThe financial obligation required to perform in order to facilitate the\r\nregistration you and i shall jointly shoulder equal responsibility of the\r\nfinancial obligations\r\n\r\nLooking forward to your clear understanding and cooperation\r\n\r\nBest regards,\r\nFabio De Campos Padilha\r\nDirector.\r\n\r\nFCP MANAGEMENT AND CONSULTING LTD\r\nSUTTON LANE,CITY HOUNSLOW,\r\nZIP CODE: TW3 3BB\r\nUNITED KINGDOM\nTel No:+44 7452 113102\r\nWhatsApp:+44 7706 881596\r\nE-mail: fabiocamposde@gmail.com\r\nEmail: info@fcpconsult.uk\r\nEmail: enquiry@fcpconsult.uk\r\nEmail: fabiodecampos@fcpconsult.uk\r\nEmail: fcp.consulting@fcpconsult.uk\r\nWebsite: https://www.fcpconsult.uk"
+    },
+    {
+        "from": "baiter_772",
+        "to": "scammer_772",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.716909722222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: Hello",
+        "body": "Hello Fabio,\n\nThank you for your detailed response. I appreciate the time you've taken to explain the process to me.\n\nI'm still a bit unclear about the exact amount needed for the project. Could you please provide a more specific figure? I understand that ROI is calculated by subtracting the initial cost of the investment from its final value, then dividing this new number by the cost of the investment, but having a ballpark figure would be helpful.\n\nIt's good to know that the grace period can be negotiable based on the progress of the project. That seems fair and reasonable.\n\nRegarding fund transfer, it sounds like there are quite a few steps involved after signing the agreement. Just to clarify, will there be any additional fees or charges involved in this process? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJoan"
+    },
+    {
+        "from": "scammer_772",
+        "to": "baiter_772",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.998043981481482,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: Hello",
+        "body": "Hello Joan,\r\n\r\nROI is calculated according to your investment profit, i have explained\r\nthis to you already, i cannot make any calculation on a project that you\r\nhave not yet started.\r\n\r\nLike i mentioned to you in my previous mail, there will be a registration\r\nof an accreditation in your name, having you officially recognize of your\r\nstatus being qualified to handle this investment funding, which will be\r\nhandle by an agent/lawyer that will make the registering of an\r\naccreditation, notary in your name to ensure that you are fit legally to\r\nreceive such funds in the global financial watch, The fees/ The financial\r\nobligation required to perform in order to facilitate the registration you\r\nand i shall jointly shoulder equal responsibility of the financial\r\nobligations.\r\n\r\nI believe you have closed several projects in the past, and you are very\r\nmuch aware of what I am talking about.\r\n\r\nBest regards,\r\nFabio De Campos Padilha\r\nDirector.\r\n\r\nFCP MANAGEMENT AND CONSULTING LTD\r\nSUTTON LANE,CITY HOUNSLOW,\r\nZIP CODE: TW3 3BB\r\nUNITED KINGDOM\nTel No:+44 7452 113102\r\nWhatsApp:+44 7706 881596\r\nE-mail: fabiocamposde@gmail.com\r\nEmail: info@fcpconsult.uk\r\nEmail: enquiry@fcpconsult.uk\r\nEmail: fabiodecampos@fcpconsult.uk\r\nEmail: fcp.consulting@fcpconsult.uk\r\nWebsite: https://www.fcpconsult.uk"
+    },
+    {
+        "from": "baiter_772",
+        "to": "scammer_772",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.0076273148148145,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: Hello",
+        "body": "Hello Fabio,\n\nThank you for your detailed explanation. I'm still trying to wrap my head around some of the concepts you've mentioned. Could you perhaps simplify it a bit for me? \n\nYou mentioned something about an agent lawyer handling the notary in my name, could you explain more about this process? And what exactly does this financial obligation entail?\n\nI appreciate your patience with me as I try to understand all of this.\n\nBest wishes,\nJoan"
+    },
+    {
+        "from": "scammer_772",
+        "to": "baiter_772",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.018599537037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: Hello",
+        "body": "Hello Joan,\r\n\r\nThe agent/lawyer that will make the registration of an accreditation,\r\nnotary in your name to ensure that you are fit legally to receive such\r\nfunds in the global financial watch,  will be paid for his services,\r\nfinancial obligation simply means payment to the agent.\r\n\r\nBest regards,\r\nFabio De Campos Padilha\r\nDirector.\r\n\r\nFCP MANAGEMENT AND CONSULTING LTD\r\nSUTTON LANE,CITY HOUNSLOW,\r\nZIP CODE: TW3 3BB\r\nUNITED KINGDOM\nTel No:+44 7452 113102\r\nWhatsApp:+44 7706 881596\r\nE-mail: fabiocamposde@gmail.com\r\nEmail: info@fcpconsult.uk\r\nEmail: enquiry@fcpconsult.uk\r\nEmail: fabiodecampos@fcpconsult.uk\r\nEmail: fcp.consulting@fcpconsult.uk\r\nWebsite: https://www.fcpconsult.uk"
+    },
+    {
+        "from": "baiter_772",
+        "to": "scammer_772",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.027835648148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: Hello",
+        "body": "Hello Fabio,\n\nThank you for your email. It's great to hear from you! I'm intrigued by the process you've outlined, especially the part about a lawyer making a notary in my name. Could you please explain more about how this works? Also, what kind of services will the agent provide?\n\nI'm also curious about the payment for these services. How is it usually handled? Is there an upfront fee or is it deducted from the funds I am to receive?\n\nLooking forward to hearing from you.\n\nBest wishes,\nJoan"
+    },
+    {
+        "from": "scammer_772",
+        "to": "baiter_772",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.048217592592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: Hello",
+        "body": "Hello Joan,\r\n\r\nI don't know why you are making things so difficult to understand, I cannot\r\nexplain more than what i have told you already. I will advise you to go\r\nthrough all my mails and read them again for your better understanding.\r\n\r\nFor your information, deducted from the funds won't be possible, until all\r\nregistration in your name is fully done properly with Economic and\r\nFinancial Affairs (DG ECFIN), Brussels  Court of Commerce . European\r\nChambers and Commerce, ICC Court and Financial Regulatory Department\r\nlocated in Brussels and this Process will be handled by the Financial\r\nOfficer and Resident Attorney.\r\n\r\nTherefore, there will be an upfront fee to enable the agent make all\r\nnecessary registration in your name.\r\n\r\nBest regards,\r\nFabio De Campos Padilha\r\nDirector.\r\n\r\nFCP MANAGEMENT AND CONSULTING LTD\r\nSUTTON LANE,CITY HOUNSLOW,\r\nZIP CODE: TW3 3BB\r\nUNITED KINGDOM\nTel No:+44 7452 113102\r\nWhatsApp:+44 7706 881596\r\nE-mail: fabiocamposde@gmail.com\r\nEmail: info@fcpconsult.uk\r\nEmail: enquiry@fcpconsult.uk\r\nEmail: fabiodecampos@fcpconsult.uk\r\nEmail: fcp.consulting@fcpconsult.uk\r\nWebsite: https://www.fcpconsult.uk"
+    },
+    {
+        "from": "baiter_772",
+        "to": "scammer_772",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.153611111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: Hello",
+        "body": "Hello Fabio,\n\nThank you for your detailed explanation. I must admit, some of the terms and processes you mentioned are a bit over my head. Could you perhaps break it down a bit more for me? \n\nFor instance, what exactly does the upfront fee cover? And could you tell me more about the role of the Financial Officer and Resident Attorney in this process?\n\nI'm just trying to understand everything clearly before we proceed further.\n\nLooking forward to your response.\n\nBest wishes,\nJoan"
+    },
+    {
+        "from": "scammer_772",
+        "to": "baiter_772",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.178414351851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: Hello",
+        "body": "Hello Joan,\r\n\r\nThe fee will cover the registration of an Accreditation expenses in your\r\nname, notary and professional services fees.\r\n\r\nThe job of the attorney is to make registration of the Accreditation etc.\r\nget it clear .\r\n\nFabio"
+    },
+    {
+        "from": "baiter_772",
+        "to": "scammer_772",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.1949652777777775,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: Hello",
+        "body": "Hello Fabio,\n\nThank you for your response. I'm a bit confused about the details though. Could you please clarify what exactly the fee will cover? And could you also explain more about the attorney's job in this process? I just want to make sure I understand everything correctly.\n\nBest wishes,\nJoan"
+    },
+    {
+        "from": "scammer_772",
+        "to": "baiter_772",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.202303240740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Re: Hello",
+        "body": "i can see that you are a joker, read my email carefully and you will\r\nunderstand."
+    },
+    {
+        "from": "baiter_772",
+        "to": "scammer_772",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.215925925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: Hello",
+        "body": "Hello there,\n\nThank you for your email. I must admit, I did find it quite interesting. Could you please elaborate more on the details? I'm eager to understand better.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJoan"
+    }
+]

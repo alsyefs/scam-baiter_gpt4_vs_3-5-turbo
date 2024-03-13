@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_881",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Beneficiary,",
+        "body": "Dear Beneficiary,\nMy name is Mr. Folashodun Shonubi, and I currently serve as the acting Governor of the Central Bank of Nigeria. The purpose of this email is to express our sincere apologies on behalf of the Federal Government and the office of the Governor for the regrettable delay in settling your contract/inheritance payment. I want to assure you that we now consider your case to be of the utmost importance, and we are fully dedicated to resolving it quickly and efficiently.\nI have personally taken charge of handling your payment of $10.5million to ensure that you receive your funds promptly. President Bola Ahmed Tinubu has instructed me to settle all beneficiaries who have yet to receive their funds, and your name has been included on this list. \nAll necessary fees and taxes have already been deducted from the principal amount. To proceed with the transfer, I kindly request you to \nreconfirm your account details\n where you would like the funds to be transferred.\nOnce I receive your response, I will promptly take the necessary actions without any further delays.\nCongratulations in advance on the successful resolution of your payment.Reply this mail to this Email Address: \nfolashodunshonubi38@gmail.com\nYours faithfully,\nMr. Folashodun Shonubi\nActing Governor of the Central Bank of Nigeria"
+    },
+    {
+        "from": "baiter_881",
+        "to": "scammer_881",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "Hello Mr. Folashodun Shonubi,\n\nThank you for reaching out to me regarding the settlement of my contract payment. I appreciate your efforts in ensuring that I receive my funds promptly. Could you please provide more details on the next steps involved in the transfer process? I would like to ensure that everything is in order before proceeding.\n\nLooking forward to your response.\n\nBest wishes,\nShanon"
+    }
+]

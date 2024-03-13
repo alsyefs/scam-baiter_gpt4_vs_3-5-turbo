@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1924",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  FROM THE DESK OF MARKSON WIL",
+        "body": "  FROM THE DESK OF MARKSON WILLIAMS\nUNITED NATIONS ASSOCIATION UK\n3 WHITEHALL COURT\nLONDON,SW1A 2EL\nUNITED KINGDOM\nTEL:+44-872-797-4975\nAttention Sir,\n \n                       RE-YOUR INHERITANCE PAYMENT VALUED AT US$5,250,000.00\nGreetings to you and your family in the matchless Name of our God ,in him we live,move and have our being.  How are you doing today and your family? l hope they are in the best of good health.\nMeanwhile I have not heard from you to know if you have contacted and heard from the Bank as directed.Please kindly get back to me as soon as possible for the record and reference purpose.\nThanks and Do have a very Wonderful Tuesday, as I wait to hear from you soon.\nYours Faithfully,\nMR.MARKSON WILLIAMS\nHEAD OF PAYMENT UNIT\nTHE UNITED NATIONS ASSOCIATION\nUNITED KINGDOM   "
+    },
+    {
+        "from": "baiter_1924",
+        "to": "scammer_1924",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   FROM THE DESK OF MARKSON WIL",
+        "body": "Hello Mr. Williams,\n\nI hope this message finds you well. I am doing fine, thank you for asking. My family is also in good health.\n\nRegarding your previous message, I must admit that I haven't contacted the bank yet. Could you please provide me with more details about what exactly I need to do? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nNathan"
+    }
+]

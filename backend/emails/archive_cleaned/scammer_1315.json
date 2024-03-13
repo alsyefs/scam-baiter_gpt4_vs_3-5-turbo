@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1315",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Hello! If you received this",
+        "body": "   Hello! If you received this message in your SPAM/BULK folder, it is because of the restrictions imposed by your Mail/Internet Service Provider, we urge you to treat this letter genuinely.\nDear Sir,\nWe have received your e-form and payment advice from our correspondence financial institution affiliated with the IMF to swiftly process and remit in your favor, a payment of $5,500,000.00 -USD.\nYour Approval Details:\nIMF Approval No: 44587P/2023\nReference No: 01EC45643CP5304\nSecret Code No: XXCN015X\nApproved Amount: $5,500,000.00  -USD\nYour Payment Voucher received has been verified.\nHence your payment advice has been given a preferential attention and consideration. I have successfully fast-track the processing of your payment which is 100% guaranteed. The mandate to effect your fund transfer through crypto currency payment to your choice crypto wallet have been perfected.  \nHow it works\nWe will set up your account. Please do complete the account opening form below\nYou will have to complete the mandatory KYC verification process to activate your account and once completed, your payment advice for ($5,500,000.00 USD) will be automatically credited to your USDT Wallet within the TRC 20 Network (We are processing your payment advice in USDT for now because of its equal value with the USD)\nWith our integrated crypto wallet, you can exchange your crypto balance to any cryptocurrency and send to your desire external USDT wallet.\nWe’re excited to announce the first-ever integration of a DeFi app into our Axumaycryptos mobile platform.  This good news means that you can withdraw your fund using the cryptocurrency wallet option to any external crypto wallet of your choice and avoid crazy traditional bank charges.   NOTE that you require an external USDT wallet from a Cryptocurrency Exchange Platform such as Binance, Coinbase, Or Paxful (where you can Buy/Sell/Exchange your cryptocurrency) to your local currency.\nLooking forward to providing you with the best of our professional service.\nYours\nJames Armstrong\nPayment Reconciliation Dept.\nWhatsApp +1 786 558 3052\n "
+    },
+    {
+        "from": "baiter_1315",
+        "to": "scammer_1315",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    Hello! If you received this",
+        "body": "Hello James Armstrong,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding the processing and remittance of my payment. It's interesting to hear about the option of using crypto currency for the transfer.\n\nCould you please provide more details on how the account opening process works? What kind of information would be required from me to complete the KYC process? Additionally, are there any fees or charges associated with setting up and using the integrated crypto wallet?\n\nI'm also curious about the app you mentioned. Could you tell me more about its features and how it can be accessed?\n\nThank you for your assistance.\n\nBest wishes,\nJames"
+    }
+]

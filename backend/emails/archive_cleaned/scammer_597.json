@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_597",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello dear,",
+        "body": "Hello dear,\nOnce again and for the very last time, I am Diplomat John Paul, I am\nmandated to deliver a parcel containing an ATM CARD{$1.2 M} to you by\nthe WORLD HEALTH ORGANIZATION {W.H.O.}\nI want to use the Post office medium to send you your parcel and\n to\nregister and post your parcel to your given address, will cost you the\nsum of $50, I therefore suggests that you send the $50 us through an\niTunes card or an y other Gift card to enable me send you your parcel\nthrough the post office. \n But if you can send the money through,\n    1. Western Union, Money gram, RIA, World Remit\n    2. Gift card\n    3. Bank transfer\nyou should let me know so that I will give you the information to pay in.\nI also want you to reconfirm your full delivery address to me once\nagain to avoid wrong delivery.\n1. Your Name\n2. House/delivery address/country\n3. Phone number\n4. Age\n5\n. Any identification\n6. Nearest Airport\nKindly do this immediately you receive this message so that I can\nproceed to the post office immediately and send your parcel to you as\nsoon as possible.\nI await your urgent response but if you are not interested in\nreceiving the parcel, please do not reply back.\nYoursa\nDiplomat John Paul.\n+234-906-7795-854\nURGENT RESPONSE NEEDED. Reply to this e-mail(\ndiplomatjohnpaul31@outlook.com\n )Call / WhatsApp ( (+234-906-7795-854 )"
+    },
+    {
+        "from": "baiter_597",
+        "to": "scammer_597",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello dear,",
+        "body": "Hello there,\n\nThank you for reaching out to me. I appreciate your efforts in delivering the parcel containing an ATM CARD on behalf of the WORLD HEALTH organization. However, I have a few questions before proceeding.\n\nCould you please provide more details about the contents of the parcel? It would be helpful to know what exactly is inside the ATM CARD.\n\nAlso, I'm curious about why there is a need for me to send money through a gift card or other means. Can you explain why this is necessary?\n\nLastly, could you clarify how long it will take for the parcel to reach me once I provide my delivery address?\n\nI look forward to your response and further instructions.\n\nBest wishes,\nMarilyn"
+    }
+]

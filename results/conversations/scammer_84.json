@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_84",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Very confidential message",
+        "body": "  Very confidential message\nGood morning from Nigeria. If you\\'re alive and you\\'re reading this\nemail then I might have some very good news for you.\nI am Albert Sajid, the newly appointed Confidential Secretary to\ngovernor of the Central Bank of Nigeria. While going through the old\nfiles that my boss inherited from his predecessor, I saw a record in\nyour name for a payment in the value of US$23.5 which was claimed was\nfor a contract executed for one of my government agencies.\nI don\\'t know if you may be aware of this but it is a fact. In my\ncountry, so many strange things happen among government and public\nservants and only those who are well connected can be aware.\nIn my present position, as the Confidential Secretary to the governor,\nI can convince my boss and he will conveniently approve the release of\nthis payment to you as recorded but only through the due process and\nwe will share the funds 50% apiece after you may have received the\npayment.\nThis can only be possible if you can be sincere and discreet about it\nwithout mentioning my plan to anyone.\nIf you may not be interested then simply say so. However, this money\nis sitting freely and easily to be claimed.\nI need a private and direct telephone number by which I can reach you.\nI NEED TO SPEAK WITH YOU DIRECTLY.\nWaiting to hear from you so I can start the plan immediately.\nYours sincerely,\nAlbert Sajid   "
+    },
+    {
+        "from": "baiter_84",
+        "to": "scammer_84",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Very confidential message",
+        "body": "Good morning! Thank you for reaching out with this information. I appreciate you bringing this to my attention. Can you please provide more details about the process for claiming the payment? How can we ensure that everything is done through the proper channels?\n\nBest wishes,\nKyle"
+    },
+    {
+        "from": "scammer_84",
+        "to": "baiter_84",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Very confidential message. Proper channels",
+        "body": "Kyle\r\n\r\nThank you for your response.\r\n\r\nRight now, I will need to retrieve the approvals from  both the\r\nFederal Ministry of Finance (FMF) and the Nigerian National Petroleum\r\nCorporation (NNPC), which must be submitted to the Telex department\r\nfor immediate release of your funds. To get the above approvals, I\r\nwill need the following current details asap.\r\n\r\nFull names\r\nCompany/Business name if any\r\nCurrent contact address\r\nTelephone number\r\nNationality\r\nBank name\r\nBank address\r\nAccount number\r\nRouting #\r\n\r\nOnce I receive the above, I will retrieve the two mentioned approvals,\r\nsend copies to you then drop the hard copies with the bank for\r\nimmediate release of your funds.\r\n\r\nKindly revert as quickly as possible. I assure you that with my\r\noffice, everything will work out fine. Please understand that team\r\nwork is very important here, you and I should ensure every procedure\r\nis followed with all commitments, both time and in resources so see\r\nthat this deal is concluded thereafter we share the proceeds 50/50.\r\n\r\nWaiting to hear from you so I can start the plan immediately.\r\n\r\nYours sincerely,\r\n\r\nAlbert"
+    },
+    {
+        "from": "baiter_84",
+        "to": "scammer_84",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.01607638888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Very confidential message. Proper channels",
+        "body": "Hello Kyle,\n\nThank you for reaching out and providing this information. I appreciate your efforts in helping with the process. Could you please clarify what specific funds you are referring to and how this process will benefit me? Additionally, do you have a direct contact number or email where I can reach you for further communication?\n\nLooking forward to your response.\n\nBest wishes,\nKyle"
+    }
+]

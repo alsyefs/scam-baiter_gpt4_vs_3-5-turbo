@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2234",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention Dear,",
+        "body": "  Attention Dear,\nMy name is Mr Patrick Hovakimian, an officer with United Nations and\nwe have been having meetings in our office and have agreed to\ncompensate some victims of scam with the sum of $1.4 Million Dollars\nand the payment was recently approved to you, which is one of the\nlatest instructions from United Nations.\nTherefore, you are advised to contact our chief compensation officer,\nMr. Rod Anderson and get your payment released with immediate effect.\nKindly send your reply and forward your full details to him on his\nprivate email ; \nroda60204@gmail.com\n  {1}. Your Full Name:\n  {2}. Your Home Address, City and Country:\n  {3}. Your Private Cell:\n  {4}. Occupation\n    Kindly choose a Preferred choice of receiving your payment\n  (A) Telegraphic Transfer:\n  (B) Cash Delivery:\n  (C) ATM Card:\n  (D) Certified Bank Draft:\n  (E) Bitcoin\n    Thanks\n  Mr Patrick Hovakimian   "
+    },
+    {
+        "from": "baiter_2234",
+        "to": "scammer_2234",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention Dear,",
+        "body": "Hello Mr. Patrick,\n\nThank you for reaching out to me. I appreciate the information about the compensation from the United Nations. It sounds like a great opportunity. Could you please provide me with more details about how this compensation program works? I want to make sure I understand everything correctly before proceeding.\n\nLooking forward to your response.\n\nBest wishes,\nFred"
+    }
+]

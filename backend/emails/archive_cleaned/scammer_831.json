@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_831",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  From the office Vice Preside",
+        "body": "  From the office Vice President of the United States\n1800 G Street NW., Washington, DC 20502\nhttps:/ /usun.usmission.gov/our-leaders/vice-president/\nAttention: Dear\nFrom the records of outstanding beneficiaries due to payment with the Federal Government of  United States of America (U.S.A) your email address was discovered as next on the list out of the 11 outstanding beneficiaries who have not yet received their payments during the tenure of the previous administration office.\nPlease bear with us for making this initial contact through email. You are required to fill and send this information for verification purpose only so that your fund valued at $9,500,000 will be remitted into your nominated bank account or delivered to you via atm card.\nYour full name:\nMobile Number:\nHome Address\nPicture ID:\nYou are to reply to this email as soon as possible and we appreciate your soonest response as we apologize for any inconveniences this delay might put you through. reply to \nkamaladharriss655@gmail.com\nYours in service,\nKamala Harris\nthe Vice President of the United States of America    "
+    },
+    {
+        "from": "baiter_831",
+        "to": "scammer_831",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   From the office Vice Preside",
+        "body": "Dear Vice President Kamala Harris,\n\nThank you for reaching out to me regarding the payment with the Federal Government of the United States. I appreciate your efforts in contacting me through email. I would be happy to provide the necessary information for the remittance of my funds.\n\nCould you please clarify what specific information you require from me? Additionally, could you explain the process of how my funds will be remitted into my nominated bank account or delivered via an ATM card?\n\nI look forward to your prompt response and appreciate your assistance in this matter.\n\nBest wishes,\nLeo"
+    }
+]

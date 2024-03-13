@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_139",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Congratulations Dear Beneficia",
+        "body": "Congratulations Dear Beneficiary\nI am hereby to inform you that United Nations has concluded to\ncompensate you with the sum of $20,000,000.00 USD\nafter the last discussion that was held today\nwith the United States president and FBI  which you were to receive\nthe sum of $5,000,000.00 USD Daily through\nWestern Union office until the total\namount of your funds $20,000,000.00 is completed on your name,I will\nbe waiting on your urgent response\nto forward your first payment pick up\ninformation today at Western Union location around you.God bless you.\nRegards\nMr. Antonio Guterres\nEmail:antonioguterres487@gmail.com"
+    },
+    {
+        "from": "baiter_139",
+        "to": "scammer_139",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Congratulations Dear Beneficia",
+        "body": "Hello Mr. Antonio Guterres,\n\nWow, that's quite a surprise! I'm thrilled to hear about this compensation from the United Nations. It's not every day you get news like this.\n\nCould you please provide more details about how this came to be? How was my name chosen for this compensation? And why is it being distributed through Western Union?\n\nLooking forward to hearing more about this exciting opportunity.\n\nBest regards.\n\nBest wishes,\nEric"
+    }
+]

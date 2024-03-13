@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_12",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "RBC  Bank Capital Markets",
+        "body": "RBC  Bank Capital Markets\nUnited States ; Head Office. \n200 Vesey Street, \n9th Floor New York, \nNY 10281 ·\nDear,Sir/Ma\nPlease verify your current home address close to the bank where you will receive a Direct deposit to the bank once all is approved. \nThanks,\nMrs Carolyn Carlson"
+    },
+    {
+        "from": "baiter_12",
+        "to": "scammer_12",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: RBC  Bank Capital Markets",
+        "body": "Hello Mrs Carolyn Carlson,\n\nThank you for reaching out to me. I'm really excited about this opportunity. However, I must apologize as I am not comfortable sharing my home address online due to privacy concerns. \n\nCould you please provide more details about the direct deposit process? How does it work exactly? And is there any other way to receive the deposit without providing my home address?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nMarianne"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1870",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention: Honorable Beneficia",
+        "body": "Attention: Honorable Beneficiary.\n \nSir/Madam,\n \nREF: CHANGE OF BENEFICIARY’S ACCOUNT.\n \nThis is the second time we are notifying you about this said fund. We hereby send to you the information submitted by Mr John T.Kehoe of California-USA, with an application to receive your Payment value of US$9,500,000.00 on your behalf from our bank.\nAs a matter of urgency, you are required to verify the following information and inform us if you are know anything about this because i have asked him to come back tomorrow as they did not provide any power of an attorney from you which will proof that you truly bequeathed the said funds to him that is I am contacting you to verification before we proceed to release the funds as requested.\n \nFirstly: Did you instruct one Mr. John T. Kehoe of 122 Fitch Way, Sacramento, Ca. 95864. Whose information is below, to claim and receive the payment on your behalf?\n \nSecondly: Did you sign any 'Deed of Assignment' in his favor thereby making him the current beneficiary with the following account details?\n \nAccount Name: Mr.John T.Kehoe Group Ltd\nA/C #USD114-25567-8,\nBank Name: Bank Of America\nSwift Code: SCBL 11K111\n \nFinally, you are hereby advised to indicate to this honorable Bank with immediate effect and also indicate that you are the same person and you permitted Mr John T. Kehoe to lay claim on the funds.\n \nNOTE:\n As it stands, you must re-confirm Your Full Name, Contact Address and Telephone Number for proper confirmation.\n \nWe await your immediate response.\nEmail: \nn60349543@gmail.com\nYours sincerely,\n \nMr. James Obiora.\nInternational Remittance Department."
+    },
+    {
+        "from": "baiter_1870",
+        "to": "scammer_1870",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attention: Honorable Beneficia",
+        "body": "Dear Mr. James Obiora,\n\nThank you for reaching out to me regarding this matter. I must admit, I am a bit confused about the details you have provided. Could you please clarify a few things for me?\n\nFirstly, who is Mr. John and how did he submit something on my behalf? I don't recall authorizing anyone to do so. Can you provide more information about his relationship to me and why he would be contacting your bank?\n\nSecondly, what exactly is the purpose of this fund? You mentioned a payment value of US dollars, but I'm not sure what it is for. Could you please explain further?\n\nLastly, I want to ensure that everything is done legally and properly. You mentioned the need for a power of attorney from me. Can you explain why that is necessary and what it entails?\n\nI appreciate your prompt response and clarification on these matters.\n\nBest wishes,\nElijah"
+    }
+]

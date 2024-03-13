@@ -1,0 +1,92 @@
+[
+    {
+        "from": "scammer_1893",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Hello",
+        "body": "   Hello\n \nGood Day\nFollowing the outcome of the Board Meeting held on 10th oct. 2023,your payment of $10.5m has been approved and shall be released to you without any further delay on your compliance accordingly .\nI look forward to hearing from you for more guide line.\n \nRegards,\nDon Callahan,\nU.S.R.C  "
+    },
+    {
+        "from": "baiter_1893",
+        "to": "scammer_1893",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Hello",
+        "body": "Hello Don Callahan,\n\nGood day to you too! I'm delighted to hear about the board meeting's outcome. Could you please provide more details about this payment? What is it for, and how was it approved? \n\nLooking forward to your guidance on this matter.\n\nBest regards.\n\nBest wishes,\nChris"
+    },
+    {
+        "from": "scammer_1893",
+        "to": "baiter_1893",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Hello",
+        "body": "From the office of the\r\nUnited States Reconciliation Committee\r\n\r\nAttn:  Chris\r\n\r\nThe United States Reconciliation Committee wishes to acknowledge receipt of\r\nyour reply mail and will commence the execution of this\r\nassignment, once you provide us with the required details as stated below.\r\n\r\nBased on the reputation of this committee and its carefulness in carrying\r\nout every assignment and in forming our defense, we are under\r\nthe law to abide by the principle of United Nations; therefore this\r\ncommittee will carry out this exercise in line with the stipulated\r\nprocedures and guidelines of United Nations, as contained in their\r\nregulations.\r\n\r\nAs a matter of fact, you are not required to pay any money or fee,\r\ntherefore the question of how much you will need to pay, shouldn’t\r\narise.  However, if there will be need for any payment of fees, such fees\r\nmust be deducted from your total amount of US 10.5M, which is in\r\nconformity with the United Nations directives, as enshrined in\r\ninternational financial transactions act of 2019.\r\n\r\n\r\nIn line with the conservative policy of United Nations, you are only\r\nrequired to swear an affidavit at the New York Court of Appeal,\r\nauthorizing the bank to deduct all charges from your principal sum, while\r\nthe balance will be transferred to your nominated bank account.\r\nIn view of the above, you are required to provide us with your\r\n\r\nFull Names,\r\nFull office and Home Addresses,\r\nAge, Marital Status\r\nOccupation\r\nOffice Telephone and mobile phone numbers.\r\nOnce the above is received, we will direct you to an accredited attorney\r\nthat will assist you in swearing the affidavit. Thanks for\r\nyour understanding and cooperation.\r\n\r\nYours sincerely,\r\nDon Callahan, LLP\r\nDirector United States Reconciliation Committee"
+    },
+    {
+        "from": "baiter_1893",
+        "to": "scammer_1893",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.010231481481481482,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Hello",
+        "body": "Hello Don Callahan,\n\nThank you for reaching out to me. I appreciate the detailed information you've provided about the United States Committee and its operations. It's great to know that everything is carried out in accordance with the principles of the United Nations.\n\nI'm curious, though, how did my name come up for this? And could you please explain a bit more about what this affidavit at the New York Court of Appeal entails?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nChris"
+    },
+    {
+        "from": "baiter_1893",
+        "to": "scammer_1893",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.01037037037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Hello",
+        "body": "Hello Don Callahan,\n\nThank you for reaching out to me. I appreciate the detailed information you've provided about the United States Committee and its operations. It's quite interesting to learn about the procedures and guidelines of the United Nations that your committee adheres to.\n\nI'm curious, could you tell me more about this affidavit at the New York Court of Appeal? What exactly does it entail? And how does an accredited attorney assist in this process?\n\nAlso, I noticed that you mentioned a total amount in US dollars but it seems like there was a typo as the actual figure wasn't included. Could you please clarify this?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nChris"
+    },
+    {
+        "from": "baiter_1893",
+        "to": "scammer_1893",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.010451388888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Hello",
+        "body": "Hello Don Callahan, LLP,\n\nThank you for reaching out to me. I'm quite intrigued by the information you've shared. It's not every day that one receives a message from the United States Committee.\n\nI'm curious about this process though. Could you please explain more about what this affidavit at the New York Court of Appeal entails? And how does an accredited attorney assist in this process?\n\nAlso, could you provide more details about the United Nations' stipulated procedures and guidelines that are being followed here? I'd love to understand better.\n\nLooking forward to your response.\n\nBest wishes,\nChris"
+    },
+    {
+        "from": "scammer_1893",
+        "to": "baiter_1893",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.9341898148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Our reply to you sir act accordingly if really you want get paid thanks",
+        "body": "From the office of the\r\nUnited States Reconciliation Committee\r\n\r\nAttn:  CHRIS\r\n\r\nPlease we are very sorry for our late response to your mail .\r\n\r\nThe United States Reconciliation Committee wishes to acknowledge receipt of\r\nyour reply mail and will commence the execution of this assignment, once\r\nyou provide us with the required details as stated below.\r\n\r\nBased on the reputation of this committee and its carefulness in carrying\r\nout every assignment and in forming our defense, we are under the law to\r\nabide by the principle of United Nations; therefore this committee will\r\ncarry out this exercise in line with the stipulated  procedures and\r\nguidelines of United Nations, as contained in their\r\nregulations.\r\n\r\n\r\n\r\nI would like to say that I am very sorry about your ordeal in receiving\r\nyour fund $10.500.00M. However, your communication/transaction with my\r\noffice is different from your past experience if you have ever had any\r\nexperience of this kind before.\r\n\r\n\r\n\r\nKindly understand that in a transaction of this magnitude, no one is able\r\nto boycott or bypass compulsory departments where consent approvals are\r\nneeded before funds are released. Anyone who does such by boycotting\r\ncompulsory and prestigious offices will end up having himself to blame for\r\nit. These are cases where you have interception of funds, delay of release\r\nof funds and more endless fees for violating due remittance procedures and\r\nat the end, the beneficiary will be the one to go in for the damages .Bank\r\ncannot grant you a smooth transfer  for this purpose unless  all the\r\nnecessary  documents are secured. Without these documents in place, your\r\nfund transfer can’t be accessed and as well as any other financial\r\nactivities until this paper work is duly obtained. We will not\r\nencourage/support violation of international Laws because an affidavit oath\r\ncertificate of your funds must be secure on your name as the rightful\r\nbeneficiary on or before a UN paying bank will commence with the crediting\r\nof your funds into your bank account, so there must be charges from the\r\nattorney which you will pay him to enable him go to court to obtain it so\r\nprepare yourself for that  and you are advice to reconfirm this information\r\nbelow to enable us direct you to the attorney that will help you secure the\r\naffidavit oath clearance certificate of your fund, so we need this\r\ninformation below.\r\n\r\nAs a matter of fact, you are not required to pay any money or fee,therefore\r\nthe question of how much you will need to pay, shouldn’t arise.  However,\r\nif there will be a need for any payment of fees, such fees must be deducted\r\nfrom your total amount of US 10.5M, which is in conformity with the United\r\nNations directives, as enshrined in international financial transactions\r\nact of 2019.\r\n\r\n\r\nIn line with the conservative policy of the United Nations, you are only\r\nrequired to swear an affidavit at the New York Court of Appeal ,authorizing\r\nthe bank to deduct all charges from your principal sum, while the balance\r\nwill be transferred to your nominated bank account. In view of the above,\r\nyou are required to provide us with your\r\n\r\nFull Names,\r\nFull office and Home Addresses,\r\nAge, Marital Status\r\nOccupation\r\nOffice Telephone and mobile phone numbers.\r\nAny of your ID card OR your passport\r\n\r\n\r\n\r\nAs soon as we receive this information from you, we will immediately direct\r\nyou to the accredited attorney that will help you in securing the affidavit\r\noath certificate of your funds as the rightful beneficiary for a UN paying\r\nbank to commence with the crediting of your funds into your bank account as\r\nyou will provide.\r\n\r\n\r\n\r\nFinally, try reconfirm all the information as we have requested to enable\r\nus apply to NY court of appeal unit for the swearing of the affidavit oath\r\ncertificate of your funds as the rightful beneficiary while you bear in\r\nmind that the affidavit oath certificate fee of your funds will be paid on\r\nor before a UN paying bank will commence with the crediting of your funds\r\ninto your bank account as the rightful beneficiary of the funds because it\r\ncost money to get it here in NY court of appeal, so get yourself arrange\r\nbut just a little money which i know will not be problem for you, so let\r\nhave all the information as we have stated.\r\n\r\n\r\n\r\nHave a blessed day while we wait to hear back from you and with all the\r\ninformation as we have stated and as soon as possible,\r\n\r\n\r\nThanks for your understanding and cooperation.\r\n\r\nYours sincerely,\r\nDon Callahan, LLP\r\nDirector United States Reconciliation Committee"
+    },
+    {
+        "from": "baiter_1893",
+        "to": "scammer_1893",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9685416666666666,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Our reply to you sir act accordingly if really you want get paid thanks",
+        "body": "Hello Don Callahan, LLP,\n\nThank you for your detailed message. I appreciate the time and effort you've put into explaining the process to me. I must admit, it's a bit overwhelming but I'm trying my best to understand.\n\nI have a few questions if you don't mind. You mentioned an affidavit oath that needs to be secured on my name. Could you please explain more about this? What exactly is an affidavit oath and why is it necessary?\n\nAlso, you mentioned that there might be charges from the attorney which I will need to pay. Can you give me an estimate of how much these charges might be? And why can't these charges be deducted from the total amount like other fees?\n\nLastly, could you please clarify what happens after the affidavit oath is secured? How long does it usually take for the funds to be credited into my bank account?\n\nI look forward to hearing back from you.\n\nBest wishes,\nChris"
+    },
+    {
+        "from": "baiter_1893",
+        "to": "scammer_1893",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9686689814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Our reply to you sir act accordingly if really you want get paid thanks",
+        "body": "Hello Don Callahan,\n\nThank you for your detailed message. I appreciate the time and effort you've put into explaining the process to me. I must admit, some of it is a bit complex for me to understand fully.\n\nYou mentioned something about an affidavit oath clearance of my fund. Could you please explain what that means in simpler terms? Also, how does this process work exactly?\n\nI'm also curious about the role of the attorney in this process. How will they assist me in securing the affidavit oath clearance? \n\nLastly, you mentioned that there might be charges from the attorney which I will need to pay. Could you give me an estimate of these charges? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nChris"
+    }
+]

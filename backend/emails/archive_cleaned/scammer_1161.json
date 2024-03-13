@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1161",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  EUROMILLIONS INTERNATIONAL L",
+        "body": "  EUROMILLIONS INTERNATIONAL LOTTERY\nPARIS-FRANCE\nRef Number: CMCE/963/581-20/EU\nBatch Number: LTO/2023-009 /PT\n                                                                 OFFICIAL\nDear Winner,\nWe are happy to inform you about the result of the just concluded monthly draws of the Euro Millions Lottery International Edition Jackpot in conjunction with the PCH, MEGA LOTTO and The International Lottery Commission that your email was among the 20 Lucky winners that won $ 995.850 (Nine Hundred and Ninety Five Thousand, Eight Hundred and Fifty Dollars) each in this year's Online Raffle Draw.\n \nFollowing the results, your email address was attached to Ticket Number (343-221-8756), Ballot Serial Number (454-17) and Lucky Star Number (03)  (06). Your have been assigned a Claim Agent located in Madrid-Spain and for security reasons, you are advised to keep your winning details private until your claim is processed and your prize money successfully transferred to you.\n \nThis online draw is the first of its kind and you won through a random selection of e-mail addresses from an exclusive list of 290,600 e-mail addresses of individuals and corporations selected by an automated computer search from the Internet and supported by Apple Inc, Amazon, Microsoft, Walmart, META and so many other multi national corporations. However, no tickets were sold in this category as all e-mail addresses were allocated to different ballot serial numbers.\n \nTo claim your prize money, kindly fill the form below and forward it to your International Fiduciary Agent/Claim Manager for final verification and immediate payment of your winnings.\n \nNOTE: Please keep your winning details private until the claim process is complete to avoid winning claim complications.\n \nYour full name:.....................................\nAge:........................................\nGender:........................................\nAddress:(Resident Address Only)...............................\nState, Postal Code and Country:...............................\nEmail:.....................................\nContact Telephone, Mobile and Fax Number:...................................\nOccupation:.........................\nAmount Won........................\nREALE SECURITY AND FINANCE CORP\nContact Person: Mr.Rodrigo Tikki\nContact E-mail address:inforealeseguros@europe.com\n \nCONGRATULATIONS!!\n \nYours faithfully,\n \nJessica Gilbato\nSECRETARY, ONLINE LOTTERY DEPARTMENT\nInternational Lottery Commission   "
+    },
+    {
+        "from": "baiter_1161",
+        "to": "scammer_1161",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   EUROMILLIONS INTERNATIONAL L",
+        "body": "Hello Jessica Gilbato,\n\nWow, this is such exciting news! I can't believe my email was selected in the draw. This is the first time something like this has happened to me. \n\nI'm curious about how this whole process works. Could you please explain a bit more about how my email was chosen? And what exactly does a Fiduciary Agent Claim Manager do?\n\nAlso, I noticed that you mentioned some big companies like Apple Inc, Amazon, Microsoft, Walmart, and META. Are they all involved in this lottery? How do they contribute to it?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJuan"
+    }
+]

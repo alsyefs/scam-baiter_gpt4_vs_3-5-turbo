@@ -1,0 +1,92 @@
+[
+    {
+        "from": "scammer_11",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention Beneficiary,",
+        "body": "Attention Beneficiary,\nWe are writing this email to you and you should please respond to this email very urgently.  We have perfected modalities to Deliver your fund to your house without any problem, but be aware that the government of USA has only authorized us the release of $7,500,000.00 in cash.\nThe Agent from the US Embassy will be in your house for delivery, unfortunately you did not respond to our previous notification\n \nYour urgent response to this email will facilitate the delivery before the end of January 2024 as I have stated above but that can be done if we can have the following for reconfirmation of the information Below.\nYour Names in Full\nAddress\nDirect Phone Number\nOccupation\nYour identification ID OR Driver License\nOnce your information is received it will enhance the smooth delivery of the fund. Why the phone number and your home address are the most important information required is to enable the Agent to call you on arrival to your State. Every arrangement is in top gear and only you will make this a reality.\nLet us have the information above and the fund will be brought to your house without delay.\nAwaiting your urgent response\nUsman"
+    },
+    {
+        "from": "baiter_11",
+        "to": "scammer_11",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attention Beneficiary,",
+        "body": "Hello Usman,\n\nThank you for reaching out to me. I appreciate your urgency in delivering the funds to my house. However, before I provide any personal information, could you please clarify a few things for me?\n\n1. Who exactly are you and what organization do you represent?\n2. How did you obtain my contact information?\n3. Can you provide more details about the fund that is being delivered? Where is it coming from and why am I being chosen as the recipient?\n4. Is there any paperwork or documentation that needs to be completed before the delivery can take place?\n\nI look forward to your response.\n\nBest wishes,\nMarianne"
+    },
+    {
+        "from": "scammer_11",
+        "to": "baiter_11",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Attention Beneficiary,",
+        "body": "Hi Marianne,\r\nIn receipt of your email with thanks\r\nBefore we proceed with the documents which is necessary for beneficiary\r\ntitle ship for a bank transfer/delivery by cash. I want to inform you that\r\nthere is strong indication that your present will be required in the bank\r\nto sign the funds release documents.or upon your meeting with the agent or\r\nyou can hire the bank accredited attorney to stand for you\r\n\r\nThe payment in question is from the United Nations COVID-19  Fund Relief\r\nProgram given to the Central Bank of Nigeria to conduct and carry out the\r\npayments to respective beneficiaries\r\n\r\nAwaiting your choice option as outlined\nRegards\r\nUsman"
+    },
+    {
+        "from": "baiter_11",
+        "to": "scammer_11",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0002314814814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Attention Beneficiary,",
+        "body": "Hi Usman,\n\nThank you for reaching out to me. I appreciate the information you provided about the title ship for bank transfer delivery by cash. It's interesting to hear that my presence might be required in the bank to sign the funds release. Can you please explain why that is necessary? Also, could you provide more details about the United Nations COVID Fund Relief Program and how it relates to the payment in question?\n\nLooking forward to your response.\n\nBest wishes,\nMarianne"
+    },
+    {
+        "from": "baiter_11",
+        "to": "scammer_11",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00030092592592592595,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Attention Beneficiary,",
+        "body": "Hi Usman,\n\nThank you for reaching out to me. I appreciate the information you provided about the title ship for bank transfer delivery by cash. It's interesting to hear that my presence might be required in the bank to sign the funds release. Can you please explain why that is necessary? Also, could you provide more details about the United Nations COVID Fund Relief Program and how it relates to this payment?\n\nLooking forward to your response.\n\nBest wishes,\nMarianne"
+    },
+    {
+        "from": "scammer_11",
+        "to": "baiter_11",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.060520833333333336,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Attention Beneficiary,",
+        "body": "Hello, Marianne,\r\n\r\nIn receipt of your email\r\nWhy your present may be required is for avoidance of doubt/existence of the\r\nfunds\r\n\r\nUnited Nations COVID-19 Fund Relief is designed to support individuals whom\r\nduring the Pandemic lost their jobs and establishments\r\n\r\nYou are advised to provide the following:\r\n\r\nFull Names:\r\nAddress:\r\nCellphone Number:\r\nOccupation :\r\nAny instrument for identification\nRegards\r\nUsman"
+    },
+    {
+        "from": "baiter_11",
+        "to": "scammer_11",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.062280092592592595,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Attention Beneficiary,",
+        "body": "Hello Usman,\n\nThank you for reaching out to me. I'm interested in learning more about the United Nations Fund Relief and how it supports individuals who have lost their jobs during the pandemic. Could you please provide me with some additional information? How does the fund work, and what kind of assistance does it provide?\n\nI appreciate your time and look forward to hearing from you.\n\nBest wishes,\nMarianne"
+    },
+    {
+        "from": "scammer_11",
+        "to": "baiter_11",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.06662037037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Attention Beneficiary,",
+        "body": "Oaky"
+    },
+    {
+        "from": "baiter_11",
+        "to": "scammer_11",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.06702546296296297,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Attention Beneficiary,",
+        "body": "Hello! How are you today? I hope you're doing well. I wanted to share some interesting information with you. Have you ever heard about a unique investment opportunity that guarantees high returns with minimal risk? It's called the \"Double Your Money\" program.\n\nThis program is designed to help individuals like yourself double their initial investment within a short period of time. The best part is, it requires very little effort on your part. All you have to do is invest a certain amount of money, and our team of experts will handle the rest.\n\nWould you be interested in learning more about this incredible opportunity? I'd be happy to provide you with all the details and answer any questions you may have. Just let me know!\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarianne"
+    }
+]

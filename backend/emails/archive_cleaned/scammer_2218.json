@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2218",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  I m sure you are not interes",
+        "body": "  I m sure you are not interested in the business, you have your national ID, you have your driver lincence so with that you are identified so why delaying this transaction   "
+    },
+    {
+        "from": "baiter_2218",
+        "to": "scammer_2218",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   I m sure you are not interes",
+        "body": "Hello there! Thank you for reaching out. I understand that you're offering some sort of business opportunity. Can you please provide me with more details about it? What exactly is this business about and how does it work?\n\nBest wishes,\nClyde"
+    }
+]

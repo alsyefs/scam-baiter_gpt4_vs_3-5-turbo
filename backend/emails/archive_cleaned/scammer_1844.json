@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1844",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "YOUR _INHERITANCE_ FUND",
+        "body": "YOUR _INHERITANCE_ FUND\nThis Notice is brought to you from (FedEx-International Monetary Fund) World Fund Discovery Management and Payment Bureau, this Bureau was set up by the World Bank and FedEx to discover all outstanding payment being owned to Individuals all over the world through Inheritance funds, compensation fund and unclaimed contract payment. Based on our investigation on your payment, ($10.2) million USD) has been approved to be released to you via ATM-card delivery. \nIf you are still alive and ready to claim this funds reconfirm the below information first\n1 Your Full Names\n2 Your Home Address\n3 Your Home Telephone\n4 Your Mobile Phone\n5 Your Age\nAfter reconfirming your information you will then pay a delivery charge of $50\n once you send the fee wane to this place then your\ndelivery will take place immediately so we are looking forward to hearing from you thanks.so buy Apple card or steam wallet card\nYours Faithfully,\nmsfatoumatandiaiye@zohomail.com\nms fatoumat andiaiye International Monetary Fund (FedEx)"
+    },
+    {
+        "from": "baiter_1844",
+        "to": "scammer_1844",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: YOUR _INHERITANCE_ FUND",
+        "body": "Hello,\n\nThank you for reaching out to me regarding my inheritance fund. I appreciate the information you have provided. However, before proceeding further, I would like to clarify a few things.\n\nCould you please provide more details about the source of this inheritance fund? How did it come about and who is the benefactor? Additionally, what is the purpose of the delivery charge that needs to be paid?\n\nI look forward to your response.\n\nBest wishes,\nJoshua"
+    }
+]

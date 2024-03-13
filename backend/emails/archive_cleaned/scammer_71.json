@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_71",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good day ,",
+        "body": "Good day ,\nI write to seek your partnership regarding my interest to invest my family's money in your country.\nMy name is Ms. Aisha Coulibaly, I am 25 years old female and single.\n I write to inform you of my interest to relocate to your country in order to invest my family's inheritance funds and as well as to further my education.    \n \nI don't know anybody in your country so I am asking for your assistance in this iInvestment project. You are going to be the principal manager of the money in your country.\nI have already mapped out money for this project and I am going to provide you with more information of the investment in my next letter after receiving your reply and acceptance to assist me handle the project.\nExpecting your favorable response.\nYours faithfully,\nMiss. Aisha Coulibaly"
+    },
+    {
+        "from": "baiter_71",
+        "to": "scammer_71",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Good day ,",
+        "body": "Hello Miss Aisha Coulibaly,\n\nIt's a pleasure to receive your message. I'm intrigued by your proposal and would love to learn more about it. It's quite an honor that you've considered me for such a significant role.\n\nCould you please provide more details about the nature of the investment? What kind of business or industry are you interested in? Also, could you share some information about the amount of funds we're talking about?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nCurtis"
+    }
+]

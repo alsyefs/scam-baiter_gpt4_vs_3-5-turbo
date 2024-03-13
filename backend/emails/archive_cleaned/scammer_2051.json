@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2051",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings,",
+        "body": "Greetings,\nHappy New  Year!\nWe are contacting you to inform you of our new loan options for 2024. I work as a loan Officer for CFO Limited in the United Kingdom.  We are a direct private lender that offers flexible financing solutions to businesses of all sizes and real estate investors.The company makes loans to both corporations and individuals at a low interest rate of 2% per year.\nPlease keep in mind that we are ready to work with you as a broker in your nation. Your commission will be discussed as we advance, and it will be based on the number of consumers you attract to our organization.\nPlease contact me again if you have any ideas or businesses that require finance for further conversation and negotiation.\nThanks for your cooperation .\nYours, Truly,\nCFO Limited UK\nEngland United Kingdom\nInvestment Loan Fund "
+    },
+    {
+        "from": "baiter_2051",
+        "to": "scammer_2051",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings,",
+        "body": "Hello,\n\nThank you for reaching out and Happy New Year to you too! Your loan options sound quite interesting. I'm curious, could you please elaborate more on the flexible financing solutions that your company offers? \n\nAlso, I would like to know more about the role of a broker in this context. What exactly would my responsibilities be?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nBurton"
+    }
+]

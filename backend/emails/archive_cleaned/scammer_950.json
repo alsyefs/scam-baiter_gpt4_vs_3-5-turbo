@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_950",
+        "to": "baiter_950",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "PLEASE FORWARD THESE DETAILS TO ME IMMEDIATELY",
+        "body": "15th February, 2024\r\n\r\n\r\nDear Martha,\r\n\r\n\r\n\r\nI Wish To Inform You That Based On The Directives Of Dr Godwin Emefiele The Former Central Bank of Nigeria Governor, Andrew Emefiele Father, My Client And Your Business Partner, I Am Sending You These Very Email.\r\n\r\n\r\nBe Informed That All That You Are Required To Send Us Now Are As Follows;\r\n\r\n\r\n1. A Duly Registered Company With The Corporate Affairs Commission {CAC}\r\n\r\n\r\n2. A Valid Nigeria Commercial Bank Account Details\r\n\r\n\r\n3. Your Full Name & Address   4. Private Telephone Number\r\n\r\n\r\n5. Copy Of International Passport Or Driver's License\r\n\r\n\r\nBe Informed That Upon The Receipt Of The Above, I What Will Send Them To The Central Bank Of Nigeria To Enable Them Release The $25.7 Million Funds To You As The New Beneficiary Within 72 Hours As Already Scheduled.\r\n\r\n\r\nI Await Your Very Very Urgent Response. Thank You and My Best Regards.\r\n\r\n\r\n\nBarrister Gimba Umar Esq\r\n\r\n+234 703 752 3033"
+    },
+    {
+        "from": "baiter_950",
+        "to": "scammer_950",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: PLEASE FORWARD THESE DETAILS TO ME IMMEDIATELY",
+        "body": "Dear Barrister Gimba Umar Esq,\n\nThank you for reaching out to me with this information. I appreciate your prompt response. However, I have a few questions before proceeding further.\n\n1. Could you please provide more details about the directives of Dr. Godwin Emefiele and how it relates to my business partnership with Andrew Emefiele?\n\n2. Can you explain why the Central Bank of Nigeria requires the company's registration with the Corporate Affairs Commission (CAC) and valid bank account details? How does this ensure the release of the funds?\n\n3. Is there any specific reason why my full name, address, private telephone number, and a copy of my passport or driver's license are needed? How will this information be used in the process?\n\nI look forward to your response and clarification on these matters.\n\nBest wishes,\nMartha"
+    }
+]

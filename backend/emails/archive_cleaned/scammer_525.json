@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_525",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Attn:",
+        "body": " Attn:\nI am Dr.LEON CILLIAN  ,the Finance Department Director with the International Monetary Fund (IMF) . We are currently working with the World bank and other banks in Europe, America, Africa and Asia in resolving some financial issues with regards to large amounts of money been owed to several individuals for Inheritance/Contract Sum/Lottery Wins and other financial transactions but are yet to be paid.\nI came across a file marked in red with your name on it and after going through it I discovered that you are been owed and have tried to receive your funds without much success and I want you to know that I am in a position to assist you get your funds released immediately and paid to you once and for all .\nDo get back to me for more details and please do note that I am contacting you in a private capacity.\nYours Faithfully ,\n Dr.LEON CILLIAN\nFinance Department Director\nInternational Monetary Fund    "
+    },
+    {
+        "from": "baiter_525",
+        "to": "scammer_525",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  Attn:",
+        "body": "Hello CILLIAN,\n\nThank you for reaching out to me. I appreciate your willingness to assist in resolving financial issues. I'm interested in learning more about how you can help me receive the funds that are owed to me. Could you please provide some additional details on the process and what steps I need to take?\n\nAlso, could you clarify which specific funds are owed to me? It would be helpful to know more about the source of these funds and why they have not been paid yet.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRobert"
+    }
+]

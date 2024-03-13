@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1109",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attn: ",
+        "body": "  Attn: \nDear Sir,\nI have received your email with the requested information. \nI wish to inform you that I am not charging any fee from you to get the counter affidavit from the appropriate authority (High Court).\nBut bear in mind that you'll settle my professional fees when you confirm your payment in your account.\n As soon as I obtain the counter affidavit and send it to you to submit to the bank,,the bank will process your payment thereafter, release your funds to you.\nThank you for your trust in the efficiency of our services.\nMs. Halimatu Jimoh\nSecretary, Cosmic Chambers   "
+    },
+    {
+        "from": "baiter_1109",
+        "to": "scammer_1109",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attn: ",
+        "body": "Dear Ms. Halimatu Jimoh,\n\nThank you for your prompt response. I appreciate your willingness to assist me in obtaining the counter affidavit from the High Court. It's reassuring to know that there won't be any fees charged upfront.\n\nCould you please provide me with more details about the process of confirming my payment in my account? How long does it usually take for the counter affidavit to be obtained and sent to me?\n\nAlso, I would like to know if there are any specific documents or information that I need to provide in order to proceed with this process smoothly.\n\nThank you once again for your assistance.\n\nBest wishes,\nAngela"
+    }
+]

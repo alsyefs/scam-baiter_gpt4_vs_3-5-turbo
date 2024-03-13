@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1329",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Sir/Madam,",
+        "body": "Dear Sir/Madam,\nI am a broker linked with high profile investors who are interested and willing to fund you in any current project you are undergoing, as they are privately seeking means of expanding their investment portfolio globally.\nTo this end, we seek to know the possibility of going into partnership discussion with your company within your present scope of business. Whether its a start-up project looking to launch a pilot project, a company with proven technology that needs capital input to reach commercial scale. \nWe are open to structure a loan package and agreement based on your financial needs and projections.\nShould you be interested to engage us for a more detailed discussion on the aforementioned proposal, we would be happy to do so in whatever medium you find much more appropriate for this engagement.\nI look forward to your favorable response\nThanks,\n \nMr. Johnathan Fleming"
+    },
+    {
+        "from": "baiter_1329",
+        "to": "scammer_1329",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Sir/Madam,",
+        "body": "Hello Mr. Johnathan Fleming,\n\nThank you for reaching out and expressing interest in my business endeavors. It's always exciting to hear from individuals who are keen on expanding their investment portfolio globally.\n\nI'm curious about the types of projects your high-profile investors have previously funded. Could you provide some examples? Also, could you elaborate more on how the loan package structure typically works?\n\nLooking forward to hearing more about this opportunity.\n\nBest wishes,\nLouis"
+    }
+]

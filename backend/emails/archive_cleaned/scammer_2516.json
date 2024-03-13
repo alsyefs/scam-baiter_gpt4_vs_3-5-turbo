@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2516",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello Dear.",
+        "body": "  Hello Dear.\nThis is from the office of the United nation Organization. Did you send someone else to make a claim for your compensation fund? Respond now so that we don,t make any mistakes.\nThis payment Program is organized for charity organizations, unpaid government Contractors, Scam victims and for those who lost their properties/businesses during the Covid19 crisis.\nKindly respond to this message in order to direct and process your payment within 7 working days without any further delay.\nI look forward to receiving your urgent response.\nRegards\nMrs Amina Mohamed.   "
+    },
+    {
+        "from": "baiter_2516",
+        "to": "scammer_2516",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello Dear.",
+        "body": "Hello Mrs. Ina Mohamed,\n\nThank you for reaching out to me. I appreciate the information you have provided about the payment program for charity and unpaid government scam victims. It's unfortunate that there are people who have suffered during such crises.\n\nCould you please provide more details about how this program works? I would like to understand the process and what steps need to be taken in order to receive the payment. Additionally, is there any documentation or verification required?\n\nI look forward to your response.\n\nBest wishes,\nRobert"
+    }
+]

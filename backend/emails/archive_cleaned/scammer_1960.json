@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1960",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Sir/Madam,",
+        "body": "Dear Sir/Madam,\nI Am Albert Atkins, an Accountant with the Nigerian National Petroleum\nCorporation (NNPC). I Also headed A Seven-Man Tenders Board in charge\nof Contract Awards and Payment Approvals. I am contacting  you in my\nquest for a reliable and reputable person to handle a very\nconfidential transaction which involves the transfer of a huge Sum of\nmoney to a Foreign Account.\nFirstly, I want to crave your indulgence to handle this proposal with\nutmost secrecy and give it the urgency it deserves\nSometimes in 2018, there were series of Contracts Executed by a\nConsortium of Multi-Nationals in the Oil Industry in favor of my\nCorporation, NNPC. The Original Value of this Contracts was\ndeliberately over-invoiced for our personal use. Please, note that the\nCompanies that Actually Executed these Contracts have been fully paid\nand the Projects Officially Commissioned.\nI am seeking your assistance and Willingness To Transfer the over\ninvoiced Amount To Your Account For Subsequent Disbursement, Since We,\nCivil Servants Are Prohibited By law From Operating And/or-opening\nForeign Accounts In Our Names. Needless To Say, The Trust Reposed On\nYou At This Juncture Is Enormous.\nIt is the Over Invoiced which is currently in the suspense account of\nmy Corporation (NNPC) that I and my colleague have agreed to transfer\ninto a foreign account for Investment purpose.\nAt the successful transfer of the funds, it will be shared on an\nagreed percentage between me and you on the other side. What Is more\nimportant to us is to get the funds transferred out of this country\ninto a foreign account after we can meet.\nPlease, indicate your willingness by contacting me through my private\nemail address (\nalbertatkins59@gmail.com\n) for more details / plans.\nThanks,\nALBERT ATKINS"
+    },
+    {
+        "from": "baiter_1960",
+        "to": "scammer_1960",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Sir/Madam,",
+        "body": "Hello Albert Atkins,\n\nThank you for reaching out and sharing this information with me. It sounds like a very interesting situation you're in. I must admit, I'm not very familiar with the intricacies of international finance or the oil industry, but I'm always eager to learn more.\n\nCould you perhaps explain a bit more about how this process works? How is it possible to have an over-invoiced amount? And why is it necessary to transfer these funds into a foreign account?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nEdward"
+    }
+]

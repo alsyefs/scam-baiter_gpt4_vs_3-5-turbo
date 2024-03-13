@@ -1,0 +1,302 @@
+[
+    {
+        "from": "scammer_1049",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello,",
+        "body": "  Hello,\nI am reaching out to request your collaboration on a mutually beneficial opportunity originating from Camp Stanley in Uijeongbu, South Korea. I am currently stationed in Uijeongbu, South Korea. Please respond for further details.\nThank you for your consideration.\nSgt. Wilson\nEmail: \niamausarmy@gmail.com\n "
+    },
+    {
+        "from": "baiter_1049",
+        "to": "scammer_1049",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello,",
+        "body": "Hello Sgt. Wilson,\n\nIt's a pleasure to hear from you! I'm intrigued by your message and would love to learn more about this mutually beneficial opportunity you mentioned. Could you please provide some more details? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAlfonso"
+    },
+    {
+        "from": "scammer_1049",
+        "to": "baiter_1049",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Hello,",
+        "body": "What are you looking for? I never sent you any proposal"
+    },
+    {
+        "from": "baiter_1049",
+        "to": "scammer_1049",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.034375,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Hello,",
+        "body": "Hello there! I'm sorry for any confusion, but I don't recall receiving a proposal from you. Could you please provide more details about it?\n\nBest wishes,\nAlfonso"
+    },
+    {
+        "from": "scammer_1049",
+        "to": "baiter_1049",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.27371527777777777,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Hello,",
+        "body": "Dear Mr. Alfonso,\r\n\r\nI appreciate your swift response and your interest in my situation. Let me\r\nprovide more details about the Camp Red Cloud Army Base, where I am\r\ncurrently stationed in South Korea. This base, operated by the United\r\nStates, is situated near Uijeongbu, forming the largest part of the Red\r\nCloud Garrison. Positioned close to the DMZ, its primary goal is to\r\nmaintain peace in the region, under the management of the US Army. Although\r\nits history is not extensive, it holds strategic significance.\r\n\r\nRegarding my previous message, severe rains led to devastating flooding in\r\nSouth Korea, resulting in the loss of lives, homes, and businesses,\r\nparticularly affecting wealthy individuals and politicians. During a\r\nroutine patrol, I discovered a hidden box containing $15 million in a\r\ndemolished building. Suspecting it belonged to corrupt politicians, I kept\r\nit confidential. Now, with my active duty, I seek a trustworthy person to\r\nsecure the funds until my return from Uijeongbu.\r\n\r\nI apologize for intruding into your privacy but found your profile in the\r\nDOD database, prompting me to seek your assistance. My late wife, Deborah\r\nWilson, would have handled this, but her tragic demise in the 9/11 attacks\r\nled me to join the US Army. I am determined to combat terrorism and aspire\r\nto a peaceful retirement. Trust is paramount; upon transfer, I suggest a\r\n40-50-10 split, with you keeping 40%, 50% for me, and 10% donated to\r\ncharity.\r\n\r\nCan I trust you with this responsibility? What is your occupation, and are\r\nyou married with children? The discreet transfer of funds is crucial, and I\r\nemphasize the need for confidentiality. If you are willing and capable,\r\nplease confirm your commitment, and we can proceed with the necessary\r\narrangements through email.\r\n\r\nThank you once again, and may God bless you. Kindly acknowledge the receipt\r\nof this message.\r\n\nSincerely,\r\nSgt. Wilson"
+    },
+    {
+        "from": "baiter_1049",
+        "to": "scammer_1049",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.28629629629629627,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Hello,",
+        "body": "Dear Sgt. Wilson,\n\nThank you for your detailed message and for considering me trustworthy enough to share such sensitive information. I'm truly sorry to hear about the loss of your wife, Deborah Wilson. It must be tough for you.\n\nThe situation in South Korea sounds quite challenging, especially with the recent flooding. I hope things get better soon.\n\nAs for the funds you mentioned, it's a significant amount indeed! However, I'm curious about how you plan to transfer these funds discreetly? Also, what kind of charity are you thinking of donating to?\n\nI'm single and live alone, so there's no family to worry about on my end. But before we proceed further, could you please tell me more about this DOD database where you found my profile? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAlfonso"
+    },
+    {
+        "from": "baiter_1049",
+        "to": "scammer_1049",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2864467592592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Hello,",
+        "body": "Dear Sgt. Wilson,\n\nThank you for your detailed message and for the trust you've placed in me. I'm truly sorry to hear about the loss of your wife, Deborah Wilson. It's admirable that you've chosen to join the US Army in response to such a tragedy.\n\nThe situation at Camp Red Cloud Army Base sounds quite challenging, especially with the recent flooding. I hope everyone there is safe and well.\n\nRegarding your proposal, it's quite an unexpected one. I must admit, I'm not very familiar with these kinds of transactions or how they work. Could you perhaps provide more information on how this process would be carried out? What steps would we need to take?\n\nAlso, could you tell me more about the charity you mentioned? It's wonderful that you're thinking of helping others even in such difficult circumstances.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAlfonso"
+    },
+    {
+        "from": "baiter_1049",
+        "to": "scammer_1049",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.32611111111111113,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Hello,",
+        "body": "Dear Sgt. Wilson,\n\nThank you for your detailed message and for trusting me with such a significant matter. I'm truly sorry to hear about the loss of your wife, Deborah Wilson. It's admirable that you've chosen to fight against terrorism in her memory.\n\nI'm intrigued by your story about the Camp Red Cloud Army Base and the situation you're currently facing. It must be quite challenging to manage such a responsibility while also serving on active duty.\n\nAs for your question, I'd like to know more about how this process works. How would the funds be transferred? And what kind of security measures are in place to ensure everything goes smoothly?\n\nLooking forward to hearing from you soon.\n\nBest regards,\nMr.\n\nBest wishes,\nAlfonso"
+    },
+    {
+        "from": "baiter_1049",
+        "to": "scammer_1049",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3678472222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Hello,",
+        "body": "Dear Sgt. Wilson,\n\nThank you for your detailed explanation about the Camp Red Cloud Army Base and your current situation. It's quite intriguing to learn about the base's strategic importance and its role in maintaining peace in the region.\n\nI'm sorry to hear about the tragic loss of your wife, Deborah Wilson. Your determination to combat terrorism is truly commendable.\n\nRegarding the funds you mentioned, I understand that trust is paramount in this situation. However, I would like to know more about how you plan on transferring these funds discreetly? Also, could you please provide more information on how we can ensure that part of these funds will indeed go to charity?\n\nAs for my personal life, I prefer not to share too much online due to privacy concerns. But rest assured, I am a trustworthy individual who values honesty and integrity above all else.\n\nLooking forward to hearing from you soon.\n\nBest regards,\nMr.\n\nBest wishes,\nAlfonso"
+    },
+    {
+        "from": "baiter_1049",
+        "to": "scammer_1049",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.40974537037037034,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Hello,",
+        "body": "Dear Sgt. Wilson,\n\nThank you for your detailed message and for the trust you've placed in me. I'm truly sorry to hear about the loss of your wife, Deborah. It's clear that she was a very important person in your life.\n\nThe situation you're describing sounds quite extraordinary! I can't imagine what it must be like to discover such a large sum of money during a routine patrol. It's fascinating how life can take unexpected turns, isn't it?\n\nI'm curious about how this process would work. How exactly would the funds be transferred? And what kind of security measures are in place to ensure everything goes smoothly? \n\nAs for your questions, I prefer not to share personal details online due to privacy concerns. However, I assure you that I am capable of handling this matter with utmost discretion.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAlfonso"
+    },
+    {
+        "from": "baiter_1049",
+        "to": "scammer_1049",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.45101851851851854,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Hello,",
+        "body": "Dear Sgt. Wilson,\n\nThank you for your detailed message and for trusting me with such a significant matter. I'm truly sorry to hear about the loss of your wife, Deborah. It's admirable that you've chosen to join the US Army in response to such a tragedy.\n\nThe situation at Camp Red Cloud sounds intense, and I can only imagine how challenging it must be. The work you're doing is important, and I appreciate your service.\n\nRegarding the funds you mentioned, it's quite a surprise! However, I'm curious about how this process would work? How do we ensure that everything is done legally and safely? Also, could you tell me more about the charity you'd like part of the money donated to?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nAlfonso"
+    },
+    {
+        "from": "baiter_1049",
+        "to": "scammer_1049",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.45158564814814817,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: Hello,",
+        "body": "Dear Sgt. Wilson,\n\nThank you for your detailed message and for the trust you've placed in me. I'm truly sorry to hear about the loss of your wife, Deborah. It's clear that she was a remarkable woman.\n\nThe situation you're describing sounds quite extraordinary! I can't imagine what it must be like to discover such a large sum of money in such unexpected circumstances. \n\nI'm curious, how did you manage to keep this discovery a secret? And why do you believe the money belonged to corrupt officials?\n\nAs for your questions, I am indeed married with two wonderful children. However, I would prefer not to disclose any further personal information at this point.\n\nRegarding the transfer of funds, could you please provide more details on how this process would work? What steps are involved and what kind of assistance do you need from me?\n\nLooking forward to hearing from you soon.\n\nBest regards,\nMr.\n\nBest wishes,\nAlfonso"
+    },
+    {
+        "from": "scammer_1049",
+        "to": "baiter_1049",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.1289814814814816,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: Requirements",
+        "body": "Dear Mr. Alfonso,\r\n\r\nThank you for your prompt response and understanding. Your condolences\r\nregarding the loss of my wife, Deborah, are deeply appreciated.\r\n\r\nI understand your concerns about the funds and the legal and safety aspects\r\nsurrounding the process. Rest assured, all necessary precautions will be\r\ntaken to ensure that the transfer of funds is done in accordance with the\r\nlaw and in a safe manner. I will provide you with detailed information and\r\nguidance every step of the way to ensure transparency and compliance.\r\n\r\nAs for the charity to which a portion of the funds will be donated, I\r\nbelieve it would be more appropriate to discuss this matter once the funds\r\nhave been successfully transferred to you. This way, we can make an\r\ninformed decision together and ensure that the donation is made to a\r\nreputable and deserving organization.\r\n\r\n Rest assured, the legitimacy of this business deal is unequivocal, and you\r\nhave no grounds for doubting its legality. Should you choose to\r\ncollaborate, I recommend furnishing me with the following details.\r\n\r\nYour Full Names\r\nYour Address\r\nYour Telephone Number\r\nYour Occupation\r\nYour bank name\r\nBank Address\r\nBank Account number\r\nRouting Number\r\nYour phone number(Whatsapp)\r\nPhoto ID\r\n\r\nUpon receiving the specified details, I will promptly forward them to the\r\nbank to facilitate the immediate transfer of funds to your designated\r\naccount. Subsequently, the bank will initiate contact for additional\r\nverification procedures. Your cooperation in providing the requested\r\ninformation is greatly appreciated\r\n\r\nThank you once again for your cooperation and willingness to assist. Your\r\nsupport is invaluable, and I look forward to working with you to achieve\r\nour objectives.\nBest regards,\r\n\r\nSgt. Wilson"
+    },
+    {
+        "from": "baiter_1049",
+        "to": "scammer_1049",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.1607407407407409,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: Requirements",
+        "body": "Dear Sgt. Wilson,\n\nThank you for your detailed response and reassurances about the safety and legality of this process. I'm sorry to hear about the loss of your wife, Deborah. It's a tough time, but it's heartening to see that you're thinking of others through charity.\n\nI'm curious about how this process works. Could you explain more about how the funds will be transferred? And what kind of guidance will I receive throughout this process?\n\nAs for the charity, I agree that it would be best to discuss this once the funds have been transferred. There are so many deserving causes out there, it would be great to make an informed decision together.\n\nI'm not sure why you need all those details from me though. Isn't it possible to transfer funds without all that information? \n\nLooking forward to hearing from you soon.\n\nBest regards,\nMr.\n\nBest wishes,\nAlfonso"
+    },
+    {
+        "from": "scammer_1049",
+        "to": "baiter_1049",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.167326388888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: Requirements",
+        "body": "DO NOT CONTACT ME AGAIN. YOU ARE A JOKER"
+    },
+    {
+        "from": "baiter_1049",
+        "to": "scammer_1049",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2011226851851853,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: Requirements",
+        "body": "Hello there! I'm not sure I understand what you mean by \"joker\". Could you please explain it to me?\n\nBest wishes,\nAlfonso"
+    },
+    {
+        "from": "baiter_1049",
+        "to": "scammer_1049",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2023958333333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: Requirements",
+        "body": "Dear Sgt. Wilson,\n\nThank you for your detailed response and reassurances about the safety and legality of this process. I'm sorry to hear about the loss of your wife, Deborah. It's a noble cause to want to donate a portion of these funds to charity.\n\nI'm curious about how this process works. Could you provide more information on how the transfer will be done? And what kind of guidance will I receive throughout this process?\n\nAs for the charity, I agree that it would be best to discuss this once the funds have been transferred. There are so many deserving charities out there, it would be great if we could make an informed decision together.\n\nRegarding the details you've asked for, I'm afraid I can't provide them at this time. But don't worry, I'm still very interested in helping out with this cause! Is there any other way we can proceed without sharing such sensitive information?\n\nLooking forward to hearing from you soon!\n\nBest regards,\nMr.\n\nBest wishes,\nAlfonso"
+    },
+    {
+        "from": "baiter_1049",
+        "to": "scammer_1049",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2430787037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: Requirements",
+        "body": "Dear Sgt. Wilson,\n\nThank you for your detailed response and reassurances about the safety and legality of this process. I'm sorry to hear about the loss of your wife, Deborah. It's a tough time, but it's heartening to see that you're thinking of others through charity.\n\nI'm curious about how this process works. Could you explain more about how the funds will be transferred? And what kind of legal measures are taken to ensure everything is above board?\n\nAs for the charity, I agree that it would be best to discuss this once the funds have been transferred. There are so many deserving causes out there, it would be good to make an informed decision together.\n\nRegarding the details you've asked for, I'm a bit hesitant to share such personal information over email. Is there another way we could facilitate this transfer that doesn't require me sharing all these details?\n\nLooking forward to hearing from you soon.\n\nBest regards,\nMr.\n\nBest wishes,\nAlfonso"
+    },
+    {
+        "from": "baiter_1049",
+        "to": "scammer_1049",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2434027777777779,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: Requirements",
+        "body": "Dear Sgt. Wilson,\n\nThank you for your detailed response and reassurances about the safety and legality of this process. I'm sorry to hear about the loss of your wife, Deborah. It's a tough time, but it's heartening to see that you're thinking of others through charity.\n\nI'm curious about how this process works. Could you provide more information on how the funds will be transferred? Also, what kind of charities are we considering for donations? I'd love to learn more about them.\n\nAs for the details you requested, I'm afraid I can't share them at this point due to privacy concerns. However, I am eager to continue our conversation and learn more about this opportunity.\n\nLooking forward to hearing from you soon!\n\nBest regards,\nMr.\n\nBest wishes,\nAlfonso"
+    },
+    {
+        "from": "baiter_1049",
+        "to": "scammer_1049",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2848958333333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: Requirements",
+        "body": "Dear Sgt. Wilson,\n\nThank you for your detailed response and reassurances about the safety and legality of this process. I'm sorry to hear about the loss of your wife, Deborah. It's a noble cause to want to donate a portion of these funds to charity.\n\nI'm curious, how did you come across my contact information? And could you tell me more about how this process will work? I'd like to understand it better before we proceed.\n\nAs for the details you've requested, I'm afraid I can't provide them at this time. I hope that doesn't hinder our conversation too much.\n\nLooking forward to hearing from you soon!\n\nBest,\nMr.\n\nBest wishes,\nAlfonso"
+    },
+    {
+        "from": "scammer_1049",
+        "to": "baiter_1049",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.592800925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Re: Requirements",
+        "body": "DO NOT CONTACT ME ANYMORE."
+    },
+    {
+        "from": "baiter_1049",
+        "to": "scammer_1049",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.6176273148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: Requirements",
+        "body": "Hello there! I hope you're having a good day. I'm curious, why do you want me to stop contacting you? Is there something that's bothering you?\n\nBest wishes,\nAlfonso"
+    },
+    {
+        "from": "scammer_1049",
+        "to": "baiter_1049",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.7384606481481482,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "22",
+        "subject": "Re: Requirements",
+        "body": "You think this proposal is a child's play?. Do me a favour, Stop contacting\r\nme."
+    },
+    {
+        "from": "baiter_1049",
+        "to": "scammer_1049",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.7426851851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "23",
+        "subject": "Re: Requirements",
+        "body": "Hello there,\n\nI appreciate your message and the proposal you've shared. It's interesting, to say the least. Could you perhaps provide a bit more detail about it? I'm curious to understand better.\n\nBest wishes,\nAlfonso"
+    },
+    {
+        "from": "scammer_1049",
+        "to": "baiter_1049",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.7446064814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "24",
+        "subject": "Re: Requirements",
+        "body": "I have found a more reliable individual. I do not need your involvement. BYE"
+    },
+    {
+        "from": "baiter_1049",
+        "to": "scammer_1049",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.7842476851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "25",
+        "subject": "Re: Requirements",
+        "body": "Hello there! I appreciate your message. It's great to hear that you've found something reliable. Can you tell me more about it? What makes it so trustworthy?\n\nBest wishes,\nAlfonso"
+    },
+    {
+        "from": "baiter_1049",
+        "to": "scammer_1049",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.8259722222222223,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "26",
+        "subject": "Re: Requirements",
+        "body": "Hello there! I appreciate your message, but I'm a bit confused. Could you please clarify what you mean by \"more reliable\"? And what exactly do I not need? Your input is valuable to me, so let's keep the conversation going.\n\nBest wishes,\nAlfonso"
+    },
+    {
+        "from": "baiter_1049",
+        "to": "scammer_1049",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.8262152777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "27",
+        "subject": "Re: Requirements",
+        "body": "Hello there! I appreciate your message. Could you please elaborate more on what you mean by \"more reliable\"? I'm always eager to learn new things.\n\nBest wishes,\nAlfonso"
+    },
+    {
+        "from": "baiter_1049",
+        "to": "scammer_1049",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.8262731481481482,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "28",
+        "subject": "Re: Requirements",
+        "body": "Hello there! I appreciate your message. It's interesting to hear that you've found something more reliable. Could you tell me more about it? What makes it so reliable?\n\nBest wishes,\nAlfonso"
+    },
+    {
+        "from": "baiter_1049",
+        "to": "scammer_1049",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.8265277777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "29",
+        "subject": "Re: Requirements",
+        "body": "Hello there! I appreciate your message, but I'm a bit confused. Could you please clarify what you mean by \"found more reliable\"? Are you referring to a product or service?\n\nBest wishes,\nAlfonso"
+    }
+]

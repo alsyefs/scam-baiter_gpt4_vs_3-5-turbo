@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2698",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention: Dear Sir/Madam",
+        "body": "Attention: Dear Sir/Madam\nI am Ahmed Yusuf, the Executive Assistance to late Herbert Wigwe, the Co-founder and Group Chief Executive Officer of Access Bank Holdings Plc, who died in a Helicopter crash on the 9th February 2024, of-which the sad incidence occurred near the border of California and Nevada -USA.\nMr. Herbert Wigwe who is also the owner of a prestigious Wigwe University died on board Eurocopter EC 130 Chopper, manufactured by Airbus Helicopter SAS and operated by Orbic Air, along with his lovely wife- Chizoba Wigwe and a promising Son- Chizi Wigwe. May their souls and other faithful departed rest in perfect Peace.\nBased on this untimely incidence, I am contacting you for a mutual business partnership, which will benefit both of us. Before the death of my boss- Mr. Herbet Wigwe, there was a deposit of US$75,000,000.00 (Seventy-Five Million US Dollars) lodged with a leading finance corporation in London- UK, which has been earmarked for investment on April 2024 but with his sudden death, the proposed investments can no longer stands and there is need to move the funds to your account without further delay.\nOn this note, I would want you to act as an investor to receive this US$75,000,000.00 in your account on a ratio of 60% for me and my colleagues and 40% for you and your partners. You have nothing to lose as every arrangement has been concluded as it is going to be a hitch-free transaction.\nThanks for your anticipated cooperation.\nRegards,\nAhmed Yusuf\nExecutive Assistance to Late Herbert Wigwe\nemail: \nysufahmed@yahoo.com"
+    },
+    {
+        "from": "baiter_2698",
+        "to": "scammer_2698",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attention: Dear Sir/Madam",
+        "body": "Hello Ahmed Yusuf,\n\nI'm sorry to hear about the tragic loss of Mr. Herbert Wigwe and his family. It must be a difficult time for you and everyone who knew them.\n\nYou mentioned a deposit of US Million US Dollars that was lodged with a leading finance in the UK. Could you please provide more details about this? How did Mr. Wigwe plan to invest these funds?\n\nAlso, I'm curious about the proposed ratio you mentioned - could you clarify what this means? \n\nLooking forward to hearing from you.\n\nBest wishes,\nDorothy"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1553",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Bank Name:USAA ",
+        "body": " Bank Name:USAA \nAccount Name:J. G. \nAccount Number:032013XXXX\nRouting number:314074269 \nSwift Code:UFSBUS44XXX\nUSAA Main Mailing Address USAA9800 Fredericksburg Rd.San Antonio, TX 78288\nHome address: Unionville, NC 28110   "
+    },
+    {
+        "from": "baiter_1553",
+        "to": "scammer_1553",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  Bank Name:USAA ",
+        "body": "Hello! Thank you for sharing the USAA main mailing address. I appreciate the information. Is there anything else you would like to share about USAA?\n\nBest wishes,\nLucy"
+    }
+]

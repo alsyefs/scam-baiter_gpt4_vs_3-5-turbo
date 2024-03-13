@@ -1,0 +1,672 @@
+[
+    {
+        "from": "scammer_371",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello,",
+        "body": "  Hello,\nWe are operating a funding program that offers collateral-free loans and project funding to individuals, organizations, and private establishments.\nIf you are seeking funding for a specific shovel-ready project, you will be funded at 1.5% principal annual interest.\nIf you would like to collaborate with us as a middleman/facilitator, you will earn 2% of the total project cost or loan as your commission for every successful loan or project funding deal facilitated by you. Our loan is special and we would clarify you with more details, Please get in touch if this is of interest to you for further details.\nRegards,\nCFO   "
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello,",
+        "body": "Hello there,\n\nThank you for reaching out and sharing this information. It sounds like an interesting opportunity. I'm curious to know more about your funding program. Could you please provide more details? For instance, what types of projects do you typically fund? And how does the process work?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "scammer_371",
+        "to": "baiter_371",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Good News Respond",
+        "body": "Your message has been received, sorry for my late response. Details will be\r\ngiven to you as soon as you respond back. My name is MO Jack Jamal, I'm the\r\nCFO of our company and our head office is in Saudi Arabia where we have\r\nbranches in Spain, Qatar, Netherlands, Kuwait, Barren, Turkey and Mexico,\r\nwe have a team of diplomatic financial consultants that can pay in\r\nIndonesia and Dubai. Our loan goes from 10 million minimum to 1.5 billion\r\nmaximum, we can also increase our loan if you are doing well. There must be\r\na physical meeting in one of our offices of your choice where you will do\r\nthe complete biometrics and the documentation order before we proceed to\r\nthe bank for the disbursement of your loan funds to you. If your loan is\r\nmore than 500 million, we disburse 40% to you immediately after the\r\ndocumentation has been obtained and our team will have to visit your site\r\nto see your project which after a week the other 60% will be disbursed to\r\nyou without wasting time after the successful inspection.\r\n\r\nI hope you understand, our loan is 100% legitimate and the only collateral\r\nrequired from you if you are interested is your full address, valid\r\nidentification (passport or driver's license), Whatsapp telephone number\r\nand the name you wish to have on the MOU. All of this information has to be\r\ncompleted before the MOU will be given to you, you will be happy using our\r\nloan because no one can stress or disturb you and our loan is peaceful,\r\nauthentic and 100% verifiable. Get back to me immediately if you are\r\ninterested. I await your urgent response.\nRegards,\r\n*CFO*"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0002199074074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Good News Respond",
+        "body": "Hello MO Jack Jamal,\n\nThank you for your detailed response. It's great to hear about the extensive reach of your company, with branches in so many countries. I'm intrigued by the loan options you've mentioned.\n\nCould you please elaborate more on the process of obtaining a loan? What does the biometrics and order process involve? Also, could you explain what an MOU is?\n\nI'm also curious about the site visit. What exactly does your team look for during this visit?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0006134259259259259,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Good News Respond",
+        "body": "Hello MO Jack Jamal,\n\nThank you for your detailed response. It's quite interesting to learn about the extensive reach of your company, with branches in so many diverse locations. I'm also intrigued by the loan amounts you mentioned, ranging from millions to billions. That's quite a range!\n\nI do have a few questions though, if you don't mind me asking. You mentioned that there must be a physical meeting at one of your offices - could you please elaborate on what this meeting would entail? Also, could you provide more information about the biometrics and order process?\n\nFurthermore, I'm curious about the site visit by your team for loans exceeding a certain amount. What exactly does this visit involve? And how is it determined whether or not my project is doing well?\n\nLastly, regarding the collateral required - full address, valid passport or driver's license Whatsapp telephone number and name for the MOU - could you explain why these specific pieces of information are necessary?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.04581018518518518,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Good News Respond",
+        "body": "Hello MO Jack Jamal,\n\nThank you for your detailed response. It's quite interesting to learn about the extensive reach of your company, with branches in so many diverse locations. I'm also intrigued by the loan amounts you mentioned, ranging from millions to billions. That's quite a range!\n\nI have a few questions though, if you don't mind me asking. You mentioned something about a physical meeting at one of your offices. Could you please elaborate on what this meeting would entail? Also, could you explain more about the biometrics and order process?\n\nFurthermore, I'm curious about the disbursement process for loans exceeding million. You mentioned that your team would visit my site to see my project - what exactly are they looking for during this visit?\n\nLastly, regarding the collateral required - full address, valid passport or driver's license Whatsapp telephone number and name for the MOU - could you clarify what an MOU is and why these specific pieces of information are needed?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.12873842592592594,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Good News Respond",
+        "body": "Hello MO Jack Jamal,\n\nThank you for your detailed response. It's quite interesting to learn about the operations of your company and the loan services you offer. I'm intrigued by the fact that your loans range from millions to billions, that's quite a wide range!\n\nI have a few questions though, if you don't mind. You mentioned something about a physical meeting in one of your offices. Could you please elaborate more on what this meeting would entail? Also, could you explain more about the biometrics and order process?\n\nYou also mentioned something about a team visiting my site if my loan is more than million. What exactly will they be looking for during this visit?\n\nLastly, could you provide more details about the MOU? What does it include and why is it necessary?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.21118055555555557,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Good News Respond",
+        "body": "Hello MO Jack Jamal,\n\nThank you for your detailed response. It's great to hear about the global presence of your company and the financial services you offer. I'm intrigued by the loan options, especially the fact that it ranges from million to billion.\n\nHowever, I have a few questions before we proceed further. Could you please elaborate on what you mean by 'complete biometrics'? Also, could you explain more about the process after obtaining the MOU? \n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "scammer_371",
+        "to": "baiter_371",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.2365625,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "READ THE DETAILS AND RESPOND",
+        "body": "*READ THE THREE MAILS CAREFULLY, COMPLETE INFORMATION WILL BE ON THE MOU*\r\n\r\n\r\n\r\nHello,\r\n\r\nThere would be an MOU that guides these loans, which would be sent to you.\r\nYou are to review, sign and return back to our managing director Dr. John\r\nSaheed on his official email address (johnsaheed@financemanagment.com).\r\nPlease kindly indicate the exact amount you are requesting for the loan.\r\nFirstly, these loans require a meeting in any of our offices which must\r\nhold for further discussion and signing of the loan documentation. Also,\r\nnote that the process is not strictly communicated by email, there must be\r\na physical meeting which would take place in any of our offices after which\r\nfunds would be disbursed to you. Without you coming for the physical\r\nmeeting, it will cost you because we would  recommend you to an attorney\r\nwho will stand for you, which is expensive. Our billionaire chairman do not\r\nlike it that way because of what is going on the internet and what is going\r\non in the world today, so no one will feel cheated which is why any of our\r\nclients needs to appear for the physical meeting, thumb prints,\r\ndocumentation signing and proceed together  to the bank for disbursement of\r\nyour loan funds to you which will happen same day if you arrive early. Be\r\ngood and smile because our billionaire chairman is globally connected with\r\nso many big banks and corresponding banks in the world, in which your loan\r\nfunds can be released once, bank draft or bit by bit depending on how you\r\nwant it released to you. The most important thing is the documentation and\r\nthe release is authentic and confirmable.\r\n\r\nYour information is being needed completely, because it stands as your\r\ncollateral. Please reconfirm\r\n\r\n- Full Name\r\n- Full address\r\n- Loan Amount Needed\r\n- Personal\\ WhatsApp telephone Number\r\n- Attach any copy of your valid identification (Passport or Driver's\r\nlicense)\r\n\r\nAs we said before, we are connected to various big banks all over the world\r\nand the corresponding bank is perfect, so there would never be any delay in\r\npayments. Our networking is wonderful and can never be compared with the\r\nrest of mind. I'm in charge of communication to inform our client to help\r\nthem understand our terms and guidelines for surrendering this loan before\r\ndirecting it to our managing director in charge. All our terms are simple,\r\nand collateral is straightforward which involves your full name, full\r\naddress, personal telephone number, and also the number you can reach on\r\nWhatsapp for the confidentiality guiding this loan. Our loan is 100% legit,\r\nwhich you would witness yourself in our various offices and bank\r\ntransactions so you have  nothing to worry about. We can transfer money\r\nanywhere in the world but if the loan is above $50 million would be split\r\nin batches. Again, our office can offer loans of 10 million (minimum) to 1\r\nbillion (maximum).\r\n\r\nCommunicating on the phone would commence as soon as the MOU has been\r\nsigned and sent back, our managing director Dr. John Saheed will\r\ncommunicate with you with his official email address and telephone number.\r\nThe information would be given to you as soon as the MOU is signed and\r\nreturned and you indicate the country you can travel to for the physical\r\nmeeting. We prefer meeting with our clients so they can witness the process\r\nof the loan, signing the documents themselves, all our clients are very\r\nhappy because we do not waste any of their time upon arrival. It takes a\r\nday process involving meetings in the morning at the office and at noon for\r\nthe bank release payments. Our clients can come in early and go back the\r\nnext day.\r\n\r\nIf you understand very well, then the next step is MOU. Please let me know\r\nif you need any clarification. In our previous emails, be informed that we\r\nhave our offices in Dubai, Netherland, London, Spain, Indonesia, Kuwait,\r\nBarren, Qatar or Turkey at which disbursement would be made. You are free\r\nto ask questions where you do not understand. Finally, if you are not\r\nbuoyant enough or capable of this loan you are free to refer someone who is\r\nwilling and capable, our loan remains the best with a 15 years grace and\r\nyou would manage it for 2years grace before the loan starts counting at\r\n1.5% Annual interest with the rest of mind. Get back to me with the details\r\nneeded, just go ahead and reconfirm please and also attach your\r\ninvestment\\project plan and whatsapp number where you can be reached and\r\nattach any of your valid identification. All our reconfirmation is to\r\nensure your details are correct and confirmed. I await your quick response.\r\n\r\n\r\nKind regards,\r\nCFO\r\n\r\n\r\n----------------------------------------------------------------------------------------------------------\r\n\r\nI really want to work with you and for you to receive this loan and our\r\nloan remains one of the best in the world today because we give 15 years\r\nand 1.5% interest rate when you manage the funds for the loan for 2years.\r\nWe are happy people because my billionaire chairman is progressive who\r\nhelps people a lot who is an oil magnet and he owns a football club, you\r\nhave nothing to lose as the loan would be given to you to manage before you\r\nstart paying back the 1.5% interest. Your collateral is your address, a\r\nvalid identification and your personal telephone number and also the name\r\nyou wish to be in the MOU, either your personal or your company name. We\r\ngive out big loans. Remember, from 10 million to 1 billion, please indicate\r\nthe amount you want and also attach your valid identification and where you\r\ncan be reached on whatsapp or call. Reconfirm your full details by\r\nresponding to this mail with the full details needed so we can forward it\r\nimmediately to our managing director Dr. John Saheed for your MOU to be\r\nready next tomorrow. Follow my instructions and reconfirm the details  if\r\nyou are interested in this loan and you will thank me later. Bank to bank\r\ntransfer without you appearing in any of our offices will cost you money\r\nupfront for clearance, that is why we made it mandatory for our client to\r\nvisit any of our offices for a physical meeting and documentation, signing\r\nand thumb prints.\r\n\r\n I would like to address a few points before finalizing the preparation and\r\ndelivery of the MOU. It would greatly help our process if you could provide\r\nme with more information regarding your loan request. Also, understanding\r\nthe intended purpose for the funds. It would be valuable for the content of\r\nthe MOU. Our networking remains the best and we are connected all over the\r\nworld with some big banks and we can give loans to any country in the\r\nworld. Our loan offer is the best (lowest) and unbelievable in the world\r\ntoday. AFTER THE BOARD MEETING TODAY, OUR OFFER GOES FROM 10 MILLION\r\n(MINIMUM) TO 1.5 billion (MAXIMUM) LIMIT. If there are any aspects of this\r\nmatter that seem unclear, please don't hesitate to reach out. I'm readily\r\navailable to furnish you with any necessary details to ensure complete\r\nunderstanding. The process of releasing these funds is designed to be\r\nstraightforward and transparent.\r\n\r\nTo proceed, I kindly request again to confirm\r\n\r\n- Full name\r\n- A valid address that you would prefer to have included in the MOU.\r\n- Loan amount needed\r\n- Personal telephone number and also, attach any of your valid\r\nidentification\r\n\r\nOnce the MOU is reviewed, don't waste time, sign and return. I'll be able\r\nto provide you with the contact information of our Managing Director.\r\nRemember, there would be a physical meeting in any of our offices to sign\r\nand release your funds to you. Our MD would guide you through the\r\nsubsequent steps and offer further insights into this loan initiative. Our\r\ncommitment remains centered on providing you with exceptional service.\r\n\r\nBest Regards,\r\nCFO\r\n\r\n\r\n\r\n--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\r\n\r\n\r\nThank you for your feedback and also sorry for the late reply. This loan\r\nrequires your home/office address, personal telephone/office numbers, full\r\nname and attached any of your valid identification, which is the\r\ncollateral. As previously stated, we are operating a funding programme that\r\nis providing entrepreneurs and individuals with quick, collateral-free\r\nfunding for economically viable projects and/or businesses of all sizes,\r\nincluding startup projects and existing businesses.\r\n\r\nPlease note the following essentials:\r\n-  Our funding is from a trust fund belonging to a consortium of\r\nhigh-net-worth angel investors, our chairman is from Saudi Arabia who owns\r\na football club, a philanthropist and has an oil well who desires to invest\r\nthrough entrepreneurial individuals and economically viable projects\r\nwithout revealing identities.\r\n- We do not enter into joint ventures or take equity ownership in the\r\nprojects we fund.\r\n-  We give loan to economically viable projects at 1.5% principal annual\r\ninterest and strictly by loan\r\n-  Our funding is un-restrictive to locations and project types\r\n- Our loan ranges from USD$10M (minimum) to USD$1.5B (maximum)\r\n- Our funding is 15 years, with a 2 year's grace period and the option of\r\nrenewing for an equal or half term.\r\n- Our key requirements for the funding of an economically viable project\r\nare an EXECUTED PROJECT FUNDING DEED OF AGREEMENT and a NOTARIZED PERSONAL\r\nUNDERTAKING of the Project Owner for the repayment of our funds and the\r\nperformance of his contractual obligations under the PROJECT FUNDING DEED\r\nOF AGREEMENT.\r\n-  Following the execution of our project funding DOA by the\r\nborrower/project owner and his issuance of a notarised personal undertaking\r\nfor the repayment of our funds and performance of his contractual\r\nobligations under the DOA, the loan will be disbursed within the next three\r\n(3) official days via SWIFT credit or via bank to bank  transfer. However,\r\ndepending on the size of the funding, the project owner/borrower may be\r\nrequired to attend a meeting in any of our offices at which disbursement\r\nwill be made via our angel investors’ bank.. This is payable by the\r\nborrower/project owner prior to the disbursement of funds.\r\n- The borrower/project owner is entitled to repay the loan including\r\naccumulated return in one lump sum at any time, including before the end of\r\nthe term of the loan. A prepayment penalty shall not be due. Proof of Fund\r\nis available and will be provided at an advanced stage of a loan/project\r\nfunding transaction that we deem real and/or serious.\r\n\r\nThe steps precedent to our loan are as follows:\r\n\r\nSTEP 1. We assess the borrower's project application/documentation in order\r\nto determine the viability and soundness of his project (This may take up\r\nto 24hrs)\r\n\r\nSTEP 2.  Presentation of our draft Funding Deed of Agreement as well as our\r\ndraft borrower's/project owner's Personal Undertaking for repayment of our\r\nloan and performance of contractual obligations under the loan/funding DOA.\r\n(This will be presented to the borrower/project owner as a formal\r\nexpression of our approval for the loan\r\n\r\nSTEP 3. The borrower/project owner signs the Funding DOA and returns it\r\nwith his notarized Personal Undertaking.\r\n\r\nSTEP 4. Disbursement of funds as outlined above.\r\n\r\nMiddleman/facilitator’s commission\r\n\r\nIf you are participating as a middleman, you will earn 2% of the total\r\nproject cost or loan amount as your commission for every successful loan or\r\nproject funding deal facilitated by you. Get back to me as soon as\r\npossible. I have more interesting details to give you that guide the loan,\r\nplease read carefully and respond back so I can feed you more understanding\r\ninformation.\r\n\nSincerely,\r\nCFO"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.29508101851851853,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Good News Respond",
+        "body": "Hello MO Jack Jamal,\n\nThank you for your detailed response. It's great to hear about the extensive reach of your company, with branches in so many diverse locations. I'm intrigued by the loan options you've mentioned, especially the possibility of increasing the loan if things are going well.\n\nI do have a few questions though. Could you please elaborate on what you mean by 'complete biometrics and the order'? Also, could you clarify what 'the successful' refers to in your message?\n\nYou mentioned that a physical meeting is required at one of your offices. Given the current global situation with COVID-19, are there any alternative arrangements available? \n\nLastly, I'm curious about the site visit by your team for loans more than million. What exactly does this entail?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2953935185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: READ THE DETAILS AND RESPOND",
+        "body": "Hello,\n\nThank you for your detailed explanation. I must say, it's quite a lot to take in at once. However, I'm intrigued by the opportunity and would like to learn more about it.\n\nYou mentioned an MOU that needs to be reviewed and signed. Could you please elaborate on what this MOU entails? Also, could you provide more information about the physical meeting? Where are your offices located?\n\nI'm also curious about the loan amounts. You mentioned that loans range from USD million minimum to USD billion maximum. That's quite a wide range! How do you determine the exact amount to lend?\n\nLastly, could you explain more about the repayment terms? You mentioned a year's grace period and an annual interest rate. What happens after the grace period ends?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2962962962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: Good News Respond",
+        "body": "Hello MO Jack Jamal,\n\nThank you for your detailed response. It's great to hear about the extensive reach of your company and the services you offer. I'm intrigued by the loan options you've mentioned.\n\nHowever, I have a few questions that I'd like to clarify before we proceed further. Could you please explain more about the biometrics process? Also, could you provide more details on what exactly is included in the 'order' that needs to be completed?\n\nI'm also curious about the site visitation process. What does it entail and what are your team looking for during this visit?\n\nLastly, could you elaborate on what an MOU is and its significance in this process?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3798958333333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: Good News Respond",
+        "body": "Hello MO Jack Jamal,\n\nThank you for your detailed response. It's great to hear about the global presence of your company and the financial services you offer. I'm intrigued by the loan options, especially the part where you mentioned that it can go from million minimum to billion maximum.\n\nHowever, I have a few questions before we proceed further. Could you please elaborate on what exactly is meant by 'complete biometrics'? Also, could you explain more about the process after obtaining the loan? \n\nI'm also curious about how your team assesses projects during site visits. What are some key factors they look for?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "scammer_371",
+        "to": "baiter_371",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6651273148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "GOOD NEWS",
+        "body": "Notice from our head office to our client, our office in Spain and Qatar\r\nis available now and our team of bankers are available to move out any\r\namount of funds. Let me know when you can travel for a meeting and mention\r\nthe country you can travel to, so that you can be booked in for a meeting\r\nand release of your loan funds. Our MOU agreement explains everything which\r\nyou are to provide the information below.\r\n\r\ni. Full address\r\nii. Valid identification (driver's license or passport)\r\niii. Whatsapp telephone number\r\niv. Loan amount needed\r\nv. The name you wish to be on the MOU\r\n\r\nSend me the full details and answer my question above where you can travel\r\nto and when. I need the details and the answer so I can forward it to our\r\nmanaging director Dr. John Saheed. Remember tah our loan gos from 1o\r\nmillion minimum to 1.5 billion maximum. I await your urgent response\nRegards,\r\n*CFO*"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6701157407407408,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: GOOD NEWS",
+        "body": "Hello there,\n\nThank you for reaching out and providing such detailed information. It's great to hear that your offices in Spain and Qatar are now available. I'm sure this is a big step forward for your organization.\n\nI'm curious about the process of booking meetings and releasing loan funds. Could you tell me more about how this works? Also, could you provide some more details about the MOU agreement?\n\nAs for traveling, I am currently unable to travel due to personal reasons. Is it possible to conduct these meetings virtually instead?\n\nRegarding the details you've asked for, I would like to understand better why they are needed before providing them. Could you explain their purpose in this process?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "scammer_371",
+        "to": "baiter_371",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6859490740740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: GOOD NEWS",
+        "body": "If you can not travel, you are free to send somebody unless you are ready\r\nto spend money upfront and our managing director Dr. John Saheed will get a\r\nlawyer to stand on your behalf, if you can send somebody or if you can't\r\ncome. It is a compulsory thing to be available for the meeting that is why\r\nour billionaire chairman made it compulsory so no one will feel cheated.\r\nThere must be a physical meeting for the complete documentation, thumb\r\nprints, signing of the loan documents and handing over of the original\r\ndocumentation and also proceed to the bank for the final documentation and\r\nthe release of your loan funds to you immediately. Your information stands\r\nas your collateral, your full address, valid identification driver's\r\nlicense or passport, loan amount you want and also the name you wish to be\r\non the MOU and I will forward it to our managing director Dr. John Saheed\r\nfor him to approve your MOU. Our Mou explains everything about our loan and\r\nbefore the MOU will be sent to you, your full details have to be complete.\r\nGo ahead and send me your complete information for us to proceed further. I\r\nawait your urgent response.\nRegards,\r\n*CFO*"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7564814814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: GOOD NEWS",
+        "body": "Hello,\n\nThank you for your detailed explanation. I appreciate the effort you've put into this. However, I'm a bit confused about some parts of the process. Could you please clarify a few things for me?\n\nFirstly, could you explain more about the physical meeting? Is it possible to conduct this meeting virtually due to current travel restrictions? \n\nSecondly, regarding the MOU, could you provide more details on what it entails? What kind of information does it contain and why is it necessary for my full details to be complete before sending it?\n\nLastly, I'm not quite sure about the role of Dr. John Saheed in this process. Could you elaborate on his responsibilities and how he will assist me throughout this process?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "scammer_371",
+        "to": "baiter_371",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.1612037037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "READ AND RESPOND IMMEDIATELY",
+        "body": "Dr. John Saheed is our managing director in charge of documentation and\r\nfunds release. The meeting in our office is compulsory for any of our\r\nclients to be in one of our offices physically to sign all the\r\ndocumentation, thumb prints and also proceed to the bank for the final\r\nendorsementment and onward transfer. You know there are a lot of crazy\r\nthings going on the internet and the world today. We have a wonderful\r\narrangement that is why our billionaire chairman made it compulsory for any\r\nof our clients to visit one of our offices, so the person will see and\r\nwitness the authenticity of the loan and also go back with the original\r\ndocumentation. Our loan is different and 100% legitimate, stress free and\r\npeaceful because the meeting will take only one day. After 2 hours in our\r\noffice and 2 hours in the bank, the person can confirm the return ticket\r\nand go back in the night the same day or the next day. Send me your full\r\ndetails and the name you wish to be on the MOU, full address, any of your\r\nvalid identification (driver's license or passport), loan amount you need,\r\nWhatsapp telephone number and also indicate the country of our office that\r\nyou can travel to in the Netherlands, Spain or Qatar. This is where we have\r\nenough money for disbursement. As soon as I get your full information, I\r\nwill forward  it to our managing director Dr. John Saheed for him to\r\napprove and get your MOU ready and also contact you on Whatsapp by\r\ntomorrow, Wednesday. The good thing about our loan, as soon as the\r\ndisbursement is complete, our bank will contact your bank so you have\r\nnothing to worry about. If you are willing and interested in our loan,\r\nkindly send me your full details as requested so I can forward it to our\r\nmanaging director immediately, no time to waste. Bear in mind, our loan\r\nranges from 10 million minimum to 1.5 billion. all our offices are\r\navailable depending on the amount you want. Our MOU explains every detail\r\nof our loan and you will read and understand, sign and return back. Get\r\nback to me if you are interested, I await your urgent response.\nRegards,\r\n*CFO*"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.3383912037037038,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: READ AND RESPOND IMMEDIATELY",
+        "body": "Hello there,\n\nThank you for your detailed message. It's quite interesting to learn about the process of your loan system. I must say, it sounds very thorough and secure.\n\nI'm curious though, could you tell me more about this MOU? What exactly does it entail? And how does it protect both parties involved in the loan agreement?\n\nAlso, I noticed that you mentioned a meeting at one of your offices being compulsory. Could you elaborate on why this is necessary? Is there an option for a virtual meeting considering the current global situation?\n\nLastly, could you provide more information about Dr. John Saheed? His role seems quite important in this process.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "scammer_371",
+        "to": "baiter_371",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.6612037037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: READ AND RESPOND IMMEDIATELY",
+        "body": "A Lot of people are coming to our office for a loan without complaining or\r\ntalking much. I have answered all your questions, you have to read it again\r\nand understand about our loan, if you are interested send me your details\r\ncomplete so I can forward it to our managing director Dr. John Saheed that\r\nis in charge of documentation and release of your loan funds. Our Mou\r\ncontains our loaSn procedures and everything about our loan, send me your\r\ncomplete details. You can read below and understand. I await you urgent\r\nresponse\r\n\r\n\r\n*READ THE THREE MAILS CAREFULLY, COMPLETE INFORMATION WILL BE ON THE MOU*\r\n\r\n\r\n\r\nHello,\r\n\r\nThere would be an MOU that guides these loans, which would be sent to you.\r\nYou are to review, sign and return back to our managing director Dr. John\r\nSaheed on his official email address (johnsaheed@financemanagment.com).\r\nPlease kindly indicate the exact amount you are requesting for the loan.\r\nFirstly, these loans require a meeting in any of our offices which must\r\nhold for further discussion and signing of the loan documentation. Also,\r\nnote that the process is not strictly communicated by email, there must be\r\na physical meeting which would take place in any of our offices after which\r\nfunds would be disbursed to you. Without you coming for the physical\r\nmeeting, it will cost you because we would  recommend you to an attorney\r\nwho will stand for you, which is expensive. Our billionaire chairman do not\r\nlike it that way because of what is going on the internet and what is going\r\non in the world today, so no one will feel cheated which is why any of our\r\nclients needs to appear for the physical meeting, thumb prints,\r\ndocumentation signing and proceed together  to the bank for disbursement of\r\nyour loan funds to you which will happen same day if you arrive early. Be\r\ngood and smile because our billionaire chairman is globally connected with\r\nso many big banks and corresponding banks in the world, in which your loan\r\nfunds can be released once, bank draft or bit by bit depending on how you\r\nwant it released to you. The most important thing is the documentation and\r\nthe release is authentic and confirmable.\r\n\r\nYour information is being needed completely, because it stands as your\r\ncollateral. Please reconfirm\r\n\r\n- Full Name\r\n- Full address\r\n- Loan Amount Needed\r\n- Personal\\ WhatsApp telephone Number\r\n- Attach any copy of your valid identification (Passport or Driver's\r\nlicense)\r\n\r\nAs we said before, we are connected to various big banks all over the world\r\nand the corresponding bank is perfect, so there would never be any delay in\r\npayments. Our networking is wonderful and can never be compared with the\r\nrest of mind. I'm in charge of communication to inform our client to help\r\nthem understand our terms and guidelines for surrendering this loan before\r\ndirecting it to our managing director in charge. All our terms are simple,\r\nand collateral is straightforward which involves your full name, full\r\naddress, personal telephone number, and also the number you can reach on\r\nWhatsapp for the confidentiality guiding this loan. Our loan is 100% legit,\r\nwhich you would witness yourself in our various offices and bank\r\ntransactions so you have  nothing to worry about. We can transfer money\r\nanywhere in the world but if the loan is above $50 million would be split\r\nin batches. Again, our office can offer loans of 10 million (minimum) to 1\r\nbillion (maximum).\r\n\r\nCommunicating on the phone would commence as soon as the MOU has been\r\nsigned and sent back, our managing director Dr. John Saheed will\r\ncommunicate with you with his official email address and telephone number.\r\nThe information would be given to you as soon as the MOU is signed and\r\nreturned and you indicate the country you can travel to for the physical\r\nmeeting. We prefer meeting with our clients so they can witness the process\r\nof the loan, signing the documents themselves, all our clients are very\r\nhappy because we do not waste any of their time upon arrival. It takes a\r\nday process involving meetings in the morning at the office and at noon for\r\nthe bank release payments. Our clients can come in early and go back the\r\nnext day.\r\n\r\nIf you understand very well, then the next step is MOU. Please let me know\r\nif you need any clarification. In our previous emails, be informed that we\r\nhave our offices in Dubai, Netherland, London, Spain, Indonesia, Kuwait,\r\nBarren, Qatar or Turkey at which disbursement would be made. You are free\r\nto ask questions where you do not understand. Finally, if you are not\r\nbuoyant enough or capable of this loan you are free to refer someone who is\r\nwilling and capable, our loan remains the best with a 15 years grace and\r\nyou would manage it for 2years grace before the loan starts counting at\r\n1.5% Annual interest with the rest of mind. Get back to me with the details\r\nneeded, just go ahead and reconfirm please and also attach your\r\ninvestment\\project plan and whatsapp number where you can be reached and\r\nattach any of your valid identification. All our reconfirmation is to\r\nensure your details are correct and confirmed. I await your quick response.\r\n\r\n\r\nKind regards,\r\nCFO\r\n\r\n\r\n------------------------------------------------------------------------------------------------------------------------------------------------------------------\r\n\r\nI really want to work with you and for you to receive this loan and our\r\nloan remains one of the best in the world today because we give 15 years\r\nand 1.5% interest rate when you manage the funds for the loan for 2years.\r\nWe are happy people because my billionaire chairman is progressive who\r\nhelps people a lot who is an oil magnet and he owns a football club, you\r\nhave nothing to lose as the loan would be given to you to manage before you\r\nstart paying back the 1.5% interest. Your collateral is your address, a\r\nvalid identification and your personal telephone number and also the name\r\nyou wish to be in the MOU, either your personal or your company name. We\r\ngive out big loans. Remember, from 10 million to 1 billion, please indicate\r\nthe amount you want and also attach your valid identification and where you\r\ncan be reached on whatsapp or call. Reconfirm your full details by\r\nresponding to this mail with the full details needed so we can forward it\r\nimmediately to our managing director Dr. John Saheed for your MOU to be\r\nready next tomorrow. Follow my instructions and reconfirm the details  if\r\nyou are interested in this loan and you will thank me later. Bank to bank\r\ntransfer without you appearing in any of our offices will cost you money\r\nupfront for clearance, that is why we made it mandatory for our client to\r\nvisit any of our offices for a physical meeting and documentation, signing\r\nand thumb prints.\r\n\r\n I would like to address a few points before finalizing the preparation and\r\ndelivery of the MOU. It would greatly help our process if you could provide\r\nme with more information regarding your loan request. Also, understanding\r\nthe intended purpose for the funds. It would be valuable for the content of\r\nthe MOU. Our networking remains the best and we are connected all over the\r\nworld with some big banks and we can give loans to any country in the\r\nworld. Our loan offer is the best (lowest) and unbelievable in the world\r\ntoday. AFTER THE BOARD MEETING TODAY, OUR OFFER GOES FROM 10 MILLION\r\n(MINIMUM) TO 1 billion (MAXIMUM) LIMIT. If there are any aspects of this\r\nmatter that seem unclear, please don't hesitate to reach out. I'm readily\r\navailable to furnish you with any necessary details to ensure complete\r\nunderstanding. The process of releasing these funds is designed to be\r\nstraightforward and transparent.\r\n\r\nTo proceed, I kindly request again to confirm\r\n\r\n- Full name\r\n- A valid address that you would prefer to have included in the MOU.\r\n- Loan amount needed\r\n- Personal telephone number and also, attach any of your valid\r\nidentification\r\n\r\nOnce the MOU is reviewed, don't waste time, sign and return. I'll be able\r\nto provide you with the contact information of our Managing Director.\r\nRemember, there would be a physical meeting in any of our offices to sign\r\nand release your funds to you. Our MD would guide you through the\r\nsubsequent steps and offer further insights into this loan initiative. Our\r\ncommitment remains centered on providing you with exceptional service.\r\n\r\nBest Regards,\r\nCFO\r\n\r\n\r\n\r\n------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\r\n\r\n\r\nThank you for your feedback and also sorry for the late reply. This loan\r\nrequires your home/office address, personal telephone/office numbers, full\r\nname and attached any of your valid identification, which is the\r\ncollateral. As previously stated, we are operating a funding programme that\r\nis providing entrepreneurs and individuals with quick, collateral-free\r\nfunding for economically viable projects and/or businesses of all sizes,\r\nincluding startup projects and existing businesses.\r\n\r\nPlease note the following essentials:\r\n-  Our funding is from a trust fund belonging to a consortium of\r\nhigh-net-worth angel investors, our chairman is from Saudi Arabia who owns\r\na football club, a philanthropist and has an oil well who desires to invest\r\nthrough entrepreneurial individuals and economically viable projects\r\nwithout revealing identities.\r\n- We do not enter into joint ventures or take equity ownership in the\r\nprojects we fund.\r\n-  We give loan to economically viable projects at 1.5% principal annual\r\ninterest and strictly by loan\r\n-  Our funding is un-restrictive to locations and project types\r\n- Our loan ranges from USD$10M (minimum) to USD$1B (maximum)\r\n- Our funding is 15 years, with a 2 year's grace period and the option of\r\nrenewing for an equal or half term.\r\n- Our key requirements for the funding of an economically viable project\r\nare an EXECUTED PROJECT FUNDING DEED OF AGREEMENT and a NOTARIZED PERSONAL\r\nUNDERTAKING of the Project Owner for the repayment of our funds and the\r\nperformance of his contractual obligations under the PROJECT FUNDING DEED\r\nOF AGREEMENT.\r\n-  Following the execution of our project funding DOA by the\r\nborrower/project owner and his issuance of a notarised personal undertaking\r\nfor the repayment of our funds and performance of his contractual\r\nobligations under the DOA, the loan will be disbursed within the next three\r\n(3) official days via SWIFT credit or via bank to bank  transfer. However,\r\ndepending on the size of the funding, the project owner/borrower may be\r\nrequired to attend a meeting in any of our offices at which disbursement\r\nwill be made via our angel investors’ bank.. This is payable by the\r\nborrower/project owner prior to the disbursement of funds.\r\n- The borrower/project owner is entitled to repay the loan including\r\naccumulated return in one lump sum at any time, including before the end of\r\nthe term of the loan. A prepayment penalty shall not be due. Proof of Fund\r\nis available and will be provided at an advanced stage of a loan/project\r\nfunding transaction that we deem real and/or serious.\r\n\r\nThe steps precedent to our loan are as follows:\r\n\r\nSTEP 1. We assess the borrower's project application/documentation in order\r\nto determine the viability and soundness of his project (This may take up\r\nto 24hrs)\r\n\r\nSTEP 2.  Presentation of our draft Funding Deed of Agreement as well as our\r\ndraft borrower's/project owner's Personal Undertaking for repayment of our\r\nloan and performance of contractual obligations under the loan/funding DOA.\r\n(This will be presented to the borrower/project owner as a formal\r\nexpression of our approval for the loan\r\n\r\nSTEP 3. The borrower/project owner signs the Funding DOA and returns it\r\nwith his notarized Personal Undertaking.\r\n\r\nSTEP 4. Disbursement of funds as outlined above.\r\n\r\nMiddleman/facilitator’s commission\r\n\r\nIf you are participating as a middleman, you will earn 5% of the total\r\nproject cost or loan amount as your commission for every successful loan or\r\nproject funding deal facilitated by you. Get back to me as soon as\r\npossible. I have more interesting details to give you that guide the loan,\r\nplease read carefully and respond back so I can feed you more understanding\r\ninformation.\r\n\nSincerely,\r\nCFO"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.671701388888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Re: READ AND RESPOND IMMEDIATELY",
+        "body": "Hello,\n\nThank you for your detailed explanation about the loan process. It's quite comprehensive and I appreciate the time you took to explain everything. \n\nI have a few questions though, if you don't mind. You mentioned that there would be an MOU to guide these loans. Could you please elaborate more on what this MOU entails? \n\nAlso, I'm curious about the physical meeting that must take place in one of your offices. Is it possible to conduct this meeting virtually given the current global situation with COVID-19?\n\nLastly, could you provide more information about the attorney who will stand for me? What exactly is their role and why is it expensive?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "scammer_371",
+        "to": "baiter_371",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.709537037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: READ AND RESPOND IMMEDIATELY",
+        "body": "Hello Steven,\r\n\r\nOur loan is beautiful because of your full details, full address, valid\r\nidentification, loan amount you need, whatsapp telephone number and the\r\nname you wish to be on the MOU. Every detail about our loan is on the MOU\r\nwhich will be sent to you to read, sign and return back which our managing\r\ndirector Dr. John Saheed will give you the contact details of the office\r\nyou choose to travel to. Your complete details are needed because it stands\r\nas your collateral. It is not possible for a virtual meeting because there\r\nwill be signing, thumb prints, handing over of the original documentation\r\nand the release of your loan funds. Our billionaire chairman made it\r\nmandatory for any of our clients interested in the loan to come down to any\r\nof our offices for the complete biometrics and documentation order in which\r\nyou will witness everything yourself. Go ahead and send me your complete\r\ndetails for us to proceed further. I await your urgent response.\nRegards,\r\n*CFO*"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.7115393518518518,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "22",
+        "subject": "Re: READ AND RESPOND IMMEDIATELY",
+        "body": "Hello there,\n\nThank you for your detailed response. It sounds like a very thorough process! I'm curious, could you tell me more about the MOU? What exactly does it entail? And why is it necessary for me to travel to one of your offices? \n\nI'm also interested in learning more about the biometrics process. How does that work and what role does it play in securing the loan?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.712974537037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "23",
+        "subject": "Re: READ AND RESPOND IMMEDIATELY",
+        "body": "Hello,\n\nThank you for your detailed explanation about the loan process. It's quite comprehensive and I appreciate the time you took to explain everything. \n\nI have a few questions though, if you don't mind. You mentioned that there would be an MOU to guide these loans. Could you please elaborate more on what this MOU entails? \n\nAlso, I'm curious about the physical meeting that must take place in one of your offices. What exactly happens during this meeting? And why is it necessary for me to physically be present?\n\nYou also mentioned something about an attorney who will stand for me if I can't make it to the physical meeting. Could you tell me more about this attorney and how they will represent me?\n\nLastly, could you provide more information about the collateral required for these loans? You mentioned my full name, address, and personal telephone number but is there anything else needed?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.7537731481481482,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "24",
+        "subject": "Re: READ AND RESPOND IMMEDIATELY",
+        "body": "Hello,\n\nThank you for your detailed explanation about the loan process. It's quite comprehensive and I appreciate the time you took to explain everything. \n\nI have a few questions though, if you don't mind. You mentioned that there would be a physical meeting in one of your offices. Could you please tell me where these offices are located? Also, could you provide more information about this attorney who will stand for me if I can't make it to the physical meeting?\n\nYou also mentioned that the loan funds can be released once, bank draft or bit by bit depending on how I want it released to me. Could you please elaborate on this? How does the bank draft work and what do you mean by \"bit by bit\"?\n\nLastly, could you please clarify what exactly is needed for collateral? You mentioned my full name, full address, personal telephone number but then also mentioned something about a valid passport or driver's license.\n\nI'm looking forward to your response.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "scammer_371",
+        "to": "baiter_371",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.9494675925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "25",
+        "subject": "TODAY'S NEWS",
+        "body": "I hope you are good. I have given you enough details and the rest of the\r\ninformation is in the MOU details. Our MOU carries full details about our\r\nloan and I do not know how to explain it all till you read the terms and\r\nconditions. Our loan is very simple, understanding and straightforward.\r\nMake up your mind and send me the details. If I didn't get your details in\r\nfull I will know that you are not interested. After Monday, your loan\r\napplication will be cancelled and you will not be communicated again. You\r\nhave the chance now to forward your complete details because after Monday,\r\nyour loan will be cancelled. That is today's news, it is your choice to get\r\nback to me so I can forward your details to our managing director to\r\ncontact you on Whatsapp. I await your urgent response.\nRegards,\r\n*CFO*"
+    },
+    {
+        "from": "scammer_371",
+        "to": "baiter_371",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.949479166666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "26",
+        "subject": "GOOD NEWS FOR US",
+        "body": "My name is Mo Jack Jamal, and I am in charge of communication and making\r\nsure all our clients understand our loan procedures. Our managing director\r\nDr. John Saheed is in charge of the MOU and finance controller. I have\r\ndiscussed with our managing director and he has read your letter and the\r\nterms and conditions which are okay with us, we can work with the terms and\r\neverything is good on our own side. In Spain, we have over 17.6 billion\r\nwhich is not a problem, any loan above 300 million, we can release 40%\r\nafter the loan documentation has been obtained and after a week, our team\r\nwould come over to supervise the investment of the loan and after\r\nconfirmation, the rest 60% will be released the following week. The meeting\r\nwill take place in one of our offices in the Netherlands, Spain, Turkey,\r\nQatar, Saudi Arabia, Dubai, Mexico or Indonesia. Our billionaire chairman\r\nmade in compulsory for any of our client interested in our loan must come\r\ndown to any of our offices for the complete biometrics, thumb prints,\r\nsigning of the original documentation, handing over of the documentation in\r\nour office and proceed to the bank for the disbursement of the loan funds\r\nimmediately. 2 hours in our office and 2 hours inside the bank for the\r\nfinal verification and onward transfer. The next step is the MOU to be\r\ngiven to read and understand, sign and return the back. Our MOU explains\r\nevery detail of our loan and agreement guiding the transaction, our loan is\r\nbeautiful because your information stands as collateral which is Full name,\r\nvalid identification, Whatsapp telephone number, Loan amount needed, the\r\nname you wish to be on the MOU and the office of choice you can travel to.\r\nRemember, we can give from 10 million minimum to 1.5 billion maximum at\r\n1.5% interest per annum for a period of 20 years. The periodicity of the\r\ninterest payment and the date of repayment of the loan shall be agreed upon\r\nin a separate loan agreement physically in our office. Get back to me with\r\nthe complete information: full name, valid identification (passport or\r\ndriver's license), Whatsapp telephone number, loan amount needed, the name\r\nyou wish to be on the MOU and the country you can travel to and I will\r\nforward it to our managing director Dr. John Saheed for him to approve and\r\nprepare the MOU for you to read and understand. I await your urgent\r\nresponse.\nRegards,\r\n*CFO*"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.9641319444444445,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "27",
+        "subject": "Re: TODAY'S NEWS",
+        "body": "Hello,\n\nThank you for reaching out and providing such detailed information. I appreciate your patience with me as I try to understand everything. \n\nI'm interested in learning more about the MOU and its terms. Could you perhaps explain a bit more about it? Also, could you tell me more about the loan process? How does it work exactly?\n\nI'm also curious about the role of the managing director in this process. What will be their involvement once they have my details?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.0049305555555557,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "28",
+        "subject": "Re: TODAY'S NEWS",
+        "body": "Hello there,\n\nI hope this message finds you well. I appreciate the information you've shared about the loan and the MOU details. It sounds like a straightforward process, which is great.\n\nHowever, I do have a few questions that I'd like to clarify before proceeding further. Could you please explain a bit more about the terms of the loan? Also, what kind of details are you expecting from me?\n\nI'm looking forward to your response and learning more about this opportunity.\n\nBest regards.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "scammer_371",
+        "to": "baiter_371",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.0233333333333334,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "29",
+        "subject": "Re: TODAY'S NEWS",
+        "body": "I hope you read all my emails very well because it contains the details of\r\nour loan transaction and MOU contains the other clearer details. If you\r\nunderstand the long email I sent to you, you will know our loan procedures\r\nvery well. The next step now is the MOU which will be sent to you but you\r\nhave to provide your full details which will be in the MOU. Our loan is\r\nbetween 10 million (minimum) to 1.5 billion (maximum) because of the\r\ncorruption and fraud going on the internet and the world today, that is why\r\nour billionaire chairman made it mandatory for every one of our clients to\r\ncome down to one of our offices in Dubai, Tukey, Indonesia. Spain, the\r\nNetherlands for the complete biometrics and documentation order inside the\r\nbank. We have the best bank to bank arrangements, please make sure you are\r\ncapable and if you are not capable you are free to involve someone else.\r\nRead and understand and if you are interested, send me\r\n\r\n1. Your full address\r\n2. Loan amount needed\r\n3. Whatsapp telephone number\r\n4. Valid identification (passport or driver's license)\r\n5. The name you wish to be on the MOU\r\n\r\nOur arrangement is very easy and straightforward and we have no time to\r\nwaste. As soon as I get this information, I will forward it to our managing\r\ndirector Dr. John Saheed and your MOU will be ready by tomorrow. I await\r\nyour urgent response.\nRegards,\r\n*CFO*"
+    },
+    {
+        "from": "scammer_371",
+        "to": "baiter_371",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.025451388888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "30",
+        "subject": "Good News and Respond",
+        "body": "I hope you read all my emails very well because it contains the details of\r\nour loan transaction and MOU contains the other clearer details. If you\r\nunderstand the long email I sent to you, you will know our loan procedures\r\nvery well. The next step now is the MOU which will be sent to you but you\r\nhave to provide your full details which will be in the MOU. Our loan is\r\nbetween 10 million (minimum) to 1.5 billion (maximum) because of the\r\ncorruption and fraud going on the internet and the world today, that is why\r\nour billionaire chairman made it mandatory for every one of our clients to\r\ncome down to one of our offices in Dubai, Tukey, Indonesia. Spain, the\r\nNetherlands for the complete biometrics and documentation order inside the\r\nbank. We have the best bank to bank arrangements, please make sure you are\r\ncapable and if you are not capable you are free to involve someone else.\r\nRead and understand and if you are interested, send me\r\n\r\n1. Your full address\r\n2. Loan amount needed\r\n3. Whatsapp telephone number\r\n4. Valid identification (passport or driver's license)\r\n5. The name you wish to be on the MOU\r\n\r\nOur arrangement is very easy and straightforward and we have no time to\r\nwaste. As soon as I get this information, I will forward it to our managing\r\ndirector Dr. John Saheed and your MOU will be ready by tomorrow. I await\r\nyour urgent response.\nRegards,\r\n*CFO*"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.0447337962962964,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "31",
+        "subject": "Re: TODAY'S NEWS",
+        "body": "Hello,\n\nThank you for your detailed email. I appreciate the time and effort you've put into explaining the loan procedures. It's quite a lot to take in, but I'm doing my best to understand it all.\n\nI'm curious about the biometrics process you mentioned. Could you explain a bit more about what that involves? Also, could you tell me more about how the bank-to-bank transfer works?\n\nAs for the details you asked for, I'm afraid I can't provide them at this moment. However, I am interested in learning more about your services and how they might benefit me.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.045185185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "32",
+        "subject": "Re: TODAY'S NEWS",
+        "body": "Hello,\n\nThank you for your detailed email. I appreciate the time you took to explain everything so thoroughly. It's clear that your organization takes its procedures very seriously, and I respect that.\n\nI'm intrigued by the loan amounts you mentioned - from millions to billions! That's quite a range. Could you tell me more about how these loans are typically used? Are they for business ventures, personal needs, or something else?\n\nAlso, could you elaborate on the biometrics process? I've never been through something like that before and would love to know what it entails.\n\nAs for coming down to one of your offices in Dubai, Turkey, Indonesia or Spain - that sounds like quite an adventure! What can I expect during such a visit?\n\nI'm sorry but as per my understanding and safety measures, I cannot provide my full address or any other personal details over email. However, I am interested in learning more about this opportunity.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.0862731481481482,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "33",
+        "subject": "Re: GOOD NEWS FOR US",
+        "body": "Hello there,\n\nThank you for your detailed message. It's great to hear that you have such a comprehensive process in place for your loans. I'm intrigued by the idea of meeting in one of your offices around the world, it sounds like an exciting opportunity.\n\nI do have a few questions though, if you don't mind. You mentioned that any loan above a certain amount can be released after it has been obtained and after a week, could you please clarify what this means? \n\nAlso, I'm curious about the supervision of the investment of the loan. What does this entail exactly? \n\nLastly, could you provide more information about the MOU? What kind of details does it include?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.0871064814814817,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "34",
+        "subject": "Re: TODAY'S NEWS",
+        "body": "Hello there,\n\nI hope this message finds you well. I appreciate the information you've shared about the loan and the MOU details. It sounds like a straightforward process, which is great.\n\nHowever, I'm a bit confused about some aspects of it. Could you please clarify what exactly is included in the MOU? Also, could you explain more about the cancellation policy? Why would my loan be cancelled after Monday?\n\nI'm really interested in this opportunity and want to make sure I fully understand everything before moving forward. Looking forward to your response.\n\nBest regards.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.087175925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "35",
+        "subject": "Re: TODAY'S NEWS",
+        "body": "Hello there,\n\nThank you for your detailed email. I must say, it's quite a lot to take in! Your loan procedures sound very thorough and well-structured. \n\nI'm curious about the biometrics process you mentioned. Could you explain a bit more about what that involves? Also, could you tell me more about the MOU? I'm not entirely familiar with that term.\n\nAs for the details you asked for, I'm afraid I can't provide them at this time. However, I'd be happy to continue discussing your services and how they might benefit me.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.0876157407407407,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "36",
+        "subject": "Re: Good News and Respond",
+        "body": "Hello,\n\nThank you for your detailed email. I appreciate the time you've taken to explain the loan procedures. It's quite interesting that your company offers loans ranging from millions to billions, that's quite a range!\n\nI'm curious about the biometrics process you mentioned. Could you please elaborate on what it entails? Also, could you provide more information about the MOU? What exactly does it cover?\n\nAs for visiting one of your offices in Dubai, Turkey, Indonesia or Spain, I'm afraid I might not be able to do so due to current travel restrictions. Is there an alternative way we can proceed with this?\n\nLooking forward to hearing from you.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.0877199074074073,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "37",
+        "subject": "Re: TODAY'S NEWS",
+        "body": "Hello there,\n\nI hope this message finds you well. I appreciate the information you've provided about the loan and the MOU details. It sounds like a straightforward process, which is great.\n\nHowever, I would like to understand more about it before making a decision. Could you please explain some of the key terms in the MOU? Also, what are the repayment terms for this loan?\n\nI'm also curious about why there's such urgency to provide my details by Monday. Could you please clarify that for me?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.088425925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "38",
+        "subject": "Re: TODAY'S NEWS",
+        "body": "Hello there,\n\nI hope this message finds you well. I appreciate the information you've provided about the loan and the MOU details. It sounds like a straightforward process, which is great.\n\nHowever, I'm a bit confused about some aspects of it. Could you please clarify what exactly is included in the MOU? Also, could you explain more about the cancellation policy? Why would my loan be cancelled after Monday?\n\nI'm really interested in this opportunity and want to make sure I fully understand everything before moving forward. Looking forward to your response.\n\nBest regards.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.1701967592592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "39",
+        "subject": "Re: TODAY'S NEWS",
+        "body": "Hello,\n\nThank you for your detailed email. I must say, it's quite interesting to learn about your loan procedures and the precautions you take against corruption and fraud. It's good to know that there are still organizations out there that prioritize integrity.\n\nI'm curious about the biometrics process you mentioned. Could you explain a bit more about how it works? Also, what is the significance of having offices in Dubai, Turkey, Indonesia, and Spain? Is there a specific reason for these locations?\n\nAs for the details you requested, I'm afraid I can't provide them at this moment. However, I'd love to continue our conversation and learn more about your organization and its operations.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.211377314814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "40",
+        "subject": "Re: GOOD NEWS FOR US",
+        "body": "Hello there,\n\nThank you for your detailed message. It's great to hear about the services your company offers and the terms of your loan agreement. I'm intrigued by the process you've outlined, especially the part about visiting one of your offices in various countries.\n\nI have a few questions though, if you don't mind. Could you please explain more about what an MOU is? And why is it necessary for me to travel to one of your offices? \n\nAlso, could you provide more information on how the loan repayment works? You mentioned that it's at an interest per annum for a period of years, but I'd like to understand this better.\n\nLastly, I'm curious about the role of Dr. John Saheed in this process. What exactly does he do as managing director?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "scammer_371",
+        "to": "baiter_371",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.6477199074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "41",
+        "subject": "Re: GOOD NEWS FOR US",
+        "body": "Every information you are requesting for, is inside the MOU which you will\r\nread to understand and sign. If you are interested send me your details and\r\nI will forward it to our managing agents director Dr. John Saheed for him\r\nto approve and send you your MOU for you to read, sign and return back. I\r\nawait your response response.\nRegards,\r\nCFO"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.66962962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "42",
+        "subject": "Re: GOOD NEWS FOR US",
+        "body": "Hello,\n\nThank you for your prompt response. I'm quite interested in understanding more about the MOU. Could you possibly provide a bit more detail about what it entails? \n\nAlso, could you tell me more about Dr. John Saheed's role and how he will be involved in this process? I'm just trying to get a better grasp of everything.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "scammer_371",
+        "to": "baiter_371",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.6913194444444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "43",
+        "subject": "Re: GOOD NEWS FOR US",
+        "body": "Dr. John Saheed is the managing director in charge of funds, meetings and\r\napproval of documentation and also coordinates for the release of funds. He\r\ngoes to all the bank meetings and makes sure the relationship is there.\r\nThat is why no bank or authorities can stop our loan transfers because it\r\nis genuine. Send me your whatsapp telephone number so he can contact you on\r\nwhatsapp today and after having a word with you your loan documents will be\r\napproved. Remember physical meeting is compulsory for you to see and\r\nwitness that your loan is genuine, Waiting to hear from you for your\r\nwhatsapp contact number. Thanks for your understanding.\nRegards,\r\n*CFO*"
+    },
+    {
+        "from": "scammer_371",
+        "to": "baiter_371",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.694189814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "44",
+        "subject": "OPPORTUNITY",
+        "body": "Dr. John Saheed is the managing director in charge of funds, meetings and\r\napproval of documentation and also coordinates for the release of funds. He\r\ngoes to all the bank meetings and makes sure the relationship is there.\r\nThat is why no bank or authorities can stop our loan transfers because it\r\nis genuine. Send me your whatsapp telephone number so he can contact you on\r\nwhatsapp today and after having a word with you your loan documents will be\r\napproved. Remember physical meeting is compulsory for you to see and\r\nwitness that your loan is genuine, Waiting to hear from you for your\r\nwhatsapp contact number. Thanks for your understanding.\nRegards,\r\n*CFO*"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.7110648148148146,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "45",
+        "subject": "Re: GOOD NEWS FOR US",
+        "body": "Hello,\n\nThank you for your message and the information about Dr. John Saheed's role in the process. It sounds like he has a very important job! I'm curious, how does he manage to attend all these bank meetings? Also, could you tell me more about what these loan documents entail?\n\nUnfortunately, I don't use WhatsApp. Is there another way we can communicate? Maybe through email or a phone call?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.7113310185185187,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "46",
+        "subject": "Re: OPPORTUNITY",
+        "body": "Hello,\n\nThank you for reaching out and providing such detailed information about Dr. John Saheed's role in the process. It sounds like he plays a crucial part in ensuring everything runs smoothly.\n\nI'm curious, could you tell me more about these bank meetings? What usually happens during them? And why is a physical meeting necessary for me to witness that my loan is genuine?\n\nUnfortunately, I am not comfortable sharing my WhatsApp number at this time. Is there another way we can continue our conversation?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "scammer_371",
+        "to": "baiter_371",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.2636111111111115,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "47",
+        "subject": "OPPORTUNITY",
+        "body": "Send me your full name you wish to be on the MOU and also, which country of\r\nour office you can travel to, your telephone number number where you can be\r\nreached. If you are interested, respond with the details immediately."
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.2968518518518515,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "48",
+        "subject": "Re: OPPORTUNITY",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm really excited about this opportunity and I appreciate your interest in involving me. However, I would like to know more about the MOU and the nature of the work involved before we proceed further. Could you please provide more details? \n\nAlso, could you tell me more about your offices? Which countries are they located in? It's always been a dream of mine to travel and work in different places.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.378425925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "49",
+        "subject": "Re: OPPORTUNITY",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm really excited about this opportunity and would love to learn more about it. Could you please tell me more about the MOU and what it entails? Also, could you provide some information on the different office locations?\n\nI look forward to hearing from you soon!\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.37949074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "50",
+        "subject": "Re: OPPORTUNITY",
+        "body": "Hello there,\n\nThank you for your message. I'm really excited about this opportunity and I appreciate your interest in working with me. However, I'm a bit confused about the details you're asking for. Could you please explain why these details are necessary? Also, could we possibly discuss more about the MOU and its terms before proceeding further? \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.419421296296297,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "51",
+        "subject": "Re: OPPORTUNITY",
+        "body": "Hello there,\n\nThank you for your message. I'm really excited about this opportunity and would love to learn more about it. Could you please tell me more about the MOU and what it entails? Also, could you provide some information on the different office locations? It would be great to know which countries I might have the chance to visit.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.419675925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "52",
+        "subject": "Re: OPPORTUNITY",
+        "body": "Hello there,\n\nThank you for your message. I'm really excited about this opportunity and can't wait to get started. However, I'm a bit confused about the details you're asking for. Could you please explain why these are necessary? Also, could you tell me more about the MOU and what it entails? \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.461041666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "53",
+        "subject": "Re: OPPORTUNITY",
+        "body": "Hello there,\n\nThank you for your message. I'm really excited about this opportunity and I appreciate your interest in me. However, I am a bit curious about the process. Could you please explain more about the MOU and why it's necessary? Also, could you tell me more about your offices? Which countries are they located in?\n\nI look forward to hearing from you soon!\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.4630324074074075,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "54",
+        "subject": "Re: OPPORTUNITY",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm quite excited about this opportunity and would love to learn more about it. Could you please tell me more about the MOU and what it entails? Also, could you provide some information on the different office locations?\n\nI'm afraid I can't share my personal contact details online due to privacy concerns. However, I'd be more than happy to continue our conversation here or through a secure platform of your choice.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.503425925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "55",
+        "subject": "Re: OPPORTUNITY",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm really excited about this opportunity and would love to learn more about it. Could you please tell me more about the MOU and what it entails? Also, I'd be interested in knowing more about your offices around the world. Which countries do you have them in?\n\nAs for traveling, I'm quite flexible and open to visiting different places. However, due to privacy concerns, I prefer not to share my personal contact details online. Is there another way we could continue our conversation? Maybe through email or a secure messaging platform?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.5045370370370375,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "56",
+        "subject": "Re: OPPORTUNITY",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm really excited about this opportunity and would love to learn more about it. Could you please tell me more about the MOU and what it entails? Also, could you provide some information on the different office locations? It would be great to know which countries I might have the chance to visit.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.586782407407408,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "57",
+        "subject": "Re: OPPORTUNITY",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm really excited about this opportunity and would love to learn more about it. Could you please tell me more about the MOU and what it entails? Also, could you provide some information on the different office locations?\n\nI'm looking forward to hearing from you soon!\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "scammer_371",
+        "to": "baiter_371",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.640891203703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "58",
+        "subject": "MONDAY NEWS",
+        "body": "I hope you have a great weekend. I have been sending you mails everyday\r\nbut you are not responding positively. Our billionaire chairman has made a\r\nstamp for all pending transactions that are not forthcoming should be\r\ncancelled after tomorrow 5th, March. If you are interested, respond to me.\r\nHis words stand, that means if you are interested you have today to show\r\nthat you are ready for a loan, mention the amount needed and your whatsapp\r\ntelephone number and I will forward it to our managing director Dr. John\r\nSaheed immediately. The good news about it is that we can partner with you,\r\nbut remember there must be a physical meeting in one of our offices in the\r\nNetherlands, Spain, Turkey, Mexico, Singapore, Qatar, Dubai or Indonesia\r\nfor the complete documentation, signing and handing over of the original\r\ndocumentation. Get back to me immediately, I await your response.\nRegards,\r\n*CFO*"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.669953703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "59",
+        "subject": "Re: MONDAY NEWS",
+        "body": "Hello,\n\nThank you for your message and I hope you're having a great weekend too! It's interesting to hear about the opportunity of a loan. Could you please provide more details about it? What are the terms and conditions? And what would be the interest rate?\n\nAlso, could you tell me more about this physical meeting? What exactly will happen during this meeting? \n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.670289351851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "60",
+        "subject": "Re: MONDAY NEWS",
+        "body": "Hello there,\n\nThank you for your message and I hope you're having a great weekend too! It's interesting to hear about the opportunity you're presenting. Could you please provide more details about this loan? What are the terms and conditions? And what is the interest rate?\n\nAlso, could you tell me more about these physical meetings? How often would they occur and what would be discussed during them?\n\nI'm looking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "scammer_371",
+        "to": "baiter_371",
+        "direction": "Inbound",
+        "days_from_first_conversation": 7.691493055555555,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "61",
+        "subject": "Last Opportunity",
+        "body": "I didn't receive your message this morning. The loan will be cancelled\r\nby tomorrow being 6th Wednesday, just to give you a soft reminder. This is\r\nthe notice this morning, no more going forth and backward, the loan\r\napplication will be terminated by tomorrow. You have a chance now to\r\nrespond with your full details if you still want to proceed with the loan.\r\nGood luck and I am waiting for your response.\nRegards,\r\n*CFO*"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 7.711087962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "62",
+        "subject": "Re: Last Opportunity",
+        "body": "Hello there,\n\nThank you for your message. I appreciate the reminder about the loan cancellation. However, I'm a bit confused about some details. Could you please clarify what exactly this loan is for? And why is it being cancelled?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "scammer_371",
+        "to": "baiter_371",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.061851851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "63",
+        "subject": "GOOD NEWS TODAY",
+        "body": "We have a beautiful arrangement in India, our diplomatic financial\r\nconsultant has agreed to come over to India to pay you your loan without\r\nyou traveling anywhere. You are very lucky because the arrangement will\r\nstart immediately as soon as I hear from you, then I'd give you further\r\ndetails if you are interested. Send me your whatsapp telephone number so\r\nour managing director Dr. John Saheed will contact you immediately for your\r\nMOU."
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.086168981481482,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "64",
+        "subject": "Re: GOOD NEWS TODAY",
+        "body": "Hello there,\n\nWow, that sounds like an amazing opportunity! I'm really lucky indeed. I'd love to hear more about this process. Could you please explain how it works? And what exactly is an MOU?\n\nI'm sorry but I can't share my WhatsApp number due to personal reasons. Is there any other way we could continue this conversation? Maybe through email or here itself?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "scammer_371",
+        "to": "baiter_371",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.71892361111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "65",
+        "subject": "Get Back To Me",
+        "body": "You keeping quiet is not good, always communicate because the arrangement\r\nis the best and you will be so happy working with us. The best place in our\r\noffice is where you can come for the meeting and also go inside the bank.\r\nThe meeting will be held inside our office and also the signing of the loan\r\ndocumentation. In the meeting we can also invest with you if your proposal\r\nis good, if not we will give you a loan and you will go back to our country\r\nthe next day. Choose one of our offices in Madrid, Spain, Netherlands\r\n(Amsterdam), Qatar (Doha), Indonesia (Jakarta), Dubai or Brazil but I\r\nprefer Spain or Qatar because you will go inside the bank. Our bankers are\r\nperfect because they will communicate with your bank to make things easy\r\nfor you so when the money comes in bit by bit, your bank will step it down\r\nwith no disturbance because our bank will contact your bank and no\r\nauthorities can question you. Why are you not taking calls from our\r\nmanaging director? Are you free to talk on the phone today?Please can you\r\nreconfirm your details, full address, valid identification (driver's\r\nlicense or passport), name you wish to be on the MOU and the country of our\r\noffice you can travel to. I await your feedback.\nRegards,\r\n*CFO*"
+    },
+    {
+        "from": "baiter_371",
+        "to": "scammer_371",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.752962962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "66",
+        "subject": "Re: Get Back To Me",
+        "body": "Hello there,\n\nThank you for reaching out and providing such detailed information. It's really exciting to hear about the opportunities your company offers. I'm particularly interested in the idea of a meeting inside your office, it sounds like a great way to get to know each other better.\n\nI must apologize if I've missed any calls from your managing director. My schedule has been quite busy lately, but I'm definitely open to having a conversation over the phone.\n\nAs for choosing an office location, both Spain and Qatar sound wonderful! Could you tell me more about what I could expect from a visit to either of these locations? What are some of the highlights?\n\nRegarding my personal details, I prefer not to share them over email for security reasons. However, we can certainly discuss further when we speak on the phone or meet in person.\n\nLooking forward to hearing back from you!\n\nBest wishes,\nSteven"
+    }
+]

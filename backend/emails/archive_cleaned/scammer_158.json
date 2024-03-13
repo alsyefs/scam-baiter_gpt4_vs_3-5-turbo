@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_158",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "YOUR COMPENSATION FUNDS",
+        "body": "YOUR COMPENSATION FUNDS\nDear Friend,\nI did not forgot your past effort for your attempt to assist me get\nthose funds transfer, Now I'm happy to inform you that I have\nsuccessfully succeeded in\ngetting those Funds transferred under the cooperation of a new partner\nfrom Japan and presently I am in United Kingdom for investment\nproject.\nNow \nI am advise you to Contact my secretary and ask him\nto send your compensation fund\n sum of ($12,900.000.00) worth of ATM card.\nHis,Name John Obi and his\nE-mail ( \natmcardcenter54@gmail.com\n )\nphone: +2349150807432\n1, Your Full Name\n2, Your Delivery Address\n3, Your Contact Telephone Number\n4, Your Occupation\n5, Your nearest Airport\n6, Your current email Address\nRegards\nDr Atiku Usman"
+    },
+    {
+        "from": "baiter_158",
+        "to": "scammer_158",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: YOUR COMPENSATION FUNDS",
+        "body": "Dear Dr. Atiku Usman,\n\nThank you for reaching out to me and providing this update. I'm glad to hear that you have succeeded in getting the funds transferred with the help of your new partner from Japan. It sounds like an exciting investment project.\n\nI would be interested in receiving more information about the ATM card and how it can be delivered to me. Could you please provide some details on how this process works? How long does it usually take for the card to be delivered? Is there any cost involved in receiving the card?\n\nAlso, I would like to know more about the investment project you mentioned. What kind of project is it? Are there any risks involved? How do you plan to ensure a successful outcome?\n\nThank you for your time and assistance.\n\nBest wishes,\nAnnette"
+    }
+]

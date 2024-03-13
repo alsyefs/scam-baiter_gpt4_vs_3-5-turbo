@@ -1,0 +1,302 @@
+[
+    {
+        "from": "scammer_381",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello Good Friend",
+        "body": "  Hello Good Friend\nI have very vital information to give to you, but first I must have your trust before I review it to you because it may cost me my job, so I need somebody that I can trust for me to be able to review the secret to you. I am Sir Charles J. Colocino, head of luggage/baggage storage facilities here at the John F. Kennedy International Airport Queens New York during my search for undelivered parcels I discovered an abandoned shipment from a Diplomat from Africa/UK and when scanned it revealed an undisclosed sum of money in a metal trunk box. \nThe consignment was abandoned because the Contents of the consignment was not properly declared by the consignee as “MONEY” rather it was declared as personal effect to avoid interrogation and also the inability of the diplomat to pay for the United States Non Inspection Charges which is $3,800USD. On my assumption the consignment is still left in our Storage House here at the John F. Kennedy International\nAirport Queens New York till date. The details of the consignment including your name, your email address and the official documents from the United Nations office in Geneva are tagged on the Trunk box.\nHowever, to enable me confirm if you are the actual recipient of this consignment as the assistant director of the Inspection Unit, I will advise you provide your full information as Below:\nFULL NAME:\nADDRESS:\nPHONE NUMBER:\nOCCUPATION:\nCOUNTRY:\nNEAREST AIRPORT:\nTo enable me cross check if it corresponds with the address on the official documents including the name of nearest Airport around your city. Please note that this consignment is supposed to have been returned to the  United States Treasury Department as unclaimed delivery due to the delays in concluding the clearance processes so as a result of this, I will not be able to receive your details on my official email account. So in order words to enable me cross check your details, I will advise you send the required details to my private email address for quick processing and response. Once I confirm you as the actual recipient of the trunk box, I can get everything concluded within 48hours upon your acceptance and proceed to your address for delivery.\nLastly, be informed that the reason I have taken it upon myself to contact you personally about this abandoned consignment is because I want us to transact this business and share the money 70% for you and 30% for me since the consignment has not yet been returned to the United States Treasury Department after being abandoned by the diplomat so immediately the confirmation is made, I will go ahead and pay for the United States Non Inspection Fee of $3,800 dollars and arrange for the box to be delivered to your doorstep Or I can bring it by myself to avoid any more trouble but you have to assure me of my 30% share.\nI wait to hear from you urgently if you are still alive and I will appreciate it if we can keep this deal confidential.\nThank you.\nSir Charles J. Colocino.\nAssistant Inspection Director\nJohn F. Kennedy International Airport\nQueens New York, 11430 United States.   "
+    },
+    {
+        "from": "baiter_381",
+        "to": "scammer_381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello Good Friend",
+        "body": "Hello Sir Charles J. Colocino,\n\nThank you for reaching out to me with this important information. I understand that you need someone trustworthy to help you with this matter. I am willing to listen and see how I can assist you. Could you please provide me with more details about the abandoned shipment and the metal trunk box? How much money does it contain? Also, what is the process for claiming and delivering the trunk box?\n\nBest wishes,\nTracy"
+    },
+    {
+        "from": "scammer_381",
+        "to": "baiter_381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Hello Good Friend",
+        "body": "Dear:\r\n\r\nThanks for your prompt response to my email. I have crossed checked your\r\ndetails with the information stated on the official documents and have\r\nconfirmed that you are the actual beneficiary to receive the abandoned\r\nconsignment box. To ensure the full protection of you and me, I would\r\nrespectfully request we maintain confidentiality.\r\n\r\nFurthermore, for you to have full confidence of the existence of this\r\nconsignment, I have attached to this email a Scan Report of the Money (For\r\nYour Eyes Only) which proved to be filled with United States Currency to\r\nthe amount of $10.5Million and in order for me to negotiate with the\r\nairport vault authorities for the release of the withheld package to you, I\r\nwill go ahead and pay the consignment clearance fee of $3,800usd which was\r\nthe main reason the consignment was with-held by the appropriate authority\r\nat the John F. Kennedy International Airport (JFK) here in  New York since\r\nthese charges were not paid by the diplomatic agent assigned to deliver\r\nthis consignment\r\nto you.I would respectfully request that you keep the contents of our\r\ncommunication confidential.\r\n\r\nI am making use of this opportunity since I will be retiring soon without\r\nanyone knowing about it, unless if you reveal it to a third party, which I\r\nwould strongly advice you never to do so and remember, \"Loose Lips Sink\r\nShip\" I will email you my flight details as soon as I am able to conclude\r\nnegotiations for the release of the consignment to you which could be\r\ncompleted hopefully tomorrow or next, but you have to assure me once again\r\nthat my own share of the money will be given to me as I am taking a big\r\nrisk doing this process on your behalf. My phone numbers IS (540) 716 5197\r\nPlease do give me a call or text so that we can establish voice\r\ncommunication.\r\n\nWarmest Regards,\r\nSir Charles J. Colocino.\r\nAssistant Inspection Director\r\nJohn F. Kennedy International Airport\r\nQueens New York, 11430 United States.\r\n\r\nWarmest Regards,\r\nSir Charles J. Colocino.\r\nAssistant Inspection Director\r\nJohn F. Kennedy International Airport\r\nQueens New York, 11430 United States."
+    },
+    {
+        "from": "baiter_381",
+        "to": "scammer_381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0006481481481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Hello Good Friend",
+        "body": "Hello Sir Charles J. Colocino,\n\nThank you for your prompt response and for providing me with the necessary details. I appreciate your efforts in ensuring the full protection of both of us. I have reviewed the attached Scan Report, and it does seem to confirm the existence of the abandoned box filled with United States Currency.\n\nI understand that you are willing to pay the clearance fee on my behalf in order to release the package to me. That is very generous of you. However, I have a few questions before we proceed.\n\nFirstly, could you please provide me with more information about why the package was withheld by the authority at John F. Kennedy Airport? It would be helpful for me to understand the situation better.\n\nSecondly, I would like to know how much my share of the money will be once everything is successfully concluded. As you mentioned, it is important for me to have full confidence in this process.\n\nLastly, could you clarify what you mean by \"taking a big risk\" in doing this process on my behalf? I want to ensure that there are no unexpected complications or legal issues involved.\n\nI look forward to hearing from you soon and discussing these matters further.\n\nBest wishes,\nTracy"
+    },
+    {
+        "from": "scammer_381",
+        "to": "baiter_381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.005729166666666666,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Hello Good Friend",
+        "body": "*Dear :*\r\n\r\n*I have not been able to communicate with you before now because I have\r\nbeen so busy trying to finish up with the payment as attached to this\r\nconsignment.*\r\n\r\n*Meanwhile, I have been able to secure the release of the consignment after\r\na heated negotiation with the airport vault authorities. I have also paid\r\nfor (JFK) clearance fees which cost me a total sum of $3800 dollars which\r\nwas the main reason the diplomat abandoned the Consignment because he was\r\nunable to pay the fee but after making payment I have been required by the\r\ncustom airport authority to settle the accumulated demure-rage fee of\r\n$2,350 dollars Otherwise, the flight company would not board me if I book\r\nmy flight and what is left with me now after paying for the non-inspection\r\nfee is about $1900 dollars.*\r\n\r\n*This process requires me to make the payment before they will issue their\r\nreceipt paper. This receipts serves as an evidence prove, thereby\r\nsatisfying luggage as genuine and legitimate having passed satisfactory\r\nexamination. It have become imperative for you to support at this point, so\r\nthat I can complete the money. What is left now is $880 dollars to complete\r\nthe money on me. Due to the exigent situation, we need to round this up\r\nfast. Do try and send the $880 dollars to them so that I can complete the\r\nneeded amount. Remember that this cost is for me to pay for the accumulated\r\ndemure-rage fee and proceed immediately with the box to meet you tomorrow.\r\nIt is also unanticipated cost which I did not bargain for,hence your\r\nunderstanding and assistance is highly needed.*\r\n\r\n*You are to Send the money Via any money  transfer.I shall book my flight\r\nto leave to meet you once I receive the $880 dollars from you and pay for\r\nthe demure-rage. I hope you recognize my effort so far in this process, in\r\nensuring a safe delivery and to guide against any unforeseen circumstance.\r\nYou are to send the money now so I proceed immediately to your door step\r\nwith your consignment box. *\r\n\r\n*Let me how you which to use and send it, by bitcoin is faster or Apple\r\ncard to exchange it to cash immediately. *\r\n\r\n*Amount: $880*\r\n\r\n*Do you intend to meet me at airport or do I rent a cab to your address?\r\nLet me know this quickly, I will send you a copy of my flight schedule\r\nafter booking my flight as soon as I get the payment information to\r\ncomplete the release of the consignment. I have Attached a confidential\r\ncopy of my passport and the non-inspection receipt above. I am waiting for\r\nthe payment information from you.*\r\n\r\n\r\n\r\n\r\n\r\n*Warmest Regards,Sir Charles J. Colocino.Assistant Inspection DirectorJohn\r\nF. Kennedy International AirportQueens New York, 11430 United States.*\r\n\r\n\nWarmest Regards,\r\nSir Charles J. Colocino.\r\nAssistant Inspection Director\r\nJohn F. Kennedy International Airport\r\nQueens New York, 11430 United States."
+    },
+    {
+        "from": "baiter_381",
+        "to": "scammer_381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.006076388888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Hello Good Friend",
+        "body": "Dear Sir Charles J. Colocino,\n\nThank you for reaching out to me. I understand that you have been going through a lot to secure the release of the package and complete the necessary payments. It sounds like a complicated process.\n\nI'm sorry to hear about the additional fees you had to pay for JFK clearance. That must have been quite unexpected. Can you please provide more details about why these fees were required? I want to make sure I understand the situation fully.\n\nRegarding your request for financial support, I would like to know more about how the money will be used specifically. Could you please explain in more detail what the funds will be used for and how it will help with completing the process?\n\nAs for sending the money, I would prefer to use a secure method that provides some form of protection against fraud or loss. Can you recommend a reliable and trustworthy platform or service that can facilitate this transaction?\n\nIn terms of meeting at the airport or arranging transportation, it would depend on various factors such as timing and logistics. Could you please share your flight schedule so that I can assess whether it would be feasible for me to meet you at the airport? Alternatively, if it's more convenient, we can discuss renting a cab to my address.\n\nI appreciate your effort in providing me with your passport copy and receipt as proof of your identity and expenses incurred so far. However, before proceeding with any financial transactions, I would like to verify your identity further. Is there any other documentation or information you can provide that confirms your position as Assistant Inspection Director at John F. Kennedy Airport?\n\nThank you for understanding my cautious approach in this matter. Once I have received satisfactory answers to my questions and verified your identity, we can proceed accordingly.\n\nBest wishes,\nTracy"
+    },
+    {
+        "from": "scammer_381",
+        "to": "baiter_381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0121875,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Hello Good Friend",
+        "body": "This to let you know that your email is received and well noted , you can\r\nmake the payment through bitcoin wallet or bank account , I have tell you\r\nall, remember am risking myself just to help you so I advise you do as I\r\ntell you now so you receive your funds immediately today.\r\n\r\nYour total funds is $10.5million .\r\n\r\nLet me know how you which to use and send it so we proceed today .\r\n\nWarmest Regards,\r\nSir Charles J. Colocino.\r\nAssistant Inspection Director\r\nJohn F. Kennedy International Airport\r\nQueens New York, 11430 United States."
+    },
+    {
+        "from": "baiter_381",
+        "to": "scammer_381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.012337962962962964,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Hello Good Friend",
+        "body": "Hello Sir Charles J. Colocino,\n\nThank you for your email and for letting me know that my email has been received. I appreciate your willingness to help me with the payment process.\n\nI have a few questions before proceeding with the payment. Could you please provide more details about the payment options? How does the bitcoin wallet option work? And what are the steps involved in making a payment through a bank account?\n\nAlso, could you please confirm the total amount of funds that I will be receiving? It would be helpful to have an exact figure.\n\nThank you once again for your assistance. I look forward to your response.\n\nBest wishes,\nTracy"
+    },
+    {
+        "from": "scammer_381",
+        "to": "baiter_381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.01994212962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Hello Good Friend",
+        "body": "You will be receiving $10.5million usd only , send through Bitcoin wallet I\r\nonly need to send you the wallet to send to, or you can buy Apple Card with\r\nthe amount then send me the photo copy of the gift card after scratched ,\r\nlet me know how you can send it that you can do now without delay.\r\n\r\n\r\n\nWarmest Regards,\r\nSir Charles J. Colocino.\r\nAssistant Inspection Director\r\nJohn F. Kennedy International Airport\r\nQueens New York, 11430 United States."
+    },
+    {
+        "from": "baiter_381",
+        "to": "scammer_381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.020671296296296295,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Hello Good Friend",
+        "body": "Hello Sir Charles J. Colocino,\n\nThank you for reaching out to me. I appreciate the information you have shared. Could you please provide me with more details about why I need to send the payment through a Bitcoin wallet? Is there a specific reason for this method of payment?\n\nAdditionally, I would like to understand how purchasing an Apple Card is related to the transaction. Could you please explain further?\n\nI look forward to your response.\n\nBest wishes,\nTracy"
+    },
+    {
+        "from": "scammer_381",
+        "to": "baiter_381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.024872685185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Hello Good Friend",
+        "body": "Please below is the options for payment to proceed , make your choice .\r\n\r\n1....Bank wire transfer .\r\n2....Bitcoin Wallet\r\n3....Buying Gifts card\r\n4...Venmo\r\n5...Cashapp\r\n\r\nLet me your prefer to use and make the payment .\r\n\nWarmest Regards,\r\nSir Charles J. Colocino.\r\nAssistant Inspection Director\r\nJohn F. Kennedy International Airport\r\nQueens New York, 11430 United States."
+    },
+    {
+        "from": "baiter_381",
+        "to": "scammer_381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.025486111111111112,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Hello Good Friend",
+        "body": "Hello Sir Charles J. Colocino,\n\nThank you for reaching out to me. I appreciate the information you provided regarding the payment options. However, before I proceed with any payment, could you please provide me with more details about the purpose of this payment? I want to make sure that I fully understand the situation before making any decisions.\n\nAdditionally, could you please explain how each of the payment options works? This will help me determine which method would be most convenient for me.\n\nThank you again for your assistance.\n\nBest wishes,\nTracy"
+    },
+    {
+        "from": "scammer_381",
+        "to": "baiter_381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.02900462962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Hello Good Friend",
+        "body": "Read this with understanding if you are serious . Do the needful there if\r\nready .\r\n\r\n\r\n*I have not been able to communicate with you before now because I have\r\nbeen so busy trying to finish up with the payment as attached to this\r\nconsignment.*\r\n\r\n*Meanwhile, I have been able to secure the release of the consignment after\r\na heated negotiation with the airport vault authorities. I have also paid\r\nfor (JFK) clearance fees which cost me a total sum of $3800 dollars which\r\nwas the main reason the diplomat abandoned the Consignment because he was\r\nunable to pay the fee but after making payment I have been required by the\r\ncustom airport authority to settle the accumulated demure-rage fee of\r\n$2,350 dollars Otherwise, the flight company would not board me if I book\r\nmy flight and what is left with me now after paying for the non-inspection\r\nfee is about $1900 dollars.*\r\n\r\n*This process requires me to make the payment before they will issue their\r\nreceipt paper. This receipts serves as an evidence prove, thereby\r\nsatisfying luggage as genuine and legitimate having passed satisfactory\r\nexamination. It have become imperative for you to support at this point, so\r\nthat I can complete the money. What is left now is $880 dollars to complete\r\nthe money on me. Due to the exigent situation, we need to round this up\r\nfast. Do try and send the $880 dollars to them so that I can complete the\r\nneeded amount. Remember that this cost is for me to pay for the accumulated\r\ndemure-rage fee and proceed immediately with the box to meet you tomorrow.\r\nIt is also unanticipated cost which I did not bargain for,hence your\r\nunderstanding and assistance is highly needed.*\r\n\r\n*You are to Send the money Via any money  transfer.I shall book my flight\r\nto leave to meet you once I receive the $880 dollars from you and pay for\r\nthe demure-rage. I hope you recognize my effort so far in this process, in\r\nensuring a safe delivery and to guide against any unforeseen circumstance.\r\nYou are to send the money now so I proceed immediately to your door step\r\nwith your consignment box. *\r\n\r\n*Let me how you which to use and send it, by bitcoin is faster or Apple\r\ncard to exchange it to cash immediately. *\r\n\r\n*Amount: $880*\r\n\r\n*Do you intend to meet me at airport or do I rent a cab to your address?\r\nLet me know this quickly, I will send you a copy of my flight schedule\r\nafter booking my flight as soon as I get the payment information to\r\ncomplete the release of the consignment. I have Attached a confidential\r\ncopy of my passport and the non-inspection receipt above. I am waiting for\r\nthe payment information from you.*\r\n\r\n\nWarmest Regards,\r\nSir Charles J. Colocino.\r\nAssistant Inspection Director\r\nJohn F. Kennedy International Airport\r\nQueens New York, 11430 United States."
+    },
+    {
+        "from": "baiter_381",
+        "to": "scammer_381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.029733796296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Hello Good Friend",
+        "body": "Hello Sir Charles J. Colocino,\n\nThank you for reaching out to me. I appreciate the information you have shared with me so far. It seems like you have been through quite a process to secure the release of the package and pay all the necessary fees.\n\nI understand that you now require some financial assistance to complete the remaining amount. Could you please provide me with more details about why this payment is needed? What exactly is the fee for, and why is it necessary for me to support at this point?\n\nAdditionally, I would like to know more about how I can send the money to you. You mentioned options like bitcoin or Apple card exchange. Could you explain these methods further and let me know which one would be more convenient for you?\n\nRegarding your question about meeting at the airport or renting a cab, could you please clarify if there are any specific reasons why one option would be better than the other? I want to make sure everything goes smoothly once I receive the payment from you.\n\nThank you again for your communication and providing me with your flight schedule in advance. I look forward to hearing back from you soon.\n\nBest wishes,\nTracy"
+    },
+    {
+        "from": "scammer_381",
+        "to": "baiter_381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.11233796296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: Hello Good Friend",
+        "body": "Go to any store and buy apple card and send me the photo copy of the gift\r\ncard after scratched , below is the bitcoin wallet address to use.\r\n\r\nYour delivery will be home delivery okay.\r\n\r\nBitcoin wallet address ....1NShNLqZn92RSHV6MnyA2oSxHJVavVtnez\r\n\r\nBar code attached\r\n\r\nLet me know once done\r\n\nWarmest Regards,\r\nSir Charles J. Colocino.\r\nAssistant Inspection Director\r\nJohn F. Kennedy International Airport\r\nQueens New York, 11430 United States."
+    },
+    {
+        "from": "baiter_381",
+        "to": "scammer_381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.11369212962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: Hello Good Friend",
+        "body": "Hello Sir Charles J. Colocino,\n\nThank you for reaching out to me. I appreciate your message and the opportunity to assist you. However, I have a few questions before proceeding.\n\nCould you please provide more details about why you need me to purchase an Apple gift card and send you the photo copy? How does it relate to your role as the Assistant Inspection Director at John F. Kennedy Airport?\n\nAdditionally, could you clarify what you mean by \"home delivery\"? Are you referring to the delivery of the Apple gift card or something else?\n\nI look forward to hearing back from you with more information.\n\nBest wishes,\nTracy"
+    },
+    {
+        "from": "scammer_381",
+        "to": "baiter_381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.12246527777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: Hello Good Friend",
+        "body": "You are getting it so we can clear everything so you can receive your\r\nconsignment box immediately today.\r\n\nWarmest Regards,\r\nSir Charles J. Colocino.\r\nAssistant Inspection Director\r\nJohn F. Kennedy International Airport\r\nQueens New York, 11430 United States."
+    },
+    {
+        "from": "baiter_381",
+        "to": "scammer_381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.1227199074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: Hello Good Friend",
+        "body": "Hello Sir Charles J. Colocino,\n\nThank you for reaching out to me. I appreciate your assistance in clearing everything so that I can receive my box today. Could you please provide me with more details about the box? What is inside it and why does it need to be inspected at John F. Kennedy Airport?\n\nI look forward to your response.\n\nBest wishes,\nTracy"
+    },
+    {
+        "from": "scammer_381",
+        "to": "baiter_381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.12417824074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re: Hello Good Friend",
+        "body": "This what I told you before , it contains your winning compensation funds\r\nof $10.5million usd only from United Nation and Injunction with Word bank\r\nokay.\r\n\nWarmest Regards,\r\nSir Charles J. Colocino.\r\nAssistant Inspection Director\r\nJohn F. Kennedy International Airport\r\nQueens New York, 11430 United States."
+    },
+    {
+        "from": "scammer_381",
+        "to": "baiter_381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.12998842592592594,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "19",
+        "subject": "Re: Hello Good Friend",
+        "body": "It's a means of fast payment okay..\r\n\nWarmest Regards,\r\nSir Charles J. Colocino.\r\nAssistant Inspection Director\r\nJohn F. Kennedy International Airport\r\nQueens New York, 11430 United States."
+    },
+    {
+        "from": "baiter_381",
+        "to": "scammer_381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9984143518518519,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "20",
+        "subject": "Re: Hello Good Friend",
+        "body": "Hello Sir Charles J. Colocino,\n\nThank you for reaching out to me again. I appreciate your warm regards. Could you please provide me with more details about the winning funds from the United Nation and Word Bank? I'm curious to know how I became eligible for such a prize.\n\nLooking forward to hearing from you.\n\nBest wishes,\nTracy"
+    },
+    {
+        "from": "scammer_381",
+        "to": "baiter_381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.3520023148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "21",
+        "subject": "Re: Hello Good Friend",
+        "body": "The compensation is extended to victims of Hurricane ,Covid19, war ,Sick,\r\nEtc..and you are among those to benefit from it okay.\r\n\nWarmest Regards,\r\nSir Charles J. Colocino.\r\nAssistant Inspection Director\r\nJohn F. Kennedy International Airport\r\nQueens New York, 11430 United States."
+    },
+    {
+        "from": "baiter_381",
+        "to": "scammer_381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.456724537037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "22",
+        "subject": "Re: Hello Good Friend",
+        "body": "Hello Sir Charles J. Colocino,\n\nThank you for reaching out to me. I hope this message finds you well. I appreciate your concern for the victims of Hurricane war and their well-being.\n\nCould you please provide me with more information about how exactly I am eligible to benefit from this assistance? I would like to understand the process and requirements involved.\n\nThank you again for sharing this information with me.\n\nBest wishes,\nTracy"
+    },
+    {
+        "from": "baiter_381",
+        "to": "scammer_381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.687303240740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "23",
+        "subject": "Re: Hello Good Friend",
+        "body": "Hello Sir Charles J. Colocino,\n\nThank you for reaching out to me. I appreciate your message about fast payment methods. Can you please provide me with more information about this? How does it work exactly? I'm always interested in learning about new ways to make payments quickly and efficiently.\n\nLooking forward to hearing from you.\n\nBest wishes,\nTracy"
+    },
+    {
+        "from": "scammer_381",
+        "to": "baiter_381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.865081018518518,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "24",
+        "subject": "Re: Hello Good Friend",
+        "body": "Am not providing you with any information ,make the payment now and receive\r\nyour funds if you are serious .\r\n\nWarmest Regards,\r\nSir Charles J. Colocino.\r\nAssistant Inspection Director\r\nJohn F. Kennedy International Airport\r\nQueens New York, 11430 United States."
+    },
+    {
+        "from": "baiter_381",
+        "to": "scammer_381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.873819444444444,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "25",
+        "subject": "Re: Hello Good Friend",
+        "body": "Hello Sir Charles J. Colocino,\n\nThank you for reaching out to me. I appreciate your offer, but I would like to know more details before proceeding. Could you please provide me with some additional information about the funds you mentioned? How did you come across my contact information and why do you think I am eligible for this opportunity?\n\nI look forward to hearing from you.\n\nBest wishes,\nTracy"
+    },
+    {
+        "from": "scammer_381",
+        "to": "baiter_381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.875219907407407,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "26",
+        "subject": "Re: Hello Good Friend",
+        "body": "You are not ready to receive your funds , let me only write me once you are\r\nready to send the needed fee\r\n\nWarmest Regards,\r\nSir Charles J. Colocino.\r\nAssistant Inspection Director\r\nJohn F. Kennedy International Airport\r\nQueens New York, 11430 United States."
+    },
+    {
+        "from": "baiter_381",
+        "to": "scammer_381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.895150462962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "27",
+        "subject": "Re: Hello Good Friend",
+        "body": "Hello Sir Charles J. Colocino,\n\nThank you for reaching out to me. I hope you are doing well. I'm interested in learning more about the funds you mentioned. Could you please provide me with some additional details? What exactly do I need to do and what is the purpose of the fee you mentioned?\n\nLooking forward to your response.\n\nBest wishes,\nTracy"
+    },
+    {
+        "from": "scammer_381",
+        "to": "baiter_381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.368009259259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "28",
+        "subject": "Re: Hello Good Friend",
+        "body": "The total fee is $27,000 usd only, for signing the funds released order on\r\nyour behalf, by a local attorney , and all documents that covers your total\r\nfunds okay.\r\n\r\nLet me know if you are interested making the payment now and receive your\r\npayment immediately .\r\n\nWarmest Regards,\r\nSir Charles J. Colocino.\r\nAssistant Inspection Director\r\nJohn F. Kennedy International Airport\r\nQueens New York, 11430 United States."
+    },
+    {
+        "from": "baiter_381",
+        "to": "scammer_381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.582696759259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "29",
+        "subject": "Re: Hello Good Friend",
+        "body": "Hello Sir Charles J. Colocino,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding the funds release order and the services of a local attorney. It sounds like a significant opportunity.\n\nI would like to know more about the process and how everything works. Could you please explain in more detail what exactly needs to be done and how the payment will be made? Additionally, are there any specific documents or requirements that I need to fulfill before receiving my payment?\n\nThank you again for your assistance.\n\nBest wishes,\nTracy"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_1217",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "The Finance Company will NOT r",
+        "body": "The Finance Company will NOT receive any upfront payment from you (the borrower) unless and until after you receive the Loan Funds successfully credited and confirmed in your own bank account coordinates."
+    },
+    {
+        "from": "baiter_1217",
+        "to": "scammer_1217",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: The Finance Company will NOT r",
+        "body": "Hello there! Thank you for reaching out and sharing this information. I appreciate your transparency regarding upfront payments. Can you please provide me with more details about the loan process? How long does it usually take for the loan funds to be credited and confirmed in the borrower's bank account?\n\nBest wishes,\nJosephine"
+    },
+    {
+        "from": "scammer_1217",
+        "to": "baiter_1217",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: The Finance Company will NOT r",
+        "body": "*Greetings and compliments,*\r\n\r\nFollowing the receipt of your email, I am confident that you have the\r\ncapacity to invest the Loan Funds into profitable and viable projects in\r\nyour country. In fact, you have come to the right place, and I assure you\r\nthat this transaction shall be 100% successful. The Loan Funds you require\r\nfor all projects, will be credibly processed, approved and the Money will\r\nbe absolutely available and credited to any receiving bank account of your\r\nchoice within 5 days.\r\nBy virtue of the proficiency and estimable services of the lender (Finance\r\nCompany). In fact, they are the best and most authentic finance company\r\nwith a credible record of competence and fidelity. Their proven reputation\r\nand great integrity have kept them ahead of many other finance companies\r\nglobally.\r\n\r\nApparently, you are highly privileged to be connected to the Finance\r\nCompany, because once they approve your application for Loan, they must\r\nfulfill their promises and the LOAN AMOUNT must be successfully transferred\r\nto your account, successfully.\r\nI have been working with competent Finance Companies since the past twelve\r\n(12) years as an accredited Financial Consultant with the eligibility to\r\nsubmit names of trusted borrowers with viable projects. By virtue of my\r\ncredibility, diligence and capability, ALL borrowers who passed through me,\r\nhave remained faithful with the terms of the Loan, after receiving the\r\nrequested loan amounts. And, after months of remitting the Loan Funds, the\r\nLenders have visited their projects on yearly basis and everything has\r\nconsistently remained in order.\r\n\r\nTherefore, I usually sign some attestation documents and also submit my\r\nparticulars of my fixed asset (as part of collateral) emphasizing that a\r\nborrower is reliable with ability to invest the huge amount of Loan Funds\r\nrequested; the Lender always believes my attestation and approves because\r\nof my consistency and integrity. All financial institutions prioritize the\r\nfuture of the Funds (asset) when released to the borrower.\r\nI usually conduct the due diligence and certify the credibility of a\r\nborrower. Actually, if you default in any part of the Loan terms, it will\r\ncause me to lose my reputation, accreditation and my fixed assets submitted\r\nto the Loan Office before I was legitimately accredited to facilitate\r\nprovision of Loan to reliable borrowers.\r\n\r\nNOTE that when you arrive in the United Kingdom, you will first have a\r\nmeeting with the Executive Officials of a Finance Company (in their Office)\r\nin the United Kingdom, where you will have the opportunity to physically\r\nanswer some questions about your project plan, investment capabilities and\r\nrepayment plans.\r\n\r\nThe financing procedure is this: Tenure of loan is 25years at 1% (one\r\npercent) interest rate annually, with grace period of 3years. We believe\r\nand proclaim that financing of projects should be simple, transparent,\r\nconvenient and realistic.\r\nThe borrower should proceed to Fill his details on the attached LOAN\r\nAPPLICATION FORM, and return the filled / signed copy.\r\n\r\n*Kind Regards,*\r\n\r\n\r\n*Sir JAMES HARRIES*\r\n*Financial Advisor/Facilitator*\r\n*Email: jamesharriesmbe@outlook.com <jamesharriesmbe@outlook.com>*"
+    },
+    {
+        "from": "baiter_1217",
+        "to": "scammer_1217",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00042824074074074075,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: The Finance Company will NOT r",
+        "body": "Hello Sir James Harries,\n\nThank you for reaching out to me. I appreciate your offer and the opportunity to potentially invest in profitable projects. Can you please provide me with more information about the loan process? How long does it usually take for the loan to be approved and the funds to be credited to my chosen bank account?\n\nAlso, could you explain more about the Finance Company's track record and reputation? It's important for me to work with a trustworthy and reliable finance company.\n\nAdditionally, I would like to know more about the terms and conditions of the loan. What is the interest rate, repayment period, and any other relevant details that I should be aware of?\n\nThank you once again for considering me as a potential borrower. I look forward to hearing back from you soon.\n\nBest wishes,\nJosephine"
+    },
+    {
+        "from": "scammer_1217",
+        "to": "baiter_1217",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.002210648148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: The Finance Company will NOT r",
+        "body": "Just send you a detailed message and loan application form, go through it\r\nand get back to me."
+    },
+    {
+        "from": "baiter_1217",
+        "to": "scammer_1217",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.059675925925925924,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: The Finance Company will NOT r",
+        "body": "Hello! Thank you for reaching out to me. I appreciate your willingness to share information with me. Could you please provide me with a brief overview of what the detailed message and loan form entail? I want to make sure I have a clear understanding before proceeding further.\n\nBest wishes,\nJosephine"
+    }
+]

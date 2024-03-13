@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1344",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn: Sir",
+        "body": "Attn: Sir\n \nZenith Bank Plc is using this pledge to inform you that your fund of USD$3.5Million has been credited into an ATM card which bears your name. You are hereby advised to confirm to us with the below information, hence this will enable us to dispatch the card to your destination.\n1. Full Name:\n2. Address:\n3. Nationality/Sex:\n4. Age/Date of Birth:\n5. Occupation:\n6. Phone:\n7. State of Origin/Country:\n8. \nDriver's license\n:\n9. \nCopy Of Your Identity\n:\nOnce the required information has been sent, Inform us so that we shall disclose your tracking details to you.\nThanks for your cooperation.\n \nYours Faithfully,\nJoseph Favor"
+    },
+    {
+        "from": "baiter_1344",
+        "to": "scammer_1344",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attn: Sir",
+        "body": "Hello Joseph Favor,\n\nThank you for your message. It's quite exciting to hear about this ATM card! I'm curious, how did my name get selected for this? And could you please explain a bit more about how this process works?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nVera"
+    },
+    {
+        "from": "scammer_1344",
+        "to": "baiter_1344",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Attn: Sir",
+        "body": "1. Full Name:\r\n2. Address:\r\n3. Nationality/Sex:\r\n4. Age/Date of Birth:\r\n5. Occupation:\r\n6. Phone:\r\n7. State of Origin/Country:\r\n8. Driver's license:\r\n9. Copy Of Your Identity:"
+    },
+    {
+        "from": "baiter_1344",
+        "to": "scammer_1344",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0005671296296296297,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Attn: Sir",
+        "body": "Oh, I'm sorry but I can't provide that information. But hey, let's keep the conversation going! Can you tell me more about what you do?\n\nBest wishes,\nVera"
+    }
+]

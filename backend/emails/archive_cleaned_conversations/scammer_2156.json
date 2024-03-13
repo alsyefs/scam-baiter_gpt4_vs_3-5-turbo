@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_2156",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Client",
+        "body": "  Dear Client\n We are Glad you received the first Payment.\n We are now ready to send the second payment. Please we need\nre-confirmation from you via email.\nSo we can send the second Payment.\nRegards\nRep. First Financial Credit Union\n     UN/IMF/ECOWAS\nTel: 7578028190   "
+    },
+    {
+        "from": "baiter_2156",
+        "to": "scammer_2156",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Client",
+        "body": "Dear Rep. First Financial Credit Union,\n\nThank you for reaching out to me. I'm glad to hear that the first payment was received successfully. I would be happy to provide you with the information you need via email. Could you please let me know what specific details you require from me in order to process the second payment?\n\nLooking forward to your response.\n\nBest wishes,\nEthan"
+    },
+    {
+        "from": "scammer_2156",
+        "to": "baiter_2156",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Re:   Dear Client",
+        "body": "You got the first payment right? \n\n-- \nSent from my Android phone with mail.com Mail. Please excuse my brevity. (http://mail.com)"
+    },
+    {
+        "from": "baiter_2156",
+        "to": "scammer_2156",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0006597222222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Re:   Dear Client",
+        "body": "Hello there! Thank you for reaching out. I'm sorry, but I'm not sure what payment you're referring to. Could you please provide me with more details?\n\nBest wishes,\nEthan"
+    },
+    {
+        "from": "scammer_2156",
+        "to": "baiter_2156",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.010347222222222223,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Re: Re:   Dear Client",
+        "body": "You just said you received it seems you people that are at freedomgissip are just jokers \n\n-- \nSent from my Android phone with mail.com Mail. Please excuse my brevity. (http://mail.com)"
+    },
+    {
+        "from": "baiter_2156",
+        "to": "scammer_2156",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.011122685185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Re: Re:   Dear Client",
+        "body": "Hello there! I hope you're having a great day. I understand that you may have some concerns, but I assure you that I'm here to help and provide information. Could you please let me know what specifically made you think we are jokers? I'd be happy to address any doubts or questions you may have.\n\nBest wishes,\nEthan"
+    }
+]

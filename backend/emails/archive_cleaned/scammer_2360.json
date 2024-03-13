@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2360",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention Please,",
+        "body": "Attention Please,\nThis is to notify you that your US $10.7Million payment was prepared in an ATM Card and it is ready for you, Your ATM CARD shipping instruction was received, Concerning the provision act of decree 114 of the 1999 constitution, I am directed to inform you that your payment verification and confirmations are OK, Therefore, we are happy to inform you that arrangements have been concluded to ship your ATM CARD to your provided address as soon as possible and in our bid to transparency.\nIt is our pleasure to inform you that the ATM CARD shipment has been approved and upgraded in your favor. Your ATM CARD Value is US$ 10.7 million, you will receive your ATM CARD within the next 72 hours after our company lifted it for delivery.\nWe have concluded delivery arrangements for our Company to be fully insured by Skynet Global Delivery Company. Given this development, you are requested to immediately offset the your country Customs Clearance Backup, shipping and insurance charges of the delivery schedule through the Company-given payment instructions as follows:\nYour Country Customs Clearance Backup fee: $100.00\nInsurance fee: $50.00\nShipping fee: $75.00\nTOTAL: $225.00\nThe shipment methods are through our courier services and \nyou are advised to send the $225 which is the total cost of this ATM CARD shipment which has been drafted above and the fees to be paid by you without delays to enable us to confirm your ATM CARD for immediate delivery.\nWe accept our payment through Bitcoins, Gift Cards (Steam wallet, iTunes gift card), Or transfers via Western Union \nwith the below information\nReceiver Name : Nabuuma Stella Maris\nCountry : Uganda\nCity : Kampala  +256740646553\nText Question ...For whom?\nAnswer......A friend\nAmount...$225 dollars\nGet back to me with $225 gift cards. We will start your ATM card delivery and you have it received before the next 72 hours.\nMay God Bless You.\nThanks.\nBest Regards\nMr. Baker Magunda Chairman, Stanbic Uganda Holdings Ltd."
+    },
+    {
+        "from": "baiter_2360",
+        "to": "scammer_2360",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attention Please,",
+        "body": "Hello Mr. Baker Magunda,\n\nThank you for your email and the information provided. It's quite exciting to hear about this ATM card! I must admit, I'm not very familiar with these processes, so I hope you don't mind me asking a few questions.\n\nFirstly, could you please explain more about how this ATM card works? Is it like a regular debit card that I can use at any ATM machine?\n\nSecondly, regarding the payment methods you mentioned - Bitcoins, Gift Cards Steam wallet, gift cards or transfers via Western Union - could you provide more details on how to make these payments? \n\nLastly, what is the purpose of the text question \"whom?\" and \"friend\"? Is it some sort of security measure?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nAlice"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2633",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "From: Robert John Williams",
+        "body": "From: Robert John Williams\nHello,\nI wish to seek your consent as the beneficiary to the total sum of 10,700,000.00 GBP in the intent of the deceased Client.\nIn your acceptance, the papers will be processed; \nforward to us your details to enable us file necessary documents at our high court division for the release of the Fund to you.\n I'll explain to you in details about the fund as soon as I get your response,\nKindly get back to me for further discussion on this if you are interested.\nRespectfully Yours,\nRobert John Williams Attorney"
+    },
+    {
+        "from": "baiter_2633",
+        "to": "scammer_2633",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: From: Robert John Williams",
+        "body": "Hello Robert John Williams Attorney,\n\nThank you for reaching out to me. I'm interested in learning more about the total sum of GBP that you mentioned. Could you please provide me with some additional details about the deceased client and how I am connected to this situation? I would appreciate any information you can share with me.\n\nBest wishes,\nJesus"
+    }
+]

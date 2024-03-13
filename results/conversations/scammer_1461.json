@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_1461",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings!!!",
+        "body": "Greetings!!!\n \nI'm Lee Baker a Research Assistant of Research and Development Department working with Prestford Laboratories  Ltd. UK, One of the leading Bio Pharmaceutical Companies here in England. I'm looking for a reliable businessman/individual in your region to represent my company in sourcing some of our basic raw material used in the manufacturing of high quality Anti-Viral Vaccines, Cancer treatment and other life saving Pharmaceutical Products.\n \nThis may not be your are of specialization but it will be another income generating business out of your specialty. This is because Our company are yet to locate any seller to buy from, however, I have been able to discover a local dealer who can supply us this product. He is selling at a cheap rate , which is far more cheaper than our previous purchases.\nMy director is not yet aware that I have found a new seller. Now THIS IS MY PROPOSAL TO YOU; I want you to stand in as a new local dealer from your country and I will introduce you to our company. The reason for this is because I don't want my company to have direct contact with the local agent that sells this herbal oil extract very cheap.\n \nThis will enable us work together as partners and make real cool profits. You as the local seller will supply to our company at a good rate which I will inform you later when we are in agreement and this will attract the attention of our company director to buy from you as against the previous rate . You will be amazed with our total profit .\n \nI will give you more specific profit details when I receive a feedback from you if you are interested,\n \nSincerely,\n \nLee Baker,\nResearch & Dev Dept,\nPrestford Laboratories Ltd. UK."
+    },
+    {
+        "from": "baiter_1461",
+        "to": "scammer_1461",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings!!!",
+        "body": "Hello Lee Baker,\n\nThank you for reaching out and considering me for this opportunity. It's quite interesting to hear about your company, Prestford Ltd., and the important work you're doing in the field of bio research. \n\nI must admit, I'm not very familiar with the process of sourcing raw materials for vaccines or cancer treatments. Could you please provide more details about what exactly these materials are? Also, could you explain a bit more about how this partnership would work?\n\nLooking forward to hearing from you.\n\nBest wishes,\nMark"
+    },
+    {
+        "from": "scammer_1461",
+        "to": "baiter_1461",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Greetings!!!",
+        "body": "Greetings Mark,\r\n\r\nMy company is in need of a herbal extract called Nitrovicilin herbal extract NC 001. It is used in the manufacture of anti viral drugs. Our former supplier died leaving no trace of a family or partners so we have not been able to get this product for over a year now. However, I have been able to discover the manufacturer of this product and he is in Philippine. He sells this product for $9,500 while my company buys it for $22,400. I want to introduce you to my CPO as a partner to our former supplier so you can supply for us. You will buy at a cheap rate from the manufacturer and sell to my company at a higher rate. We stand to make $12,900 on each barrel. My company buys 100-200 barrels every 3 months.\r\nI urge you to make your calculations and see how much we stand to make every 3 months. I will wait for your reply.\r\n\nSincerely,\r\n\r\nLee Baker,\r\nResearch & Dev Dept,\r\nPrestford Laboratories Ltd. UK."
+    },
+    {
+        "from": "baiter_1461",
+        "to": "scammer_1461",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00988425925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Greetings!!!",
+        "body": "Hello Lee Baker,\n\nThank you for reaching out and sharing this opportunity. It sounds like a potentially profitable venture. I'm sorry to hear about the loss of your former supplier, that must have been quite a setback.\n\nI do have a few questions though, if you don't mind. Firstly, could you please provide more information about the herbal extract NC? What are its properties and why is it so crucial in the production of anti-viral drugs?\n\nSecondly, how did you discover this new supplier? And why hasn't your company approached him directly instead of going through a third party?\n\nLastly, could you explain more about the logistics? How would the purchasing and selling process work exactly?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMark"
+    },
+    {
+        "from": "scammer_1461",
+        "to": "baiter_1461",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.024421296296296,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Greetings!!!",
+        "body": "Okay drop your mobile number so that I can explain more."
+    },
+    {
+        "from": "baiter_1461",
+        "to": "scammer_1461",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.0312847222222223,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Greetings!!!",
+        "body": "Oh, I'm sorry but I can't share my mobile number. However, I'd love to hear more about what you're offering. Can you explain it here?\n\nBest wishes,\nMark"
+    }
+]

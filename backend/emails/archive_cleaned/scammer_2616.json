@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2616",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Wells Fargo Bank",
+        "body": "Wells Fargo Bank\nConnecticut Ave. NW,\nSte. 510. Washington,\nDC 20036\nGood day.\nThis is to inform you that the U.S Government has instructed us to remit\nthe sum of $10.5Million US dollar into your account, the reason for this is\nbecause your name was among the scam victims that lost a lot of money to\nAfrican Fraudsters,you are hereby advised to without delay stop all you\nhave going on between you and anybody on internet because you will end up\nat nothing, hence, there are two options to receive your funds.\n(1) By Bank to Bank Wire Transfer\n(2) By Atm Card.\nWe are waiting your immediate response with your information to enable this\nbank proceeds immediately with the transfer of your fund and serve you\nbetter.\nFull Name....................\nHome Address.................\nAge/Occupation..............\nValid Phone number............\nYour Country........\nAny Of Your Identity Card\n........\nDo not send money upfront fee to anyone from African again for what so ever\nreason. The Wells Fargo Bank will immediately remit your account once\nI reconfirm your banking details.\nCongratulations.\nContact Email:(\nwfargobank165@gmail.com\n)\nDon Robinson\nExecutive Region Manager\nWells Fargo Bank"
+    },
+    {
+        "from": "baiter_2616",
+        "to": "scammer_2616",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Wells Fargo Bank",
+        "body": "Hello Don Robinson,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I never thought my name would be among the victims. It's good to know that there are institutions like Wells Fargo Bank looking out for people like me.\n\nI'm curious about the two options you mentioned - Bank to Bank Wire Transfer and Atm Card. Could you please explain more about these? How do they work? And which one would be more convenient for someone like me?\n\nAlso, I'd appreciate it if you could provide more details about this process. How did the Government instruct you to remit the funds? And how was my name chosen?\n\nLooking forward to your response.\n\nBest wishes,\nJudie"
+    }
+]

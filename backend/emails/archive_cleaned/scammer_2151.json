@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2151",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Address: 405 E 42nd St, New Y",
+        "body": " Address: 405 E 42nd St, New York, NY 10017, USA\nE-mail:  \nmr.guterres@secretary.net\nCONGRATULATION\nThis is to officially inform you that your name was among the 18\nlisted beneficiaries to benefit from this first batch of overdue Scam\nvictims' compensation payment for the year 2024.\nThe payment was approved after the meeting held on February 12 with\n(G20) and (UN) on World Economic Forum Annual Meeting 2024 and it was\nsigned that 18 listed beneficiaries will receive $1,000,000.00 each as\ntheir overdue scam victim compensation payment and your name and\ncontact email was included as one of the beneficiaries, So contact Mr.\nMichael Tanzi Of Quontic Bank Of New York to receive your approved\ncompensation payment.\nPerson to contact: Mr. Michael Tanzi Chief Accounting Officer\nE-mail:  \nmichael.tanzi@accountant.com\nE-mail:  \nQunticBank@qualityservice.com\nNote instructions have been given to Quontic Bank Of New York to\nrelease your Scam victim's compensation Fund US$1,000,000.00 to you\nVIA direct transfer or by Certified Cashiers Cheque.\nThanks,\nYours In Service\nMr. António Guterres\nUN Secretary-General    "
+    },
+    {
+        "from": "baiter_2151",
+        "to": "scammer_2151",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  Address: 405 E 42nd St, New Y",
+        "body": "Hello! That sounds interesting. Can you provide more details about how this process works? How did my name get on the list to benefit from this payment?\n\nBest wishes,\nJason"
+    }
+]

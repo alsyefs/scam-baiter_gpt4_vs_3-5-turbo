@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1555",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "The Jessica Claypole Foundatio",
+        "body": "The Jessica Claypole Foundation was established in 2018 by Jessica Claypole and her husband, Mark Claypole, following the sale of the business which she founded in 1991."
+    },
+    {
+        "from": "baiter_1555",
+        "to": "scammer_1555",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: The Jessica Claypole Foundatio",
+        "body": "Hello there,\n\nThat's quite interesting! The Jessica Claypole Foundation sounds like a significant establishment. Can you tell me more about the purpose of this foundation? What kind of work do they do and who benefits from their efforts? I'm always eager to learn about new organizations and their missions.\n\nBest wishes,\nTonya"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "from": "scammer_1006",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Greetings!    ",
+        "body": "  Greetings!    \nIs this your private email address?\nShould you be interested in working with me on a financial related project? Please reply back via my personal email:\nThanks and have a nice day,\nMr. Heang Sopheak\nDirector\nShinhan Khmer Bank   "
+    },
+    {
+        "from": "baiter_1006",
+        "to": "scammer_1006",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Greetings!    ",
+        "body": "Greetings Mr. Heang Sopheak,\n\nThank you for reaching out to me. I hope you're having a nice day as well.\n\nI'm curious to know more about the financial project you mentioned. Could you please provide some details about it? What kind of work would be involved and what are the potential benefits?\n\nLooking forward to hearing from you.\n\nBest wishes,\nMargurite"
+    },
+    {
+        "from": "scammer_1006",
+        "to": "baiter_1006",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: MORE INFO!",
+        "body": "Hello friend,\r\n\r\nThanks for the quick response.\r\n\r\nYour mail is well understood and I will appreciate it if you will work with\r\nme in this transaction with a good understanding and sincere heart.\r\n\r\nDuring the reporting process, I discovered in 2016 that my branch made\r\n($21,537,000.00) this money which the head office is not aware of.  This\r\namount is currently placed in what we call SUSPENSE ACCOUNT without any\r\nbeneficiary. As an officer of the Shinhan Khmer Bank in Phnom Penh,\r\nCambodia, I cannot be directly connected to this money, so this is why I\r\nhave to contact you for us to work so that you can assist receive this\r\nmoney. I need you to stand as the original depositor of the money to enable\r\nmy Head office grant approval for the release of this fund.\r\n\r\nThe said amount is acrued interest undocumented within the bank which has\r\nbeen placed in a suspense account. This amount will be registered under\r\nyour name as the beneficiary if you agree to work with me in this\r\ntransaction. This is a legal transaction in which we shall follow due\r\nprocess whilst claiming the fund with no retribution to all the parties\r\ninvolved whatsoever.\r\n\r\nAs a banker, I understand transferring such a huge amount directly from\r\nbank to bank will lead to paying huge fees as a result of international\r\nbanking regulation before receiving the funds over there in your country.\r\nHence, for us to avoid this as impediment, I will bring this idea of the\r\nfund being released via an ATM card which will be sent to your address. The\r\nprocess bears no hindrance from the authority as it will be a very direct\r\nrelease process with no impediment.\r\n\r\nImmediately you receive the ATM card, you will start making withdrawals\r\nfrom it before my arrival to meet with you. I would like us to reach an\r\nagreement before we proceed further.\r\n\r\nkindly send to me your full information such as:\r\nyour full name\r\nyour address\r\ntelephone number\r\ncopy of any identification of you\r\n\r\nAs soon as I receive the above information from you, I will then draft an\r\nMOU agreement which will contain each persons share for both of us to sign\r\nbefore we complete the fund release process through an ATM card.\r\n\r\nI can assure you that whatever questions you would need to ask or any other\r\nthing you will need to know regarding this transaction will be adequately\r\nanswered to give you a clearer understanding of it all, so as to arrive at\r\na successful conclusion.\r\n\r\nAt the end of this transaction, we shall divide the amount in a 50-50 share\r\nratio of which I plan to invest a good part of my share in your country\r\nunder your supervision. All I require from you is your maximum cooperation.\r\n\r\nI look forward to hearing from you. Do call or send me a message on my\nwhatsApp for further clarification: +855967405973\r\n\r\nThanks and have a nice day,\r\nHeang Sopheak"
+    },
+    {
+        "from": "baiter_1006",
+        "to": "scammer_1006",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0004976851851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: MORE INFO!",
+        "body": "Hello Heang Sopheak,\n\nThank you for reaching out to me. I appreciate your explanation of the situation. It sounds like quite a unique opportunity. I'm interested in learning more about how we can work together to release the funds.\n\nCould you please provide me with some additional information? Firstly, what is the total amount of money that is currently in the suspense account? Also, could you explain how the process of releasing the funds via an ATM card works? I want to make sure I understand all the details before we proceed further.\n\nAdditionally, I would like to know more about the MOU agreement you mentioned. What does it entail and what are the terms and conditions?\n\nI hope you understand that I am cautious when it comes to financial matters, so any additional information or clarification you can provide will be greatly appreciated.\n\nLooking forward to your response.\n\nBest wishes,\nMargurite"
+    },
+    {
+        "from": "baiter_1006",
+        "to": "scammer_1006",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0013194444444444445,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: MORE INFO!",
+        "body": "Hello Heang Sopheak,\n\nThank you for reaching out to me. I appreciate your explanation of the situation. It sounds like quite a unique opportunity. I'm interested in learning more about how we can work together to receive this money.\n\nYou mentioned that the funds will be released through an ATM card. Could you please explain how that process works? How long does it usually take for the ATM card to be delivered?\n\nAlso, I would like to know more about the legal aspects of this transaction. Are there any risks involved? How can we ensure that everything is done in a lawful manner?\n\nI understand that you mentioned dividing the amount in a share ratio. Could you provide more details on what that ratio would be and how it would be determined?\n\nLastly, I would like to know if there are any specific requirements or documents needed from my end to proceed with this transaction.\n\nThank you again for considering me for this opportunity. I look forward to your response.\n\nBest wishes,\nMargurite"
+    }
+]

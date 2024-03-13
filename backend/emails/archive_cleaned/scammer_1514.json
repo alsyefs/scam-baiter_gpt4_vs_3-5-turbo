@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1514",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  I am Mr. Richard Wahl, the m",
+        "body": "  I am Mr. Richard Wahl, the mega winner of $533M In Mega Millions\nlottery jackpot. I'm donating to 5 random individuals if you get this\nemail then your email was selected after a spin ball. I have spread\nmost of my wealth over a number of charities and organizations' have\nvoluntarily decided to donate the sum of $5Million USD to you as one\nof the selected 5, to verify my winnings please see my YouTube.\nwebsite page below.\nWATCH ME HERE: https:/ /www.youtube.com/watch?v=tne02ExNDrw?\n$533 Million Jackpot Winner Revealed: Modest Mega Millionaire Richard\nWahl Richard Wahl recently moved to New Jersey from Michigan and has\nonly played the lottery a few times before winning the $533 million\nMega Millions lottery jackpot.\nTHIS IS YOUR DONATION CODE: [ 0043034]\nReply with the DONATION CODE to this email:deatm13@gmail.com Mr. Milton Raul\nPhone:+1 (404) 947-7666 the only fee you will pay to my\npersonal assistant to release the money to you is $189 and he\nwill send it to you through ATM CARD or CASHIER CHECK.\nRegard's\nMr. Richard Wahl   "
+    },
+    {
+        "from": "baiter_1514",
+        "to": "scammer_1514",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   I am Mr. Richard Wahl, the m",
+        "body": "Hello Mr. Richard Wahl,\n\nThank you for reaching out to me and congratulations on your Mega Millions lottery jackpot win! It's very generous of you to donate a portion of your winnings to random individuals like myself.\n\nI would be interested in learning more about the verification process. Could you please provide me with some details on how I can verify my selection? Additionally, could you explain how the donation will be transferred to me through an ATM card or cashier's check?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDarlene"
+    }
+]

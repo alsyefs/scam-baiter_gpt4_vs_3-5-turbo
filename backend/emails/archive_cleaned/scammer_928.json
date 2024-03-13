@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_928",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear:Beneficiary,",
+        "body": "Dear:Beneficiary,\nyour 10.5 million dollars have been granted to credited to your destination bank account as soon as you reconfirm your information bank where you want it to be credited Call me +234-7025871824\nreply to alternative email:cbnbank643@gmail.com\nThank you\nMr.Brain Michael"
+    },
+    {
+        "from": "baiter_928",
+        "to": "scammer_928",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear:Beneficiary,",
+        "body": "Hello Michael,\n\nThank you for reaching out to me. I must say, the idea of receiving a million dollars sounds quite exciting! However, before I proceed, could you please provide me with some more information? I just want to make sure everything is in order.\n\nFirstly, may I know how this grant came about? Is it from a specific organization or program? It would be helpful to have some background information.\n\nSecondly, could you clarify the process of confirming my bank account? What details do you require from me? I want to ensure that my personal information remains secure.\n\nI appreciate your assistance in providing these details. Looking forward to hearing back from you soon.\n\nBest wishes,\nNathaniel"
+    }
+]

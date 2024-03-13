@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_137",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention:Beneficiary,",
+        "body": "Attention:Beneficiary,\nCongratulations to you beneficiary kindly been  inform why you are\nnot yet received your FUND US$30.5M, is because of you do not been\nSIGN the original payment approved document in your name as you are\nthe beneficiary of this FUND the office of the presidency,\nthere have check your payment fill that is why you are still not yet\nreceived your fund all this years a go so there is know time to been\ndelay \nkindly response immediately to this message if you are the one\nbeen the real beneficiary of this FUND kindly follow UP and send the\nrequested address BELLOW details information,\nso that will can proceed On how you are going to be SIGN the original\npayment approved document and your fund will been RELEASE to you\nsuccessful without delay approved Oder by the new President of Nigeria\nMr,Bola Ahmed Tinubu, and regarding your FUND so that your FUND will\nNOT been confiscated,\nYour Full Name:\nYour Age\nYour Home Address\nCopy Of Your ID\nYour Telephone Number\nYour Country\nYour Occupation\nRegards,\nMr,Anthony Goodman\nOffice Of Presidency"
+    },
+    {
+        "from": "baiter_137",
+        "to": "scammer_137",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attention:Beneficiary,",
+        "body": "Hello Goodman,\n\nThank you for reaching out to me. I'm quite surprised to hear about this fund, as I don't recall being involved in any such transaction. Could you please provide more details about it? How did my name come up in relation to this fund?\n\nI would also appreciate if you could explain the process of signing the original payment approved document. Is there a specific procedure that needs to be followed?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nMable"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_360",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Beneficiary,",
+        "body": "Beneficiary,\nWe are so sorry for the delay in making your contract and inheritance payment to you for such a long time now.\nKindly acknowledge receipt of this mail and please furnish me with the below information.\n1.Your real names and address:\n2.Your telephone number and fax:\n3.Your age/Occupation:\n4:\nYour international passport/drivers license\n5.\nYour receiving bank information\n6.Your total payment value amount:\nAll these I will use and secure fresh payment approvals in your names and favor through this mode payment so that it will be easy for you.\nFaithfully,\nMr. Wayne Stanley\nHead of Private Banking(International payment coordinator)\nSantander bank UK"
+    },
+    {
+        "from": "baiter_360",
+        "to": "scammer_360",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Beneficiary,",
+        "body": "Hello Mr. Wayne Stanley,\n\nThank you for reaching out to me and I appreciate your patience in this matter. It's great to hear that things are moving forward now.\n\nI'm curious about the process, could you please explain a bit more about how these fresh payment approvals work? And why do we need all this information for it?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nTony"
+    }
+]

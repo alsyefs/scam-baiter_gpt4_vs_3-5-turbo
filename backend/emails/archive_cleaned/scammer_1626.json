@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1626",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Beneficiary,",
+        "body": "Dear Beneficiary,\nI write to bring to your notice, a man identified as Mr. Thomas Edward Cork, with address No: 1200 Fitch Way, Sacramento, Ca. 95864  USA, filed an application contrary to claims of your inheritance fund of $15,000,000.00(Fifteen Million United States Dollars) on your behalf, due to your health challenge issues at the moment as stated on the power of attorney he presented.\nTherefore, I ask him to return back within 48hours, to enable us to have a personal confirmation notice from you being the legal beneficiary of the said fund, before the bank will release the fund to him as ratting on the power of attorney he submitted.\nI am sorry to have delayed this instruction and transaction till this moment in giving out this fund, since we must adhere to the procedures of this honorable Bank.  Please, did you sign the power of Attorney in favor of Mr. Thomas E.Cork, thereby authorizing him to claim your inheritance fund?\nYour confirmation of this information will be appreciated before we proceed with the fund transfer process. I look forward to hearing from you soon.\nBest Regards\nyours sincerely\nMr.Mike Johnson\nAfrica Development Bank Vis CBN\nWorld Bank headquarters\nEmail:Mikejohnson@accountant.com"
+    },
+    {
+        "from": "baiter_1626",
+        "to": "scammer_1626",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "Hello Johnson,\n\nThank you for bringing this to my attention. I must say, it's quite a surprise! I don't recall signing any power of attorney in favor of Mr. Thomas Edward Cork or anyone else for that matter. \n\nCould you please provide more details about this situation? How did Mr. Thomas come into possession of such a document? And what exactly does the power of attorney state?\n\nI'm sorry for all the questions, but as you can imagine, this is quite confusing and concerning to me.\n\nLooking forward to your response.\n\nBest wishes,\nAaron"
+    },
+    {
+        "from": "scammer_1626",
+        "to": "baiter_1626",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "Attn:Aaron , \nPlease we did not send this Email to you by error, Do Re-confirm your information as it stated below in order for US  to make sure there is no error during the process of release of your payment direct to you,Your email address is the primary contact to this payment file. \n \nWe wish to confirm the receipt of the position, which is in respect of your accrued over-due inheritance contract part payment sum of USD  $15,000,000.00(Fifteen Million United States Dollars) only (including accumulated interests) deposited in your favor with our bank, according to the testament of the Bank, the fund is to be released to you,But we discovered there is unfair play from our staff and they are trying to divert your fund to Mr. Thomas E.Cork account for their selfish interest. \n \nMeanwhile, you are advice to get back to my office immediately with the requested details to enable us have your correct details to wire your fund: \n \n1.Your First/Middle & Last Name: \n2.Your Full Office or Residential Address: \n3.Your Original Country of Origin: \n4.Age/Sex/Marital Status: \n5.Position Held in Office: \n6.Present Occupation: \n7.Office Telephone/Fax: \n8.Residential Tel/Fax & Mobile Line: \n9.Banking Details: \n10. The Official Amount Owed To You: \n11. The Country Where you are expecting your claim from: \n12.A certified Copy of your international passport or any scanned \n \nBest Regards. \nBest Regards \nyours sincerely \nMr.Mike Johnson \nAfrica Development Bank Vis CBN \nWorld Bank headquarters \nPay-Master General \nInternational Operations \nDebt Reconciliations/Payment \n \n \n \n Sent: Saturday, March 02, 2024 at 6:50 PM From: \"Aaron\" <va32652@***.com> To: mikejohnson@accountant.com Subject: Re: Dear Beneficiary, \n \nHello Johnson, \nThank you for bringing this to my attention. I must say, it's quite a surprise! I don't recall signing any power of attorney in favor of Mr. Thomas Edward Cork or anyone else for that matter. \nCould you please provide more details about this situation? How did Mr. Thomas come into possession of such a document? And what exactly does the power of attorney state? \nI'm sorry for all the questions, but as you can imagine, this is quite confusing and concerning to me. \nLooking forward to your response.\nBest wishes, \nAaron"
+    },
+    {
+        "from": "baiter_1626",
+        "to": "scammer_1626",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.027395833333333335,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "Hello Aaron,\n\nThank you for your prompt response. I understand your confusion and concern regarding this matter. It appears that Mr. Thomas Edward Cork has presented a power of attorney document claiming to be the rightful beneficiary of the funds in question.\n\nThe power of attorney allegedly states that you, Aaron, have willingly transferred all rights and claims to these funds to Mr. Thomas Edward Cork due to an inability to claim them yourself. However, we have found discrepancies in the document which led us to contact you directly for confirmation.\n\nCould you please confirm if you have any connection or dealings with Mr. Thomas Edward Cork? Also, could you provide more information about any contracts or agreements that might justify this payment?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nAaron"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_692",
+        "to": "baiter_692",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "1",
+        "subject": "What to do (Sample of UN Fund ownership certificate)",
+        "body": "Attention... Jeffrey\r\n\r\nWe received your email and confirmation, Sorry for late reply, we need your\r\nfull details (Tell no., valid identity and banking details to receive your\r\nfund).. This is not a scam, and this is the sample of the United Nations\r\nfund ownership certificate.. Which is the only legal document required in\r\nthis transaction....It will cost you $850 usd to process...\r\n\r\nFees...$850 usd."
+    },
+    {
+        "from": "scammer_692",
+        "to": "baiter_692",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Fwd: What to do (Sample of UN Fund ownership certificate)",
+        "body": "Attention... Sir\r\n\r\nWe received your email and confirmation, Sorry for late reply, we need your\r\nfull details (Tell no., valid identity and banking details to receive your\r\nfund).. This is not a scam, and this is the sample of the United Nations\r\nfund ownership certificate.. Which is the only legal document required in\r\nthis transaction....It will cost you $850 usd to process...\r\n\r\nFees...$850 usd."
+    },
+    {
+        "from": "baiter_692",
+        "to": "scammer_692",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.3920949074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Fwd: What to do (Sample of UN Fund ownership certificate)",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate your response. I understand that you require my full details, including my phone number, valid identity, and banking information in order to receive the fund. However, before proceeding further, I would like to gather some more information about this opportunity.\n\nCould you please provide me with more details about the United Nations fund ownership? What is the purpose of this fund and how was I selected as a recipient? Additionally, could you explain why there is a processing fee involved?\n\nI look forward to your response.\n\nBest wishes,\nDeborah"
+    }
+]

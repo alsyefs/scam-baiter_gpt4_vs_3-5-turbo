@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1123",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Attention:",
+        "body": "   Attention:\n                                                                                                                                                                                                           Date: 24/11/2023\nRE: YOUR INHERITANCE PAYMENT WIRE TRANSFER STATUS WITH A TOTAL VALUED AT TEN MILLION UNITED STATES ($10,000.000.00)\nCongratulations!\nThis is to acknowledge your details you forwarded to us and we have completed your fund transfer processing and we shall be transferring it to your account by Monday 27th November,2023.\nPlease forward us your Passport Photo to enable us to set up your Online Account Access so you can control and make transfers either at your home or at your office.\nThanks for your cooperation.\nWaiting your reply\nMr. Eric Davidson\n{International Clearance Department}\nAddress: 51 Moorgate Road London EC2R 6PB United Kingdom\nEmail: \ninfo@norwoodcreditunionbank.com\n,norwoodcreditunionbank@gmail.com\nTel: +44 745 202 6481 --Direct WhatsApp\n \n            Lobby Hours\nMonday 8:00AM - 7:00PM\nTuesday 8:00AM - 7:00PM\nWednesday 8:00AM - 7:00PM\nThursday 8:00AM - 8:00PM\nFriday 8:00AM - 8:00PM\nSaturday 9:00AM - 6:00PM\nHolidays -Close\nTHANKS FOR BANKING WITH US\n@2023 Norwood Credit Union Bank. All right reserved\nDisclaimer: Notice of Confidentiality: The information contained in this communication is intended solely for the use of the individual or entity to whom it is addressed, and others authorized to receive it. It may contain confidential or legally privileged information. If you are not the intended recipient you are hereby notified that any disclosure, copy, distribution or taking any action in reliance on the contents of this information is strictly prohibited and may be unlawful. If you have received this communication in error, please notify us. Please consider our environment before printing this email.    "
+    },
+    {
+        "from": "baiter_1123",
+        "to": "scammer_1123",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Attention:",
+        "body": "Hello Mr. Eric Davidson,\n\nThank you for your prompt response and the completion of my fund transfer processing. I'm really looking forward to having it in my account by Monday.\n\nHowever, I'm a bit confused about the need for my passport photo to set up online account access. Could you please explain why this is necessary? Is there any other way to verify my identity without sharing such sensitive information?\n\nI appreciate your assistance and look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nLaura"
+    }
+]

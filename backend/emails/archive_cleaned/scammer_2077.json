@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2077",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello Friend,",
+        "body": "  Hello Friend,\nI am Pavlo Kovalenko, I am a medic with the UAA and I am very sorry to\ncontact you in this manner but I have no option left, against the tide\nof limited time available.\nI have a concealed (USD25,000,000.00) which i will want you to receive\nurgently for our mutual benefit.\nKindly revert back to me for more details in my private email\n(\npavlokova04@gmail.com\n); Thanks.\nKind regards\nPavlo Kovalenko   "
+    },
+    {
+        "from": "baiter_2077",
+        "to": "scammer_2077",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello Friend,",
+        "body": "Hello Pavlo Kovalenko,\n\nThank you for reaching out to me. I'm curious to know more about the information you mentioned. Could you please provide me with some additional details? I appreciate your urgency and would like to understand how we can mutually benefit from this.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRichard"
+    },
+    {
+        "from": "scammer_2077",
+        "to": "baiter_2077",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Some details",
+        "body": "Dear Sir,\r\n\r\nI am very sorry for the delay in replying to you; the war is really\r\nintensifying and for some few days we have had power failure.\r\nSurely, we will benefit immensely from this transaction if we work together\r\nwith trust and mutual understanding.\r\n\r\nI intend to give you a generous percentage from the money for your\r\nparticipation, I urge you to tell me more about yourself and some of the\r\ninvestment possibilities in your country.\r\nI will be expecting your mail to give you more details.\r\n\nSincerely\r\nPavlo Kovalenko"
+    },
+    {
+        "from": "baiter_2077",
+        "to": "scammer_2077",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0010763888888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Some details",
+        "body": "Hello Pavlo,\n\nThank you for reaching out. I understand the challenges you are facing and appreciate your willingness to work together. Could you please provide more details about the opportunity you mentioned? I am interested in learning more about how we can collaborate.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRichard"
+    }
+]

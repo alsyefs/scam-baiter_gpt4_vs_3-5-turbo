@@ -1,0 +1,172 @@
+[
+    {
+        "from": "scammer_1571",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir",
+        "body": "  Dear Sir\nI represent a good Investment Group as a financial consultant. We are expanding our global presence by investing in viable projects across the globe. We will b)e willing to inject from $10,000,000 to $5 Billion and more in a viable project(s)\n \nWe grant our funding at a 3.95% ROI per annum for a 10 years and 12 months moratorium. If you have a viable project that needs funding, kindly revert back with your business plan and executive summary for our review and possible funding.\n \nSincerely Yours,\nMatthieu Eberly   "
+    },
+    {
+        "from": "baiter_1571",
+        "to": "scammer_1571",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir",
+        "body": "Hello Matthieu, thank you for reaching out. I'm interested in learning more about the investment opportunities your group is offering. Can you provide more details on the types of projects you typically invest in and the process for submitting a business plan for review? Looking forward to hearing from you soon.\n\nBest wishes,\nFranklin"
+    },
+    {
+        "from": "scammer_1571",
+        "to": "baiter_1571",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Sir",
+        "body": "Hello Sir,\r\n\r\nYour message was received, I apologize for the delay in responding. I work\r\nas a representative/agent to a private venture investor firm known as\r\nSTRONG BRIDGE CONSULTS LTDA whose primary goal is to grant loans and fund\r\nworthy projects. STRONG BRIDGE CONSULTS LTDA is interested in viable\r\nbusiness plans from capable companies across the world.\r\n\r\n\r\nAs a private venture investor firm, STRONG BRIDGE CONSULTS LTDA\r\nconcentrates on investing capital and time into large, small and medium\r\nstart–up opportunities through share consideration, along with specializing\r\nin establishing company-owned subsidiaries that are grown and developed by\r\nentrepreneurs and business minded individuals.\r\n\r\nSectors of Interest: Oil & Gas, Agriculture, Health, Aviation, Tourism,\r\nRetail, Real Estate, Construction, IT & Communications, Technology,\r\nEducation, Energy, Engineering, Utilities, Telecom, Mining, Maritime and\r\nhost of other profitable ventures.\r\n\r\nSTRONG BRIDGE CONSULTS LTDA is interested in securing Return of investment\r\n(ROI), also interested in financing businesses that we see would be\r\nbeneficial to all that's involved, we can go on and on about listing some\r\ncompanies that have benefited from the strong bridges around the world but\r\nthat would be breaking the agreement which we signed with such companies\r\nbut I would like to let you know that we have capable investors who are\r\nwilling and ready to invest in businesses and fund projects they find\r\nworthy with a range being up to Five billion united states dollars(\r\n$5BUSD), and a strong bridge delivers on its promises regarding to\r\npercentage return our investors expect, Which is at 3.95% with 10 years and\r\n12 months grace and a minimum of $10MUSD Grant.\r\n\r\nTo follow the next step which is to send us a brief package of your\r\nbusiness proposal /project for review, you have to indicate the amount\r\nwhich you want from STRONG BRIDGE CONSULTS LTDA, if it is viable and\r\nworthy, we will make a recommendation to STRONG BRIDGE CONSULTS LTDA and\r\nits investor to review your proposal and if they find it worthy, you will\r\nbe given an MoU, before we proceed respond with your business plan and\r\namount required for the project, Looking forward to your response and view\r\nwhile I hope to maintain a long-lasting business relationship.\nRegards,"
+    },
+    {
+        "from": "baiter_1571",
+        "to": "scammer_1571",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.07234953703703703,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Sir",
+        "body": "Hello,\n\nThank you for reaching out with information about STRONG BRIDGE CONSULTS LTDA. I appreciate the details you provided about your firm's interest in investing in various business ventures across different industries. It's intriguing to hear about the potential opportunities for funding and support that your investors are willing to provide.\n\nCould you please share more information on the types of projects or businesses that have successfully received funding from STRONG BRIDGE CONSULTS LTDA in the past? Understanding some success stories would help me gauge the credibility and potential benefits of collaborating with your firm.\n\nLooking forward to hearing back from you with additional insights.\n\nBest wishes,\nFranklin"
+    },
+    {
+        "from": "baiter_1571",
+        "to": "scammer_1571",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.15564814814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Dear Sir",
+        "body": "Hello,\n\nThank you for reaching out with information about STRONG BRIDGE CONSULTS LTDA. I appreciate the details provided about your firm's interest in investing in viable business plans and funding projects across various industries.\n\nCould you please share more information on the types of businesses or projects that have successfully received funding from STRONG BRIDGE CONSULTS LTDA in the past? Additionally, what criteria do you typically look for when considering potential investments?\n\nI am interested in learning more about the process of submitting a business proposal for review. Could you provide some guidance on what specific details or documents should be included in the proposal package?\n\nLooking forward to your response and further insights into how STRONG BRIDGE CONSULTS LTDA can potentially support new ventures.\n\nBest wishes,\nFranklin"
+    },
+    {
+        "from": "baiter_1571",
+        "to": "scammer_1571",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2389236111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Dear Sir",
+        "body": "Hello,\n\nThank you for reaching out with information about STRONG BRIDGE CONSULTS LTDA. I appreciate the details you provided about your private venture investor firm and its interest in funding worthy projects across various industries.\n\nCould you please share more information about the types of businesses or projects that have successfully received funding from STRONG BRIDGE CONSULTS LTDA in the past? Additionally, what criteria do you typically look for when considering potential investments?\n\nI look forward to hearing back from you with more insights. Thank you.\n\nBest wishes,\nFranklin"
+    },
+    {
+        "from": "baiter_1571",
+        "to": "scammer_1571",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2801851851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Dear Sir",
+        "body": "Hello,\n\nThank you for reaching out with information about STRONG BRIDGE CONSULTS LTDA. I appreciate the details provided about your private venture investor firm and its interest in funding worthy projects across various industries.\n\nCould you please share more information about the typical process once a business proposal is submitted for review? How long does it usually take for a decision to be made on potential funding?\n\nI'm also curious to know if there are specific criteria or requirements that businesses need to meet in order to be considered for investment by STRONG BRIDGE CONSULTS LTDA.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nFranklin"
+    },
+    {
+        "from": "baiter_1571",
+        "to": "scammer_1571",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3203009259259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Dear Sir",
+        "body": "Hello,\n\nThank you for reaching out with information about STRONG BRIDGE CONSULTS LTDA. I appreciate the details provided about your firm's interest in investing in viable business plans and funding worthy projects across various industries.\n\nCould you please share more information on the types of businesses or projects that have successfully received funding from STRONG BRIDGE CONSULTS LTDA in the past? Additionally, what criteria do you typically look for when considering potential investments?\n\nI am interested in learning more about the investment process and how a business proposal should be structured for review by your firm and its investors. \n\nLooking forward to your response.\n\nBest wishes,\nFranklin"
+    },
+    {
+        "from": "baiter_1571",
+        "to": "scammer_1571",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.5289814814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Dear Sir",
+        "body": "Hello,\n\nThank you for reaching out with information about STRONG BRIDGE CONSULTS LTDA. I appreciate the details you provided about your private venture investor firm and its interest in funding worthy projects across various industries.\n\nCould you please share more information about the typical process involved once a business proposal project is submitted for review by STRONG BRIDGE CONSULTS LTDA? How long does the review process usually take, and what are the key criteria that your investors look for in potential projects?\n\nI'm also curious to know if there are specific geographic regions or markets that your firm focuses on, or if you consider opportunities from companies worldwide.\n\nLooking forward to learning more about how STRONG BRIDGE CONSULTS LTDA operates and how it supports businesses. Thank you.\n\nBest wishes,\nFranklin"
+    },
+    {
+        "from": "baiter_1571",
+        "to": "scammer_1571",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.5717013888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Dear Sir",
+        "body": "Hello,\n\nThank you for reaching out with information about STRONG BRIDGE CONSULTS LTDA. I appreciate the details provided about your firm's interest in investing in viable business plans and funding worthy projects across various industries.\n\nCould you please share more information on the typical timeline for reviewing and approving business proposals? Additionally, what specific criteria do you look for in a potential project before deciding to invest?\n\nI look forward to hearing back from you soon.\n\nBest wishes,\nFranklin"
+    },
+    {
+        "from": "baiter_1571",
+        "to": "scammer_1571",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7803472222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Dear Sir",
+        "body": "Hello,\n\nThank you for reaching out with information about STRONG BRIDGE CONSULTS LTDA. It's interesting to learn about your firm's focus on investing in various industries and supporting worthy projects. Can you provide more details on the types of businesses or projects that have successfully received funding from STRONG BRIDGE CONSULTS LTDA in the past? I'm curious to know more about the potential opportunities available for new ventures.\n\nLooking forward to hearing back from you soon.\n\nBest wishes,\nFranklin"
+    },
+    {
+        "from": "scammer_1571",
+        "to": "baiter_1571",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.092013888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Dear Sir",
+        "body": "Hello,\r\n\r\nYour message has been received , in my last message I made everything clear\r\nto you, if you have a project that you need a financial support kindly\r\nrespond and confirm. confirm your contact address as well.\r\n\r\nWait to hear from you soon.\r\nRegards."
+    },
+    {
+        "from": "baiter_1571",
+        "to": "scammer_1571",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.111990740740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Dear Sir",
+        "body": "Hello,\nThank you for reaching out. I am interested in learning more about the financial support you mentioned. Can you provide more details about how it works and what kind of projects you typically support? Looking forward to hearing from you soon.\n\nBest wishes,\nFranklin"
+    },
+    {
+        "from": "scammer_1571",
+        "to": "baiter_1571",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.092685185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Dear Sir",
+        "body": "YOU SUPPOSE TO INFORM US THE AREA OF INVESTMENT THAT WILL BE  BETTER  FOR\r\nYOU AND LET US KNOW THE AMOUNT REQUIRED."
+    },
+    {
+        "from": "baiter_1571",
+        "to": "scammer_1571",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.111805555555556,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: Dear Sir",
+        "body": "Hello! Thank you for reaching out. I'm interested in learning more about potential investment opportunities. Can you provide me with some details on the area of investment and the amount required?\n\nBest wishes,\nFranklin"
+    },
+    {
+        "from": "scammer_1571",
+        "to": "baiter_1571",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.9395949074074075,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: Dear Sir",
+        "body": "MR FRANKLIN THIS IS NOT A KIDS BUSINESS, I AM NOT THE ONE TO SUGGEST TO YOU\r\nTHE BEST AREA OF BUSINESS THAT WILL BE PROFITABLE IN YOUR AREA OR THE\r\nAMOUNT YOU REQUIRED. IF YOU ARE NOT CAPABLE OF HANDLING A PROJECT PLS\r\nADVICE."
+    },
+    {
+        "from": "baiter_1571",
+        "to": "scammer_1571",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.945069444444444,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: Dear Sir",
+        "body": "Hello! Thank you for reaching out. I'm interested in learning more about the business opportunity you're suggesting. Can you provide me with some details on how it works and what is required?\n\nBest wishes,\nFranklin"
+    }
+]

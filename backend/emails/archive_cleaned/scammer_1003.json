@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1003",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good Morning",
+        "body": "Good Morning\n \nGreeting in the name of our almighty God, Please, kindly pardon me for\nany inconvenience this letter may cost you because I know it may come\nto you as a surprise as we have no previous correspondence.\n \nI am Mrs. Rose Robert , the president of the Department of the Treasury\nof Canada since Jan  08, 2024.  I want to inform you that the matter of\nyour fund was brought to my desk this Morning,\n \nMrs. Rose Robert the President and CEO Bank of Montreal Canada said that they want to Divert your fund worth a sum of US$12,000,000,000.00 Twelve Billion\nUnited State Dollars to Government Treasuries Account just because you\nRefused to pay the sum of $200 usd shipping fee to receive your ATM\ncard which will permit you a daily withdrawal limit of US$25,000\nUSD three times daily from any ATM Machine around you.\n \nPlease take note that the US$12,000,000,000.00 deposited with the Bank\nof Montreal Canada won by your e-mail address via online active email\naddress selected from the sponsor of Coca Cola Company award. It was\nregistered with your email address by the Lottery Board Executive\nDirectors Of Coca-Cola Company Canada Branch,\n \nAs president of the Canadian Treasury Department, I told Mrs. Rose Robert\nthe president to reduce the shipping fee to $100 usd to help you afford\nthe fee. After the Diplomatic Agent delivers the ATM Visa Card then he\nwill follow you to any ATM MACHINE center around you so you can\nwithdraw with your ATM Card and then you balance him the remaining $100\nusd.\n \nThe Bank of Montreal Canada has given you the grace of sending half of\nthe charges/fee which will be only $100 for now, then once you confirm\nyour US$12,000,000,000.00, you can then pay the remaining balance of\n$100 .\n I  want to personally assure you once again that you will have\nevery opportunity to smile and be happy to organize a big party to\ncelebrate with your family.\n \nI am hereby protecting your interest as the president of the Canadian\nTreasury Department to make sure all goes well because this is a huge\namount of money, we cannot\nwish you to lose.\n Please know that you have from now till the end of\ntwo days to effect the payment\n for activation of your ATM Card Account\nNumber: 005125335536644./  PIN  CODE #0087\n \nThe payment approval documents have been acquired for the smooth\ndelivery of your ATM visa Card of U $12,000,000,000.00. \nYou are\nAdvised to buy a $100usd Steam Wallet Card or iTUNES  Card to\nenable the Bank of Montreal Canada bank activate the account for you\nto be able to withdraw immediately you receive the ATM Card to your\nhome address.\n \nYour quick attention is needed as soon as you read this email and you\nshould avoid anything that will make you lose this fund.\n \nThanks, and God bless.\nBest Regards,\nMrs. Rose Robert\nPresident of Department of the Treasury of Canada,"
+    },
+    {
+        "from": "baiter_1003",
+        "to": "scammer_1003",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Good Morning",
+        "body": "Good morning, Mrs. Rose Robert. Thank you for reaching out to me with this information. I must admit, it does come as a surprise to me. Can you please provide me with more details about this fund and how it is connected to my email address?\n\nBest wishes,\nCarter"
+    },
+    {
+        "from": "scammer_1003",
+        "to": "baiter_1003",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Good Morning",
+        "body": "You are welcome!\r\n\r\nHope you read my last message very clearly?\r\n\r\nYou are receiving the funds from US GOVERNMENT for compensation!\r\n\r\nAnd you are sending the requested fee for some requested documentation to\r\nclaim the total amount\r\n\r\nThank for your understanding"
+    },
+    {
+        "from": "baiter_1003",
+        "to": "scammer_1003",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.787037037037037e-05,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Good Morning",
+        "body": "Hello! Thank you for reaching out to me again. I did read your last message, but I just wanted to clarify a few things. Could you please provide more details about the funds I am receiving from the US government? What is the purpose of these funds and how did I become eligible for them? Additionally, could you explain why there is a fee required to claim the total amount? I appreciate your help in understanding this process better.\n\nBest wishes,\nCarter"
+    }
+]

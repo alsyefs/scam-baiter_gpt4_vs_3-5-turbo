@@ -1,0 +1,492 @@
+[
+    {
+        "from": "scammer_635",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Greeting,",
+        "body": "  Greeting,\nIt is my pleasure to let you know about my success in getting the Consignment Box received under the cooperation of a new partner from Germany.I did not forget your past efforts to assist me in receiving the Box. Now contact my secretary Dr. Daniel Mminele. His email (\ndrdanielmminele11@gmail.com\n) asks him to send you the total ($1, Million Dollars) Of which I raised for you as compensation.\nSo feel free to get in touch with him and get back to me immediately. You receive your compensation money from him to enable us to share the joy together.\nYours Faithfully\nMr. Mark Larry   "
+    },
+    {
+        "from": "baiter_635",
+        "to": "scammer_635",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Greeting,",
+        "body": "Hello Mr. Mark Larry,\n\nThank you for reaching out and sharing your success with me. I'm glad to hear that you have received the Box and that you remember my past efforts to assist you. It sounds like an exciting development.\n\nCould you please provide me with more details about this opportunity? I would like to understand how I can benefit from the total Million Dollars that has been raised for me. What is the purpose of this money, and what are the next steps for me to receive it?\n\nI appreciate your time and look forward to hearing back from you soon.\n\nBest wishes,\nAllan"
+    },
+    {
+        "from": "scammer_635",
+        "to": "baiter_635",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Greeting,",
+        "body": "Dear Allan,\r\n\r\nThanks for your response which was received in good faith and noted. Yes,\r\nmy Boss Mr. Larry Mark, told me that you will contact me for your\r\ncompensation funds which was under my care to make sure you receive it,\r\n\r\nI would want your full details such as your full name: Your direct phone\r\nnumber. and with your contact address and you should tell me the way you\r\nwant to receive the funds.\r\n\r\nLooking forward to hearing from you urgently,\r\n\nDr. Daniel"
+    },
+    {
+        "from": "scammer_635",
+        "to": "baiter_635",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.5133680555555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Greeting, Your Compensation Funds.",
+        "body": "Dear Allan,\r\n\r\nGood morning, and how are you doing? I was expecting to read from you to\r\nknow the next step on how to proceed with your compensation funds.\nRegards\r\nDr. Daniel"
+    },
+    {
+        "from": "baiter_635",
+        "to": "scammer_635",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.0423263888888887,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Dear Dr. Daniel,\n\nGood morning! I hope this message finds you well. I apologize for any confusion, but I'm not sure what funds you are referring to. Could you please provide me with more information about it? I want to make sure I understand the situation correctly before proceeding.\n\nBest wishes,\nAllan"
+    },
+    {
+        "from": "scammer_635",
+        "to": "baiter_635",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.0663541666666667,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Dear Allan,\r\n\r\nThanks for your response. My boss Mr. Larry Mark, who first sent you a\r\nmessage and referred you to me. You wrote to my box this message but was\r\nreferring the message to my boss Larry Mark,\r\nhere is your message to my mail box.\r\n...................................................................................................\r\n Hello Mr. Mark Larry,\r\n\r\nThank you for reaching out and sharing your success with me. I'm glad to\r\nhear that you have received the Box and that you remember my past efforts\r\nto assist you. It sounds like an exciting development.\r\n\r\nCould you please provide me with more details about this opportunity? I\r\nwould like to understand how I can benefit from the total Million Dollars\r\nthat has been raised for me. What is the purpose of this money, and what\r\nare the next steps for me to receive it?\r\n\r\nI appreciate your time and look forward to hearing back from you soon.\r\n\r\nBest wishes,\r\nAllan\r\n................................................................\r\n\r\nThat was why i wrote you first waiting for your response to enable us\r\nproceed and have the compensation funds sent to you without any delay,\nRegards\r\nDr. Daniel"
+    },
+    {
+        "from": "baiter_635",
+        "to": "scammer_635",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.0832291666666665,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Dear Dr. Daniel,\n\nThank you for reaching out to me. I apologize for the confusion regarding the previous email. I appreciate your assistance in providing more details about the total Million Dollars that has been raised for me.\n\nCould you please explain what the purpose of this money is? How can I benefit from it? Additionally, I would like to know what the next steps are for me to receive these funds.\n\nI look forward to hearing back from you soon.\n\nBest wishes,\nAllan"
+    },
+    {
+        "from": "scammer_635",
+        "to": "baiter_635",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.679201388888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Dear Allan,\r\n\r\nThanks for your quick response. The funds were meant for you as a\r\ncompensation by my Boss Mr. Larry Mark, According to him it's for your help\r\nto him in the past that why he raise the money as to compensate you,\r\n\r\nHow would you want to receive the funds? will you like it by bank to bank\r\ntransfer, or through ATM CARD or Cheque.\r\n\r\nLooking forward to hearing from you urgently with your details such as your\r\nfull name: your address and your direct phone number.\nRegards\r\n Dr. Daniel"
+    },
+    {
+        "from": "baiter_635",
+        "to": "scammer_635",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.688275462962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Dear Dr. Daniel,\n\nThank you for reaching out to me. I appreciate your explanation regarding the funds. It's quite unexpected, but I'm curious to know more about it. Could you please provide me with some additional details?\n\n1. How did Mr. Larry Mark remember my help from the past? I don't recall assisting him with anything.\n\n2. What is the total amount of funds that he intends to compensate me with?\n\n3. If we proceed with this, what are the necessary steps and requirements for each option you mentioned - bank transfer, ATM card, or cheque?\n\nI look forward to your prompt response.\n\nBest wishes,\nAllan"
+    },
+    {
+        "from": "scammer_635",
+        "to": "baiter_635",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.7158101851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Dear Allan,\r\n\r\nI don't know how i could explain more about this yo you, I think i have\r\nexplained a little to you which you understood who compensated you, The\r\ntotal amount you will receive is the sum of $1, Million Dollars.\r\n\r\nAs i have mentioned to you about bank transfer, ATM card, or cheque? you\r\nare the one to choose which you would want to receive the money, As soon as\r\ni receive your details i will proceed to the bank where your funds\r\ndeposited to know more about how you are going to receive the funds.\r\n\r\nKindly forward to me your details.\r\n\nDr. Daniel"
+    },
+    {
+        "from": "baiter_635",
+        "to": "scammer_635",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.7298032407407407,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Dear Dr. Daniel,\n\nThank you for reaching out to me again. I appreciate your willingness to explain further. I must admit, I am still a bit confused about the process. Could you please provide more details on how the bank transfer, ATM card, or cheque options work? I want to make sure I understand everything clearly before making a decision.\n\nAlso, could you clarify what information you need from me? I want to ensure that I provide the correct details for the transaction.\n\nBest wishes,\nAllan"
+    },
+    {
+        "from": "scammer_635",
+        "to": "baiter_635",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.7431828703703705,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "The bank to bank transfer. You need to provide your full bank details where\r\nthe funds will be transferred into.\r\n2) ATM CARD the bank will issue an ATM CARD in your name and send the card\r\nto you through the delivery company to your address.\r\n\r\n3) As for the Cheque. the same as the ATM CARD. the bank will issue a\r\ncashier's Cheque to you in your name and send it to you through the same\r\ndelivery company,\r\n\r\nThat is all that i know i can explain to you Sir,\r\n\nDr. Daniel"
+    },
+    {
+        "from": "baiter_635",
+        "to": "scammer_635",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.7504282407407405,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Hello Dr. Daniel, thank you for sharing this information with me. I appreciate your help in explaining the different options for transferring funds. Can you please tell me more about the bank to bank transfer? How does it work exactly?\n\nBest wishes,\nAllan"
+    },
+    {
+        "from": "scammer_635",
+        "to": "baiter_635",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.7527083333333335,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "You will have to provide your bank details such as.\r\n\r\nYour Full name\r\nBank name\r\nBank address\r\nAccount number\r\nAccount name\r\nSwift Code\r\nYour phone number\r\n\r\nThen I will provide it to the bank to effect the transfer of the funds into\r\nyour bank account.\r\n\nDr. Daniel"
+    },
+    {
+        "from": "scammer_635",
+        "to": "baiter_635",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.7557638888888887,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Don't you know what bank transfer is? It's very easy and fastest way to\r\ntransfer money to someone all over the world.\r\n\nDr. Daniel"
+    },
+    {
+        "from": "baiter_635",
+        "to": "scammer_635",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.771412037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Hello Dr. Daniel! Thank you for reaching out to me. Yes, I am familiar with bank transfers. It's indeed a convenient way to send money internationally. Could you please provide me with more information about the specific bank transfer service you are referring to?\n\nBest wishes,\nAllan"
+    },
+    {
+        "from": "baiter_635",
+        "to": "scammer_635",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.7720949074074075,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Hello Dr. Daniel,\n\nThank you for reaching out to me. I appreciate your willingness to share information with me. However, I have a few questions before I can provide you with my bank details.\n\n1. Could you please explain why you need all of these specific details? \n2. Is there any documentation or proof that you can provide to assure me that this transfer is legitimate?\n3. Are there any fees or charges associated with this transfer? If so, how much are they and how do I go about paying them?\n\nI look forward to hearing back from you and getting more information about this opportunity.\n\nBest wishes,\nAllan"
+    },
+    {
+        "from": "scammer_635",
+        "to": "baiter_635",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.781724537037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Dear Allan,\r\n\r\nThat is how bank transfer works. You must provide the details as i\r\nmentioned.\r\n\r\nMr. Allan, the transfer and with the funds which was compensated to you is\r\nlegitiment nothing to argue please. i assure you that this is a legitiment\r\nthing okay,\r\n\r\nI can't tell about if there is any any fees to request from you, It's when\r\ni got to the bank to give them your details for the transfer to take effect\r\nthen i will ask if any fees that you have to pay,\r\n\r\nWhen coming to pay any fees for your transfer, The bank will provide you\r\nwith the details where you have to pay the fees,\r\n\r\nAll what i know is that my boss told me about you that you will write and\r\nshould help to guide you and make sure you receive the compensation funds\r\nwithout delay,\r\n\nDr. Daniel"
+    },
+    {
+        "from": "baiter_635",
+        "to": "scammer_635",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.7916898148148146,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Dear Dr. Daniel,\n\nThank you for reaching out to me. I appreciate your explanation about the bank transfer process. It's good to know that the transfer and funds are legitimate. Can you please provide more information about the fees that may be involved? I just want to make sure I understand everything correctly before proceeding.\n\nAlso, could you clarify which bank I need to go to in order to provide my details for the transfer? And how will I know if there are any fees that need to be paid?\n\nI apologize for all the questions, but I want to ensure a smooth and hassle-free process. Thank you for your assistance in guiding me through this.\n\nBest wishes,\nAllan"
+    },
+    {
+        "from": "baiter_635",
+        "to": "scammer_635",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.792222222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "19",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Dear Dr. Daniel,\n\nThank you for reaching out to me. I appreciate your explanation about the bank transfer process. It's good to know that the transfer and funds are legitimate. Can you please provide more information about the fees that may be required? How much are these fees, and what are they for? Also, could you clarify which bank I need to go to in order to provide my details for the transfer?\n\nI want to make sure I have all the necessary information before proceeding with anything. Thank you for your assistance.\n\nBest wishes,\nAllan"
+    },
+    {
+        "from": "scammer_635",
+        "to": "baiter_635",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.7986458333333335,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "20",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Dear Allan,\r\n\r\nYou don't need to go to any bank. You send me your bank details. Then I\r\nwill provide it to the bank where your compensation funds were deposited to\r\nenable them to proceed with the transfer of the funds into your bank\r\naccount. and immediately the transfer is done into your bank account.\r\n\r\nThe bank here will provide you with the transfer slip to go to your bank to\r\nconfirm the transfer of the funds into your bank account.\r\n\r\nDear Allan, As for now? i can't tell how much they will charge you for the\r\ntransfer if there is any okay, when you forward your details and i proceed\r\nto the bank to give them your details to effect the transfer then i can\r\nfind out if there is any fees for you to pay okay,\r\n\r\nDear Allan, You have every right to ask question to know how come about the\r\nfunds before you proceed. I am not angry with your question that is what\r\nyou suppose to do.\r\n\nDr. Daniel"
+    },
+    {
+        "from": "baiter_635",
+        "to": "scammer_635",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.813449074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "21",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Dear Dr. Daniel,\n\nThank you for your response. I appreciate your willingness to help me with the transfer of funds. However, I have a few questions before I proceed.\n\n1. Can you please provide more details about how these funds came to be deposited in the bank? I want to make sure everything is legitimate.\n\n2. Is there any documentation or proof that you can provide to verify the existence of these funds?\n\n3. What is the name of the bank where my funds are currently deposited? It would be helpful for me to know this information.\n\n4. Are there any legal or tax implications that I should be aware of before proceeding with the transfer?\n\nI hope you understand my cautious approach and can provide me with the necessary information to alleviate any concerns I may have.\n\nBest wishes,\nAllan"
+    },
+    {
+        "from": "scammer_635",
+        "to": "baiter_635",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.951736111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "22",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "The attached file was the Authorization Letter from my Boss which he kept\r\nfor your compensation funds.\r\n\r\nYour funds was deposited into Bank of Ghana. I have already inform them\r\nthat i am in contact with you that very soon i will come to their bank for\r\nthe release of the funds into your bank account that you will provide.\r\n\r\nYour funds will be deposited into your bank when you provide it, and i will\r\nproceed to the bank where your funds was deposited to give them your bank\r\naccount to enable them to deposit transfer the funds into your bank account.\r\n\r\nI don't think there will be any legal or tax implications that you should\r\nbe aware of before proceeding with the transfer?\r\n\r\nJust forward your details and by tomorrow, morning i will proceed to the\r\nbank to hand them your details to start the process of the transfer into\r\nyour bank account without delay,\nRegards\r\nDr. Daniel"
+    },
+    {
+        "from": "baiter_635",
+        "to": "scammer_635",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.958414351851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "23",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Hello Dr. Daniel,\n\nThank you for reaching out to me and providing this information. I appreciate your assistance in helping me access my funds. Before I proceed, I just have a few questions to ensure everything goes smoothly.\n\nCould you please clarify which bank my funds have been deposited into? It would be helpful to know the exact bank so that I can provide accurate information when required.\n\nAdditionally, are there any specific legal or tax requirements that I need to be aware of before proceeding with the transfer? I want to make sure that all necessary procedures are followed correctly.\n\nOnce I have these details, I will be able to provide you with the necessary information for the transfer. Thank you again for your help, and I look forward to hearing from you soon.\n\nBest wishes,\nAllan"
+    },
+    {
+        "from": "baiter_635",
+        "to": "scammer_635",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.355289351851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "24",
+        "subject": "Re: Greeting,",
+        "body": "Dear Dr. Daniel,\n\nThank you for reaching out to me. I appreciate your prompt response. I'm glad to hear that my Boss, Mr. Larry Mark, informed you about contacting me regarding the funds. I understand that you were taking care of these funds and now it's time for me to receive them.\n\nBefore we proceed, could you please provide me with more details about the funds? Specifically, I would like to know the amount involved and any necessary documentation or procedures that need to be followed in order for me to receive the funds safely.\n\nAdditionally, it would be helpful if you could explain the different options available for receiving the funds. Are there any fees or charges associated with each method? I want to make sure I choose the most convenient and cost-effective option.\n\nI look forward to your prompt response and further guidance on how we can proceed with this matter.\n\nBest wishes,\nAllan"
+    },
+    {
+        "from": "scammer_635",
+        "to": "baiter_635",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.381944444444445,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "25",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Dear Mr. Allan,\r\n\r\nFrom the document I sent to you stated that your funds were deposited in\r\nthe Bank of Ghana.\r\n\r\nAs I have stated before, I don't know if there will be any tax requirements\r\nthat will be needed for you to be aware of before proceeding with the\r\ntransfer.\r\n\r\nThe total amount involved is the sum of (1,Million Dollars) only. and any\r\nnecessary information or procedures that need to be followed in order for\r\nyou to receive the funds safely is to forward your bank details.\r\n\r\nTo issue an ATM card to you is free of charge. But to deliver the ATM card\r\nto your address you are the one to pay for the delivery charges which will\r\ncost you a little through the shipping company.\r\n\r\nAnd the same procedure with Cheque. The Cheque will issue for free but you\r\nhave to pay for the shipment to your address.\r\n\r\nFor bank to bank transfer into your bank account. unless you provide your\r\nbank details when going to the bank to submit it to them for the transfer\r\nthen i will find out what will be the next step for the transfer then, i\r\nwill get back and tell you the procedure.\r\n\r\nI think I am done here.\nRegards\r\nDr. Daniel"
+    },
+    {
+        "from": "baiter_635",
+        "to": "scammer_635",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.397245370370371,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "26",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Dear Dr. Daniel,\n\nThank you for reaching out to me regarding the funds deposited in the Bank of Ghana. I appreciate your assistance in providing more information about the process.\n\nRegarding the tax mentioned, could you please clarify what kind of tax it is and how much it would amount to? I want to make sure I am fully aware of any financial obligations before proceeding with the transfer.\n\nYou mentioned that issuing an ATM card or a cheque is free of charge, which is great to hear. However, could you please provide more details about the shipping company and the delivery charges? How much would these charges be approximately?\n\nAdditionally, if I choose the bank-to-bank transfer option, what specific bank details would be required? And are there any fees associated with this method?\n\nI apologize for all these questions, but I want to ensure a smooth and secure transaction. Thank you for your patience and assistance.\n\nBest wishes,\nAllan"
+    },
+    {
+        "from": "scammer_635",
+        "to": "baiter_635",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.411076388888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "27",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "The shipment of an ATM card from here to your address will cost you the sum\r\nof $600.00 Dollars. The same procedure with Cheque shipment.\r\n\r\nAfter my conversation with the bank where your funds were deposited. The\r\nbank manager told me that after providing your bank details. You will have\r\nto open a non residential account with their bank and they will from the\r\nnon residential account you open with them and transfer your funds into\r\nyour bank account without any further delay,\r\n\r\nThe bank manager said that to open the non residential account in your name\r\nin their bank will cost you the sum of $1,200.00 Dollars and the money you\r\nuse to open the non residential account will be added to your funds and\r\ntransferred all into your bank account.\nRegards\r\nDr. Daniel"
+    },
+    {
+        "from": "baiter_635",
+        "to": "scammer_635",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.417534722222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "28",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Hello Dr. Daniel,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding the shipment of an ATM card or a cheque. However, I have a few questions before proceeding.\n\nCould you please clarify which bank this is and provide more details about the non-account that needs to be opened? Additionally, what are the benefits of opening this non-account with your bank?\n\nI look forward to hearing back from you soon.\n\nBest wishes,\nAllan"
+    },
+    {
+        "from": "scammer_635",
+        "to": "baiter_635",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.424166666666666,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "29",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "I am tired of all this explanation please. I have already clarified\r\neverything to you, I don't have anything to clarify anymore, I will contact\r\nmy boss back and tell him maybe you are not the right person for this\r\ncompensation.\r\n\r\nHowever, you are really serious and believe that this compensation meant\r\nfor you the way my boss stated it, Provide your details either your full\r\nname and address or bank details then i will proceed to the bank for the\r\nrelease of your funds\r\n\r\nThat is all I have to say for now, I am very busy with my work here please.\r\n\nDr. Daniel"
+    },
+    {
+        "from": "baiter_635",
+        "to": "scammer_635",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.438356481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "30",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Hello Dr. Daniel,\n\nI understand that you're busy with your work, but I just wanted to make sure I have all the necessary information before proceeding. Could you please provide me with more details about the funds? How much money are we talking about here?\n\nAlso, I'm a bit hesitant to share my personal information or bank details right away. Can you explain why it's necessary for me to provide those details in order to release the funds? Is there any other way we can proceed without sharing such sensitive information?\n\nThank you for your understanding and patience.\n\nBest wishes,\nAllan"
+    },
+    {
+        "from": "scammer_635",
+        "to": "baiter_635",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.44212962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "31",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "What is needed is your bank details\r\n\r\nYour full name\r\nYour bank name\r\nBank account number\r\nAccount Name\r\nPhone Number\r\n\r\nIf you don't want to provide all this then, provide your details address\r\nsuch as your full name house address. let the bank issue an ATM card or\r\nCheque to you and make the shipment direct to your address.\r\n\r\nHow many times should I have to state the amount for you? The amount in\r\nquestion is the sum of $1,Million Dollars only,\r\n\r\nYou are the person to choose one option?\nRegards\r\nDr. Daniel"
+    },
+    {
+        "from": "baiter_635",
+        "to": "scammer_635",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.45869212962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "32",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Hello Dr. Daniel,\n\nThank you for reaching out to me. I appreciate your offer, but I have a few questions before I can proceed. Can you please provide more information about the source of this money? How did you come across my contact information and why have you chosen me for this opportunity?\n\nAdditionally, could you clarify what exactly the purpose of providing my bank details or personal address would be? I just want to make sure I understand the process correctly.\n\nBest wishes,\nAllan"
+    },
+    {
+        "from": "scammer_635",
+        "to": "baiter_635",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.572280092592592,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "33",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Dear Allan,\r\n\r\nMy boss, Mr. Larry Mark, was the person who compensated you, not me. He\r\ntold me that he had a business with you in the past that both could not\r\nfinish and after he got a new partner from Germany and succeeded with the\r\nbusiness with the new partnership.\r\nHe however, decided to compensate you due to your past effort . That is why\r\nhe brought the $1, Million Dollars for you as compensation.\r\n\r\nI wasn't the one that chose you for this opportunity? My boss brings out\r\nthe money for you as compensation.\r\n\r\nThe purpose of providing your bank details is where to transfer your funds\r\nto you.\r\nYour personal address is if you choose an ATM card or Cheque the address\r\nwill be used to post the card or Cheque to you.\r\n\nDr. Daniel"
+    },
+    {
+        "from": "baiter_635",
+        "to": "scammer_635",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.583333333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "34",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Dear Dr. Daniel,\n\nThank you for reaching out to me. I appreciate you sharing this information about my boss, Mr. Larry Mark, and his business dealings. It's interesting to hear that he had a previous business with someone that couldn't be completed, but then found success with a new partner from Germany.\n\nI'm curious to know more about the compensation Mr. Mark wants to provide me with. Could you please explain how this compensation came about? And what exactly is the purpose of needing my bank details? I just want to make sure I understand everything clearly before proceeding.\n\nAlso, if I were to choose an ATM card or a cheque as the method of receiving the funds, how long would it take for them to be delivered to my address?\n\nThank you again for sharing this information with me.\n\nBest wishes,\nAllan"
+    },
+    {
+        "from": "scammer_635",
+        "to": "baiter_635",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.600219907407407,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "35",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "If you were to Choose an ATM card or Cheque. It will take only three days\r\nto arrive at your doorstep.\r\n\r\nI am a secretary to Mr. Mark Larry, Even when you responded to the first\r\nmessage you referred it to Mr. Larry Mark, my boss. but the message came to\r\nmy mail box.\r\n\r\nIf you are not satisfied with providing your bank details then let forget\r\nabout, You will have to provide your details address for an ATM card or\r\nCheque to be issued and send to you,\r\n\nDr. Daniel"
+    },
+    {
+        "from": "baiter_635",
+        "to": "scammer_635",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.605625,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "36",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Hello Dr. Daniel,\n\nThank you for reaching out to me. I appreciate your offer regarding the ATM card or cheque. However, I have a few questions before proceeding.\n\n1. Can you please provide more information about the process of obtaining the ATM card or cheque? How does it work exactly?\n\n2. Are there any fees or charges associated with receiving the card or cheque? If so, what are they and how can they be paid?\n\n3. Is there a specific reason why I need to provide my address for the card or cheque to be issued and sent to me? Can you explain further?\n\nI look forward to hearing back from you with more details.\n\nBest wishes,\nAllan"
+    },
+    {
+        "from": "scammer_635",
+        "to": "baiter_635",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.610474537037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "37",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Dear Allan,\r\n\r\nAre you a kid? Don't you know what an ATM card means? There is no process\r\nfor the ATM card. When you send your address. I will take it to the bank to\r\npresent it to the bank. Then the bank will issue the ATM card to you in\r\nyour name. or the bank will issue  Cashier Cheque in your name as well.\r\n\r\nThen both I and the bank official will proceed to a shipping company to\r\nhand it over for shipment to your address without any delay, Either UPS\r\ndelivery company or DHL delivery company.\r\n\nDr. Daniel"
+    },
+    {
+        "from": "baiter_635",
+        "to": "scammer_635",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.624907407407408,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "38",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Dear Dr. Daniel,\n\nThank you for reaching out to me. I apologize if my previous message seemed a bit confused. I do understand what an ATM card is, but I just wanted to make sure that everything is legitimate and secure before proceeding.\n\nCould you please provide me with more details about the process? How long does it usually take for the bank to issue the ATM card or cashier's cheque? And how much would the shipping cost be?\n\nI appreciate your patience and assistance in this matter.\n\nBest wishes,\nAllan"
+    },
+    {
+        "from": "scammer_635",
+        "to": "baiter_635",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.630439814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "39",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "ATM Visa card or cashier's cheque takes a day to issue okay,\r\nAfter the bank issues the ATM Visa card or cashier's cheque.\r\nMe with One of the bank officials will take the card or the Cheque to the\r\nshipping company with your address to hand it over to them for shipment to\r\nyour home address.\r\n\r\nDear Allan,  everything is legitimate and secure please. Let get start and\r\nhave it issue and hand it over to the shipping company to ship it to you\r\nwithout any further delay,\r\n\nDr. Daniel"
+    },
+    {
+        "from": "baiter_635",
+        "to": "scammer_635",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.646643518518519,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "40",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Hello Dr. Daniel,\n\nThank you for reaching out to me. I appreciate your willingness to help with the issuance of the ATM Visa card or cashier's cheque. It sounds like a convenient and secure way to receive the funds.\n\nBefore we proceed, could you please provide me with some more information? I would like to know which bank you are affiliated with and how long it usually takes for them to issue the card or cheque. Additionally, could you explain a bit more about the shipping process? How long does it typically take for the shipment to reach my home address?\n\nI just want to make sure that everything is clear and transparent before we move forward. Thank you again for your assistance.\n\nBest wishes,\nAllan"
+    },
+    {
+        "from": "scammer_635",
+        "to": "baiter_635",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.685347222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "41",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "I am not a banker neither i work for bank. I am a secretary to Mr. Mark\r\nLarry,\r\n\r\nYou can withdrew money from ATM Visa card in any ATM machine in the world.\r\nFor cashier's you can present Cashier's Cheque to any bank in world and\r\nthey will pay the cash into your bank account in your country,\r\n\r\nIt's any easy way and fastest way, I am tired of all these argument let get\r\nit started then you see how it work.\r\n\r\nProvide your address now,\r\n\nDr. Daniel"
+    },
+    {
+        "from": "baiter_635",
+        "to": "scammer_635",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.688912037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "42",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Hello Dr. Daniel,\n\nThank you for reaching out to me with this information. I appreciate your willingness to share it with me. However, I have a few questions before proceeding.\n\n1. Can you please explain in more detail how the ATM Visa card works? Are there any fees or limitations associated with using it internationally?\n\n2. Regarding the cashier's cheque, are there any specific requirements or procedures that need to be followed when presenting it to a bank? How long does it usually take for the cash to be deposited into my account?\n\n3. Is there any risk involved in using these methods? Are there any precautions I should take to ensure the safety of my funds?\n\nI look forward to hearing back from you and learning more about these options.\n\nBest wishes,\nAllan"
+    },
+    {
+        "from": "scammer_635",
+        "to": "baiter_635",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.7107523148148145,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "43",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Those questions you are asking will be answered by your bank. When you\r\npresent the cashier Cheque to you bank immediately your bank will deposit\r\nthe cash into your bank account.\r\n\r\nSince you have bank account in your country, Did you bank give you ATM\r\ncard. It's the way you use the ones you have is the same way you will use\r\nthis when you receive it\r\n\r\nthere is no any risk involved in using these methods please.\r\n\nDr. Daniel"
+    },
+    {
+        "from": "baiter_635",
+        "to": "scammer_635",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.72974537037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "44",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Hello Dr. Daniel,\n\nThank you for reaching out to me. I appreciate your response. I do have a bank account in my country, and yes, I do have an ATM card that I use regularly. It's good to know that the process of depositing the cashier's cheque into my bank account is similar to how I use my ATM card.\n\nI just wanted to clarify a few things. Are there any fees or charges associated with this transaction? And how long does it usually take for the funds to be available in my bank account after depositing the cashier's cheque?\n\nThank you for your assistance.\n\nBest wishes,\nAllan"
+    },
+    {
+        "from": "scammer_635",
+        "to": "baiter_635",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.739953703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "45",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "I can see that you are a joker and not serious. I am not a banker please.\r\nHow could i tell you how Cashier Cheque work when you have bank account and\r\nhas an ATM card you are using.\r\n\r\nWhen you receive the Cashier Cheque and take it to your bank. It your bank\r\nto tell you when the cash will be available in your bank account after\r\ndepositing the cashier's cheque?\r\n\r\nCashier take only a day for the cash to be credited into the owner account.\r\nI ask you this before. Are you a kids?\r\n\nDr. Daniel"
+    },
+    {
+        "from": "baiter_635",
+        "to": "scammer_635",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.750011574074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "46",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Hello Dr. Daniel,\n\nThank you for reaching out to me. I apologize if my previous message came across as unserious or joking. I assure you that I am genuinely interested in learning more about how Cashier Cheques work.\n\nI do have a bank account and an ATM card, but I haven't had the opportunity to use a Cashier Cheque before. That's why I'm curious to understand the process better. So, when I receive a Cashier Cheque and take it to my bank, they will inform me about when the funds will be available in my account after depositing the cheque, correct?\n\nIf it only takes a day for the cash to be credited into the owner's account, that sounds quite efficient! Is there any specific reason why Cashier Cheques are processed faster than regular cheques? And no, I'm not a kid, just someone who wants to learn more about banking procedures.\n\nThank you for your patience and willingness to share information with me.\n\nBest wishes,\nAllan"
+    },
+    {
+        "from": "scammer_635",
+        "to": "baiter_635",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.754861111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "47",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "My dear Mr. Allan,\r\n\r\nWhen my boss paid my salary and when I took the Cashier Cheque to my bank.\r\nMy bank will credit the money into my bank account immediately without any\r\ndelay,\r\n\r\nIf you don't understand anything about cashier Cheque let go with the ATM\r\ncard which you use before than this long argument. I will close my office\r\nsoon and go home.\r\n\nDr. Daniel"
+    },
+    {
+        "from": "baiter_635",
+        "to": "scammer_635",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.771817129629629,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "48",
+        "subject": "Re: Greeting, Your Compensation Funds.",
+        "body": "Hello Dr. Daniel,\n\nThank you for reaching out to me. I appreciate your concern about my understanding of cashier's checks and ATM cards. I would like to learn more about the benefits of using a cashier's check compared to an ATM card. Could you please explain further?\n\nAlso, I'm curious to know why you mentioned closing your office and going home. Is there something specific that prompted this decision?\n\nBest wishes,\nAllan"
+    }
+]

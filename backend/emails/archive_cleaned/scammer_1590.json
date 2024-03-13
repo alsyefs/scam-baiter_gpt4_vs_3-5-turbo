@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1590",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "I am Mr.William Glen  of the D",
+        "body": "I am Mr.William Glen  of the Debt Recovery committee (DRC). My\ncommittee has the mandate to recover unpaid debts associated with\ncontracts, lottery fund, inheritance fund, loans and grants etc\nranging from $ 1M- $ 19.5m owed to various beneficiaries across the\nglobe (Asia, Europe, USA, Africa, and Australia) and submit the list\nof the unpaid beneficiaries to the appointed official paying Banks for\nimmediate payment of the fund.\nIn the course of our investigation, your email address / particulars\nwere listed among the first fifteen yet to be paid hence this email.\nHowever, we received a petition yesterday from one Mrs.Christina\nMorgan that you are dead. According to her, you died in a plane crash\ntherefore that the fund be paid to her as the heir apparent. She has\nsubmitted her Bank account with FNB for the transfer of the fund to\nher.\nTo avoid undue delay or paying the fund to wrong beneficiary, I have\ndecided to contact you for confirmation. If I fail to hear from you\nafter 72 hours, it will be assumed the petition of Mrs. Morgan is true\nand the fund will be paid to her without further delay.\nTherefore, \nif you are still alive, reconfirm your particulars as\nstated below and send immediately ,\n1. Full Name: ____________________________\n2. Address: ______________________________\n3. Date of Birth: ________________________\n4. Occupation: ___________________________\n5. Phone: ____________________________\nContact Mrs Melissa Preslee on this email address.\nEmail : \nmelissapreslee2@gmail.com\nYours Sincerely,\nMr.William Glen\nFund Clearing House"
+    },
+    {
+        "from": "baiter_1590",
+        "to": "scammer_1590",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: I am Mr.William Glen  of the D",
+        "body": "Hello Glen,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I had no idea that my name was on such a list. \n\nI'm sorry to hear about the confusion regarding my supposed demise. I assure you, I am very much alive and well. It's quite alarming to hear about this Mrs. Morgan claiming otherwise.\n\nCould you please tell me more about how my email address ended up on this list? And what exactly does it mean that these funds are yet to be paid? Also, could you provide more information about this Debt Recovery Committee (DRC) and its operations?\n\nLooking forward to your response.\n\nBest wishes,\nJohn"
+    }
+]

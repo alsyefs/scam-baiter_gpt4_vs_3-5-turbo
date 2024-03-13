@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_323",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  CENTRAL BANK OF NIGERIA,",
+        "body": "  CENTRAL BANK OF NIGERIA,\nOPERATIONS DIRECTORATE,\n566 TO 599 VICTORIA ISLAND,\nLAGOS NIGERIA.\nAttention: Sir,\nCHANGE OF BENEFICIARY:\nThis is very urgent and urgent attention is needed.\nIn our office sometime last month, One Mr. John T. Kehoe of 1200\nFitch Way, Sacramento, Ca. 95864 filed an application concerning your Pending fund transfer.\nThe above mentioned person visited this Bank yesterday with a power of attorney given in his favor by your good self, granting him the benefit to process and claim your inheritance of(Ten Million United States Dollars Only) for personal reasons.\nHe further Stated that the online account be terminated while the fund should be wired to his Bank account with Bank of America, Routing Number 121000358. Our office has asked Mr. John T. Kehoe to return back to the Bank within 48hours to enable us to have a personal confirmation from you being hitherto the beneficiary.\n1.    Did you instruct one Mr. John T. Kehoe of 1200 Fitch way, Sacramento, Ca. 95864, to claim and receive the payment on your behalf?\n2.    Did you sign any 'Deed of Assignment' in his favor thereby making him the current beneficiary?\nWe are sorry to have delayed your instruction in giving out this fund since we must adhere to the procedures of this honorable bank by making sure this request is verified and confirmed by the beneficiary and his existing attorney.\nYour confirmation to the above will be appreciated. We look forward to hearing from you soon.\nYours sincerely,\nDr. Olayemi Cardoso\nGovernor.\nCENTRAL BANK OF NIGERIA   "
+    },
+    {
+        "from": "baiter_323",
+        "to": "scammer_323",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   CENTRAL BANK OF NIGERIA,",
+        "body": "Dear Dr. Olayemi Cardoso,\n\nThank you for reaching out to me regarding this matter. I must admit that I am a bit confused about the situation. I have never heard of Mr. John T. Kehoe or granted him any power of attorney to handle my financial affairs.\n\nCould you please provide me with more details about the pending fund transfer? How did this situation arise, and what steps do I need to take to resolve it? I want to make sure that everything is properly verified and confirmed before proceeding.\n\nI appreciate your urgent attention to this matter and look forward to your prompt response.\n\nBest wishes,\nDarryl"
+    }
+]

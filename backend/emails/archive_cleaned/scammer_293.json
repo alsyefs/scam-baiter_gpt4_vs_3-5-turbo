@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_293",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Federal Ministry of Finance (",
+        "body": " Federal Ministry of Finance (FMF)\nAhmadu Bello Way, Central Business District\nAbuja, Nigeria PMB 14, Abuja, Nigeria\nAbuja FCT 00234 Nigeria\n \n \nAttn: Beneficiary\n \nThis is to inform you that we are now processing your transfer payment  as approved for remittance into your account by the Senate Committee on Foreign Debt Settlement  . On this therefore, you are requested to kindly reconfirm your receiving details and current address with your direct mobile number for easy reach .\nRight now, all your payment documents need to be re-validated to enable the telex unit to remit to your account and  you are required  to come and sign your payment release order at our CBN telex Credit department in person  to enable final transfer to you as approved .\n \nIf you can not make it down here in person due time constraints, I will get an attorney appointed to act on your behalf and represent you in all legal requirements and sign all the necessary transfer payment documents , while you pay his legal fee .\nThis is all that we need now to complete your payment  release\n       Thank you\n      Dr. Wale Edun\n      New Finance Minister    "
+    },
+    {
+        "from": "baiter_293",
+        "to": "scammer_293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  Federal Ministry of Finance (",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm thrilled to hear about the progress of my transfer payment. However, I have a few questions that I hope you can help clarify.\n\nFirstly, could you please explain why my personal presence is required for signing the payment release order? Is it not possible to do this electronically or via mail?\n\nSecondly, regarding the attorney, how would this process work? Would I need to find an attorney myself or would one be provided? Also, what would be the estimated legal fee for this service?\n\nLastly, could you provide more details about these payment documents that need to be signed? What exactly are they and what information do they contain?\n\nI look forward to your response. Thank you in advance for your assistance.\n\nBest regards.\n\nBest wishes,\nRosemary"
+    }
+]

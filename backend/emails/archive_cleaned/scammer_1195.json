@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1195",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention Beneficiary,",
+        "body": "  Attention Beneficiary,\nPlease confirm if you authorized for the change of name and your account coordinate to this below. The sum of USD5.5M was approved on your behalf for your Contract Sum, Lottery, Inheritance etc, by the International Monetary Funds (IMF) and suddenly someone requested for change of your Bank Account Details.\nBANK WELLSFARGO\nMANCHESTER NEW JERSEY\n08439 USA\nACCT NAME: SAMEER ANTHONY\nACCT No: 548019938762\nROUTING No: 369452696\nDid you authorize the change? If not We need an urgent response from you immediately to enable us to stop these criminals. And do keep us posted as soon as you receive this email message.\nRegards,\nCarrick Jefferson\nInternational Remittance Dept.   "
+    },
+    {
+        "from": "baiter_1195",
+        "to": "scammer_1195",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention Beneficiary,",
+        "body": "Hello Carrick Jefferson,\n\nThank you for reaching out to me. I appreciate your concern regarding the change of name and account details. However, I must clarify that I have not authorized any such changes. It is alarming to hear that someone has requested a change in my bank account details without my knowledge.\n\nCould you please provide more information about the situation? How did you come across this unauthorized request? What steps can be taken to stop these criminals from accessing my funds? I would appreciate any guidance or assistance you can offer in resolving this matter.\n\nLooking forward to your prompt response.\n\nBest wishes,\nJoann"
+    }
+]

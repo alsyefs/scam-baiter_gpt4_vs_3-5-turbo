@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_2271",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear xxx,",
+        "body": "Dear xxx,\nWe use this medium to inform you that due to several ways some\nagencies mandated to facilitate the payment of beneficiaries\noutstanding contractual amount have turned around to make the process\nof payment difficult thereby causing unnecessary delays, government\nhas decided to eliminate the bottlenecks delays caused by these\nagencies by mandating the Presidential Task Force Committee on\nContract Payment to take over all payment of outstanding contractual\namounts to the various beneficiaries.\nWe are mandated to work with beneficiaries according to their own\npreferred method of payment.\nTherefore, anyway you feel will make you comfortable in the receipt of\nyour fund is okay by us. We will work with you but only on the ground\nthat you discontinue every other communication you are having with all\nother government agencies. Agreed?\nIf yes, then \nsend a confirmation of the amount due to you \nand your\nbanking information\n. We also need your suggestion on the ways you feel\nwe can serve you better on the above subject matter.\nFather information will be after receiving your response to this email\n: \ns92467182@gmail.com\nYours faithfully,\nSadiq Mohammed\nChairman, Presidential Task Force Committee on Contract Payment.\nEmail: \ns92467182@gmail.com"
+    },
+    {
+        "from": "baiter_2271",
+        "to": "scammer_2271",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear xxx,",
+        "body": "Hello Sadiq Mohammed,\n\nThank you for reaching out and providing this information. It's quite interesting to hear about the changes being made in the payment process. I'm sure it will be beneficial for many.\n\nI do have a few questions, if you don't mind. Could you please elaborate on what exactly the Task Force Committee on Contract Payment does? And how does this new process differ from the previous one?\n\nAlso, could you clarify what you mean by \"anyway you feel will make you in the receipt of your fund is okay by us\"? I'm not quite sure I understand that part.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJoanne"
+    },
+    {
+        "from": "scammer_2271",
+        "to": "baiter_2271",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Dear xxx,",
+        "body": "*Dear JoanneThanks for your response.I have immediately stop all further\r\ncommunication with the imposter and if possible, have him arrested for\r\ntrying to divert your fund.Please note, I am going to do everything\r\npossible to make sure you receive your fund.I will write a recommendation\r\non your behalf so that your file will be treated urgently.send me a copy of\r\nyour id card, contact address and telephone number.Thanks and please reply\r\nas soon as possible.Sadiq.*"
+    },
+    {
+        "from": "baiter_2271",
+        "to": "scammer_2271",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.000787037037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Dear xxx,",
+        "body": "Hello there,\n\nThank you for your message. It sounds like a serious situation, but I'm not entirely sure I understand what's going on. Could you please explain it to me in simpler terms? \n\nAlso, I'd love to help out in any way I can, but unfortunately, I can't provide my ID card, contact address or telephone number due to personal reasons. Is there any other way I could assist without sharing this information?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJoanne"
+    },
+    {
+        "from": "baiter_2271",
+        "to": "scammer_2271",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.000925925925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Dear xxx,",
+        "body": "Hello there,\n\nThank you for your message. It sounds like a serious situation, but I'm not entirely sure I understand everything. Could you please clarify what exactly is happening? Who is this imposter you're referring to?\n\nAlso, I'm afraid I can't provide my ID card, contact address or telephone number due to personal security reasons. However, I'm more than willing to help in any other way that doesn't involve sharing my personal information.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJoanne"
+    },
+    {
+        "from": "scammer_2271",
+        "to": "baiter_2271",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0025925925925925925,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Dear xxx,",
+        "body": "YSE"
+    },
+    {
+        "from": "baiter_2271",
+        "to": "scammer_2271",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.002789351851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Dear xxx,",
+        "body": "Hello there! I'm so glad to connect with you. What can we discuss today?\n\nBest wishes,\nJoanne"
+    },
+    {
+        "from": "baiter_2271",
+        "to": "scammer_2271",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0028356481481481483,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Dear xxx,",
+        "body": "Hello there! I hope you're having a great day. I'm excited to share some information with you. What topic are you interested in?\n\nBest wishes,\nJoanne"
+    }
+]

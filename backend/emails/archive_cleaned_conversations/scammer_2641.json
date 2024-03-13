@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_2641",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention: Beneficiary,",
+        "body": "Attention: Beneficiary,\nNote that the Global Bank UK has received the authority from United\nState America Federal Reserve Bank in-conjunction with the\nInternational Monetary Fund (IMF) and the World Bank to finally\nrelease all pending Lottery winning payments, Contracts payments,\nInheritance funds, Loan payments, ATM card claims and Compensations\npayments.\nMost importantly, we have received banking details for the transfer of\nyour funds, as such \nwe urgently request that you reconfirm with us if\nyou have given such mandate or not, failure to receive an immediate\nresponse from you within the next seven workings days we shall believe\nthat such mandate was issued by you, to that effect we shall then\ncommence with the transfer of the fund into the bank details that had\nbeen provided.\nSincerely,\nMr.william Anthony\nHead: International Remittance Department\nGlobal Bank UK\n9th Floor, South Quay Building,\n77 Marsh Wall, London, E14 9SH"
+    },
+    {
+        "from": "baiter_2641",
+        "to": "scammer_2641",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attention: Beneficiary,",
+        "body": "Hello Anthony,\n\nThank you for reaching out and providing this information. It's quite interesting to hear about the authority given by the United States Federal Reserve Bank, Monetary Fund IMF, and the World Bank to Global Bank UK. \n\nI'm curious, could you please explain more about these pending Lottery winning payments, Contracts payments, funds, Loan payments, ATM card claims and payments? How does one qualify for these?\n\nAlso, I would like to clarify that I haven't given any mandate or banking details yet. Could you guide me through the process of how to do so when I decide it's time?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "scammer_2641",
+        "to": "baiter_2641",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Attention: Beneficiary,",
+        "body": "Ok you have to provide your bank account details both your phone, but you will pay working fee before proceeding on"
+    },
+    {
+        "from": "baiter_2641",
+        "to": "scammer_2641",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.017511574074074075,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Attention: Beneficiary,",
+        "body": "Hello there! I appreciate your message. However, I'm not comfortable sharing my bank account details or phone number. Could you please explain more about the working fee? What exactly does it cover?\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "scammer_2641",
+        "to": "baiter_2641",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.5256481481481482,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Attention: Beneficiary,",
+        "body": "For recovery your funds and transfer to your account"
+    },
+    {
+        "from": "baiter_2641",
+        "to": "scammer_2641",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.539212962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Attention: Beneficiary,",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm interested in learning more about this process. Could you please explain how it works? And what kind of funds are we talking about here?\n\nBest wishes,\nDavid"
+    }
+]

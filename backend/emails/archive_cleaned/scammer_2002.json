@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2002",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention Please,",
+        "body": "Attention Please,\nThis to inform you that we have received instruction with your funds\nfile from office of the presidency to transfer your inheritance\nfunds of $90,000.000.00 dollars to your bank account today\nas soon as all charges is deducted.\nPlease re-confirm your bank information to avoid any mistake during\nThe transfer today. We are going to transfer your inheritance\nfunds of$90,000.000.00 dollars to your bank account today\nAnd the transfer confirmation slips will be sent to you for your easy\nConfirmation.\nAs a matter of urgency you are advised to make a payment of us$50.00\nBeen payment of deduction fee.\nThe deduction fee of us$50.00 will enable this bank to obtain an\nAffidavit and stamp duties from high court of Ottawa, on, Canada,\nwhich will empower us to deduct all charges and prepare your deduction\nCertificate that will show that all charges have been deducted and you\nWill not pay any other fee.\nYou advised to send the deduction fee of us$50.00 today through iTunes\nGift card or steam gift card or Apple gift card or Bitcoin wallet\nAs soon as we receive this payment from you today, we will deduct all\nCharges and your balance will be remitted to your account today\nMorning and the transfer details will be forwarded to you for your\nEasy confirmation with your bank.\nAct according to the instructions, I am waiting for your urgent response.\nNote: make sure you regards and god bless you.\nYours faithfully\nMr. Thomas Stanley\nforeign operation department\nfor: Canada Development royal bank of Canada"
+    },
+    {
+        "from": "baiter_2002",
+        "to": "scammer_2002",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attention Please,",
+        "body": "Hello Mr. Thomas Stanley,\n\nThank you for reaching out to me regarding the transfer of my funds. I appreciate your assistance in this matter. However, I have a few questions before proceeding with any payments.\n\n1. Can you please provide more details about the charges that need to be deducted? What are these charges for?\n\n2. Why is an affidavit and stamp duties required from the high court of Ottawa, Canada? How does this process work?\n\n3. Is there any specific reason why payment needs to be made through gift cards or Bitcoin wallet? Are there alternative payment methods available?\n\nI look forward to your prompt response and clarification on these matters.\n\nBest wishes,\nJohn"
+    }
+]

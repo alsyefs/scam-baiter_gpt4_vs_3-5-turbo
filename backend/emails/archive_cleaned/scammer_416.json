@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_416",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Head Office",
+        "body": "  Head Office\n935 Pennsylvania Avenue, NW\nWashington, DC 20535 USA\nDear Beneficiary,\nMy name is Christopher A Wray, I'm the Director of the Federal Bureau\nof Investigation, serving since 2017.\nI have good news for you.\nReply back as soon as possible.\nYours sincerely,\nChristopher Wray\nchristopherwray222023@outlook.com\n "
+    },
+    {
+        "from": "baiter_416",
+        "to": "scammer_416",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Head Office",
+        "body": "Hello there,\n\nThank you for reaching out to me. It's not every day that I receive a message from someone as important as the Director of the Federal Bureau! I'm quite intrigued by your message, especially when you mentioned about some good news. Could you please share more details about this good news? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJames"
+    }
+]

@@ -1,0 +1,312 @@
+[
+    {
+        "from": "scammer_124",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Hello , Thank you for your ",
+        "body": "   Hello , Thank you for your email. I know my reply might have come too late. But the situation still remains the same. A day after I sent you this message, we headed out to Mariupol to deliver  humanitarian aid. Unfortunately we were hit by russian artillery and many of our staff lost their lives,  I was badly wounded and I spent 7 months in the ICU.  When I regained consciousness, I couldn't find my phone. I lost everything. But with time I have been able to retrieve and recover my email password. I just logged in now and I saw your message. Thank you for wanting to help. We are still delivering humanitarian aid, the situation has gotten worse than it was when the war started. Ukraine is losing ground due to lack of sufficient ammunition supply from the west. And many people from the west have  moved on from the WAR. But in Ukraine people are dying daily, especially at the frontline villages.\nIf you still want to help please kindly reach out to me. Nothing is too small at this point. \nThank you and stay blessed.\nAndre   "
+    },
+    {
+        "from": "baiter_124",
+        "to": "scammer_124",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Hello , Thank you for your ",
+        "body": "Hello Andre,\n\nI'm so sorry to hear about the difficult circumstances you and your team are facing. It's truly heartbreaking to know that people are suffering daily in Ukraine. I appreciate your courage and dedication in delivering aid despite the dangers.\n\nCould you please share more about how I can help? Are there specific supplies or resources that are most needed at this time? \n\nThank you for all that you're doing. Stay safe.\n\nBest regards.\n\nBest wishes,\nCalvin"
+    },
+    {
+        "from": "scammer_124",
+        "to": "baiter_124",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "Thank you for your reply. In Ukraine everything is needed. To be more\r\nspecific, food, clean table water, toiletries, cooking gas, touch lights,\r\nand warm clothes are primarily needed. We have a team that goes to\r\nneighbouring countries to purchase these things and bring them to Ukraine\r\nfor deliveries.\r\nCities like:Avdiivka,Stepove, Severnye,Lastivchyne and Vodyane were\r\ncaptured by the Russians in the past 3 weeks.Puting pressure on villages\r\nlike Berdychi-Semenivka, Orlivka,Tonenka,Pervomaiske Kramatorsk, kupyansk.\r\nThese are not the only frontline villages but these are the frontline\r\nvillages that Russians are tasked to obliterate next.\r\nThe people living in the villages I listed above do not have\r\nelectricity and gas. And they are in a dire situation in need of food\r\nsupply and water among other things.\r\n\r\nThank you and stay blessed.\nAndre"
+    },
+    {
+        "from": "baiter_124",
+        "to": "scammer_124",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03152777777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "Hello Andre,\n\nThank you for your detailed response. It's heartbreaking to hear about the situation in Ukraine. I'm curious, how does your team manage to transport these essential items into such dangerous areas? Also, are there any specific types of food or clothing that are more needed than others?\n\nLooking forward to hearing from you.\n\nBest wishes,\nCalvin"
+    },
+    {
+        "from": "baiter_124",
+        "to": "scammer_124",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.033171296296296296,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "Hello Andre,\n\nThank you for your detailed response. It's heartbreaking to hear about the situation in Ukraine. I'm curious, how does your team manage to transport these essential items into such dangerous areas? Also, are there any specific food items that are more needed or preferred by the people living in these villages?\n\nPlease stay safe and keep doing the great work.\n\nBest regards.\n\nBest wishes,\nCalvin"
+    },
+    {
+        "from": "baiter_124",
+        "to": "scammer_124",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0724537037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "Hello Andre,\n\nThank you for your detailed response. It's heartbreaking to hear about the situation in Ukraine. I'm curious, how does your team manage to transport these essential items into such dangerous areas? Also, are there any specific food items that are more needed or preferred by the people living in these villages?\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nCalvin"
+    },
+    {
+        "from": "baiter_124",
+        "to": "scammer_124",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.07315972222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "Hello Andre,\n\nThank you for your detailed response. It's heartbreaking to hear about the situation in Ukraine. I'm curious, how does your team manage to transport these essential items into such dangerous areas? Also, are there any specific food items that are more in demand or easier to transport?\n\nI hope things get better soon. Stay safe.\n\nBest regards.\n\nBest wishes,\nCalvin"
+    },
+    {
+        "from": "baiter_124",
+        "to": "scammer_124",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.11570601851851851,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "Hello Andre,\n\nThank you for sharing this information. It's heartbreaking to hear about the situation in Ukraine. I'm curious, how does your team manage to transport these supplies safely to the frontline villages? And are there any specific types of food or clothing that are most needed?\n\nI look forward to hearing more about your work and how we can help. Please stay safe.\n\nBest regards.\n\nBest wishes,\nCalvin"
+    },
+    {
+        "from": "baiter_124",
+        "to": "scammer_124",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.1567476851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "Hello Andre,\n\nThank you for sharing this information. It's heartbreaking to hear about the situation in Ukraine. I'm curious, how does your team manage to transport these essential items into these frontline villages? And is there a specific organization that oversees these operations?\n\nI hope things get better soon. Stay safe.\n\nBest regards.\n\nBest wishes,\nCalvin"
+    },
+    {
+        "from": "baiter_124",
+        "to": "scammer_124",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.19916666666666666,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "Hello Andre,\n\nThank you for sharing this information. It's really heartbreaking to hear about the situation in Ukraine. I'm curious, how does your team manage to transport these supplies to such dangerous areas? And are there any specific food items that are more in demand or easier to transport?\n\nBest wishes,\nCalvin"
+    },
+    {
+        "from": "baiter_124",
+        "to": "scammer_124",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3229976851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "Hello Andre,\n\nThank you for sharing this information. It's heartbreaking to hear about the situation in Ukraine. I'm curious, how does your team manage to transport these essential items into these frontline villages? Also, are there any specific food items that are more needed or preferred due to their long shelf life or nutritional value?\n\nI look forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nCalvin"
+    },
+    {
+        "from": "baiter_124",
+        "to": "scammer_124",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3234837962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "Hello Andre,\n\nThank you for sharing this information. It's really heartbreaking to hear about the situation in Ukraine. I'm curious, how does your team manage to transport these supplies to such dangerous areas? And are there any specific food items or types of clothing that are most needed?\n\nLooking forward to hearing more from you.\n\nBest wishes,\nCalvin"
+    },
+    {
+        "from": "scammer_124",
+        "to": "baiter_124",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.853553240740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "Hello Calvin\r\n\r\nThanks for your response. We transport our supplies through the woods, off\r\nroads. It's dangerous but we have no choice, If we stop people will starve\r\nto death.\r\n      There are no specific food items or clothes that are needed, We buy\r\nrandom food and clothes and distribute them as much as we can.\r\n\r\nthank you\nAndre"
+    },
+    {
+        "from": "baiter_124",
+        "to": "scammer_124",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.8657175925925924,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "Hello Andre,\n\nWow, that sounds like quite an adventure! It's really admirable what you're doing to help people. I'm curious, how do you manage to navigate through the woods? And what kind of supplies are you usually transporting?\n\nBest wishes,\nCalvin"
+    },
+    {
+        "from": "baiter_124",
+        "to": "scammer_124",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.865810185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "Hello Andre,\n\nWow, that sounds like quite an adventure! It's really admirable what you're doing for the community. I'm curious, how do you manage to navigate through the woods? And what kind of supplies are you usually transporting?\n\nBest wishes,\nCalvin"
+    },
+    {
+        "from": "baiter_124",
+        "to": "scammer_124",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.866550925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "Hello Andre,\n\nWow, that sounds like quite an adventure! It's really admirable what you're doing for people. I'm curious, how do you manage to navigate through the woods? And how do you decide who gets what when distributing the supplies?\n\nBest wishes,\nCalvin"
+    },
+    {
+        "from": "scammer_124",
+        "to": "baiter_124",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.9370023148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "We collaborate with the locals who know their territory well. They took us\r\nthrough the woods. How do we decide who gets what when distributing the\r\nsupplies!. That is a  very good question. What we do most of the time is\r\nthat, We pack everything we have on a minibus, when we get to the\r\ncommunities we ask what they need most and quickly distribute them and\r\nleave."
+    },
+    {
+        "from": "baiter_124",
+        "to": "scammer_124",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.9482523148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "Hello Andre,\n\nWow, that sounds like quite an adventure! It's really admirable what you're doing for people. I'm curious, how do you manage to navigate through the woods? And what kind of supplies are you usually transporting? \n\nLooking forward to hearing more about your work.\n\nBest wishes,\nCalvin"
+    },
+    {
+        "from": "baiter_124",
+        "to": "scammer_124",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.949236111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "Hello Andre,\n\nWow, that sounds like quite an adventure! It's really admirable what you're doing for people. I'm curious, how do you manage to navigate through the woods? And how do you decide who gets what when it comes to distributing the food and clothes?\n\nLooking forward to hearing more about your work.\n\nBest wishes,\nCalvin"
+    },
+    {
+        "from": "baiter_124",
+        "to": "scammer_124",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.9911689814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "Hello there! That sounds like quite an adventure you're having. It's really admirable that you're helping distribute supplies to those in need. I'm curious, how do you determine what items are most needed? And how do you ensure that everyone gets a fair share?\n\nBest wishes,\nCalvin"
+    },
+    {
+        "from": "baiter_124",
+        "to": "scammer_124",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.0310763888888888,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "Hello Andre,\n\nWow, that sounds like quite an adventure! I can't imagine how challenging it must be to transport supplies through the woods and off roads. It's really admirable what you're doing for people in need. \n\nCould you tell me more about this process? How do you manage to navigate through such difficult terrains? And how do you decide who gets what when distributing the food and clothes?\n\nLooking forward to hearing more about your work.\n\nBest wishes,\nCalvin"
+    },
+    {
+        "from": "scammer_124",
+        "to": "baiter_124",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.312650462962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "Hello Calvin Good morning. Like I said before, We collaborate with the\r\nlocals who know their terrains well. They took us through the woods. How do\r\nwe decide? What we do most  times is that, We pack everything we have on a\r\nminibus, when we get to the communities we ask what they need most and\r\nquickly distribute them and leave.\r\nMr Calvin we are running out of supplies, If you can contribute anything\r\nlet me know. People are in dire need of whatever supply they can survive\r\nwith. A monetary  support will be most appreciated. Our staff will be going\r\nto the neighbouring country for a new supply with the little fund we have.\r\nKindly let me know how you would like to support. Together we will win.\r\nGlory to Ukraine, Glory to Europe."
+    },
+    {
+        "from": "baiter_124",
+        "to": "scammer_124",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.32244212962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "22",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "Hello there! Good morning to you too. It's really heartwarming to hear about the work you're doing. I can imagine how challenging it must be, especially with the current situation.\n\nI'm curious, how do you usually handle the logistics of getting supplies to these remote areas? And what kind of items are most in demand?\n\nAs for contributing, I'd love to help out in any way I can. However, could you please provide more details on how the process works? How does one go about making a contribution?\n\nBest wishes,\nCalvin"
+    },
+    {
+        "from": "scammer_124",
+        "to": "baiter_124",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.729791666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "23",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "Hello Calvin, thank you for your support.\r\nHere is the account details where everyone sends their contribution\r\n\r\nBENEFICIARY\r\nRecipient\r\nKHVOROSTIAN MARHARYTA, 01001, Ukraine,city Kyiv,street Miliutenka,building\r\n7A,flat 110\r\nIBAN\r\nUA843052990262056400948294145\r\nAccount\r\n5168745033533024\r\n\r\nBANK OF BENEFICIARY\r\nBank\r\nJSC CB PRIVATBANK, 1D HRUSHEVSKOHO STR., KYIV, 01001, UKRAINE\r\nSWIFT CODE/BIC\r\nPBANUA2X\r\n\r\nCORRESPONDENT BANK\r\nBank\r\nCitibank N.A., NEW YORK, USA\r\nSWIFT CODE/BIC\r\nCITIUS33\r\nCorrespondent account\r\n36445343\r\nPURPOSE OF PAYMENT: SUPPORT FOR UKRAINIAN REFUGEE"
+    },
+    {
+        "from": "baiter_124",
+        "to": "scammer_124",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.781712962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "24",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "Hello there! Thank you for sharing this information with me. I'm curious, what is the purpose of this account? Is it for a specific cause or project?\n\nBest wishes,\nCalvin"
+    },
+    {
+        "from": "scammer_124",
+        "to": "baiter_124",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.8250810185185187,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "25",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "The purpose of the account is to receive international monetary donations.\r\nWe use the money received in this account, to buy the food and supplies\r\nneeded by Ukrainian refugees."
+    },
+    {
+        "from": "baiter_124",
+        "to": "scammer_124",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.864398148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "26",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "Hello there,\n\nThat sounds like a noble cause! It's heartwarming to see people stepping up to help those in need. Could you please share more about how this process works? How do you ensure that the donations reach the intended recipients? And what kind of supplies are usually needed most by the refugees?\n\nLooking forward to hearing more about your work.\n\nBest wishes,\nCalvin"
+    },
+    {
+        "from": "scammer_124",
+        "to": "baiter_124",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.89181712962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "27",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "Food, water and warm clothes are the most needed supplies."
+    },
+    {
+        "from": "baiter_124",
+        "to": "scammer_124",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.905810185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "28",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "Hello there,\n\nThank you for sharing this information. It's really important to know what the most needed supplies are, especially in times of crisis or emergency. Can you tell me more about why food, water, and warm clothes are considered the most essential? Also, is there a specific type of food that is more beneficial in such situations?\n\nBest wishes,\nCalvin"
+    },
+    {
+        "from": "scammer_124",
+        "to": "baiter_124",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.9657407407407406,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "29",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "mr calvin you don't have to make fun of the situation in ukraine. the\r\nsituation here is very serious, the world shouldn't turn a blind eye.\r\nif you have anything to support, kindly send it to the account details i\r\nsent above.\r\nthank you\r\nandre"
+    },
+    {
+        "from": "baiter_124",
+        "to": "scammer_124",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.9891319444444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "30",
+        "subject": "Re: Hello , Thank you for your",
+        "body": "Hello Andre,\n\nI hope this message finds you well. I'm sorry to hear about the situation in Ukraine. It's indeed a serious matter that deserves global attention.\n\nI appreciate your suggestion to help, but could you please provide more information about how the funds will be used? I'd like to understand better how my contribution can make a difference.\n\nThank you for your time and efforts.\n\nBest regards.\n\nBest wishes,\nCalvin"
+    }
+]

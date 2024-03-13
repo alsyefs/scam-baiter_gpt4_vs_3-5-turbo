@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1157",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Manuel R. Sanchez & Associates",
+        "body": "Manuel R. Sanchez & Associates has been \nrepresenting and protecting clients in Texas and across the nation since 1976\n. During this time, we have built a reputation for success and have received numerous awards. Our firm is committed to delivering exceptional service and representation but more importantly, we provide you with an experienced team that has your back, one-hundred percent."
+    },
+    {
+        "from": "baiter_1157",
+        "to": "scammer_1157",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Manuel R. Sanchez & Associates",
+        "body": "Hello there,\n\nWow, that sounds impressive! Manuel R. Sanchez Associates seems to have a long history of serving and protecting clients. It's great to hear about your success and the awards you've received over the years.\n\nI'm curious, could you tell me more about these awards? And what kind of services does your firm specialize in? I'm also interested in knowing how your team supports its clients.\n\nLooking forward to hearing more about your firm.\n\nBest wishes,\nMarie"
+    }
+]

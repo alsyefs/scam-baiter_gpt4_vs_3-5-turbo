@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1669",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello,",
+        "body": "  Hello,\nWe are operating a funding program that offers collateral-free loans and project funding to individuals, organizations, and private establishments.\nIf you are seeking funding for a specific shovel-ready project, you will be funded at 2% principal annual interest.\nIf you would like to collaborate with us as a middleman/facilitator, you will earn 5% of the total project cost or loan as your commission for every successful loan or project funding deal facilitated by you. Our loan is special and we would clarify you with more details, Please get in touch if this is of interest to you for further details.\nRegards,\nCFO   "
+    },
+    {
+        "from": "baiter_1669",
+        "to": "scammer_1669",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello,",
+        "body": "Hello there,\n\nThank you for reaching out and sharing this information. It sounds like an interesting opportunity. I'm curious to know more about your funding program. Could you please provide more details? For instance, what types of projects do you typically fund? And how does the process work?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nPhillip"
+    }
+]

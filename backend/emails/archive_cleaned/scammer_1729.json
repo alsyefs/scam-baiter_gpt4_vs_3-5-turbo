@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1729",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  WELCOME TO BARCLAYS BANK LON",
+        "body": "  WELCOME TO BARCLAYS BANK LONDON ENGLAND UNITED KINGDOM\ncontact me on this email (\nmrjesstaley001@gmail.com\n) asap okay\nAttn: Dear Beneficiary,\nThis is Mr. Jes Staley chairman, president and CEO Barclays Bank\nLondon United kingdom England, am writing to inform you that your\ntotal funds Worth $158 Million was Deposited to this Barclays bank\nfrom United Nation for scam victim compensation funds and instructed\nus to open Barclays bank online bank account and transfer your total\nfunds to you and also deliver an ATM card to your home address once\nafter we transfer all your total funds to you successful as soon as we\nhear back from you with your contact details such as.\nYour Full Name =\nYour Current home Address =\nYour Mobile Phone Number=\nYour private Email address =\nYour Alternative Email addresses=\nYour Next of kin Email address=\nOccupation===\nmonthly income==\nSex/ age= Country:=\nVALID ID CARD===\nThanks for banking with us\nI await your urgent response. contact me on this email\n(\nmrjesstaley001@gmail.com\n) asap okay\nYOURS FAITHFULLY,\nMR. JES STALEY\nCHAIRMAN, PRESIDENT AND CEO BARCLAYS BANK\nLONDON ENGLAND UNITED KINGDOM   "
+    },
+    {
+        "from": "baiter_1729",
+        "to": "scammer_1729",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   WELCOME TO BARCLAYS BANK LON",
+        "body": "Hello Mr. Jes Staley,\n\nThank you for reaching out to me. It's a pleasure to be contacted by such an esteemed person from Barclays Bank, London. I'm quite surprised and excited about the information you've shared regarding the funds deposited from United Nations.\n\nCould you please provide more details about this? How did this happen? And why was I chosen as the recipient of these funds?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nSylvia"
+    },
+    {
+        "from": "scammer_1729",
+        "to": "baiter_1729",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: WELCOME TO BARCLAYS BANK LON",
+        "body": "Hello Dear\r\n\r\nI received your email and I want you to know that it is a compensation\r\nfund. Do get back to me with all the required details so we can proceed\r\nwith this transaction okay.\r\n\r\nkindly update us with:\r\n\r\n1. Your Full Name, 2. Your Residential Address,\r\n3. Your Private phone number 4. Your private Email address,\r\n 5. Sex / age.\nBest Regards\r\nMr. Jes Staley"
+    },
+    {
+        "from": "baiter_1729",
+        "to": "scammer_1729",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2363888888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: WELCOME TO BARCLAYS BANK LON",
+        "body": "Hello Mr. Jes Staley,\n\nThank you for your email! It's always exciting to hear about new opportunities. Could you please provide me with more information about this fund? What is it for and how does it work?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nSylvia"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1017",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings Dear Applicant,",
+        "body": "Greetings Dear Applicant,\nThank you for submitting your application online.  We have looked over your application and we would like to invite you to interview with FiberTel SA (FiberTel), the firm is searching for 15 US Spanish & English department employees to work as a team with all for a remote job position as soon as possible to carry out the firm duties directly from home effectively to obtain an office location in each city/state (USA/Canada). \nNote:  the company headquarters are located no. Alicia Moreau De Justo 50, Buenos Aires, 1107, Argentina, we have both full time/part time position available as the company working hours is flexible so you can choose any other job and still work with the firm, no experience is required as long as the company will provide you with the expenses to your working materials, proper training and you are good to go,. We provide training depending on how fast you are able to learn.\nAvailable Positions Are:  Customer Service Representative, Data Entry Specialist, Administrative Assistant and Payroll Clerk. And our interview would be conducted Online via Zoom App at any time of your choice and convenience, (However you are required to contact the HR Manager as soon as possible as an official acknowledgment and acceptance of this employment offer and also to secure a mutually convenient appointment for your online interview. You can reach him directly via his handles listed below)  . \nMr Diego Greco\nZoom Email ID: \nhiringdepartment196@gmail.com\nIf you do not currently use or have any of the Instant Messaging/Chat Apps mentioned above, kindly download them from the Google Play Store if you are an Android user , or from the Apple App Store if you use an iPhone instead, in order to enable you to proceed effectively, with your recruitment process. Alternatively you may select the appropriate link below to download the desktop versions, if you are accessing the internet with a Windows or Mac PC.    \nDownload Zoom Setup for Windows or Mac\nHOW TO APPLY FOR INTERVIEW IN ZOOM APP\nTap the “Contacts Tab” on your zoom app \nSelect the “+ icon” in the top-right corner. \nClick on Invite to Zoom Contact\nEnter the Zoom Email ID you want to add (Eg: Our HR Manager's Zoom Email ID: \nhiringdepartment196@gmail.com\n ) \nClick “Invite” to send the contact a request to add him\nInterview scheduled: Online via ZOOM APP\nTime: ASAP\nDate: ASAP\nOne - Two weeks paid training @ $18/h (It depends on how fast you can Lean)\nSchedule: Monday through Friday (20 – 40 hours per week)\nPay: $25 - $30 per hour ( It's negotiable )\nYour timely response matters a-lot and we look forward to working with you as a team and I wish you Good luck on the interview\nwarm regards\nHR Department\nFiberTel SA (FiberTel)\nhttp:/ /www.fibertel.com.ar ."
+    },
+    {
+        "from": "baiter_1017",
+        "to": "scammer_1017",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings Dear Applicant,",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate the opportunity to interview with SA for the US Spanish English department position. Working remotely from home sounds convenient.\n\nI have a few questions before proceeding with the interview process. Could you please provide more information about the specific duties and responsibilities of this job? Additionally, what are the working hours and is there any flexibility in scheduling?\n\nRegarding the Zoom app, I currently do not have it installed on my device. Is it necessary to have it for the interview? Can we use any other video conferencing platform instead?\n\nThank you again for considering me for this position. I look forward to your response.\n\nBest wishes,\nJames"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_199",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hi,",
+        "body": "  Hi,\nHow are you and your family hope fine?,  l am  Mr.James Albert from Gambia now in TOGO LOME as i am explaining to you i have One Million Dollars in my position, i want to send to you in your country so that you can use the money to invest for me in any profitable business in your country under your care, because I have lost some of my money through all those diplomat, so now i am sending you this money from Togo Lome western union with a powerful barrister that is helping all beneficiary to transfer their funds now from Togo Lome i want you now to send to me 5 names you will like to use to receive the money so that we can start sending you the funds gradually.\nBest Regards\nMr.James Albert \nEmail: \nbankevergreen37@gmail.com\n "
+    },
+    {
+        "from": "baiter_199",
+        "to": "scammer_199",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hi,",
+        "body": "Hi Albert,\n\nIt's great to hear from you! I hope you're doing well in Togo Lome. It sounds like you've been through quite a journey.\n\nYour proposal is very interesting, and I'm flattered that you'd consider me for such an important role. However, I would like to understand more about this arrangement before we proceed further. \n\nCould you please provide more details about the business investment? What kind of business are you interested in? And why did you choose my country for this investment?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nWilliam"
+    }
+]

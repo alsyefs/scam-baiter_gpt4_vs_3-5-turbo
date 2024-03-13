@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_572",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention: Beneficiary,",
+        "body": "Attention: Beneficiary,\nThis is to inform you that I have paid the activation fee and\nI paid for the delivery of your ATM Card because the ATM Card ($2,500,000)\nhas less than three days to expire and when it expires, the money will go to\nGovernment wallet. With that I decided to help you pay the money so that,\nthe ATM card will not expire because I know when you will receive it\nYou should definitely return my money and even compensate me for\nHelp\nyou.\nNow I want you to contact DHL Delivery Service with your Full Contact\ninformation so they can deliver their ATM card to the designated office\ndirection without delay. As I said before, shipping costs\nhas\nThey were paid, but I did not pay their official maintenance fees since\nrefused.\nThey refused and the reason is that they don't know when you are going.\na\nContact them and the delay could increase. They told me that their\nThe maintenance fee is $50 per day\n and I deposited it today. Below is your\nContact\ninformation,\nContact Person: Honorable Dr. Jerry Leo\nDHL delivery service\nEmail: (\ndhlcustomer19@outlook.com\n)"
+    },
+    {
+        "from": "baiter_572",
+        "to": "scammer_572",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attention: Beneficiary,",
+        "body": "Hello,\n\nThank you for reaching out to me with this information. I appreciate your help in paying the activation fee and delivery charges for my ATM card. It's good to know that you are looking out for me so that the card doesn't expire.\n\nCould you please provide me with more details about the DHL Delivery Service? How can I contact them? Is there a specific person or department I should reach out to? Also, could you clarify what official fees they are referring to?\n\nI want to make sure that everything is in order and that there won't be any further delays. Your assistance has been valuable, and I want to ensure that we handle this situation properly.\n\nThank you again for your support.\n\nBest wishes,\nMichael"
+    }
+]

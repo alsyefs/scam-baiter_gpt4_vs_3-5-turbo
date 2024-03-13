@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2690",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  From the Desk of Janet Yelle",
+        "body": "  From the Desk of Janet Yellen\nU.S Department of the Treasury (USDT)\nNW Washington, D.C. 20220\nDate: January 15, 2024.\nAttention Fund Beneficiary,\nI Mrs. Janet Yellen the U.S Secretary of the Treasury I hereby write officially today  January 15, 2024 that we have resolved the issue that put your fund on hold for past months and right now you are in position to receive a compensation fund of $1,500,000.00 through the authorized bank.\nOn that note kindly communicate with the information stated above and submit the stated below information for your fund release verification to be done and once it is done you will receive your fund without any hitches.\nInformation required for fund release verification:\n1.First Name:\n2.Middle Name:\n3. amount you are expecting\n4.Copy of your driver license\n5.Current Residence address:\n6.Telephone #:\n7. Mobile #:\nThanks,\nJanet Yellen\nU.S Department of the Treasury (USDT)\nPhone: + 1 (253) 642-2051. \nMy Private email: \nyellenmrsjanet81@gmail.com\n "
+    },
+    {
+        "from": "baiter_2690",
+        "to": "scammer_2690",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   From the Desk of Janet Yelle",
+        "body": "Hello Janet Yellen,\n\nThank you for reaching out to me. I appreciate the update regarding my fund. However, before I proceed with providing any information, could you please clarify a few things for me? \n\nFirstly, could you please explain why my fund was put on hold for the past months? I would like to understand the reason behind it.\n\nSecondly, which authorized bank will be handling the release of my fund? It would be helpful to know the name and location of the bank.\n\nLastly, is there any specific process or documentation that I need to follow in order to ensure a smooth release of my fund? Please provide me with detailed instructions so that I can proceed accordingly.\n\nThank you once again for your assistance. I look forward to your response.\n\nBest wishes,\nDaniel"
+    }
+]

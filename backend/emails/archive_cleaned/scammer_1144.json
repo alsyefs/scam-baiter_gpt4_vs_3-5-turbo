@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1144",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Compliments of the season!!! W",
+        "body": "Compliments of the season!!! Why Are American Troops Still in Iraq and Syria? view the website for more details below.  My name is Staff Sergeant William Ronald Lance American soldier, currently serving in Iraq providing adequate security for the US embassy in Baghdad. I'm seeking your kind assistance to move some money we discovered in Saddam's old palaces in Tikrit-Iraq during a rescue operation, full details will follow if you are interested.\nI wait your reply as to proceed immediately,\nGod bless you and America.\nBest Regards,\nStaff Sergeant William Ronald Lance.\nUnited States Soldier Presently in Syria."
+    },
+    {
+        "from": "baiter_1144",
+        "to": "scammer_1144",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Compliments of the season!!! W",
+        "body": "Hello Staff Sergeant William Ronald Lance,\n\nThank you for reaching out to me. I hope you're doing well and staying safe in Iraq. I appreciate your service in providing security for the US embassy in Baghdad.\n\nRegarding the money you mentioned, I'm curious to know more about it. Could you please provide some additional details? How much money are we talking about, and what is the purpose of moving it? It would be helpful to understand the situation better before proceeding.\n\nAlso, if this money was discovered during a rescue operation, what are the legal implications of moving it? I want to make sure everything is done within the boundaries of the law.\n\nThank you again for contacting me, and I look forward to hearing back from you soon.\n\nBest wishes,\nTricia"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "from": "scammer_989",
+        "to": "baiter_989",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "From Mr Hamza",
+        "body": "Mr. Shirley,\nI have not heard from you in a while now. How are you doing.\nBest regards\nMr.Hamza\n\nSent with [Proton Mail](https://proton.me/) secure email."
+    },
+    {
+        "from": "baiter_989",
+        "to": "scammer_989",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: From Mr Hamza",
+        "body": "Hello Mr. Shirley,\n\nI hope this message finds you well. It's been quite some time since we last communicated, hasn't it? I trust everything is going smoothly on your end.\n\nI've been meaning to share some information with you. However, before I do so, could you kindly confirm if this is still the best way to reach you?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "baiter_989",
+        "to": "scammer_989",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.04127314814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: From Mr Hamza",
+        "body": "Hello Mr. Shirley,\n\nI hope this message finds you well. It's been quite some time since we last communicated, hasn't it? I trust everything is going smoothly on your end.\n\nBy the way, I have some information that might interest you. However, before we delve into that, could you kindly update me on how things have been with you lately?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "baiter_989",
+        "to": "scammer_989",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.041400462962962965,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: From Mr Hamza",
+        "body": "Hello Mr. Shirley,\n\nI hope this message finds you well. It's been quite some time since we last communicated, hasn't it? I trust everything is going smoothly on your end.\n\nBy the way, I have some information that might interest you. However, before we delve into that, could you perhaps share a bit about what you've been up to lately?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "baiter_989",
+        "to": "scammer_989",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.04170138888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: From Mr Hamza",
+        "body": "Hello Mr. Shirley,\n\nI hope this message finds you well. It's been quite some time since we last communicated, hasn't it? I trust everything is going smoothly on your end.\n\nI was wondering if there's any new information or updates that you might have to share with me? I'm always eager to learn and understand more about the world around us.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "scammer_989",
+        "to": "baiter_989",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0517476851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: From Mr Hamza",
+        "body": "Both email is safe.\n\nSent with [Proton Mail](https://proton.me/) secure email."
+    },
+    {
+        "from": "baiter_989",
+        "to": "scammer_989",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.1665972222222223,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: From Mr Hamza",
+        "body": "Hello there,\n\nThank you for your message. I'm glad to hear that both emails are safe. Could you please provide more details about these emails? What kind of information do they contain and why were they sent to me?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "baiter_989",
+        "to": "scammer_989",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2097685185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: From Mr Hamza",
+        "body": "Hello there,\n\nThank you for your message and the information about Proton Mail. I've heard a lot about secure email services, but I'm not very familiar with them. Could you tell me more about how Proton Mail works? How does it ensure the safety of my emails?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "baiter_989",
+        "to": "scammer_989",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.3331018518518518,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: From Mr Hamza",
+        "body": "Hello there,\n\nThank you for your message. I'm glad to hear that both emails are safe. Could you please tell me more about this? How does the  secure email work? \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "baiter_989",
+        "to": "scammer_989",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.3347685185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: From Mr Hamza",
+        "body": "Hello there,\n\nThank you for your message and the information about the safety of both emails. That's really good to know! I'm using Proton Mail as well, it's great to see that we're on the same page regarding email security.\n\nCould you please tell me more about why these two emails are considered safe? I'm always eager to learn more about this topic.\n\nLooking forward to hearing from you soon!\n\nBest regards.\n\nBest wishes,\nShirley"
+    }
+]

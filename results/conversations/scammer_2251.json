@@ -1,0 +1,322 @@
+[
+    {
+        "from": "scammer_2251",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "note that you have been 30 day",
+        "body": "note that you have been 30 days starting from today the 2nd of March 2024 to respond."
+    },
+    {
+        "from": "baiter_2251",
+        "to": "scammer_2251",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello! Thank you for reaching out. I'm interested in learning more about the information you have to share. Can you please provide me with some details?\n\nBest wishes,\nJeanne"
+    },
+    {
+        "from": "scammer_2251",
+        "to": "baiter_2251",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello\r\nHow are you doing today? We have two propositions for you. 1, If you\r\npersonally want a loan for your project and 2, If you want to also act as\r\nour representative on behalf of people you might know who also need loans.\r\nIf you are interested, we could work with you as our representative and\r\nwill offer you 5% on any applicant which you will provide for a loan\r\nfacility. You will look for potential applicants for any loan facility\r\nranging from One Million to Five Hundred Million United States Dollars or\r\nshould you need a loan yourself. We will then give you 5% on the return on\r\ninvestment on any of such facilities provided.\r\n\r\nValue of funds: ONE MILLION USD to FIVE HUNDRED MILLION USD (INDIVIDUAL\r\nAPPLICATIONS)\r\n                ONE MILLION USD TO THREE BILLION USD (REGISTERED BUSINESSES\r\nAND INSTITUTIONS)\r\nPlacement opens to: INDIVIDUALS/ COMPANIES\r\nPurpose of Funds: LONG TERM INVESTMENT (at least) fixed 3% ROI/PA (first 18\r\nmonths moratorium on loan)\r\nFund Disbursement: ASAP\r\n\r\nWe will give you a commission agreement to this effect and it shall be\r\nbinding. Each applicant will be required to meet with our financial team\r\nfor a live meeting during which you will sign the funds release documents\r\nand thereafter, the funds will be wired directly into a nominated bank\r\naccount of your choice. Kindly find attached our know your client (KYC)\r\nform which you or any applicant which you might have, should fill carefully\r\nand return back to us for consideration.\nRegards,\r\nPeter Wilson\r\nManaging Director/Portfolio Manager\r\nAl Rigga Investments LLC\r\nOffice No. 305 3rd Floor Retaj Building,\r\nAl Waab Street Al Sadd\r\nP.O Box 22670\r\nDoha, Qatar\r\nTel: +974 8831 6224\r\nIntl Phone: +1(252)777-0774"
+    },
+    {
+        "from": "baiter_2251",
+        "to": "scammer_2251",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.01888888888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello Peter Wilson,\n\nThank you for reaching out with this opportunity. I'm interested in learning more about the loan facilities you mentioned. Could you provide more details on the terms and conditions, as well as the types of projects or individuals that would be eligible for these loans?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJeanne"
+    },
+    {
+        "from": "scammer_2251",
+        "to": "baiter_2251",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6333680555555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello Jeanne,\r\nThanks for your response and interest. As regards your questions and\r\ninquiry, we must inform you that Al Rigga Investment LLC Direct Investment\r\nhas one of the most experienced investment management teams in the region.\r\nAs a result of our deep and long standing, our team has extensive knowledge\r\nand experience in both sourcing and managing a portfolio of companies. In\r\nother words, funding for the project will be injected in cash, held by our\r\nInvestors' banks.\r\n\r\nWe are working hard to apply the highest institutional investing standards,\r\ndelivered by a committed and highly skilled team of specialists, who share\r\nthe same set of principles and are passionate about forming long-term\r\nrelationships with our stakeholders. Our main goals are to take full\r\nadvantage of every business opportunity that is given to us and to\r\nestablish cooperative relationships with globally minded businesses and\r\nbusinesspeople. By employing our knowledge, experience, and extensive\r\nnetwork, we collaborate with our partners to develop long-term commercial\r\nconnections. In order to position ourselves for global development, we\r\nregularly evaluate both inbound and outbound investment projects, investing\r\nfunds in companies and other entities that aim to provide both a measurable\r\nsocial benefit and a financial return.\r\n\r\nBusiness and startup ideas to a wide range of professional parties, such as\r\nthe oil and energy sectors, the mining and metals sector, the hospital and\r\nhealth care sector, information technology, intermediaries in banks and\r\ninvestments, the agricultural sector, financial planners, the consumer\r\nservice sector, the international trade and development sector, the\r\ngambling and casinos sector, financial advisors, wealth managers,\r\npharmaceuticals, the management consulting sector, and the electrical and\r\nelectronic manufacturing sector Al Rigga Investment LLC also provides\r\npersonal loans, commercial loans, and home loans; unsecured capital loans\r\nand secured working capital loans.\r\n\r\nWe thus appeal to you to kindly use your network/associates to help us\r\nidentify potential individuals/companies that might need any amount.\r\nOperating correspondent loans with Al Rigga Investment LLC as alternative\r\nlenders.  Kindly engage me with your project(s) brief, for a more detailed\r\ndiscussion on this proposal. Kindly fill out our know your client (KYC)\r\nform which we have attached to enable us start the process of consideration\r\nof your application. Kindly note that we will ONLY provide you with the\r\nloan but will not be involved in your business.\nRegards,\r\nPeter Wilson."
+    },
+    {
+        "from": "baiter_2251",
+        "to": "scammer_2251",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6448611111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello Peter,\nThank you for reaching out and providing detailed information about Al Rigga Investment LLC Direct Investment. It's interesting to learn about your investment management team and the various sectors you are involved in. Can you tell me more about the specific criteria or requirements for companies seeking funding from Al Rigga Investment LLC? How do you assess the potential of a company before providing them with a loan? Looking forward to hearing more from you.\n\nBest wishes,\nJeanne"
+    },
+    {
+        "from": "baiter_2251",
+        "to": "scammer_2251",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6449074074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello Peter,\nThank you for reaching out and providing detailed information about Al Rigga Investment LLC Direct Investment. It's interesting to learn about your investment management team and the various sectors you are involved in.\n\nCould you please elaborate more on the specific criteria or requirements for companies seeking funding from Al Rigga Investment LLC? Additionally, how does the process work once a potential company is identified as a candidate for funding?\n\nLooking forward to hearing more from you.\n\nBest wishes,\nJeanne"
+    },
+    {
+        "from": "baiter_2251",
+        "to": "scammer_2251",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6859143518518519,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello Peter,\nThank you for reaching out and providing detailed information about Al Rigga Investment LLC Direct Investment. It's interesting to learn about your investment management team and the various sectors you are involved in.\n\nCould you please elaborate more on the specific criteria or requirements for companies seeking funding from Al Rigga Investment LLC? Additionally, how does the process of evaluating and selecting potential investment projects typically work within your organization?\n\nI appreciate your time and look forward to hearing back from you soon.\n\nBest wishes,\nJeanne"
+    },
+    {
+        "from": "baiter_2251",
+        "to": "scammer_2251",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6863194444444445,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello Peter,\nThank you for reaching out and providing detailed information about Al Rigga Investment LLC Direct Investment. It's interesting to learn about your investment management team and the various sectors you are involved in. Can you tell me more about the specific criteria or requirements for companies seeking funding from Al Rigga Investment LLC? How do you assess the potential of a company before deciding to invest in them? Looking forward to hearing more from you.\n\nBest wishes,\nJeanne"
+    },
+    {
+        "from": "baiter_2251",
+        "to": "scammer_2251",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6872222222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello Peter,\nThank you for reaching out and providing detailed information about Al Rigga Investment LLC Direct Investment. It's interesting to learn about your investment management team and the various sectors you are involved in.\nCould you please elaborate more on the process of applying for funding with Al Rigga Investment LLC? How long does the evaluation process usually take, and what criteria do you consider when selecting potential companies to invest in?\nAdditionally, I would like to know more about the terms and conditions of the loans you offer, such as interest rates, repayment periods, and any collateral requirements.\nLooking forward to hearing from you soon.\n\nBest wishes,\nJeanne"
+    },
+    {
+        "from": "baiter_2251",
+        "to": "scammer_2251",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7293055555555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello Peter,\nThank you for reaching out and providing detailed information about Al Rigga Investment LLC Direct Investment. It's interesting to learn about your investment management team and the various sectors you are involved in. Can you tell me more about the specific criteria or requirements for companies seeking funding from Al Rigga Investment LLC? How do you assess the potential of a company before deciding to invest in them?\nLooking forward to hearing from you.\n\nBest wishes,\nJeanne"
+    },
+    {
+        "from": "baiter_2251",
+        "to": "scammer_2251",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7706018518518518,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello Peter,\nThank you for reaching out and providing detailed information about Al Rigga Investment LLC Direct Investment. It's interesting to learn about your investment management team and the various sectors you are involved in. Can you tell me more about the specific criteria or requirements for companies seeking funding from Al Rigga Investment LLC? How do you assess the potential of a project before deciding to invest in it?\nLooking forward to hearing more from you.\n\nBest wishes,\nJeanne"
+    },
+    {
+        "from": "scammer_2251",
+        "to": "baiter_2251",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.5265856481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello Jeanne,\r\nThanks for your emails and sorry about my rather late response. Our terms\r\nand conditions are that a registered business name will be able to attract\r\nbigger loan amounts as we will guide and assist these companies or\r\nregistered business names to succeed in their businesses as that will also\r\nfavour our firm.\r\nIndividual loans will be restricted to certain amounts.\r\nWe await to receive from you, filled KYC forms to enable us start the\r\nprocessing.\nRegards,\r\nPeter Wilson."
+    },
+    {
+        "from": "baiter_2251",
+        "to": "scammer_2251",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.5608101851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello Peter,\nThank you for sharing the information about your terms and conditions regarding loans. It's interesting to know that registered business names have the potential to attract bigger loan amounts. Could you provide more details on how you guide and assist these companies to succeed in their businesses? Also, what are the restrictions on individual loan amounts?\nLooking forward to hearing from you soon.\n\nBest wishes,\nJeanne"
+    },
+    {
+        "from": "baiter_2251",
+        "to": "scammer_2251",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.5608564814814814,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello Peter,\nThank you for sharing the information about your terms and conditions regarding loans. Could you please provide more details about the specific loan amounts available for registered business names versus individual loans? Additionally, could you explain what KYC forms are required and how they help in the loan process?\nLooking forward to hearing from you soon.\nBest regards.\n\nBest wishes,\nJeanne"
+    },
+    {
+        "from": "baiter_2251",
+        "to": "scammer_2251",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.5620833333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello Peter,\nThank you for sharing the information about your terms and conditions regarding loans. Could you please provide more details on the specific loan amounts available for registered business names versus individual loans? Additionally, could you explain what KYC forms are required and how they help in the loan process?\nLooking forward to hearing from you soon.\nBest regards.\n\nBest wishes,\nJeanne"
+    },
+    {
+        "from": "scammer_2251",
+        "to": "baiter_2251",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.2961342592592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello Jeanne,\r\nThanks for your email. Registered  business names or companies will be able\r\nto attract loans up to Three Billion United States Dollars while\r\nIndividuals loans will not exceed five hundred million dollars. We await\r\nthe filled KYC forms which provides us the details needed to start the\r\nprocess of loan application.\nRegards,\r\nPeter Wilson."
+    },
+    {
+        "from": "baiter_2251",
+        "to": "scammer_2251",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.3106597222222223,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello Peter,\nThank you for sharing this information. Could you please provide more details about the process of obtaining a loan for a registered business? I am interested in learning more about the requirements and steps involved.\nLooking forward to your response.\nBest regards.\n\nBest wishes,\nJeanne"
+    },
+    {
+        "from": "baiter_2251",
+        "to": "scammer_2251",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.3107407407407408,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello Peter,\nThank you for sharing this information. Could you please provide more details about the process of obtaining a loan for a registered business? How long does the process usually take, and what are the requirements?\nLooking forward to hearing from you.\nBest regards.\n\nBest wishes,\nJeanne"
+    },
+    {
+        "from": "scammer_2251",
+        "to": "baiter_2251",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.50375,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "19",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello Jeanne,\r\nThanks for your prompt response. Once we receive our know your client (KYC)\r\nform, we will then have enough information about the client which we will\r\nthen process through our own methods. We then check out the registration\r\ndetails once it checks out, we process the information in 3 days before we\r\nschedule an in-person meeting where the release documents are signed and\r\nthe funds credited into the client's provided account.\nRegards,\r\nPeter Wilson."
+    },
+    {
+        "from": "baiter_2251",
+        "to": "scammer_2251",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.518946759259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "20",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello Peter,\nThank you for sharing that information. Could you please provide more details about the KYC form and the process you follow to verify clients? I'm interested in learning more about your procedures.\nBest regards.\n\nBest wishes,\nJeanne"
+    },
+    {
+        "from": "baiter_2251",
+        "to": "scammer_2251",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.519340277777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "21",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello Peter,\nThank you for sharing that information. Could you please provide more details about the KYC form and the process you follow to verify clients? I'm interested in learning more about your procedures.\n\nBest wishes,\nJeanne"
+    },
+    {
+        "from": "baiter_2251",
+        "to": "scammer_2251",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.519548611111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "22",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello Peter,\nThank you for sharing the process with me. Could you provide more details about how your methods work in processing the client information? I'm interested to learn more about it.\n\nBest wishes,\nJeanne"
+    },
+    {
+        "from": "baiter_2251",
+        "to": "scammer_2251",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.5610416666666667,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "23",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello Peter,\nThank you for sharing the process with me. Could you please provide more details on how the KYC form is obtained and what information it typically includes? I'm interested in learning more about your procedures.\nBest regards.\n\nBest wishes,\nJeanne"
+    },
+    {
+        "from": "scammer_2251",
+        "to": "baiter_2251",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.661909722222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "24",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Kindly find attached the KYC form."
+    },
+    {
+        "from": "baiter_2251",
+        "to": "scammer_2251",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.6855208333333334,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "25",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello! Thank you for sharing the KYC form with me. Could you please provide more details about why this form is needed and how it will be used?\n\nBest wishes,\nJeanne"
+    },
+    {
+        "from": "scammer_2251",
+        "to": "baiter_2251",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.0922569444444443,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "26",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello Jeanne,\r\nThanks for your mail. The KYC form should simply be printed and the\r\nprospective applicant then fills it out, scans and sends it back to us for\r\nthe loan processing.\nRegards,\r\nPeter Wilson."
+    },
+    {
+        "from": "baiter_2251",
+        "to": "scammer_2251",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.102210648148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "27",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello Peter,\nThank you for the information. Could you please clarify what KYC stands for and why it is required for the loan application process?\nLooking forward to your response.\n\nBest wishes,\nJeanne"
+    },
+    {
+        "from": "scammer_2251",
+        "to": "baiter_2251",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.3314930555555557,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "28",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello Jeanne,\r\nThanks for your mail once again. The Know Your Client (KYC) form is mainly\r\nfor us to know about our potential client. With the information from the\r\nform, we will then know how to proceed.\nRegards,\r\nPeter Wilson."
+    },
+    {
+        "from": "baiter_2251",
+        "to": "scammer_2251",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.3525694444444443,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "29",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello Peter,\nThank you for explaining the purpose of the Know Your Client form. I appreciate your attention to detail. Could you please provide more information on how the form helps in understanding potential clients better?\nLooking forward to hearing from you.\n\nBest wishes,\nJeanne"
+    },
+    {
+        "from": "scammer_2251",
+        "to": "baiter_2251",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.4736921296296295,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "30",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello Jeanne,\r\nThanks for your response. Be well informed that it is information provided\r\nby the potential clients on the KYC form that we will work with.\nRegards,\r\nPeter Wilson."
+    },
+    {
+        "from": "baiter_2251",
+        "to": "scammer_2251",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.477210648148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "31",
+        "subject": "Re: note that you have been 30 day",
+        "body": "Hello Peter,\nThank you for sharing that information. Can you tell me more about the KYC form and how it is used in your process?\n\nBest wishes,\nJeanne"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2315",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  From The Desk of Nan Cheng",
+        "body": "  From The Desk of Nan Cheng\nSingapore Refining Company Pte Ltd (SRC).\nGreetings, I Hope this message finds you well.\nYour reputable profile inspired me to contact you for a possible  crude-oil business venture for which the commission is expected to raise up to 1mUSD  monthly.\nThis is to Seek your interest,  before sharing the full details with you.\nRegards\nNan Cheng\nProcurement officer   "
+    },
+    {
+        "from": "baiter_2315",
+        "to": "scammer_2315",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   From The Desk of Nan Cheng",
+        "body": "Hello Nan Cheng,\n\nThank you for reaching out to me. I hope you are doing well too. I'm always open to exploring new business opportunities, so I would be interested in hearing more about this venture you mentioned.\n\nCould you please provide me with some additional information about the nature of the business and how exactly the commission is expected to be raised on a monthly basis? It would help me better understand the potential benefits and risks involved.\n\nLooking forward to your response.\n\nBest wishes,\nDonny"
+    },
+    {
+        "from": "scammer_2315",
+        "to": "baiter_2315",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: From The Desk of Nan Cheng",
+        "body": "Greetings,\r\n             I work as a procurement officer for the Singapore Refining\r\nCompany Pte Ltd (SRC).\r\n\r\nWe have recently signed a CRUDE Oil purchase agreement from the NATIONAL\r\nOIL CORPORATION OF LIBYA (NOCL) and urgently need crude oil license agents\r\nfrom the NOCL.\r\n\r\nThis is because the NOCL does not sell their CRUDE directly to the buyers\r\nrather, through their approved licensed agents who act as their sales\r\nagent/middleman between them and their buyers.\r\n\r\n Being a license holder guarantees you a monthly commission of not less\r\nthan 1 to 3 million dollars monthly if my company utilizes your license for\r\nthis monthly crude purchase. I am approaching you to quickly apply to\r\nbecome a crude oil license holder with the NOCL, I have contacts within the\r\nNOCL who will facilitate your application and make sure it is approved.\r\n\r\nProvided you application is approved, and you are licensed, I will make\r\nsure my company SRC utilizes your approved license for their monthly\r\npurchase, and you will receive monthly commission which could be as high 1\r\nto 3 million US dollars,\r\n\r\nIf you decide to take up this proposition, we can further discuss how we\r\nshare the commission between ourselves. I will further guide you on how to\r\napply for the license from the NOCL.\nRegards\r\nNan Cheng"
+    },
+    {
+        "from": "baiter_2315",
+        "to": "scammer_2315",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3756712962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: From The Desk of Nan Cheng",
+        "body": "Hello Nan Cheng,\n\nThank you for reaching out to me with this opportunity. I'm interested in learning more about becoming a crude oil license holder with the NOCL. Could you please provide me with some additional information?\n\n1. What are the specific responsibilities and duties of a crude oil license holder?\n2. How long does the application process usually take, and what are the requirements?\n3. Are there any costs or fees associated with obtaining the license?\n4. Can you explain how the commission sharing works between your company and the license holders?\n5. Is there any legal documentation or contract involved in this agreement?\n\nI appreciate your time and look forward to hearing back from you.\n\nBest wishes,\nDonny"
+    }
+]

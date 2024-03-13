@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2159",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Sir / Madam,",
+        "body": "Dear Sir / Madam,\nWe are Lenders & Project Loan Pioneers.\nI write to inquire if your company needs financial aid in your projects. \nOur terms do not require a physical collateral\n.\nRegards,\nMr. Rando Philip\nThe information contained in this message is privileged and intended only for the recipients named. If the reader is not a representative of the intended recipient, any review, dissemination or copying of this message or the information it contains is prohibited. If you have received this message in error, please immediately notify the sender, and delete the original message and attachments.\nOracle will as part of our communication and interaction with you collect and process your personal data. You can read more about Oracle collection and processing of your personal data and your rights as a data subject in our privacy policy."
+    },
+    {
+        "from": "baiter_2159",
+        "to": "scammer_2159",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Sir / Madam,",
+        "body": "Dear Mr. Rando Philip,\n\nThank you for reaching out to me. I appreciate your offer of financial aid for projects. Can you please provide more details about the terms and conditions of your loan? How does your company determine the loan amount and interest rates?\n\nAdditionally, could you clarify what you mean by not requiring physical collateral? What other types of collateral do you accept, if any?\n\nI look forward to hearing back from you.\n\nBest wishes,\nAmy"
+    }
+]

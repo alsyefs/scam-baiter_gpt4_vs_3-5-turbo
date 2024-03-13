@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1040",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn: Beneficiary",
+        "body": "Attn: Beneficiary\n   Greetings to you. This is to inform you that your fund $5.5 million\ndollars have been approved for transfer and have been transferred\nsuccessfully to your Bank account by our TELEX TRANSFER DEPARTMENT.\n \nPlease kindly find attached your approval certificate and copy of\nthe transfer slip for confirmation. \nYou are expected to notify us\nimmediately your fund reflects into your Bank account so we know we\nhave successfully concluded the transfer of your fund. Be advised it\nwill take only 24 Banking hours for the fund to reflect into your\naccount which means your fund will arrive tomorrow afternoon in your\naccount.\n    We thank you very much for your full co-operation and support\nthroughout this transaction as we look forward to do business with\nyou in the nearest feature.  We wait for your urgent matter.\n    Congratulations for the success of your payment.\n Please sir kindly\nsend me your direct phone number so I can call you up immediately the\nfund arrives at your account.\nYours Faithfully,\nJonathan Taylor\nVICE PRESIDENT OPERATION\nHSBC BANK UK"
+    },
+    {
+        "from": "baiter_1040",
+        "to": "scammer_1040",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attn: Beneficiary",
+        "body": "Hello Jonathan Taylor,\n\nThank you for reaching out to me with this information. I appreciate your efforts in transferring the funds to my bank account. However, I have a few questions before we proceed.\n\n1. Can you please provide more details about the approval process? How was my fund approved for transfer?\n\n2. Could you explain what a TELEX TRANSFER is and how it differs from other forms of fund transfers?\n\n3. I noticed that you mentioned an attached approval and copy of the transfer slip. Unfortunately, I didn't receive any attachments in your message. Could you please resend them?\n\n4. You mentioned that I need to notify you once the fund reflects in my bank account. Is there a specific method or contact person I should reach out to for this notification?\n\n5. Lastly, could you clarify what urgent matter you are referring to? Is there anything specific that needs my immediate attention?\n\nI look forward to your response and further guidance on this matter.\n\nBest wishes,\nVincent"
+    }
+]

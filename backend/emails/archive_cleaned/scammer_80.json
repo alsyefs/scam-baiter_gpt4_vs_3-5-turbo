@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_80",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello,",
+        "body": "Hello,\nSpecially Announcement, I am Mr. Alastair Borthwick from Bank Of America, you are lucky to win a financial support, This fund was part of the lodged Late President Saddam Hussein of Iraq discovery fund with World Bank of Switzerland, which the Swiss Bank has decided to distribute it generously to help few lucky individuals and the American Government agreement with the Swiss Bank.  Kindly contact me via this Email (\nalastairborthwick01@hotmail.com\n ) with \nyour full names, address and telephone \nfor the update.\nYours Faithfully,\nMr. Alastair Borthwick"
+    },
+    {
+        "from": "baiter_80",
+        "to": "scammer_80",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello,",
+        "body": "Hello Mr. Alastair Borthwick,\n\nWow, that's quite a surprise! I can't believe I'm one of the lucky ones to receive this generous support. It's really interesting how this fund was discovered and is now being distributed. Could you tell me more about how this process works? And how did my name come up in the selection?\n\nLooking forward to hearing from you.\n\nP.S: I would prefer to keep our conversation here for now, hope that's okay with you.\n\nBest wishes,\nMichael"
+    }
+]

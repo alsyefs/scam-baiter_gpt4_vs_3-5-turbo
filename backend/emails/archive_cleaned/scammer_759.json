@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_759",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Congrats!Your email has won $8",
+        "body": "Congrats!Your email has won $850,000 in the 2023 end of the year Pepsi\nDraw in the USA. To redeem, send PEPSI170521 and mobile no to:\newepee@hotmail.com\nThank you,\nPepsi Team."
+    },
+    {
+        "from": "baiter_759",
+        "to": "scammer_759",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Congrats!Your email has won $8",
+        "body": "Hello Pepsi Team,\n\nWow, this is such exciting news! I can't believe my email was selected. Could you please tell me more about this end of the year draw? How many people participated and how was my email chosen?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nEthel"
+    }
+]

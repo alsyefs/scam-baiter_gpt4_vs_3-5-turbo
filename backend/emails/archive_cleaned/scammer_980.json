@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_980",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  ATTN ;BENEFICIARY,  ",
+        "body": "  ATTN ;BENEFICIARY,  \nSEQUEL TO OUR PREVIOUS MASSAGE AND THE MEETING HOLD ON THE 15/9/2023,\nIT HAS BEEN CONCLUDED AND AGREED THAT YOUR FUND WILL BE BROUGHT TO YOU\nIN YOUR HOME. MEANWHILE, I WOULD LIKE TO INFORM YOU THAT THE NATIONAL\nSECURITY COMPANY AND HAS PERFECTED ALL ARRANGEMENT FOR THE IMMEDIATE\nDELIVERY OF YOUR AND FOLLOWING IS WHAT WE AGREED ON.THE NATIONAL\nSECURITY COMPANY WILL SEND A REPRESENTATIVE I.E.INTERNATIONAL\nCONSULTANT BANKER TO MEET WITH YOU ONE ON ONE IN COUNTRY BEFORE THEY\nWILL DELIVER YOUR FUND. THEREFORE YOUR QUICK RESPONSE ON THIS MASSAGE\nSO THAT WE CAN NOT MAKE MISTAKE OF TAKING YOUR FUND TO A WRONG PERSON.\nYOU ARE THEREFORE ADVISE TO RECONFIRM THE FOLLOWING\n1, YOUR FULL NAME;.................................…\n2,ADDRESS.;.................................................\n3,PHONE NUMBER;..................................\nTO ENABLE US CONCLUDE. URGENT\nTHANKS.YOUR FAITHFULLY\nMR  MARK  DAVIS   "
+    },
+    {
+        "from": "baiter_980",
+        "to": "scammer_980",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   ATTN ;BENEFICIARY,  ",
+        "body": "Hello Mr. Mark Davis,\n\nThank you for reaching out to me with this information. I appreciate your efforts in ensuring the safe delivery of my fund. However, before we proceed, I would like to clarify a few things.\n\nFirstly, could you please provide more details about the meeting that was held? Who else was present at the meeting and what decisions were made regarding the delivery of my fund?\n\nSecondly, I would like to know more about the National Security Company. Can you tell me about their reputation and track record in handling such transactions? It's important for me to have confidence in the organization responsible for delivering my funds.\n\nLastly, could you explain why it is necessary for a consultant banker to meet with me in person before the delivery takes place? What specific purpose does this serve and how will it ensure that there are no mistakes made during the process?\n\nI look forward to your prompt response and further clarification on these matters.\n\nBest wishes,\nAshley"
+    }
+]

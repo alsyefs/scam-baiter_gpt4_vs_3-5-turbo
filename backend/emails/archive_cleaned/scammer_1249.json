@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1249",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "good day i need to inform you ",
+        "body": "good day i need to inform you about your delivery and all the money is\nall ready paid \nthe only thing that you will pay is $20 for custom\nduty,\nplease you need to chat me google chat so that i will know when you\nwill send the money,\nREGARDS\nMiss Jennifer Gloria gully\ntext me on  google chat\njennifergloriagully@gmail.com"
+    },
+    {
+        "from": "baiter_1249",
+        "to": "scammer_1249",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: good day i need to inform you ",
+        "body": "Hello Miss Jennifer Gloria Gully,\n\nI hope you're having a wonderful day! I'm delighted to hear about the delivery. Could you please provide me with more details? What exactly is this delivery for? And how much is the custom duty that needs to be paid?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nBrian"
+    }
+]

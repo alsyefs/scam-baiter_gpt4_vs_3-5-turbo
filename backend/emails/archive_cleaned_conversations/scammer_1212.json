@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1212",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "IMF Headquarters (Washington, ",
+        "body": "IMF Headquarters (Washington, DC)\nU.S.A\nThis is to inform you that your inheritance/compensation Fund of (US$15.5 Million) has been approved on ATM VISA CARD payment for safety Delivery due to the content of the CARD, we have successfully registered the ATM visa card via courier Company service with this REFERENCE NUMBER: {IMF/WDC/XX021/0321} for identification purposes. Please do not ignore this message because it is very important.\nPlease Indicate this REFERENCE NUMBER:{IMF/WDC/XX021/0321} when replying and ask Mr. James Donald, to direct you where to send them the Security keeping fee/delivery and VAT payment of $25.00 only.\nBe informed that this fee of US$25.00 cannot be deducted from your fund because the Government has already gazetted your fund under the insurance Policy and regulations placed on this approved fund, no deductions can be made for the security of the fund. Your fund being gazetted means the Government has made it official that this particular amount will be released into your account without being decreased by any amount or increased by any amount.\nMake sure you forward your details \nto this contact email: { \njamesdonald423@zohomail.com\n }\n1) YOUR FULL NAMES:....\n2) DELIVERY ADDRESS:...\n3) COUNTRY:..\n4) PHONE NUMBER:..\n5) WHATS APP NUMBER:....\n5) YOUR NEAREST AIRPORT:..\n6) \nDRIVER'S LICENSE ID OR PASSPORT COPY\n.\nKindly send the security keeping/delivery and VAT payment of $25.00 only to avoid delay.\nPlease don't forget to furnish them with the above information for your ATM card safety delivery.\nRegards,\nMs.Kristalina Georgieva\nIMF Managing Director"
+    },
+    {
+        "from": "baiter_1212",
+        "to": "scammer_1212",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: IMF Headquarters (Washington, ",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding the approval of my fund on an ATM Visa Card payment. It sounds like a convenient and secure method of delivery.\n\nI understand that there is a fee of US that needs to be paid for security keeping delivery and VAT payment. Could you please provide more details about how this fee can be paid? Is there a specific payment method that I should use?\n\nAdditionally, I would like to know more about the courier company service that has been registered for the delivery of the ATM Visa Card. Can you share some information about the company and their track record in delivering such packages safely?\n\nLastly, could you clarify what you mean by \"gazetted\" and how it relates to my fund being released without any deductions or increases? I want to ensure that everything is transparent and in accordance with government regulations.\n\nThank you once again for your assistance. I look forward to your response.\n\nBest wishes,\nAngela"
+    },
+    {
+        "from": "scammer_1212",
+        "to": "baiter_1212",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: REFERENCE NUMBER: {IMF/WDC/XX021/0321}",
+        "body": "PostNord Deliver Service\r\n\r\n\r\n\r\nSweden\r\n\r\n\r\n\r\nDear Customer Angela,\r\n\r\n\r\n\r\nThis is to confirm your message regarding your ATM VISA CARD registered in our Shipping Company the PostNord Delivery Service.\r\n\r\nPostNord Delivery Services is the best delivery company in Sweden.\r\n\r\nYou can google it and read about PostNord Delivery Services\r\n\r\n\r\nHERE IS THE REFERENCE NUMBER: {IMF/WDC/XX021/0321}\r\n\r\n\r\n\r\nI wish to use this medium to inform you about the Security keeping fee/delivery and VAT payment of $25.00 only.\r\n\r\n\r\n\r\nYou're expected to pay the US$25 through Apple Gift Card\r\n\r\n\r\n\r\nYou can also pay the fee through Bitcoin.\r\n\r\n\r\n\r\nWaiting to hear from you.\nRegards,\r\n\r\nMr. James Donald\r\n\r\n\r\n\r\nPostNord Delivery Service Agent\r\n\r\n\r\n\r\nSent using {0}"
+    },
+    {
+        "from": "baiter_1212",
+        "to": "scammer_1212",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.495150462962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: REFERENCE NUMBER: {IMF/WDC/XX021/0321}",
+        "body": "Hello Mr. James Donald,\n\nThank you for reaching out to me regarding the Delivery Service in Sweden. I appreciate your confirmation and information about the company. I will definitely look it up online to learn more about it.\n\nI have a few questions regarding the Security keeping fee delivery and VAT payment. Could you please provide more details about these fees? What is the purpose of the Security keeping fee delivery, and how much is it? Similarly, what is the VAT payment for, and what is the amount?\n\nAdditionally, I noticed that you mentioned payment options through Apple Gift Card or Bitcoin. Could you explain why these specific methods are preferred? Are there any other payment options available?\n\nThank you for your assistance, and I look forward to hearing back from you soon.\n\nBest wishes,\nAngela"
+    }
+]

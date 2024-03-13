@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2326",
+        "to": "baiter_2326",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "GREETINGS",
+        "body": "Hello My Dear Friend,\r\n\r\nHow are you doing? Trust you are kicking the ball of good health. I am Mrs. Suzanne Mubarak a widow of Egyptian former late President Hosni Mubarak, who died on Feb 25th, 2020, and the former First Lady of Egypt.\r\n\r\nDo you know any good and lucrative business where we can invest the Sum of $50 Million (Fifty Million United States Dollars)? Please kindly respond to this mail if you are 100% sure to manage the Fund.\r\n\r\nWaiting for your response\nRegards,\r\nMrs. Suzanne Mubarak"
+    },
+    {
+        "from": "baiter_2326",
+        "to": "scammer_2326",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: GREETINGS",
+        "body": "Hello Mrs. Suzanne Mubarak,\n\nI hope this message finds you well. I'm sorry to hear about your late husband, President Hosni Mubarak. \n\nAs for your question, there are indeed many lucrative businesses where one could invest such a substantial sum of money. However, it would be helpful to know more about your interests and goals for this investment. Are you looking for a short-term or long-term investment? Do you have any specific industries in mind? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nWendi"
+    }
+]

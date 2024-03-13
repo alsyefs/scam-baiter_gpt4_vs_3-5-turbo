@@ -1,0 +1,162 @@
+[
+    {
+        "from": "scammer_297",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention: Beneficiary,",
+        "body": "Attention: Beneficiary,\nI am writing to inform you about your fund transfer, my office has noticed that you are yet to receive your fund transfer and the paying bank has not sent your transfer complete copy report.\nI would like to know your reason and why you have not completed your fund transfer to your account up till now, if there is anything causing you delay or difficulty in completing your  transfer, please let me know so that we will know how to help you and complete your fund transfer as soon as possible.\nI am waiting to hear from you soon\nThank you\nYours sincerely\nBoss Mustafa\nFunds Transfer Alliance, LLC"
+    },
+    {
+        "from": "baiter_297",
+        "to": "scammer_297",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attention: Beneficiary,",
+        "body": "Hello Boss Mustafa,\n\nThank you for reaching out to me. I appreciate your concern about the fund transfer. To be honest, I'm not quite sure what could be causing the delay. Could you perhaps provide more details about this fund transfer? Like when was it initiated and from which bank?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMaryann"
+    },
+    {
+        "from": "scammer_297",
+        "to": "baiter_297",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Attention: Beneficiary,",
+        "body": "Attention: Maryann,\r\n\r\nI am writing in receipt of your mail, I have received your mail and the\r\ncontent in it. The fund transfer has been initiated, and to be transferred\r\nto you from the year 2021; your fund transfer title inheritance fund\r\ntransfer from United States bank SunTrust bank. the total amount of the\r\ntransfer is $15.3M, due the bank took over your the transfer from the\r\nStates treasury after the delay the fund transfer have experience in the\r\npast years, my office are working with the United States foreign fund\r\ntransfer to make sure that all delayed fund is transfer to all their\r\nbeneficiaries without any delay of such again.\r\n\r\nThis is why I contacted you to know why your fund transfer is being\r\ndelayed, to check what the delay might be, we have to cross check all\r\ndocuments related to your fund transfer since you cannot specify the course\r\nof the delay. Be rest assured that your fund transfer will be successful in\r\nyour favor, to proceed’ send me your full name and contact telephone/ home\r\naddress with the account details where you want your fund to be transferred\r\nto in your country/states. with an identification card of yours attached in\r\nyour next mail.\r\n\r\nI hope that you understand me.\r\n\r\nWaiting to hear from you as soon as possible\nBest regards\r\n\r\nBoss Mustafa"
+    },
+    {
+        "from": "scammer_297",
+        "to": "baiter_297",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.9259259259259258,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Attention: Beneficiary,",
+        "body": "Hello Maryann,\r\n\r\nHow are you doing today, hope well? I have been waiting to hear from you\r\nand I hope that you receive my response I sent you last week.\r\n\r\nGet back to me as soon as possible so that we can proceed with your fund\r\ntransfer to your account.\r\n\r\nWaiting\nBest regards\r\n\r\nBoss Mustafa"
+    },
+    {
+        "from": "baiter_297",
+        "to": "scammer_297",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.3910185185185187,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Attention: Beneficiary,",
+        "body": "Hello Boss Mustafa,\n\nI'm doing well, thank you for asking. I hope you're doing great too. I must have missed your previous message, could you please elaborate on the fund transfer you mentioned? How did this come about?\n\nLooking forward to hearing from you.\n\nBest wishes,\nMaryann"
+    },
+    {
+        "from": "scammer_297",
+        "to": "baiter_297",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.4174652777777776,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Attention: Beneficiary, Maryann... This is the previous mail I sent you",
+        "body": "Attention: Maryann,\r\n\r\nI am writing in receipt of your mail, I have received your mail and the\r\ncontent in it. The fund transfer has been initiated, and to be transferred\r\nto you from the year 2021; your fund transfer title inheritance fund\r\ntransfer from United States bank SunTrust bank. the total amount of the\r\ntransfer is $15.3M, due the bank took over your the transfer from the\r\nStates treasury after the delay the fund transfer have experience in the\r\npast years, my office are working with the United States foreign fund\r\ntransfer to make sure that all delayed fund is transfer to all their\r\nbeneficiaries without any delay of such again.\r\n\r\nThis is why I contacted you to know why your fund transfer is being\r\ndelayed, to check what the delay might be, we have to cross check all\r\ndocuments related to your fund transfer since you cannot specify the course\r\nof the delay. Be rest assured that your fund transfer will be successful in\r\nyour favor, to proceed’ send me your full name and contact telephone/ home\r\naddress with the account details where you want your fund to be transferred\r\nto in your country/states. with an identification card of yours attached in\r\nyour next mail.\r\n\r\nI hope that you understand me.\r\n\r\nWaiting to hear from you as soon as possible\nBest regards\r\n\r\nBoss Mustafa"
+    },
+    {
+        "from": "baiter_297",
+        "to": "scammer_297",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.6629976851851853,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Attention: Beneficiary, Maryann... This is the previous mail I sent you",
+        "body": "Hello Boss Mustafa,\n\nThank you for your prompt response and the detailed explanation about the fund transfer. It's quite interesting to know that such a process is in place. I'm curious, how does this whole fund transfer system work? And why was there a delay in the first place?\n\nI'm also wondering, what role does the United States foreign fund transfer play in this? Are they responsible for ensuring all delayed funds are transferred without any further delays?\n\nI appreciate your assurance about the successful completion of my fund transfer. However, I would like to understand more about this process before proceeding further.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMaryann"
+    },
+    {
+        "from": "scammer_297",
+        "to": "baiter_297",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.810092592592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Attention: Beneficiary, Maryann... This is the previous mail I sent you",
+        "body": "My dear friend Maryann,\r\n\r\nI am writing in receipt of your mail, thank you for your soonest response,\r\nthe fund transfer will be a bank to bank wire transfer to your account as\r\nsoon as your details is submitted to the paying bank with out any more\r\ndelay because we are going to make sure that all the legal documents\r\nfollows due process for smooth wire transfer so that the transfer will not\r\nexperience delay again. Non proper documentation can also be the cause of\r\nthe find transfer delay and that we have worked on.\r\n\r\nFor safety reasons and to make sure that fund transfer is not mixed up, the\r\nStates treasury took the fund security responsibility to themselves until\r\nwhen my office is employed to facilitate the smooth transfer of all funds\r\nto their beneficiaries and to make sure no any delay again.\r\n\r\nTo proceed with your fund transfer, my office will need your total\r\ncorporation to work things out easily, like I said in my previous mail the\r\ntotal sum of $15.3M is what you will receive in your account, I also\r\nexplained more in that mail too. To proceed with your fund transfer, send\r\nme your full name. Occupation and contact address/ your telephone number\r\nand working identification card of any kind. Send the account details where\r\nyou want your fund to be transferred to in your country/states, the account\r\nmust be a dollar account. With this we can proceed with your fund transfer\r\nimmediately.\r\n\r\nI hope that you understand me\r\n\r\nWaiting to hear from you as soon as possible\nBest regards\r\nBoss Mustafa"
+    },
+    {
+        "from": "baiter_297",
+        "to": "scammer_297",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.3913773148148145,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Attention: Beneficiary,",
+        "body": "Hello Boss Mustafa,\n\nThank you for your email and the detailed explanation about the fund transfer. It's really interesting to know that there are such processes in place to ensure delayed funds are transferred without any further delay.\n\nI'm curious, though, how did my name come up in this? I mean, I don't remember initiating any fund transfers. Could there be a mix-up somewhere?\n\nAlso, could you please explain more about the role of the United States foreign fund transfer in this process? How do they work with your office to expedite these transfers?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMaryann"
+    },
+    {
+        "from": "baiter_297",
+        "to": "scammer_297",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.45480324074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Attention: Beneficiary, Maryann... This is the previous mail I sent you",
+        "body": "Hello Boss Mustafa,\n\nThank you for your detailed explanation about the fund transfer process. It's quite interesting to learn how these things work, especially with all the legal documents and processes involved.\n\nI'm curious though, why does the account need to be a dollar account? Is it not possible to convert the funds into my local currency during the transfer process? Also, could you please explain more about what you mean by \"working card of any kind\"?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMaryann"
+    },
+    {
+        "from": "scammer_297",
+        "to": "baiter_297",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.825486111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Attention: Beneficiary, Maryann... This is the previous mail I sent you",
+        "body": "My dear friend Maryann,\r\n\r\nI am writing in receipt of your mail, your email address was on the fund\r\ntransfer information and that is reason why I contacted you for the fund\r\ntransfer and if you can remember from my very first mail to you, I ask why\r\nhave you not completed your fund transfer to your account, that I want to\r\nknow so that we can see how we can help you complete your fund transfer\r\nwith any more delayed.\r\n\r\nLike I said, the fund transfer is an inheritance fund, the files we have in\r\nmy office are all in inheritance and contract funds files, most of this\r\nfile has been long delayed for years now. $15.3M inheritance fund transfer\r\nis in your information with me in my office that is why I contacted you.\r\n\r\nThe State's foreign fund transfer and my office, Funds Transfer Alliance,\r\nLLC, work in conjunction for one goal; to achieve and make sure that all\r\nforeign fund transfer delayed is being transferred legally to their\r\nbeneficiaries.\r\n\r\nThe fund can be converted by the paying bank and that is for the paying\r\nbank and the receiving partner bank to make provision for that, you also\r\nhave to inform this office about your local currency so that it will be\r\nincluded in your documentation.\r\n\r\nI said. (To proceed with your fund transfer, send me your full name.\r\nOccupation and contact address/ your telephone number and working\r\nidentification card of any kind.) I hope that I have clarified all you ask\r\nfrom me.\r\n\r\nWaiting to hear from you soon\nBest regards\r\nBoss Mustafa"
+    },
+    {
+        "from": "baiter_297",
+        "to": "scammer_297",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.8290393518518515,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: Attention: Beneficiary, Maryann... This is the previous mail I sent you",
+        "body": "Hello Boss Mustafa,\n\nThank you for reaching out and explaining the situation to me. I must say, it's quite an interesting scenario. However, I'm a bit confused about some parts of your message.\n\nYou mentioned something about a fund transfer that hasn't been completed yet. Could you please elaborate on this? What kind of fund are we talking about here?\n\nAlso, you mentioned that my email address was on the fund transfer. How did my email address end up there? I don't recall being involved in any such transactions.\n\nI'm also curious about the role of Funds Transfer Alliance, LLC in this process. Could you explain more about what they do?\n\nLastly, you asked for my full name, occupation, contact address, telephone number and working card of any kind. While I understand that these details might be necessary for the process, could you clarify why exactly they are needed?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMaryann"
+    },
+    {
+        "from": "scammer_297",
+        "to": "baiter_297",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.962662037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: Attention: Beneficiary, Maryann... This is the previous mail I sent you",
+        "body": "My dear friend Maryann,\r\n\r\nI believe that I have answered your question to the best of my knowledge; I\r\nhave told you the duties and what we stand for in this transaction in my\r\nmails. I am an employee and my job is to contact all files before me to\r\nknow the reason they have not received their funds so that we can\r\nfacilitate their fund delivery. This fund is an inheritance fund and I have\r\ntold you all about the fund and how it is in your favor, it is very easy if\r\nyou are not the real beneficiary, tell me so that we will close the fund\r\ntransfer file and declare the fund abandoned.\nBest regards\r\n\r\nBoss Mustafa"
+    },
+    {
+        "from": "baiter_297",
+        "to": "scammer_297",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.974918981481482,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: Attention: Beneficiary, Maryann... This is the previous mail I sent you",
+        "body": "Hello Boss Mustafa,\n\nThank you for your detailed explanation. I appreciate your efforts in ensuring that the funds reach their rightful owner. It's really commendable what you do.\n\nI'm curious, how does this process usually work? And how long does it typically take for the funds to be transferred?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMaryann"
+    },
+    {
+        "from": "scammer_297",
+        "to": "baiter_297",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.84613425925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: Attention: Beneficiary, Maryann... This is the previous mail I sent you",
+        "body": "Hello Maryann\r\n\r\nHow does it work?  As normal fund wire transfer\r\n\r\nHow long will it take? As soon as the corresponding paying bank receives\r\nyou complete information from my office.\r\n\nBoss Mustafa"
+    },
+    {
+        "from": "baiter_297",
+        "to": "scammer_297",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.849375,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: Attention: Beneficiary, Maryann... This is the previous mail I sent you",
+        "body": "Hello Boss Mustafa,\n\nThank you for your quick response. I'm really interested in understanding more about this process. Could you please explain a bit more about how the normal fund wire transfer works? And when you say \"as soon as the paying bank receives your complete from my office\", could you clarify what exactly they need to receive?\n\nLooking forward to hearing from you.\n\nBest wishes,\nMaryann"
+    }
+]

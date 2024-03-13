@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_428",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "HELLO,",
+        "body": "HELLO,\n Commercial Industrial Enterprises, was started in June 2002 by\nAndrew Yuan  Managing Director, We are into Oil Blocking Booms and\nRopes, Water Supply & Purification - Water Sources: Watershed/Aquifer\nProtection Stabilization Restoration, Oil Spill Barriers, Slick\nDecomposition, Coral Reef Rehabilitation, Hydrologic Engineering, Well\nDrilling, Reservoirs, Waste Management - Refuse Containing: Storage\nDrums, Tanks, Containers, Sealants, Encapsulation.,\nWe are also into export and import of the products mentioned above and\nequipment. Our company \" Commerce Industrial Enterprises \" is a new\nand established firm that proposes to come up with a lot of business\ninnovation shortly., \nWe are interested in employing your\nservices, in working with us as our payment agent who can help us\nestablish a medium of receiving payment on our behalf for Goods and\nraw materials we supply to our customers in Europe, South, and North\nAmerica, Australia e.t.c \nIf you are interested in transacting business\nwith us.,\nWe will be delighted. Subject to your satisfaction you will be given\nthe opportunity to negotiate the mode by which we will pay for your\nservices as our representative in Europe, America, Australia, etc.\nPlease\n if you are interested, forward us your phone/fax number and\nyour full contact.\nThank you and we await your further response.,\nSincerely Andrew Yuan Managing Director   Commercial Industrial\nEnterprises   Street No. 211, Wuyuan Rd., North District, Taichung\n404-58, Taiwan Tel:/fax 886-9162278"
+    },
+    {
+        "from": "baiter_428",
+        "to": "scammer_428",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: HELLO,",
+        "body": "Hello Andrew Yuan,\n\nThank you for reaching out and providing such detailed information about your company, Commercial Industrial. It's fascinating to hear about the work you're doing in Oil Blocking Booms and Ropes, Water Supply Water Sources Watershed Aquifer Protection Oil Spill Barriers, Slick Coral Reef Hydrologic Well Drilling, Waste Management Refuse Containing Storage Drums, Tanks, Sealants and more.\n\nI'm intrigued by the opportunity to work as a payment agent for your company. However, I would like to understand more about this role. Could you please elaborate on what exactly my responsibilities would be? \n\nAlso, could you provide some more details about how the payment process works? How would I be receiving these payments on your behalf?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAustin"
+    },
+    {
+        "from": "scammer_428",
+        "to": "baiter_428",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: HELLO,",
+        "body": "Dear Austin,\r\nThanks for your swift response. All we need from you is to submit the\r\nfollowing to us.  1. Your complete names,   2. Your complete mailing\r\naddress   3. Your phone contacts   4. Your complete house address   5. Your\r\noccupation, business, area of specialization e.t.c   6. Your bank details\r\nand PayPal email address   With the above-required information from you, we\r\nwill ask any of our customers who can be able to make a payment to us\r\nthrough you.  You shall be entitled to a monthly salary of $5,000 plus a\r\n10% commission on every Account/Payment you receive on behalf of commerce\r\nindustrial enterprise. from its customers/clients. Also if we are satisfied\r\nwith your services to the company within 90 days (3 Months) of your\r\nemployment, we shall increase your monthly allowance by 12%.   I hope the\r\nabove-stated terms are clear for your understanding. I await your further\r\nresponse.   Sincerely,  Andrew Yua"
+    }
+]

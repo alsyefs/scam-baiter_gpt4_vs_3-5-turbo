@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_120",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  IMPORTANT INFORMATION: ",
+        "body": "  IMPORTANT INFORMATION: \nWe would like to inform you about the success of your found funds. All checks regarding your funds have been carried out here in United State and approval has been granted for the package to be sent to your home until we hear from you.\nHowever, your balance (Eight Million United State Dollars (USD) has been covered to an ATM card for easy transfer and has also been activated for use in your location at any bank or ATM outside of states and countries.\nSecondly, you will need to send the fee of USD200. 00  (USD), which covers the shipping/freight and declaration of origin of your package, to your home (). The fee will be paid through a GIFT CARDS for quick redeemed with the gift card you have to send it here here.\nHello beneficiary , where do you please transfer the payment of $200. 00 so that we can deliver your package? Once you have sent the fee, you can receive your belongings within a few hours.\nPlease note, as I said before, that this fee must be paid before declaration of origin of your package and shipping included. Please do not interfere and do not think in an orderly manner. It is the protocol that controls the publication of your package.\nPlease note that the customs authorities hold parcels at the customs offices for fourteen days and return them to the government after these days if the beneficiaries do not make any claims.\nI am patiently waiting to hear from you soon.\nBest regards,\nThe customs authorities\nAnderaschiko Keleinert Evelyn\nTel: +1 42223807 1    "
+    },
+    {
+        "from": "baiter_120",
+        "to": "scammer_120",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   IMPORTANT INFORMATION: ",
+        "body": "Hello! Thank you for reaching out to me with this information about my found funds. I appreciate the update on the status of my package and the activation of the ATM card for easy transfer.\n\nCould you please provide more details on how I can proceed with sending the fee for shipping freight and origin of the package? I would like to ensure a smooth delivery process. \n\nAlso, is there a specific deadline by which I need to send the fee in order to avoid any delays in receiving my belongings? \n\nLooking forward to your guidance on this matter. Thank you!\n\nBest wishes,\nBetty"
+    },
+    {
+        "from": "scammer_120",
+        "to": "baiter_120",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re:   IMPORTANT INFORMATION:",
+        "body": "IMPORTANT INFORMATION:\r\n\r\nI hope this email finds you well.\r\nThank you for your comprehensive update and explanation regarding your claim also request the payment information. I must say, that you're going to receive your atm.\r\n\r\nAs we move forward, I want to assure you that I am fully committed to seeing this through and doing all that is necessary to ensure a successful outcome. Rest assured, I will put my best foot forward and take the appropriate steps to settle everything as soon as the required fee has been confirmed.\r\n\r\nFurthermore, you are required to reconfirm the information.\r\n\r\n1) Your full name:======\r\n2) Phone number:=====\r\n3) Current address:======\r\n\r\nI am well aware of the laws and regulations governing financial transactions, and I assure you that I will handle this matter in a manner that complies with all legal requirements.\r\n\r\nI look forward to our continued cooperation, and I will keep you informed of any developments as we progress.\nBest regards,\r\nThe customs authorities\r\nAnderaschiko Keleinert Evelyn\r\nTel: +1 42223807 1"
+    },
+    {
+        "from": "baiter_120",
+        "to": "scammer_120",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03869212962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re:   IMPORTANT INFORMATION:",
+        "body": "Hello, thank you for your email. I appreciate the update on my claim and the assurance that I will receive my ATM card. Could you please provide more details about the required fee and how it needs to be confirmed? I would also like to know why my full name, phone number, and current address need to be reconfirmed. Looking forward to your response and further progress on this matter.\n\nBest wishes,\nBetty"
+    }
+]

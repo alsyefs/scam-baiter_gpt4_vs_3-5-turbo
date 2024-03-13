@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2440",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "ATTENTION",
+        "body": "ATTENTION\n \nThis is to notify you that your funds has been approved and was\ndeposited with TNT delivery company this morning for registration and\nwe agreed up that the delivery of Your $25,000,000.00,\n \ncontact with your full info where your funds will be delivered to,\n \n(1) Your Full Name....\n(2) Your Address......\n(3) Your Country......\n(4) Your City..........\n(5) Your Phone number....\n(6) Your Occupation..........\n(7) \nYour Copy of your ID or driver license\n.....\n \nUrgent get back to us today with your full address where your funds\nwill be delivered to because i will not be in the office next week,\n \nSINCERELY,\nDr George Lawrence\nEmail=tntcourierfastservice01@fastservice.com"
+    },
+    {
+        "from": "baiter_2440",
+        "to": "scammer_2440",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: ATTENTION",
+        "body": "Hello Dr. George Lawrence,\n\nThank you for your email and the information provided. It's great to hear that my funds have been approved and deposited with TNT delivery company.\n\nCould you please provide me with more details about these funds? I'm curious to know how this came about as it was quite unexpected. \n\nAlso, could you clarify what exactly is required from my end for the delivery of these funds? You mentioned some personal information but it seems like the list got cut off.\n\nLooking forward to hearing back from you soon.\n\nBest regards.\n\nBest wishes,\nPatrice"
+    }
+]

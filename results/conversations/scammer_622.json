@@ -1,0 +1,222 @@
+[
+    {
+        "from": "scammer_622",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello,",
+        "body": "Hello,\n \nThis is to acknowledge receipt of your letter of authorization to change the ownership of your Funds, your power of attorney has been received with Ref:023/024-133/NY.\n \nThe processing of the change of ownership has commenced, you should therefore advise Mary Hoefer to forward her telephone number and her payment receiving account details to:\n \nEmail: \ndouglasgoldberg6@gmail.com\n \nThanks,\nDouglas Goldberg"
+    },
+    {
+        "from": "baiter_622",
+        "to": "scammer_622",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello,",
+        "body": "Hello Douglas Goldberg,\n\nThank you for your prompt response. I'm glad to hear that the processing of the change of ownership has commenced. \n\nI'll be sure to pass on your message to Mary Hoefer. However, could you please clarify what specific account details she needs to provide? Also, is there a particular format or method she should use when sending this information?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nCarolyn"
+    },
+    {
+        "from": "scammer_622",
+        "to": "baiter_622",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Hello,",
+        "body": "Hi\r\n\r\nThe basic requirement from you at this juncture is to affirm if you\r\nactually authorized her to receive your Funds.\nThanks\r\n\r\nDouglas Goldberg\r\nIPCU"
+    },
+    {
+        "from": "baiter_622",
+        "to": "scammer_622",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.018217592592592594,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Hello,",
+        "body": "Hello Douglas Goldberg,\n\nThank you for reaching out. I'm not sure I understand what you're asking. Could you please clarify who \"her\" is that you're referring to? And what funds are we talking about here? \n\nLooking forward to your response.\n\nBest wishes,\nCarolyn"
+    },
+    {
+        "from": "scammer_622",
+        "to": "baiter_622",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.15101851851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Hello,",
+        "body": "Hi Carolyn,\r\n\r\nGood to read from you, Firstly I want you note that Mrs Carmen Lora Dima\r\nfrom Neveda and her husband who lived in UK prominently average\r\nhappy family, lost her husband according to the details available to me,\r\nduring her last moment on earth decided to will her wealth to charity but\r\ndecided to choose her inheritor via a means best known to her due to the\r\nfact that she lost her husband 11 years earlier before her demise.\r\n\r\nYour name was approved bz her as the legitimate next of kin to her wealth,\r\nHoefer claimed to have been authorised by you to apply for the approval of\r\nyour Funds, the application was followed and holistically honored until all\r\nthe paperwork was completed. Surprisingly doubt set in when she decided to\r\nprovide her personal account to receive your Funds.\r\n\r\nIt was at this stage that I personally decided to reach out to you to\r\nascertain if you indeed authorised her to receive your Funds.\r\n\r\nI need your response to enable me to make a decision on how to proceed. but\r\nif you did not authorise her we need to change the approval process and\r\nsecure this funds tyzour name to avoid further attempt to divert your\r\ninheritance.\nThanks\r\n\r\nDouglas Goldberg.\r\nIPCU:"
+    },
+    {
+        "from": "baiter_622",
+        "to": "scammer_622",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.16328703703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Hello,",
+        "body": "Hi Douglas,\n\nWow, that's quite a story! I'm surprised to hear about Mrs. Carmen Lora Dima and her decision. It's sad to hear about her loss though.\n\nAs for this Hoefer person, I don't recall authorizing anyone to apply for any funds on my behalf. Could you tell me more about how my name was approved by Mrs. Dima? And what kind of paperwork was completed?\n\nI'm also curious about the process of securing these funds under my name. How does that work exactly?\n\nLooking forward to your response.\n\nBest wishes,\nCarolyn"
+    },
+    {
+        "from": "scammer_622",
+        "to": "baiter_622",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.16972222222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Hello,",
+        "body": "Carolyn,\r\n\r\nI have handled similar transfer of Funds from individuals like Carmen Lora\r\nDima, its not new to me that was the reason i suspected the change of\r\nownership of the previous identity to a new one that prompted my quick\r\nresponse to that effect. More so, It is my duty to guide zou on the overall\r\nprocess to secure all relevant paperwork and guide through the process to\r\nsecure zour inheritance.\r\n\r\nI will also make available the details of Carmen Lora Dima, her pictures as\r\nwell as her death certificate and the inherittance worth and paperwork to\r\nhelp your process of reclaim.\r\n\r\nYou provide your telephone number.\r\n\r\nDouglas Goldberg\r\nIPCU\nThanks"
+    },
+    {
+        "from": "baiter_622",
+        "to": "scammer_622",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.18487268518518518,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Hello,",
+        "body": "Hello Douglas Goldberg,\n\nThank you for your quick response and for offering to guide me through this process. It's reassuring to know that you have experience with similar situations. \n\nI'm curious about Carmen Lora Dima, could you tell me more about her? How did she come into possession of these funds? And what happened that led to her death?\n\nAs for my telephone number, I prefer to keep our conversation here for now if that's okay with you. I find it easier to keep track of information this way.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nCarolyn"
+    },
+    {
+        "from": "scammer_622",
+        "to": "baiter_622",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.20413194444444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Hello,",
+        "body": "I am Mrs. Carmen Lora Dima from America but not in America now and right\r\nnow I am in a hospital. I and my husband were into Real Estate Business and\r\na Government Contractor before my husband's death on May 25 2014. We were\r\nmarried for 15 years without a child due to my fibroid problem. And since\r\nmy husband's death I have been diagnosed with cancer that I hardly move\r\naround.\r\n\r\nRecently, my Doctor told me that I would not last for the next 6 weeks\r\nbecause the cancer has gotten to a very bad stage. When my husband was\r\nalive he made a deposit of $10,5m USD. Knowing my condition I have decided\r\nto donate this money out for charity purposes. Beloved one Carolyn, I want\r\nto hand over this money to you, I want you to use at least 70% of this\r\nmoney to visit the orphanages homes, help the poor, sick ones in the\r\nhospital and woman with cancer then take the remaining amount to take care\r\nof your home because every worker deserves his wages.\r\n\r\nI took this decision because I don't have any child that will inherit this\r\nmoney, my relatives are not Good, they are selfish, they frustrated my\r\nmarriage life, because of a condition they turned their back on me thinking\r\nnothing good will come out from me since I am SICK AND\r\nCHILDLESS Moreover, my late husband vowed to use our last wealth to help\r\nthe less privileged since we have no child.\r\n\r\nWhoever gives to the poor lends to the lord and the lord will reward him\r\nfor what he has done, pray for my peaceful rest with the lord, when I am\r\ngone.\r\n\r\nThanks and be Blessed.\r\n\r\nMrs. Carmen Lora Dima\r\n\r\nTHIS WAS A MESSAGE FROM LORA BEFORE HER DEATH:"
+    },
+    {
+        "from": "baiter_622",
+        "to": "scammer_622",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.20479166666666668,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Hello,",
+        "body": "Hello Mrs. Carmen Lora Dima,\n\nI'm deeply moved by your story and I'm sorry to hear about your current health condition. It's truly admirable that you want to use your wealth for such noble causes.\n\nCould you please tell me more about the charity work you have in mind? Are there any specific orphanages or hospitals you wish this money to be donated to? Also, could you share more details about how this process will work?\n\nThank you for considering me for such a significant task. I look forward to hearing from you soon.\n\nBest wishes,\nCarolyn"
+    },
+    {
+        "from": "scammer_622",
+        "to": "baiter_622",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.2103935185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Hello,",
+        "body": "Carolyn\r\n\r\nThe previous message I sent was the last message from Lora Dima, she is\r\ndead and gone, the only legacy left of her is what you do with the wealth\r\nshe left in your hands, I so wish you would produently bring her dream to\r\nreality. I have vowed to do everything humanly possible to help you. I will\r\nbe forwarding the contact details of the financial institution where these\r\nfunds are deposited to commence the Funds reclaim process.\nThanks\r\n\r\nDouglas Goldberg\r\nIPCU"
+    },
+    {
+        "from": "baiter_622",
+        "to": "scammer_622",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.22635416666666666,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: Hello,",
+        "body": "Hello Douglas Goldberg,\n\nI'm sorry to hear about the passing of Lora Dima. It sounds like she was a very generous person. I appreciate your trust in me to carry out her wishes.\n\nCould you please provide more details about this wealth and the process of reclaiming it? I would also like to know more about the financial institution where these funds are deposited.\n\nThank you for your help in this matter.\n\nBest wishes,\nCarolyn"
+    },
+    {
+        "from": "scammer_622",
+        "to": "baiter_622",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.23142361111111112,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: Hello,",
+        "body": "Carolyn\r\n\r\nWill contact the Prudent Depository Ltd; the financial institution where\r\nthese funds are deposited to update them and shall inform the PDL\r\nofficially that you are willing to reclaim your Funds as the legitimate\r\nnext of kin to Lora Dima, I will be concluding on this tomorrow. As soon as\r\nthis is done, we shall commence the funds reclaim process accordingly.\nThanks\r\n\r\nDouglas Goldberg\r\nIPCU:"
+    },
+    {
+        "from": "baiter_622",
+        "to": "scammer_622",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2464236111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: Hello,",
+        "body": "Hello Douglas Goldberg,\n\nThank you for your message. It's quite surprising to hear about this situation with Lora Dima. I'm curious, how did you come across my contact information and why do you believe I am the next of kin? \n\nI'm also interested in understanding more about the process of reclaiming these funds. Could you please provide some more details?\n\nLooking forward to hearing from you.\n\nBest wishes,\nCarolyn"
+    },
+    {
+        "from": "scammer_622",
+        "to": "baiter_622",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.7246875,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: Hello,",
+        "body": "Carolyn\r\n\r\nThis to inform you officially that your name has been forwarded to the\r\nIJPFA for the processing of your payment approval, therefore you are\r\nrequested to forward your personal details as follows:\r\n\r\nA) Your address\r\nB) Telephone number\r\nC) Mothers name\r\nThe name of any one you intend to present as your Next Of Kin.\r\n\r\nForward the above details to:\r\n\r\nRick Christenson\r\ntac@ijpfa.com\r\n\r\nAs soon as the above details are received, the approval of this deposited\r\nFunds to your name will commence immediately.\nThanks\r\n\r\nDouglas Goldberg\r\nIPCU:"
+    },
+    {
+        "from": "baiter_622",
+        "to": "scammer_622",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7265046296296296,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: Hello,",
+        "body": "Hello Douglas Goldberg,\n\nWow, that sounds like quite an opportunity! I'm flattered that my name has been forwarded to the IJPFA. Could you tell me a bit more about what this organization does? And how did they come across my name?\n\nAs for the details you're asking for, I'm a little hesitant to share such personal information over email. Is there another way we could verify my identity?\n\nLooking forward to hearing from you.\n\nBest wishes,\nCarolyn"
+    },
+    {
+        "from": "baiter_622",
+        "to": "scammer_622",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7266435185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: Hello,",
+        "body": "Hello Douglas Goldberg,\n\nThank you for your message. It's quite exciting to hear about this opportunity! I'm curious, could you tell me more about what the IJPFA is? And how did my name get forwarded to them?\n\nAlso, I'd love to understand better how this process works. What will happen once my payment approval is processed? \n\nLooking forward to hearing from you.\n\nBest wishes,\nCarolyn"
+    },
+    {
+        "from": "scammer_622",
+        "to": "baiter_622",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.7347916666666666,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: Hello,",
+        "body": "The IJPFA means, International Joint Payment Facilitating Agency, its\r\nparamount duty is to supervise the process of the approval and release of\r\nyour Funds, my office is the coordinating body responsible for securing all\r\nrequired clearance documents to confirm the legitimacy of the origin of\r\nyour Funds. As soon as the on-going process is completed, the IPCU and\r\nthe IJPFA shall mandate the Prudent Depository Ltd, the financial\r\ninstitution that will be making the transfer of these Funds to your account.\r\n\r\nThe details is necessarily required to move further.\nThanks\r\n\r\nDouglas Goldberg\r\nIPCU."
+    },
+    {
+        "from": "baiter_622",
+        "to": "scammer_622",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7467824074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: Hello,",
+        "body": "Hello Douglas Goldberg,\n\nThank you for your detailed explanation about the IJPFA and IPCU. It's fascinating to learn about these processes. Could you please elaborate more on how these agencies work together to secure the clearance documents? And what role does Prudent Depository Ltd play in this process?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nCarolyn"
+    },
+    {
+        "from": "scammer_622",
+        "to": "baiter_622",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.819837962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: Hello,",
+        "body": "Carolyn,\r\n\r\nPrudent Depository Ltd (PDL), is the financial institution that will credit\r\nthe approved and secured funds by the IPCU and the IJPFA  to your account.\nThanks\r\n\r\nIPCU."
+    },
+    {
+        "from": "baiter_622",
+        "to": "scammer_622",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.8297337962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Re: Hello,",
+        "body": "Hello Carolyn,\n\nThank you for your message. It's interesting to hear about Prudent Depository Ltd PDL and their role in crediting approved and secured funds. I'm not very familiar with these financial terms, could you please explain a bit more about what IPCU and IJPFA are? And how does this process work exactly?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nCarolyn"
+    },
+    {
+        "from": "baiter_622",
+        "to": "scammer_622",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.8298842592592592,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: Hello,",
+        "body": "Hello Carolyn,\n\nThank you for your message. It's interesting to hear about Prudent Depository Ltd PDL and their role in crediting approved and secured funds. I'm curious, how does the process work with IPCU and IJPFA? Could you provide more details on this?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nCarolyn"
+    }
+]

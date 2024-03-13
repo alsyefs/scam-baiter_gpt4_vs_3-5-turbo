@@ -1,0 +1,192 @@
+[
+    {
+        "from": "scammer_1831",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "This is to inform you of a ver",
+        "body": "This is to inform you of a very important piece of information that will be of great help to redeem you from all the difficulties you have been experiencing in getting your long-overdue payment.\nI am Mrs. Mary Anderson, a highly-placed official of the International Monetary Fund (IMF). It may interest you to know that reports have reached our office through so many correspondences on the uneasy way in which people like you are treated by various banks and payment officials across Europe, Africa, Asia, and the USA. We have decided to put a stop to that. All government and non-government entities, NGOs, finance companies, banks, security companies, and courier companies that have been in contact with you of late have been instructed to back off from your transaction, and you have been advised not to respond to them anymore since the International Monetary Fund (IMF) is now directly in charge of your payment.\nYour name appeared in our payment schedule list of beneficiaries that will receive their funds in 2024. Your payment fund is USD 18.3 million; this also includes the generated interest so far.\nRe-confirm your full name, home address, and cell phone number.\nKindly get back to me for more detailed information.\nMrs. Mary Anderson\nDebt recovery department\nInternational Monetary Fund\nLondon, England."
+    },
+    {
+        "from": "baiter_1831",
+        "to": "scammer_1831",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: This is to inform you of a ver",
+        "body": "Hello Mrs. Mary Anderson,\n\nThank you for reaching out and sharing this information with me. It's quite interesting to hear about the Monetary Fund IMF and its efforts to streamline payments. I must say, it's a relief to know that there are organizations like yours working towards making things easier for people.\n\nI'm curious, how did my name appear on your payment schedule list? And could you please elaborate more on how this process works? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAlbert"
+    },
+    {
+        "from": "scammer_1831",
+        "to": "baiter_1831",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: This is to inform you of a ver",
+        "body": "Below are  the requirements to handle the  transfer of your funds of 18. 3\r\nmillion dollars.\r\n\r\nBank name\r\nBank address\r\nAccount number\r\nSwift code\r\nRouting number\r\nCell phone number\r\nName on the account\r\n\r\nWith this details the transaction will be completed\r\nTake note we are going to send you the wire transfer slip as soon as the\r\ntransfer is done and completed  the 18 million dollars won’t be credited\r\ninto your bank account till you pay the  total clearance fee and we are\r\ngoing to get a  Letter of agreement and guarantee from IMF to prove to you\r\nthat your funds will be credited  immediately into your nominated bank\r\naccount as soon as you take care of the fee .\r\n\r\nSend your receiving  Banking details to enable the Transfer to be done\r\ntoday and be rest assured that we are going to send you the Transfer slip\r\nas soon as the Transfer is done today .\r\n\r\nTotal clearance fee cost 2,800 USD Only ."
+    },
+    {
+        "from": "baiter_1831",
+        "to": "scammer_1831",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0002662037037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: This is to inform you of a ver",
+        "body": "Hello there,\n\nThank you for your message. It's quite exciting to hear about the transfer of such a large sum! I'm curious, though, how did this come about? I don't recall participating in any event or activity that would result in me receiving a million dollars.\n\nAlso, could you please explain more about the total clearance fee? What exactly does it cover and why is it necessary?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAlbert"
+    },
+    {
+        "from": "scammer_1831",
+        "to": "baiter_1831",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0033796296296296296,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: This is to inform you of a ver",
+        "body": "You  don't have  any options to accept the funds, all the required\r\ndocumentations will be send to you along with transfer slip as soon as the\r\nTransfer done congratulations to you kindly send the required details  to\r\nenable HSBC Bank of london to handle the Transfer this morning"
+    },
+    {
+        "from": "baiter_1831",
+        "to": "scammer_1831",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00375,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: This is to inform you of a ver",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm quite intrigued by this opportunity. Could you please provide more details about the transfer process? How does it work exactly? And what kind of information do you need from me?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nAlbert"
+    },
+    {
+        "from": "scammer_1831",
+        "to": "baiter_1831",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.004791666666666666,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: This is to inform you of a ver",
+        "body": "Below are  the requirements to handle the  transfer of your funds of 18. 3\r\nmillion dollars.\r\n\r\nBank name\r\nBank address\r\nAccount number\r\nSwift code\r\nRouting number\r\nCell phone number\r\nName on the account\r\n\r\nWith this details the transaction will be completed"
+    },
+    {
+        "from": "baiter_1831",
+        "to": "scammer_1831",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.005115740740740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: This is to inform you of a ver",
+        "body": "Hello there,\n\nThank you for sharing this information with me. It's quite interesting to learn about the process of transferring such a large amount of money. \n\nI'm curious, though, why is it necessary to have all these details? I mean, I understand the need for the bank name and address, but what are the purposes of the account number, swift code, and routing number? And why would you need my cell phone number?\n\nAlso, could you please explain what happens after all these details are provided? How long does it usually take for the transfer to be completed?\n\nLooking forward to your response!\n\nBest wishes,\nAlbert"
+    },
+    {
+        "from": "baiter_1831",
+        "to": "scammer_1831",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0052199074074074075,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: This is to inform you of a ver",
+        "body": "Hello there,\n\nThank you for sharing this information with me. It's quite interesting to learn about the process of transferring such a large amount of money. \n\nI'm curious, though, why is it necessary to have all these details? Could you explain a bit more about how each piece of information contributes to the transfer process?\n\nAlso, I've heard that different banks might require different information. Is that true? And if so, could you give me an example?\n\nLooking forward to your response!\n\nBest wishes,\nAlbert"
+    },
+    {
+        "from": "scammer_1831",
+        "to": "baiter_1831",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.01037037037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: This is to inform you of a ver",
+        "body": "Take Note  the paying Bank will not delay the Transfer\r\nhave it in mind that the transfer  will not take up to 1hour to take effect\r\n.\r\nTake note you are to pay the total clearance fee  after you receive the\r\nTransfer fee that will enable the paying Bank to post and credit your\r\naccount instantly and i have\r\ntold you that total clearance fee will cost you 2,800 USD Only also make\r\nthat money  available regarding the transfer funds be rest assured that we\r\ndon,t disappoint the transfer be done\r\nWithout the total clearance fee the funds will not be posted or be credited\r\ninto your Personal bank account kindly send the required details i listed\r\nto  enable us proceed"
+    },
+    {
+        "from": "baiter_1831",
+        "to": "scammer_1831",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.010752314814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: This is to inform you of a ver",
+        "body": "Hello there,\n\nThank you for your message. I'm really excited about this transfer! Just to clarify, the bank will not delay the transfer, correct? And it won't take too long to take effect?\n\nI understand that I need to pay a clearance fee after receiving the transfer fee. Could you please explain more about what this clearance fee is for? \n\nAlso, how much exactly in USD is the total clearance fee? You mentioned making money available regarding the transfer funds. Could you elaborate on that?\n\nI'm looking forward to hearing from you soon and proceeding with this process.\n\nBest regards.\n\nBest wishes,\nAlbert"
+    },
+    {
+        "from": "scammer_1831",
+        "to": "baiter_1831",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.017199074074074075,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: This is to inform you of a ver",
+        "body": "Your 1st line of the Email is very correct  the Bank will not delay the\r\nTransfer yes and it won,t take long all that are noted\r\nthe total clearance fee is 2,800 USD Only ..\r\n Understand below Line\r\n\r\nAs soon as the Paying makes the Transfer i will get the Transfer slip\r\nconfirmation and send to you to prove that the transfer has been done  and\r\nyou will not receive the 18.3 Million USD till you clear the required fee\r\nof 2,800 USD .\r\n\r\n*IF you don't clear  the total clearance fee the funds will not be credited\r\nor posted into your bank account , *\r\n*The funds will be posted and be credited as soon as you take care of the\r\nrequired fee of 2,800 USD Only .*"
+    },
+    {
+        "from": "scammer_1831",
+        "to": "baiter_1831",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.02564814814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: This is to inform you of a ver",
+        "body": "Your 1st line of the Email is very correct  the Bank will not delay the\r\nTransfer yes and it won,t take long all that are noted\r\nthe total clearance fee is 2,800 USD Only ..\r\n Understand below Line\r\n\r\nAs soon as the Paying makes the Transfer i will get the Transfer slip\r\nconfirmation and send to you to prove that the transfer has been done  and\r\nyou will not receive the 18.3 Million USD till you clear the required fee\r\nof 2,800 USD .\r\n\r\n*IF you don't clear  the total clearance fee the funds will not be credited\r\nor posted into your bank account , *\r\n*The funds will be posted and be credited as soon as you take care of the\r\nrequired fee of 2,800 USD Only *"
+    },
+    {
+        "from": "baiter_1831",
+        "to": "scammer_1831",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.026030092592592594,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: This is to inform you of a ver",
+        "body": "Hello,\n\nThank you for your detailed explanation. I appreciate the clarity you've provided regarding the transfer process and the clearance fee. \n\nI'm curious, could you please explain why there is a clearance fee? And how does it contribute to the transfer process? \n\nAlso, could you provide more information about this \"Transfer slip\"? What kind of details will it contain?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAlbert"
+    },
+    {
+        "from": "scammer_1831",
+        "to": "baiter_1831",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.02803240740740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: This is to inform you of a ver",
+        "body": "This may be my last email. I don't like to play ..\r\n\r\nTransfer slip is a proof of payment sent to you .\r\nTotal clearance is total clearance and the fee is 2,800 USD\r\nTake care"
+    },
+    {
+        "from": "baiter_1831",
+        "to": "scammer_1831",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.02872685185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: This is to inform you of a ver",
+        "body": "Hello,\n\nThank you for your email. I appreciate the information you've shared with me. Just to clarify, are you saying that the transfer slip is proof of payment? And when you mention total clearance, could you please explain a bit more about what that entails? \n\nI'm also curious about the fee in USD. Could you provide more details on what this fee is for and how it's calculated?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAlbert"
+    },
+    {
+        "from": "scammer_1831",
+        "to": "baiter_1831",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.029814814814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: This is to inform you of a ver",
+        "body": "Done playing .."
+    },
+    {
+        "from": "baiter_1831",
+        "to": "scammer_1831",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03019675925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: This is to inform you of a ver",
+        "body": "Hello there! I'm glad to hear that you're done playing. Can you tell me more about what you were playing? Was it a game or perhaps a sport?\n\nBest wishes,\nAlbert"
+    },
+    {
+        "from": "baiter_1831",
+        "to": "scammer_1831",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.040532407407407406,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: This is to inform you of a ver",
+        "body": "Hello,\n\nThank you for your detailed explanation. I understand that the transfer process requires a clearance fee to be paid upfront. However, I'm a bit confused about the exact amount of this fee. Could you please clarify how much in USD is required for the clearance?\n\nAlso, could you provide more information on how this process works? For example, once I pay the clearance fee, how long will it take for the funds to be credited into my account? \n\nI appreciate your assistance and look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAlbert"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1401",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " You have to open the online a",
+        "body": " You have to open the online account at Veridian Credit Union, so that the financier will provide the funds and also protect his funds    "
+    },
+    {
+        "from": "baiter_1401",
+        "to": "scammer_1401",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  You have to open the online a",
+        "body": "Hello there! Thank you for reaching out and sharing this information with me. I appreciate your suggestion about opening an online account at Veridian Credit Union. Can you please tell me more about how this process works and what benefits it offers? I'm curious to learn more before making any decisions.\n\nBest wishes,\nCyril"
+    },
+    {
+        "from": "scammer_1401",
+        "to": "baiter_1401",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: You have to open the online a",
+        "body": "Dear Cyril,\r\n\r\nThank you for contacting us. Please, we would like to know who referred you\r\nto us. Your urgent response would be appreciated.\nRegards,\r\n\r\nRuxtons"
+    },
+    {
+        "from": "baiter_1401",
+        "to": "scammer_1401",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3943171296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: You have to open the online a",
+        "body": "Dear Ruxtons,\nI apologize for any confusion, but I'm not sure who referred me to you. I came across your company while doing some research online. Can you please provide me with more information about your services? I'm interested in learning more.\n\nBest wishes,\nCyril"
+    }
+]

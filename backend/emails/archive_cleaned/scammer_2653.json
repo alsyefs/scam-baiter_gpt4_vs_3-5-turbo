@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2653",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   FROM THE DESK OF MR FOLASHO",
+        "body": "   FROM THE DESK OF MR FOLASHODUN ADEBISI SHONUBI\nNEW ACTING GOVERNOR,CENTRAL BANK OF NIGERIA\nADDRESS Plot 33, Abubakar Tafawa Balewa Way\nCentral Business District,\nCadastral Zone,\nAbuja, Federal Capital Territory,\nNigeria\nAttention Beneficiary\nit is my pleasure to have a good contact with you this day  to let you\nknow that you have been selected by the Federal Government to receive\nyour fund immediately via ATM as i write you this note, your ATM has\nbeen loaded to the sum of  Five Hundred Thousand Dollars.($500,000.00)\nSo you are hereby advise as a matter of urgency to reconfirm your\ncontact address for the immediate dispatch of your ATM which will be\nsent to you via Banker's courier and you shall recipe it within Three\nworking days( 3) of this notice. In the ATM you will have  a daily\nlimit of Ten Thousand Dollars a day\nReconfirm your contact address as soon as you receive this notice with\na copy of your identification card.\nWe look forward to hearing from you\nMr Folashodun  Adebisi Shonubi\nNEW ACTING GOVERNOR,CENTRAL BANK OF NIGERIA (CBN)  "
+    },
+    {
+        "from": "baiter_2653",
+        "to": "scammer_2653",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    FROM THE DESK OF MR FOLASHO",
+        "body": "Hello Mr. Folashodun Adebisi Shonubi,\n\nThank you for reaching out to me. I appreciate the opportunity to receive my funds through an ATM. However, before I proceed, I would like to ask a few questions to ensure everything is in order.\n\n1. How was I selected by the Federal Government to receive this fund? Is there a specific reason why I was chosen?\n\n2. Could you please provide more details about the process of receiving the ATM? How will it be delivered to me securely?\n\n3. Is there any documentation or paperwork that needs to be completed before the dispatch of the ATM?\n\nI look forward to your response and further instructions.\n\nBest wishes,\nNancy"
+    }
+]

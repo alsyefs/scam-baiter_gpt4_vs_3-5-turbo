@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1596",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello",
+        "body": "  Hello\nWe wish to urgently confirm from you if actually you know one Mrs. Gladys Frank  who claims to be your business associate / partner. Kindly reconfirm this application put in by Mrs. Gladys Frank - she submitted the under listed bank account information supposedly sent by you to receive the funds on your behalf.\nThe bank information she applied with are stated thus:\nAccount Name: Mrs. Gladys Frank\nBank name: Citi Bank NA\nBank address: #1230 Arch Street, Philadelphia, PA 19107, USA\nAccount Number: 013439887655\nRouting Number: 2771722\nSwift Code: CITIUS30\nThe said Mrs. Gladys Frank is claiming to this office that you are very sick laying in the hospital and have Instructed that all relevant documentation Information regarding your Payment be changed to her as the beneficiary of your payment.\nWe advise you contact the paying Bank with bellow information:\nMetro International Bank Of America\nTele: +19093785876\nmetrobk1@yahoo.com\nYour quick response will help us a lot.\nBest Regards,\nMr. Emma Odera\n+968487663   "
+    },
+    {
+        "from": "baiter_1596",
+        "to": "scammer_1596",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello",
+        "body": "Hello Mr. Emma Odera,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I don't recall having any business dealings with a Mrs. Gladys Frank. Could you please provide more details about the nature of the business she claims we are involved in? \n\nAlso, I'm not currently in the hospital or sick as she seems to have informed you. It's strange that she would say such a thing.\n\nI look forward to your response and clarification on this matter.\n\nBest wishes,\nJames"
+    }
+]

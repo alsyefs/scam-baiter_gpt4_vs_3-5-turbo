@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1078",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn:Beneficiary,",
+        "body": "Attn:Beneficiary,\nI am Mr. John Baker from the Office of Inspection Unit/United Nations Agency in John F. Kennedy International Airport New York USA. During my recent routine check at the Airport Storage/vault on withheld packages, I discovered an abandoned shipment that belongs to you from a Diplomat from London and Africa, when scanned it revealed an undisclosed sum of money in two Metal Trunk Boxes weighing approximately 25kg each and some people are coming after this consignment to clam it in your name.\nThe consignment was abandoned because the Contents was not properly declared by the consignee as ?MONEY? rather it was declared as personal effect to avoid interrogation and also the inability of the diplomat to pay for the INTERNATIONAL CONSIGNMENT MONEY MOVEMENT Charges Before bringing in the consignment into US and we refused to return back the consignment where it came from since, we have already received it here in USA.\nOn my assumption, each of the box contain not less than $5 Million to $5.5 Million and the consignment is still left in our Storage House here at the John F. Kennedy International Airport New York USA till date. \nThe details of the consignment including your name, your email address and the official document from the United Nations office in Geneva are tagged on the Metal Trunk boxes in your favor. But to enable me confirm if you are the actual recipient of this consignment, I will advise you to provide your current Phone Number and Full Address to enable me cross check if it corresponds with the address on the official documents including the Name of the nearest Airport around your city.\nPlease note that this consignment is supposed to have been returned to the United States Treasury Department as unclaimed delivery due to the delay in concluding the clearance processes. Therefore you are advice to respond to this message and call me immediately as you read. Once I receive your above requested information I can get everything concluded within 5 to 6 hours upon your acceptance and proceed to your address for delivery.\nBelow is my direct telephone number, I am always out of office for inspection, so if I am unable to pick your call you should know that I have gone for inspection just email me and make sure you include your mobile number so that I can give you a call, but for now I am expecting your call today as you read this message.\nRegards,\nMr.John Baker\nEMAIL:office20201224@gmail.com\nOffice of Inspection\nJFK International Airport New York, USA"
+    },
+    {
+        "from": "baiter_1078",
+        "to": "scammer_1078",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attn:Beneficiary,",
+        "body": "Hello Mr. Baker,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I had no idea about any shipment in my name, let alone from London and Africa. \n\nCould you please tell me more about the diplomat who was supposed to deliver these packages? And why were they declared as personal effects? It's all very intriguing.\n\nAlso, could you explain what the MONEY MOVEMENT Charges are? I'm not familiar with these terms.\n\nI appreciate your diligence in handling this matter and look forward to hearing more details.\n\nBest wishes,\nMelissa"
+    }
+]

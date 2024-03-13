@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_195",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Established in 1962",
+        "body": "Established in 1962\n, the ABC Altra Credit has become the premier universal bank and among the foremost financial institutions in the world.\nWith a history spanning more than 50 years, it aims to deliver meaningful banking at all times."
+    },
+    {
+        "from": "baiter_195",
+        "to": "scammer_195",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Established in 1962",
+        "body": "Hello there,\n\nWow, that sounds really impressive! ABC Altra Credit must have a lot of experience in the financial sector. Can you tell me more about the services they offer? And how do they ensure to deliver meaningful banking at all times?\n\nBest wishes,\nWendell"
+    }
+]

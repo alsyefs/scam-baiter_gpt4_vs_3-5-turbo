@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_344",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention,",
+        "body": "Attention,\nThis is to inform you that your funds valued of $10.5millions dollars\nhas been release and approve for transfer by Chase Bank New York and\nto faster this transaction for you to receive this approval fund, you\nare advised to contact us the Chase Bank with your information to\nenable us get your transaction done. Contact email (\ncb8224815@gmail.com\n )\nBest Regard\nMr Emmanuel Johnson."
+    },
+    {
+        "from": "baiter_344",
+        "to": "scammer_344",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attention,",
+        "body": "Hello Mr. Emmanuel Johnson,\n\nThank you for your message. It's quite exciting to hear about this fund release! I'm curious, how did this come about? Could you provide more details on the process and what it entails?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nWilliam"
+    }
+]

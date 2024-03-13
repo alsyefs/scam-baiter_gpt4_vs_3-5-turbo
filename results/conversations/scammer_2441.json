@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2441",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  From: Alterra Capital U.K Lt",
+        "body": "  From: Alterra Capital U.K Ltd\nDATE:  7th MARCH 2024\nDear Creditor / Claimant\nRe: YOUR OVERDUE PAYMENT / DEBT SETTLEMENT OFFER\nLet us settle your owed funds and long overdue awaited payment. We discovered an overdue outstanding payment in your benefit in the Global Bureau of Public Debt, The Global Debt Monitor.\nWe can save you all the stress and pay you upfront the total funds owed you and make our reclaim via His Majesty's Treasury Financial Services Compensation Scheme (HMTFSCS) from the IMF Foreign Debt & Relief Trust (FDRT).\nWe charge a deductible 1% of your total owed amount and the 99% balance paid you upfront, then we process and make our reclaim thereafter.\nThe 1% charge is the premium for buying our Insurance cover/package on your owed funds, therefore you will not need to make an upfront payment to us for the Insurance. Just do your payment accreditation and we pay you upfront from our Venture Capital.\nThis payment program essentially requires ONLY two key things namely;\n1) Insurance (to be activated & put in place by us Alterra Capital U.K Ltd).\n2) Information Accreditation (to be done by you the claimant/creditor at the embassy/consulate/high commission or FCDO)\nThese are to guarantee safe & secure settlements for all parties ie (your owed funds settlement by us and our reclaim of same from HMTFSCS).\nSimply indicate your interest and we shall process & resolve the outstanding debt owed you within 5 working days.\nFeel free to ask any questions for clarification.\nBest regards\nMr. Tobias Adrian\nChief Actuary, Alterra Capital U.K Ltd\nContact email: \ntobias_ad@yahoo.com\n "
+    },
+    {
+        "from": "baiter_2441",
+        "to": "scammer_2441",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   From: Alterra Capital U.K Lt",
+        "body": "Hello Mr. Tobias Adrian,\n\nThank you for reaching out and explaining the situation in such detail. It's quite intriguing to learn about this overdue payment that I wasn't aware of.\n\nI'm interested in understanding more about this process. Could you please elaborate on how the insurance cover package works? And what exactly does it mean to activate the insurance at the embassy consulate high commission or FCDO?\n\nAlso, could you provide a bit more information about Alterra Capital Ltd? I'd love to know more about your company and its operations.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nNita"
+    },
+    {
+        "from": "scammer_2441",
+        "to": "baiter_2441",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re:   From: Alterra Capital U.K Lt",
+        "body": "From: Alterra Capital U.K Ltd\r\n\r\nAttn: Nita \r\n\r\nSorry we apparently made a wrong contact.\r\n\r\nBest regards\r\n\r\n\r\nTobias Adrian\r\nChief Actuary, Alterra Capital U.K Ltd\r\nStaff I.D #: 237-92\r\n\r\nTelephone: +44 753 313 4474\r\nAlternative Email: info@alterracapitalc.com\r\n\r\n\r\nOffice/Correspondence address: 20 Fenchurch Street, London EC3M 3AZ, England"
+    },
+    {
+        "from": "baiter_2441",
+        "to": "scammer_2441",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.019224537037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re:   From: Alterra Capital U.K Lt",
+        "body": "Hello Tobias Adrian,\n\nI hope this message finds you well. I understand there may have been a mix-up in our communication. Could you please elaborate on the nature of the misunderstanding? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nNita"
+    }
+]

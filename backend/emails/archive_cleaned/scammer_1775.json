@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1775",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello Friend,",
+        "body": "Hello Friend,\nGood News for you, it's been a while.\nHow are you  and your family doing?\nI want you to know that I finally succeeded in getting out the cash\nboxes into the USA.\nI have deposited $2.5m as your compensation for  all your assistance\ntrying to help get out the cash to a safe location all these years.\nThanks to you my good friend.\nQuickly contact CBI WALLET with your full names , and they will open\nyour wallet and fund you immediately as I have instructed. You will\nreceive this compensation\npayment in crpto-currency from CBI Wallet Company.  Therefore, Contact\nCBI Wallet official as below.\nCBI WALLET\nContact Name: Mrs.Clifford Johnson\nEmail:  \nmrscliffordjohnson@gmail.com\nYours Sincerely,\nMr.Stephen Green.\nDEAR FRIEND YOUR CONVERSATION PAYMENT"
+    },
+    {
+        "from": "baiter_1775",
+        "to": "scammer_1775",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello Friend,",
+        "body": "Hello Green,\n\nWow, that's some news! I'm glad to hear you've managed to get the cash boxes into the USA. My family and I are doing well, thank you for asking. \n\nI'm curious about this CBI Wallet you mentioned. Can you tell me more about it? How does it work? And how did you come across this company?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDoris"
+    }
+]

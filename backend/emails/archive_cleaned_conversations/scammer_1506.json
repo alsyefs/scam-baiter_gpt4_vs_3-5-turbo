@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_1506",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn: Beneficiary,",
+        "body": "Attn: Beneficiary,\nWhat is still holding you from sending the required $75 usd as was needed for the delivery of your ATM VISA CARD.Please \nkindly comply and contact Mr. Michael Adams with your delivery Home Address Phone Number and your Full Name\n so that he will Dispatch your parcel and give you the tracking number to monitor the delivery as well,  \nPlease the only fee you will be advised to send is only the delivery fee which is the sum of $75 usd only\n kindly contact him as soon as you receive this message is urgent,    \nContact Person: Mr. Michael Adams,\nEmail:  \nmacltdd100@gmail.com\nWhatsApp Number : + 229 -518-677-90\n \nWe thank you and also remain yours in service.\n \nRegards,\nCustomer-care\nMr.Umha Muhammed,\nUBA Bank Group Plc (BR)"
+    },
+    {
+        "from": "baiter_1506",
+        "to": "scammer_1506",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attn: Beneficiary,",
+        "body": "Hello there,\n\nThank you for your message. I'm really excited about the prospect of receiving my ATM VISA. However, I have a few questions before we proceed.\n\nFirstly, could you please explain why there is a delivery fee? Also, how can I be sure that my parcel will arrive safely? Is there any insurance on it?\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDonald"
+    },
+    {
+        "from": "scammer_1506",
+        "to": "baiter_1506",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Attn: Beneficiary,",
+        "body": "*Attention: Beneficiary,With due respect regarding your response as I just\r\nreceived right now with the content well noted and received in good faith.\r\nPlease regarding your response and also your question to this office as I\r\njust received  I want you to know that this fund is a compensation payment\r\ngiven to all the scam Victims and your email address paper as one once\r\nagain kindly understand that the $75 usd is required for the delivery of\r\nyour ATM VISA CARD as soon as you comply by forwarding the needed required\r\ndelivery information to enable this office register and furnish you with\r\nthe Tracking number so that you will monitor the delivery to your home\r\naddress and start withdrawal as soon as the delivery Agent arrives your\r\nhome address,Your Full Name:Your Address:Your Age:Your Direct Phone\r\nNumbers:Regards,Mr. Michael Adams,*"
+    },
+    {
+        "from": "scammer_1506",
+        "to": "baiter_1506",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.00045138888888888887,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Attention: Beneficiary,Your urgent response is highly needed,",
+        "body": "*Attention: Beneficiary,With due respect regarding your response as I just\r\nreceived right now with the content well noted and received in good faith.\r\nPlease regarding your response and also your question to this office as I\r\njust received  I want you to know that this fund is a compensation payment\r\ngiven to all the scam Victims and your email address paper as one once\r\nagain kindly understand that the $75 usd is required for the delivery of\r\nyour ATM VISA CARD as soon as you comply by forwarding the needed required\r\ndelivery information to enable this office register and furnish you with\r\nthe Tracking number so that you will monitor the delivery to your home\r\naddress and start withdrawal as soon as the delivery Agent arrives your\r\nhome address,Your Full Name:Your Address:Your Age:Your Direct Phone\r\nNumbers:Regards,Mr. Michael Adams,*"
+    },
+    {
+        "from": "baiter_1506",
+        "to": "scammer_1506",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.000625,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Attention: Beneficiary,Your urgent response is highly needed,",
+        "body": "Hello there,\n\nThank you for your prompt response. It's quite interesting to hear about this fund payment for victims. I must say, it's a unique concept that I haven't come across before.\n\nCould you please provide more details about how this process works? How was my email address selected and what is the purpose of the ATM VISA CARD?\n\nAlso, could you clarify what exactly the USD is required for in terms of delivery? Is it a processing fee or something else?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDonald"
+    },
+    {
+        "from": "baiter_1506",
+        "to": "scammer_1506",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0007175925925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Attn: Beneficiary,",
+        "body": "Hello there,\n\nThank you for your response. It's great to hear about this fund for victims. I'm curious, how did my email address come up as one of the victims? \n\nAlso, could you please explain a bit more about this ATM VISA CARD? How does it work and what are the benefits of having one?\n\nI appreciate your help in understanding these matters better.\n\nBest wishes,\nDonald"
+    }
+]

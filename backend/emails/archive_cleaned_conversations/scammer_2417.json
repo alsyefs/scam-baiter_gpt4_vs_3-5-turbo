@@ -1,0 +1,122 @@
+[
+    {
+        "from": "scammer_2417",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello",
+        "body": "Hello\nCompliments of the season. How are you and your family? I have an acute financial business proposal that will be very beneficial to you, it is a huge investment moment in your country.\nPlease let me know if you are  interested.\nVladimir Boatic\nReply to: \ntechnocontractors@gmail.com"
+    },
+    {
+        "from": "baiter_2417",
+        "to": "scammer_2417",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello",
+        "body": "Hello Vladimir Boatic,\n\nIt's a pleasure to meet you. I hope you and your family are doing well too. Your proposal sounds interesting, could you please provide more details about it? What kind of investment are we talking about? And why do you think my country would be a good fit for this?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nGeorge"
+    },
+    {
+        "from": "scammer_2417",
+        "to": "baiter_2417",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Hello",
+        "body": "Dear George,\r\n\r\nI want to first express my gratitude for your prompt response. Once again,\r\nmy name is Vladimir Baotic, relative to the president of Russia, Vladimir\r\nPutin.\r\nI am an oil merchant trading within Europe and Africa markets in the area\r\nof supplying refined products from Russia. Due to the ongoing Ukrainian\r\ninvasion by Russia,\r\nThe international community has sanctioned Russia and blocked all\r\ninternational swift transfer to other Countries. As a result of the swift\r\nsanction, it has become impossible to transfer money out of Russia to any\r\nother Country. I therefore withdrew a large sum of money (US$30Million)\r\nfrom our various bank accounts, and moved the money out of Russia for\r\nsafety purposes. Currently the money has been safely deposited in a private\r\nFinancial/security company in the United Arab Emirates.\r\n\r\nPutin has placed an embargo on all Russian veterans from traveling out of\r\nthe Country, as a veteran, I am not able to travel out to claim the money,\r\nhence I am\r\nsoliciting your cooperation to stand as my business partner to receive the\r\nmoney from the Financial/security company on my behalf. There is a\r\nFinancial Consultant who is well known to my family and I have contacted\r\nhim on this matter, so he will direct you on what to do to receive the\r\nmoney on my behalf.\r\n\r\nPlease Send your information which I will forward to the consultant so that\r\nwhen you contact him, he will know you are the right person that will work\r\nwith him.\r\n\r\nMost importantly I need you to please furnish me with areas of lucrative\r\ninvestment in your country and especially an area where you have vast\r\nexperience.\r\n\r\nNOTE: For your participation in this transaction, you will be compensated\r\nwith 20% of the total fund while you will invest the 80% for my Family. We\r\nhave agreed with the Consultant that his fee will be paid after his work is\r\ncompleted but the Consultant informed me that there are normally some legal\r\ndocuments to be prepared to enable you to claim the deposit from the\r\nFinancial House.\r\n\r\nRequired information:\r\n\r\n1. Your full names and address as stated in your international Passport\r\n\r\n2. Your private phone number\r\n\r\n3. Your Occupation\r\n\r\n4. A copy of your identification\r\n\r\nOn receipt of your information, I will forward the information to the\r\nConsultant to draft a memorandum of understanding(MOU) and he will be\r\ncommunicating directly with you to send you a draft copy of memorandum of\r\nunderstanding for your perusal before we proceed..\r\n\r\nAwaiting your urgent reply\nBest Regards\r\nVladimir Boatic"
+    },
+    {
+        "from": "baiter_2417",
+        "to": "scammer_2417",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.02900462962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Hello",
+        "body": "Hello Vladimir Boatic,\n\nThank you for reaching out and sharing this information with me. It sounds like a complex situation you're in, and I'm sorry to hear about the difficulties you're facing due to the current political climate.\n\nI must admit, I'm not very familiar with international finance or the intricacies of oil trading. However, I am always open to learning new things and helping where I can. \n\nYou mentioned a financial consultant who is well known to your family. Could you tell me more about him? What's his name? How long has he been working in this field?\n\nAs for lucrative investments in my country, I believe real estate and technology startups are quite promising at the moment. But again, I'm no expert in these matters.\n\nRegarding your request for personal details, I hope you understand that it's important for me to maintain my privacy online. Is there another way we could proceed without sharing such sensitive information?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nGeorge"
+    },
+    {
+        "from": "baiter_2417",
+        "to": "scammer_2417",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03011574074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Hello",
+        "body": "Hello Vladimir Boatic,\n\nThank you for reaching out to me and sharing this information. It sounds like a challenging situation you're in, and I'm glad to hear that the funds are safe in the United Arab Emirates.\n\nI'm curious about how you found my contact information and why you chose me as your potential business partner. Could you please share more details about this?\n\nAlso, could you provide more information about the Financial Consultant? What is his name and what company does he work for? \n\nAs for investment opportunities, there are many sectors that could be profitable. However, it would be helpful if I knew more about your interests or any specific areas you're looking into.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nGeorge"
+    },
+    {
+        "from": "baiter_2417",
+        "to": "scammer_2417",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.07034722222222223,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Hello",
+        "body": "Hello Vladimir Boatic,\n\nThank you for reaching out and explaining your situation. It sounds like a complex and challenging circumstance you're in. I'm sorry to hear about the difficulties you're facing due to the sanctions on Russia.\n\nI must admit, I'm not very familiar with international finance or the legalities involved in such transactions. However, I am always open to learning new things and helping where I can.\n\nCould you please provide more information about this process? What exactly does it entail? And how would my involvement benefit both of us?\n\nAlso, could you tell me more about this Financial Consultant? How long have they been working with your family? \n\nAs for investment opportunities, there are many sectors that could be profitable. Real estate, technology, healthcare, and renewable energy are all booming industries right now. But again, I'd need more details about your preferences and risk tolerance before making any specific recommendations.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nGeorge"
+    },
+    {
+        "from": "baiter_2417",
+        "to": "scammer_2417",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.19552083333333334,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Hello",
+        "body": "Hello Vladimir Boatic,\n\nThank you for reaching out to me and sharing this information. It sounds like a challenging situation you're in, and I'm glad to hear that you've found a way to keep your funds safe.\n\nI must admit, I'm not very familiar with the intricacies of international finance or the legalities involved in such transactions. However, I am interested in learning more about it. Could you perhaps explain a bit more about how this process works? \n\nAlso, could you tell me more about the role of the Financial Consultant? What kind of experience does he have in these matters? And what exactly would my responsibilities be as your business partner?\n\nAs for investment opportunities, there are many sectors that could be profitable. Real estate is always a good option, as well as technology startups or renewable energy projects. But again, I'm no expert and it would probably be best to consult with a professional financial advisor.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nGeorge"
+    },
+    {
+        "from": "baiter_2417",
+        "to": "scammer_2417",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2370949074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Hello",
+        "body": "Hello Vladimir Boatic,\n\nThank you for reaching out and explaining your situation. It sounds like a complex and challenging circumstance you're in. I'm sorry to hear about the difficulties you're facing due to the sanctions on Russia.\n\nI must admit, I'm not very familiar with international finance or business investments, but I'm always eager to learn new things. Could you perhaps explain more about how this process works? What does it mean to stand as a business partner in this context?\n\nAlso, could you tell me more about the Financial Consultant? How long have they been working with your family? And what kind of legal documents are usually required for such transactions?\n\nAs for investment opportunities, I think it would be best if we discuss that further once we understand each other better. \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nGeorge"
+    },
+    {
+        "from": "scammer_2417",
+        "to": "baiter_2417",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.1102430555555554,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Hello",
+        "body": "Dear Mr. George,\r\n\r\nThank you for your response to my mail of financial business proposal. I\r\nwant you to please understand that my intention is to get a trusted and\r\nhonest individual or company who will act as my partner in receiving huge\r\nfunds of money for future investment in a lucrative business in your\r\ncountry.\r\n\r\nI quite understand that we may not have met before or done business\r\ntogether before now; I got your details after a brief search through the\r\ninternet after the sudden predicament  we found ourselves in our country.\r\nThere will be legal documentations to back up the movement of funds.\r\n\r\nI am relying on the consultant whom I have discussed with and since the fud\r\nis in safe deposit in UAE, we can proceed in confidentiality to process and\r\nprocure the movement of fund into your nominated account in your country\r\nafter we have communicated in detail and sign a memorandum of\r\nunderstanding to enable us work together in all honesty.\r\n\r\nYou mentioned real estate which I also know has become a world business\r\nphenomenon; I quite agree that we should look towards real estate\r\nand invest the fund in it. Can you handle a financial business investment\r\nof a huge sum as 30 million United States dollars without problems in your\r\ncountry? Please let me know your position and send me the details I\r\nrequested in my last mail to you.\r\n\r\nMy kind regards and greetings to your family.\r\n\r\nVladimir."
+    },
+    {
+        "from": "baiter_2417",
+        "to": "scammer_2417",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.1118402777777776,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Hello",
+        "body": "Hello Vladimir,\n\nThank you for your detailed response. It's quite an interesting proposal you have there. I'm glad to hear that there will be legal measures in place to ensure the smooth movement of funds.\n\nI must admit, I'm not very familiar with these types of transactions, but I'm eager to learn more about it. Could you perhaps explain a bit more about how this process works? How does the fund move from UAE to my country?\n\nAlso, regarding the real estate investment, could you provide some insights on what kind of properties we should be looking at? Are there any specific areas or types of real estate that would yield better returns?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nGeorge"
+    },
+    {
+        "from": "scammer_2417",
+        "to": "baiter_2417",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.086921296296296,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Hello",
+        "body": "Dear George,\r\n\r\nI received your mail and I believe at this point you should please furnish\r\nme with the details I earlier requested for; in order for us to proceed\r\nwith the financial business transaction.\r\n\r\nYour full names\r\nYour complete address\r\nOccupation\r\nCopy of your international passport or identification card\r\nYour direct or private telephone number\r\n\nThanks and regards to your family.\r\n\r\nVladimir"
+    },
+    {
+        "from": "baiter_2417",
+        "to": "scammer_2417",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.1119328703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: Hello",
+        "body": "Hello Vladimir,\n\nThank you for your email. I'm excited to learn more about this financial business opportunity. Could you please provide me with more details about it? What exactly does it entail and how can I contribute?\n\nAs for the information you requested, I must apologize but I am not comfortable sharing such personal details over email. Is there another way we could verify my identity that doesn't involve sharing sensitive information?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nGeorge"
+    }
+]

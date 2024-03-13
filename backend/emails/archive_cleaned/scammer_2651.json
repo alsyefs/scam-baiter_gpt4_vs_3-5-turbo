@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2651",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   CHARLES PLUMBER SOLICITORS ",
+        "body": "   CHARLES PLUMBER SOLICITORS UK®   \n       BERKELEY SQUARE HOUSE, LONDON W2J 8BD.\n  TELEPHONE NUMBER: +44-7700000-713.\n EMAIL: \nwishpersman@gmail.com\n \nAttention of : \nDear Madam,\nYour statements seem ambiguous because your actions and characters might have indicated.\nWith due respect you are the only beneficiary who has been advised concerning the facilitator and no one else so how did it leak?.\nI won't write much other than advise you to always maintain secrecy and avoid  the public. If you are in doubt you should have contacted him first and inquired from him and not through a third party unethical and unacceptable.\nFor now your slot remains  suspended for failure to adhere to information given earlier probably after further investigation you might be contacted.\nHave a nice day.\n \nYours Sincerely, \nCHARLES PLUMBER, ESQ\nEmail: \nwishpersman@gmail.com\nTelephone number: +44-7700000-713  "
+    },
+    {
+        "from": "baiter_2651",
+        "to": "scammer_2651",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    CHARLES PLUMBER SOLICITORS ",
+        "body": "Hello Charles Plumber, ESQ,\n\nThank you for your message. I must admit, I'm a bit confused by some of the details. Could you please clarify what you mean by my slot being suspended? And what was the advice given earlier that I apparently failed to adhere to?\n\nI assure you, I have no intention of sharing any sensitive information publicly. My aim is simply to understand the situation better.\n\nLooking forward to your response.\n\nBest wishes,\nDonna"
+    }
+]

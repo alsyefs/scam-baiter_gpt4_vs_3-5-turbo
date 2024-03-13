@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1688",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn:Beneficiary.",
+        "body": "Attn:Beneficiary.\nScammed Victim.\nThis is to inform you that the United State Government and the United Nations [UN] is compensating all the scammed victims Five Million United States Dollars(US$5,000,000.00). Your name and email address was mentioned to the United States Secret Service by one of the Scammers who was arrested. Meanwhile this Compensation department has been mandated by the IMF and the United Nations to transfer your compensation funds to you through ATM Visa card Payment which is 100% Guarantee for payment to you as one of the scammed victims.\nFurthermore we advise you to stop any further communication with any other person(s) or office(s) concerning any transaction that you might have lost your hard earned money to avoid losing more money to other group of scammers who are on the FBI wanted list and they are still on the run and for this reason we want to warn you not to communicate or duplicate this message to anyone for any reason whatsoever as the United States Secret Services are already on the trace for the other criminals.\nYou are hereby advised to contact this honorable Office with your Full details such as name,phone number, country Age, address,DOB  to receive your Compensation without further delay on this email Anticipating your urgent cooperation in order to receive your payment.\nDo not doubt this letter or disregard as we are ready to give you attention until you receive your unbelievable  compensation fund.\nThank You and Regards.\nMr.Albert Morten.\nFUNDS PAYMENT IS READY."
+    },
+    {
+        "from": "baiter_1688",
+        "to": "scammer_1688",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attn:Beneficiary.",
+        "body": "Hello Morten,\n\nWow, this is quite surprising news! I can't believe my name and email were mentioned by a scammer. It's really reassuring to know that the United States Government and the United Nations are looking out for people like me.\n\nI'm curious though, how did you manage to get hold of these scammers? And how did they have my information in the first place? \n\nAlso, could you please explain more about this ATM Visa card Payment method? I've never heard of it before. Is it safe and secure?\n\nLooking forward to your response.\n\nBest wishes,\nSherman"
+    }
+]

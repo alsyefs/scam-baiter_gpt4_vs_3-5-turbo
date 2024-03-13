@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1705",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "This is Mr. David Luckson from",
+        "body": "This is Mr. David Luckson from the JP Morgan chase international Bank\nin New York, Am please to inform you that the Ministry OF Foreign\nAffairs from Benin Republic deposited a total sum of,$8.500, 000.00\nMillion USD as a compensation to be send to you into your\naccount.\nPlease kindly comply us with by reply to my email with your\nName,email,home address,and Bank Account information where you want us\nto transfers this fund for you from our office today.\nWaiting urgently for your email reply for the transaction of this fund\ninto your account today.\nYou are advise to contact Mr. David Luckson e-mail with your full\ninformation.such as\nYour name........................\nYour country......................\nYour phone number.........\nYour address.....................\nYour Occupation................\nFor more information contact Mr.David Luckson immediately you receive\nthis email. call or text him +1(205) 614-3493),Email\n(\nmrdavidluckson@gmail.com\n)\nBest Regard\nMr David Luckson\nInternational Payment Approval JP Morgan chase international Bank in New York.\n+1(205) 614-3493)"
+    },
+    {
+        "from": "baiter_1705",
+        "to": "scammer_1705",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: This is Mr. David Luckson from",
+        "body": "Hello Mr. David Luckson,\n\nThank you for reaching out to me. I hope you are doing well. I received your email regarding the Ministry of Foreign Affairs from Benin Republic depositing a large sum of money into my account. This sounds quite interesting, but I would like to know more details before proceeding.\n\nCould you please provide me with some additional information? Specifically, I would like to know how this opportunity came about and what steps need to be taken in order for the funds to be transferred into my account. Additionally, are there any fees or charges associated with this transaction?\n\nI appreciate your prompt response and look forward to hearing back from you soon.\n\nBest wishes,\nJeff"
+    }
+]

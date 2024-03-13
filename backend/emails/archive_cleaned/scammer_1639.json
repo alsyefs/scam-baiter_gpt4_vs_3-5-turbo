@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1639",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "I am Mr. Diao Mingsheng, Ambas",
+        "body": "I am Mr. Diao Mingsheng, Ambassador of China to the USA, We were on ECOWAS at our last meeting and I was searching for some packages that were left unclaimed and found out that you have not received your package,and I asked DR. BRYON DOUGLAS the Director at DHL said that you have not received your package and he said that you refused to pay the $50 dollars keeping fee.\nI'm contacting you now because DR. BRYON DOUGLAS the Director at DHL said that\n they will divert your Package to the Government Treasury just because that you can not pay for their keeping fee of your package which is $50 only. \nBut I told them to wait until I hear from you today so that I will know the reason why you rejected your $5.8M dollars which will change your life just because of $50 you can go to any apple office to buy iTunes card or steam wallet to send immediately\nI want your urgent response as soon as you receive this email and explain to me the reason why you have abandoned your package because of $50 But \nif you don't need it, I can change your name to another person so that this Government will not claim this money,\n but I know that you will love to have it. Please my dear I want to help you to receive this fund because it was a big shock to me that you have not received your package since years now and I’m very sorry for that and you will receive your package before the end of this meeting which will take us 4days and I will be here to monitor it until you receive your package.\nYOUR FULL NAME...................\nYOUR COUNTRY.....................\nYOUR HOME ADDRESS..............\nYOUR DIRECT PHONE................\nI will be waiting to hear from you soon to know your mind about this issue and very urgently to avoid expiration,  \nRegards\nEmail:mingshengambassador@gmail.com\nDiao Mingsheng\nAmbassador of China to USA"
+    },
+    {
+        "from": "baiter_1639",
+        "to": "scammer_1639",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: I am Mr. Diao Mingsheng, Ambas",
+        "body": "Dear Mr. Diao Mingsheng,\n\nThank you for reaching out to me regarding this package. I must admit, I am a bit confused about the details you mentioned. Could you please provide me with more information about the package and why it has not been delivered to me?\n\nI also have some concerns about the \"keeping fee\" that you mentioned. Could you clarify what this fee is for and why it is necessary? I want to make sure I fully understand the situation before making any decisions.\n\nAdditionally, could you please explain how changing my name to another person would prevent the government from claiming the money? I'm not sure I understand how that would work.\n\nI appreciate your assistance in resolving this matter and look forward to hearing back from you soon.\n\nBest wishes,\nMarc"
+    }
+]

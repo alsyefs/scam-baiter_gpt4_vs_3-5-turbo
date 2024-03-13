@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2427",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "HELLO DEAR,",
+        "body": "HELLO DEAR,\nI'M MISS THEREZA KWAME  FROM EASTERN REGION IN REPUBLIC OF GHANA. I'M 22\nYEARS OLD GIRL AN ORPHAN, AS A RESULT OF NOT HAVING PARENTS, MY UNCLES\nARE\nTHREATENING TO KILL ME BECAUSE OF THE INHERITANCE MY FATHER LEFT FOR ME.\nPLEASE, I NEED YOUR SINCERE HELP. I HAVE ($ 10,000,000.00\nUNITED STATES DOLLARS ) TEN MILLION US DOLLARS WHICH I INHERITED FROM MY\nLATE FATHER, BUT HE DEPOSITED THE FUNDS INTO A FIXED / SUSPENSE ACCOUNT\nIN\nONE OF THE PRIME BANK HERE IN ACCRA GHANA, IN AGREEMENT WITH THE BANK TO\nTRANSFER THE FUND TO A FOREIGN BANK ACCOUNT FOR INVESTMENT OVERSEAS, BUT\nHE\nDIED WITHOUT TRANSFERRING THE FUND.\nMY FATHER USED MY NAME AS HER ONLY DAUGHTER FOR THE NEXT OF KIN WHEN HE\nDEPOSITED THE FUND AND THE FUND CAN ONLY BE TRANSFERRED TO A FOREIGN\nBANK\nACCOUNT.\nALL I NEED IS YOUR HONESTY AS MY FOREIGN GUIDANCE, AND TO HELP ME INVEST\nTHE FUND, AND ALSO HELP ME TO FURTHER MY EDUCATION IN YOUR COUNTRY.\nPLEASE IF YOU FULLY ACCEPT TO HELP ME TOWARDS THIS PURPOSE, KINDLY\nINDICATE\nYOUR INTEREST BY WRITING ME BACK, THEN I WILL PROVIDE YOU WITH THE\nNEEDFUL\nINFORMATION ON HOW TO PROCEED, I WILL GIVE YOU 20% OF THE TOTAL FUND FOR\nYOUR HELP, AFTER THE TRANSFER. THANK YOU FOR YOUR CONCERN.\nPLEASE REPLY TO MY DIRECT EMAIL: \ntherezakwame@gmail.com\nYOURS,\nTHEREZA KWAME."
+    },
+    {
+        "from": "baiter_2427",
+        "to": "scammer_2427",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: HELLO DEAR,",
+        "body": "Hello Thereza,\n\nThank you for reaching out to me. I'm sorry to hear about your difficult situation. I would be happy to help you in any way that I can. Could you please provide me with more details about the funds and how we can proceed?\n\nBest wishes,\nTroy"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_894",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention",
+        "body": "Attention\nPlease get back to me immediately. Someone is here in our office with a power of attorney that said he should claim your money.\nKindly update this office if you authorized him to claim your fund on your behalf. We will inform you on your response on how you will receive your payment if you did not authorize him to claim your fund but if you are the one who authorized him then return this mail with the copy of the Power Of Attorney (POA) to enable us release the fund to him.\nAs soon as we hear from you that you did not authorize him then our International Remittance Dept will contact you for the transfer Note and if you still wish to receive your funds do get back to us immediately so that we will remove your funds transfer from the list of those transactions to be seized by the United States Government.\nNB YOU ARE TO STOP COMMUNICATING WITH ANYONE ELSE BUT ME FOR THE SAFETY OF YOUR FUNDS\nKindly fill this information to confirm your profile so that i can send it to the bank to process your payment\n1. Full Name\n2. Contact Address:\n3. Country:\n4. Age:\n5. Phone:\n6. Occupation:\n \nYours Faithfully\nFrank Lee"
+    },
+    {
+        "from": "baiter_894",
+        "to": "scammer_894",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attention",
+        "body": "Hello Frank Lee,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I don't recall authorizing anyone to claim any funds on my behalf. Could you please provide more details about this person and the fund in question? \n\nI'm also curious about how my name came up in your records. Can you share more information about that as well?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJoshua"
+    },
+    {
+        "from": "scammer_894",
+        "to": "baiter_894",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Attention",
+        "body": "Attention\r\n\r\nI know that you will be wondering about the history of the funds that Mr.\r\nGary Raymond is trying to Claim you were part of an online random lottery\r\nand you emerged as one of the three winners and Mr. Gary Raymond got to\r\nknow about this and wanted to claim the winnings so you have to be careful\r\nand keep this to yourself\r\n\r\nSo We are happy to inform you that you have emerged a winner under the\r\nFirst Category, which is part of our promotional draws. Participants were\r\nselected through a computer ballot system drawn from 2,500,000 email\r\naddresses of individuals and companies from Africa, America, Asia,\r\nAustralia, Europe, the Middle East, and Oceania as part of our\r\nInternational Promotions Program. I know that you are surprised as you\r\ndidn't register for any lottery but email addresses were collated from the\r\ninternet randomly and yours was amongst so congratulations bear in mind\r\nthat you didn't play the lottery but your email address was amongst those\r\nrandomly chosen.\r\n\r\nYour email address  attached to ticket number 50941465206-529, with serial\r\nnumber 5772-54 drew the lucky numbers 3-4-17-28-35-44 and consequently won\r\nin the First Category. You have therefore been awarded a lump sum payout of\r\nSeven Million five hundred thousand united states dollars  7, 500.000 which\r\nis the winning payout for Category A winners\r\n\r\nYour fund is now deposited with the paying Bank. In your best interest to\r\navoid a mix-up of numbers and names of any kind, we request that you keep\r\nthe entire details of your award strictly from public notice until the\r\nprocess of transferring your claims has been completed, and your funds\r\nremitted to your account. This is part of our security protocol to avoid\r\ndouble claiming or unscrupulous acts by participants/non participants of\r\nthis program.\r\n\r\n\r\nKindly fill this information to confirmed your profile so that i can send\r\nit to the bank to process your payment\r\n\r\n1. Full Name:\r\n\r\n2. Contact Address:\r\n\r\n3. Country:\r\n\r\n4. Age:\r\n\r\n5. Phone:\r\n\r\n6. Occupation:\r\n\r\n\r\nSo send me the above-requested details so that I will forward them to the\r\nbank where your funds have been deposited and once they receive them they\r\nwill contact you directly and give you the guidelines and procedures on how\r\nto go about claiming your funds. Please confirm receipt of this email and\r\nyour willingness to get your winnings .\r\n\r\nYours faithfully\r\n\r\nFrank Lee\r\nReplyForward\r\nAdd reaction"
+    },
+    {
+        "from": "baiter_894",
+        "to": "scammer_894",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.964756944444445,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Attention",
+        "body": "Hello Frank Lee,\n\nWow, this is such a surprise! I can't believe my email was chosen randomly. I never thought something like this could happen to me. It's really exciting!\n\nI'm curious about the process though. How does the bank handle such transactions? And how did Mr. Gary Raymond come into the picture? \n\nAlso, you mentioned that my funds are now deposited with a paying Bank. Which bank is it? Is it a local or international bank?\n\nLooking forward to hearing from you.\n\nBest wishes,\nJoshua"
+    }
+]

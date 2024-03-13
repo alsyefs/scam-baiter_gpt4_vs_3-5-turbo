@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1325",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello dear,",
+        "body": "Hello dear,\nThis is Mr Williams, the director of foreign operations with the World bank group. It seems like you have forgotten your funds with us, hope you are still alive?\nYour urgent response is awaited.\nMr John Williams."
+    },
+    {
+        "from": "baiter_1325",
+        "to": "scammer_1325",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello dear,",
+        "body": "Hello Mr. Williams, thank you for reaching out. I wasn't aware of any funds with the World Bank group. Can you please provide more details about this?\n\nBest wishes,\nTheresa"
+    }
+]

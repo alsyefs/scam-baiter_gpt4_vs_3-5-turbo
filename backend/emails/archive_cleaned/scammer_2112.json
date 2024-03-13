@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2112",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Welcome to The Philomena Sigmu",
+        "body": "Welcome to The Philomena Sigmund Samantha (US)\nThe Philomena Sigmund Samantha Foundation was \nestablished in 2016 \nby Philomena Sigmund Samantha and her husband, Mark Sigmund, following the sale of the business which she founded in 1991.\nPhilomena, an entrepreneur with a successful 40-year career in financial services, is the Chair of the Foundation. In the early years the Foundation funded a range of mental health, education for girls, water and sanitation, and microfinance projects, both in the US and overseas.\nThe Philomena Sigmund Samantha Foundation is a company limited by guarantee in England and Wales (Company registration number 9524980) and registered with the Charity Commission for England & Wales (Charity number 1162732).The Philomena Sigmund Samantha Foundation’s strategic direction and funding decisions are overseen by our Board of Trustees, which is made up of four leaders and four independent external trustees."
+    },
+    {
+        "from": "baiter_2112",
+        "to": "scammer_2112",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Welcome to The Philomena Sigmu",
+        "body": "Hello there! \n\nThank you for sharing this information about The Philomena Sigmund Samantha Foundation. It sounds like a wonderful organization with a noble cause. I'm particularly interested in the range of projects that the foundation funds, especially those related to mental health and education for girls.\n\nCould you please tell me more about these projects? How does the foundation select which initiatives to support? And how can someone get involved or contribute to these causes?\n\nLooking forward to hearing more about it!\n\nBest wishes,\nStephanie"
+    }
+]

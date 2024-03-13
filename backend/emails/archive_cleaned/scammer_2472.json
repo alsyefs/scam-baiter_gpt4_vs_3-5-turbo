@@ -1,0 +1,122 @@
+[
+    {
+        "from": "scammer_2472",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  HELLO DEAR,",
+        "body": "  HELLO DEAR,\nTHIS IS INFORM YOU THAT YOUR ATM CARD FOR YOUR PAYMENT IS READY FOR COLLECTION BY YOU.  THIS DECISION WAS TAKEN BY THE MANAGEMENT OF THE BANK YESTERDAY.\nYOU ARE HEREBY REQUIRED TO RECONFIRM YOUR DETAILS TO ENABLE US TO DO THE NEEDFUL TO AVOID DELIVERING IT TO A WRONG BENEFICIARY.\nYOURS SINCERELY,\nDR TUNDE LEMO   "
+    },
+    {
+        "from": "baiter_2472",
+        "to": "scammer_2472",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   HELLO DEAR,",
+        "body": "Hello Dr. Tunde Lemo,\n\nThank you for your message. I'm thrilled to hear that my ATM card is ready for collection! Could you please provide me with more details about this? For instance, which bank is this card associated with? And how did the management come to this decision?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nHoward"
+    },
+    {
+        "from": "scammer_2472",
+        "to": "baiter_2472",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: HELLO DEAR,",
+        "body": "Dear sir,\r\nThank you for your reply.\r\n\r\nFor your information, you are required to reconfirm the below details :-\r\n\r\n1.  YOUR FULL NAMES AND ADDRESS\r\n\r\n2.  YOUR AGE\r\n\r\n3.  YOUR OCCUPATION\r\n\r\n4.  YOUR WORK ID OR INTERNATIONAL PASSPORT PHOTOPAGE\r\n\r\n5.  YOUR DIRECT PHONE NUMBER/WHATSAPP\r\n\r\n6.  YOUR BANK DETAILS IF YOU DECIDE TO RECEIVE THE FUND THROUGH DIRECT WIRE\r\nTRANSFER\r\n\r\nUpon receipt of the above details, we will verify and forward them to the\r\nrespective Paying Officer for action.\r\n\r\nFinally, as soon as you receive the fund, we will like you to invest it in\r\nOIL BUSINESS either in NIGERIA or elsewhile.\r\n\r\nWe await to hear from you.\r\n\nYours sincerely,\r\n\r\n\r\nDR TUNDE LEMO"
+    },
+    {
+        "from": "baiter_2472",
+        "to": "scammer_2472",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00034722222222222224,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: HELLO DEAR,",
+        "body": "Hello Dr. Tunde Lemo,\n\nThank you for your message and the opportunity to be involved in such an interesting venture. I'm quite intrigued by the idea of investing in the oil business, especially in Nigeria. Could you please tell me more about this? How does it work? What kind of returns could I expect?\n\nAs for the details you've asked for, I'm sorry but I don't feel comfortable sharing such personal information over email. Is there another way we can proceed with this?\n\nLooking forward to hearing from you.\n\nBest wishes,\nHoward"
+    },
+    {
+        "from": "scammer_2472",
+        "to": "baiter_2472",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0030439814814814813,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: HELLO DEAR,",
+        "body": "Dear sir,\r\nIf you can travel to HOLLAND OR TURKEY, we can arrange a meeting between\r\nyou and the paying Officer.\r\nThis is the only thing we can do for now.\nDR TUNDE LEMO"
+    },
+    {
+        "from": "baiter_2472",
+        "to": "scammer_2472",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.003703703703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: HELLO DEAR,",
+        "body": "Hello Dr. Tunde Lemo,\n\nThank you for your message. It sounds like an interesting opportunity to travel to Holland or Turkey. I'm curious, could you tell me more about the purpose of this meeting? What would be discussed during this meeting with the paying officer?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nHoward"
+    },
+    {
+        "from": "baiter_2472",
+        "to": "scammer_2472",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0037731481481481483,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: HELLO DEAR,",
+        "body": "Hello Dr. Tunde Lemo,\n\nThank you for your message. It sounds like an interesting opportunity to travel to Holland or Turkey. I've always wanted to visit those places.\n\nCould you please provide more details about this meeting? What is the purpose of it and what would be discussed during this meeting?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nHoward"
+    },
+    {
+        "from": "scammer_2472",
+        "to": "baiter_2472",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.008541666666666666,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: HELLO DEAR,",
+        "body": "Dear sir,\r\nWe are not here for marathon mail writing but for action.\r\nIf you reconfirm your details and after verification of true ownership of\r\nthe fund by us, we can proceed.\r\n\nYours sincerely,\r\n\r\nDR TUNDE LEMO"
+    },
+    {
+        "from": "baiter_2472",
+        "to": "scammer_2472",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.009270833333333334,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: HELLO DEAR,",
+        "body": "Hello DR TUNDE LEMO,\n\nThank you for reaching out to me. I'm always excited to learn about new opportunities and possibilities. However, I must clarify that I am not comfortable sharing my personal details over email.\n\nCould you please provide more information about the fund? How did it come into existence? What is its purpose? And how can I confirm its true ownership?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nHoward"
+    },
+    {
+        "from": "scammer_2472",
+        "to": "baiter_2472",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.020671296296296295,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: HELLO DEAR,",
+        "body": "DEAR SIR,\r\nPROVIDE YOUR DIRECT PHONE NUMBER FOR DIRECT CONVERSATION WITH YOU REGARDING\r\nTHIS FUND PROJECT.\nDR TUNDE LEMO"
+    },
+    {
+        "from": "baiter_2472",
+        "to": "scammer_2472",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.021145833333333332,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: HELLO DEAR,",
+        "body": "Hello Dr. Tunde Lemo,\n\nThank you for reaching out to me regarding this fund project. I'm quite interested in learning more about it. Could you please provide some more details? What is the nature of this project and how can I contribute?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nHoward"
+    },
+    {
+        "from": "baiter_2472",
+        "to": "scammer_2472",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.021423611111111112,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: HELLO DEAR,",
+        "body": "Hello Dr. Tunde Lemo,\n\nI hope this message finds you well. I'm intrigued by your mention of a fund project. Could you please provide more details about it? What is the nature of this project and how can I contribute to it?\n\nUnfortunately, I am unable to share my phone number at this time, but we can continue our conversation here or through email if that works for you.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nHoward"
+    }
+]

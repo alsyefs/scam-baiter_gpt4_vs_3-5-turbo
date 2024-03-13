@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_913",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Sir",
+        "body": "Dear Sir\nAre you still interested in receiving your payment after such a long\nwaiting and expectation? If you do then i want you to get back to me\nfor more details in respect to your long over due payment.\nPlease forward your details as your respond indicating your Interest.\ni wait in anticipation of your response.\nRegards\nFred Williams"
+    },
+    {
+        "from": "baiter_913",
+        "to": "scammer_913",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Sir",
+        "body": "Hello Fred Williams,\nThank you for reaching out. I am indeed interested in receiving the payment. Could you please provide me with more details about the process and what is required from my end to facilitate the payment? I look forward to your response.\n\nBest wishes,\nArthur"
+    },
+    {
+        "from": "scammer_913",
+        "to": "baiter_913",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "need you to forward this requirement for  further proceedings",
+        "body": "Dear Arthur\r\nI am in receipt  of your details and as it is i want to appreciate your prompt response to me and be as that may i will at this point give you details on how this process will kick of hence you have to listen.,\r\nthe first thing i will required  of you is to immediately furnish me with the following details which will be the kicking point of the payment procedures in your favor  and the requirement is as stated below.\r\nYOUR FULL NAMESYOUR CONTACT ADDRESSYOUR MEANS OF IDENTIFICATIONYOUR AGE AND OCCUPATIONYOUR COMPANY NAMES IF ANYYOUR NEXT OF KIN DETAILS IF ANY\r\nYOUR DIRECT MOBILE TELEPHONE NUMBER WATTS SAPP.\r\nHowever as you will provide this details note it that you payment after all due process have been carry out may come to you either through online transfer or through our offshore payment center where you attention may be need to sign some necessary documents,and this process will start as soon as i hear from you providing this details.\r\nI wait to hear from you.\r\nRegardsFred Williams"
+    },
+    {
+        "from": "baiter_913",
+        "to": "scammer_913",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.001585648148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: need you to forward this requirement for  further proceedings",
+        "body": "Hello Arthur,\n\nThank you for reaching out and providing me with the details. I appreciate your prompt response. I understand that you need certain information to proceed with the payment process. Could you please clarify what this payment is for and how it benefits me? Additionally, can you explain more about the offshore payment center and why my attention may be needed to sign some necessary documents?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nArthur"
+    },
+    {
+        "from": "scammer_913",
+        "to": "baiter_913",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.4787152777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "are you now ready to proceed on this payment to you?",
+        "body": "Arthur\r\n\r\n \r\n\r\nIf actually you have read my lastmail to you very well, you will understand it the money because i said itcould either be through an offshore payment process or an online transferprocess and i am so happy that you could go back to the page of that last maili sent to you ready it and you will understand it more.As regards what thispayment is for i must make it clear to you that it is an investment fund that was nominated to you by the United NATIONS and it will benefit you because you willstand as the beneficiary and will be empowered to make use of the fund as tobetter your life and your business if you  any and will also use part of it for CharityWork.\r\n\r\n \r\nThis fund is a grant to you fromsource which means that it is your personal money that will enable you workstowards having it transfer to you,so i want you to note that everything asconcerns this fund is yours from the moment it was designated to you as thebeneficiary.\r\nhowever,as regards clarification on the offshore payment center what this means is that if you pick offshore payment center as your means of payment we will then process this payment through our offshore payment center where you will travel to  for you to sign all the necessary documents as well as meet with our official at our offshore payment center,the will process this payment after you might have sign all the necessary documents and then release this fund to you,but in case you make choose of online transfer you will not need to travel for this online payment but to be at the  comfort of your home to receive your fund through an online transfer access policy\r\n\r\nBased on my explanation are you now ready to proceed so that we can get going with the processing of this payment to you?.\nRegards\r\nFred Williams"
+    },
+    {
+        "from": "baiter_913",
+        "to": "scammer_913",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.4814236111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: are you now ready to proceed on this payment to you?",
+        "body": "Hello Arthur,\n\nThank you for sharing this information with me. I appreciate your detailed explanation about the investment fund nominated to me by the United Nations. It's intriguing to hear about the options of offshore payment or online transfer for receiving the fund.\n\nCould you provide more details on how the process works for each option? I'm interested in understanding the steps involved before making a decision on how to proceed.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nArthur"
+    }
+]

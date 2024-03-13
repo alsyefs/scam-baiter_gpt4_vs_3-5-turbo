@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_273",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Attn: Please,",
+        "body": "   Attn: Please,\nHaving considered numerous petitions from unpaid contractors/ inheritance funds beneficiaries and the international community's advice concerning the unpaid funds  owed to the beneficiaries like you  globally and the office of the Presidency and the U.S. Department of the Treasury have unanimously agreed that we transfer your funds to your account.\nWe want to inform you that your bank account has now been credited with the sum of $10.5M (Ten Million, Five Hundred Thousand United States Dollars) funds  by our bank, Capital One Bank of New York. Please, I urge you to kindly check your bank account  balance  to reconfirm if these funds have been reflected into your account so we can be sure that your transfer was successful.\nIf these funds are yet to be in your bank account, kindly reconfirm your bank account details because there are a lot of mistakes / changes  in your file by the previous administration to enable us to serve you better.\nNote: We will provide you with the verifiable documents concerning this your funds as soon as we receive your positive response.\nThank you for giving us the opportunity to serve you better.\nYours faithfully,\nBill Lawrence\nExecutive Officer & Director\nCapital One Bank.   "
+    },
+    {
+        "from": "baiter_273",
+        "to": "scammer_273",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    Attn: Please,",
+        "body": "Hello Bill Lawrence,\n\nThank you for reaching out to me regarding the transfer of funds. I appreciate your efforts in ensuring that my account is credited with the sum of Ten Million, Five Hundred Thousand United States Dollars. I will definitely check my bank account balance to confirm if the funds have been reflected.\n\nCould you please provide me with more details about the transfer? Specifically, I would like to know when the transfer was initiated and if there are any additional steps or documents required from my end to complete the process successfully.\n\nI understand that mistakes can happen, so if there are any changes or updates needed in my file, please let me know what information you require from me. However, I would like to ensure the security of my personal information, so I kindly request that you do not ask for any sensitive details such as passwords or social security numbers.\n\nOnce again, thank you for your assistance in this matter. I look forward to hearing back from you soon.\n\nBest wishes,\nYvonne"
+    }
+]

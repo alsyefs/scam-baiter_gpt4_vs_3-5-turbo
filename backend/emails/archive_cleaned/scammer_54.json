@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_54",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " UNITED STATES TREASURY DEPART",
+        "body": " UNITED STATES TREASURY DEPARTMENT\nAddress: 1500 Pennsylvania Avenue, NW,\nWashington, D.C., USA.\nAttention,\nThis is to notify you about the outcome of the meeting held in Washington D.C., on the 16th of May, 2023, with all the members of the U.S House of Representatives, and the meeting was on matters concerning all long-abandoned consignments/properties at the George Bush Intercontinental Airport, Houston Texas, USA.\nIt has been drawn into conclusion by the members of the House of Representatives during the meeting, that anyone whose his/her consignment/property has been long abandoned at the George Bush Intercontinental Airport is ordered to move his consignment out from the George Bush Intercontinental Airport's storage facility as quickly as possible, and failure to adhere to this order, his consignment/property will be confiscated and transferred into the United States Treasury Department as an unclaimed consignment/property.\nThrough our U.S Treasury Department Investigative Team by the orders of the United States Government, we have investigated all the abandoned consignment/properties at the George Bush Intercontinental Airport from the year 2021-2023 and we discovered that you are among those whose consignment is abandoned at the airport.\nFrom our findings, your consignment is one trunk box and it contains USD cash close to US$7.5Million with your legal supporting documents. So, you are advised to adhere to the orders of the United States government by moving your consignment out from the airport storage facility as quickly as possible to avoid the consequences that follow.\nThe office in charge of your consignment is the office of Mr. Thomas C. Dickson the Chief Operation Manager, George Bush Intercontinental Airport. And below are her contact details, so contact her immediately to claim your consignment.\nAgent Anita Harris\nChief Operation Manager\nGeorge Bush Intercontinental Airport\n2800 N Terminal Rd, Houston,\nTX 77032, United States\nE-mail: \nagentanita@yahoo.com\nThank you for your understanding and cooperation.\nSigned\nMr. Fredrick Maxwell\nAssistant Secretary of the Treasury\nU.S Treasury Department\nAddress: 1500 Pennsylvania Avenue, NW,\nWashington, D.C., USA.    "
+    },
+    {
+        "from": "baiter_54",
+        "to": "scammer_54",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  UNITED STATES TREASURY DEPART",
+        "body": "Hello,\n\nThank you for reaching out to me with this information. I appreciate you bringing it to my attention. Could you please provide me with some more details about the abandoned property at George Bush Airport? I would like to know how long it has been there and why it was abandoned in the first place.\n\nAdditionally, I would like to understand the process of claiming the trunk box that contains USD cash and my legal supporting documents. What are the necessary steps I need to take in order to retrieve my belongings from the airport storage facility?\n\nI look forward to your response.\n\nBest wishes,\nCynthia"
+    }
+]

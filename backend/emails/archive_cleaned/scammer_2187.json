@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2187",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hi Dear,",
+        "body": "Hi Dear,\nSorry to invade your privacy, I am Mrs. Daniella Kyle the wife of Mr Angelo Kyle,my husband worked with Central Bank Of Philippines for ten years before he died in the year 2012. When my late husband was alive he deposited sum amount of Money with a Bank in UK, Presently,this money is still\nwith the Bank,I am in a hospital in Philippines receiving treatment and my doctor has confirmed to me that i have just few days to live on earth due to my esophageal cancer.Please i am choosing you to receive this money on my behalf,and use it\nto help the less privilege.\nAs soon as I receive your response I shall give you the contact information of my bank in Europe as they will be the one to assist you in laying claims\nfor this money. I would also appreciate your response through my private email: \ndaniellakyle015@proton.me\nYour Sister in Christ,\nMrs. Daniella Kyle"
+    },
+    {
+        "from": "baiter_2187",
+        "to": "scammer_2187",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hi Dear,",
+        "body": "Hello Mrs. Daniella Kyle,\n\nI'm deeply moved by your story and I'm sorry to hear about your current health condition. It's very generous of you to think about helping the less privileged in such a difficult time.\n\nCould you please tell me more about how you would like this money to be used for the less privileged? Are there any specific charities or causes that are close to your heart?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAlberta"
+    }
+]

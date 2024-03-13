@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_725",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  RESTRICTED , BENEFICIARY ONL",
+        "body": "  RESTRICTED , BENEFICIARY ONLY .\nMy name is Tanko Mohammed the director  paymaster general's office here in Nigeria ,I have decided to contact you because of your payment file which has been abandoned here for\nfor years , during the christmas holiday i used the opportunity to pay a visit to the account general of the federation of Nigeria to ascertain the reason why payment files are treated with the urgency needed\nand he explained to me the reasons why your file and many other payment files have not being approved and what can be done after reaching an agreement with him  .\nHe told me that the bank policy code stipulates that all unclaimed or abandoned fund must be turned over to the abandoned property division of the state after ten years or forfeit the fund as abandoned property .\nThe bank had planned to invoke the abandoned property act to confiscate the funds after the expiration of the period as provided but he stopped them .\nI have also received letters in the last couple of days regarding the issue but i paid no serious attention to the subject .\nHaving said that , I want to assist you to receive your payment if you agree to my terms and conditions as I know what can be done for a hitch free release of your entitlement to you without any further delay .\nWhen I hear back from you either by phone or email message  I will furnish you with my terms and conditions and what can be done for a successful completion of the transaction .\nFaithfully yours\n DR TANKO MOHAMMED\nDIRECTOR PAYMASTER GENERAL OFFICE\nDIRECT PHONE : 234-81128-10411   "
+    },
+    {
+        "from": "baiter_725",
+        "to": "scammer_725",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   RESTRICTED , BENEFICIARY ONL",
+        "body": "Hello Dr. Tanko Mohammed,\n\nThank you for reaching out to me. I must say, your message has piqued my interest. It's quite surprising to learn about this abandoned payment file. Could you please provide more details about it? \n\nFor instance, how did my name get associated with this file? And why has it been left unclaimed for so many years? Also, could you elaborate on the terms and conditions that you mentioned?\n\nI'm looking forward to hearing from you soon.\n\nBest wishes,\nJohn"
+    }
+]

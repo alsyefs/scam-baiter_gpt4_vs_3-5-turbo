@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_200",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "I am writing with utmost conce",
+        "body": "I am writing with utmost concern regarding your impending transaction\nof which the payment file has long been forwarded to the Foreign\nRemittance Department Federal Reserve Bank here in the US. I want to\nrecall your attention that your funds, a total of $10,500.000.00 only,\nhave been long accredited in our foreign Remittance department for\nfinal transfer to your resident account. I have been making a\npainstaking effort to locate you via emails  and will advise you to\nget in touch with me as soon as you receive this message so that we\ncan finalize this over due transaction since our Foreign Department\nhas accepted to carry out the transfer. Note that your transaction has\nbeen forwarded to Federal Reserve Bank USA and no more transactions in\nelsewhere hence your payment memo is with us and the director of\nOperations in our foreign department and associates will complete the\ntransaction as soon as you contact us.Here below are the new options\nfor the immediate completion of the transaction as agreed with our\nforeign department:\nThat your funds will be transferred to your resident account or any\naccount of your choice as an investment fund through bank to bank wire\ntransfer.That accredited ATM VISA CARD will be issued and delivered to\nyour resident address with a complete pin code number to enable you to\nstart withdrawals from the card as soon as you receive it if you so\nwish it via ATM CARD.That all efforts must be put in place to have\nyour transaction memo registered with the International Monetary Fund,\nIMF to obtain the accreditation Batch of your transaction so that the\ntransaction will not have a problem half way or stopped by any\nconcerned authority for lack of due process.\n Note that the IMF\nauthorization Batch will be obtained at the cost of $25 only\n. A\nwritten Letter of Guarantee specifically stated that only $25 is\nrequired and that is the last penny you will spend to get this done to\nyour resident bank account or through ATM CARD payment as you may have\nagreed with the Federal Reserve Bank. A complete and current Statement\nof your account as evidence that the funds in question are still\nintact as claimed in this Bank, Federal\nReserve Bank USA.\nI will advise you to go through this email and get back to me with the\noption you choose so that we can proceed with your transaction\nimmediately. \nGet back to me urgently with your account details, your\nresident address, country of origin and functional telephone  number,\nyour full name and \na copy of your National ID card or passport copy\n to\nproceed.\nFEDERAL RESERVE BANK EMAIL: \nbankfederalreserve55@gmail.com\nThanks for anticipated cooperation\nYours Faithfully,\nJerome Powell\nDirector Federal Reserve bank"
+    },
+    {
+        "from": "baiter_200",
+        "to": "scammer_200",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: I am writing with utmost conce",
+        "body": "Dear Jerome Powell,\n\nThank you for reaching out to me regarding the pending payment. I appreciate your concern and would like to know more about the options available for the transfer. Could you please provide me with further details on how the funds can be transferred to my resident account? Additionally, I would like to understand the process of obtaining an ATM Visa card if I choose that option.\n\nBefore proceeding, I have a few questions. What is the purpose of obtaining the IMF Batch? How long does it usually take to obtain it? Also, could you clarify what you mean by a \"written Letter of Guarantee\"?\n\nI look forward to your response and appreciate your assistance in finalizing this matter.\n\nBest wishes,\nTimothy"
+    }
+]

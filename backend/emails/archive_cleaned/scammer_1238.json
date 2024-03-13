@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1238",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good Day!",
+        "body": "Good Day!\nThis email may come as a surprise, given our paths have not intersected before. I am Mrs. Jane LaMotta, an 81-year-old widow of Dr. Joseph LaMotta, who tragically perished in a 1998 plane crash (Details are available on this website:\nhttp: // www. cnn.com/WORLD/9809/swissair.victims.list/index.html ) Following my husband's passing, I've assumed control of his estate, and in my advanced age, I've chosen to spend my remaining days on our ranch.\nIn memory of my late husband, who wished to allocate half of our wealth to charity, you've been selected to benefit from our charitable compensation. If you wish to seize this opportunity, please respond, and I will provide the necessary details.\nYou will need to contact my lawyer in the UK, providing the access code (NLD 9BT-4565), to facilitate the registration and certification process with the UK authority FCN. He will then guide you in contacting the bank for processing your inheritance claim. Upon a successful claim, I kindly request that you contribute to the\nbetterment of mankind in memory of us.\nBest regards,\nMrs. Jane LaMotta"
+    },
+    {
+        "from": "baiter_1238",
+        "to": "scammer_1238",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Good Day!",
+        "body": "Hello Mrs. Jane,\n\nI hope this message finds you well. I am deeply sorry to hear about your husband's tragic passing. It's indeed a noble cause to donate half of your wealth to charity in his memory.\n\nI'm quite surprised and humbled that I've been selected for this charitable endeavor. Could you please provide more details about it? What kind of charities did your husband support or feel strongly about?\n\nAlso, could you tell me more about the process with the UK authority FCN? What does it entail exactly?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nBrittany"
+    }
+]

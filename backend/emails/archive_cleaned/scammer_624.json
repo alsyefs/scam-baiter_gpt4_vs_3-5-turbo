@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_624",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello,",
+        "body": "Hello,\n \nHow are you doing?\n \nI am  Mr. Doug Macpherson an external auditor of a reputable bank. In\none of our periodic audits, I discovered a dormant account, which has\nnot been operated for the past Five years. From my investigations and\nconfirmations, the owner of this account is a foreigner who died long\nago and since then nobody has done anything as regards the claiming of\nthis money because he has no family members who are aware of the\nexistence of neither the account nor the funds. I have secretly\ndiscussed this matter with a top senior official here and we have agreed\nto find a reliable foreign partner to deal with us although due to his\nposition he did not want to take an active part but as soon as you\nfollow my instructions everything will be successful because we\nwill be working hand in hand with him. With this purpose to do business\nwith you, standing in as the next of kin of these funds from the\ndeceased and after due legal processes have been followed the fund will\nbe released to your account without delay and we will use it for\ninvestment and to assist the less privileged in the societies because if\nwe left the fund with the government it will be fortified for\nnothing and will be used to suppress the poor masses in the society.\n \nOn receipt of your response, I will furnish you with more details as it\nrelates to this mutual benefit transaction. Do contact me immediately\nwhether or not you are interested in this deal. If you are not, it will\nenable me to scout for another foreign Partner to carry out this deal.\nBut where you are interested, contact me URGENTLY for more details as\ntime is of the essence in this business.\n \n \nBest Regards,\n \nDoug Macpherson"
+    },
+    {
+        "from": "baiter_624",
+        "to": "scammer_624",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello,",
+        "body": "Hello Doug Macpherson,\n\nI hope this email finds you well. Thank you for reaching out to me with this opportunity. I must say, it sounds quite intriguing. I would be interested in learning more about the dormant account and how we can proceed with claiming the funds.\n\nCould you please provide me with some additional details? Specifically, I would like to know more about the legal processes that need to be followed and what my role as the next of kin would entail. Additionally, it would be helpful to understand how much money is involved in this account.\n\nI appreciate your urgency in this matter and look forward to hearing back from you soon.\n\nBest wishes,\nSara"
+    }
+]

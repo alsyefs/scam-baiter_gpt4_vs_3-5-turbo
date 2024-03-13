@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_16",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  We represent the top investm",
+        "body": "  We represent the top investment lenders in the World.  Our group can loan between USD/EURO 5M to 500M within ten (10) banking days if you have good investment plans. Get back to me if you are interested for further directives. \nSincerely,\n J Adams   "
+    },
+    {
+        "from": "baiter_16",
+        "to": "scammer_16",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   We represent the top investm",
+        "body": "Hello Adams,\n\nThank you for reaching out to me. Your offer sounds quite interesting! I'm always open to exploring new investment opportunities. Could you please provide more details about the kind of investment plans your group is interested in? Also, what are the terms and conditions of these loans?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nCarmelita"
+    },
+    {
+        "from": "scammer_16",
+        "to": "baiter_16",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: We represent the top investm",
+        "body": "Dear Carmelita,\r\n\r\nWe are a public relations (PR) representative of a reputable worldwide\r\nlending organization. We are just like agents to the lenders.\r\n\r\n\r\n\r\nThe lending organization provides flexible credit facilities to\r\nindividuals, organizations, and government establishments.\r\n\r\n\r\n\r\nTo leverage our funding, a potential borrower/project owner will be\r\nrequired to submit a formal project funding solicitation to us. This\r\nenables us to secure a project funding slot from the lending company.\r\n\r\n\r\n\r\nInformation overview pertaining to the lending company is as follows:\r\n\r\n\r\n\r\n* Available funds: USD$ 7.5 Billion\r\n\r\n* Funding Type: Loan/project finance\r\n\r\n* Funding is open To Entrepreneurs, Corporations, Project owners, Business\r\nOwners, Investors,   and startups.\r\n\r\n* Currency: United States Dollars\r\n\r\n* Min Loan Amount: US$2 Million\r\n\r\n* Maximum Loan Amount: US$100 Million to US$5B\r\n\r\n* Loan Duration: 5-10 years with the option of renewal.\r\n\r\n* Grace Period: 24 Months\r\n\r\n* Interest: 2% Annually (Payment starts after the grace period)\r\n\r\n\r\n\r\nThe lender pays a 2% fee to brokers who introduce project/business owners\r\nfor funding.\r\n\r\n\r\n\r\nPlease acknowledge and advise.\r\n\r\n\r\n\r\nSincerely,\r\n\r\n\r\nJ Adams"
+    },
+    {
+        "from": "baiter_16",
+        "to": "scammer_16",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0006134259259259259,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: We represent the top investm",
+        "body": "Hello Adams,\n\nThank you for reaching out and providing such detailed information about your lending services. It sounds like a great opportunity for project owners, business owners, investors, and startups.\n\nI'm curious to know more about the process. Could you please elaborate on how the formal project funding submission works? What kind of information is required in this submission?\n\nAlso, could you provide some examples of projects or businesses that have benefited from your services in the past? I think it would be helpful to understand the types of ventures that are typically successful in securing funding.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nCarmelita"
+    },
+    {
+        "from": "scammer_16",
+        "to": "baiter_16",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.013958333333333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: We represent the top investm",
+        "body": "Dear Carmelita,\r\n\r\nThanks for your quick response, please before I can refer you directly to\r\nmy principal for more information about our activities, I would like to\r\nhave more information about you and what you actually need,in which country\r\nyou want the funding.\r\n\r\nAs soon as I hear from you, I will connect you directly for full\r\ninformation.\r\n\r\nThank you for your understanding.\nRegards,\r\n\r\nAdams"
+    },
+    {
+        "from": "baiter_16",
+        "to": "scammer_16",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.014444444444444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: We represent the top investm",
+        "body": "Hello Adams,\n\nThank you for your prompt reply. I appreciate your interest in knowing more about me. I am a simple person who enjoys reading and gardening. As for the funding, I am currently residing in Canada and would like to explore opportunities here.\n\nCould you please provide more details about the funding? What is it intended for and what are the requirements?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nCarmelita"
+    }
+]

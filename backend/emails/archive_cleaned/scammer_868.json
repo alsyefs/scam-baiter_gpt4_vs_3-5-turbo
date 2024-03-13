@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_868",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  FIRST NATIONAL BANK",
+        "body": "  FIRST NATIONAL BANK\nFOREIGN REMITTANCE DEPARTMENT\nFOREIGN OPERATIONS\n106 New Jersey Avenue,\nAbsecon, New Jersey NJ 8201\nDear Beneficiary,\nKindly send your reply to   \nfirstnationalbank542@gmail.com\nSorry for contacting you via email as we could not reach you\n Dear Beneficiary,\nFollowing the agreement reached by U.S President Joe Biden and the Presidents/Heads of States of other countries,  The government of United States of America and other world Presidents through the office of the U.S DEPARTMENT OF STATE has granted express receipt to all beneficiaries of Funds to receive their payments being delayed or denied by various authorities and countries.\nYour expected Revenue according to available information in our file is $10.5M (Ten Million, Five Hundred Thousand United States Dollars) only, representing the amount unpaid to you from your Compensation/Inheritance funds,\n As a matter of urgency, please provide us all the listed information below to enable us proceed with the transfer of your Compensation/Inheritance funds into your bank account without any delay..\n(1) Your Full Names   ;..................\n(2) Your Contact Address : ...............\n(3) Your Contact Phone numbers :...........\n(4) Account numbers: ..................\n(5) Your Bank Details for the Transfer:,............\n(6) Your Means of Identification\nHowever, be informed that this INFORMATION is real and not contrary to any breach of law . There is a committee set-up by the US government in power to monitor this arrangement/payments to make sure that all approved beneficiaries like you dully receive their delayed payments from this bank.\nThanks\nMr. Frank Anthony\nBanking & Chief Cashier\nF.N.B. Corporation\nKindly send your reply to    \nfirstnationalbank542@gmail.com\n "
+    },
+    {
+        "from": "baiter_868",
+        "to": "scammer_868",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   FIRST NATIONAL BANK",
+        "body": "Hello Mr. Frank Anthony,\n\nThank you for reaching out to me. I must say, this is quite an unexpected surprise! It's not every day that one receives an email about such a large sum of money.\n\nI'm curious, how did my name come up in this matter? And could you please provide more details about the agreement reached by President Joe Biden and other world leaders? I'd love to understand more about this initiative.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRaymond"
+    }
+]

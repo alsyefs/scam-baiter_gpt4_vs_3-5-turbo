@@ -1,0 +1,72 @@
+[
+    {
+        "from": "scammer_1716",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Greetings!",
+        "body": "  Greetings!\nIs this your private email address?\nShould you be interested in working with me on a financial related project?\nPlease reply back via my personal email:\nThanks, and have a nice day,\nMr. Sam Heng\nDirector, Shinhan Khmer Bank.   "
+    },
+    {
+        "from": "baiter_1716",
+        "to": "scammer_1716",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Greetings!",
+        "body": "Hello Mr. Sam Heng,\n\nThank you for reaching out to me. I hope you're having a nice day as well. I must say, your offer sounds intriguing. Could you please provide me with more details about the financial project you mentioned? I'm interested in learning more about it.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nBrian"
+    },
+    {
+        "from": "scammer_1716",
+        "to": "baiter_1716",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: MORE INFO!",
+        "body": ""
+    },
+    {
+        "from": "baiter_1716",
+        "to": "scammer_1716",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0002314814814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: MORE INFO!",
+        "body": "Hello! How can I help you today?\n\nBest wishes,\nBrian"
+    },
+    {
+        "from": "scammer_1716",
+        "to": "baiter_1716",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.004606481481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: MORE INFO!",
+        "body": "Hello friend,\r\n\r\nThanks for the quick response.\r\n\r\nYour mail is well understood and I will appreciate it if you will work with\r\nme in this transaction with a good understanding and sincere heart.\r\n\r\nDuring the reporting process, I discovered in 2016 that my branch made\r\n($21,537,000.00) this money which the head office is not aware of.  This\r\namount is currently placed in what we call SUSPENSE ACCOUNT without any\r\nbeneficiary. As an officer of the Shinhan Khmer Bank in Phnom Penh,\r\nCambodia, I cannot be directly connected to this money, so this is why I\r\nhave to contact you for us to work so that you can assist receive this\r\nmoney. I need you to stand as the original depositor of the money to enable\r\nmy Head office grant approval for the release of this fund.\r\n\r\nThe said amount is acrued interest undocumented within the bank which has\r\nbeen placed in a suspense account. This amount will be registered under\r\nyour name as the beneficiary if you agree to work with me in this\r\ntransaction. This is a legal transaction in which we shall follow due\r\nprocess whilst claiming the fund with no retribution to all the parties\r\ninvolved whatsoever.\r\n\r\nAs a banker, I understand transferring such a huge amount directly from\r\nbank to bank will lead to paying huge fees as a result of international\r\nbanking regulation before receiving the funds over there in your country.\r\nHence, for us to avoid this as impediment, I will bring this idea of the\r\nfund being released via an ATM card which will be sent to your address. The\r\nprocess bears no hindrance from the authority as it will be a very direct\r\nrelease process with no impediment.\r\n\r\nImmediately you receive the ATM card, you will start making withdrawals\r\nfrom it before my arrival to meet with you. I would like us to reach an\r\nagreement before we proceed further.\r\n\r\nkindly send to me your full information such as:\r\nyour full name\r\nyour address\r\ntelephone number\r\ncopy of any identification of you\r\n\r\nAs soon as I receive the above information from you, I will then draft an\r\nMOU agreement which will contain each persons share for both of us to sign\r\nbefore we complete the fund release process through an ATM card.\r\n\r\nI can assure you that whatever questions you would need to ask or any other\r\nthing you will need to know regarding this transaction will be adequately\r\nanswered to give you a clearer understanding of it all, so as to arrive at\r\na successful conclusion.\r\n\r\nAt the end of this transaction, we shall divide the amount in a 50-50 share\r\nratio of which I plan to invest a good part of my share in your country\r\nunder your supervision. All I require from you is your maximum cooperation.\r\n\r\nI look forward to hearing from you. Do call or send me a message on my\nwhatsApp for further clarification: +855967405973\r\n\r\nThanks and have a nice day,\r\nSam Heng"
+    },
+    {
+        "from": "baiter_1716",
+        "to": "scammer_1716",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.005092592592592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: MORE INFO!",
+        "body": "Hello Sam Heng,\n\nThank you for reaching out to me. I appreciate your explanation of the situation. It sounds quite interesting, but I have a few questions before we proceed further.\n\nFirstly, could you please provide more details about the amount of money that is currently in the suspense account? It would be helpful to know the exact figure.\n\nSecondly, you mentioned that the funds will be released through an ATM card. How does this process work exactly? Are there any fees or charges involved in obtaining and using the ATM card?\n\nLastly, I would like to understand how the sharing of the funds will work. You mentioned a share ratio, but could you please elaborate on what percentage each party will receive?\n\nI look forward to your response and gaining a clearer understanding of this opportunity.\n\nBest wishes,\nBrian"
+    },
+    {
+        "from": "baiter_1716",
+        "to": "scammer_1716",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.005405092592592592,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: MORE INFO!",
+        "body": "Hello Sam Heng,\n\nThank you for reaching out to me. I appreciate your explanation of the situation. It sounds quite interesting, but I have a few questions before we proceed further.\n\nFirstly, could you please provide more details about the amount of money that is currently in the suspense account? It would be helpful to know the exact figure.\n\nSecondly, you mentioned that the funds will be released through an ATM card. Could you explain how this process works? I'm not familiar with receiving funds in this manner, so any additional information would be great.\n\nLastly, I would like to know more about the MOU agreement and how it ensures a fair distribution of the funds between us. Could you elaborate on the terms and conditions outlined in this agreement?\n\nI hope my questions are clear, and I look forward to your response. Please feel free to contact me via email or phone.\n\nHave a nice day!\n\nBest wishes,\nBrian"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2200",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "ATTN DEAR BENEFICIARY,",
+        "body": "ATTN DEAR BENEFICIARY,\nI am Rev Timothy R Johnson, director cash processing unit, united bank for Africa (UBA) the only bank appointed by the O.A.U members led by Benjamin Mkapa the former president of Tanzania. Due to ongoing fraud in East Africa countries where some innocent beneficiaries were asked to pay in advance before receiving their money. The above Africa union and I.M.F held a meeting in Uganda and resolved to pay all beneficiaries in cash through diplomatic courier service. The union has approved and appointed United Bank For Africa (UBA) to pay you the sum of ($2.500,000,00) but due to ongoing fraud in East Africa, \nyou have to pay (US$100 USD) sent through Gift Card,iTunes Card or Steam Wallet Card your fund for handling charges.\n Therefore, the amount you will be expecting from the diplomat is ($2.5m, 000.00) instead of ($2.5M).\nWe have set up a plan to conclude this transaction with you; hence you can give us maximum co-operation. We want you to stop further communication with any person, Bank or courier that has promised to pay you through bank to bank, western union, money gram, ATM card, even check, do not listen to them because Uganda financial institution has prohibited such payment due to fraudulent activities all over the country.\nTherefore, \nquickly forward your full name, home address and direct phone number to me\n at (\nrevtimothyjohnson415@gmail.com\n)for immediate delivery. All the documents will be sent to you, if I am assured that you have stopped sending money to those fraudsters. But God will surely judge all of them who live by cheating, my bible says what shall it profit a man to gain the whole world and lose his precious soul? I am waiting to hear from you with the required information.\nNAME IS........\nCOUNTRY IS............\nCITY IS.......................\nADDRESS IS.................\nPHONE NUMBER\nYOUR OCCUPATION....\nRev Timothy R Johnson\nDIRECTOR CASH PROCESSING UNIT\nUNITED BANK FOR AFRICA"
+    },
+    {
+        "from": "baiter_2200",
+        "to": "scammer_2200",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: ATTN DEAR BENEFICIARY,",
+        "body": "Hello Rev Timothy Johnson,\n\nThank you for reaching out to me with this information. I appreciate your concern about the ongoing fraud in East Africa and the measures being taken to ensure safe delivery of funds. However, I have a few questions before proceeding.\n\n1. Can you provide more details about the Africa union meeting in Uganda? Who else was present at the meeting and what were the specific resolutions made?\n\n2. Could you please explain why I need to pay through Gift Card or Steam Wallet Card? What are these funds specifically used for?\n\n3. Is there any way to verify the authenticity of this arrangement? Are there any official documents or references that can be provided?\n\nI look forward to your response.\n\nBest wishes,\nOleta"
+    }
+]

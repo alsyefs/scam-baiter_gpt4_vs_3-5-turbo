@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_614",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn:",
+        "body": "Attn:\nI'm a Manager of a private security firm \nin the United Kingdom\n, I am  searching for potential  partners to secure a huge sum of money.\nShould this be of interest to you, please do not hesitate to email me for details.\nKind regards,\nDominique Ahkye\nEmail: \ndomakye20@gmail.com"
+    },
+    {
+        "from": "baiter_614",
+        "to": "scammer_614",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attn:",
+        "body": "Hello Dominique,\n\nThank you for reaching out to me. I'm always interested in learning about potential opportunities, especially when it comes to securing large sums of money. Could you please provide me with more details about this opportunity? I would like to know how exactly we would be involved and what the next steps would be.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJoshua"
+    }
+]

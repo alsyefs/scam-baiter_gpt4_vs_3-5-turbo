@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_1429",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Greetings!  ",
+        "body": "  Greetings!  \nIs this your private email address?\nShould you be interested in working with me on a financial related project? Please reply back via my personal email:\nThanks and have a nice day,\nMr. Kim Leang\nDirector\nShinhan Khmer Bank   "
+    },
+    {
+        "from": "baiter_1429",
+        "to": "scammer_1429",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Greetings!  ",
+        "body": "Hello Mr. Kim Leang,\n\nIt's a pleasure to receive your message. I'm always open to new opportunities and projects, especially those related to finance. Could you please provide more details about this project? What would be my role and responsibilities?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nSilvia"
+    },
+    {
+        "from": "scammer_1429",
+        "to": "baiter_1429",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: MORE INFO!",
+        "body": "Hello friend,\r\n\r\nThanks for the quick response.\r\n\r\nYour mail is well understood and I will appreciate it if you will work with me in this transaction with a good understanding and sincere heart.\r\n\r\nDuring the reporting process, I discovered in 2016 that my branch made ($21,537,000.00) this money which the head office is not aware of. This amount is currently placed in what we call SUSPENSE ACCOUNT without any beneficiary. As an officer of the Shinhan Khmer Bank in Phnom Penh, Cambodia, I cannot be directly connected to this money, so this is why I have to contact you for us to work so that you can assist receive this money. I need you to stand as the original depositor of the money to enable my Head office grant approval for the release of this fund.\r\n\r\nThe said amount is acrued interest undocumented within the bank which has been placed in a suspense account. This amount will be registered under your name as the beneficiary if you agree to work with me in this transaction. This is a legal transaction in which we shall follow due process whilst claiming the fund with no retribution to all the parties involved whatsoever.\r\n\r\nAs a banker, I understand transferring such a huge amount directly from bank to bank will lead to paying huge fees as a result of international banking regulation before receiving the funds over there in your country. Hence, for us to avoid this as impediment, I will bring this idea of the fund being released via an ATM card which will be sent to your address. The process bears no hindrance from the authority as it will be a very direct release process with no impediment.\r\n\r\nImmediately you receive the ATM card, you will start making withdrawals from it before my arrival to meet with you. I would like us to reach an agreement before we proceed further. Attached is a copy of my identity card for your perusal.\r\nkindly send to me your full information such as:\r\n\r\nyour full name\r\nyour address\r\ntelephone number\r\ncopy of any identification of you\r\n\r\nAs soon as I receive the above information from you, I will then draft an MOU agreement which will contain each persons share for both of us to sign before we complete the fund release process through an ATM card.\r\n\r\nI can assure you that whatever questions you would need to ask or any other thing you will need to know regarding this transaction will be adequately answered to give you a clearer understanding of it all, so as to arrive at a successful conclusion.\r\n\r\nAt the end of this transaction, we shall divide the amount in a 50-50 share ratio of which I plan to invest a good part of my share in your country under your supervision. All I require from you is your maximum cooperation.\r\n\r\nI look forward to hearing from you. Do call or send me a message on my whatsApp for further clarification: +855967405973\r\n\nThanks and have a nice day,\r\nKim Leang"
+    },
+    {
+        "from": "baiter_1429",
+        "to": "scammer_1429",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.011967592592592592,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: MORE INFO!",
+        "body": "Hello Kim Leang,\n\nThank you for your detailed message. It's quite an interesting proposition you've presented here. I must admit, I'm not very familiar with banking procedures and regulations, but your explanation makes it sound like a unique opportunity.\n\nI do have a few questions though, if you don't mind. You mentioned that the money is currently in a suspense account. Could you explain what that means? Also, how does an ATM card work in this situation? Would I be able to use it like any other ATM card?\n\nAs for the MOU agreement, could you provide more details about what it would entail? And finally, could you elaborate on the investment opportunities you mentioned?\n\nI'm sorry for all the questions. As I said earlier, I'm not very knowledgeable about these matters and want to make sure I understand everything correctly.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSilvia"
+    },
+    {
+        "from": "scammer_1429",
+        "to": "baiter_1429",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.9987268518518518,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: MORE INFO!",
+        "body": "Hello friend,\r\n\r\nI hope this letter finds you well. \r\n\r\nI am writing to provide you with an update regarding the funds we have discussed, which is currently in a suspense account under my supervision. This account contains accumulated interest that was not recorded initially due to an error in the imputation of interest and financial data within the bank's system.\r\n\r\nThe complication in releasing huge sums via bank to bank is enormous and that is why I prefer the ATM card release which is discrete and less problematic. The ATM card comes with a special higher than normal withdrawal limit which allows you to withdraw big amounts. This ATM card will be linked to a special online account which upon activation will grant you access for online transfer usage which also solves our problem of huge money transfers.\r\n\r\nTo ensure transparency and clarity in our transaction, formalising our agreement through a Memorandum of Understanding (MOU) will outline the specifics of our arrangement, including each person's share of the funds. Once drafted, both parties will be required to sign the MOU before we proceed with the process for the release of the funds through an ATM card.\r\n\r\nIt is imperative to emphasize the confidentiality of all information related to this matter. Given the sensitive nature of our transaction, it is crucial that we maintain strict confidentiality and refrain from sharing any details with third parties.\r\n\r\nI look forward to your prompt response.\r\n\nThanks and have a nice day,\r\n\r\nKim Leang"
+    },
+    {
+        "from": "baiter_1429",
+        "to": "scammer_1429",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0116666666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: MORE INFO!",
+        "body": "Hello Kim Leang,\n\nThank you for your detailed explanation. I hope you're doing well too. \n\nI'm intrigued by the idea of an ATM card release, it sounds like a convenient method indeed. Could you please elaborate more on how this process works? And what are the special withdrawal limits that come with this card?\n\nAlso, regarding the Memorandum of Understanding (MOU), could you provide me with a draft or an outline of what it might look like? I would like to understand better what our agreement would entail.\n\nLastly, I completely agree with maintaining strict confidentiality and discretion in this matter. Rest assured, I will not share any details with third parties.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSilvia"
+    }
+]

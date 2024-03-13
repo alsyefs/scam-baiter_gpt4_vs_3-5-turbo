@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_448",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention:Sir/Madam",
+        "body": "  Attention:Sir/Madam\n  Ref: US$7.5 Million USD Transaction.\nAn approval has been forward to us to transfer the sum of $7.5 Million\nUSD into your account,Kindly send your address with a copy of your\nphoto passport with your telephone number to enable us to open an\nonline banking account on your name and credit your fund on it.so that\nyou can from there transfer the fund by your self to any account of\nyour choice.our requirement as follow..\n1.Full Name:\n2.Address:\n3.State:\n4.City:\n5.Zip Code:\n6.Country:\n7.Telephone number/ Whats app if any :\n8.Attach copy of your photo Passport:\n9:Date of Birth\nWe look forward to hear from you.\nYours in service.\nMs Bestie Joe\nBranch Manager\nCommercial Bank of New York\nDirect Line +1 928 265 5459   "
+    },
+    {
+        "from": "baiter_448",
+        "to": "scammer_448",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention:Sir/Madam",
+        "body": "Hello Ms. Bestie Joe,\n\nThank you for reaching out to me. I appreciate the opportunity you have presented regarding the transfer of funds. However, before proceeding, I would like to gather some more information to ensure everything is in order.\n\nCould you please provide me with further details about the approval and the source of these funds? Additionally, what is the purpose of opening an online banking account in my name? How long will this process take?\n\nI understand that you require certain personal information such as my address and a copy of my photo passport. Could you please explain why these details are necessary for the transfer?\n\nThank you for your assistance, and I look forward to hearing back from you soon.\n\nBest wishes,\nMarguerite"
+    }
+]

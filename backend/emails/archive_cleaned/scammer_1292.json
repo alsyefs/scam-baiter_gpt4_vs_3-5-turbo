@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1292",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Mr. John Carroll Williams",
+        "body": "  Mr. John Carroll Williams\nFederal Reserve Bank New York\n33 Liberty St, New York, NY 10045, USA\nAttn: Beneficiary\n \nHow are you today, we want to inform you that the United Nations will pay 10 (Ten Thousand) scam victims US$5,000,000,each. You are listed and approved for this payment as one of the beneficiaries to be paid this amount as compensation. As a result of this laudable recommendations, it is imperative to bring to your notice that during the last U.N. meetings held in New York, United States of America by all the Minister Of Finance Of All Countries, it was alarmed so much by the rest of the world in the meetings on the loose of funds by various foreigners to the scams artists, Lawyers and some dubious Bank officials operating in syndicates all over the world today. In order to redeem the good image of each country, the Secretary General of the U.N has ordered the payment of US$5,000,000, USD each to the affected victims in pursuance with the U.N recommendations.\n \nDue to the corrupt and inefficient Banking Systems in most banks around the world, the payments are to be made by the Federal Reserve Bank. According to the number of applicants at hand, 21 Beneficiaries have been paid, 60% of the victims are from the United States, while about 40% are from other parts of the world. We still have more than 75% left to be paid the compensations of US$5,000,000, USD each. it will cost you to obtain the documents from our Government to back you up to receive your US$5,000,000, million United States Dollars only. And make your choice of your payment from our payment methods so that your Fund will be released to you, (1) Cashier Delivery (2) ATM Card with us.(3) bank to bank. Kindly send your personal details to us to prove your identification.\n \n1.Name.\n2.Shipping Address.\n3.Telephone Number .\n4.Age and Marital Status.\n5.Occupation.\n6. Payment method.\nNote; that as soon as we receive the needed information from you, we will further transfer your funds into your nominated bank account within 24hours from today,\n \nWaiting for your immediate response to this email only: \njohncarrollwilliams@outlook.com\n \n \nMr. John Carroll Williams\nFederal Reserve Bank New York\n33 Liberty St, New York, NY 10045, USA.   "
+    },
+    {
+        "from": "baiter_1292",
+        "to": "scammer_1292",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Mr. John Carroll Williams",
+        "body": "Hello Mr. John Carroll Williams,\n\nThank you for reaching out to me with this information. I hope you are doing well today. I must say, this sounds quite interesting. Can you please provide me with more details about how the United Nations is planning to pay these scam victims? How did they come up with the list of approved recipients?\n\nAlso, could you clarify what kind of documents I would need to obtain from the government in order to receive the funds? And what are the different payment methods available for me to choose from?\n\nI appreciate your assistance in providing these additional details.\n\nBest wishes,\nGordon"
+    }
+]

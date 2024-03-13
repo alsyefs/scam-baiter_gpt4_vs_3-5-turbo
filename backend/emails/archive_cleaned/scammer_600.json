@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_600",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "PLEASE LET ME KNOW IF I WOULD ",
+        "body": "PLEASE LET ME KNOW IF I WOULD CANCEL YOUR DELIVERY OR YOU ARE STILL\nWILLING TO RECEIVE IT. YOUR SILENCE MAKES NO OPTION THAN TO CANCEL THE\nDELIVERY FUNDS WORTH THE SUM $4,750,000 USD. THE FEDERAL GOVERNMENT\nINSTRUCTED THAT \nALL PENDING DELIVERY IN THIS OFFICE WILL BE CANCEL SINCE\nYOU ARE UNABLE TO COMPLY WITH THE CLEARANCE CHARGE WHICH IS THE SUM OF\n$155.\nRECONFIRM YOUR FULL ADDRESS IF YOU ARE READY TO COMPLY WITH THE NEEDED CHARGE\nYour Full Name,______________\nYour Country,______________\nHome Address,_______________\nDirect Number,_______________\nTAKE NOTE THAT OUR DELIVERY WILL TAKE OFF ONCE YOU MAKE THE PAYMENT OF THE\nCLEARANCE CHARGE\n, WE WILL SEND YOU THE TRACKING NUMBER TO ENABLE YOUR NOW\nWHEN IT GET TO YOUR HOME ADDRESS. ALSO TAKE NOTE THAT YOUR DELIVERY WILL\nBE ESCORTED TO YOUR HOME FOR SECURITY REASON.\nI NEED YOUR UPDATE ON WHAT TO DO"
+    },
+    {
+        "from": "baiter_600",
+        "to": "scammer_600",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: PLEASE LET ME KNOW IF I WOULD ",
+        "body": "Hello,\n\nThank you for reaching out to me. I apologize for any confusion, but I'm not sure what delivery you are referring to. Could you please provide more information about the package and the clearance charge? I want to make sure I understand the situation correctly before making any decisions.\n\nAdditionally, could you please clarify who instructed the cancellation of pending deliveries and why? It would be helpful to have more details so that I can better assess the situation.\n\nLooking forward to your response.\n\nBest wishes,\nMiguel"
+    }
+]

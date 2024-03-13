@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2041",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear I would like to introdu",
+        "body": "  Dear I would like to introduce our company; we are miners of Alluvial Gold Dust (AU). We are registered with all the necessary agencies of the government and are in the category of small scale mining companies that have the requisite authorization to mine and export Gold.\nCOMMODITY: Alluvial Gold Bars.\nQUANTITY: 500KGS\nQUALITY: 23+ Carats plus\nPURITY: 96.1%)\nPRICE: $51,000 DOLLARS PER KILO.\nOur Company is willing and ready to deliver to your destination between 100-500kgs of Gold Dore bars, which we are offering at $51,000 US dollars per kilo, our mining company in West Africa is one of the leading companies in Ghana –West Africa.  That can supply more quantity from Ghana, we are direct sellers and miners, and we supply Gold to international marketers.  Our main buyer from Spain died of coronavirus 2yr and 8 months ago (20 months) according to reliable source\n If you are capable of assisting us in locating a reputable buyer in your country, my company will pay you an attractive negotiable sales representative commission.\nKindly Thank You\nMr.  Dennis K. Owusu\nSecretary of the company\nMarketing Manager. John\nWhatsApp number only +233244716706   "
+    },
+    {
+        "from": "baiter_2041",
+        "to": "scammer_2041",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear I would like to introdu",
+        "body": "Dear Mr. Dennis K. Owusu,\n\nThank you for reaching out and providing information about your company's mining operations. I appreciate the opportunity to learn more about your business.\n\nCould you please provide some additional details about the quality and purity of the Alluvial Gold Dust AU that your company mines? It would be helpful to know if there are any certifications or independent assessments available to verify its authenticity.\n\nAdditionally, I'm curious about the process of exporting the gold from Ghana to other countries. Are there any specific regulations or permits that need to be obtained before the gold can be shipped?\n\nLastly, could you clarify what you mean by \"reputable buyer\"? What criteria do you consider when determining the reputation of a potential buyer?\n\nThank you for your time and assistance in answering these questions.\n\nBest wishes,\nBetty"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1226",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good day,",
+        "body": "Good day,\nI know this message will come to you as a surprise as we don't know ourselves before now. I just got this email during a normal routing search on the net .\nI am James A. Thinh, the Director of affairs and corporate governance committee in a bank here in my country.\nI am writing this letter to ask for your assistance and co-operation to carry out this transaction. In my department I discovered an abandoned sum of (USD570, 000 000)Five Hundred and Seventy Million US Dollars In an account that belong to one of our customer (MR MAXIMILIAN J. RAY) who died along with the wife and children in a ghastly motor accident in November 2017. Since after his death, we have been expecting his next of kin to come over and claim his money as the heir because we cannot release any money from the account unless someone applies for claims as the next of kin to the deceased as indicated in our banking guidelines.\nUnfortunately neither his family member nor distant relatives has applied to claim the fund. Upon this discovery, I have decided to make business with you and release the total amount to you via a security company. Because according to the law of 1993 any account that has no valid claim after a few years will be reverted to the government treasury, please note that this information is very confidential.\nI need your full cooperation because the management is ready to approve the payment to anybody who has correct information of this account, which I will give to you later if you are able to handle such an amount in strict confidence and trust according to my instructions and advice for our mutual benefit.\nWith my position now in the office, I can transfer this money to any foreigner's reliable account, which you can provide with assurance that this money will be intact pending my physical arrival in your country for sharing. I will destroy all documents of the transaction immediately we receive this money leaving no traces to any place.\nI concluded to transfer this money overseas for proper investment that will help me and my family.\nAt the conclusion of this business, you will be given 45% and 45% is for me and my family, and 10% for the expenses incurred during this transaction.\nLooking forward to hearing from you.\nThanks and God bless you..\nYours faithfully James A. Thinh"
+    },
+    {
+        "from": "baiter_1226",
+        "to": "scammer_1226",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Good day,",
+        "body": "Hello James A. Thinh,\n\nThank you for reaching out to me with this opportunity. I must admit, your email did come as a surprise to me. I'm interested in learning more about this abandoned sum of money and how I can assist you. Could you please provide me with some additional details?\n\n1. How exactly did you come across this abandoned account?\n2. What is the process for claiming the funds from the account?\n3. Are there any legal implications or risks involved in transferring such a large amount of money overseas?\n4. Can you explain how we would go about ensuring the confidentiality and security of this transaction?\n\nI appreciate your time and look forward to hearing back from you soon.\n\nBest wishes,\nJames"
+    }
+]

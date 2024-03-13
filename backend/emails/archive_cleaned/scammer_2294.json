@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2294",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir/Ma,",
+        "body": "  Dear Sir/Ma,\n               IMMEDIATE RELEASE OF YOUR LONG-DELAYED FUND\nI am delighted to inform you that the Federal government has approved the immediate release of your fund.\nThe government gave the approval following the investigation carried out by this office. We discovered that your payment has been deliberately and unjustly delayed due to the selfish interests of some highly placed officials and their criminal collaborators.\nYou are here advised to see the attached letter for more information and instruction.\nYours sincerely,\n \nGerald Adams,\nSecretary,\nOffice of the Special Adviser to the President on:\nInformation & Strategy.\nOffice of the Presidency.\nFederal Republic of Nigeria.   "
+    },
+    {
+        "from": "baiter_2294",
+        "to": "scammer_2294",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir/Ma,",
+        "body": "Hello! Thank you for sharing this information with me. I appreciate the update on the approval of my fund release by the Federal government. Could you please provide more details about the process and what steps I need to take next?\n\nBest wishes,\nMary"
+    }
+]

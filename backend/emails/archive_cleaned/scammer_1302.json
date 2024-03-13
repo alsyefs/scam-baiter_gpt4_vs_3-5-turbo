@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1302",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Barrister Ken Morris",
+        "body": "  Barrister Ken Morris\n#12581 US Highway 285\nConifer, Colorado 80433\nUSA.\nAttention:\nHow are you doing today? Happy New year to you I am writing to inform you that my client Monica Daniels Tkachenkov funds valued of $12,000,000.00 dollars has been moved to our diplomat agent to deliver it to your house address through sealed box so kindly send me your address so that he will contact you on how to deliver it but never you disclose what is inside the box to him because we told him that it contains your family wears and shoes.\nTherefore,I repeat my self again very clear that what ever emails been received from him should send to me.\nKindly contact me back with your delivery address for the next action.\nYours in service,\nBarrister Ken Morris\nKen & Morris Chambers   "
+    },
+    {
+        "from": "baiter_1302",
+        "to": "scammer_1302",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Barrister Ken Morris",
+        "body": "Hello Barrister Ken Morris,\n\nThank you for reaching out to me. I hope you're doing well too. Happy New Year to you as well!\n\nI appreciate you informing me about the funds belonging to Monica Daniels Tkachenkov. It sounds like an interesting opportunity. However, before I provide my address, could you please clarify a few things for me?\n\n1. How did Monica Daniels Tkachenkov come across such a large sum of money?\n2. Why is it necessary to send the funds through a sealed box instead of using traditional banking methods?\n3. Can you explain more about the role of your diplomat agent? How does this delivery process work?\n\nOnce I have a better understanding of these details, I'll be able to proceed accordingly.\n\nBest wishes,\nRobert"
+    }
+]

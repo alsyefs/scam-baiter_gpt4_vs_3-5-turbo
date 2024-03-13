@@ -1,0 +1,622 @@
+[
+    {
+        "from": "scammer_1335",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Beneficiary, My name is M",
+        "body": "Dear Beneficiary, My name is Mr. Jordan Strong Executive Payment Director of RBC (Royal Bank Of Canada) Toronto, Canada. I'm contacting you on behalf of your authorization regarding your allocated funds US$26million (Twenty Six Million USA Dollars) \nOur bank was notified by a source claiming to be your next of kin, the rightful beneficiary to your unclaimed funds before any procedure could commence I need to hear from you as soon as possible to be sure this is a false claim so the imposter could be apprehended immediately.\nAn urgent response is needed from you within the next 42hrs, before the bank could take any action.\nYours sincerely.\nJordan Strong \nExecutive Payment Director \nRBC (Royal Bank Of Canada) \nToronto, Canada."
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Beneficiary, My name is M",
+        "body": "Hello Mr. Jordan Strong,\n\nThank you for reaching out to me. I'm quite surprised to hear about this unclaimed fund of US Twenty Six Million Dollars. Could you please provide more details about this? How did my name come up in connection with these funds?\n\nAlso, could you clarify who is claiming to be my next of kin? I would like to understand the situation better before we proceed further.\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Beneficiary, My name is M",
+        "body": "I will explain all details but now I need you to forward me your full\r\ninformation for verification here at the bank.\r\n\r\nSoon as your information has been verified the imposter claiming to be your\r\nnext of kin will be arrested.\r\n\n1. Full Name\r\n2. Phone Number\r\n3. Banking Details\r\n4. Home Address\r\n5. ID card.\r\n\r\nJordan Strong."
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.00375,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "",
+        "body": "You will be receiving your funds in 2 options so I need you to make your\r\nchoice on how you want to receive your funds either by wire transfer or\r\nbitcoin (CRYPTO CURRENCY)\r\n\r\nSo make your choice and get back to me immediately to proceed.\r\n\nJordan Strong."
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.015694444444444445,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Dear Beneficiary, My name is M",
+        "body": "Hello Jordan Strong,\n\nThank you for reaching out to me. I'm really interested in learning more about this situation. It's quite surprising to hear that someone is claiming to be my next of kin.\n\nCould you please explain a bit more about how this came to light? And what steps are being taken by the bank to address this issue?\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.015729166666666666,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: ",
+        "body": "Hello Jordan Strong,\n\nThank you for your message. It's really exciting to hear about these options! I'm not very familiar with bitcoin CRYPTO CURRENCY, could you please explain a bit more about it? And as for the wire transfer, how does that work exactly?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0221875,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Dear Beneficiary.",
+        "body": "Your full withheld funds has been officially approved by the IMF to be\r\ntransferred to you through our bank here in Canada.\r\n\r\nThe Bank has notified the security agency about the imposter and will take\r\naction immediately to see that the imposter claiming to be your next of kin\r\nis apprehended.\r\n\nJordan Strong."
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.025972222222222223,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "FUNDS TO BE TRANSFERRED $26MILLION",
+        "body": "Very well I understand you are not familiar with bitcoin.\r\n\r\nFor the wire transfer option you need to send in your banking details for\r\nprocessing to enable your funds to be transferred into your account within\r\n24hrs.\r\n\r\nSend in your banking details, ID card & Phone number.\r\n\nJordan Strong."
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.05726851851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: FUNDS TO BE TRANSFERRED $26MILLION",
+        "body": "Hello Jordan Strong,\n\nThank you for your message. I must admit, I'm not very familiar with bitcoin or wire transfers. Could you please explain a bit more about how these processes work? \n\nI'm also curious, why do you need my banking details and ID card? Is there another way to process the funds without sharing such personal information?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.05732638888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "Hello there,\n\nThank you for sharing this information with me. It's quite surprising to hear about someone claiming to be my next of kin. Could you please tell me more about how the IMF got involved in this matter? And what kind of actions are being taken against this imposter, Jordan Strong?\n\nI'm also curious about the process of transferring these funds. How does it usually work? I'd appreciate any additional details you could provide.\n\nLooking forward to your response!\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0628587962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: FUNDS TO BE TRANSFERRED $26MILLION",
+        "body": "Madam, There's no other way the funds could be transferred unless an\r\naccount will be opened for you here at the bank and deposited your\r\nfunds into your opened account then you'll be delivered a special\r\nMastercard ATM card you can use to make withdrawal anywhere in the world.\r\n\r\nSo you choice and get back to me now.\r\n\nJordan Strong."
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.06704861111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "Madam, the wire transfer is a Telegraphic Transfer (KTT) which you have to\r\nprovide the bank your banking details you'll use to receive your funds\r\nwhich will be transferred within 48hrs.\r\n\r\nI wait to hear from you.\r\n\nJordan Strong."
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.09902777777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: FUNDS TO BE TRANSFERRED $26MILLION",
+        "body": "Hello Jordan Strong,\n\nThank you for your message. I appreciate the information about the Mastercard ATM card. It sounds like a convenient way to access funds.\n\nCould you please explain more about how this process works? For instance, how would I go about opening an account at your bank? And once the account is opened, how long does it usually take for the funds to be deposited?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.09907407407407408,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "Hello Jordan Strong,\n\nThank you for your message. I'm intrigued by this Transfer KTT process. Could you please explain it a bit more? How does it work exactly? And what kind of banking details are typically needed for such a transfer?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.11293981481481481,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "The KTT Telegraphic transfer is an International Bank Transfer use In\r\nwiring a desired amount of funds legally and secured within 48hrs.\r\n\r\nBelow is the information needed for the transfer.\r\n\n1. Full Name\r\n2. Full Address\r\n3. Phone Number\r\n4.SSN\r\n5.ID Card\r\n\r\nI wait to hear from you.\r\n\r\nJordan Strong."
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.12277777777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "This information is required to open an account at our bank and process an\r\nInternational Mastercard ATM Card you can make use of anywhere in the world.\r\n\r\nBelow is the KTT Telegraphic transfer  requirements.\r\n\r\n1. Beneficiary Acct Name\r\n2. Beneficiary Acct Number\r\n3. Bank Name\r\n4.ssn\r\n5. ID card\r\n\r\nI wait for your response\r\n\nJordan Strong."
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.1407175925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "Hello Jordan Strong,\n\nThank you for reaching out to me. I'm quite interested in the Mastercard ATM Card that can be used anywhere in the world. That sounds very convenient!\n\nHowever, I have a few questions before we proceed. Could you please explain what a KTT transfer is? Also, could you provide more details about the account opening process at your bank?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.1407986111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "Hello Jordan Strong,\n\nThank you for your message. It's interesting to learn about the KTT transfer process. I'm curious, how does this type of bank transfer ensure security? And could you please explain a bit more about the process?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.15998842592592594,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "Madam, as I said before your banking details is needed to make the transfer\r\nand take note the transfer is authorized by the world bank so with all\r\ndocuments intact the transfer will proceed within 48hrs or less.\r\n\nJordan Strong."
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.18237268518518518,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "Hello Jordan Strong,\n\nThank you for your message. It's great to hear that the transfer is authorized by the World Bank, that sounds very official! Could you please explain a bit more about how this process works? I'm not very familiar with these kinds of transactions.\n\nAlso, could you clarify what documents are needed for the transfer to proceed? I want to make sure I understand everything correctly.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.18814814814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "Madam, all you need to know is that once you provide your banking details\r\nthe transfer process will take place and which the IMF clearance documents\r\nneeds to be obtained in order for the transfer commence immediately.\r\n\r\nTo obtain the IMF clearance certificate the total cost is $1,200.00 to\r\nbackup the transfer.\r\n\nJordan Strong."
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.19243055555555555,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "The transfer will be a direct telegraphic bank wire transfer into your bank\r\naccount within 48hrs or less depending on the when the transfer commences.\r\n\nJordan Strong."
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.22399305555555554,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "22",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "Hello Jordan Strong,\n\nThank you for your message. I'm quite interested in this process, but I must admit, I'm not very familiar with how these things work. Could you please explain a bit more about the IMF clearance documents? What exactly are they and why are they necessary for the transfer? \n\nAlso, could you provide more details about the total cost to back up the transfer? Is this a standard fee or does it vary depending on certain factors?\n\nI appreciate your patience and look forward to hearing from you soon!\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.22403935185185186,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "23",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "Hello Jordan Strong,\n\nThank you for your message. It's interesting to hear about this direct bank wire transfer. Could you please provide more details? For instance, what is the purpose of this transfer? And why would it be sent to my bank account?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.3707986111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "24",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "Madam, I need you to understand that the IMF clearance certificate is to\r\nbackup the transfer of your funds and the $1,200 is a standard and only fee\r\nyou are to pay in order to obtain the IMF clearance certificate ASAP.\r\n\nJordan Strong."
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3728125,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "25",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "Hello Jordan Strong,\n\nThank you for your message. I appreciate the information about the IMF clearance. It's interesting to know that it's a standard procedure for fund transfers. Could you please explain more about how this process works? And why is there a fee involved? \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.38688657407407406,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "26",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "Madam, the fee is only the payment you are to make in order to obtain the\r\nIMF clearance certificate \"Certificate of International Capital transfer\" the\r\ndocument is used for approval to backup the transfer so your funds can be\r\nwired safely into your account without any stoppage.\r\n\r\nSo you need to try and send in your bank information for processing so that\r\nthe transfer will commence immediately the Certificate is issued.\r\n\nJordan Strong."
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.41452546296296294,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "27",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "Hello Jordan Strong,\n\nThank you for your message. I appreciate the information about the IMF clearance of Capital transfer. It sounds like a very important document to ensure the safe transfer of funds.\n\nCould you please explain a bit more about how this process works? And what exactly does this fee cover? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.42255787037037035,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "28",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "Madam, how this work is once the IMF clearance certificate is issued from\r\nthe IMF director the transfer will commece immediately and this $1,200 you\r\nare to pay now is to obtain the certificate and nothing more.\r\n\r\nI wait to hear from you.\r\n\nJordan Strong."
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.4561458333333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "29",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "Hello Jordan Strong,\n\nThank you for your message. I'm quite interested in understanding more about this process. Could you please explain a bit more about the IMF clearance? What exactly does it entail and why is it necessary for the transfer?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.5559259259259259,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "30",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "Madam,  the IMF certificate provides clearance and it's used to avoid any\r\ntransit stoppage which means it backs up the transfer.\r\n\nJordan Strong."
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.5740625,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "31",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "Hello Jordan Strong,\n\nThank you for sharing this information about the IMF. It's interesting to know that they provide clearance to avoid transit stoppage. Could you please elaborate more on how this process works? And what exactly does \"backing up the transfer\" mean?\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6213425925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "32",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "Madam, the transfer has to be backed up by the IMF \"International Monetary\r\nFund\" the document is needed when a bank is transferring a hugh sum amount\r\nfunds money International this will aid the transfer to commence without\r\nany further delay.\r\n\nJordan Strong."
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6250810185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "33",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "Madam,  Once the certificate is obtained i will forward you a copy\r\nimmediately I wait for your details for processing so the transfer could\r\nproceed on Monday.\r\n\nJordan Strong."
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6574189814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "34",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "Hello Jordan Strong,\n\nThank you for your message. I'm not very familiar with these financial terms, but it sounds like a big deal! Could you please explain more about this IMF Monetary Fund document? How does it help in transferring large sums of money? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6574652777777777,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "35",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "Hello Jordan Strong,\n\nThank you for your message. I'm really excited about this process and can't wait to get started! Could you please explain a bit more about what exactly will be transferred on Monday? And also, what kind of details do you need from me for the processing?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6887962962962964,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "36",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "Madam, you just have to send in your banking details such as.\r\n\n1. Beneficiary Acct Name\r\n2. Beneficiary Acct Number\r\n3. Bank Name\r\n4.ssn\r\n5. ID card\r\n\r\nJordan Strong."
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.689699074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "37",
+        "subject": "FUNDS TO BE TRANSFERRED $26MILLION",
+        "body": "Madam, you just have to send in your banking details such as.\r\n\r\n\n1. Beneficiary Acct Name\r\n\r\n2. Beneficiary Acct Number\r\n\r\n3. Bank Name\r\n\r\n4.ssn\r\n\r\n5. ID card\r\n\r\nJordan Strong."
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6941319444444445,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "38",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "Dear Madam,  the document is used in securing a bank wire transfer the\r\ndocument is a mandatory certificate.\r\n\nJordan Strong."
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.694837962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "39",
+        "subject": "Re: FUNDS TO BE TRANSFERRED $26MILLION",
+        "body": "Madam, are you ready for the transfer to proceed on Monday?\r\n\r\nI wait to hear from you\r\n\nJordan Strong."
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6989814814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "40",
+        "subject": "Re: FUNDS TO BE TRANSFERRED $26MILLION",
+        "body": "Hello Jordan Strong,\n\nThank you for reaching out. I'm quite excited about this transfer! Could you please provide more details about it? Like, what exactly is being transferred and why is it happening on Monday? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6990972222222223,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "41",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "Hello Jordan Strong,\n\nThank you for your message. I'm intrigued by the process of securing a bank wire transfer. Could you please elaborate more on how this document is used in that process? Also, what kind of information does the document usually contain?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6991435185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "42",
+        "subject": "Re: Dear Beneficiary.",
+        "body": "Hello Jordan Strong,\n\nThank you for your message. I'm quite interested in what you're proposing, but could you please explain a bit more about why these details are needed? I'm just trying to understand the process better.\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6991782407407408,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "43",
+        "subject": "Re: FUNDS TO BE TRANSFERRED $26MILLION",
+        "body": "Hello Jordan Strong,\n\nThank you for reaching out to me. I'm curious, what is the purpose of sharing these banking details? Could you please provide more information about this process?\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6993055555555555,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "44",
+        "subject": "Re: FUNDS TO BE TRANSFERRED $26MILLION",
+        "body": "Hello Jordan Strong,\n\nThank you for reaching out. I'm quite excited about this transfer! Could you please provide me with more details? Like, what exactly is being transferred and how will it be done? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.7100462962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "45",
+        "subject": "Re: FUNDS TO BE TRANSFERRED $26MILLION",
+        "body": "Madam,  the transfer of your funds will commence on Monday once the\r\ndocument is obtained the transfer is occurring on Monday morning to ensure\r\nyou receive your funds in time.\r\n\nJordan Strong."
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.7114583333333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "46",
+        "subject": "Re: FUNDS TO BE TRANSFERRED $26MILLION",
+        "body": "Madam,  I have answered the same questions but now you need to follow my\r\ninstructions so the transfer will proceed.\r\n\r\nI wait to hear from you.\r\n\nJordan Strong."
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7406481481481482,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "47",
+        "subject": "Re: FUNDS TO BE TRANSFERRED $26MILLION",
+        "body": "Hello Jordan Strong,\n\nThank you for your response. I appreciate your patience in answering my questions. Could you please elaborate more on the process of this transfer? I'm eager to understand it better.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7408217592592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "48",
+        "subject": "Re: FUNDS TO BE TRANSFERRED $26MILLION",
+        "body": "Hello Jordan Strong,\n\nThank you for your message. I'm really excited to hear that the transfer will commence on Monday. Could you please tell me more about this document that needs to be obtained? And how exactly does it ensure the timely receipt of my funds?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.7523263888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "49",
+        "subject": "Re: FUNDS TO BE TRANSFERRED $26MILLION",
+        "body": "Madam, as I said before in my previous email the document aids in securing\r\na successful wire transfer of funds into your bank account of your choice\r\nthe only thing you are to do now is forward in your banking details for\r\nprocessing."
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.7561689814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "50",
+        "subject": "Re: FUNDS TO BE TRANSFERRED $26MILLION",
+        "body": "The transfer commences after the document is obtained and I will send you a\r\ncopy of the document once obtained so you can confirm all necessary details."
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.7570717592592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "51",
+        "subject": "Re: FUNDS TO BE TRANSFERRED $26MILLION",
+        "body": "Madam, now you need to listen to me and follow my instructions and I will\r\nensure you receive your funds."
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7823263888888888,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "52",
+        "subject": "Re: FUNDS TO BE TRANSFERRED $26MILLION",
+        "body": "Hello there,\n\nThank you for your email and the information provided. It's great to hear that the document will aid in securing a successful wire transfer of funds. \n\nHowever, I'm curious about how this process works. Could you please explain it to me in more detail? For instance, what are the steps involved in this wire transfer? And how does providing my banking details facilitate this process?\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7823842592592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "53",
+        "subject": "Re: FUNDS TO BE TRANSFERRED $26MILLION",
+        "body": "Hello there,\n\nThank you for your message. It's great to hear that the transfer will commence after the document is obtained. I'm looking forward to receiving a copy of it so I can confirm all the necessary details.\n\nCould you please tell me more about this document? What kind of information does it contain? And how long do you think it will take to obtain it?\n\nI appreciate your help with this matter.\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7824189814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "54",
+        "subject": "Re: FUNDS TO BE TRANSFERRED $26MILLION",
+        "body": "Hello there! I appreciate your message and your willingness to help me receive my funds. Could you please explain more about these funds? Where are they coming from?\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0273263888888888,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "55",
+        "subject": "Re: FUNDS TO BE TRANSFERRED $26MILLION",
+        "body": "Madam,  first the document will be obtained within 24hrs and the document\r\ncontains all information about the funds and transfer which i will send you\r\na copy.\r\n\r\nThe transfer commences once the certificate is obtained and the only fee\r\nyou are to pay now is $1,200 to obtain the document.\r\n\r\nYour banking details is needed for the transfer so you need to forward in\r\nyour banking details for processing that's all.\r\n\nJordan Strong."
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.029976851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "56",
+        "subject": "Re: FUNDS TO BE TRANSFERRED $26MILLION",
+        "body": "Madam,  I need you to understand that this transfer is legal and there's\r\nnothing to be afraid of I will ensure that you receive your funds.\r\n\r\nWe don't have much time, I need to know are you ready to receive your funds.\r\n\nJordan Strong"
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.032314814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "57",
+        "subject": "Re: FUNDS TO BE TRANSFERRED $26MILLION",
+        "body": "Hello Jordan Strong,\n\nThank you for reaching out to me. I'm glad to hear that this transfer is legal and safe. Could you please provide more details about these funds? How did they come about and why are they being transferred to me? \n\nLooking forward to your response.\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0324074074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "58",
+        "subject": "Re: FUNDS TO BE TRANSFERRED $26MILLION",
+        "body": "Hello Jordan Strong,\n\nThank you for your message. It's interesting to hear about the document and the transfer process. Could you please provide more details about this document? What kind of information does it contain? \n\nAlso, I'm curious about the fee for obtaining the document. How much is it and how is it used in the process?\n\nAs for my banking details, I'm a bit cautious about sharing them online due to security reasons. Is there any other way we can proceed without me having to share these details?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0353935185185186,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "59",
+        "subject": "Re: FUNDS TO BE TRANSFERRED $26MILLION",
+        "body": "Madam,  the $1,200 is the only fee you are to pay now and your bank details\r\nis needed for transfer because without your bank details there's no way you\r\ncan receive your funds.\r\n\nJordan Strong."
+    },
+    {
+        "from": "baiter_1335",
+        "to": "scammer_1335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0739814814814814,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "60",
+        "subject": "Re: FUNDS TO BE TRANSFERRED $26MILLION",
+        "body": "Hello Jordan Strong,\n\nThank you for your message. I'm really excited about this opportunity! Just to clarify, could you please explain why my bank details are necessary for the transfer? Is there any other method we could use that doesn't require sharing such sensitive information? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMargaret"
+    },
+    {
+        "from": "scammer_1335",
+        "to": "baiter_1335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.532650462962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "61",
+        "subject": "Re: FUNDS TO BE TRANSFERRED $26MILLION",
+        "body": "Dear Madam,\r\n\r\nYes, we can open an account for you here at our bank all you need to do now\r\nis send your full information for account opening.\r\n\r\nSoon as an account is opened under your name you'll be delivered an\r\nInternational Mastercard ATM Card you can use to make withdrawal anywhere\r\nin the world.\r\n\r\nI wait to hear from you\r\n\nJordan Strong."
+    }
+]

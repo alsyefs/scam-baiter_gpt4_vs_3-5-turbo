@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1155",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "FedEx Delivery Company Service",
+        "body": "FedEx Delivery Company Service\nInternational Operations Division\nOffice Hours: Monday To Saturday:\nAddress: 793 Center St, Lewiston, NY 14092, USA.\nAttention: Fund Beneficiary,\nMy name is Mrs.Maria Christine. I work at FedEx couriers company here in USA, there is a box package containing an ATM card worth the sum of (US$12,000,000,000.00 Twelve Billion United State Dollars). \nwe have here in your Email Address the box package is coming from bank of Canada, so if you are sure that you are the Owner of this box package do not delay getting back to us by reconfirm of your information and be ready to pay delivery fees $100 and the keeping charges $100 so that your box package will be delivered to you today or tomorrow morning.\nJust go ahead an buy iTunes Gift card or Steam wallet card today $100.usd then scratch the card scan and send me the copies, So make it fast so that your box package will be delivered to you today without delay.\ncontact us on this Email(\ninfom2715@gmail.com\n)\nThanks\nMrs.Maria Christine"
+    },
+    {
+        "from": "baiter_1155",
+        "to": "scammer_1155",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: FedEx Delivery Company Service",
+        "body": "Hello Christine,\n\nWow, that's quite a surprise! I had no idea about this package. Can you tell me more about how it ended up at your courier company? And why is it coming from the Bank of Canada? \n\nAlso, could you please explain why I need to buy a gift card or Steam wallet card for the delivery fees and keeping charges? Is there any other way to pay these fees?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nDustin"
+    }
+]

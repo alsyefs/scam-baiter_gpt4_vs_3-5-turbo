@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_58",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention,",
+        "body": "Attention,\nThis is FBI Agent Kennedy Albano, I want to use this opportunity to\ninform you that we have arrested the diplomatic agent that refused to\ndeliver your package worth a sum of $4.5Million USD. Meanwhile, \nwe\nurge you to respond to this email if you're interested in receiving\nyour fund with this below information..\nYour Name:\nHome Address:\nCell Phone:\nOccupation:\nyour Nearest Airport:\nAge:\nAm looking forward to your immediate response.\nEmail via (\nagentkennedyalbano111@gmail.com\n)\nRegards.\nFBI Agent Kennedy Albano."
+    },
+    {
+        "from": "baiter_58",
+        "to": "scammer_58",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attention,",
+        "body": "Hello Agent Kennedy Albano,\n\nWow, that's quite a surprise! I wasn't aware there was a diplomatic agent with my package. Can you tell me more about this situation? How did you come across this information and what does the package contain?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nCory"
+    }
+]

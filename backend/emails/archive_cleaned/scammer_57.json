@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_57",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear friend I understand your ",
+        "body": "Dear friend I understand your finding it difficult to raise the fee because of your financial situation. I understand many people are facing the same challenges I really want you to receive this your funds because it will help you and your family in future, then \nI decided to help you with some money to complete the rest, your to send $100 now I will complete the rest to assist you once you receive your ATM MasterCard you pay me back\n and you have to promise and make sure you will be honest to pay me back immediately you receive your ATM MasterCard. Please resend your delivering address again so that I will direct you how to send the $100 Regards Robert lewis Phone number+1213-465-3449 WhatsApp number +1213-465-3449"
+    },
+    {
+        "from": "baiter_57",
+        "to": "scammer_57",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear friend I understand your ",
+        "body": "Dear Robert Lewis,\n\nThank you for reaching out to me. I appreciate your understanding of my financial situation. It's good to know that there are people like you who are willing to help others in need.\n\nI understand that you want to assist me with some money to complete the fee so that I can receive my funds. That sounds very generous of you. However, before proceeding, I have a few questions:\n\n1. How did you come across my situation? \n2. Can you provide more details about the funds and how they will be delivered?\n3. What is the total amount of money needed to complete the fee?\n4. Are there any additional charges or fees involved in this process?\n\nOnce I have a better understanding of the situation, I will be able to make an informed decision. Please provide me with the requested information, and we can proceed from there.\n\nThank you again for your willingness to help.\n\nBest wishes,\nPeter"
+    }
+]

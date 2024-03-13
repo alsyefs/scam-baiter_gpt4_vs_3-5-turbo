@@ -1,0 +1,342 @@
+[
+    {
+        "from": "scammer_2101",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir/Madam,",
+        "body": "  Dear Sir/Madam,\nThis is to bring to your notice that some huge amount of money was deposited in our bank sometime in the past via the Central Bank of Nigeria on transit to your bank account details in your name. The original amount has been withdrawn back to the Central Bank of Nigeria,Now there is an accrued interest of US$700,000.00 lifted behind that belongs to you.\nI resumed office recently and discovered such an interest fund belonging to you in custody with our United Bank For Africa Nigeria.You have to be rest assured that I will do everything within my capacity to transfer your interest fund to you. Get back so that I will direct you on what to do,so that your interest fund US$700,000.00 will be release through loaded atm card or bank check.Kindly contact me via this email address :  \npetersonaku@aol.com\nYours Sincerely\nMr. Peterson Aku\n(Foreign Remittance Manager)   "
+    },
+    {
+        "from": "baiter_2101",
+        "to": "scammer_2101",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir/Madam,",
+        "body": "Hello Mr. Peterson Aku,\n\nThank you for reaching out to me with this information. I must say, it's quite surprising to hear about this accrued interest fund. Could you please provide more details about how this situation came about? \n\nAlso, could you explain the process of transferring the funds a bit more? You mentioned an ATM card or bank transfer - which one would be more secure and efficient?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nHolly"
+    },
+    {
+        "from": "scammer_2101",
+        "to": "baiter_2101",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Interest Fund",
+        "body": "Holly.Thanks for your mail replied. I attached a copy of my bank id card also our bank form where you will fill in your bank account and your details so that i will start processing for your interest fund. Again if you choose for your interest fund to be loaded with ATM card and deliver to you,then you will take care of the courier service fee by yourself.Then if you choose your fund to be transferred to you via wire transfer direct deposit to your bank account as my bank will do so too.Peterson Aku"
+    },
+    {
+        "from": "baiter_2101",
+        "to": "scammer_2101",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00016203703703703703,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Interest Fund",
+        "body": "Hello there,\n\nThank you for your prompt response. I appreciate the information you've provided. However, I'm a bit confused about some details. Could you please clarify what exactly this interest fund is? And how did I become eligible for it?\n\nAlso, could you explain more about the ATM card option? How would that work? \n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nHolly"
+    },
+    {
+        "from": "scammer_2101",
+        "to": "baiter_2101",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.29856481481481484,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Interest Fund",
+        "body": "Holly.Thanks for your mail replied. There was some fund on transit deposited in our bank long time ago and was later reverse back to Central Bank of Nigeria as unclaimed inheritance fund.Then during the period the money was in our bank as there's an accurate interest from the fund which amount to $1,700,000 that my bank where about to pay you.This is how come about the interest fund that belong to you.\r\nOur computer system network got fired and only your email address details we can find.\r\nI am out to do everything so that you will receive your interest fund now.\r\nKindly forward your valid ID card like driving license or any valid ID card so that I will start processing for your atm card issued and your interest fund been loaded and deliver to you through courier service to your country.\r\nDo forward your mailing address details and your direct telephone for both of us conversation.Once you forward your details and your atm card is issued out as I will forward it to the courier service to contact you for the delivery of your atm card immediately.Peterson Aku"
+    },
+    {
+        "from": "baiter_2101",
+        "to": "scammer_2101",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.4018055555555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Interest Fund",
+        "body": "Hello Aku,\n\nThank you for reaching out to me. It's quite surprising to hear about this unclaimed fund and the interest that has accumulated over time. I must say, it's a bit confusing though. Could you please explain more about how this fund came to be in my name? \n\nAlso, could you provide more details about the process of receiving this ATM card? How does the courier service work and what are their policies?\n\nI'm sorry but I'm not comfortable sharing my ID or any personal information online due to security reasons. Is there another way we can verify my identity without compromising my personal information?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nHolly"
+    },
+    {
+        "from": "scammer_2101",
+        "to": "baiter_2101",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.0763541666666665,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Interest Fund",
+        "body": "Holly.Well I am assuring you that this interest fund belongs to you.Kindly find any of your  full name and your mailing address also your telephone number for conversation so that I will use to secure all backup documents copies which will bear your name so that I will forward your documents copies to you.\r\nOur computer system got fired last year and we loose alot of beneficiary owner contact.\r\nOnce I heard from you as your legal documents to secure in your name is the first thing,before your atm card will be issued and deliver to you.\nPeterson Aku"
+    },
+    {
+        "from": "baiter_2101",
+        "to": "scammer_2101",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.882025462962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Interest Fund",
+        "body": "Hello Peterson Aku,\n\nOh, that sounds like a terrible situation with your computer system. I can't imagine how much trouble that must have caused. \n\nI'm curious about this interest fund you mentioned. Could you tell me more about it? How did it come to be and why does it need my name on the documents?\n\nLooking forward to hearing from you.\n\nBest wishes,\nHolly"
+    },
+    {
+        "from": "scammer_2101",
+        "to": "baiter_2101",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.412835648148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Interest Fund",
+        "body": "Holly.Thanks for your mail replied.My office will have to setup an account with your name here first and deposit your interest fund before an atm card loaded with your interest fund will be issued out and deliver to you through the courier service.This is why you will need to forward your details so that I will complete your interest fund process here.I am assuring you 💯 percent risk free also I have carried this your matter are cross my heart to see that I do everything needed here so that your interest fund is been released to you.I am doing everything here so that once you receive your interest fund so that you will compensate me very well for my work well done. Kindly go ahead to forward your details if card and your telephone number so that both of us will discuss well.\nPeterson Aku"
+    },
+    {
+        "from": "baiter_2101",
+        "to": "scammer_2101",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.424270833333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Interest Fund",
+        "body": "Hello Peterson Aku,\n\nThank you for your detailed explanation. It sounds like a very interesting process! I'm curious, how does the ATM card get loaded with the interest fund? And how is it delivered through the courier? \n\nI'm also wondering about the compensation you mentioned. How does that work exactly?\n\nLooking forward to hearing more about this.\n\nBest regards.\n\nBest wishes,\nHolly"
+    },
+    {
+        "from": "scammer_2101",
+        "to": "baiter_2101",
+        "direction": "Inbound",
+        "days_from_first_conversation": 7.424502314814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Interest Fund",
+        "body": "HollyThanks for your mail replied.I will assist you open a non resident coded bank account only for the processing of your interest fund first.After setting up an account as an ATM card will be issued and loaded with your interest fund and deliver to you.Once you receive the atm card hard copy,then you will make withdrawal of your interest fund immediately.Then the compensation is for my job well done for helping you out received your interest fund.Peterson Aku"
+    },
+    {
+        "from": "baiter_2101",
+        "to": "scammer_2101",
+        "direction": "Outbound",
+        "days_from_first_conversation": 7.443020833333334,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: Interest Fund",
+        "body": "Hello there,\n\nThank you for your email. It sounds like an interesting opportunity. Could you please provide more details about this non-resident coded bank account? How does it work exactly? And how is the ATM card loaded with the interest fund?\n\nAlso, I'm curious about the process of receiving the ATM card. Is it delivered by mail or do I need to pick it up from somewhere? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nHolly"
+    },
+    {
+        "from": "scammer_2101",
+        "to": "baiter_2101",
+        "direction": "Inbound",
+        "days_from_first_conversation": 7.455266203703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: Interest Fund",
+        "body": "Thanks for your mail replied.Kindly forward your I'd card copy and your mailing address details together with your telephone number so that I will help you setup an account with our bank.\r\nThen details of your bank account number opening will be forwarding to you.Once my bank issue out your atm card as it will be delivered to your mailing address through courier service  which you will take care of the delivery cost.Peterson Aku"
+    },
+    {
+        "from": "baiter_2101",
+        "to": "scammer_2101",
+        "direction": "Outbound",
+        "days_from_first_conversation": 7.464930555555555,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: Interest Fund",
+        "body": "Hello there,\n\nThank you for your message. It's great to hear from you! I'm really interested in setting up an account with your bank. Could you please tell me more about the process? What kind of documents do I need to provide? And how long does it usually take?\n\nAlso, could you please explain a bit more about the ATM card delivery? How does the courier service work and what are the associated costs?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nHolly"
+    },
+    {
+        "from": "scammer_2101",
+        "to": "baiter_2101",
+        "direction": "Inbound",
+        "days_from_first_conversation": 8.285243055555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: Interest Fund",
+        "body": "Holly.Thanks for your mail replied.Kindly forward your full name and your mailing address and your telephone number also your passport photographer size and any of your valid ID card so that I will start by next week Monday to process your account number opening with our bank.\r\nOnce your account number opening with our bank is done ,then your atm card will be issued out and deliver to you through the courier service.\r\nThe courier service fee is $90 and the atm card insurance coverage fee is $250.The total cost is $340 you will pay so that the courier service will deliver to your mailing address..Peterson Aku"
+    },
+    {
+        "from": "baiter_2101",
+        "to": "scammer_2101",
+        "direction": "Outbound",
+        "days_from_first_conversation": 8.298113425925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: Interest Fund",
+        "body": "Hello,\n\nThank you for your email. I'm really excited about the prospect of opening an account with your bank and receiving an ATM card. It sounds like a great opportunity.\n\nHowever, I have a few questions before we proceed. Could you please explain more about the courier service fee and the ATM card insurance coverage fee? Also, could you provide more details about the process of opening an account?\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nHolly"
+    },
+    {
+        "from": "scammer_2101",
+        "to": "baiter_2101",
+        "direction": "Inbound",
+        "days_from_first_conversation": 8.339733796296295,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: Interest Fund",
+        "body": "Holly.Thanks for your mail replied.Once you forward your details name and mailing address as I will process your account number opening with our bank.Then as soon as my bank is through for your bank account opening with our bank,then your atm card will immediately issue and forwarded to the courier service to deliver to your mailing address.I will collect your airway bill number and for you to you so that you will track and know when your atm card parcel will reach your country.\r\nThe courier service fee to deliver your atm card cost is $90 and the atm card insurance coverage cost is $250.The total cost is $340 you will pay so that the courier service will deliver to your mailing address..Peterson Aku"
+    },
+    {
+        "from": "baiter_2101",
+        "to": "scammer_2101",
+        "direction": "Outbound",
+        "days_from_first_conversation": 8.359791666666666,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: Interest Fund",
+        "body": "Hello there,\n\nThank you for your email. It's quite interesting to hear about this ATM card and the process involved. I'm curious, could you please explain more about how this works? Also, what are the benefits of having this ATM card?\n\nI would also like to know more about the courier service. How reliable is it and how long does it usually take for delivery? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nHolly"
+    },
+    {
+        "from": "scammer_2101",
+        "to": "baiter_2101",
+        "direction": "Inbound",
+        "days_from_first_conversation": 8.367083333333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: Interest Fund",
+        "body": "Holly.Thanks for your mail replied.Well the ATM card is cash able in any country of your choice.The courier service is very reliable and deliver your atm card to you within two to three working days.Peterson Aku"
+    },
+    {
+        "from": "baiter_2101",
+        "to": "scammer_2101",
+        "direction": "Outbound",
+        "days_from_first_conversation": 8.381377314814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: Interest Fund",
+        "body": "Hello there,\n\nThank you for your email. It's interesting to hear that the ATM card is cashable in any country. That sounds very convenient! \n\nCould you please tell me more about how this works? And how reliable is the courier service? I'd love to know more about their track record.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nHolly"
+    },
+    {
+        "from": "scammer_2101",
+        "to": "baiter_2101",
+        "direction": "Inbound",
+        "days_from_first_conversation": 8.409953703703703,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Re: Interest Fund",
+        "body": "Holly.I have explained to you many times to forward your details name and mailing address so that I will start by next week Monday to process for your account number opening.This is the first step to do now.Peterson Aku"
+    },
+    {
+        "from": "baiter_2101",
+        "to": "scammer_2101",
+        "direction": "Outbound",
+        "days_from_first_conversation": 8.42287037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: Interest Fund",
+        "body": "Hello there! I appreciate your prompt response. It's great to hear that we can start the process by next week Monday. However, could you please explain a bit more about what this process involves? I'm just trying to understand everything clearly.\n\nBest wishes,\nHolly"
+    },
+    {
+        "from": "scammer_2101",
+        "to": "baiter_2101",
+        "direction": "Inbound",
+        "days_from_first_conversation": 8.428587962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "22",
+        "subject": "Re: Interest Fund",
+        "body": "Holly.Thanks for your mail replied.Kindly forward your valid I'd card copy and your mailing address also your full name and your telephone number.Peterson Aku"
+    },
+    {
+        "from": "baiter_2101",
+        "to": "scammer_2101",
+        "direction": "Outbound",
+        "days_from_first_conversation": 8.443067129629629,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "23",
+        "subject": "Re: Interest Fund",
+        "body": "Hello there,\n\nThank you for your message. I'm really interested in what you're saying, but could you please explain a bit more about why you need this information? I'm just trying to understand the situation better.\n\nBest wishes,\nHolly"
+    },
+    {
+        "from": "scammer_2101",
+        "to": "baiter_2101",
+        "direction": "Inbound",
+        "days_from_first_conversation": 8.44574074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "24",
+        "subject": "Re: Interest Fund",
+        "body": "Holly.\r\nThanks for your mail replied.Kindly forward your valid I'd card copy and your mailing address also your full name and your telephone number. Note your I information will be fill in the document for your account number opening process first.Peterson Aku"
+    },
+    {
+        "from": "baiter_2101",
+        "to": "scammer_2101",
+        "direction": "Outbound",
+        "days_from_first_conversation": 8.464791666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "25",
+        "subject": "Re: Interest Fund",
+        "body": "Hello Aku,\n\nThank you for your response. I'm really excited about this opportunity! Could you please tell me more about the account opening process? What kind of benefits does this account offer? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nHolly"
+    },
+    {
+        "from": "scammer_2101",
+        "to": "baiter_2101",
+        "direction": "Inbound",
+        "days_from_first_conversation": 8.540729166666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "26",
+        "subject": "Re: Interest Fund",
+        "body": "Holly.Thanks for your mail replied.We are going to open a non resident coded bank account.We are opening the bank account only to make release of your interest fund transfer through atm card.Peterson Aku"
+    },
+    {
+        "from": "baiter_2101",
+        "to": "scammer_2101",
+        "direction": "Outbound",
+        "days_from_first_conversation": 8.548287037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "27",
+        "subject": "Re: Interest Fund",
+        "body": "Hello there,\n\nThank you for your email. It's interesting to hear about this non-resident coded bank account and the possibility of releasing funds through an ATM. Could you please provide more details on how this process works? I'm curious to understand better.\n\nAlso, could you clarify what you mean by \"interest fund transfer\"? Is it some sort of investment or savings account?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nHolly"
+    },
+    {
+        "from": "scammer_2101",
+        "to": "baiter_2101",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.20673611111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "28",
+        "subject": "Re: Interest Fund",
+        "body": "Holly.Thanks for your mail replied.The non resident coded bank account is an account number that will be open and credit your interest fund.Due to your interest fund has been unclaimed so long here.\r\nOnce we open non resident coded bank account as your interest fund will be credited to your bank account before my bank will will issue an ATM card loaded with your interest fund and deliver to you through the help of the courier service.Pls if you are not ready to forward your details as I will stop further contact with you.Peterson Aku"
+    },
+    {
+        "from": "baiter_2101",
+        "to": "scammer_2101",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.215057870370371,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "29",
+        "subject": "Re: Interest Fund",
+        "body": "Hello there,\n\nThank you for your email. It's interesting to hear about this non-resident coded bank account. I'm not quite familiar with it, could you please explain more about how it works? Also, how does the ATM card loaded with the interest fund work? \n\nI appreciate your patience and look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nHolly"
+    },
+    {
+        "from": "baiter_2101",
+        "to": "scammer_2101",
+        "direction": "Outbound",
+        "days_from_first_conversation": 11.401608796296296,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "30",
+        "subject": "Re: Interest Fund",
+        "body": "Hello there,\n\nThank you for your response. It's great to hear about the options available for receiving the interest fund. I'm curious, how does the process work if I choose to have it loaded onto an ATM card? Also, could you please explain more about the wire transfer option?\n\nI must clarify that I am not comfortable sharing my bank details or any personal information at this stage. Is there another way we can proceed without me having to provide such sensitive information?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nHolly"
+    },
+    {
+        "from": "scammer_2101",
+        "to": "baiter_2101",
+        "direction": "Inbound",
+        "days_from_first_conversation": 13.435254629629629,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "31",
+        "subject": "Re: Interest Fund",
+        "body": "Holly.I am still waiting for you to forward your details so that I will process your account number and issue your ATM card before delivery to you.Peterson Aku"
+    },
+    {
+        "from": "baiter_2101",
+        "to": "scammer_2101",
+        "direction": "Outbound",
+        "days_from_first_conversation": 13.442997685185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "32",
+        "subject": "Re: Interest Fund",
+        "body": "Hello there,\n\nThank you for your message. I'm really excited about this process! Could you please explain a bit more about how it works? And also, what kind of details do you need from me? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nHolly"
+    },
+    {
+        "from": "baiter_2101",
+        "to": "scammer_2101",
+        "direction": "Outbound",
+        "days_from_first_conversation": 13.443078703703703,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "33",
+        "subject": "Re: Interest Fund",
+        "body": "Hello there,\n\nThank you for your message. I'm quite excited about this process! Could you please explain a bit more about how it works? And what kind of details do you need from me? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nHolly"
+    }
+]

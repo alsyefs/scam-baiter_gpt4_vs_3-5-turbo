@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_975",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Sir/Ma,",
+        "body": "Dear Sir/Ma,\nThank you for your email.\nPlease see attached Document for your urgent attention.\nYours Faithfully,\nMr. Jones Griffith.\nChairman, Financial Conduct Authority (FCA)\nUnited Kingdom\nTel: +44 745 229 3442\nPlease Reply To-: \nconsultfca@consultant.com"
+    },
+    {
+        "from": "baiter_975",
+        "to": "scammer_975",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Sir/Ma,",
+        "body": "Dear Mr. Jones Griffith,\n\nThank you for reaching out to me. I appreciate your email and the attached document. However, before I proceed, could you please provide me with some more information about the nature of this document and why it requires my urgent attention? I want to make sure I fully understand the situation.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAlvaro"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2456",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Standard Chartered Bank (Hea",
+        "body": "  Standard Chartered Bank (Head Office) in 2nd Floor, 115 West St, Sandown,\nSandton, 2196, Gauteng, South Africa\n+27 11 217 6600 /+267 361 5800.\n………………………………………………………………………………………….\nHello  \nI hope this message meets you well, I am writing in all honesty to know if you are in or out\nBecause I don't understand what is happening\n………………………………………………………………………………………….\nYours Faithfully\nSteven Green\nOperations Manager Standard Chartered Bank SA\nSouth Africa   "
+    },
+    {
+        "from": "baiter_2456",
+        "to": "scammer_2456",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Standard Chartered Bank (Hea",
+        "body": "Hello Steven Green,\n\nThank you for reaching out to me. I hope you are doing well too. I'm curious to know what is happening as well. Could you please provide me with more information about the situation? I would be happy to help if I can.\n\nBest wishes,\nDorothy"
+    }
+]

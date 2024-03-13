@@ -1,0 +1,102 @@
+[
+    {
+        "from": "scammer_2372",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Greetings ",
+        "body": "  Greetings \nHow are you? I'm a Research Assistant of the Research and Development Department working with One of the leading Bio Pharmaceutical Companies in England. I'm looking for a reliable business/individual in your region to represent my company in sourcing some of our basic raw material used in the manufacturing of high quality Anti-Viral Vaccines, Cancer treatment and other lifesaving Pharmaceutical Products.\nThis may not be your specialization but it will be another income generating business out of your specialty. This is because Our company is yet to locate any seller to buy from, however, I have been able to discover a local dealer who can supply us with this product. He is selling at a cheap rate, which is far cheaper than our previous purchases.\nMy director is not yet aware that I have found a new seller. I want you to stand in as a new local dealer from your country and I will introduce you to our company. The reason for this is because I don't want my company to have direct contact with the local agent that sells this herbal oil extract very cheaply.\nThis will enable us to work together as partners and make real cool profits. You as the local seller will supply our company at a good rate which I will inform you later when we are in agreement and This will attract the attention of our company director to buy from you as against the previous rate . You will be amazed with our total profit .\nI will give you more specific profit details when I receive feedback from you if you are interested.\nBest Regard\nMr.Steven Anderson   "
+    },
+    {
+        "from": "baiter_2372",
+        "to": "scammer_2372",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Greetings ",
+        "body": "Hello Anderson,\n\nThank you for reaching out to me. I hope you're doing well. Your proposal sounds interesting, but I have a few questions before we proceed. Could you please provide more information about the specific raw materials you are looking to source? Additionally, what is the quantity required and the frequency of orders?\n\nI understand that you want me to act as a local dealer, but could you explain why your company prefers not to have direct contact with the current local agent? Is there any particular reason for this arrangement?\n\nFurthermore, I would appreciate it if you could share some details about the profit margins and how the payment process would work. It's important for me to have a clear understanding of the financial aspects before making any commitments.\n\nThank you once again for considering me as a potential partner. I look forward to hearing back from you with more information.\n\nBest wishes,\nRafael"
+    },
+    {
+        "from": "scammer_2372",
+        "to": "baiter_2372",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Greetings",
+        "body": "Hello Rafael,\r\n\r\nI'm glad to receive positive feedback from you as regards to the proposal\r\nthat was sent to you. I hope to elaborate extensively about this so you\r\nwill know it is a nice one and I will guide you through the entire process\r\nso we can achieve success in this business.\r\n\r\nKqisxin Herbal Extract QR 89 is used in the suppressive drugs for HIV,\r\ngives a good analytical result and proves to be a corrective Cancer cure\r\nand helps in the cure of Tuberculosis and Kidney infections. The Kqisxin\r\nHerbal Extract QR 89 is a new and rare cold-pressed and pressurized raw\r\nmaterial we need for the manufacture of so many life-saving drugs right\r\nnow. It is a rare herbal mixture from rare organic plants that are nurtured\r\nunder good environmental conditions to achieve great results after careful\r\npreparation.\r\n\r\nOur company wants a supplier who will handle the supply of these\r\npressurized raw materials we need for the manufacture of so many\r\nlife-saving drugs right now.\r\n\r\nThe Kqisxin Herbal Extract QR 89 will be exported to the United Kingdom\r\nwhere our pharmaceutical company is located. We lost our agent supplier for\r\ncovid 19 to this raw material last year and it has hindered production in\r\nthe company.\r\n\r\nI have been able to discover a local dealer who can supply from Turkey to\r\nus with this product.\r\n\r\n****Your Duty: You will act as a Front local seller and will supply to our\r\ncompany at the rate of US$21,000 or less. This will attract the attention\r\nof our company director to buy from you as against the previous rate of\r\nUS$22,000. The dealer is selling at a cheap rate of US$8,800 per drum,\r\nwhich is far cheaper than our previous purchases. Our company's monthly\r\nsupply is from 150 to 200 barrels and it's a 6 years contract.\r\n\r\nIt is not in line with my work contract to handle procurement contracts so\r\nI seek your consent to act as a front and help execute this project and\r\nhand me a commission.\r\n\r\nBefore I direct you to the CPO and give you more vital information, we will\r\nagree on the commission I will get if the contract gets to you and after\r\nthe supply. I will like to have 20% of the profit after the deal as my\r\ncommission in this. If you are alright with that then I will draft an MOU\r\nso we can sign for it to bind us after that I can direct you accordingly.\r\nYou have to send me your full name or company name, your address and your\r\nmobile number to be able to draft up this MOU.\r\n\r\nI will direct you to the procurement department of our company that handles\r\nprocurement if you agree to give me 20% of the profit as a commission from\r\nevery $12,200 made from each barrel purchased by our company.\r\n\r\nOnce we agree on the commission and I receive your full name or company\r\nname, your address and your mobile number, then we can draft the MOU and\r\nafter that, I can direct you accordingly.\r\n\r\nI look forward to doing good business with you.\nBest Regard\r\n\r\nSteven Anderson\r\nResearch Assistant\r\nResearch and Development Department\r\nBristol Laboratories Limited"
+    },
+    {
+        "from": "baiter_2372",
+        "to": "scammer_2372",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6176851851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Greetings",
+        "body": "Hello Steven Anderson,\n\nThank you for reaching out to me and providing this information about the Kqisxin Herbal Extract QR. It sounds like a very interesting product with potential benefits in the medical field.\n\nI would like to learn more about how this herbal extract is used in drugs for HIV and its effectiveness in cancer treatment. Can you provide any scientific studies or research that supports these claims?\n\nAdditionally, I'm curious about the process of nurturing these rare organic plants under good conditions. Could you explain more about the cultivation methods and any certifications or quality control measures in place?\n\nRegarding the supply of these raw materials, could you please clarify how many barrels are needed on a monthly basis? And what would be my role as a front local seller? How would I handle the logistics and transportation of the product?\n\nBefore we proceed further, I would appreciate it if you could share some details about your company's background and reputation. It's important for me to ensure that I am entering into a legitimate business partnership.\n\nLooking forward to your response.\n\nBest wishes,\nRafael"
+    },
+    {
+        "from": "scammer_2372",
+        "to": "baiter_2372",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.5288541666666666,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Greetings",
+        "body": "Hello Rafael,\r\n\r\nI'm glad to receive positive feedback from you. You will be supplying from\r\n180 to 200 barrels per month. This is our company name: Bristol\r\nLaboratories Limited and website: www.bristol-labs.co.uk, Carefully read my\r\nemails again as I have already explained all in detail to you.\r\n\r\nSend me your name and company name and your address with telephone number\r\nto enable me draft the MOU and after that, I can direct you accordingly.\r\n\r\nI look forward to doing good business with you.\nBest Regard"
+    },
+    {
+        "from": "baiter_2372",
+        "to": "scammer_2372",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.5341898148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Greetings",
+        "body": "Hello Rafael,\n\nThank you for reaching out to me. I appreciate your interest in doing business with our company, Bristol. I understand that you would like to supply a certain number of barrels per month. Could you please provide me with more details about the type of barrels and the specific terms and conditions?\n\nBefore we proceed further, I would like to know more about your company as well. Could you kindly share your company name, address, and telephone number? This information will help us in drafting the Memorandum of Understanding (MOU) accurately.\n\nOnce we have all the necessary details, we can move forward with the MOU and discuss the next steps. I'm looking forward to establishing a good business relationship with you.\n\nBest wishes,\nRafael"
+    },
+    {
+        "from": "scammer_2372",
+        "to": "baiter_2372",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.8385648148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Greetings",
+        "body": "Hello Rafael,\r\n\r\nI'm glad to receive positive feedback from you. I have given you the name\r\nand website of our company. I am the one to get the MOU and not you. You\r\nwill only sign when I send it to you. Send me your name and company name\r\nand your address with telephone number to enable me draft the MOU and after\r\nthat, I can direct you accordingly.\r\n\r\nI look forward to doing good business with you.\nBest Regard"
+    },
+    {
+        "from": "baiter_2372",
+        "to": "scammer_2372",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.160138888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Greetings",
+        "body": "Hello Rafael,\n\nThank you for reaching out to me. I appreciate your positive feedback. Could you please provide me with more information about the MOU? What exactly does it entail and how will it benefit both parties involved? Additionally, could you share some details about your company and the services or products you offer?\n\nI understand that you mentioned sending me the MOU for review and signing. Before we proceed, I would like to know more about the terms and conditions outlined in the agreement. Could you kindly provide a brief summary of what it entails?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRafael"
+    },
+    {
+        "from": "scammer_2372",
+        "to": "baiter_2372",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.605231481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Greetings",
+        "body": "Hello Rafael,\r\n\r\nSend me your name and company name and your address with telephone number\r\nto enable me draft the MOU and after that, I can direct you accordingly.\r\nThis is our company name: Bristol Laboratories Limited and website:\r\nwww.bristol-labs.co.uk\r\n\r\nI look forward to doing good business with you.\nBest Regard"
+    },
+    {
+        "from": "baiter_2372",
+        "to": "scammer_2372",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.618032407407408,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Greetings",
+        "body": "Hello Rafael,\n\nThank you for reaching out to me. I appreciate your interest in doing business together. Before we proceed, could you please provide me with more information about your company and the nature of the business opportunity? It would be helpful to know what products or services you offer.\n\nAdditionally, I would like to understand how the Memorandum of Understanding (MOU) fits into our potential collaboration. Could you please explain what the MOU entails and how it will benefit both parties?\n\nOnce I have a better understanding of these details, I can evaluate whether this opportunity aligns with my interests and goals. Thank you again for reaching out, and I look forward to hearing back from you soon.\n\nBest wishes,\nRafael"
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "from": "scammer_2329",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello sir/madam,",
+        "body": "Hello sir/madam,\nAssalamu Alaikum, I am Sheikh Hamza Abass, I am an international outsourcing agent, I have investors that I work with who want to invest in certain businesses, including hospital equipment, real estate, Gold/diamonds, crude oil, Agriculture and agricultural products/machineries etc, that can generate a good return on investment (ROI) for your private investment portfolio. If you are ready to invest a large sum of money,then I would like to know if you need an investor who will investin your company or if you have someone who needs investors or loans, I look forward to hearing from you soon.\nSincerely\nSheikh Hamza Abass"
+    },
+    {
+        "from": "baiter_2329",
+        "to": "scammer_2329",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello sir/madam,",
+        "body": "Hello Sheikh Hamza Abass,\n\nThank you for reaching out to me. I appreciate your offer to help with investments. Can you please provide more details about the potential returns on investment for each of the sectors you mentioned? Additionally, what kind of investment opportunities do you have in mind specifically?\n\nI am interested in learning more about how this investment can benefit my private portfolio. Could you please share some success stories or testimonials from previous investors who have worked with you?\n\nLooking forward to hearing back from you soon.\n\nBest wishes,\nCarole"
+    },
+    {
+        "from": "scammer_2329",
+        "to": "baiter_2329",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Hello sir/madam,",
+        "body": "Hello Carol,\r\n\r\nI am only an appointed broker for the investors and I can assure you that\r\n they have invested heavily in companies and individuals around the globe\r\nand once you indicate interest, that very vital information will be shared\r\nwith you. They  do not invest in a company without doing their own due\r\ndiligence on the company profile. The profile of the owner, the margin for\r\nthe return on investment and other risk factors. An investment agreement\r\nwill be sent to you prior to any communication to review  with  your legal\r\nrepresentative , sign and send back to me before we proceed further and\r\n then some classified information will be shared with you therewith.\r\n\r\n\r\nI advise you to send the following details once you indicate your interest\r\nto proceed.\r\n\r\n1. The name of the entity you want to use for the investment\r\n\r\n2. How  much you want the investors to invest\r\n\r\n3. Your  company portfolio\r\n4. Phone number\r\n5. The address you want to appear on the agreement.\nBest Regards\r\n\r\nRashid Abdallah"
+    },
+    {
+        "from": "scammer_2329",
+        "to": "baiter_2329",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.888113425925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Hello sir/madam,",
+        "body": "Hi Carol, how are you? I am writing to you to find out what is going on, I\r\nwas waiting for your response if you are still interested."
+    },
+    {
+        "from": "baiter_2329",
+        "to": "scammer_2329",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.8985069444444442,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Hello sir/madam,",
+        "body": "interested in making some extra money. I recently came across an amazing opportunity that I think you might be interested in. It's a new business venture that has the potential to generate significant income. Would you like to hear more about it?\n\nBest wishes,\nCarole"
+    },
+    {
+        "from": "scammer_2329",
+        "to": "baiter_2329",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.2121180555555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Hello sir/madam,",
+        "body": "Hello Carol,\r\n\r\nLike I told you before, I am only an appointed broker for the investors and\r\nI can assure you that  they have invested heavily in companies and\r\nindividuals around the globe and once you indicate interest, that very\r\nvital information will be shared with you. They  do not invest in a company\r\nwithout doing their own due diligence on the company profile. The profile\r\nof the owner, the margin for the return on investment and other risk\r\nfactors. An investment agreement will be sent to you prior to any\r\ncommunication to review  with  your legal representative , sign and send\r\nback to me before we proceed further and  then some classified information\r\nwill be shared with you therewith.\r\n\r\n\r\nI advise you to send the following details once you indicate your interest\r\nto proceed.\r\n\r\n1. The name of the entity you want to use for the investment\r\n\r\n2. How  much you want the investors to invest\r\n\r\n3. Your  company portfolio\r\n4. Phone number\r\n5. The address you want to appear on the agreement.\nBest Regards\r\n\r\nRashid Abdallah"
+    },
+    {
+        "from": "baiter_2329",
+        "to": "scammer_2329",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.524201388888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Hello sir/madam,",
+        "body": "Hello Rashid Abdallah,\n\nThank you for reaching out to me. I appreciate the information you have shared about the investors and their investment strategy. It's good to know that they conduct thorough due diligence before investing in any company.\n\nBefore I proceed, could you please provide me with more details about the companies they have invested in? I would like to know if there are any specific industries or regions they focus on. Additionally, what is the typical return on investment that these investors aim for?\n\nRegarding the investment agreement, could you explain what it entails? What are the key terms and conditions that I should be aware of? It would be helpful to review it with my legal advisor before proceeding further.\n\nLastly, may I ask how long this process usually takes from expressing interest to receiving the classified information? I'm just curious about the timeline involved.\n\nThank you once again for your time and assistance. I look forward to hearing back from you soon.\n\nBest wishes,\nCarole"
+    },
+    {
+        "from": "baiter_2329",
+        "to": "scammer_2329",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.6074652777777776,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Hello sir/madam,",
+        "body": "Hello Rashid Abdallah,\n\nThank you for reaching out to me again. I appreciate your assurance that the appointed broker has invested heavily in companies worldwide. It's good to know that they conduct their own due diligence before investing in any company.\n\nBefore I indicate my interest, could you please provide more information about the investment agreement? What are the terms and conditions outlined in the agreement? Are there any specific requirements or obligations on my part as an investor?\n\nAdditionally, I would like to understand how the investors determine the amount they are willing to invest. Is there a specific criteria or process they follow? And what is the typical return on investment that investors have experienced in the past?\n\nLastly, could you clarify what you mean by \"classified\" information that will be shared with me? What kind of information is it and how does it contribute to making an informed investment decision?\n\nI look forward to your response.\n\nBest wishes,\nCarole"
+    },
+    {
+        "from": "scammer_2329",
+        "to": "baiter_2329",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.853206018518518,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Hello sir/madam,",
+        "body": "Hello and thanks for your questions and continued interest. All other\r\nquestions should be handled by me once you provide the name and address you\r\nwant on the agreement. A draft will be sent to you for review with your\r\nattorney, before signing. You can suggest some amendments where you want to\r\nand it surely will be looked into by the investors. Once I have the name\r\nyou want on the agreement I will direct you to the broker who will\r\nfacilitate the meeting in Atlanta and he is authorized to divulge\r\nclassified information about past investments and clients.\nBest regards\r\nHamza"
+    },
+    {
+        "from": "baiter_2329",
+        "to": "scammer_2329",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.857326388888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Hello sir/madam,",
+        "body": "Hello Hamza, thank you for reaching out and providing some information. I appreciate your willingness to answer my questions. Before we proceed further, could you please clarify what kind of agreement this is? Is it a business partnership or an investment opportunity? Additionally, can you provide more details about the investors and their track record? I would like to know more about their past successes and the clients they have worked with. Thank you!\n\nBest wishes,\nCarole"
+    },
+    {
+        "from": "scammer_2329",
+        "to": "baiter_2329",
+        "direction": "Inbound",
+        "days_from_first_conversation": 7.900219907407408,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Hello sir/madam,",
+        "body": "Hello  Carole,\r\n\r\n\r\nThe agreement is that of an investment opportunity. At this juncture ma’am,\r\nI need the name, address, and phone number you want on the business\r\nagreement so that our attorney can draft it and a copy sent to you for\r\nreview before signing. Thereafter, a meeting will be scheduled for all\r\nparties in Atlanta,Georgia to meet, agree and finalize about what amount or\r\nhow much is to be disbursed to you.\r\n\r\nPlease kindly note that there is certain information that cannot be\r\ndivulged to you about our clientele until we meet with you and see your\r\nseriousness. Please do send the requested information for the preparation\r\nof the agreement which you will go through and if it’s ok with you, then\r\nyou sign it.\nThanks\r\n\r\nHamza"
+    },
+    {
+        "from": "baiter_2329",
+        "to": "scammer_2329",
+        "direction": "Outbound",
+        "days_from_first_conversation": 7.919965277777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Hello sir/madam,",
+        "body": "Hello Hamza,\nThank you for reaching out to me about the investment agreement. I appreciate your thorough explanation of the next steps involved. Could you please provide more details about the nature of the investment and how it will benefit me? Additionally, I would like to know more about your company and its track record in handling investments. Looking forward to hearing from you soon.\n\nBest wishes,\nCarole"
+    },
+    {
+        "from": "scammer_2329",
+        "to": "baiter_2329",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.789166666666667,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Hello sir/madam,",
+        "body": "Hello Carole,\r\n\r\nGood day to you and just a quick one. You seem to be dragging this for too\r\nlong even with a planned physical meeting which the investors wanted the\r\nparties involved to have in Atlanta.  Your questions, though as good as\r\nthey seem to be, yet more answers to it would have been suitable with a\r\nphysical meeting. However, for the benefit of doubt, I will reply to some\r\nof your questions while the other questions would be answered at a physical\r\nmeeting.\r\n\r\nWe help people invest in Oil and Gas, properties, Gold,Precious stones,\r\netc. Also in the field of medicine and research too, we do support\r\ninvestments in those fields.\r\n\r\nI shall stop so far and any other response to your questions has to be when\r\nyou commit to this by sending the information for the preparation of the\r\nagreement.\nBest Regards\r\n\r\nHamza"
+    },
+    {
+        "from": "baiter_2329",
+        "to": "scammer_2329",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.79494212962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Hello sir/madam,",
+        "body": "Hello Hamza,\n\nThank you for sharing that information with me. It's interesting to hear about the investment opportunities in Oil and Gas, stones, medicine, and research that your company supports. I appreciate your willingness to answer some of my questions now and save the rest for a physical meeting.\n\nCould you provide more details on how exactly your company assists people in investing in these different fields? I'm curious to learn more about the process and potential benefits for investors.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nCarole"
+    },
+    {
+        "from": "scammer_2329",
+        "to": "baiter_2329",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.884016203703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: Hello sir/madam,",
+        "body": "Hello Carole\r\n\r\nGreat morning to you and hope you are good today.  We assist in financing.\r\nWhat we do basically is provide financial support to would-be and intending\r\ninvestors who want to undertake any of these ventures I mentioned. That is\r\nbasically what my principals do. We support you financially and guide you\r\nto a successful investment capable of providing a solid Return on\r\nInvestment (ROI) This is exactly what we do.\nRegards\r\n\r\nHamza"
+    },
+    {
+        "from": "baiter_2329",
+        "to": "scammer_2329",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.90037037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: Hello sir/madam,",
+        "body": "Hello Hamza,\n\nThank you for reaching out. That sounds interesting. Can you provide more details on the types of ventures or investments your principals typically support? I'm curious to learn more about how you guide investors towards successful investments with solid ROI.\n\nLooking forward to hearing from you.\n\nBest wishes,\nCarole"
+    },
+    {
+        "from": "scammer_2329",
+        "to": "baiter_2329",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.114039351851853,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: Hello sir/madam,",
+        "body": "Hello Carole,\r\n\r\nAt this juncture I will decline to send you further response. If you are\r\nnot interested to go on let’s end it here. Your too many questions suggest\r\nyou are just here to ask plenty of questions.\r\n\r\nSend your information or better still, try some other persons.\nThanks\r\n\r\nHamza"
+    },
+    {
+        "from": "baiter_2329",
+        "to": "scammer_2329",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.128287037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: Hello sir/madam,",
+        "body": "Hello Hamza, I appreciate your message. I'm actually quite interested in learning more. Could you please share some details about what you have to offer?\n\nBest wishes,\nCarole"
+    }
+]

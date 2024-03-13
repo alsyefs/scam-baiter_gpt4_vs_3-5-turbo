@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_661",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Bank name: Key Bank ",
+        "body": "   Bank name: Key Bank \nAccount name: C. M. P.\nAccount number: 32031702XXXX\nRouting number: 021300077\nSwift code: KEYBUS33\nBank address: KeyBank NA, 127\nPublic Square, Cleveland, OH\n44114\nHouse address: Deruyter, ny 13052  "
+    },
+    {
+        "from": "baiter_661",
+        "to": "scammer_661",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Bank name: Key Bank ",
+        "body": "Hello there,\n\nThank you for sharing this information about Public Square in Cleveland, OH. I've always been interested in learning more about different places. Can you tell me more about it? What makes it special or unique? Are there any notable landmarks or events that take place there?\n\nLooking forward to hearing more from you!\n\nBest wishes,\nTia"
+    }
+]

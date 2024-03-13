@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1940",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn :  Beneficiary:",
+        "body": "Attn :  Beneficiary:\nI hereby officially notify you about the present arrangement to pay Your overdue/Pending fund, for which you could not complete the process of releasing the fund through the Digital Payment System, Dealing with the unsupposed officials that claimed the payment was in their care, which was the reason for the delay in your payment. We have chosen to pay you through an ATM VISA card due to widespread fraud, the European, the United Nations, ECOWAS, and the Paris Club created this arrangement to pay you as one of the listed victims.\nThe European, United Nations, and Paris Clubs introduced this payment arrangement to enable our Contract, all the winner's prizes, humanitrian Aids and inheritance beneficiaries to receive their funds without any interference. The mentioned ATM VISA Card was programmed and powered by Gold Card World Wide. The ATM Visa Card is credited with a total sum of $10.5 Million United States Dollars,  already loaded/certified on the Visa Card, which you can use to access your fund at any ATM stand location worldwide. And the maximum daily withdrawal limit is Ten Thousand United States Dollars ($10,000.00).\nWe have concluded the delivery arrangements with the below courier service companies, and we have included their delivery times below.\nFedEx Express=24hrs/$195.00 (Accredited Special Delivery 'A.S.D')\nUPS=24hrs/$210.00  (Accredited Special Delivery 'A.S.D')\nCPC Courier $158.00  (Accredited Special Delivery 'A.S.D')\nOnce it gets to the supposed administrative office, the package will be delivered to your destination. Kindly state in your response to this email and let my office know which courier company you would like to use for the shipment of your ATM VISA Card to you. You're free to drop your WhatsApp number for faster communication, or you can text or call the below phone number.\nRemain Blessed:\nWilliam Shapcott\nEmail : \nofficefile210234@gmail.com\n(European Union Parliament)"
+    },
+    {
+        "from": "baiter_1940",
+        "to": "scammer_1940",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attn :  Beneficiary:",
+        "body": "Hello! Thank you for sharing this information with me. I appreciate the update on the overdue pending fund and the process of releasing it through an ATM VISA card. Could you please provide more details about how I can proceed with selecting a courier service company for the shipment of the card?\n\nBest wishes,\nJessica"
+    },
+    {
+        "from": "scammer_1940",
+        "to": "baiter_1940",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Attn : Beneficiary:",
+        "body": "*Attn :  Beneficiary:Thanks for your mail and the option below you choose\r\nto receive your  ATM VISA  card and I want  to let you know that we have\r\nmade a good arrangement with *  *FedEx*  *Courier for your delivery and\r\nthey are demanding for your delivery information as listed below and we\r\nwill provide you with our payment options to make the payment for the\r\ndelivery of your  ATM VISA card once we get below information from you.*\r\n\r\n*Receiver Name:.................*\r\n*Address:.................*\r\n*Phone Number:................*\r\n\r\n\r\n\r\n\r\n*FedEx Express=24hrs/$195.00 (Accredited Special Delivery 'A.S.D')Remain\r\nBlessed:William Shapcott*"
+    },
+    {
+        "from": "baiter_1940",
+        "to": "scammer_1940",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0019328703703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Attn : Beneficiary:",
+        "body": "Hello! Thank you for the information. Could you please provide more details about the payment options for the delivery of the ATM VISA card? I would like to know how I can proceed with that.\n\nBest wishes,\nJessica"
+    }
+]

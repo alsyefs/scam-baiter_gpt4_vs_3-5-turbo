@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_1702",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Urgent Attention.",
+        "body": "Urgent Attention.\nThis is Andrea Gacki of the Financial Intelligence Department (FinCEN) here in Washington DC.\nThe Financial Crimes Enforcement Network is a bureau of the United States Department of the Treasury that collects and analyzes information about financial transactions in order to combat domestic and international money laundering, terrorist financing, and other financial crimes and Financial Intelligence Unit And information on U.S. Anti-Money Laundering, Uncleared funds/ consignments since 2021, I’m contacting you regarding a Consignment box worth of $4.6million united state dollars held and some back up documents currently on my desk to be signed and send back to the originated country as unclaimed fund, As result of the information I got, I told them to wait until I hear from you today so that, I will know the reason why you rejected such amount of money which is your compensation fund just because of the clearance document.\nI need your urgent response as soon as you receive my text and explain to me the reason why you have abandon your box, but if you don't need it then I can push for forfeiture order to allow other beneficiaries here in United State awarded the funds as compensation so that the Government will not move the funds to the Government treasury.\nContact the UN Diplomat Bryan Anderson on the following email address for further advice on how to claim your package.\nBryan Anderson.\nmrbryananderson5@gmail.com\n I look forward to your urgent response.\n \nAndrea Gacki\nfinCEN Director."
+    },
+    {
+        "from": "baiter_1702",
+        "to": "scammer_1702",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Urgent Attention.",
+        "body": "Hello Andrea Gacki,\n\nThank you for reaching out to me with this urgent attention. I appreciate you providing me with information about the Financial Crimes Network and its role in combating financial crimes.\n\nI must admit, I am a bit confused about the situation you mentioned regarding an unclaimed fund and a box of United States dollars. Could you please provide me with more details about how this fund came to be and why it is currently on your desk? I want to make sure I fully understand the situation before taking any further steps.\n\nAdditionally, could you clarify what exactly you mean by \"clearance document\" and why it is necessary for me to provide it? I want to ensure that all legal requirements are met if there is indeed a legitimate claim to be made.\n\nLastly, could you please explain who Bryan Anderson is and his role in this matter? It would be helpful to know how he can assist me in claiming the package.\n\nI look forward to your prompt response and further guidance on how to proceed.\n\nBest wishes,\nBetty"
+    },
+    {
+        "from": "scammer_1702",
+        "to": "baiter_1702",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Urgent Attention.",
+        "body": "Dear Betty\r\n\r\nI acknowledge receipt of your email. This is Bryan Anderson responding to\r\nyour below email. The truth and nothing but the truth is that you have an\r\nunclaimed fund valued at $4.6Million processed in an ATM card and because\r\nthere was a case of wrong delivery, the delivery was intercepted and the\r\ncard seized by Andrea Gacki and finCEN.\r\n\r\nThe delivery was stopped due to clearance issues. finCEN says it is illegal\r\nto move the fund through a card without  complete clearance and declaration\r\nof the funds.\r\n\r\nTherefore If you are interested in receiving the funds then you need to\r\nreconfirm your details so that all necessary forms shall be filled and\r\nsubmitted for the release of the funds to you.\r\n\r\nThe attached are other cards released that was seized together with your\r\ncard and some consignment boxes.\r\n\r\nProvide the following details.\r\n\r\nFull names\r\nHome address\r\nPhone number\nRegards\r\nBryan Anderson."
+    },
+    {
+        "from": "baiter_1702",
+        "to": "scammer_1702",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00028935185185185184,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Urgent Attention.",
+        "body": "Dear Bryan Anderson,\n\nThank you for reaching out to me regarding the unclaimed fund. I appreciate you providing me with this information. However, before I proceed, I have a few questions.\n\n1. Can you please clarify how the fund ended up being processed in an ATM card? Is there a specific reason why it was not transferred through a more conventional method?\n\n2. You mentioned that there was a case of wrong delivery and the card was seized by Andrea Gacki. Could you explain who Andrea Gacki is and why they were involved in this situation?\n\n3. What kind of clearance issues are causing the delay in delivering the funds? Are these issues something that can be resolved easily?\n\nI look forward to your response and gaining a better understanding of the situation.\n\nBest wishes,\nBetty"
+    },
+    {
+        "from": "scammer_1702",
+        "to": "baiter_1702",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.052766203703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Urgent Attention.",
+        "body": "Dear Betty\r\n\r\nI acknowledge receipt of your email. Yes the easiest means of transferring\r\nthe funds smoothly is through ATM card since other beneficiaries received\r\nfunds through same method.\r\n\r\nSecondly the delivery was intercepted by finCEN which Mr. Gacki is the\r\ndirector. The reason is simply due to clearance issues ans documentation.\r\n\r\nThe clearance required to clear the funds is documentation clearance, the\r\nclearance requires some important approval documents and authorization. It\r\nis a simple legal process and yes this shall be resolved as soon as the\r\nnecessary documents are procured and submitted for approval.\nRegards\r\n\r\nBryan Anderson."
+    },
+    {
+        "from": "baiter_1702",
+        "to": "scammer_1702",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.560613425925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Urgent Attention.",
+        "body": "Dear Bryan Anderson,\n\nThank you for your response. I appreciate your explanation regarding the use of an ATM card for the funds transfer. It does seem like a convenient and secure method.\n\nI understand that there are clearance issues that need to be resolved before the funds can be released. Could you please provide more details about these approval documents? What kind of documents are required, and how long does it usually take to obtain them?\n\nI want to ensure that everything is done legally and properly, so any additional information you can provide would be helpful.\n\nBest wishes,\nBetty"
+    }
+]

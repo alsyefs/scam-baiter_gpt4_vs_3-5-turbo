@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2001",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention:Unpaid beneficiary",
+        "body": "  Attention:Unpaid beneficiary.\nOn behalf of the Department Of Treasury Direct-Account Washington DC,\nand United Nations Award Payment,we wish to notify you as\na beneficiary of $2,7 million dollars in compensation of scam\nvictims.\nYou are the next person to be paid for the (Scam victims). Am\nhere to inform you that we have verified your compensation file\npresently on my desk,and I found out that you have not received your\npayment due to your lack of co-operation and not fulfilling the\nobligations giving to you in respect to your compensation payment.\nSecondly, you are hereby advised to stop dealing with some\nnon-officials in the bank or any offices as this is an illegal act and\nyou have to stop if you so wish to receive your payment immediately.\nAfter the board meeting held at our headquarters, we have resolved in\nfinding a solution to your problem,and we would like to inform you\nthat we have arranged your compensation funds $2,7 million to be paid\nyou bank to bank wire transfer which is the instruction given by\nDepartment Of Treasury Direct-Account Washington DC and United Nations\nCash Grant Award Payment to you. You are required to contact the\npaying bank with the below information's for your compensation funds.\nBANK NAME:LEGENCE BANK PLC\nADDRESS:502 N,COMMERCIAL ST,HARRISBURG,IL,62946,USA\nCONTACT PERSON:MR,COLIN POOLE\nEMAIL:(\nofficmailecolinpoole2009@gmail.com\n)\nBest Regards,\nMs.Caroline Owen\nDepartment Of Treasury Direct-Account Washington DC   "
+    },
+    {
+        "from": "baiter_2001",
+        "to": "scammer_2001",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention:Unpaid beneficiary",
+        "body": "Hello Owen, thank you for reaching out to me regarding the payment for scam victims. I appreciate the information you have provided. Can you please share more details about the process of receiving the funds through bank to bank wire transfer? How can I ensure that this transaction is secure and legitimate?\n\nBest wishes,\nDominica"
+    },
+    {
+        "from": "scammer_2001",
+        "to": "baiter_2001",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Attention:Unpaid beneficiary",
+        "body": "Attention:Dominica\r\n\r\n\r\nI received your email now,about your compensation payment of $2,7\r\nmillion,information needed from you now is below:\r\n\r\n1)Your bank Name:\r\n2)Bank Address:\r\n3)Account No:\r\n6)Swfit Code:\r\n4)Account Name:\r\n5)Copy of Your ID Card:\r\n6)Your next of Kin:\r\n7)Your Phone No:\r\n\r\nFind Attached Copy of my working ID card and get back to me.\nThanks,\r\n\r\nMr.Colin Poole"
+    },
+    {
+        "from": "baiter_2001",
+        "to": "scammer_2001",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.013414351851851853,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Attention:Unpaid beneficiary",
+        "body": "Hello! Thank you for reaching out. I'd be happy to provide the information you requested. Could you please clarify what this payment is for and how it is related to your working ID card?\n\nBest wishes,\nDominica"
+    }
+]

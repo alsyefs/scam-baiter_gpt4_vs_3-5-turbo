@@ -1,0 +1,432 @@
+[
+    {
+        "from": "scammer_935",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear sir",
+        "body": "  Dear sir\nI am Mr.George Dankata, I work in the Remittance Dept of Bank of Africa  Abidjan Cote d'Ivoire. I have an urgent and confidential business transaction that demands confidentiality and trust as it involves $4.8M and it will be of mutual trust and benefits to both of us. I need your honesty and sincere trust to achieve the transaction. Confirm your interest with your direct email address and your direct phone number.\nThanks\nMr.George Dankata   "
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear sir",
+        "body": "Dear Dankata,\n\nThank you for reaching out to me. I appreciate your trust and the opportunity you are presenting. I am interested in learning more about this urgent business matter. However, before proceeding, could you please provide me with some additional information? Specifically, what is the nature of this business and how exactly would it be mutually beneficial?\n\nAlso, I prefer to communicate via email initially. My direct email address is . As for my phone number, I would like to know more details before sharing that information.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSilva"
+    },
+    {
+        "from": "scammer_935",
+        "to": "baiter_935",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Dear Silva",
+        "body": ""
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.01667824074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Silva",
+        "body": "Hello! How can I help you today?\n\nBest wishes,\nSilva"
+    },
+    {
+        "from": "scammer_935",
+        "to": "baiter_935",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.04071759259259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Dear Silva",
+        "body": "Dear Silva\r\nThank you for you your kind and understanding response to my mail and your\r\nsincere willingness to assist me in this transaction that will bring us to\r\na wonderful relationship and mutual benefit.\r\nI am happy to have your trust and I want to assure you that you will not be\r\ndisappointed. I have carefully considered your position and your sincerely\r\nas to assist me to provide your safe bank account as the beneficiary\r\naccount to receive this funds that you will be legally made the next of kin\r\nand appointed beneficiary.\r\nThe funds is presently deposited with the bank of Africa and it is 100%\r\nlegal and without any hitch.\r\nI have the certificate of deposit to the funds and will be sending it to\r\nyou for your confirmation as all you need is to act as the beneficiary and\r\nnext of kin as you provide the safe bank account so that you will receive\r\nthe funds while I will now come over to meet with and with your help settle\r\nwith my family to start a new life.\r\nI am putting my trust and confidence in you and I know that you will not\r\ndisappoint me\r\nI have carefully concluded all the modalities for your position and I will\r\nbe here on the background to cover you.\r\nI now need your full name and address as the appointed beneficiary to\r\nsubmit to the bank and I want to assure that this transaction will legally\r\nconcluded and hitch free\r\nI will send you the copy of the certificate as I received your details and\r\nyour confirmation of trust\r\nI wait your immediate response\nThanks\r\nMr George Dankata"
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.05884259259259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Dear Silva",
+        "body": "Dear Mr. George Dankata,\n\nThank you for reaching out to me and providing me with this opportunity. I appreciate your trust in me and I am willing to assist you in any way I can.\n\nI understand that the funds are currently deposited with the Bank of Africa, and I am ready to help facilitate the process as your appointed next of kin. Please provide me with more details on how we can proceed further.\n\nCould you please share more information about the next steps involved in transferring the funds to my safe bank account? Additionally, what documents will be required from my end to ensure a smooth and legal transaction?\n\nLooking forward to your guidance on this matter.\n\nBest wishes,\nSilva"
+    },
+    {
+        "from": "scammer_935",
+        "to": "baiter_935",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.0544444444444445,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Dear Silva",
+        "body": ""
+    },
+    {
+        "from": "scammer_935",
+        "to": "baiter_935",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.0827430555555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Dear Silva",
+        "body": "Dear Silva\r\nThank you and God bless you for your kind response and your honest desire\r\nto assist me in this transaction. I want you to confirm that you received\r\nthe copy of the certificate of deposit that I sent to you and you are also\r\nrequired immediately to send me your full name and address with your direct\r\nWhatsApp number and your nominated bank information as the appointed\r\nbeneficiary to the funds as to enable me confirm to you the contact of the\r\nbank accredited attorney that you will contact and request for his legal\r\nservices to represent you and transfer the funds to your account\nThanks\r\nGeorge Dankata"
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.0999537037037035,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Dear Silva",
+        "body": "Dear George Dankata,\n\nThank you for reaching out. I appreciate your trust in me. Yes, I have received the copy of the deposit you sent. Could you please provide more details about the process and how we can proceed further? I look forward to your response.\n\nBest wishes,\nSilva"
+    },
+    {
+        "from": "scammer_935",
+        "to": "baiter_935",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.2255902777777776,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Dear Silva",
+        "body": "From George Dankata\r\nAttn Silva\r\nDear Silva\r\nThank you for your kind mail and your confirmation to the receipt of the\r\ncopy of the funds certificate of deposit as i am now fully assured of your\r\nsincere willingness to assist me in this transaction that will bring us to\r\na strong relationship and of mutual benefit. The funds are presently in the\r\ndeposit of the bank of Africa as have been informed and i have carefully\r\nconcluded all the modalities for your coming as the next of kin and the\r\nappointed beneficiary that will provide the bank account for the funds\r\ntransfer. I have also confirmed the contact of an accredited bank attorney\r\nthat you will contact and request for his legal service to represent you\r\nand legalize the transaction.\r\nI will send you the contact as you confirm as requested your full name and\r\nyour address with your direct phone number and your nominated bank\r\ninformation as the beneficiary account.\r\nI want to assure you that there will be no concern as i will be here to\r\nmonitor the transaction while the attorney that you will contact will act\r\non your behalf.\r\nI wait your confirmation as you send the informations\nThanks\r\nGeorge Dankata"
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.2464930555555553,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Dear Silva",
+        "body": "Hello George,\n\nThank you for reaching out to me. I appreciate your trust in me to assist with this matter. Could you please provide more details about the funds and how I can proceed with the next steps? I would like to understand the process better before moving forward.\n\nLooking forward to your response.\n\nBest wishes,\nSilva"
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.2466898148148147,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Dear Silva",
+        "body": "Hello George,\n\nThank you for reaching out and providing me with this information. I appreciate your trust in me to assist with this matter. Could you please provide me with more details about the funds and how I can proceed further? I would like to understand the process better before moving forward. Looking forward to your response.\n\nBest wishes,\nSilva"
+    },
+    {
+        "from": "scammer_935",
+        "to": "baiter_935",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.040254629629629,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Dear Silva",
+        "body": "From; Goerge Dankata\r\nAttn; Silva\r\nDear Silva\r\nThank you for your kind mail as i am surprised that you have not sent me\r\nyour full details as requested to enable  us proceed and start up the\r\ntransaction. I have informed you that you are coming to act as the next of\r\nkin and the appointed beneficiary to the funds deposit as i have carefully\r\nconcluded all the modalities for you to come and take that position . You\r\nwill be using the service of an accredited bank attorney that will on your\r\nbehalf legalize the transaction and help you to transfer the funds to your\r\nnominated bank account. I will also be here to work with you so you are to\r\nbe rest assured.\r\nI wait your confirmation as you send the deatials\nThanks\r\nGeorge Dankata"
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.058472222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Dear Silva",
+        "body": "Hello George Dankata,\n\nThank you for reaching out to me. I appreciate your email and the information you have provided. I am interested in learning more about the process you mentioned. Could you please share further details on how we can proceed with this opportunity? I look forward to hearing back from you soon.\n\nBest wishes,\nSilva"
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.1001157407407405,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: Dear Silva",
+        "body": "Hello George Dankata,\n\nThank you for reaching out to me. I appreciate your email and the information you have provided. I am interested in learning more about the opportunity you mentioned. Could you please provide me with further details on how the process works and what steps I need to take next?\n\nLooking forward to your response.\n\nBest wishes,\nSilva"
+    },
+    {
+        "from": "scammer_935",
+        "to": "baiter_935",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.107824074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: Dear Silva",
+        "body": "Dear Silva\r\nThank you for you your kind and understanding response to my mail.\r\nI now need your full name, your direct telephone numbers and your  address\r\nas the appointed beneficiary to submit to the bank and I want to assure\r\nthat this transaction will legally concluded and hitch free\r\nI will send you the copy of the certificate as I received your details and\r\nyour confirmation of trust\r\nI wait your immediate response\nThanks\r\nMr George Dankata"
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.121828703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: Dear Silva",
+        "body": "Hello Mr. George Dankata, thank you for reaching out. I appreciate your prompt response. Before I provide any personal information, could you please clarify the purpose of needing my full name, telephone numbers, and address for submitting to the bank? I want to ensure that everything is legally concluded as you mentioned. Looking forward to your explanation.\n\nBest wishes,\nSilva"
+    },
+    {
+        "from": "scammer_935",
+        "to": "baiter_935",
+        "direction": "Inbound",
+        "days_from_first_conversation": 8.017592592592592,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: Dear Silva",
+        "body": "Dear Silva\r\nThank you for your kind mail and your sincere trust to assist me in this\r\ntransaction that will be of great mutual benefit to both of us. I contacted\r\nyou on trust and I know that with your position as my appointed beneficiary\r\nand next of kin to the funds deposit the transaction will be smooth and\r\nwill bring us to a good relationship.\r\nI have carefully concluded all the modalities for the transaction to be\r\nsuccessfully transferred to your nominated bank account as the appointed\r\nbeneficiary.\r\nI need you to provide a safe bank account as the beneficiary account for\r\nthe transfer of the funds with your full name and address that will be\r\nsubmitted to the bank as the next of kin.\r\nI have also confirmed an accredited bank attorney that you will contact and\r\nrequest for his legal services to represent you and legalize the\r\ntransaction on your behalf. The funds are presently in the suspense deposit\r\nof the bank and everything will be legally confirmed as I will be here to\r\nmonitor the transaction.\r\nYou are therefore to send immediately your nominated bank account where the\r\nfunds will be transferred and your full name and address as the appointed\r\nbeneficiary.\r\nI am waiting for your kind confirmation so that we can proceed. You are\r\nrest assured that the transaction will be safe and smooth\nThanks\r\nGeorge Dankata"
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 8.038159722222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re: Dear Silva",
+        "body": "Hello George,\n\nThank you for reaching out to me with this opportunity. I appreciate your trust and am interested in learning more about how we can proceed. Could you please provide me with more details on the next steps involved in transferring the funds to my nominated bank account? Additionally, I would like to know more about the accredited bank attorney that you have mentioned.\n\nLooking forward to your response so we can move forward with this mutually beneficial arrangement.\n\nBest wishes,\nSilva"
+    },
+    {
+        "from": "scammer_935",
+        "to": "baiter_935",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.371539351851851,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "19",
+        "subject": "Re: Dear Silva",
+        "body": "Dear Silva\r\nThank you for your kind mail and I am happy to have your trust. I am yet to\r\nget your full details as requested that is your full name and address as it\r\nis important that I know who I am trusting with this transaction. I have\r\nall that you need to know as I have carefully concluded this transaction\r\nand I want to be absolutely sure that you are willing to assist me. Confirm\r\nthe information I requested and I will send you the contact of the attorney\r\nas confirmed\r\nI wait your confirmation\nGeorge Dankata"
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.375393518518518,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "20",
+        "subject": "Re: Dear Silva",
+        "body": "Hello George Dankata,\n\nThank you for reaching out. I appreciate your trust and willingness to share information. I understand the importance of confirming details before proceeding. Could you please provide more information about the assistance you are seeking? Once I have a better understanding, I will be able to confirm the requested details.\n\nLooking forward to your response.\n\nBest wishes,\nSilva"
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.585150462962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "21",
+        "subject": "Re: Dear Silva",
+        "body": "Hello George,\n\nThank you for reaching out. I appreciate your trust in me. I am willing to assist you further. Please provide me with the details of the attorney so we can proceed.\n\nLooking forward to your response.\n\nBest wishes,\nSilva"
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.62670138888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "22",
+        "subject": "Re: Dear Silva",
+        "body": "Hello George Dankata,\n\nThank you for reaching out. I appreciate your trust and willingness to share information. I understand the importance of confirming details before proceeding. Please provide me with the necessary information, and I will be happy to assist you further.\n\nLooking forward to your response.\n\nBest wishes,\nSilva"
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.707719907407407,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "23",
+        "subject": "Re: Dear Silva",
+        "body": "Hello George,\n\nThank you for reaching out. I appreciate your trust in me. I am willing to assist you further. Please provide me with the details of the attorney so we can proceed accordingly.\n\nLooking forward to your response.\n\nBest wishes,\nSilva"
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.708483796296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "24",
+        "subject": "Re: Dear Silva",
+        "body": "Hello George,\n\nThank you for reaching out. I appreciate your trust in me. I am willing to assist you. Please go ahead and send me the contact details of the attorney so we can proceed further.\n\nLooking forward to your response.\n\nBest wishes,\nSilva"
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.708761574074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "25",
+        "subject": "Re: Dear Silva",
+        "body": "Hello George Dankata,\n\nThank you for reaching out. I appreciate your trust and willingness to share information. I understand the importance of confirming details before proceeding. Could you please provide more information about the assistance you require? Feel free to share further details so that I can better understand how I may be able to help.\n\nLooking forward to your response.\n\nBest wishes,\nSilva"
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.750150462962964,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "26",
+        "subject": "Re: Dear Silva",
+        "body": "Hello George Dankata,\n\nThank you for reaching out. I appreciate your trust in me. I am willing to assist you further. Please provide me with the details you need, and I will confirm them promptly.\n\nLooking forward to your response.\n\nBest wishes,\nSilva"
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.791851851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "27",
+        "subject": "Re: Dear Silva",
+        "body": "Hello George,\n\nThank you for reaching out. I appreciate your trust in me. I am willing to assist you further. Please provide me with the details needed so we can proceed accordingly.\n\nLooking forward to your response.\n\nBest wishes,\nSilva"
+    },
+    {
+        "from": "scammer_935",
+        "to": "baiter_935",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.507280092592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "28",
+        "subject": "Re: Dear Silva",
+        "body": "Dear Silva\r\nThank you for your kind response and your sincere willingness to assist me\r\nbut you have not replied to my request as my appointed beneficiary I want\r\nyou to send me your full name and your address with your direct phone\r\nnumbers so that I can confirm your trust as my appointed beneficiary. I\r\nwill give all the details to the transaction once you confirm these\r\ninformation.\nThanks\r\nGeorge Dankata"
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.624560185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "29",
+        "subject": "Re: Dear Silva",
+        "body": "Hello George,\n\nI appreciate your message. I understand the need for trust and verification in such matters. Could you please provide me with more details about the appointment and how confirming my information will help in this process? Thank you.\n\nBest wishes,\nSilva"
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.667847222222223,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "30",
+        "subject": "Re: Dear Silva",
+        "body": "Hello George Dankata,\n\nI appreciate your message and I understand your need for verification. Could you please provide me with more details about the appointment and how confirming my trust will help in the process? Feel free to share additional information so that I can assist you better.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSilva"
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.749490740740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "31",
+        "subject": "Re: Dear Silva",
+        "body": "Hello George,\n\nI appreciate your message. I understand the need for trust and verification in such matters. Before proceeding, could you please provide me with more details about the appointment and how it relates to sharing my personal information? I want to ensure that everything is clear before moving forward.\n\nBest wishes,\nSilva"
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.79269675925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "32",
+        "subject": "Re: Dear Silva",
+        "body": "Hello George,\n\nI appreciate your message. I understand the need for trust in such matters. Before I provide any personal information, could you please clarify what exactly you are looking for assistance with? It would help me better understand how I can assist you.\n\nBest wishes,\nSilva"
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.792916666666667,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "33",
+        "subject": "Re: Dear Silva",
+        "body": "Hello George,\n\nI appreciate your message. I understand the need for trust in such matters. Before I provide any personal information, could you please share more details about the appointment and how my information will be used? Thank you for your understanding.\n\nBest wishes,\nSilva"
+    },
+    {
+        "from": "scammer_935",
+        "to": "baiter_935",
+        "direction": "Inbound",
+        "days_from_first_conversation": 11.056493055555556,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "34",
+        "subject": "Re: Dear Silva",
+        "body": "Dear Silva\r\nThank you and God bless you for your kind mail as I can now understand why\r\nI contacted you in this transaction as I am fully convinced that you will\r\nuse your position and knowledge to handle this transaction and secure the\r\nfunds in your safe bank accounts while I and my family now come to meet\r\nwith you and with your help start a new life and invest in your country.\r\nThe funds is in the suspense deposit of the bank of Africa as I have\r\nalready informed you and I have also informed the bank that you are the\r\nonly surviving relative and the next of kin to the funds deposit. Now you\r\nare coming as the beneficiary that will provide the bank accounts for the\r\nbank to transfer the funds. You will be using the service of an accredited\r\nbank attorney here since you can not come here physically and the attorney\r\nwill on your behalf legalize and normalize the transaction. Everything will\r\nbe legally confirmed and I will also be here to monitor the transaction. I\r\nneed your full name and address to submit to the bank as the appointed\r\nbeneficiary and next of kin.\r\nThe bank will now transfer the funds and you will receive it and I will\r\ncome to meet with you. You are free to ask any question for more\r\nclarification.\nThanks\r\nGeorge Dankata"
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 11.084537037037038,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "35",
+        "subject": "Re: Dear Silva",
+        "body": "Dear George,\n\nThank you for reaching out and providing me with this information. I appreciate your trust in me to handle this matter. I am interested in learning more about how we can proceed with securing the funds in my safe bank accounts. Could you please provide me with more details on the next steps involved in this process? Additionally, I would like to know more about the accredited bank attorney who will be assisting us.\n\nLooking forward to your response.\n\nBest wishes,\nSilva"
+    },
+    {
+        "from": "scammer_935",
+        "to": "baiter_935",
+        "direction": "Inbound",
+        "days_from_first_conversation": 13.127314814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "36",
+        "subject": "Re: Dear Silva",
+        "body": "Dear Silva\r\nThank you for your kind response and your reaffirming your interest and\r\nwillingness to assist me in this transaction that I have placed my trust in\r\nyou. The funds will be transferred to your nominated bank account from the\r\nbank as your beneficiary status will be legally confirmed which is what the\r\nbank attorney will be processing on your behalf. The bank attorney will on\r\nyour behalf legalize the transaction and process the funds deposit for\r\nimmediate transfer to your accounts\r\nThe accredited bank attorney is a highly reputable and reliable attorney\r\nand I will send you his contact for to contact him\r\nHaving confirmed this information as required I want you to send\r\nimmediately the full details as I requested to enable us proceed. The copy\r\nof the funds certificate of deposit will be sent to accordingly\nThanks\r\nGeorge Dankata"
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 13.165844907407408,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "37",
+        "subject": "Re: Dear Silva",
+        "body": "Dear George Dankata,\n\nThank you for reaching out and providing me with this information. I appreciate your trust in me to assist with the transfer of funds to my nominated bank account. I am interested in learning more about the process.\n\nCould you please provide me with more details on how we can proceed? I would like to know what specific information you need from me to facilitate the transfer. Additionally, it would be helpful if you could share the contact details of the accredited bank attorney so that I can get in touch with them.\n\nLooking forward to your response.\n\nBest wishes,\nSilva"
+    },
+    {
+        "from": "scammer_935",
+        "to": "baiter_935",
+        "direction": "Inbound",
+        "days_from_first_conversation": 16.117048611111112,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "38",
+        "subject": "Re: Dear Silva",
+        "body": "Dear Silva\r\nThank you for your immediate response as I am happy to have you as my trust\r\nbeneficiary as you have shown capacity to handle the transaction.\r\nI need you to send me your full name . Your address and your direct phone\r\nnumber\r\nThe contact of the bank attorney will be given to you once you confirm this\r\ninformation\nThanks\r\nGeorge Dankata"
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 16.12431712962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "39",
+        "subject": "Re: Dear Silva",
+        "body": "Hello George,\n\nI appreciate your prompt reply. Before I provide any personal information, could you please share more details about the reason you need my full name, address, and phone number? It would help me understand the situation better.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSilva"
+    },
+    {
+        "from": "scammer_935",
+        "to": "baiter_935",
+        "direction": "Inbound",
+        "days_from_first_conversation": 17.38443287037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "40",
+        "subject": "Re: Dear Silva",
+        "body": "Dear Silva\r\nThank you for your kind mail as I am truly happy that I contacted a very\r\ncalculative person that will not help me to secure this transaction but\r\nwill also be wise and matured to provide me the opportunity of investing my\r\nshare in a lucrative business after the transaction.\r\nI quite understand your concern and you can be rest assured. I initially\r\nrequested your assistance to help to secure this transaction and provided\r\nyour safe bank account for the transfer of the funds as the next of kin and\r\nfunds appointed beneficiary. Upon your kind response and acceptance I have\r\nappointed you the next of kin and the beneficiary to funds that your\r\ndeposited by your supposed late relative and now I need your full details\r\nto submit to the bank as the beneficiary to the funds so as to enable us\r\nproceed with the funds transfer modalities for you I informed you that you\r\nwill use the service of an accredited bank attorney.\r\nThe bank is waiting for me to submit your details in full as the next of\r\nkin and funds appointed beneficiary that will give access to transfer this\r\ntransaction and have the funds transferred to your nominated bank account\r\nThat is what is required from you\nThanks\r\nGeorge Dankata"
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 17.416493055555556,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "41",
+        "subject": "Re: Dear Silva",
+        "body": "Hello George,\n\nThank you for reaching out to me with this opportunity. I appreciate your trust in me to assist with securing and investing the funds. Could you please provide more details about the process of transferring the funds? I would like to understand how everything will work before proceeding.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSilva"
+    },
+    {
+        "from": "baiter_935",
+        "to": "scammer_935",
+        "direction": "Outbound",
+        "days_from_first_conversation": 17.458715277777777,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "42",
+        "subject": "Re: Dear Silva",
+        "body": "Hello George,\n\nThank you for reaching out to me with this opportunity. I appreciate your trust in me to assist with securing and investing the funds. Could you please provide more details about the process of transferring the funds to my bank account? I want to make sure everything is clear before proceeding.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSilva"
+    }
+]

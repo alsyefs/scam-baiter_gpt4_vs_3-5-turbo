@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1493",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Federal Reserve Bank of New ",
+        "body": "  Federal Reserve Bank of New York\n33 Liberty Street\nNew York, NY 10045\n13/11/2023\n \n \nDear Beneficiary,\n \nThis is to inform you that we have finally received instructions from the Department of Treasury and the United Nations (Joint payment verification team and the World Bank ) to release your long delayed payment sum of $3.7M \nHowever, we have received a notice of Change of Account from your next of kin Mr. Julius Fletcher last Friday. In respect to the account received from him, we wish to confirm with you before we proceed with the transfer of your contract fund to the new account he provided.\n \nKindly confirm the below new bank account as valid and endorsed by you for the transfer of your unpaid contract fund.\n \nBank; Bank of America\nAddress; 690 Adams Street Quincy Ma 02169 USA\nA/C Number: 4666 0133 5222\nRouting Number: 011000138\nSwift Code: BOFAUS3N\nA\\C Name: Julius Fletcher\n \nThe transfer will take place immediately you confirm the authenticity new bank account information provided by Mr. Julius Fletcher. I demand an urgent response from you to enable us to proceed with the transfer.\n \nBest Regards,\nMartin Navarro \nDirector Payment Unit \nFederal Reserve Bank    "
+    },
+    {
+        "from": "baiter_1493",
+        "to": "scammer_1493",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Federal Reserve Bank of New ",
+        "body": "Hello Martin Navarro,\n\nThank you for your message. It's quite surprising to hear about this change of account from Mr. Julius Fletcher. I must admit, I don't recall endorsing any such changes recently.\n\nCould you please provide more details about when and how this change was requested? Also, could you clarify the relationship between Mr. Julius Fletcher and myself that would allow him to make such a request?\n\nI'm looking forward to your response.\n\nBest wishes,\nRobin"
+    }
+]

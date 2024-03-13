@@ -1,0 +1,172 @@
+[
+    {
+        "from": "scammer_2208",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   DEAR,",
+        "body": "   DEAR,\nHERE IS THE OFFICE OF INTERNATIONAL MONETARY FUND IN NEW YORK, WE ARE HERE TO INFORM YOU THAT YOUR FUNDS HAS BEEN APPROVED TO RELEASE, WE ADVISE YOU TO RECONFIRM ALL YOUR INFORMATION  TO AVOID WRONG TRANSFER,\nOur address,\nOne Dag Hammarskjold Plaza 885 Second Avenue,\n26th Floor (between 47th and 48th Streets)\nNew York, NY 10017ur\nWE WAIT FOR YOUR QUICK RESPONSE,\nREGARDS,\nROBERT RICE  "
+    },
+    {
+        "from": "baiter_2208",
+        "to": "scammer_2208",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    DEAR,",
+        "body": "Dear Robert Rice,\n\nThank you for reaching out to me. I appreciate the information regarding the approval of my funds. Could you please provide me with more details about the process and how I can proceed with the release?\n\nAlso, could you clarify what specific information you need me to reconfirm? I want to make sure that everything is accurate to avoid any potential issues.\n\nLooking forward to your prompt response.\n\nBest wishes,\nCindy"
+    },
+    {
+        "from": "scammer_2208",
+        "to": "baiter_2208",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: DEAR,",
+        "body": "Dear   Cindy\r\n\r\nHere is the bank email address contact them for your payment\r\nName Ellen Alemany\r\nemail  address telex.dept33@aol.com  .your phone numbers and your address\r\nbank details  full name\nRegards\r\nRobert Rice"
+    },
+    {
+        "from": "baiter_2208",
+        "to": "scammer_2208",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.3197222222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: DEAR,",
+        "body": "Dear Robert,\n\nThank you for reaching out to me. I appreciate your willingness to share information. However, I have a few questions before I proceed.\n\n1. Could you please provide more details about the payment? What is it for and why am I being contacted?\n\n2. Who is Ellen Alemany and what is her role in this transaction?\n\n3. Can you clarify which bank's email address I should contact? It would be helpful to have the specific bank name and any additional instructions.\n\n4. Why do you need my full name, phone numbers, and address? Is this information necessary for the payment process?\n\nI look forward to your response.\n\nBest wishes,\nCindy"
+    },
+    {
+        "from": "scammer_2208",
+        "to": "baiter_2208",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.5598726851851854,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Get back to me",
+        "body": "The bank Citibank\r\n\r\n Contact Ellen Alemany For your payment\r\nEmail address   telex.dept33@aol.com\nRegards\r\n\r\nRobert Rice"
+    },
+    {
+        "from": "baiter_2208",
+        "to": "scammer_2208",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.5692476851851853,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Get back to me",
+        "body": "Hello Robert Rice,\n\nThank you for reaching out to me. I hope you're doing well. I received your message regarding Citibank and contacting Ellen Alemany for a payment. Can you please provide me with more information about this? What is the payment for and why do I need to contact Ellen Alemany specifically?\n\nI appreciate your assistance in clarifying these details.\n\nBest wishes,\nCindy"
+    },
+    {
+        "from": "scammer_2208",
+        "to": "baiter_2208",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.5071412037037035,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Get back to me",
+        "body": "Dear Cindy\r\n\r\nThe payment is for contractors that we stop their payment because of\r\nundocumented now we decide to release their funds without any delay and\r\ncontact the woman in charge of your payment.\r\n\nRegards.\r\n\r\nRobert Rice"
+    },
+    {
+        "from": "baiter_2208",
+        "to": "scammer_2208",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.527071759259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Get back to me",
+        "body": "Hello Cindy, thank you for sharing this information with me. Can you tell me more about the payment and why it was stopped initially? I'm curious to learn more about how everything got resolved.\n\nBest wishes,\nCindy"
+    },
+    {
+        "from": "scammer_2208",
+        "to": "baiter_2208",
+        "direction": "Inbound",
+        "days_from_first_conversation": 8.001516203703703,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Get back to me",
+        "body": "Attn Cindy,\r\n\r\nContact the paying bank for more information"
+    },
+    {
+        "from": "baiter_2208",
+        "to": "scammer_2208",
+        "direction": "Outbound",
+        "days_from_first_conversation": 8.005613425925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Get back to me",
+        "body": "Hello! I'm interested in learning more about contacting the paying bank. Can you provide me with some details on how to do that?\n\nBest wishes,\nCindy"
+    },
+    {
+        "from": "scammer_2208",
+        "to": "baiter_2208",
+        "direction": "Inbound",
+        "days_from_first_conversation": 8.008715277777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Get back to me",
+        "body": "Attn Cindy\r\n\r\nYou have their email address tell them you are directed from the\r\nINTERNATIONAL MONETARY FUND about your funds"
+    },
+    {
+        "from": "baiter_2208",
+        "to": "scammer_2208",
+        "direction": "Outbound",
+        "days_from_first_conversation": 8.026840277777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Get back to me",
+        "body": "Hello Cindy, I hope you are doing well. I was directed from the MONETARY FUND regarding your funds. Can you please provide me with more information about this?\n\nBest wishes,\nCindy"
+    },
+    {
+        "from": "scammer_2208",
+        "to": "baiter_2208",
+        "direction": "Inbound",
+        "days_from_first_conversation": 11.014895833333334,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Get back to me",
+        "body": "The bank Citibank\r\n\r\n Contact Ellen Alemany For your payment\r\nEmail address   telex.dept33@aol.com"
+    },
+    {
+        "from": "baiter_2208",
+        "to": "scammer_2208",
+        "direction": "Outbound",
+        "days_from_first_conversation": 11.027476851851851,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Get back to me",
+        "body": "Hello! That sounds interesting. Can you tell me more about how I can contact Ellen Alemany for my payment?\n\nBest wishes,\nCindy"
+    },
+    {
+        "from": "scammer_2208",
+        "to": "baiter_2208",
+        "direction": "Inbound",
+        "days_from_first_conversation": 15.563032407407407,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: Get back to me",
+        "body": "Dear\r\n\r\nHere is the bank email address contact them for your payment\r\nName Ellen Alemany\r\nemail  address telex.dept33@aol.com\nRegards\r\nRobert Rice"
+    },
+    {
+        "from": "baiter_2208",
+        "to": "scammer_2208",
+        "direction": "Outbound",
+        "days_from_first_conversation": 15.614664351851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: Get back to me",
+        "body": "Hello! Thank you for sharing the bank email address. Could you provide more details about the payment process? What is the reason for contacting Ellen Alemany specifically?\n\nBest wishes,\nCindy"
+    },
+    {
+        "from": "baiter_2208",
+        "to": "scammer_2208",
+        "direction": "Outbound",
+        "days_from_first_conversation": 15.656828703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: Get back to me",
+        "body": "Hello! Thank you for sharing this information. Could you please provide more details about the payment process? How should I proceed with contacting the bank via the email address provided?\n\nBest wishes,\nCindy"
+    }
+]

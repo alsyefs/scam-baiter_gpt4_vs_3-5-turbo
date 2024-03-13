@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1807",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "COMPENSATION DEPARTMENT:",
+        "body": "COMPENSATION DEPARTMENT:\nNEW YORK UNITED STATES OF AMERICA.\nCOMPENSATION FUND, UNITED STATES\nDear Sir/Ma\nGood day,\nCOMPENSATION PAYMENT FOR FISCAL YEAR 2024:\nApologies for contacting you via email as we cannot contact you\ncould achieve\nyour phone number.\nMy name is Miss Lynda Green United Nations Special Agent. a meeting\nwas issued on your behalf by the just completed 73rd General of the\nUnited Nations held\nGathering in UN/IMF countries on unclaimed funds\ndenied to many people around the world. Your funds will be released\nto you from the paying bank for immediate payment.\n It has been discovered\nduring this meeting that you have not been paid any monies\nyears of persecution.\n The funds are now ready to you since then\nto be released\nYou have been authorized to receive/request this compensation payment\n10 million dollars.\nWe have instructions to release your payment to you. Please forward\nYour full name: ================\nYour country of origin: ==========\nYour home address: ==========\nYour City:===============\nYour occupation: ============\nYour age: ==================\nYour gender: ===================\nYour phone number:  =============\nYour mobile number=================\nCopy of passport\n ========\nYour personal email address ======\nThis is the information we need to release your payment\nrequire. The UN apologizes for the delay in funds\nrelease..\nPlease send an email to this email\n(\nofficebank167@gmail.com\n) to receive your funds.\nMISS LYNDA GREEN,\nUN SPECIAL AGENT."
+    },
+    {
+        "from": "baiter_1807",
+        "to": "scammer_1807",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: COMPENSATION DEPARTMENT:",
+        "body": "Hello Miss Lynda Green,\n\nI hope this message finds you well. I am quite surprised to receive such an email, but I must say it's a pleasant surprise indeed. \n\nIt's interesting to hear about the General meeting of the United Nations and the IMF countries. Could you tell me more about what was discussed during this meeting? Also, how did my name come up in the discussion?\n\nYou mentioned that I have been authorized to receive a certain amount of money. That sounds wonderful, but could you please explain why I have been chosen for this?\n\nI appreciate your request for my personal information, however, I would like to understand more about this process before proceeding further.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRobert"
+    },
+    {
+        "from": "scammer_1807",
+        "to": "baiter_1807",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: COMPENSATION DEPARTMENT:",
+        "body": "kindly provide your whatsapp number for further communication"
+    },
+    {
+        "from": "baiter_1807",
+        "to": "scammer_1807",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6986111111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: COMPENSATION DEPARTMENT:",
+        "body": "Oh, I'm sorry but I can't provide my WhatsApp number. But we can continue our conversation here. Can you tell me more about what you wanted to discuss?\n\nBest wishes,\nRobert"
+    }
+]

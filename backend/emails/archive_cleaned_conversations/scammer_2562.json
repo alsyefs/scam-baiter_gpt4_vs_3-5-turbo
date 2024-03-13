@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2562",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello, how are you doing today",
+        "body": "Hello, how are you doing today ? This is  Troy Miller \nContacting you from the Border Customs and protection division\n, I'm contacting you regarding a package that just arrived at our custody right now with your Email on it, \nso provide your information so that we will hand it over to a cab or a delivering company to get it to you as soon as possible\n."
+    },
+    {
+        "from": "baiter_2562",
+        "to": "scammer_2562",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello, how are you doing today",
+        "body": "Hello Troy, I'm doing well, thank you for reaching out. Can you please provide me with more details about the package that has arrived at the Border Customs and Protection division? What is the package about and where is it coming from?\n\nBest wishes,\nAudrey"
+    },
+    {
+        "from": "scammer_2562",
+        "to": "baiter_2562",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Hello, how are you doing today",
+        "body": "It's your package $6.5million dollars which is in the consignment box\r\narrived at our custody at Los Angeles international airport. Your package\r\nis coming from united state of America and I am the one in charge of the\r\ndelivering. So I want you to provide me your info for the delivering of\r\nyour package\r\n\r\nYour full name\r\nHome address\r\nCell phone number\r\nNearest airport"
+    },
+    {
+        "from": "baiter_2562",
+        "to": "scammer_2562",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03457175925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Hello, how are you doing today",
+        "body": "Hello! Thank you for reaching out. Could you please provide more details about the package and why it's in custody at the Los Angeles airport? I'm curious to know how this process works.\n\nBest wishes,\nAudrey"
+    }
+]

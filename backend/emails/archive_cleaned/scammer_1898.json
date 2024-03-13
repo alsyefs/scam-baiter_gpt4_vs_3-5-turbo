@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1898",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Nigeria Ministry of Finance",
+        "body": "Nigeria Ministry of Finance\nAddress: Plots 745 & 746,\nAhmadu Bello Way, Central Area,\nP.M.B 14 Garki, Lagos.\n Attention Beneficiary\nFor Your Information Your Ten Million Five Hundred  Thousand United State Dollars Was Returned Back To This Department From US Government Since 15th November 2022 And The Fund Was Transferred From Central Bank Of Nigeria To Your Private Bank Account So If You Are The Real Beneficiary Of This Fund \nReconfirm Your Banking Details To This Department Now To Enable Me  Release The Fund In To Your Private Bank Account Immediately Because The Fund Is In Our Net Work Monetary System Now Reflecting Immediately I Receive Your Banking Details I Will  Direct THe Central Bank Of Nigeria Foreign Operation Department Officer To Process Your Payment And Release The Fund In To Your Account With Immediate Affect But You Should Bear In Mind That You Will Pay $250.00 Processing Fee And That Is The Only Expenses Your Will Do OK. \nThe Reason Why Your Paying The $250.00 Is To Enable Him Program The New M.O.T Pin Code To Enable There  System Accept The Release Order Pin Code VAT Easy To Enable You Confirm Your Fund In To Your Bank Account Within  72 Hours OK,\nTHANKS YOURS IN SERVICE\nMR OlaWale Edun\nNIGERIA MINISTER OF FINANCE"
+    },
+    {
+        "from": "baiter_1898",
+        "to": "scammer_1898",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Nigeria Ministry of Finance",
+        "body": "Hello Mr. Edun,\n\nThank you for reaching out to me! I'm quite surprised to hear about this Ten Million Five Hundred Thousand United States Dollars. That's a lot of money! \n\nCould you please tell me more about how this fund ended up with the Central Bank of Nigeria? And why was it returned back from the US Government?\n\nAlso, could you explain a bit more about this processing fee and the new pin code system? I'm not very familiar with these banking terms.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nHector"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_998",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  My Dear",
+        "body": "  My Dear\n \nI really wish to have you as my good friend and also wish to entrust some funds into your care but I have already sent the fund out of Iraq. I need your sincere and truthful relationship. My name is Major..Harrison... which you know already. I am serving in the United States of America Victory Camp Afghanistan before we moved out to Yemen\n \nReply back to me for more details\n \n \n \nthanks.\nHarrison.   "
+    },
+    {
+        "from": "baiter_998",
+        "to": "scammer_998",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   My Dear",
+        "body": "Hello Harrison,\n\nIt's a pleasure to meet you! I'm always open to making new friends. Your job sounds quite interesting, serving in different parts of the world must be quite an experience. Could you tell me more about it? And also, could you elaborate on what you mean by entrusting some funds into my care?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRichard"
+    },
+    {
+        "from": "scammer_998",
+        "to": "baiter_998",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Thanks for your Response",
+        "body": "*My Dear *\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*I have $6.5 Million US dollars that I successfully moved out of the\r\ncountry. I need a good partner, someone I can trust. It is oil business\r\nmoney we did with Iraqi citizens worth 42 million US dollars, but the 6.5\r\nmillion US Dollars stated is my share of the business and it’s legal. I\r\nhave successfully moved the funds out of Afghanistan as family valuables\r\nwith help of Universal Morgan Trust security Company through their branch\r\nin West Africa.The most important thing is ''' Can I Trust You? Once the\r\nfunds get to you,  you take your 30% out and keep my own 70%. the 6.5\r\nmillion US Dollars is in the bank now, and I told the bank to load it to\r\nthe MASTER CARD or Bitcoin WalletYour own part of this deal is to receive\r\nthis  CARD through DHL Courier Delivery Services or any other company. And\r\nyou start making withdrawals, and find a safe place where my part of the\r\nfunds will be until I come and meet with you for discussions on investment\r\nplans, but I have more interest in real estate or any other profitable\r\ninvestment. If you are interested I will furnish you with more details.the\r\nbank also can still redirect you if there is other way to receive this fund\r\n,But the whole process is simple and we must keep a low profile at all\r\ntimes. I look forward to your reply and co-operation, and I thank you in\r\nadvance as I anticipate your cooperation.You are to send the below\r\ninfo,Full Name:Telephone number:Your correct mailing\r\naddress:Country:Sex:Occupation:My Regards,Major......*"
+    },
+    {
+        "from": "baiter_998",
+        "to": "scammer_998",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.005868055555555555,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Thanks for your Response",
+        "body": "Hello there,\n\nWow, that sounds like quite an adventure you've been on! I'm intrigued by your story and would love to hear more about it. How did you manage to move such a large amount of money out of the country? And how did you get involved in the oil business with Iraqi citizens?\n\nI'm also curious about this Universal Morgan Trust security company you mentioned. What kind of services do they provide? \n\nYou mentioned something about a MASTER CARD or Bitcoin. Could you explain more about how that works? \n\nAnd finally, I'd love to hear more about your interest in real estate and other profitable investments. What kind of investments are you considering?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nRichard"
+    },
+    {
+        "from": "scammer_998",
+        "to": "baiter_998",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.12111111111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "You are to send the below info,",
+        "body": "Richard Thanks for your email , I will advise you to comply by sending your\r\ndetails so that  I will forward it to the security and delivery company to\r\nstart the process while coming closer to speak more on how to protect my\r\nshare if the money arrives in your country.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*You are to send the below info,Full Name:Telephone number:Your correct\r\nmailing address:Country:Sex:Occupation:My Regards,Major......*\r\n\r\n\r\n\r\n>\r\n>"
+    },
+    {
+        "from": "baiter_998",
+        "to": "scammer_998",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.13087962962962962,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: You are to send the below info,",
+        "body": "Hello Richard,\n\nThank you for your email. It's great to hear from you! I'm really interested in learning more about this process and how it works. Could you please provide me with more details? \n\nAlso, I'm curious about the security and delivery company that will be involved. What is their role in this process? And how do they ensure the protection of my share?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRichard"
+    }
+]

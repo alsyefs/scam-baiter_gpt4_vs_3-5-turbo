@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1994",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "ATTENTION BENEFICIARY",
+        "body": "ATTENTION BENEFICIARY\nThis is the National Crime Information Center (NCIC) USA.\nIn our investigations from banks on International and National Funds Transfer (INFT) protocols in the past 10 years from all banks worldwide. We have come across your contact details and records with one of these Banks. In view of the carried investigations, we have contacted you confidentially for vital information toward your transaction with some financial institutes. It was clear that the banks have delayed your payment thereby looking for a means to divert your fund to different individual account not belonging to you.\nHowever, all bank officials who mishandled your transaction have been duly sacked and management dissolved and dismissed from bank work as a result of this attempt. Upon our investigation conclusion, we found out that your transaction was legitimate and for this reason, a compensation amount of $3,150,500 (Three million one hundred and fifty thousand, five hundred dollars) has been allocated to you for immediate payment through our accredited bank, EURO BANK- PAYMENT REQUIREMENTS.\nKindly contact the compensation paying officer with the below details.\nName: Mr. Jones Larry\nEmail: \nofficialjoneslarry@gmail.com\nThanks.\nYours sincerely,\nMichael D. Kirkpatrick"
+    },
+    {
+        "from": "baiter_1994",
+        "to": "scammer_1994",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: ATTENTION BENEFICIARY",
+        "body": "Hello Michael D.,\n\nThank you for reaching out to me. I appreciate your attention and the information you have provided. It's interesting to hear about the National Crime Center NCIC and its efforts in handling financial matters.\n\nI would like to know more about the specific bank and the reasons behind the delay in my payment. Could you please provide me with further details regarding which bank this is and why they were looking to divert my funds?\n\nAdditionally, I would like to understand how the allocated amount of three million one hundred and fifty thousand, five hundred dollars was determined. What criteria were used to arrive at this specific amount?\n\nLastly, could you please share the contact information of the paying officer so that I can get in touch with them directly? I want to ensure that everything is handled properly.\n\nThank you once again for your assistance. I look forward to hearing back from you soon.\n\nBest wishes,\nBrian"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_623",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir,",
+        "body": "  Dear Sir,\nYour inheritance funds now pending with court release Affidavit of\nSupport/ Claim of funds certificate has been submitted to my office\nhere at ICC for investigation and subsequent payment, The USD $5.5\nMillion  payment  which comes as a form of compensation upon\nverification is strictly with INTERNATIONAL BANK DISCOUNTED DRAFT  as\nreceived in partnership with the bank\nIf interested in your payment i will need you reconfirm your below information:\n1, Your full names, your contact address with country of origin\n2, Your direct phone number and a copy of your photo identification.\nYour fund has been approved for payment in partnership with the  Bank\nthrough  AND INTERNATIONAL BANK DRAFT to avoid payment stoppages\noccasioned by Bank fraudulent activities.\nAttached is my identification for your perusal, do revert back to me\nupon the receipt of this mail for further guidance on how to receive\nthis instruments and discounts your payments Hope to hear from you\nYours Faithfully\nDouglas Peter   "
+    },
+    {
+        "from": "baiter_623",
+        "to": "scammer_623",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir,",
+        "body": "Dear Douglas Peter,\n\nThank you for reaching out to me regarding the release of my funds. I appreciate your assistance in this matter. However, before proceeding further, I would like to clarify a few details.\n\n1. Could you please provide more information about the court release Affidavit of Support Claim? What is its purpose and how does it relate to the payment of my funds?\n\n2. You mentioned that the payment will be made in the form of a BANK DISCOUNTED DRAFT. Can you explain what exactly that means and how it differs from other forms of payment?\n\n3. In order to proceed with the payment, you requested my full name, contact address, country of origin, direct phone number, and a copy of my photo. Why is this information necessary for the transaction?\n\n4. It would also be helpful if you could provide more details about the bank through which the payment will be processed. Which bank is involved and what measures are in place to ensure that there are no fraudulent activities?\n\nI look forward to receiving your response and further guidance on how to receive my payments securely.\n\nBest wishes,\nMaureen"
+    }
+]

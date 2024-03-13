@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2227",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Greetings!",
+        "body": "  Greetings!\n \nConsider this an opportunity to venture into another industry outside of your business area.\n \nThere is an ongoing NHS sponsored project which is set up for research and manufacturing of plant-derived therapies. The project cost awarded for this project is over Five Billion United States Dollars, and as we speak the setup is ongoing.\n \nNow here's what you need to know, one of the essential herbal oil extracts needed for this project's success is very rare to obtain and the former supplier to our company is deceased.\n \nMy superiors are desperate for a new individual supplier. Meanwhile, I have discovered a company that sells herbal extract, infact the old vendor was supplying our company four times the actual price.\n \nAssuming we are in business, I will use my resources within the company to get NHS endorsement for you as the new supplier. You will then supply to us two times the price but the same quality of the product.\n \nMy superiors cannot have direct contact to this new supplier, because I intend to make profit from this project.\n \nP.S. NHS supply contract is a minimum of 3 years if the product sample gets accredited.\n \nWe will talk numbers and more if you are okay with it.\n \nThank you.\n \nSincerely,\nDr. Robert Ordgard .\nMedical Research Director\nImmunocore Biotech Co.   "
+    },
+    {
+        "from": "baiter_2227",
+        "to": "scammer_2227",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Greetings!",
+        "body": "Hello Dr. Robert Ordgard,\n\nThank you for reaching out and sharing this intriguing opportunity with me. I must say, it sounds like a significant project that could potentially have a huge impact on the medical field.\n\nI'm curious about a few things though. Could you please tell me more about this rare herbal oil extract? What makes it so unique and essential for your research?\n\nAlso, could you provide some more details about the NHS supply contract? How does it work exactly?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDelmar"
+    }
+]

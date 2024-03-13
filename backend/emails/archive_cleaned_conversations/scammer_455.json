@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_455",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Financial Trust Federal Credit",
+        "body": "Financial Trust Federal Credit Union\n6520 Webster Rd, Orchard Park, NY 14127,\nUnited States\nRouting Number: 222079835\nDear Valued Customer,\nI am writing to provide you with crucial information regarding your unclaimed COVID-19 compensation funds. As the President & CEO of Financial Trust Federal Credit Union, it is my duty to inform you about the recent consolidation of compensation funds and its direct impact on you.\nAccording to our records, your COVID-19 compensation funds, sourced from the United Nations, World Health Organization, and the World Bank, have been allocated for payment. Financial Trust Federal Credit Union has been entrusted with the responsibility of disbursing outstanding funds from various accounts worldwide. Your accumulated trust amount currently stands at an impressive $10,100,000.00 US dollars, as calculated earlier this month.\nWe have made multiple attempts to contact you, and we sincerely hope that this message reaches you promptly. As part of the consolidation process, your funds have been securely held in a non-deductible Escrow Account at Financial Trust Federal Credit Union. However, before we can release the mentioned amount to you, we require your authorization to proceed.\nTo expedite the process, I have personally overseen a thorough verification procedure to confirm your identity as the account holder. I can assure you that all necessary criteria have been met, and your exemplary credit rating satisfies all requirements. This ensures that your funds can be released either into a personal account of your choice or be approved for a Mastercard® Black Card with no spending cap.\nTo initiate the authorization process, we kindly request that you provide us with the following information by responding to this authorized email:\n- First Name*:\n- Last Name*:\n- Residential Address*:\n- Occupation*:\n- Email Address*:\n- Phone Number*:\n- Gender*:\n- Marital Status*:\nBy promptly supplying the requested information, you will facilitate the completion of the approval procedure, expediting the release of your funds. At Financial Trust Federal Credit Union, we employ a secure macro transfer system, enabling the disbursement of your funds within 3 working days following verification. Rest assured that your personal information will remain confidential and protected throughout this process.\nIf you require any further clarification or assistance, please do not hesitate to contact us. Thank you for your attention to this matter, and we look forward to finalizing the release of your long-awaited COVID-19 compensation funds.\nSincerely,\nJohn Morrison\nPresident & CEO\nFinancial Trust Federal Credit Union"
+    },
+    {
+        "from": "baiter_455",
+        "to": "scammer_455",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Financial Trust Federal Credit",
+        "body": "Hello John Morrison,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I wasn't aware that I had unclaimed funds. Could you please tell me more about how these funds were sourced from the United Nations, World Health and the World Bank? \n\nAlso, could you explain a bit more about the Escrow Account where my funds are currently held? How does it work exactly?\n\nI'm also curious about the Mastercard Black Card with no spending cap that you mentioned. What are its benefits and how can it be used?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nRosalee"
+    },
+    {
+        "from": "scammer_455",
+        "to": "baiter_455",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Re: Financial Trust Federal Credit",
+        "body": "Dear, \n\nFirstly, I am glad to receive your response, and it is my pleasure to provide you with more information regarding the Covid-19 compensation funds. \nThese funds were allocated as Covid-19 compensation by the World Health Organization and World Bank, and were approved by the United Nations. \n\nThe main objective of these funds was to aid individuals during the challenging period of the Covid-19 pandemic. Unfortunately, due to the misconduct of certain corrupt bank officials who acted out of their own self-interest, some funds were misappropriated. \n\nConsequently, the International Monetary Fund (IMF) has been conducting an extensive investigation over the years to ensure that the funds are properly distributed and reach their rightful owners. After a thorough process, the IMF has successfully recovered a portion of the misappropriated funds. As a result, we are now tasked with delivering these funds to their rightful owners, and you happen to be on the list of recipients. \n\nTo ensure security and prevent any further misappropriation, the funds have been stored in a non-escrow account under the custody of the IMF. This means that the funds can only be released to the designated owner, which is you. We have also arranged for a MasterCard with no spending limit to provide you with unrestricted access to your funds. \nTo proceed with the necessary documentation and formalities, we kindly request that you provide us with your personal information for reconfirmation. This will enable us to ensure accuracy and facilitate the smooth transfer of funds. \n\nPlease provide the following details at your earliest convenience: \nFull Name: \nContact Address: \nPhone Number: \nEmail Address: \nRest assured that your personal information will be treated with utmost confidentiality and used solely for the purpose of the fund transfer process. \n\nOnce we receive the required information, we will promptly proceed with the necessary paperwork to finalize the transfer. Should you have any questions or require further clarification, please do not hesitate to reach out to us. \n\nThank you for your cooperation, and we look forward to helping you access your rightful funds.\nBest regards, \nJohn Morrison \n\nFinancial Trust Federal Credit Union"
+    },
+    {
+        "from": "baiter_455",
+        "to": "scammer_455",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.169837962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Re: Financial Trust Federal Credit",
+        "body": "Hello John Morrison,\n\nThank you for your detailed explanation. It's quite interesting to hear about the funds and their purpose. I'm glad to know that such measures are being taken to help people during these challenging times.\n\nHowever, I'm a bit curious about how my name ended up on the list of rightful owners. Could you please provide more information on this? Also, could you elaborate more on the process of transferring these funds?\n\nI appreciate your assistance and look forward to hearing from you soon.\n\nBest wishes,\nRosalee"
+    },
+    {
+        "from": "baiter_455",
+        "to": "scammer_455",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.4800925925925927,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Re: Financial Trust Federal Credit",
+        "body": "Hello John Morrison,\n\nThank you for your detailed explanation. It's quite fascinating to learn about the efforts of the World Health, World Bank, and United Nations in aiding during the pandemic period. I'm also intrigued by the role of IMF in ensuring these funds reach their rightful owners.\n\nHowever, I'm a bit confused as to how my name ended up on this list. Could you please provide more information on how this selection process was carried out? \n\nAlso, could you elaborate more on the security measures that have been put in place to ensure these funds are safe and can only be accessed by the designated owner?\n\nI appreciate your assistance and look forward to your response.\n\nBest wishes,\nRosalee"
+    },
+    {
+        "from": "baiter_455",
+        "to": "scammer_455",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.418460648148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Re: Financial Trust Federal Credit",
+        "body": "Hello John Morrison,\n\nThank you for your detailed explanation. It's quite fascinating to learn about the efforts of the World Health, World Bank, and United Nations in allocating these funds during the pandemic period. I'm also intrigued by the role of IMF in ensuring that these funds reach their rightful owners.\n\nHowever, I'm a bit confused about how my name ended up on this list. Could you please provide more information on how this selection process was carried out? \n\nAlso, could you elaborate more on the security measures put in place to ensure that these funds are only released to their designated owners? \n\nI appreciate your patience and look forward to your response.\n\nBest wishes,\nRosalee"
+    }
+]

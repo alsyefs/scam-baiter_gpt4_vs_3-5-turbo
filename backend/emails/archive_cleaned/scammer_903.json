@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_903",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello Dear.,",
+        "body": "  Hello Dear.,\nI hope you are OK with your family?\nI am aware of all the problems you have passed through in trying to pick your fund from the bank officials without success,right now I have been promoted as the new payment officer and as a result I possess executive powers to release your fund without delay\nDon't allow this approved fund in your name to  enter a government pocket OR  the bank will confiscate the account ? Please let us move forward on this fund for our benefit and interest. But before I can do this,you must be willing to part with 50% of the whole fund worth USD 10.7 MILLION and you must follow the bank rules and regulations accordingly\nIf you are really serious and ready I will need your valid international passport with your current contact details address,whatsapp number Occupation for the transfer process.\nMay God's blessing remain with you.\nMr.Frederick Caiger\nEmail: \nfredericks11958@gmail.com\n "
+    },
+    {
+        "from": "baiter_903",
+        "to": "scammer_903",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello Dear.,",
+        "body": "Hello Fredericks,\n\nI hope this message finds you well. It's quite interesting to hear about this fund. I must say, it's a bit unexpected but intriguing nonetheless.\n\nCould you please provide more details about this fund? How did it come into existence and why is it in my name? Also, could you explain the bank rules that I need to follow?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nLisa"
+    }
+]

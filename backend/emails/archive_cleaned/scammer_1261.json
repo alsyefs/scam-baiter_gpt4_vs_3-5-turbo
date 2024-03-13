@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1261",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello,",
+        "body": "Hello,\n \nI write you with regards to the corresponding report we received prior to your pending transaction (PAYMENT). Further analysis reveals your dilemma over the administrative injustice from unpatriotic and uncivil payment officials. Sequel to the marginalization, the International Court of Justice issued a verdict, which placed sanction on agencies that imposed indirect TAX/FEES on beneficiaries.\n \nThis office is commissioned and committed to investigate and rectify ISSUES affecting beneficiaries whose payment is HELD/STOPPED unjustly with the intent of demanding un-official fees/levies. Be informed that all administrative injustice imposed on beneficiaries by MOST dubious person(s) has come to the knowledge of the oversight committee of the United Nations under the sole administration of António Guterres U.N Secretary-General.\n \nBe informed, that the sole aim and objective of this Human Rights Defender Organization is to resolve all challenges facing the release of your payment. Therefore, \nget back to this office with all the necessary information through and by which the purported desired result will be achieved.\n \n \nYour ID card for accreditation\nYour Complete Name\nYour current resident address for procurement of legal papers\nYour cell phone number for easy communication.\nYour Occupation if you do have a job \n \nThanks\n \nYours in service,\n \nChief Admin\nHuman Rights Organization"
+    },
+    {
+        "from": "baiter_1261",
+        "to": "scammer_1261",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello,",
+        "body": "Hello Chief Admin,\n\nThank you for reaching out to me regarding the report and the pending payment issue. I appreciate your efforts in rectifying any injustice that may have occurred. \n\nCould you please provide more details about the Court of Justice verdict and how it relates to my specific situation? I want to make sure I fully understand the background and context.\n\nAlso, could you clarify what kind of information you need from me in order to proceed with resolving this matter? I am hesitant to share personal information without a clear understanding of how it will be used.\n\nBest wishes,\nKatherine"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1210",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir",
+        "body": "  Dear Sir\nI am Mr Christopher James .I am the personal assistant to the newly appointed Central Bank Of Nigeria Governor Dr. Olayemi Michael Cardoso. With reference to your entitlement compensation fund and in line with the CHANGE OF BENEFICARY'S APPLICATION, signed by Mrs. Glenda F. Ward with your purported authorization. This issue has been carefully examined and we have declined Mrs. Ward's application as the application lacks regular signature. But did you ever instruct Mrs Glenda F. Ward to claim your fund worth US$7.000.000? Below is the bank account information provided by Mrs Glenda F. Ward saying that you authorized her to claim your fund that you are terminally ill?\nBank Name: Bank of America\nAccount Name:: N Micheal Igboalisi\nACCT NO: 586025513245\nRouting No: 111000025\nBank Address 9711 Bissonnet St. Houston, Tx 77036\nIf you did not authorize the change of your bank account in respect to your outstanding entitlement compensation Payment, therefore notify me immediately as the notification / declaration was supported with a sworn affidavit from our high Court here dated 16th October 2023 and signed by Mrs. Glenda Ward who claim and stated in the sworn declaration that you authorized her to claim the said fund on your behalf to a different bank account in the U.S.A as stated above because you were terminally ill and the Doctor who is in charge of your case stated that you will not stay more than one Month before passing away.\nThis development has caused lots of discrepancies in your payment file that is why we had to suspend your payment and prompted to contact you directly before re-validating your payment. You can be rest assured that I will do everything within my capacity to successfully actualize the quick transfer of your fund to any of your nominated bank accounts if you know you did not authorize the change of fund ownership.\nKindly get back to me as soon as possible so that I will direct you on what to do.\nSincerely Yours\nMr Christopher James   "
+    },
+    {
+        "from": "baiter_1210",
+        "to": "scammer_1210",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir",
+        "body": "Hello Mr. James,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I don't recall ever authorizing Mrs. Glenda F. Ward to claim any funds on my behalf. In fact, I've never even met a Mrs. Glenda F. Ward.\n\nI'm also not terminally ill, as far as I know, and have not been in contact with any doctors who would suggest otherwise.\n\nCould you please provide more information about this fund? How did it come into existence? And why was it assigned to me?\n\nLooking forward to your response.\n\nBest wishes,\nHorace"
+    }
+]

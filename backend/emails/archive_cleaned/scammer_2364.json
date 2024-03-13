@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2364",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Greetings From Standard Char",
+        "body": "  Greetings From Standard Chartered Bank, I write to notify you that you have been compensated with USD$1M\nKindly get back to me with your name home or office address and your telephone number, to open your file and get your funds released to you\nBest Regards\nSir, Stevephen    "
+    },
+    {
+        "from": "baiter_2364",
+        "to": "scammer_2364",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Greetings From Standard Char",
+        "body": "Hello Sir Stevephen,\n\nThank you for reaching out to me from Standard Chartered Bank. I appreciate the notification about the funds. However, before I provide any personal information, could you please clarify some details for me?\n\n1. What is the purpose of opening a file? Is it necessary for the funds to be released?\n2. Can you provide more information about the source of these funds?\n3. Are there any fees or charges associated with this process? If so, what are they and how can they be paid?\n\nI look forward to your response.\n\nBest wishes,\nMarvin"
+    }
+]

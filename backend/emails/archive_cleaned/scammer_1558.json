@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1558",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Federal Deposit Insurance C",
+        "body": "   Federal Deposit Insurance Corporation (FDIC)\nOffice of the Chairman\n550 17th Street, NW, Washington, DC 20429\n Sir/madam,\nWe hereby notify you that funds have arrived in the United States of America in your name for onward credit to your nominated bank account.\nAs part of our oversight functions over such huge inflow into the US financial system, we have investigated and verified that the funds are clean without legal and administrative encumbrance. This is because we are the United States Federal Insurance agency responsible for underwriting the guarantee for the settlement of such claims in the United States of America and across the world.  \nYou are only required to confirm that the said funds actually belong to you.\nYou are also required to pay the receivership authorization fee, (which is not deductible) to the FDIC Receivership Office in the USA and reconfirm your personal and banking details, so that the funds can be credited into your account without further delay.\nThank you for your kind understanding.\nYours sincerely,\nMartin J. Gruenberg    "
+    },
+    {
+        "from": "baiter_1558",
+        "to": "scammer_1558",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Federal Deposit Insurance C",
+        "body": "Hello Martin J. Gruenberg,\n\nThank you for your message. I'm quite surprised to hear about these funds arriving in my name. Could you please provide more details about this? Where did the funds come from and why are they being sent to me?\n\nAlso, could you explain a bit more about the fee that needs to be paid? How much is it and what is it for exactly?\n\nI look forward to hearing from you.\n\nBest wishes,\nAmanda"
+    }
+]

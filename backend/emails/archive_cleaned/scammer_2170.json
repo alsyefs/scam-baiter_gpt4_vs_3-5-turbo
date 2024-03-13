@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2170",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear ",
+        "body": "  Dear \nI am just making a follow up.\nThe copy of your applied passport will be ready by next week or this week?\nRegards,\nMr. Phillip Owens.\nManager - Deceased Insurance\nEmail: \ninsurance@skivalleyb.com\nSki Valley Bank is an authorized financial services and registered Credit provider\nDISCLAIMER:\nThis email and any attachments are confidential and are intended solely for the addressee. If you are not the addressee, tell the sender immediately and destroy it. Do not open, read, copy, disclose, use or store it in any way, or permit others to do so. Emails are not secure and may suffer errors, viruses, delay, interception, and amendment. Dissemination, distribution or copying of this e-mail or the information herein by anyone other than the intended recipient, or an employee or agent Responsible for delivering the message to the intended recipient, is Prohibited.   "
+    },
+    {
+        "from": "baiter_2170",
+        "to": "scammer_2170",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear ",
+        "body": "Dear Mr. Phillip Owens,\n\nThank you for reaching out to me. I hope you are doing well. Regarding the copy of my applied passport, I just wanted to confirm a few details before proceeding. Could you please provide me with some more information about the process and why it is taking longer than expected? Additionally, could you let me know if there are any fees or documents required for obtaining the copy?\n\nI appreciate your assistance in this matter.\n\nBest wishes,\nDixie"
+    }
+]

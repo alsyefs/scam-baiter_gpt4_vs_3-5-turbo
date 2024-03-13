@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1465",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Good Day  I hope you are fin",
+        "body": "  Good Day  I hope you are fine? If so, thanks be to God.\nI’m here to introduce myself properly to you, my name is Mrs. Lena Hans Svensson , I’m originally from Greece and I work as (IT Programmer)Informations  Technology, in Swed Bank. I also work as a financial Broker, should in case you want to expand your business or have any Business Project, Contracts or Investment and Loan, don’t fail to contact me as soon as possible. Our interests are low and flexible. I want you to become my business partner and you have a lot to benefit as long as you will be honest and trustworthy.\nMeanwhile, the major reason I’m here is to inform you that there is this Business Investment Funds in Caixa Bank Madrid, Spain. I want you to stand as the beneficiary of the sum €18,500,000.00 this money will be used for investing into a Real Estate Project in your country.\nHowever, 25% of the total funds will be giving to you for standing as the beneficiary, 5% will be set out for any expenses that will come up during claiming of the funds and the remaining 70% will be use for Real Estate Project and you will also be part of the Managers/Directors of the Investment.\nThis matter should be taken very seriously and secret because the happiness of every rich man is the secret of his wealth. I shall furnish you with every information about these funds and the steps to be taken for the funds to be in your possession.\nI will stop here until I read from you.\nYours sincerely,\nMrs.Lena Hans Svensson.      "
+    },
+    {
+        "from": "baiter_1465",
+        "to": "scammer_1465",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Good Day  I hope you are fin",
+        "body": "Hello Hans Svensson,\n\nI hope this message finds you well. I'm intrigued by your proposal and would like to learn more about it. It's not every day that someone offers such an interesting business opportunity.\n\nCould you please provide more details about the nature of the Real Estate Project? What kind of properties are we talking about here? Residential, commercial, or something else?\n\nAlso, could you clarify what you mean by standing as the \"of the sum\"? I'm not quite sure I understand that part.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nKenneth"
+    }
+]

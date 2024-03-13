@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_326",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "My Name is Sir Camsey Paul (KS",
+        "body": "My Name is Sir Camsey Paul (KSC) based in Stoke-On-Trent, UK,where are you from? Are you a dedicated Christian? I needed someone that I could trust with charity work. I have been Diagnosed with Esophageal Cancer of the Lungs. According to my Doctor I will die in a moment.\nI want you to Distribute these Funds to people that need it. I will wait here for your Response before I go ahead and inform my Lawyer about my intentions."
+    },
+    {
+        "from": "baiter_326",
+        "to": "scammer_326",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: My Name is Sir Camsey Paul (KS",
+        "body": "Hello Sir Camsey Paul KSC,\n\nI'm really sorry to hear about your health condition. It's truly admirable that you're thinking of others and wanting to do charity work in such a difficult time. I'm curious, how did you come across my contact? And could you tell me more about the kind of charity work you have in mind?\n\nBest wishes,\nPatrick"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_319",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hi",
+        "body": "  Hi\nI am a Canadian female geologist dealing in crude oil and precious\nstones business in the Middle East. I have an urgent welfare mission\nproject that will require your personal involvement if you oblige.We\nshall discuss details upon your response.\nDr.Thana Burhan\nBldg 178, Road 907, 309\nP.O. Box 10988\nManama Bahrain\nP/E: \nburhanthana97@gmail.com\n "
+    },
+    {
+        "from": "baiter_319",
+        "to": "scammer_319",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hi",
+        "body": "Hello there,\n\nIt's nice to meet you! Your work as a geologist in the Middle East sounds fascinating. I'm always interested in learning about different fields and industries. Could you tell me more about this urgent welfare mission project? What kind of help are you looking for?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nDustin"
+    }
+]

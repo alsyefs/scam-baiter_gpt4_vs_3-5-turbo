@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2238",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Good Day ",
+        "body": "  Good Day \nWe tried to call you regarding your scheduled fund transfer with the HSBC but unfortunately we were not able to reach you.\nAt this time, can you please advise a suitable hour Monday to Friday between 10:00am to 9:00pm AEDT than we can contact you or send your WhatsApp number for details on scheduled wire.\nRogers Wilson   "
+    },
+    {
+        "from": "baiter_2238",
+        "to": "scammer_2238",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Good Day ",
+        "body": "Hello Rogers Wilson,\n\nThank you for reaching out to me. I apologize for missing your call regarding the scheduled fund transfer with HSBC. I appreciate you taking the time to follow up with me.\n\nI would be happy to provide you with a suitable hour to contact me or share my number for further details on the scheduled wire transfer. However, before we proceed, could you please provide me with some more information about the transfer? I just want to make sure everything is in order.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nGary"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_806",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  FEDERAL RESERVE BANK OF NEW ",
+        "body": "  FEDERAL RESERVE BANK OF NEW YORK\nADDRESS: 33 LIBERTY STREET,\nNEW YORK, N.Y 10038.\nATTN: FUND BENEFICIARY,\n                  Re: ATM Card payment notification.\nThis is to officially inform you that the bank Federal Reserve Board New York Branch  has concluded in the meeting today over your long overdue contract payment and agreed that your payment worth US$10.500,000.00 will be released to you through ATM Master Card which will be delivered to you directly to your home address.\nHowever, you are further advised to know that all arrangement has been completed long ago for the immediate dispatch to your residency, you have to reply back to us as soon as possible with the below DATA’ to enable the Ups shipping department proceed with the immediate dispatch tomorrow been Friday dated 23rd of February 2024 on your behalf.\nFinally, this is very urgent and important the bank are waiting to hear from you right away today, Bear in mind that the tracking number of your parcel will be given to you immediately the Processing charge and Stamp fee which will not cost you much is received to avoid any immediate STOP ORDER from the United Nation office.\nNote That Because Of Impostors, We Hereby Issued You Our Code Of Conduct, Which Is (ATM-2024) So You Have To Indicate This Code When replying back to us By Using It As Your Subject. Get back to us with this information needed,\nFull Names:\nYour Address:\nCountry:\nDirect Number:\nYour Age And Occupation:\nA scan copy of your ID card or passport:\nReply back to us accordingly; The bank Wait For Your Expedite Response.\nYours in Service,\nMr. Jerome H. Powell\nChairman Federal Reserve Board New York\nEmail: \nfederalreserveatmcard@hotmail.com\n "
+    },
+    {
+        "from": "baiter_806",
+        "to": "scammer_806",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   FEDERAL RESERVE BANK OF NEW ",
+        "body": "Hello! Thank you for sharing this information with me. I appreciate the update regarding my contract payment. Could you please provide more details about how the ATM Master Card will be delivered to my home address? Also, what is the process for covering the Processing charge and Stamp fee that you mentioned? I look forward to your response.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_806",
+        "to": "baiter_806",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re:   FEDERAL RESERVE BANK OF NEW",
+        "body": "Get back to us with this information needed,\r\n\r\nFull Names:\r\nYour Address:\r\nCountry:\r\nDirect Number:\r\nYour Age And Occupation:\r\nA scan copy of your ID card or passport:\r\n\r\nReply back to us accordingly; The bank Wait For Your Expedite Response.\r\n\r\nYours in Service,\r\nMr. Jerome H. Powell\r\nChairman Federal Reserve Board New York\r\nEmail: federalreserveatmcard@hotmail.com<mailto:federalreserveatmcard@hotmail.com>"
+    },
+    {
+        "from": "baiter_806",
+        "to": "scammer_806",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0103125,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re:   FEDERAL RESERVE BANK OF NEW",
+        "body": "Hello Mr. Jerome H. Powell,\n\nThank you for reaching out. I would like to know more about the information you mentioned. Could you please provide me with further details on what is needed from my end?\n\nLooking forward to your response.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_806",
+        "to": "baiter_806",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.05451388888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re:   FEDERAL RESERVE BANK OF NEW",
+        "body": "Hello Mr. James, I will advise you to give us your full details and I want to let you know that the processing charge and stamps fee will cost you $850 only. Let me hear from you soon"
+    },
+    {
+        "from": "baiter_806",
+        "to": "scammer_806",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.07331018518518519,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re:   FEDERAL RESERVE BANK OF NEW",
+        "body": "Hello! Thank you for reaching out. Can you please provide more information about the processing charge and stamps fee? I would like to understand how these fees are calculated.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_806",
+        "to": "baiter_806",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.08091435185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re:   FEDERAL RESERVE BANK OF NEW",
+        "body": "The processing charge and stamps fee will cost you $850 only"
+    },
+    {
+        "from": "baiter_806",
+        "to": "scammer_806",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.09340277777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re:   FEDERAL RESERVE BANK OF NEW",
+        "body": "Hello! That sounds like a great deal. Can you tell me more about what the processing charge and stamps fee cover?\n\nBest wishes,\nJames"
+    }
+]

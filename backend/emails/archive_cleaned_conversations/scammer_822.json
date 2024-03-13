@@ -1,0 +1,112 @@
+[
+    {
+        "from": "scammer_822",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn:",
+        "body": "Attn:\nFedEx Express acknowledges your parcel of ATM Debit Card worth of $25M from the United Nations.\nKindly provide your details to receive your parcel free of charges as follows;\nName:\nAddress:\nTelephone Number:\nThank you..\nOscar Keke\nFedEx Express  "
+    },
+    {
+        "from": "baiter_822",
+        "to": "scammer_822",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attn:",
+        "body": "Hello Oscar, thank you for reaching out. I'm interested in receiving the ATM Debit Card parcel from the United Nations. Could you please provide more information on how to proceed with this?\n\nBest wishes,\nJay"
+    },
+    {
+        "from": "scammer_822",
+        "to": "baiter_822",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Attn:",
+        "body": "Attn: Jay,\r\n\r\nKindly provide your details as follows;\r\nName:\r\nAddress:\r\nTelephone:\nRegards,\r\nOscar Keke"
+    },
+    {
+        "from": "baiter_822",
+        "to": "scammer_822",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.15585648148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Attn:",
+        "body": "Hello Oscar Keke, thank you for reaching out. I'd be happy to provide some details. What specific information are you looking for?\n\nBest wishes,\nJay"
+    },
+    {
+        "from": "baiter_822",
+        "to": "scammer_822",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.19979166666666667,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Attn:",
+        "body": "Hello! Sure, I'd be happy to provide some details. What specific information are you looking for?\n\nBest wishes,\nJay"
+    },
+    {
+        "from": "baiter_822",
+        "to": "scammer_822",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.28141203703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Attn:",
+        "body": "Hello Oscar Keke, I'd be happy to provide some information. What details are you looking for specifically?\n\nBest wishes,\nJay"
+    },
+    {
+        "from": "baiter_822",
+        "to": "scammer_822",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.32305555555555554,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Attn:",
+        "body": "Hello Oscar Keke, thank you for reaching out. I'd be happy to provide some details. What specific information are you looking for? Let me know how I can assist you further.\n\nBest wishes,\nJay"
+    },
+    {
+        "from": "scammer_822",
+        "to": "baiter_822",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.4190277777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Attn:",
+        "body": "Send your full name:\r\nFull address;\r\nTelephone number:\r\n\r\nThank you"
+    },
+    {
+        "from": "baiter_822",
+        "to": "scammer_822",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.4474537037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Attn:",
+        "body": "Hello! I'm happy to help. Could you please provide more details or context about what you need the full address for?\n\nBest wishes,\nJay"
+    },
+    {
+        "from": "baiter_822",
+        "to": "scammer_822",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.5330439814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Attn:",
+        "body": "Hello! I'd be happy to help. Could you please provide more details or context about what you need the full address for?\n\nBest wishes,\nJay"
+    },
+    {
+        "from": "baiter_822",
+        "to": "scammer_822",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.572662037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Attn:",
+        "body": "Hello! I'm glad you're interested in sharing information. Could you please provide more details about what you'd like to share?\n\nBest wishes,\nJay"
+    }
+]

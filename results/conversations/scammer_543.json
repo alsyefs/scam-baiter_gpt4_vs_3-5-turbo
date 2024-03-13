@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_543",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Hello",
+        "body": " Hello\nThis is to inform you that your parcels are still in our office for delivery:\nCarol B. Tomé\nUPS Chief Executive Officer    "
+    },
+    {
+        "from": "baiter_543",
+        "to": "scammer_543",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  Hello",
+        "body": "Hello Carol B. Tom, \n\nIt's a pleasure to meet you! As the UPS Chief Executive Officer, I'm sure you have a lot of interesting insights and experiences. Could you share some of your day-to-day responsibilities in this role?\n\nBest wishes,\nMichael"
+    },
+    {
+        "from": "scammer_543",
+        "to": "baiter_543",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Hello",
+        "body": "Attention Micheal\r\n\r\nReminds you of your parcel which is still in our office for delivery,\r\n\r\nPlease confirm your delivery address to proceed with your delivery.\r\n\r\nShipment address with Location\r\n=============================\r\n=============================\r\n=============================\r\n=============================\r\n\r\nBest Regards.\r\nCarol B. Tomé\r\nUPS Chief Executive Officer\r\nCopyright ©2024  United Parcel Service of America, Inc. All rights reserved."
+    },
+    {
+        "from": "baiter_543",
+        "to": "scammer_543",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.01835648148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Hello",
+        "body": "Hello Carol B. Tom,\n\nThank you for reaching out to me about the parcel. I'm really excited to receive it! Could you please tell me more about the contents of the package? Also, could you provide me with a tracking number so I can follow its journey?\n\nLooking forward to your response.\n\nBest wishes,\nMichael"
+    },
+    {
+        "from": "scammer_543",
+        "to": "baiter_543",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.168634259259259,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Delivery Process",
+        "body": "Attention Michael\r\n\r\nReminds you of your parcel which is still in our office for delivery,\r\n\r\nPlease confirm your delivery address to proceed with your delivery.\r\n\r\nShipment address with Location\n=============================\r\n=============================\r\n=============================\r\n=============================\r\n\r\nBest Regards.\r\nCarol B. Tomé\r\nUPS Chief Executive Officer"
+    },
+    {
+        "from": "baiter_543",
+        "to": "scammer_543",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.172106481481482,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Delivery Process",
+        "body": "Hello Carol B. Tom,\n\nThank you for reaching out to me about this parcel. I'm a bit surprised as I don't recall ordering anything recently. Could you please provide more details about the parcel? Like what's inside it or who sent it? \n\nLooking forward to your response.\n\nBest wishes,\nMichael"
+    },
+    {
+        "from": "scammer_543",
+        "to": "baiter_543",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.205416666666666,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Delivery Process",
+        "body": "Hello Michael\r\n\r\nthe parcel is from UNICEF we don't know what is inside"
+    },
+    {
+        "from": "baiter_543",
+        "to": "scammer_543",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.777256944444445,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Delivery Process",
+        "body": "Hello Michael,\n\nOh, a parcel from UNICEF? That's interesting! I wonder what could be inside. Do you have any idea or hint about its contents? And how did it come to be in your possession?\n\nBest wishes,\nMichael"
+    }
+]

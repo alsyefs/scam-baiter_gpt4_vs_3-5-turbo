@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2677",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Welcome to Western Union Send ",
+        "body": "Welcome to Western Union Send Money Worldwide\nDATE 23/10/2023\nINFORMATION REACHING US FROM OUR CORPORATE HEADQUARTERS NOW, STATES THAT YOU HAVE ONLY 48 HOURS TO EFFECT PAYMENT FOR THE ACTIVATION OF YOUR MTCN TO ENABLE YOU CASH UP YOUR FIRST $7,000:00 FROM YOUR TOTAL (FUNDS) SINCE YOU ARE FINDING IT DIFFICULT TO MAKE THIS PAYMENT WE HAVE DECIDED THAT YOU ARE TO GO AHEAD AND PAY AMOUNT FROM $50USD UP YOU HAVE FOR THE ACTIVATION FEE SINCE YOU ARE NOT ABLE TO COME UP WITH THE REQUIRED SUM,TIME IS OF THE ESSENCE HERE.YOU ARE TO PAY WHATEVER YOU HAVE FOR THE ACTIVATION FEE; WE WILL ACTIVATE YOUR MTCN UPON RECEIPT OF THIS PAYMENT.\nBE INFORMED THAT YOU WILL HAVE TO PAY THE BALANCE SUM OF YOUR ACTIVATION UPON CASHING UP OF YOUR FIRST 7,000:00 USD, ALSO I AM USING THIS MEDIUM TO INFORM YOU THAT FAILURE TO PAY THE BALANCE SUM WILL LEAVE US WITH NO OPTION BUT TO DEACTIVATE YOUR MTCN OF WHICH YOU WILL AND CAN NEVER CASH UP THE BALANCE SUM I WANT YOU TO SEND THE ACTIVATION FEE WITH THE INFORMATION BELOW.\nReceiver Name: Ozoekwe  Ezenwa\nCity: Lagos Nigeria\nAddress: No,6 Olagoke Stfl 2Nepa QTRS Gabara\nANY AMOUNT FROM $50USD\nSEND US THE MTCN NUMBER VIEW EMAIL (\nwuoffice1@accountant.com\n) \nIMMEDIATELY YOU SEND THE MONEY AND IMMEDIATELY WE CONFIRM THE ACTIVATION FEE WE WILL SEND YOU THE FIRST RECEIPT OF YOUR $7000 TODAY AND NOT TOMORROW.\nREGARDS MY DIRECT PHONE LINE IS +2348119931221 \nDR,JEROME POWELL,FROM WESTERN UNION OFFICE NIGERIA \nFOR YOUR PAYMENT DR,JEROME POWELL OPERATION MANAGER.\nWESTERN UNION DEPARTMENT"
+    },
+    {
+        "from": "baiter_2677",
+        "to": "scammer_2677",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Welcome to Western Union Send ",
+        "body": "Hello there! Thank you for reaching out to me from Western Union. I appreciate the information you provided. Can you please clarify what exactly is the activation fee for? I want to make sure I understand the process correctly before proceeding.\n\nBest wishes,\nTiffany"
+    }
+]

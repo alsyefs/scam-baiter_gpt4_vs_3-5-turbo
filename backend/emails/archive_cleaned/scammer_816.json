@@ -1,0 +1,72 @@
+[
+    {
+        "from": "scammer_816",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Please, who is this Mr Johns",
+        "body": "  Please, who is this Mr Johnson Dan that sent us another address for your shipment? How does he relate to you? He said that is your brother.will WORD BANK is not aware of this development because he said he is going to take care of the $3.M that you have with us here and are ready to pay any bills? For the delivery Please we wait for your response before we respond to his email now\nAnd your full information.\nThanks\nMr.Brian Moynihan\nBANK OF AMERICA   "
+    },
+    {
+        "from": "baiter_816",
+        "to": "scammer_816",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Please, who is this Mr Johns",
+        "body": "Hello Moynihan,\n\nThank you for reaching out. I'm not sure who this Mr. Johnson Dan is, as I don't recall giving anyone permission to handle my affairs. Could you please provide more details about the message he sent? \n\nAlso, could you clarify what you mean by \"WORD BANK\"? I'm a bit confused about that part.\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nNobuko"
+    },
+    {
+        "from": "scammer_816",
+        "to": "baiter_816",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Please, who is this Mr Johns",
+        "body": "Dear I'm so happy to hear from you we have a consignment bos here that\r\nbelong to you from world Bank Mr Johnson came to our office trying to clean\r\nthe consignment boss that belongs to you that's the major reason why we\r\ncontact you so what we need here from you is your full name and your phone\r\nnumber address Mr James is ready to pay anything to make sure we hand him\r\nyour consignment box but we say no if you need your concerning box to\r\ndeliver to you immediately  we get the information we ask from you your\r\nname address and phone number"
+    },
+    {
+        "from": "baiter_816",
+        "to": "scammer_816",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03023148148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Please, who is this Mr Johns",
+        "body": "Hello there,\n\nI'm thrilled to hear about this situation, it's quite intriguing! I appreciate your efforts in reaching out to me. It's interesting that Mr. Johnson is so keen on getting the box, I wonder why that is? \n\nAlso, could you please tell me more about this box from the World Bank? What exactly does it contain and why does it belong to me? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nNobuko"
+    },
+    {
+        "from": "scammer_816",
+        "to": "baiter_816",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.9941203703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Please, who is this Mr Johns",
+        "body": "Dear this is FedEx delivery company I  our duty is to deliver package to\r\nour customers according to the information we get from world Bank the box\r\ncontains 2 million dollars then we ask world bank why this money and the\r\nworld back said that is your inheritance fund and the what bank give us\r\nserious instruction that no one show Tampa with your fund please if you\r\nneed your fund to be delivered to you our delivery fee is $ 1,700 try and\r\nsend it now Mr Johnson get information about your fund that is reason why\r\nhe's trying to claim your box and because of the instruction from the world\r\nBank will decide not to give your consignment box to him try and get back\r\nto us with your full name address phone number and delivery fee thanks"
+    },
+    {
+        "from": "baiter_816",
+        "to": "scammer_816",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0303703703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Please, who is this Mr Johns",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm quite surprised to hear about this package containing a million dollars. It's not every day that one hears such news! \n\nCould you please provide more details about this? How did the World Bank come to decide on sending me this fund? And who is Mr. Johnson, and why is he trying to claim my box?\n\nI appreciate your assistance in delivering the package, but I would like to understand more about the delivery fee. Could you explain how it is calculated?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nNobuko"
+    },
+    {
+        "from": "scammer_816",
+        "to": "baiter_816",
+        "direction": "Inbound",
+        "days_from_first_conversation": 7.608634259259259,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Please, who is this Mr Johns",
+        "body": "Dear friend how are you doing today and how is your family I'm so sorry\r\nthat You did not hear from me throughout last week is because I'm very busy\r\nlet's go to the business they box that will have here is from the world\r\nBank, world Bank map out 40.000,000  million US Dollars every year to help\r\npeople and it happen that your email involve the people that benefits for\r\nthe money last year that's the reason why you have this fund here with us\r\nremember that the world Bank did not ask you to pay any fee or request for\r\nany documents from you because they don't need all those things from you.\r\n\r\nThe fund  belongs to you and world bank give us instruction not to Temple\r\nor take any fund  from your bos. If you provide us  your address and your\r\nphone number to us why we need the information is because we don't want to\r\nmake any mistake when delivering the box to you we are requesting from you\r\nis for your delivering fee you are not going to send other money if you pay\r\nyour delivery fee.\r\n\r\nWe hope to hear from you as soon as you receive this message thanks from\r\nFedEx company."
+    }
+]

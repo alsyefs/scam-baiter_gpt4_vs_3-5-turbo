@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2103",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  CAN I TRUST YOU Receiving th",
+        "body": "  CAN I TRUST YOU Receiving this message might sound as a surprise to you, please do accept it as a blessing from God made possible through a man with a good and sincere heart towards the poor orphans. I am Mr.PETER OWEN a great citizen of the LONDON UK  , I bring to you a proposal which I want you to assist me with. It is painful now to let you know that I have been suffering from a Coronary artery disease for the past 12 years and just few weeks ago my Doctors notified me that I won't get past another 5 months. I want you to help me distribute some funds I kept aside for charity purposes, to Charity Homes and the poor in your state Please kindly reply to this email if you are willing to help me carry out this task and i'd feed you with more details, You'd be compensated for carrying out this mission. Thanks, I hope to read from you soon. Sincerely, Peterson Mr.PETER OWEN   "
+    },
+    {
+        "from": "baiter_2103",
+        "to": "scammer_2103",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   CAN I TRUST YOU Receiving th",
+        "body": "Hello Peterson Owen,\n\nThank you for reaching out to me with this opportunity to assist you. I'm sorry to hear about your health condition, and I hope you are receiving the necessary medical care.\n\nI would be interested in learning more about how I can help distribute funds to charity homes and the poor in my state. Could you please provide me with more details regarding the process and the amount of funds involved? Additionally, it would be helpful to know how this distribution will be organized and monitored.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRachael"
+    }
+]

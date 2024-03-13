@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_274",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear friend,",
+        "body": "Dear friend,\nMy name is Mr. Bill Will from the USA. I am a financier. \nI need an investor who is ready and willing to invest for me while I finance the investment.\nIf you are interested, kindly contact me directly with your personal profile and plans in my email address at (\nbillwill@financier.com\n )\nYours faithfully,\nMr.Bill Will."
+    },
+    {
+        "from": "baiter_274",
+        "to": "scammer_274",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear friend,",
+        "body": "Dear Mr. Bill Will,\n\nThank you for reaching out to me. I hope this message finds you well. I am always interested in learning about investment opportunities, so I would be happy to hear more about what you have in mind.\n\nBefore we proceed further, could you please provide me with some additional information? Specifically, I would like to know more about the nature of the investment and the potential returns involved. It would also be helpful if you could share any relevant details or documents that can help me better understand the opportunity.\n\nI look forward to hearing back from you soon.\n\nBest wishes,\nJuan"
+    }
+]

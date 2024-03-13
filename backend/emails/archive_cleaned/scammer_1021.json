@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1021",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention: Beneficiary",
+        "body": "Attention: Beneficiary\nGood day to you. We hope this email finds you well. We write this\nimportant letter to inform you about your compensation fund payment\nwhich has been rescheduled.\nAfter proper and several investigations by the Western Union, Money\nGram, International Monetary Fund (IMF) and United Nations (UN)\nOffices we found your name amongst those that have sent money through\nWestern Union, Cash App, Zelle, Venmo, Bank Transfer/Deposit and Money\nGram in the course of receiving your Inheritance, Lottery, United\nNation compensation funds which proves that you have truly been\nswindled by those unscrupulous persons by sending money to them\nthrough the above mentioned means.\nTo this regard United Nations (UN) held a meeting with the Board of\nDirectors of WESTERN UNION, MONEY GRAM, INTERNATIONAL MONETARY FUND\n(IMF) the FBI alongside the MINISTRY of FINANCE. As a result of our\ninvestigations it was agreed that the sum of Fifteen Million Five\nHundred Thousand United States Dollars (U.S. $15, 500,000.00) should\nbe transferred to you from the funds set aside by The United States\nDepartment of the Treasury to compensate scam victims.\nThe compensation scheme is open to people who wired money to scammers\nvia Western Union, bank and MoneyGram between January 1, 2004 to\nDecember 19, 2021, the deadline for lodging these claims is December\n30, 2023.\nThis case is being handled and supervised by the FBI therefore we have\nsubmitted your details to affect the transfer of your funds to you.\nContact the Western Union agent office through the information below:\nContact Person: Mrs. Betsy Holden\nPosition:: Director of Western Union\nAddress: Western Union Post Office, California\nEmail: \nholdenbetsyd@gmail.com\nAt this juncture, you are hereby advised to kindly contact the\ndirector of the western Union Mrs. Betsy Holden to commence the\nnecessary arrangement for the payment of your approved fund.\nYours sincerely,\nChristopher Wray\nFBI Director"
+    },
+    {
+        "from": "baiter_1021",
+        "to": "scammer_1021",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attention: Beneficiary",
+        "body": "Hello Wray,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding my fund payment. It's quite concerning to hear that I may have been swindled by individuals using various means such as Western Union, Cash App, Zelle, Venmo, Bank Transfer Deposit, and Money Gram.\n\nI'm glad to know that the United Nations UN has taken this matter seriously and held a meeting with the Board of Directors of Western Union, Money Gram, Monetary Fund IMF, FBI, and the Ministry of Finance. It's reassuring to see such collaboration in addressing these scams.\n\nCould you please provide me with more details on how I can proceed with claiming my compensation? You mentioned contacting Mrs. Betsy Holden from Western Union. Should I reach out to her directly? What information should I provide when contacting her?\n\nThank you once again for your assistance in this matter.\n\nBest wishes,\nMoira"
+    }
+]

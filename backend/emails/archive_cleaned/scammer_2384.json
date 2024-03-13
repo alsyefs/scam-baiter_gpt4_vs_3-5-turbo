@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2384",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Best Sun Credit Union is regis",
+        "body": "Best Sun Credit Union is registered and authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority. Best Sun Credit Union gives no financial or investment advice."
+    },
+    {
+        "from": "baiter_2384",
+        "to": "scammer_2384",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Best Sun Credit Union is regis",
+        "body": "Hello there,\n\nThank you for sharing this information about Best Sun Credit Union. It's interesting to know that they are registered and authorised by the Prudential Regulation Authority and regulated by both the Financial Conduct Authority and the Prudential Regulation Authority. \n\nI'm curious, though, what kind of services does Best Sun Credit Union offer? And how do they ensure the security of their clients' investments if they don't provide financial or investment advice?\n\nLooking forward to your response!\n\nBest wishes,\nJacob"
+    }
+]

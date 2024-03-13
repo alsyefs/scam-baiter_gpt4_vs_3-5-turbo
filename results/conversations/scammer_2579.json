@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_2579",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn Beneficiary,",
+        "body": "Attn Beneficiary,\nHello good day. This is Mrs Judith GBEHINTO; I am writing to inform\nyou that we have received Compensation funds of $1,700,000  from\nUnited Nations  Commission (UNCC) that you will receive through our\nWestern Union or ATM card Department.  but the maximum amount you will\nbe receiving every day  is $5000.00 as  reflected in our transfer\nsystem daily until the funds is completely transferred. meanwhile the\nbelow is the first US$5000.00 payment information available for pick\nup .\nHere is the western union information to pick up the US$5000.00;\nHere is the Senders Information;\nSENDERS NAME: Roy Heath\nText question: God?\nText answer: Good.\nMTCN: 3358547826 .(Available for pick up by receiver)\nPlease,contact Mr Gbenga Makinde if there is any problem with the MTCN\nreply to him through this email address (\nuwoffie@yahoo.com\n)  Please\ncontact him now, so that he will send you another one today if You\nhave a problem with the MTCN or the sender Name try to reach her on\ncall or email him so that he will correct it for you.I told him to\nkeep sending you $5000.00 daily until the payment of $1,700,000 is\ncompleted. \nDo not forget to furnish him with the below information;\n1) Full Name: ........\n2) Full Address:.........\n3) Nationality: .............\n4) Your contact number: .................\n5) \nI'd Card\n.................\nContact  Name: Mr Gbenga Makinde\nNewly appointed manager\nWhats App Number: +229-647-02188\nThank you and stay blessed.\nYours sincerely\nMrs Judith GBEHINTO"
+    },
+    {
+        "from": "baiter_2579",
+        "to": "scammer_2579",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attn Beneficiary,",
+        "body": "Hello Mrs. Judith GBEHINTO,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding the funds from the United Nations Commission UNCC. It sounds like a great opportunity, but I have a few questions before proceeding.\n\nCould you please clarify how the funds will be transferred? You mentioned Western Union or an ATM card. Which option would be more suitable for me?\n\nAlso, I noticed that you mentioned a maximum amount that can be received daily. Could you please explain why there is a limit and how long it will take to receive the complete funds?\n\nLastly, I would like to know more about Mr. Gbenga Makinde, the sender of the funds. Is he affiliated with the United Nations Commission UNCC? How can I contact him if there are any issues with the MTCN or sender name?\n\nI look forward to your response and thank you for your assistance.\n\nBest wishes,\nPauline"
+    },
+    {
+        "from": "scammer_2579",
+        "to": "baiter_2579",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re:  Attention Pauline,",
+        "body": "Attention Pauline, \r\nsorry for my late reply due am out of office for some weeks now, however the please option to suitable for is ATM card because you can use the ATM card to make any amount of withdraw as much as you like per day, Therefore kindly provide your full details for process of your funds payment, \r\n\r\n\r\n1) Full Name: ........\r\n2) Full Address:.........\r\n3) Nationality: .............\r\n4) Your contact number: .................\r\n5) I'd Card.................\r\n\r\nMr Gbenga Makinde\r\nNewly appointed manager\r\nWhats App Number: +229-647-02188"
+    },
+    {
+        "from": "baiter_2579",
+        "to": "scammer_2579",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.014641203703703703,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re:  Attention Pauline,",
+        "body": "Hello Mr. Gbenga Makinde,\n\nThank you for reaching out to me. I appreciate your response and understanding regarding my delayed reply. I hope you are doing well.\n\nI understand that the ATM card option allows for convenient withdrawals, which sounds quite useful. However, before I provide any personal information, could you please clarify a few things for me?\n\n1. Which organization or company do you represent?\n2. What is the purpose of this funds payment?\n3. Are there any fees or charges associated with obtaining the ATM card?\n\nOnce I have a better understanding of these details, I will be able to proceed accordingly.\n\nBest wishes,\nPauline"
+    },
+    {
+        "from": "scammer_2579",
+        "to": "baiter_2579",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.9392592592592592,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re:  From Mr Gbenga Makinde Newly appointed manager",
+        "body": "Attention Pauline, \r\nThank you for your email reply and content is well understood, for your questions I represent Western Union transfer department remittance and there is little fee is in-charges which is $125 in-order to obtaining the ATM card? Therefore if you are willing to receive your ATM card kindly provide your full details as require, \r\n\r\n1) Full Name: ........\r\n2) Full Address:.........\r\n3) Nationality: .............\r\n4) Your contact number: .................\r\n5) I'd Card.................\r\n\r\nMr Gbenga Makinde\r\nNewly appointed manager\r\nWhats App Number: +229-647-02188"
+    },
+    {
+        "from": "baiter_2579",
+        "to": "scammer_2579",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.9528935185185183,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re:  From Mr Gbenga Makinde Newly appointed manager",
+        "body": "Hello Mr. Gbenga Makinde,\nThank you for your message. I'm interested in receiving the ATM card. Could you please provide more details about the process and the fee involved? How secure is this method of transfer?\n\nBest wishes,\nPauline"
+    }
+]

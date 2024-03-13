@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_279",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello,",
+        "body": "Hello,\nSorry I’ve not been able to email you since my last correspondence. I had the most horrific scare yesterday. I experienced the worst chemo ever and I thought it was over.\nEven on my dying bed, my only regret was the pending transaction. To conclude the transaction will not give me life but it would grant me some sense of peace, and that’s all that matter.\nIt is important I share some of the information I gathered with you. First off all, you are not going to be dealing with a regular courier company but an attache to an embassy.\nThe beauty of it is that the embassy diplomat is willing to assist you with the delivery of the trunk boxes but would require the following details beforehand:\n1.      Your full names\n2.      Delivery Address  \n3.      Post Code\n4.      Active Phone Number (Cell Phone)\n5.     \nOne thousand two hundred and Fifty usd ($1,250) to cover their handling charges, demurrage, and cost of delivery\nI understand that this might pose a little problem for us but, I’m trusting you with everything to ensure that it does not. I had anticipated this cost which is why I earmarked 30% to remunerate you upon receipt.\nThe only thing that changed for me is that I made all these plans for myself, and I didn’t think it will come to this. Nevertheless, I want to believe that you and I have an understanding. I would expect you to start making immediate plans to receive the trunk so that you can address my area of concern (charity donations) while you enjoy your 30%.\nKindly provide me with the above-required information, and also affirm your readiness to receive the consignment (trunk box). My greatest joy is to witness the disbursement of the funds to charities and the less privileged. I say this because I don’t know how much time I have left. So, please make this count!\nMay God bless and take away sicknesses from you and your loved ones.\nAnticipating your prompt response.\nBest Regards,\nGary Bitz"
+    },
+    {
+        "from": "baiter_279",
+        "to": "scammer_279",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello,",
+        "body": "Hello Gary Bitz,\n\nI'm really sorry to hear about your health condition. It must be a tough time for you. I appreciate your trust in me and I'm ready to help in any way I can, within my capabilities.\n\nHowever, before we proceed, could you please provide more details about the embassy attache? Also, could you clarify what exactly is inside the trunk box? \n\nRegarding the handling charges, demurrage, and cost of delivery - is there a possibility that these costs could be deducted from the funds in the trunk box?\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nBobby"
+    }
+]

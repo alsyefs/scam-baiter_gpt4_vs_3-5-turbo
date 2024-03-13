@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_650",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Our Ref: CBN/OHG/OXD1/2023",
+        "body": "Our Ref: CBN/OHG/OXD1/2023\nYour Ref: ...............\nTELEX: CENBANK.\nPAYMENT FILE: CBN/BEN/2023\nAttn:\nDefinitely, I know that this letter will be a surprising one to you.\nFirstly, I would like to introduce myself formally as Dr. Olayemi\nMichael Cardoso, The current Executive Governor, Central of Bank of\nNigeria (CBN) . I went through your file and decided to contact you\nbecause the impostor is still contacting me on your behalf stating\nthat you sent him.\nI am contacting you privately based on your unclaimed Funds that has\nbeen in the \"Federal Suspense  Account\" of CBN, possibly because you\ndid not forward your claim as the right beneficiary or was unable to\nmeet up with funds released due processing requirement, right now the\napproved sum of Five Million, Five Hundred Thousand United States\nDollars, ($5.5m), has been revalidated for payment transfer to you as\nthe beneficiary.\nSuddenly Vincent Godwin came to our office last week and claimed were\nsent by you to come for the payment of your approved funds into his\nown personal Bank Account, very strange and suspicious, I must say,\nmoney that rightfully belongs to you without an official notification\nfrom you through phone call or email.\nWe do not understand why you sent such a person to come and Collect\nyour Funds on your behalf with his own bank account, If actually you\nwant anyone to help you collect your approved funds, at least you\nshould have informed me as the Executive Governor of this Bank.\nHonestly, it really baffles me that you took such a decision without\nmy consent.\nAs the Governor of this Noble Bank, I was supposed to Release these\nFunds to him but I refused to do so because I wanted to hear from you\nfirst. Due to the Nature of my job, I will not want to make any\nmistake in releasing this Fund to anyone except you who is the\nrecognized bonafide Beneficiary to this Fund.\nKindly clarify us on this issue before we make this Payment to the\nforeigner who came on your behalf in receipt of this confidential\nLetter, \nyou are required to respond immediately to my private email\nwith your full name, address and phone number for reconfirmation and\nimmediate action\n or you call me with my mobile telephone number below\nfor more clarification.\nOfficially Signed.\n--\nDr. Olayemi Michael Cardoso.\nCentral Bank Executive Governor.\nPrivate Email: \ndrmichaelcardosocbnxxx@gmail.com\nTel No.: +234 817 947 9349"
+    },
+    {
+        "from": "baiter_650",
+        "to": "scammer_650",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Our Ref: CBN/OHG/OXD1/2023",
+        "body": "Hello Dr. Olayemi Michael Cardoso,\n\nThank you for reaching out to me. I must admit, your letter did surprise me. I appreciate you taking the time to contact me regarding my unclaimed funds at the Central Bank of Nigeria.\n\nI apologize for any confusion caused by the individual claiming to be sent by me. I assure you that I did not authorize anyone to collect the funds on my behalf. It is indeed strange and concerning that someone would do so without my knowledge or consent.\n\nTo clarify, could you please provide more details about the process of claiming these funds? What steps do I need to take in order to ensure that the funds are transferred to me directly? Additionally, what documentation or information do you require from me?\n\nI look forward to your prompt response and guidance on this matter.\n\nBest wishes,\nStephen"
+    }
+]

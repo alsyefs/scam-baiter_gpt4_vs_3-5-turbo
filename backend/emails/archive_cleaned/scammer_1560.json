@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1560",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello Dear,",
+        "body": "  Hello Dear,\nI am Mr. Martins Izuogbe and I work with Polaris Bank Limited. Please Can you use an ATM Visa card to withdraw money at an ATM cash machine in your country? I want to transfer money to you from my country; it’s part of money taken by some old politicians that were forced out of power.\nI will change the account details to yours, and apply for a visa card with your details in our bank, they will send the visa card to you and you will withdraw money with it and send my own percentage of the money, and the money we are talking about is $6.5Million US dollars.\nWhatever amount you withdraw daily, you will send 50% to me and you will take 50%, the visa card and the bank account will be in your name, I will be waiting for your information as soon as possible in Below Email: \nmartinsizuogbe001@gmail.com\nYour name................\nAddress..................\nAge......................\nSex......................\nCountry..................\nOccupation...............\nPhone number.............\nBest Regards.\nMr. Martins Izuogbe\nPayment Adviser\nPolaris Bank Limited   "
+    },
+    {
+        "from": "baiter_1560",
+        "to": "scammer_1560",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello Dear,",
+        "body": "Hello Mr. Martins Izuogbe,\n\nThank you for reaching out to me. It's interesting to hear about your proposal. Yes, I can use an ATM Visa card to withdraw money at an ATM cash machine in my country.\n\nHowever, I have a few questions before we proceed further. How did you come across my contact information? And why have you chosen me for this transaction? \n\nI'm looking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nEleanor"
+    }
+]

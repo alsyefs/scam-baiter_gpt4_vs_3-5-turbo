@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_985",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Congratulations to you!",
+        "body": "Congratulations to you!\nYour ATM Visa card of $15 million has been re-approved for delivery.\n Please kindly get back to me with the below information to enable us to proceed with the shipment immediately today\n The card receiver's name\nCard receiver's Home address\nCell phone number\nYour ID or passport copy\nRegards\nMrs Danelle"
+    },
+    {
+        "from": "baiter_985",
+        "to": "scammer_985",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Congratulations to you!",
+        "body": "Hello Mrs. Danelle,\n\nThank you for reaching out to me. I'm interested in learning more about this ATM Visa card delivery. Could you please provide me with some additional information? \n\n1. What is the purpose of this card? Is it a prize or a reward?\n2. How did I become eligible for this card?\n3. Can you tell me more about the benefits and features of this card?\n4. Is there any cost or fee associated with receiving and activating the card?\n5. Which company or organization is responsible for issuing this card?\n\nI appreciate your assistance in providing these details so that we can proceed further.\n\nBest wishes,\nRobin"
+    }
+]

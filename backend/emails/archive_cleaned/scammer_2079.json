@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2079",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello:, THere",
+        "body": "Hello:, THere\nGood day, I  was directed by the US Government to inform you that your fund Via  ATM DEBIT CARD Valued $10.5Million is now under our custody ready to be released to you as soon as we receive your acknowledgement and readiness to receive your fund. \nPlease, your prompt response will be appreciated.\nBest regards,\nMrs. Ann Amell\nChief Operations Officer\nFinancial and Regulation Dept\nUnited States of America\npaymastergeneralfederatiion@gmail.com"
+    },
+    {
+        "from": "baiter_2079",
+        "to": "scammer_2079",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello:, THere",
+        "body": "Hello Mrs. Ann Ell,\n\nThank you for reaching out to me. I'm quite surprised by this news! Could you please provide more details about this fund? How did it come under your custody and why is it being released to me?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMarisol"
+    }
+]

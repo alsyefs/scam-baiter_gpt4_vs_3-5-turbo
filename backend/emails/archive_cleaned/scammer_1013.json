@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1013",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello,Attention Please",
+        "body": "  Hello,Attention Please\nWe are a United Kingdom Base Investment Company offering Corporate and Personal Investment Funding at a 3~7% ROI for a duration of 10 Years.\nWe also pay a 1% commission to brokers, who introduce project owners for finance or other opportunities.\nPlease get back to me if you are interested in more details.\nYours faithfully,\nHenry Markson\nInvestment Analyst   "
+    },
+    {
+        "from": "baiter_1013",
+        "to": "scammer_1013",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello,Attention Please",
+        "body": "Hello Henry Markson,\n\nThank you for reaching out and sharing this information. It sounds like an interesting opportunity! I'm always open to learning more about different investment options.\n\nCould you please provide me with some more details? For instance, what kind of projects are you typically interested in funding? And could you elaborate a bit on the ROI and the duration of years?\n\nLooking forward to hearing from you soon!\n\nBest regards.\n\nBest wishes,\nSandra"
+    }
+]

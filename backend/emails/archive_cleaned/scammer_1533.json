@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1533",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  MARIO  WALTERS",
+        "body": "  MARIO  WALTERS\nGraphic/Art Works Import &\nExport Corporation (GAIEC)CHINA\nWith Due Respect,\nIt is my pleasure to write you in respect of our organization. We are\nexperts in the sale of Artworks and we export into Canada/America and some\nparts of Europe.We are searching for reliable representatives who can help\nus establish a medium of getting to our customers in the\nCanada/America/Europe as well as legally receiving cash and all forms of\npayment on our behalf from them as our Representative.\nPlease if interested in transacting business in view of helping us,so our\nclients could be making payment to you as our representative, we will be\nvery glad. Compensations will be given and other benefits. Contact us for\nmore information, if this proposal is acceptable to you. Please get back\nto us, so that remuneration can be worked out for your services as our\nrepresentative in Canada/America/Europe as your location shall determine.\nNote: there is no financial obligation required from you and this\ntransaction is 100% risk free. If this proposal is accepted by you, A\nswift acknowledgment on the receipt of this mail will be\nappreciated,furnishing me with your:\nposition for solving this problem. Your tasks are;\n1. Receive payment from Customers via bank draft.\n2. Deduct 20% which will be your percentage/pay on Payment processed.\n3. you will not pay any money from your pocket .\nFULL NAMES:........\nADDRESS:...........\nZIP CODE:..........\nSTATE/PROVINCE:....\nPHONE/FAX .........\nNUMBER:............\nOCCUPATION:........\nNATIONALITY: ......\nAGE:...............\nWe anticipate your earliest response in this regard.\nBest Regards,\nMARIO  WALTERS\nGraphic/Art Works Import &\nExport Corporation (GAIEC) CHINA   "
+    },
+    {
+        "from": "baiter_1533",
+        "to": "scammer_1533",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   MARIO  WALTERS",
+        "body": "Hello Mario Walters,\n\nThank you for reaching out to me with your proposal. I appreciate the opportunity to potentially work with you. Could you please provide me with more information about the specific artworks you deal with? What kind of art do you export and import?\n\nAdditionally, I would like to know more about the payment process. How would customers make payments, and what role would I play in receiving those payments on your behalf? It's important for me to understand the details before moving forward.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSasha"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_879",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " From the Desk Of: Dr. Olayemi",
+        "body": " From the Desk Of: Dr. Olayemi Cardoso\nThe New Governor of the Central Bank of Nigeria (CBN)\nZaria Street, Off Samuel Akintola Street ,\nGarki 11, Garki-Abuja.\nOur Ref: FGN/CBN/NIG/09/2023.\nAttention: ,\nI am contacting you because I have just resumed office as the new\nCentral Bank governor and I have gone through your transaction file\nand found out that you are yet to receive your funds.\nNow, before we can proceed you are required to get back to us\nimmediately to enable us to know that you are still alive and you have\n72 hours to get back to us immediately otherwise we will consider your\ntransaction to be canceled if you are not alive to receive your funds.\nThis instruction came from above from our President to make sure that\nI get in touch with you before I proceed with your transaction for you\nto receive funds.\nOnce again, thank you and may God bless you.\nVery Truly Yours,\nDr. Olayemi Cardoso\nThe Governor of the Central Bank of Nigeria (CBN).    "
+    },
+    {
+        "from": "baiter_879",
+        "to": "scammer_879",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  From the Desk Of: Dr. Olayemi",
+        "body": "Hello Dr. Olayemi Cardoso,\n\nThank you for reaching out to me. I appreciate you taking the time to inform me about my funds. It's good to know that you have gone through my file and are working towards ensuring that I receive them.\n\nI understand the importance of confirming my existence before proceeding with any transactions. Could you please provide me with more details on how I can verify my identity? I want to make sure that everything is in order so that I can receive my funds as soon as possible.\n\nThank you once again for your assistance, and may God bless you too.\n\nBest wishes,\nDonnie"
+    }
+]

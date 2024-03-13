@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_144",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention valuable customer.",
+        "body": "  Attention valuable customer.\nWelcome to Aramex unlimited delivery service. Hope you find our mail convinced regarding the delivery of your partner's consignment box to you. Mrs Margaret Burcham. We are ready to deliver the consignment box to you.\nThe delivery fees has been paid. You're required to forward your information such as:-\nYour Full Name ------\nYour Country --------\nYour City ----------\nYour Home Address --------\nYour WhatsApp Number -----\nYour Nearest Airport -----------\nForward your information immediately to make sure we deliver to the rightful owner of the consignment box.\nDiplomat Kelvin Alexander:\nAramex Unlimited Delivery Service.   "
+    },
+    {
+        "from": "baiter_144",
+        "to": "scammer_144",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention valuable customer.",
+        "body": "Hello there! Thank you for reaching out to me. I appreciate the information about the delivery of my partner's box. However, I have a few questions before I can provide any personal details.\n\n1. Can you please confirm the sender's name and contact information?\n2. What is the estimated delivery time for the box?\n3. Is there a tracking number or any other reference number associated with this delivery?\n\nI just want to make sure that everything is in order before proceeding further. Thank you for your understanding!\n\nBest wishes,\nPeter"
+    }
+]

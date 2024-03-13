@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1059",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Hello the account number ha",
+        "body": "   Hello the account number has been updated to a savings account number take this your bank and deposit the pin and password vat to your administrator to enable processing to your home address\nHere is the deposit information for Vat\nAccount Name .. A. K.\nAccount number... 645XXXX\nTransit no... 00212\nInstitution no... 010\nSwift bic code...CIBCCATT\nAddress..  Toronto, ON M4P1K4,\nBank address....1 Eglinton Ave E, Toronto, ON M4P3A1, Canada\nBank name.... CIBC   "
+    },
+    {
+        "from": "baiter_1059",
+        "to": "scammer_1059",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Hello the account number ha",
+        "body": "Hello there! Thank you for sharing this information with me. I'm a bit confused though, could you please explain what this is all about? Why do I need to deposit the pin and password vat?\n\nBest wishes,\nMargie"
+    }
+]

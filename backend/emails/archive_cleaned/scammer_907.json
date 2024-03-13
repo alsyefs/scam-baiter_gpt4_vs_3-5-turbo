@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_907",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Do you have a viable project t",
+        "body": "Do you have a viable project that is in need of funds injection\nWe are consultants to an Angel Investors who might be able to help.\nWe are seeking for individuals who has funds management abilities that can manage\nthe funds into a profitable investment.\nIf you have any existing project, we can be able to work with such individuals\nAwaiting your prompt response\nRegards\nMr Frederick Ying"
+    },
+    {
+        "from": "baiter_907",
+        "to": "scammer_907",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Do you have a viable project t",
+        "body": "Hello Mr. Frederick Ying,\n\nThank you for reaching out! It's great to hear about your interest in supporting projects that need funding. I'm always eager to learn more about such opportunities.\n\nCould you please share more details about the kind of projects you are interested in? Are there any specific sectors or industries that you prefer?\n\nAlso, it would be helpful to know what kind of funds management abilities you're looking for. Do you have any particular expectations or requirements?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nMarilyn"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1129",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  UNITED STATES GOVERNMENT",
+        "body": "  UNITED STATES GOVERNMENT\nMrs.Lillian Bentley\nExecutive Director\nAddress:101 N. Carson Street\nCarson City, NV 89701\nI am Mrs. Lillian Bentley, from the information Minister of Finance To the UN we write to know if you authorize or sent Mr. Samuel Thomas to claim your funds, on your behalf, did you authorized Mr. Samuel Thomas? if you authorized him, If you have not authorized Mr.Thomas to make claims of your funds kindly provide the details as listed below:\nHowever we shall proceed to issue all payments details to Mr. Samuel Thomas, if we do not hear from you within the next two working days from today. If you have not authorized Mr.Thomas to make claims of your funds kindly provide the details as listed below:\nName:\nAddress:\nPhone:\nScanned Copy of a Government Accredited ID:\nYours Faithfully,\nMrs. Lillian Bentley\nExecutive Director\nN.B\nTHIS IS  THE LAST   QUARTER OF THE YEAR KINDLY COPY DR HANDSON RICHARDSON HERE BELOW\nhandsonrichardson@yahoo.com\nAND IF YOU ARE ON WHATSAPP DO ADD HIM\nTAKE NOTE OF THIS TAKE NOTE OF THIS COPY T0 DR HANDSON RICHARDSON HERE \nhandsonrichardson@yahoo.com\n Tel:+ 33780865361.(whats up Calls only WHATSAPP NUMBER  +33780865361  ) COPY TO THE TWO EMAILS BELOW \nhandsonrichardson@yahoo.com\nADD ME ON WHAT SAP VERY IMPORTANT\nN.B\nTHIS IS  THE  LAST QUARTER OF THE YEAR KINDLY COPY DR HANDSON RICHARDSON HERE BELOW\nAND IF YOU ARE ON WHATSAPP DO ADD HIM\nTAKE NOTE OF THIS TAKE NOTE OF THIS COPY T0 DR HANDSON RICHARDSON HERE \nhandsonrichardson@yahoo.com\nIF YOU  ARE FROM THE UNITED STATE OF AMERICA DO ADD ME ON WHAT SAPP VERY IMPORTANT .\nWHATSAPP NUMBER  +33780865361  ADD THIS NUMBER VERY IMPORTANT   "
+    },
+    {
+        "from": "baiter_1129",
+        "to": "scammer_1129",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   UNITED STATES GOVERNMENT",
+        "body": "Hello,\n\nThank you for reaching out to me. I hope you're doing well. I received your message regarding Mr. Samuel Thomas and the authorization to claim funds on my behalf. Could you please provide me with more information about this matter? I want to make sure that everything is in order before proceeding.\n\nAdditionally, could you clarify why it is necessary to copy Dr. Handson Richardson and add him on WhatsApp? What role does he play in this process?\n\nI appreciate your assistance and look forward to hearing back from you soon.\n\nBest wishes,\nNatalie"
+    }
+]

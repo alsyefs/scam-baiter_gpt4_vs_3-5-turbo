@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2012",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Final Divert Funds AS YOU ARE ",
+        "body": "Final Divert Funds AS YOU ARE DEAD I told you to pay $150 usd before to you received your $11.7Million, but Right now i will help you with $100, so right now \nif you sure that you are alive then,try your possible best to get the remain balance of $50 and send it today.\nI give you today to send the remaining balance of $50 if you are ready and you are alive.because after today this Man MR JOE BEN, who told this office that you are dead will pay the fee to clam this your funds $11.7Million. \nUse the $50 to buy an Ebay card or steam card or iTunes card.\nContact with your full Information Below.\nFull Name:::\nHome Address:::\nCountry:::\nP.O. Box Address:::\nPostal Address:::\nTelephone Number:::\nAge and Sex:::\nEmail Address :::\nthank you\nMr. Ban Kelly"
+    },
+    {
+        "from": "baiter_2012",
+        "to": "scammer_2012",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Final Divert Funds AS YOU ARE ",
+        "body": "Hello Mr. Ban Kelly,\n\nThank you for reaching out to me. I hope you are doing well. I received your message regarding the final divert funds, but I must admit that I am a bit confused about the details.\n\nCould you please provide me with more information about the funds and why they need to be diverted? Also, who is this person MR JOE BEN and how are they involved in this matter?\n\nAdditionally, I would appreciate it if you could clarify what you mean by using the funds to buy an Ebay card or steam card or card. How does that relate to the situation at hand?\n\nI look forward to hearing back from you with more information. Thank you.\n\nBest wishes,\nCassie"
+    }
+]

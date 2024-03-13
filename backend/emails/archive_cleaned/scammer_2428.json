@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2428",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Credit Suisse AG",
+        "body": "   Credit Suisse AG\nParadepl. 8, 8001 Zürich, Switzerland \nAttn: Beneficiary,\nRE: Final Credit of US$10.5M to Your Account Within 48hrs\nWe write to notify you that we have received a pre-advice instruction from the World Bank to credit your nominated account with US$10.5M and debit their coded account with our branch within 48hrs as your part payment overdue contract inheritance payment. This instruction was received yesterday from world bank headquarters\nBe informed that we will release the transfer upon the reconfirmation of your bank details,\n1. Your bank name and address\n2. Your bank account number and account name\n3. Bank Swift Code and Iban number\n4. Your telephone number and current address\nOur remittance department will transfer the funds to your account and send to you the telex confirmation slip for further confirmation with your bank upon your response.\nCordially yours,\nMr. Ulrich Korner\nChief Executive Office\nCredit Suisse Zürich, Switzerland\nTel: +41 435052201  "
+    },
+    {
+        "from": "baiter_2428",
+        "to": "scammer_2428",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Credit Suisse AG",
+        "body": "Hello Mr. Ulrich Korner,\n\nThank you for reaching out to me. It's quite surprising to hear about this overdue contract payment from the World Bank. I must admit, I don't recall any contracts with them.\n\nCould you please provide more details about this contract? When was it established and what does it entail? Also, how did my name come up in connection with this?\n\nI'm looking forward to your response.\n\nBest regards.\n\nBest wishes,\nMagdalene"
+    }
+]

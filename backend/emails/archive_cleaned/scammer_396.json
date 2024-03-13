@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_396",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello",
+        "body": "  Hello\nI am contacting you because we are seeking a professional with whom we can be involved in partnership overseas, who also has the ability to manage an investment portfolio in your country. I am representing a group of prospective investors from China.\n \nThe proposed investment profile will be large in volume and scale, but because of the restrictive employment regulations in China, I cannot do this while under state employment, hence this proposal.\n \nMy primary preference is for someone from your country with your professional background, hence this proposal to you. I would like to know if you are disposed to that kind of engagement, so that we may open further conversation along that line and provide you additional details.\n \nThe civil service and employment regulations here prohibit me from getting involved in private oversea business, while under government or corporate employment, hence this proposal to you, in view of your impressive profile.\nIf you indicate interest, I can send you my ID'S, so you can have a better knowledge of who you are dealing with, and I can communicate further details of the proposal to you. Reply me via this email address \ncheungg59@gmail.com\n \nI look forward to your response if this appeals to you.\nRegard\nCheung Guang   "
+    },
+    {
+        "from": "baiter_396",
+        "to": "scammer_396",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello",
+        "body": "Hello Cheung Guang,\n\nThank you for reaching out to me. I appreciate your interest in involving someone from my country in your investment portfolio. I'm curious to learn more about the proposed investment profile and how it aligns with my abilities.\n\nCould you please provide some additional details about the nature of the investment? What industries or sectors are you looking to invest in? Also, what kind of volume and scale are we talking about here?\n\nI understand that you mentioned employment restrictions in China, but could you clarify why you specifically chose me for this proposal? What aspects of my profile stood out to you?\n\nBefore we proceed further, I would like to know more about your background as well. Could you share some information about yourself and your experience in managing investment portfolios?\n\nLooking forward to hearing back from you.\n\nBest wishes,\nMark"
+    }
+]

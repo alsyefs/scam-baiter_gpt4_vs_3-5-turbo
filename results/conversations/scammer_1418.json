@@ -1,0 +1,142 @@
+[
+    {
+        "from": "scammer_1418",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  ATTENTION:SIR,",
+        "body": "  ATTENTION:SIR,\nTHIS TO INFORM YOU THAT WE HAVE RECEIVED INSTRUCTION WITH YOUR PAYMENT FILE FROM OFFICE OF THE PRESIDENCY TO TRANSFER YOUR INHERITANCE PAYMENT US$32,500,000.00 TO YOUR BANK ACCOUNT IN BY MONDAY AS SOON AS ALL CHARGES IS DEDUCTED.\nPLEASE RE-CONFIRM YOUR  BANK INFORMATION TO AVOID ANY MISTAKE DURING THE TRANSFER BY MONDAY. WE ARE GOING TO TRANSFER YOUR INHERITANCE PAYMENT OF US$32,500,000.00 TO YOUR BANK ACCOUNT BY TOMORROW AND THE TRANSFER CONFIRMATION SLIPS WILL BE SENT TO YOU FOR YOUR EASY\nCONFIRMATION.\nAS A MATTER OF URGENCY YOU ARE ADVISED TO MAKE A PAYMENT OF US$52 BEEN  PAYMENT OF DEDUCTION FEE.\nTHE DEDUCTION FEE OF US$52 WILL ENABLE THIS  BANK TO OBTAIN AN AFFIDAVIT AND STAMP DUTIES FROM  HIGH COURT OF NIGERIA, WHICH WILL EMPOWER US TO DEDUCT ALL CHARGES AND PREPARE YOUR DEDUCTION CERTIFICATE THAT WILL SHOW THAT ALL CHARGES HAVE BEEN DEDUCTED AND YOU WILL NOT PAY ANY OTHER FEE.\nYOU ARE ADVISED TO SEND THE DEDUCTION FEE OF US$52 TODAY THROUGH MONEY GRAM TRANSFER WITH THE NAME OF THE OFFICER IN CHARGE,  ELEANYA CHIJIOKE CHUKWU ,LAGOS NIGERIA,\nAS SOON AS WE RECEIVE THIS PAYMENT FROM YOU TODAY, WE WILL DEDUCT ALL CHARGES AND YOUR BALANCE WILL BE REMITTED TO YOUR ACCOUNT BY TOMORROW MORNING AND THE TRANSFER DETAILS WILL BE FORWARDED TO YOU FOR YOUR EASY CONFIRMATION WITH YOUR BANK.\nHERE IS THE MONEY GRAM TRANSFER INFORMATION BELOW:\nRECEIVER NAME: ELEANYA CHIJIOKE CHUKWU .\nADDRESS: LAGOS NIGERIA\nSENDERS NAME:\nSENDERS ADDRESS:\nAMOUNT: US$52\nACT ACCORDING TO THE INSTRUCTIONS, I AM WAITING FOR YOUR URGENT RESPONSE.\nNOTE: MAKE SURE YOU CALL ME AS SOON AS YOU RECEIVE THIS E-MAIL+234-816-339-1717 TO DISCUSS WAY FORWARD.\nREGARDS AND GOD BLESS YOU.\nYOURS FAITHFULLY\nMR.MARTINS EDWARD\nFOREIGN OPERATION DEPARTMENT\nKEYSTONE BANK GROUP\nTEL:+234-816-339-1717   "
+    },
+    {
+        "from": "baiter_1418",
+        "to": "scammer_1418",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   ATTENTION:SIR,",
+        "body": "Hello Edward,\n\nThank you for your message. It's exciting to hear that there's a payment waiting for me! I'm just a little confused about some of the details, though.\n\nCould you please clarify what this payment is for? I don't recall having any pending transactions or expecting any payments from Nigeria. Also, could you explain more about the deduction fee? Why do I need to pay it and how does it work?\n\nI'm also curious about the process of obtaining an affidavit and stamp duties from the High Court of Nigeria. Could you provide more information on this?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nNellie"
+    },
+    {
+        "from": "scammer_1418",
+        "to": "baiter_1418",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "FROM KEYSTONE BANK GROUP",
+        "body": "DEAR NELLIE,\r\n\r\nI RECEIVED YOUR MAIL AND THE CONTENT IS WELL NOTED.\r\n\r\nYES WE RECEIVED  FILES FROM THE OFFICE OF THE PRESIDENCY WITH INSTRUCTION\r\nTHAT WE SHOULD RELEASE INHERITANCE CONTRACT PAYMENT OF $32.5MILLION TO YOU\r\nWITH OTHER CONTRACTORS THAT THEIR PAYMENT HAVE BEEN OVER DELAYED FOR THE\r\nPAST ADMINISTRATIONS AND WHERE GIVEN STIPULATED TIME TO DO IT AS THIS NEW\r\nGOVERNMENT AUTHORISED US.\r\n\r\nWITH YOUR CONTRACT FILE WITH US AND THAT IS THE REASON WE HAVE TO NOTIFIED\r\nYOU ON THIS NEW DEVELOPMENT AND THE BANK HAVE ALSO NOTIFIED OTHER BOTH\r\nLOCAL AND FOREIGN BENEFICIARIES ON THIS LATEST DEVELOPMENT.\r\n\r\nWE DO NOT WANT A SITUATION WERE THESE TRANSACTION BEGINS, DELAYS OR\r\nOBSTACLES TO ARISE AND THAT IS THE REASON THE BANK BRING AN IDEA FOR\r\nAFFIDAVIT DEDUCTION CERTIFICATE TO BE OBTAIN FROM THE COURT,AS THIS\r\nDEDUCTION CERTIFICATE,IF OBTAINED SHALL EMPOWER THE BANK TO DEDUCT EVERY\r\nEXPENSES THAT WILL ARISE DURING THE TRANSFER OF THIS FUND TO YOU WITHOUT\r\nTHE BANK DEMANDING ANY UPFRONT PAYMENT FROM YOU BUT ONLY DEDUCT ALL\r\nEXPENSES FROM YOUR FUND WHILE THE REST BALANCE WILL BE TRANSFERRED INTO\r\nYOUR ACCOUNT.\r\n\r\nWITHOUT GETTING THIS AFFIDAVIT DEDUCTION CERTIFICATE FROM THE COURT OF\r\nJUSTICE,THE BANK WILL NOT LAY THEIR HANDS TO YOUR PAYMENT FILE.\r\nIF WILL CAN GET THE AFFIDAVIT DEDUCTION CERTIFICATE ON YOUR BEHALF TODAY\r\nTHROUGH THE BANK ATTORTHONEY,WE SHALL COMMENCE IMMEDIATELY FOR YOUR\r\nTRANSACTION WITHOUT ANY FURTHER DELAYS.\nBEST REGARDS\r\nREGARDS AND GOD BLESS YOU.\r\n\r\nYOURS FAITHFULLY,\r\nMR.MARTINS EDWARD\r\nFOREIGN OPERATION DEPARTMENT\r\nKEYSTONE BANK GROUP"
+    },
+    {
+        "from": "baiter_1418",
+        "to": "scammer_1418",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6069328703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: FROM KEYSTONE BANK GROUP",
+        "body": "Hello Edward,\n\nThank you for your detailed email. It's quite interesting to hear about this new development regarding the contract payment. I must say, it sounds like a very organized process.\n\nI'm curious about this Affidavit Deduction you mentioned. Could you please explain more about what it is and how it works? Also, how does the bank plan to deduct all expenses from my fund?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nNellie"
+    },
+    {
+        "from": "scammer_1418",
+        "to": "baiter_1418",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.8244560185185184,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "FROM KEYSTONE BANK GROUP",
+        "body": "DEAR NELLIE,\r\n\r\nWE RECEIVED YOUR MAIL AND THE CONTENT IS WELL NOTED.\r\n\r\nIF THE BANK OBTAINED THE AFFIDAVIT DEDUCTION CERTIFICATE FROM THE FEDERAL\r\nHIGH COURT OF JUSTICE THROUGH THE BANK ATTORNEY ON YOUR BEHALF,AS THE\r\nDEDUCTION CERTIFICATE IS BEING PRESENTED TO THE BANK,THE AFFIDAVIT\r\nDEDUCTION CERTIFICATE EMPOWERS THE BANK TO DEDUCT EVERY EXPENSES THAT MAY\r\nARISE DURING THE TRANSFER OF YOUR FUND.\r\n\r\nTHEREFORE YOU ARE ADVISE,TO SEND THE $50 PAYMENT FOR AN AFFIDAVIT DEDUCTION\r\nCERTIFICATE SO THAT THE BANK ATTORNEY SHALL PROCEED TO THE COURT\r\nIMMEDIATELY TO GET THE CERTIFICATE,AFTER THAT IS BEING DONE,THE BANK WILL\r\nFORWARD TO YOU THIS CERTIFICATE FOR YOUR RECORD KEEP,BEFORE THE BANK BEGINS\r\nFOR YOUR PAYMENT.\r\n\r\nYOURS FAITHFULLY,\r\nMR.MARTINS EDWARD\r\nFOREIGN OPERATION DEPARTMENT\r\nKEYSTONE BANK GROUP"
+    },
+    {
+        "from": "baiter_1418",
+        "to": "scammer_1418",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.898715277777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: FROM KEYSTONE BANK GROUP",
+        "body": "Hello Edward,\n\nThank you for your email and the information provided. I'm glad to hear that the bank is taking care of all the necessary procedures.\n\nCould you please explain a bit more about this Affidavit Deduction? I'm not very familiar with banking terms and would like to understand better what it means and how it affects my fund transfer.\n\nAlso, could you tell me more about the role of the bank attorney in this process? What exactly will they be doing at the court?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nNellie"
+    },
+    {
+        "from": "scammer_1418",
+        "to": "baiter_1418",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.8284722222222225,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "KEYSTONE BANK GROUP",
+        "body": "DEAR NELLIE,\r\n\r\nWE RECEIVED YOUR MAIL AND RESPOND TO YOU AS FOLLOWS,\r\n\r\n1)THE AFFIDAVIT DEDUCTION CERTIFICATE IS VERY NECESSARY TO GET FROM THE\r\nCOURT AS IT WILL EMPOWER US AS A BANK TO HAVE ACCESS OF YOUR FUND AND\r\nDEDUCT EVERY EXPENSES THAT WILL ARISE DURING THE TRANSFER OF YOUR FUND\r\nPAYMENT AND THERE IS NO WAY WE CAN TAMPER YOUR FUND UNTIL WE CAN BE ABLE TO\r\nGET THE AFFIDAVIT DEDUCTION CERTIFICATE FROM THE COURT.\r\n\r\n2)WITHOUT GETTING THE AFFIDAVIT DEDUCTION CERTIFICATE FROM THE HIGH\r\nCOURT,THERE IS NO WAY THE BANK CAN TAMPER YOUR FUND OR REMOVE ANY $1 DOLLAR\r\nFROM YOUR FUND AS THE CERTIFICATE WILL AUTHORISED THE BANK TO DEDUCT EVERY\r\nEXPENSES THAT WILL OCCUR DURING THE TRANSFER OF YOUR FUND.\r\n\r\n3)THE ROLE OF THE BANK ATTORNEY IS TO GET ANY NECESSARY DOCUMENTS THAT BANK\r\nDEMAND IN ANY TRANSACTION MOST ESPECIALLY FROM THE GOVERNMENT,THE BANK\r\nATTORNEY IS THE ONE THAT WILL GO AND GET ANY DOCUMENTS DEMANDED BY THE BANK\r\nAT THE COURT.\r\n\r\n\r\nIF YOU CAN TODAY OR BY TOMORROW SEND THE $50 FEE FOR THE AFFIDAVIT\r\nDEDUCTION CERTIFICATE OUR BANK ATTORNEY CAN PROCEED AHEAD TO COURT AND GET\r\nTHE REQUIRE AFFIDAVIT DEDUCTION CERTIFICATE ON YOUR BEHALF,AFTER THAT IS\r\nBEING DONE,THE BANK SHALL COMMENCE ON YOUR TRANSACTION IMMEDIATELY WITHOUT\r\nANY FURTHER DELAY.\r\n\r\nHERE BELOW AGAIN IS THE INFORMATION  FOR YOU TO SEND THE $50 FEE BY MONEY\r\nGRAM OR RIA:\r\n\r\nReceivers Name:ELEANYA CHIJIOKE CHUKWU\r\nCountry: LAGOS - NIGERIA\r\nAmount Required: $50\r\n\r\nLASTLY,AM HERE FOR YOU TO MAKE SURE THAT YOU RECEIVED THIS FUND AND I KNOW\r\nTHAT YOU WILL REWARD ME AFTER YOU HAVE RECEIVE YOUR $32.5MILLION.\r\n\r\nYOURS FAITHFULLY,\r\nMR.MARTINS EDWARD\r\nFOREIGN OPERATION DEPARTMENT\r\nKEYSTONE BANK GROUP"
+    },
+    {
+        "from": "baiter_1418",
+        "to": "scammer_1418",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.837048611111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: KEYSTONE BANK GROUP",
+        "body": "Hello Edward,\n\nThank you for your detailed explanation. I must admit, some of the legal jargon is a bit over my head. Could you perhaps simplify it for me? \n\nYou mentioned an affidavit deduction from the court. What exactly does that mean? And why is it necessary for the bank to have access to my fund?\n\nAlso, you mentioned a fee for this affidavit deduction. How much would that be and how should I send it? \n\nI'm really looking forward to receiving my fund and rewarding you afterwards as you suggested.\n\nBest wishes,\nNellie"
+    },
+    {
+        "from": "scammer_1418",
+        "to": "baiter_1418",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.782222222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "KEYSTONE BANK GROUP",
+        "body": "DEAR NELLIE,\r\n\r\nWE RECEIVED YOUR MAIL AND THE CONTENT IS WELL NOTED.THIS BANK HAS ATTORNEY\r\nAND IS WORKING WITH THE BANK AND HE CANNOT MESS UP,IF ANY ATTORNEY HAVE\r\nDISAPPOINTED YOU,OUR BANK ATTORNEY CANNOT MESS UP,I ASSURED YOU THIS AND\r\nTHE ATTORNEY IS WORKING WITH THE BANK INSTRUCTIONS. PLEASE FOLLOW MY\r\nINSTRUCTIONS AS AM HERE FOR YOU.\r\n\r\nWHY THE AFFIDAVIT DEDUCTION CERTIFICATE IS NECESSARY, IT IS BECAUSE, IF ANY\r\nEXPENSES ARISES IN THE PROCESS OF TRANSFERRING YOUR FUND,THIS AFFIDAVIT\r\nDEDUCTION AS BEING OBTAINED BY THE BANK,IT WILL EMPOWER THIS BANK TO DEDUCT\r\nANY CHARGES THAT COMES OUT IN YOUR TRANSACTION AND THE REASON WHY THE BANK\r\nWANT TO HAVE ACCESS TO YOUR FUND IS BECAUSE THE BANK DID NOT WANT TO ASK\r\nYOU ANY UPFRONT PAYMENT IN THE PROCESS OF YOUR TRANSACTION PAYMENT.\r\n\r\nTHE FEE TO GET FOR YOU THE REQUIRE AFFIDAVIT DEDUCTION CERTIFICATE COST IS\r\nONLY $50 AND YOU ARE TO SEND IT THROUGH MONEY GRAM OR RIA WITH THE\r\nFOLLOWING INFORMATION BELOW:\r\n\r\n\r\nReceivers Name:ELEANYA CHIJIOKE CHUKWU\r\nCountry: LAGOS - NIGERIA\r\nAmount Required: $50\r\n\r\nAS SOON AS YOU MAKE THE PAYMENT,KINDLY SEND ME THE INFORMATION SO THAT THE\r\nBANK ATTORNEY WILL IMMEDIATELY PROCEED TO THE FEDERAL HIGH COURT OF JUSTICE\r\nTO GET THE AFFIDAVIT DEDUCTION CERTIFICATE ON YOUR BEHALF,AFTER THAT IS\r\nBEING DONE,I SHALL FORWARD TO YOU THE DEDUCTION CERTIFICATE FIRST,BEFORE\r\nTHE BANK COULD COMMENCE FOR YOUR $32.5MILLION TRANSACTION PAYMENT AS IT\r\nWILL TAKE ONLY 3 WORKING DAYS FOR THE FUND TO ENTER INTO YOUR ACCOUNT.\r\n\r\nPLEASE,REMEMBER TO REWARD ME MY EFFORTS BECAUSE AM HERE FOR YOU AND I\r\nBELIEVE THIS TRANSACTION WILL BE SUCCESSFUL AND YOU WILL BE VERY HAPPY IN\r\nDOING  BUSINESS WITH US.\r\n\r\nYOURS FAITHFULLY,\r\nMR.MARTINS EDWARD\r\nFOREIGN OPERATION DEPARTMENT\r\nKEYSTONE BANK GROUP"
+    },
+    {
+        "from": "baiter_1418",
+        "to": "scammer_1418",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.795381944444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: KEYSTONE BANK GROUP",
+        "body": "Hello Edward,\n\nThank you for your detailed response. I'm glad to hear that the bank has an attorney working on this matter. It's reassuring to know that there are professionals involved.\n\nI understand the necessity of the Affidavit Deduction now, thanks to your explanation. It makes sense that any expenses arising in the process should be covered by this deduction.\n\nHowever, I'm a bit confused about how to send the fee for the Affidavit Deduction. Could you please provide more details? What is Money Gram or RIA? How do they work?\n\nAlso, could you clarify what you mean by \"it will take only working days for the fund to enter into your account\"? How many days exactly does this process usually take?\n\nI appreciate your efforts and look forward to doing business with Keystone Bank Group.\n\nBest wishes,\nNellie"
+    },
+    {
+        "from": "scammer_1418",
+        "to": "baiter_1418",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.871284722222223,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "FROM KEYSTONE BANK GROUP",
+        "body": "DEAR NELLIE,\r\n\r\nTHANK YOU SO MUCH FOR YOUR UNDERSTANDING.YOU CAN GO TO ANY PAY POINT OR\r\nBANK WITH THE INFORMATION ALREADY GIVEN TO YOU TO SEND THE $50 FEE.\r\n\r\nSENDING MONEY THROUGH MONEYGRAM OR RIA IS A  AWAY TO SEND MONEY FAST,IF YOU\r\nSEND THE FEE TODAY,WE WILL RECEIVE IT IMMEDIATELY SO THAT THE BANK ATTORNEY\r\nCAN GO TO THE COURT FIRST THING BY MONDAY MORNING NEXT WEEK.\r\n\r\nAS SOON AS THE ATTORNEY GETS THE AFFIDAVIT DEDUCTION CERTIFICATE FROM THE\r\nCOURT,IT WILL TAKE THIS BANK ONLY 3 WORKING DAYS PROCESS FOR THIS FUND TO\r\nBE RELEASED INTO YOUR ACCOUNT.\r\n\r\n\r\nHERE BELOW AGAIN IS THE INFORMATION DETAILS FOR YOU TO SEND THE $50 FEE:\r\n\r\n\r\nReceivers Name:ELEANYA CHIJIOKE CHUKWU\r\nCountry: LAGOS - NIGERIA\r\nAmount Required: $50\r\nAddress:NUMNBER 69,IREAKARI ROAD,ISOLO,LAGOS,NIGERIA\r\n\r\nAS SOON AS YOU MAKE THE PAYMENT,DO NOT FORGET TO SEND US THE CONFIRM\r\nRECEIPT OF YOUR $50 PAYMENT.\r\n\r\nYOURS FAITHFULLY,\r\nMR.MARTINS EDWARD\r\nFOREIGN OPERATION DEPARTMENT\r\nKEYSTONE BANK GROUP"
+    },
+    {
+        "from": "baiter_1418",
+        "to": "scammer_1418",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.920902777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: FROM KEYSTONE BANK GROUP",
+        "body": "Hello Edward,\n\nThank you for your detailed message. I appreciate the information you've provided about the process. It's really helpful to understand how things work.\n\nI'm curious, though. Could you please explain a bit more about this fee? What exactly is it for and why is it necessary? Also, could you tell me more about the attorney who will be going to court on my behalf?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nNellie"
+    },
+    {
+        "from": "scammer_1418",
+        "to": "baiter_1418",
+        "direction": "Inbound",
+        "days_from_first_conversation": 7.797523148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "FROM KEYSTONE BANK GROUP",
+        "body": "DEAR NELLIE,\r\n\r\nI HAVE ALREADY EXPLAINED TO YOU MORE ABOUT THIS FEE WHICH YOU TOLD ME THAT\r\nYOU HAVE UNDERSTAND,LET ME REPEAT IT AGAIN TO YOU.\r\n\r\nTHIS $50 FEE REQUESTED FROM YOU IS A FEE TO GET AN AFFIDAVIT DEDUCTION\r\nCERTIFICATE FROM COURT ON YOUR BEHALF THROUGH THE BANK ATTORNEY,WHY THIS\r\nDOCUMENT IS NECESSARY IS TO MAKE THIS TRANSFER OF YOUR FUND TO BE\r\nSUCCESSFUL AS THIS CERTIFICATE WILL AUTHORISED THIS BANK TO DEDUCT EVERY\r\nUPFRONT EXPENSES FROM YOUR FUND DURING TRANSACTION.\r\n\r\nI HAVE TOLD YOU ABOUT THIS ATTORNEY,HE IS THE ATTORNEY WORKING UNDER THIS\r\nBANK.\r\n\r\nI HOPE YOU ARE CLEARED.\r\n\r\nYOURS FAITHFULLY,\r\nMR.MARTINS EDWARD\r\nFOREIGN OPERATION DEPARTMENT\r\nKEYSTONE BANK GROUP"
+    },
+    {
+        "from": "baiter_1418",
+        "to": "scammer_1418",
+        "direction": "Outbound",
+        "days_from_first_conversation": 7.815324074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: FROM KEYSTONE BANK GROUP",
+        "body": "Dear Edward,\n\nThank you for your detailed explanation. I must admit, some of the banking terms are a bit over my head. Could you perhaps explain to me in simpler terms what an Affidavit Deduction is? And why is it necessary for the transfer of my fund?\n\nAlso, could you tell me more about this attorney who will be working on my case? It's always nice to know who I'm dealing with.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nNellie"
+    }
+]

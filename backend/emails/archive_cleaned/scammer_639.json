@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_639",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Beneficiary,",
+        "body": "Dear Beneficiary,\nWe are happy to announce to you that you have been shortlisted among other beneficiaries by the United Nations Compensation Commission (UNCC) \nas one of the scammed victims to be compensated for losses caused by internet fraudster.\nYour Payment Compensation is valued at 2.5 million Dollars (Two Million, Five Hundred Thousand United States Dollars)\nYour Payment Reference:  UN/22/CH 980221\nTo proceed with the disbursement process of your compensation payment, you are required to submit to us the following personal details directly to Dr Jeffery Wilson\nFull Names:\nAge\nOccupation\nTelephone Number\nMarital Status\nKindly get back to me as soon as possible so that we can proceed to release your Fund.\nTreat as urgent\nJeffrey Wilson\nFor:\nUNITED NATIONS COMPENSATION COMMISSION\nTooting Sw17 Oqt London - United Kingdom"
+    },
+    {
+        "from": "baiter_639",
+        "to": "scammer_639",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "Hello,\n\nThank you for reaching out to me with this information. I appreciate the update regarding the United Nations Commission UNCC and the compensation for losses caused by internet fraudsters.\n\nCould you please provide more details on how the process works and what steps I need to take next to proceed with receiving the payment?\n\nLooking forward to your response.\n\nBest wishes,\nRoxann"
+    },
+    {
+        "from": "scammer_639",
+        "to": "baiter_639",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "PAYMENT REQUIREMENTS;",
+        "body": "Attention: Dear Beneficiary,\r\n\r\nUNITED NATIONS Compensation Commission have been permitted and authorized\r\nto notify and assure you that your Compensation fund of $2,500,000.00 USD\r\n(Two Million Five Hundred Thousand Dollars Only) will duly release to you\r\naccordingly and at the same time it is our duty to clarify you on how you\r\nwill receive your Compensation payment.\r\n\r\nYour payment has been approved in your name and endorsed by the UNITED\r\nNATIONS Board of Trustee for payment on or before the (5) Five working\r\nlimited time frame as signed By the UNITED NATIONS Board of Directors.\r\n\r\n\r\n\r\nTo enable us proceed with your payment, you are required to provide us the\r\nrequired information involve for it immediately to enable us facilitate the\r\nrelease of your payment;\r\n\r\n\r\n\r\n          PAYMENT REQUIREMENTS;\r\n\r\n\r\n\r\nAccount Holder's Name in full:\r\n\r\nBank Account Number\r\n\r\nBank Name/Address\r\n\r\nSwift Code\r\n\r\nType-Of-Account\r\n\r\nOccupation\r\n\r\nSex\r\n\r\nAmount\r\n\r\nAge\r\n\r\nMarital Status\r\n\r\nHome/Office Address\r\n\r\nDirect Telephone Number\r\n\r\n\r\n\r\nA scanned copy of either your international passport or driving license or\r\nworking identity card\r\n\r\n\r\n\r\nThanks for your co-operation and for more inquiries and information email\r\nus\r\n\r\n\r\n\r\nTreat as urgent\r\n\nDr Jeffery Wilson\r\n\r\nFor:\r\n\r\nUNITED NATIONS COMPENSATION COMMISSION\r\n\r\nTooting Sw17 Oqt London - United Kingdom"
+    },
+    {
+        "from": "baiter_639",
+        "to": "scammer_639",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.021342592592592594,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: PAYMENT REQUIREMENTS;",
+        "body": "Hello! Thank you for sharing this information with me. I appreciate your efforts in notifying me about the release of my fund. Could you please provide more details on how the process works and how I can ensure a smooth transaction?\n\nBest wishes,\nRoxann"
+    },
+    {
+        "from": "scammer_639",
+        "to": "baiter_639",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.30842592592592594,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: PAYMENT REQUIREMENTS;",
+        "body": "Attention: Dear Beneficiary,\r\n\r\n\r\n\r\nAcknowledge the receipt of your email, you are welcome.\r\n\r\nSequel to your complaint about more details on how to receive your funds,\r\nyou are required to follow our payment procedures properly as directed to\r\nenable you receive your funds. Kindly provide the details below;\r\n\r\n\r\n\r\nAccount Holder's Name:\r\n\r\nBank Account Number\r\n\r\nBank Name/Address\r\n\r\nSwift Code\r\n\r\nType-Of-Account\r\n\r\nOccupation\r\n\r\nSex\r\n\r\nAmount\r\n\r\nAge\r\n\r\nMarital Status\r\n\r\nHome/Office Address\r\n\r\nDirect Telephone Number\r\n\r\n\r\n\r\nA scanned copy of either your international passport or driving license or\r\nworking identity card\r\n\r\n\r\n\nEnclosed is my Identity Card\r\n\r\n\r\n\r\nTreat as urgent\r\n\r\nDr Jeffery Wilson\r\n\r\nFor:\r\n\r\nUNITED NATIONS COMPENSATION COMMISSION\r\n\r\nTooting Sw17 Oqt London - United Kingdom"
+    },
+    {
+        "from": "baiter_639",
+        "to": "scammer_639",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.31247685185185187,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: PAYMENT REQUIREMENTS;",
+        "body": "Hello! Thank you for your email. I appreciate the information you've shared with me. Could you please provide more details on how the funds will be transferred? How long does the process usually take?\n\nBest wishes,\nRoxann"
+    },
+    {
+        "from": "scammer_639",
+        "to": "baiter_639",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.4650694444444444,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Thank you for your email. The process usually takes only 3 working days.",
+        "body": "Thank you for your email. The process usually takes only 3 working days."
+    },
+    {
+        "from": "baiter_639",
+        "to": "scammer_639",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.47912037037037036,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Thank you for your email. The process usually takes only 3 working days.",
+        "body": "Thank you for the information. Can you provide more details about the process and how it works?\n\nBest wishes,\nRoxann"
+    }
+]

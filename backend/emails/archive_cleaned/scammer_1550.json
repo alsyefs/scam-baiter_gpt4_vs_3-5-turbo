@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1550",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings",
+        "body": "Greetings\nDear Friend\nI am interested in establishing and operating a very viable business\nas a means of investment abroad. It's no longer a secret that\ninvestment should be thriving fast in your country.\nTherefore, I want to Invest in your country. And I am ready to invest\nin any sector such as Manufacturing, Agriculture, Real Estate, Hotel,\nSchool and any project that can bring good turnover at expected time.\nIf you choose to be a partner with me, Since I am ready to invest with\nyou regarding the venture collaboration /partnership on any modalities\nthe investment will entail over there in your country. Reply-To:\nmarlonrich84@aol.com\n With your telephone numbers to exchange views or\nideas or information etc. Thank you.\nSincerely\n Marlon"
+    },
+    {
+        "from": "baiter_1550",
+        "to": "scammer_1550",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings",
+        "body": "Hello Marlon,\n\nThank you for reaching out to me. I appreciate your interest in investing in my country. Can you please provide me with more details about the specific investment opportunity you have in mind? What kind of returns can be expected from this venture? Additionally, could you share some information about your background and experience in the business world?\n\nLooking forward to hearing from you.\n\nBest wishes,\nVicente"
+    }
+]

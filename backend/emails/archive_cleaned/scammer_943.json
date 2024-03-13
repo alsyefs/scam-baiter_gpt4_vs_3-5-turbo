@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_943",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  EQUITY INVESTMENT LIMITED.",
+        "body": "  EQUITY INVESTMENT LIMITED.\nTEL: +447452219067\nFAX: +447452219060\nDate: 03.02.2024\nDear  \nThe bank accounts we gave you are good.\nProceed and send the affidavit T21 fee so that the advocate will go to\nthe LONDON HIGH COURT then apply and pay for your affidavit  T21.\nIf you are not interested in your award prize kindly send cancellation letter.\nI can see you are not serious.\nRegards,\nERIC PAUL.   "
+    },
+    {
+        "from": "baiter_943",
+        "to": "scammer_943",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   EQUITY INVESTMENT LIMITED.",
+        "body": "Dear Eric Paul,\n\nThank you for reaching out to me. I appreciate your message regarding the equity investment limited and the bank accounts you provided. Could you please provide me with more information about the affidavit fee? What is it for exactly, and how much is required?\n\nI want to make sure I understand the process correctly before proceeding. Additionally, could you please clarify what award prize you are referring to? I'm sorry if there has been any confusion on my part.\n\nLooking forward to your response.\n\nBest wishes,\nKenneth"
+    }
+]

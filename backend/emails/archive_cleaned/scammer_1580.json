@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1580",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Congratulations!",
+        "body": "  Congratulations!\nWe, Marine Capital Trust Bank, bring to your notice that we are ready to wire the sum of 10 Million United States Dollars to the owner of these Email addresses as Instructed by the Federal Bureau Of Investigation (FBI). a huge amount of money was recovered from fraudsters who stole from Citizens and innocent people. This Email address and a few more were discovered to belong to citizens who fell victim to this evil act.  \nNOTE:  we have been mandated to report the successful claim of this money within a period 72 hours or we have to send the money to charity, you are not required to make any payment. Stop falling victim to online Scams.\nWe kindly advise that the receiver of this Email/ Notice will get back to us within the time frame of 72 hours.\nMARINE CAPITAL TRUST BANK\nGENERAL MAX GARCIA VARGAS\nBANK MANAGER (MCTB).   "
+    },
+    {
+        "from": "baiter_1580",
+        "to": "scammer_1580",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Congratulations!",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate the information you have shared regarding the recovery of funds from fraudsters. It's important to take action against such criminal activities.\n\nCould you please provide more details about how this process works? How can I ensure that the funds will be transferred securely and without any complications?\n\nBest wishes,\nTanya"
+    }
+]

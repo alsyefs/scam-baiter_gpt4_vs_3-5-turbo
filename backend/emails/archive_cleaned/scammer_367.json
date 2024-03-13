@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_367",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Kindly contact First Capital",
+        "body": "  Kindly contact First Capital Bank Limited South Africa email address\nbelow: \nFirstcapital@accountant.com\n to claim your 2024 BlueDOT Mobile\nprice   "
+    },
+    {
+        "from": "baiter_367",
+        "to": "scammer_367",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Kindly contact First Capital",
+        "body": "Hello there! Thank you for reaching out to me. I'm interested in learning more about the Mobile prize you mentioned. Could you please provide me with some additional details? What kind of Mobile prize is it, and how did I become eligible to claim it?\n\nBest wishes,\nJennifer"
+    }
+]

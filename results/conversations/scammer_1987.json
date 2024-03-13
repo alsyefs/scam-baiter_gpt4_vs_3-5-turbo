@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1987",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Send the money by Apple gift ",
+        "body": " Send the money by Apple gift card. No other bank account for you   "
+    },
+    {
+        "from": "baiter_1987",
+        "to": "scammer_1987",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  Send the money by Apple gift ",
+        "body": "Hello there! Thank you for reaching out to me. I appreciate your suggestion, but I have a few questions before proceeding. Could you please explain why the payment needs to be made specifically through an Apple gift card? Is there a particular reason for this method of payment?\n\nBest wishes,\nDoris"
+    },
+    {
+        "from": "scammer_1987",
+        "to": "baiter_1987",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re:  Send the money by Apple gift",
+        "body": "Thanks for you mail. I refer you to Apple card payment because that's the fastest way fro you to make the payment is very easy because all you need is to buy the Apple card at the store and send the picture of the card numbers and i will withdraw the fee from the card and obtain your certificate and proceed to your house with your fund."
+    },
+    {
+        "from": "baiter_1987",
+        "to": "scammer_1987",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00028935185185185184,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re:  Send the money by Apple gift",
+        "body": "Hello there! Thank you for reaching out to me. I appreciate your suggestion about using the Apple card payment method. Can you please provide me with more details on how exactly this process works? I want to make sure I understand it correctly before proceeding.\n\nBest wishes,\nDoris"
+    }
+]

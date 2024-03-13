@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_794",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " APPROVED US$15.5M",
+        "body": " APPROVED US$15.5M\nWe pay via wire transfer or  atm /online\nDear Beneficiary,\nBe informed that I am now the current and new Minister of Finance\nFederal Republic of Nigeria and i want to let you  know that i was\ninstructed by [international monetary fund} IMF}  to release the sum of\n$15.5m usd in your name this morning as your name have been shortlisted\nas one of b beneficiary\nBut i was worried by information reaching my office last week which\nstated that you are no more as a result of  motor accident which occur\nat 2am if you are still alive reconfirm to me immediately the\nfollowing details\n{) Full Name\n(C) Occupation\n(D) Address\n(E) Bank Account Information\n(F) Telephone numbers.\nOnce  i confirm your details i will  proceed\nI await your urgent reply.\nSincerely,\nChief Adebayo Olawale Edun,\nThe Minister of Finance\nFederal Republic of Nigeria.    "
+    },
+    {
+        "from": "baiter_794",
+        "to": "scammer_794",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  APPROVED US$15.5M",
+        "body": "Dear Chief Adebayo Olawale Edun,\n\nThank you for reaching out to me. I hope this email finds you well. I appreciate the information you have shared with me regarding the release of funds in my name. However, I must clarify that I have not been involved in any motor accident and I am indeed alive.\n\nTo proceed further, could you please provide more details about the monetary fund IMF and how my name was selected? Additionally, I would like to know what steps need to be taken to receive the funds via wire transfer or ATM online.\n\nI understand that you require some personal information from me, but before sharing those details, could you please explain why they are necessary for the process? Also, is there any documentation or paperwork that needs to be completed?\n\nThank you for your assistance. I look forward to your prompt response.\n\nBest wishes,\nRalph"
+    }
+]

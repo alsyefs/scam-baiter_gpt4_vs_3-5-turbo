@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1686",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "ATTN.",
+        "body": "ATTN.\nWe offer all kinds of loans and It may also interest you to know that\nyou, as an intending borrower, determine how much you need as loan and\nwhen to pay\nus back provided you meet our requirements. This flexibility is one of\nthe major factors that literally stands us out among others here in\nIndia and around the world. We Offer LOAN ranging from $5,000.00 USD\nMin. to $50,000,000.00 USD Max. Any loan more than $100,000.00 USD\nrequires a full verification and Assessment process.\nThanks.\nSteve Morgan"
+    },
+    {
+        "from": "baiter_1686",
+        "to": "scammer_1686",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: ATTN.",
+        "body": "Hello Steve Morgan,\n\nThank you for reaching out to me. I appreciate the information about your loan services. Can you please provide more details about the interest rates and repayment options? Additionally, what are the requirements for eligibility? I would like to know more before considering any loan offers.\n\nBest wishes,\nAlta"
+    },
+    {
+        "from": "scammer_1686",
+        "to": "baiter_1686",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: ATTN.",
+        "body": "Application For loan\r\n\r\nFull Name:\r\nMarital Status:\r\nSex:\r\nResidence Address:\r\nCountry:\r\nNationality:\r\nAge:\r\nMobile Phone Number:\r\nAmount Needed As Loan:\r\nLoan Duration:\r\nPurpose of loan:\r\nOccupation:\r\nSalary:"
+    },
+    {
+        "from": "baiter_1686",
+        "to": "scammer_1686",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.159872685185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: ATTN.",
+        "body": "Hello! I hope you're doing well. How can I assist you with a loan?\n\nBest wishes,\nAlta"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_796",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "FedEx Delivery company Head Of",
+        "body": "FedEx Delivery company Head Office\nHeadquarters:422 McGregor Saginaw\nMichigan 48602 United States of America\nEmail: (\nfcompanyheadoffice87@gmail.com\n)\nYour Swift Response Is Needed:\nThis is FedEx courier Delivery Company of Saginaw, Michigan, the\nmanagement of this company wishes to inform you that we received an\nATM CARD PACKAGE with some vital documents attached to it, for safety.\ndelivery to your residential address in your country. This package was\nbrought to our office by the international Non-literary department to\nbe delivered to you.  \nkindly reconfirm the\nbelow details to enable us to commence with the delivery immediately.\nFull names................\nParcel owner address.........\nCountry.....................\nZip Code.................\nNationality: ..............\nTelephone: ...........\nAge: .................\nOccupation: ...........\nWe will register your package and send you the tracking numbers before\nwe proceed for safety delivery of your package as soon as you\nreconfirm the required information for safety delivery. FedEx is one\nof the world's great success stories, the start-up that revolutionized\nthe delivery of packages and information. In the past30 years, we've\ngrown up and grown into a diverse family of companies as FedEx that's\nbigger, stronger, better than ever. Waiting to read your urgent mail\nwith the needed information requested from you about this your\nsuccessful delivery.\nYours Faithfully,"
+    },
+    {
+        "from": "baiter_796",
+        "to": "scammer_796",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: FedEx Delivery company Head Of",
+        "body": "Dear Delivery Company Head Office,\n\nThank you for reaching out to me regarding the ATM CARD PACKAGE and the vital documents attached to it. I appreciate your efforts in ensuring the safety of the package during delivery. \n\nBefore I proceed with providing any information, could you please clarify which department brought the package to your office? Additionally, could you provide more details about the required information for safety delivery? I want to make sure that everything is in order before proceeding.\n\nLooking forward to your prompt response.\n\nBest wishes,\nAntonio"
+    }
+]

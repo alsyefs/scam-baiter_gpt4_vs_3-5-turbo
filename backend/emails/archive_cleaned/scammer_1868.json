@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1868",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello Dear, Welcome to JP Morg",
+        "body": "Hello Dear, Welcome to JP Morgan Chase Bank New York,\nmy name is Mr. Brian David,, Chief financial liaison officer JP Morgan\nChase National Bank, New York Branch, Am pleased to inform you that\nBoard directors of the International Monetary Fund deposited a Cheque in\nour Bank with a total sum of $83,000, 000.00 million \nas GEF small grant\nAward Donation to you.\nPlease kindly comply with us by responding to this message with\nyour Name, email, home address, and \nBank Account information\n where you want\nus to transfer this fund now\n. Waiting urgently for your message, so that\nwe will be able to transfer your funds as soon as possible.\nRegards\nMr. Brian David,\nChief financial liaison officer\nJP Morgan Chase National Bank, USA "
+    },
+    {
+        "from": "baiter_1868",
+        "to": "scammer_1868",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello Dear, Welcome to JP Morg",
+        "body": "Hello Mr. Brian David,\n\nWow, that's some news! I'm thrilled to hear about this GEF small grant Award Donation. It's not every day you get such an opportunity, right? \n\nCould you please tell me more about this Monetary Fund and the Board of Directors who decided to deposit this cheque? Also, I'd love to know more about how I was chosen for this award.\n\nLooking forward to hearing from you soon!\n\nBest regards.\n\nBest wishes,\nAnthony"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "from": "scammer_1866",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Greetings",
+        "body": "  Greetings\nMy name is Michael Maxwell\nI work with the Federal Ministry of Health (FMoH) Nigeria and I have a business offer for you.\nCan you help me receive about Four Million Eight Hundred Thousand United States Dollars ($4.8m) only?\nThis money will be remitted to you as payment for Personal Protective Equipment (PPE) and Face Mask you supplied to our ministry in 2020 but which payment was delayed till now because of the COVID-19 lock-down.\nIt does not matter whether you are in the export of Personal Protective Equipment (PPE) and Face Mask or not.\nThis money will be remitted to you by direct wire transfer to your account by the Central Bank of Nigeria (CBN)\nCentral Bank of Nigeria (CBN) is the government bank that handles overseas payment for all federal government ministries and agencies here.\nWhen you receive this money, we will share it in the ratio of 50:50.\nThat is 50% for you and 50% for me.\nIf my offer is accepted by you, please do reply me to: \nmykemax@live.com\nRgds,\nDr. Michael C. Maxwell\nAbuja, Nigeria\nTel: +234-817-832-8545\nmykemax@live.com\n "
+    },
+    {
+        "from": "baiter_1866",
+        "to": "scammer_1866",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Greetings",
+        "body": "Hello Dr. Michael C. Maxwell,\n\nIt's a pleasure to meet you! Your message certainly caught my attention. I must admit, I'm not in the business of exporting Personal Protective Equipment (PPE) and Face Masks, but your proposal sounds intriguing.\n\nCould you please provide more details about this transaction? For instance, how did you come across my contact information and why have you chosen me for this task?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLeo"
+    },
+    {
+        "from": "scammer_1866",
+        "to": "baiter_1866",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re:   Greetings",
+        "body": "Dear Leo\r\n\r\nThanks for your reply and acceptance of my offer.\r\nAs per how I got your contact, lets say it is providence that brought us together.\r\n\r\nLike I wrote before, this $4.8m will be sent to you as a payment for PPE and Face Mask you supplied to our ministry (Federal Ministry of Health) in 2020 which payment was delayed till now because of the Covid-19 lockdown and recession in some economy.\r\n\r\nFor us to proceed, I will need any of the below information from you:\r\n\r\n1 Your company full name and address\r\n2 Your company's bank account details, that is the bank name and\r\naddress, account name and number and the Swift Code.\r\n3. Your position in the company\r\n4. A copy of your ID preferably your international passport.\r\n5. Your mobile/WhatsApp number.\r\n\r\nOr you can receive this money as an individual supplier and in such a\r\nsituation I will need the following information:\r\n\r\n1 Your full name and address\r\n2 Your bank account details, that is the bank name and address,\r\naccount name and number and the Swift Code\r\n3 Your profession/position\r\n4  A copy of your international passport.\r\n5. Your Mobile/WhatsApp number\r\n\r\nWithin 3-5 working days after I have received any of this information, the money will be remitted to your nominated account by wire transfer after which I will send you the remittance slip.\r\n\r\n\r\nRgds,\r\nDr. Michael Maxwell\r\nAbuja, Nigeria\r\nTel: +234-817-832-8545 (WhatsApp) only."
+    },
+    {
+        "from": "baiter_1866",
+        "to": "scammer_1866",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.06543981481481481,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re:   Greetings",
+        "body": "Hello Dr. Michael Maxwell,\n\nThank you for your detailed response and the trust you've placed in me. It's indeed a wonderful thing that providence has brought us together.\n\nI'm curious about the process of this transaction. Could you please explain more about how it works? Also, I'd like to know more about your role at the Federal Ministry of Health.\n\nAs for the information you requested, I'm afraid I can't provide them at this moment due to some personal reasons. However, I'm very interested in continuing our conversation and learning more about this opportunity.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLeo"
+    },
+    {
+        "from": "scammer_1866",
+        "to": "baiter_1866",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.10396990740740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re:   Greetings",
+        "body": "Hello Leo,\r\n\r\nIn 2020 at the peak of the Covid-19 pandemic, PPE and Face Mask was imported from everywhere and anywhere it can be got, be it from individuals or companies as it was very scarce that time and many countries banned the exportation of the products.\r\n\r\nThe information I need from you is to include it among the individuals or companies that supplied us these products within the period.\r\n\r\nWhen I get the information from you, I will take it to our Federal Ministry of Finance for their approval and after the approval, the Central Bank of Nigeria (CBN) will be mandated to pay you.\r\n\r\nCBN is the government bank that handles overseas payment for all federal ministries and agencies here as we run Treasury Single Account (TSA) here and which is domiciled in the CBN.\r\n\r\nAs per my work in the Federal Ministry of Health (FMoH) , I am a very senior officer in the finance/account office.\r\n\r\nRgds,\r\nMichael"
+    },
+    {
+        "from": "baiter_1866",
+        "to": "scammer_1866",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.10413194444444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re:   Greetings",
+        "body": "Hello Michael,\n\nThank you for your detailed explanation. It's fascinating to learn about the process of how the Central Bank of Nigeria handles overseas payments for all federal ministries and agencies. \n\nCould you please provide more information on how these companies are selected? And what criteria does the Federal Ministry of Finance use to approve these companies?\n\nLooking forward to hearing from you.\n\nBest wishes,\nLeo"
+    },
+    {
+        "from": "scammer_1866",
+        "to": "baiter_1866",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.10516203703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re:   Greetings",
+        "body": "Sorry I have given you what I can give you."
+    },
+    {
+        "from": "baiter_1866",
+        "to": "scammer_1866",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.10549768518518518,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re:   Greetings",
+        "body": "Hello there! I appreciate your message. Could you please elaborate a bit more on what you mean? I'm always eager to learn and understand new things.\n\nBest wishes,\nLeo"
+    },
+    {
+        "from": "scammer_1866",
+        "to": "baiter_1866",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.10806712962962962,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re:   Greetings",
+        "body": "Never mind."
+    },
+    {
+        "from": "baiter_1866",
+        "to": "scammer_1866",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.10828703703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re:   Greetings",
+        "body": "Hello there! I hope you're having a great day. You mentioned \"never mind\", is there something specific you were referring to? I'm all ears and ready to chat about anything you'd like.\n\nBest wishes,\nLeo"
+    }
+]

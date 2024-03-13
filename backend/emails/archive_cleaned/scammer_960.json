@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_960",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Attention: ,",
+        "body": " Attention: ,\nHaving been dealing with you for a long time and your sincere and honest truth about your inability to pay the required fees, I have approached the executive council of the Federal Republic of Nigeria in respect to deliver the sum of $1.5 million to your county as part payment of your fund without any charges from you hence, you are only required as a matter of urgency to reconfirm your current delivery address, your cellphone/WhatsApp number, a copy of your current id card and your nearest airport to avoid wrongful dealing with impostors.\nPlease, kindly respond to this email information as the agent is billed to depart Nigeria to your country by Next week.\nCongratulations in advance while waiting for your urgent response as this opportunity is based on first come first serve.\nYours Faithfully,\nGen. Olu Peter Rtd.    "
+    },
+    {
+        "from": "baiter_960",
+        "to": "scammer_960",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  Attention: ,",
+        "body": "Hello Gen. Olu Peter Rtd.,\n\nThank you for your email and the information provided. It's always a pleasure to hear from you. I'm glad to know that there are no charges required from me for this transaction.\n\nHowever, I'm curious about a few things. Could you please explain more about how this process works? And why is it necessary to reconfirm my current delivery address and nearest airport?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJohnathon"
+    }
+]

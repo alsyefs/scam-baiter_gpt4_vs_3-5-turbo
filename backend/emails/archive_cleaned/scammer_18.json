@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_18",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn:   Mr. xxx,  ",
+        "body": "Attn:   Mr. xxx,  \n    This is to inform you that we have received so many reports all over the world regarding the fraudulent activities going on.This is to inform you that as from today you should contact us before you engaged in any transactions so that we must know if it is genuine or fake.If you don't,then you will have yourself to blame.\n      Please note that from this moment,your transactions such as Bank to Bank wire transfers,Online Account,Diplomatic delivery,etc are being monitored and can be suspended if you don't comply with our terms and conditions.We want to serve you better and eradicate frauds and scams from the society.\n     Why you have not received anything is because you have been dealing with fraudsters and criminals.So I want you to put a stop and cooperate and follow our directives and your transactions will be completed.\nPlease your funds are worth $18 million United States Dollars.\n \nPlease take note that it will only cost you a little fees of $685usd.T\nhe $485usd is for the International Money Transfer Certificate ( IMT) and International Monetary Fund clearance certificate (IMF). These two documents are very important and must be obtained to ease your onward transfer.\nFee/Charges: $685 USD.\nThanks and await your reply.\nMr. Abebe Aemro Selassie\nHead of IMF’s African Department\nInternational Monetary Fund."
+    },
+    {
+        "from": "baiter_18",
+        "to": "scammer_18",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attn:   Mr. xxx,  ",
+        "body": "Hello Mr. Abebe Aemro Selassie,\n\nThank you for reaching out and providing this information. I appreciate your concern about fraudulent activities and the need to verify before engaging in any transactions.\n\nCould you please provide more details about the reports of fraudulent activities? It would be helpful to understand the specific nature of these scams and how they are affecting people worldwide.\n\nAdditionally, I would like to know more about the funds you mentioned. Could you please clarify what these funds are for and how they are related to me?\n\nRegarding the fees you mentioned, could you explain why there is a need for fees and what exactly they cover? It's important for me to have a clear understanding of any financial obligations involved.\n\nThank you again for reaching out, and I look forward to your response.\n\nBest wishes,\nStephan"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "from": "scammer_2663",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  WORLD BANK GROUP",
+        "body": "  WORLD BANK GROUP\nWashington DC.\nConfidential mail.\nPAYMENT 2023.\nAttention: \nThis is World Bank Group Washington DC together with the American First Credit Union; we wish to inform you that you have been verified for the refund of your contract payment.\nYour name was mentioned as one of the Scam victims, so we have mapped out $45musd for you, based on the United Nations refund committee resolution.\nThe UN also has given instruction to remit your fund through the below bank once you are able to comply with our directives.\nYour fund will be remitted to you through our affiliated Bank (Allied Investment Bank)\nBut your document was signed by someone who claims to be your next of kin. We expect to hear from you immediately as Mr. Santos William, who claims to be your representative, has sent an account details:\nVARO BANK\nACCOUNT NUMBER 32088864\nROUTING NUMBER 124303201\nHe also reported that you died of Covid-19 last year, advising us to release your payment to him.\nIf you're still alive please kindly reconfirm your name, banking details, contact phone number, address together with your id. On this email:  (\nworldbankwc@currently.com\n)    "
+    },
+    {
+        "from": "baiter_2663",
+        "to": "scammer_2663",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   WORLD BANK GROUP",
+        "body": "Hello there,\n\nThank you for reaching out to me. I must say, this is quite a surprising piece of news! I had no idea that my name was mentioned as one of the victims. Could you please tell me more about how this happened? \n\nAs for Mr. Santos William, I'm afraid there seems to be some misunderstanding. I don't recall authorizing anyone to act on my behalf. Could you provide more details about his claim?\n\nI'm also curious about the Allied Investment Bank you mentioned. How did they get involved in this matter? \n\nLastly, I would like to clarify that I am very much alive and well, thank you for your concern though.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_2663",
+        "to": "baiter_2663",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re:  WORLD BANK GROUP",
+        "body": "Attention.\r\nWe are glad to hear from you Kevin, it is so bad that someone is trying to claim your fund.We will report the matter to the FBI. And Thanks for your prompt response, you have to  forward your details to us right away.\r\nThanks for understanding looking forward to your response.\r\n\r\n\r\nSent from AT&T Yahoo Mail for iPhone"
+    },
+    {
+        "from": "baiter_2663",
+        "to": "scammer_2663",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.509675925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re:  WORLD BANK GROUP",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm sorry to hear about this situation with someone trying to claim my will. It's quite alarming, isn't it? \n\nI appreciate your suggestion of reporting the matter to the FBI. That sounds like a sensible course of action. Could you please guide me on how I should go about doing that?\n\nAs for forwarding my details, could you clarify what specific information you need from me? I just want to make sure we're on the same page.\n\nLooking forward to hearing back from you soon.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "baiter_2663",
+        "to": "scammer_2663",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.5936574074074072,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re:  WORLD BANK GROUP",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm sorry to hear about this situation, it sounds quite serious. Could you please provide more details about what exactly is happening? I would like to understand better so that I can assist in the best way possible.\n\nRemember, I am here to help and support you. Looking forward to hearing from you soon.\n\nBest wishes,\nJames"
+    }
+]

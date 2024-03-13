@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2313",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  OFFICE OF THE SENATE PRESIDE",
+        "body": "  OFFICE OF THE SENATE PRESIDENT\n          FEDERAL REPUBLIC OF NIGERIA. \n \nAttn: \n \nThanks for your message once again.\n \nWe are looking forward to receive a copy of your drivers license or international passport is urgently required for identification to enable us proceed without delay as time is not on our side.\n \nYours sincerely,\nSenator GodsWill Akpabio ( Senate President)\nFederal Republic Of Nigeria.   "
+    },
+    {
+        "from": "baiter_2313",
+        "to": "scammer_2313",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   OFFICE OF THE SENATE PRESIDE",
+        "body": "Hello Senator Akpabio,\n\nThank you for your response. I appreciate your prompt reply. However, I have a few concerns regarding the request for my driver's license or passport. Could you please provide me with more information about why this is necessary? I want to ensure that I understand the purpose and importance of providing such personal documents.\n\nAdditionally, could you clarify what exactly the process will be after I submit these documents? Will there be any fees or charges involved? It would be helpful to have a clear understanding of what to expect moving forward.\n\nThank you once again for your time and assistance.\n\nBest wishes,\nCole"
+    },
+    {
+        "from": "scammer_2313",
+        "to": "baiter_2313",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "OFFICE OF THE SENATE PRESIDENT",
+        "body": "OFFICE OF THE SENATE PRESIDENT \n FEDERAL REPUBLIC OF NIGERIA.  \n \n Dear Sir, \n \n It is imperative that you forward your personal details including a copy of your  drivers license for recognition and representation of your payment file to avoid false claim and to also ensure that we are dealing with the real beneficiary of the funds. \n \n You are not required to pay any fees to receive your over due payment. My office will monitor and supervise all foreign Payments to ensure transparency and accountability. \n \nWe will expect to receive your personal details in your next reply for further hearing. \n \n Yours sincerely, \nSenator GodsWill Akpabio ( Senate President) \nFederal Republic Of Nigeria. Tel: + 234 913 589 6176."
+    },
+    {
+        "from": "baiter_2313",
+        "to": "scammer_2313",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.01193287037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: OFFICE OF THE SENATE PRESIDENT",
+        "body": "Dear Senator Akpabio,\n\nThank you for reaching out to me. I appreciate your concern about false claims and ensuring that we are dealing with the real funds. However, I would like to clarify a few things before proceeding further.\n\nCould you please provide more information about the overdue payment? What is the nature of this payment and why is it being made to me specifically? Additionally, could you explain how my personal details, including a copy of my driver's license, are necessary for this process?\n\nI look forward to your response.\n\nBest wishes,\nCole"
+    }
+]

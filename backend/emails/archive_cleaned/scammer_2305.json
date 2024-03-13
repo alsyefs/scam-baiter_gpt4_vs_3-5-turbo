@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2305",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " 1111 Constitution Avenue Nort",
+        "body": " 1111 Constitution Avenue Northwest,\n                                                         Washington,\n                                                District of Columbia, DC\n \nSIR,\n \nCLAIMING YOUR FUNDS WITHOUT ANY UPFRONT PAYMENT\n \nWe received your mail and wish to once again confirm to you that we (UNITED STATES GOVERNMENT) have agreed to help you with loan to cover all required fees till your funds is paid, therefore, only with your follow up to our advise will enable us to help you. So below are the information we required to enable us proceed:-\n \n \n(1)  YOUR FULL NAME AND ADDRESS\n(2)  YOUR AGE, OCCUPATION, POSITION, MARITAL STATUS\n(3)  YOUR HOUSE/MOBILE TELEPHONE NUMBERS\n(4)  SCANNED COPY OF YOUR DRIVER'S LICENSE  (FRONT AND BACK).\n(5)  YOUR COMPLETE BANKING DETAILS,\n(6)   YOUR VERIFIED DIGITAL IDENTITY ACCOUNT (ID.me) USERNAME AND PASSWORD:\n(7)  HOW MUCH YOU HAVE SPENT/LOST SO FAR AND THE LAST OFFICE YOU CONTACTED AND WHEN?\n \n \nPlease note that if we find out any of your information not correct, your file shall become invalid, so every information you will provide here must be correct/genuine. On receipt of the above information, our investigation team/department (FEDERAL BUREAU OF INVESTIGATION) shall be going through your file to be sure it's correct, then we start thepayment process, which we shall still guide you more.\nYours faithfully,\nSear Morgan.   "
+    },
+    {
+        "from": "baiter_2305",
+        "to": "scammer_2305",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  1111 Constitution Avenue Nort",
+        "body": "Hello Sear Morgan,\n\nThank you for your email. It's really kind of the United States Government to help me in this way. I'm just a simple person, so it's nice to know there are people out there looking out for me.\n\nI do have a few questions though, if you don't mind. Could you please explain more about what this loan is for? And how will it help cover all required fees till my funds are paid?\n\nAlso, could you tell me more about the Federal Bureau team department? What exactly do they do and how will they be helping me?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nTherese"
+    }
+]

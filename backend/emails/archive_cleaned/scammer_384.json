@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_384",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "My name is Charles Heller. I w",
+        "body": "My name is Charles Heller. I write you this business proposal in good faith;I am a man of peace, And have sincere respect for human feelings and I have packaged this special business proposal that will benefit you and I.I work at one of the leading Bio Pharmaceutical Companies here in England I cannot be directly connected the raw materials that my company is looking for because of the nature of my job so my aim of contacting you is to assist me If you accept to work with me I will appreciate it very much as you are the first and the only person I am contacting for this business proposal.\nRegards,\nCharles Heller"
+    },
+    {
+        "from": "baiter_384",
+        "to": "scammer_384",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: My name is Charles Heller. I w",
+        "body": "Hello Charles Heller,\n\nThank you for reaching out to me with your business proposal. I appreciate your sincerity and respect for human feelings. I'm interested in learning more about this opportunity. Could you please provide some additional details about the nature of the business and how it would benefit me?\n\nLooking forward to hearing from you.\n\nBest wishes,\nBryan"
+    }
+]

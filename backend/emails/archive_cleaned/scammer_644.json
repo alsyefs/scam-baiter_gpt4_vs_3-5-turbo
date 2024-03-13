@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_644",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "YOUR INVITATION",
+        "body": "YOUR INVITATION\nWE ARE WRITING TO SEEK YOUR HIGHLY ESTEEMED HELP/ CONSENT IN A LASTING\nBUSINESS RELATIONSHIP OF MUTUAL BENEFIT FOR INVESTMENT IN YOUR\nCOMPANY/COUNTRY UNDER A JOINT VENTURE PARTNERSHIP.\nPLEASE STATE TERMS AND AFFAIRS AND ALSO LAWS BIDING FOR A FOREIGNER TO\nINVEST IN YOUR COUNTRY,I SHALL LET YOU KNOW THE ENTIRE PLAN OF\nINVESTMENT AS SOON AS I RECEIVE YOUR POSITIVE RESPONSE.\nWAITING FOR YOUR EARLIEST RESPONSE.\nPLEASE CONTACT ME THROUGH MY EMAIL: \nDRKINGMIKE@HOTMAIL.COM\nKIND REGARDS,\nMike King"
+    },
+    {
+        "from": "baiter_644",
+        "to": "scammer_644",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: YOUR INVITATION",
+        "body": "Hello Mike King,\n\nThank you for reaching out to me. I appreciate your interest in a potential business partnership. Could you please provide me with more details about the investment opportunity? Specifically, what industry or sector is this joint venture related to?\n\nAdditionally, it would be helpful if you could share some information about your company and its background. This will allow me to better understand the potential benefits and risks involved in this venture.\n\nLooking forward to hearing back from you soon.\n\nBest wishes,\nJoseph"
+    },
+    {
+        "from": "scammer_644",
+        "to": "baiter_644",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: YOUR INVITATION",
+        "body": "Dear Joseph\r\n\r\nMany thanks for your kind email received .In a Brief introduction, I am a Contractor, presently working with the Ghana Ministry of works, Agriculture and Housing\r\n\r\nThe Fund  is an excess Cash flow in our Ministry Capital Investment/contracts which i want to relocate to your country  for this investment without the knowledge of our company.\r\n\r\nI diverted the fund and there is no official trace of how it was transferred and i have also cleaned all the Banking records from the Bank files. This is the reason why I contacted you so that we can use your foreign participation to move the fund out of Ghana to your country..\r\n\r\nOnce the fund is in your Bank account, I am in support of investing the fund into an Existing Business or real estate  as long as it will profit us immensely.\r\n\r\nI hope this satisfy your inquiry, upon your reply, we will proceed immediately.\r\n\nThanks for the cooperation,\r\nMike King"
+    },
+    {
+        "from": "baiter_644",
+        "to": "scammer_644",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0630671296296297,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: YOUR INVITATION",
+        "body": "Dear Mike King,\n\nThank you for reaching out to me. I appreciate your email and the opportunity you have presented. It sounds like an interesting investment opportunity, but I would like to know more details before proceeding.\n\nCould you please provide me with some additional information about the fund? Specifically, I would like to know the amount of money involved and how it was generated. Additionally, what kind of existing business or real estate investment are you considering?\n\nI look forward to hearing back from you soon.\n\nBest wishes,\nJoseph"
+    },
+    {
+        "from": "scammer_644",
+        "to": "baiter_644",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.6879282407407408,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: YOUR INVITATION",
+        "body": "Dear, Joseph\r\nThank you.I want you to understand that\r\nIn order to instruct Attorney to prepare the Memorandum of Understanding /Agreement ,you are required to provide your full details and Passport copy/ID Card. And your phone number I can only proceed upon receipt of the above aforementioned information's from you-In return copy of Pages MOU will be sent to you for endorsement and return.\r\n\r\nThanks for the cooperation\nMike"
+    },
+    {
+        "from": "baiter_644",
+        "to": "scammer_644",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.1466319444444446,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: YOUR INVITATION",
+        "body": "Dear Mike,\n\nThank you for reaching out to me. I appreciate your willingness to share information with me. However, I have a few questions before proceeding.\n\n1. Can you please explain why my full details and passport copy ID card are required to instruct the attorney? What is the purpose of this?\n\n2. Is there any specific reason why my phone number is needed as well? How will it be used in the process?\n\n3. Could you provide more information about the Memorandum of Agreement (MOU)? What does it entail and what are its benefits?\n\nI look forward to hearing back from you soon.\n\nBest wishes,\nJoseph"
+    }
+]

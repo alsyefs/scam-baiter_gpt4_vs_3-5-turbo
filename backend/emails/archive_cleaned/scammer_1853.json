@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1853",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  From: Mrs Ngozi Okonjo-Iweal",
+        "body": "  From: Mrs Ngozi Okonjo-Iweala\n  (Director-General)\nWorld Trade Organization(WTO)\nHeadquarters:  Rue de Lausanne, 154-1202, Genève, Switzerland.\nReply-to:  \nmsngoiweala@hotmail.com\n5th October,2023\nYOUR PRAYERS TRULY HEALED MY CANCER ILLNESS\nMy good friend Indeed:  \nSir/Madam,\nI am delighted to inform you that your prayers over my cancer illness yielded positive results hence am now free, hale and hearty all to the glory of God almighty.  Indeed, what delighted me most is my current appointment as the Director of the World Trade Organization(WTO) in Geneva, Switzerland.\nHowever, I have gone back to my base in Geneva, Switzerland after my annual leave . To my utmost surprise when I visited United Bank of Africa (UBA) during my annual vacation, I discovered that you are yet to receive your ATM Debit Card in the tune of US$3.8 M which I had instructed the bank to issue on your behalf as a compensation for the wrong, I did to you while in office back then as the Nigerian Finance Minister.\nIndeed, I had threatened to sue the bank for the delay but I was told that you are yet to pay for the delivery cost of US$168 including VAT which is the only fee the bank manager said you have to pay depending when you get in touch with them with the delivery cost of US$168 including VAT.\nTherefore, kindly contact  UBA now and ask them how you can send them the delivery cost of US$168 including VAT which is the only thing delaying the final delivery of  ATM Card to your country address. Nothing more indeed !!\nThe bank info is stated below:\nYour Sister in-Christ,\nMrs Ngozi Okonjo-Iweala\n(Director-General)\nWorld Trade Organization(WTO)   "
+    },
+    {
+        "from": "baiter_1853",
+        "to": "scammer_1853",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   From: Mrs Ngozi Okonjo-Iweal",
+        "body": "Hello Mrs. Ngozi,\n\nI'm so glad to hear that you're doing well and your health has improved! That's truly wonderful news. It's also impressive to hear about your position as the Director of the World Trade WTO in Geneva, it must be a very important role.\n\nRegarding the ATM Debit Card from United Bank of Africa UBA, I must admit I'm a bit surprised. I don't recall having any dealings with this bank or expecting any card from them. Could you please provide more details about this? How did my name come up in relation to this card?\n\nAlso, could you clarify what you mean by \"the wrong\" done to me while you were in office as the Nigerian Finance Minister? I'm afraid I don't quite understand.\n\nLastly, regarding the delivery cost of US including VAT for the ATM Card, is there a specific reason why this fee wasn't covered by the bank itself? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nHouston"
+    }
+]

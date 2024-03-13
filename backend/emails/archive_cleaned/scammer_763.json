@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_763",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "From United Nation Federal Rep",
+        "body": "From United Nation Federal Republic of Nigeria we have registered your\nATM CARD of (US$5.2m) with our DHL Express courier Company customer\nservice with registration code of ( 910048 ) \nplease Contact with your\ndelivery information:\n1) Your Full Name_______________\n2) Your Telephone No_______________\n3) Your Receiving_______________\n4) Your Home Address_______________\n5) COUNTRY_______________\nE-mail: \nexpresscompanydhl84@gmail.com\nTelephone Number: +234-9030-280-376\nWe have paid for the Insurance & Delivery fee. The only fee you have\nto pay is their Security keeping fee only. Please indicates the\nregistration Number of ( 910048 ) Furnish them with your Address and\nPhone number for your delivery.\nBest Regards\nName: Jacob Timothy\nSUB: DELIVERY OF YOUR ATM MASTER CARD"
+    },
+    {
+        "from": "baiter_763",
+        "to": "scammer_763",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: From United Nation Federal Rep",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding my ATM card. However, I have a few questions before proceeding further.\n\n1. Can you please confirm the purpose of this ATM card? Is it for a specific bank or organization?\n\n2. What is the exact amount of the security keeping fee that needs to be paid?\n\n3. Could you provide more details about the insurance delivery fee that has already been paid? How much was it and what does it cover?\n\n4. Can you explain the process of payment for the security keeping fee? What methods are accepted?\n\n5. Is there a deadline by which I need to pay the security keeping fee?\n\nI look forward to your response and clarification on these matters.\n\nBest wishes,\nShirley"
+    }
+]

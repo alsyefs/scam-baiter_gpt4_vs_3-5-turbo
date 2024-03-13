@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2034",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "EDERAL BUREAU OF INVESTIGATION",
+        "body": "EDERAL BUREAU OF INVESTIGATION (FBI)\nOffice of the Director General\n  Division Federal Government Office Address: 935 Pennsylvania Ave NW, Washington, DC 20535 ,United States\nHELLO  \nThis is to inform you that you have been compensated by the United States Government with a sum of $50 Million Dollars Which has been received in my office yesterday   I am sorry to inform you lately because I was very busy.\nYou are to choose how you want your fund to be received\n(1) Bank to Bank wire Transfer\n(2) Cash delivery\n(3) Cheque\n. This is your fund consignment CODE (LE6W361R) keep it secret for security purpose.\nAlso send you current home address\nThanks  \nAnd please do not forget to report any scam related issues to the FBI\nThanks\nFBI Director\nfbido60@gmail.com\nDont forget to contact me with this Email \nfbido60@gmail.com"
+    },
+    {
+        "from": "baiter_2034",
+        "to": "scammer_2034",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: EDERAL BUREAU OF INVESTIGATION",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate the information you have provided. Can you please provide more details about how I have been chosen to receive this sum of money? I want to make sure that everything is legitimate and secure.\n\nAlso, could you explain the process for each option of receiving the funds - Bank to Bank wire transfer, Cash delivery, and Cheque? Which one would be the safest and most convenient method?\n\nI understand the importance of keeping my fund code secret for security purposes. Rest assured, I will not share it with anyone.\n\nRegarding my current home address, may I ask why it is needed? Is there a specific reason for this?\n\nThank you once again for contacting me. I look forward to your response.\n\nBest wishes,\nJuan"
+    }
+]

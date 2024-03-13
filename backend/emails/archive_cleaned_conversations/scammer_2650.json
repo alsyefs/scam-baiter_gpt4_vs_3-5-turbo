@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2650",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Friend",
+        "body": "  Dear Friend\nI'm Rev Wright Peter and I represent top company executives, Our company WISDOM C.O Ltd needs business partnership to re-profile funds over $25 Billion Dollars for Partnership investment.\nRespond back for more details\nRegard's\nRev Wright Peter\nWisdom C.O Ltd   "
+    },
+    {
+        "from": "baiter_2650",
+        "to": "scammer_2650",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Friend",
+        "body": "Hello Rev Wright Peter,\n\nI'm intrigued by your message and the opportunity that WISDOM Ltd is offering. Could you please provide more details about this business? I would like to understand better what it entails.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nEmma"
+    },
+    {
+        "from": "scammer_2650",
+        "to": "baiter_2650",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Joint Venture partnership",
+        "body": "Dear Sir,\r\n\r\nWisdom C.O Ltd are seeking means of expanding and relocating our business\r\ninterests abroad in the following sectors: Oil/Gas, Construction, Real\r\nEstate, Stock Speculation and Mining, Transportation, Health Sector and\r\nTobacco, Communication Services, Agriculture Forestry & Fishing, thus any\r\nsector which we have planned to invest over $25 Billion Dollars .\r\n\r\nIf you have a solid background and idea of making good profit in any of the\r\nmentioned business sectors or any other VIABLE business in your country.\r\nPlease write back for possible business co-operation. More so, we are ready\r\nto facilitate and fund any business that is capable of generating 10%\r\nannual return on investment (AROI) Joint Venture partnership and Hard loan\r\nfunding can also be considered.\r\n\r\nWe're confident that you'll give your consideration to this proposal and\r\nrespond positively within a short period of time. I am available to discuss\r\nthis proposal with you and to answer any questions you may have in regards\r\nto this investment. As soon as you give your positive response to this\r\nproposal, I will not hesitate in sending you the detailed information of\r\nthis great investment partnership opportunity.\r\n\r\nWe look forward to discussing this opportunity further with you and i will\r\nalso forward an MoU agreement to you which you're going to fill with your\r\ninformation and signature to allow us proceed once we received a response\r\nto this message\r\n\nSincerely,\r\nRev Wright Peter\r\nWisdom C.O Ltd"
+    },
+    {
+        "from": "baiter_2650",
+        "to": "scammer_2650",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.948761574074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Joint Venture partnership",
+        "body": "Hello Rev Wright Peter,\n\nThank you for reaching out and considering me for this exciting opportunity. I'm thrilled to hear about your plans to expand Wisdom Ltd into new sectors. It's always fascinating to learn about different industries and the potential they hold.\n\nI must admit, I don't have a solid background in any of the sectors you mentioned, but I'm eager to learn more. Could you perhaps share more details about these sectors? What makes them attractive for investment? And how do you plan on generating an annual return on investment?\n\nAlso, could you elaborate more on what a Joint Venture and Hard loan funding entails? I'm not quite familiar with these terms but would love to understand better.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nEmma"
+    }
+]

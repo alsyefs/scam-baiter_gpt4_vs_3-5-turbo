@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_397",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Sir",
+        "body": "Sir\nI am contacting you because we are seeking a professional with whom we can be involved in partnership overseas, who also has the ability to manage an investment portfolio in your country. I am representing a group of prospective investors from China.\n \nThe proposed investment profile will be large in volume and scale, but because of the restrictive employment regulations in China, I cannot do this while under state employment, hence this proposal.\n \nMy primary preference is for someone from your country with your professional background, hence this proposal to you. I like to know if you are disposed to that kind of engagement, so that we may open further conversation along that line and provide you additional details.\n \nThe civil service and employment regulations here prohibit me from getting involved in private oversea business, while under government or corporate employment, hence this proposal to you, in view of your impressive profile.\nIf you indicate interest, I can send you my ID'S, so you can have a better knowledge of who you are dealing with, and I can communicate further details of the proposal to you.  Please reply this mail to this Email Address:guangcheung672@gmail.com\n \nI look forward to your response if this appeals to you.\nRegard\nCheung Guang"
+    },
+    {
+        "from": "baiter_397",
+        "to": "scammer_397",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Sir",
+        "body": "Hello Cheung Guang,\n\nThank you for reaching out to me. I appreciate your interest in involving me in an overseas investment portfolio. I would like to learn more about the proposed investment profile and understand how I can be of assistance.\n\nCould you please provide some additional details regarding the nature of the investment? What specific industries or sectors are involved? Also, it would be helpful to know the expected timeline and any potential risks associated with this opportunity.\n\nFurthermore, if you could share some information about your group of investors from China, such as their background and experience in investments, it would give me a better understanding of the project.\n\nI understand your need for confidentiality due to employment restrictions. However, before proceeding further, I would like to ensure that this opportunity aligns with my own interests and expertise. Could you please provide more information about my role and responsibilities in managing the investment portfolio?\n\nThank you once again for considering me for this opportunity. I look forward to hearing back from you with more details.\n\nBest wishes,\nClifton"
+    }
+]

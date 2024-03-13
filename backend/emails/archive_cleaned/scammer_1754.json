@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1754",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Citibank",
+        "body": "   Citibank\nBank Address: 176 Water St New York, NY 10268, USA.\nTel: +1(646) 838-082\n                                                        US$12.5Million ATM MasterCard Payment\n \nAttn: Fund Beneficiary,\n \nI am Mr. Andrew Leonard, the new ATM Head of Operation Dept, Citibank, New York USA. I resummed to this office on the 16th of last month and during my official research last week I discovered an abandoned ATM MasterCard valued US$12.5Million with card number (5384 9464 4618 4540) belonging to you as the legitimate beneficiary, and from all indication it has been confirmed that this fund is as a result of your inheritance payment from West Africa.\n \nI had to carry out an investigation to know the reason why this card has not been released to you up till now and I found out that the formal ATM head of operation who left this office two months ago with-held your card for his own personal use but unluckily for him I do not support injustice, and as the new ATM Head of Operation, I assure you that I will release your ATM MasterCard to you.\nNow that your ATM MasterCard is still available and your fund of US$12.5Million still intact, I want to know how you wish to receive your card along with your 4 digits pin code. You can come down here to our bank to pick up your card directly from my office or alternatively, you can use the service of a registered courier delivery company to deliver your card to you and you will take care of the courier fee.\nI look forward to hearing from you.\nThanks for your cooperation and understanding. We will serve you better.\n \nYours Faithfully,\nMr. Andrew Leonard\nATM Head of Operation Dept,\nCitibank\nBank Address: 176 Water St New York, NY 10268, USA.\nTel: +1(646) 838-082  "
+    },
+    {
+        "from": "baiter_1754",
+        "to": "scammer_1754",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Citibank",
+        "body": "Hello Mr. Andrew Leonard,\n\nThank you for reaching out to me and congratulations on your new position as the ATM Head of Operation Dept at Citibank. I must say, it's quite surprising to hear about this abandoned ATM card. \n\nI'm curious, how did you come across my name in relation to this card? And why would the previous ATM head of operation hold onto my card for personal use? That seems rather unusual.\n\nAs for receiving the card, I think using a registered courier delivery company would be more convenient for me. Could you please provide more details about this process?\n\nLooking forward to your response.\n\nBest wishes,\nMary"
+    }
+]

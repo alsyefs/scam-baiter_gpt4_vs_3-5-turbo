@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1805",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "I am writing to Notify you abo",
+        "body": "I am writing to Notify you about the latest Development concerning your\nPayment that Was left in our custody, Besides you are given a bill of\nSum amount of Money in order to receive your payment of $1,500,000.00\nusd which we\ndidn’t hear from you for some time now.\nHence,\nwe are now offering a Special BONUS to help all our customers that\nare having their payment in our custody due to high prices. In other\nwords we are now\nrequesting that you should pay the only sum of $50 to receive your\nFunds payment abandoned in our custody by online transfer or atm card\nif you wish so.\nAfter all Deliberation and Meeting Held by the Financial Board Of Director's,\nYou are requested to send the Only sum of $50 only by Apple Card,or Google\nPlay CARD,’Steam Wallet is also ACCEPTED because it can be\nredeemed to cash. All we needs is the picture of the card,\nI will be forwarding to you the account logging details to enable you\naccess your funds online and proceed on transfer to your designated\nbank account in any part of the world Or Tracking Number Of Your ATM\nCard Delivery to enable you Monitor the Arrival of your ATM without\nany further delay as soon as you update us with the copy of the required Fee\nof $50 Through Apple Card, Steam Wallet Card Or Google Play Card   to\ntake note.\nYours Faithfully,\nMrs Linda Jerry\nDirector of the United States Secret Service"
+    },
+    {
+        "from": "baiter_1805",
+        "to": "scammer_1805",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: I am writing to Notify you abo",
+        "body": "Hello Mrs. Linda Jerry,\n\nThank you for reaching out to me about this matter. I must say, it's quite an interesting situation. I'm a bit confused though, could you please explain more about this payment that was left in your custody? How did it end up there?\n\nAlso, could you clarify what the special bonus is that you're offering? It sounds intriguing but I'd like to understand it better.\n\nI'm not very familiar with Apple Google Play CARD or Steam Wallet. Could you tell me more about how they work and why they are preferred for this transaction?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLisa"
+    }
+]

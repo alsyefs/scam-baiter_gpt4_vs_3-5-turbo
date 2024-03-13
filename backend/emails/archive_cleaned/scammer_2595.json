@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2595",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello,",
+        "body": "Hello,\nMy name is Chris Wang, and \nI am an Investment Funding Broker\nworking in an advisory capacity with investment vehicle companies\nin Asia and the United Kingdom\n. We are seeking projects for Joint\nVenture and Investment Funding/Project Loan Programs. The program\noffers non-recourse funding for qualified projects, allowing\nproject/business owners to enjoy 70% of profits over 5-20 years.\nFunding ranges from USD $5 million to $500 million for various\nventures. We are interested in a wide range of projects such as\nFranchise Start-ups, Business Acquisition, Expansion, Capital\nProjects, Real Estate, Contract Execution, Renewable Energy,\nTrade Financing etc. If you have a viable opportunity, please\nshare business details for assessment.\nSincerely yours,\nChris Wang"
+    },
+    {
+        "from": "baiter_2595",
+        "to": "scammer_2595",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello,",
+        "body": "Hello Chris Wang,\n\nThank you for reaching out with this opportunity. Could you provide more details on the investment funding project loan programs? How does the process work, and what are the criteria for qualifying projects? I'm interested in learning more about the funding ranges and potential ventures that could be considered.\n\nLooking forward to hearing from you.\n\nBest wishes,\nMarcia"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "from": "scammer_150",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " IMF Treasury Department's Off",
+        "body": " IMF Treasury Department's Office of Foreign Assets Control\n(OFAC)IMF Treasury Department's.\nAddress: 700 19th Street, N.W., Washington, D.C. 20431.\nAttn: Dear\nThis email has been issued to you again in order to Officially inform you that we have completed an investigation on an International compensation Payment in which was issued to you by the I.M.F  With the help of our newly developed technology (International Monitoring Network System)\nwe discovered that you were not able to complete your transfer because of the amount involved. During our investigation we discovered that\nyour fund (US$20,500,000.00 ) is still available and we have authorized the fund to be paid to you via a Certified Cashier's Check and ATM card\nChoose from the both options of payment and send your request to the ATM cards Department immediately to proceed with the payment. Make sure\nyou send your contact. Such as Your Name,  Phone Number,Address, Country and City to avoid wrong delivery:\nContact the OFFICE in charge via Email: \nuba67341@hotmail.com\nBest regards\nMr. Arvin Kyles\nIMF Treasury Department's Office of Foreign Assets Control\n(OFAC)IMF Treasury Department's   "
+    },
+    {
+        "from": "baiter_150",
+        "to": "scammer_150",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  IMF Treasury Department's Off",
+        "body": "Hello Mr. Arvin Kyles,\n\nThank you for reaching out to me regarding the payment. I appreciate the information you have provided. Could you please clarify what exactly this payment is for? I want to make sure I have a clear understanding of the situation.\n\nAlso, could you explain more about the Certified Cashier's Check and ATM card options? How do they work and what are the differences between them? \n\nLastly, I would like to know how long it will take for the payment to be processed and delivered once I provide my contact information.\n\nThank you in advance for your assistance.\n\nBest wishes,\nBreanna"
+    },
+    {
+        "from": "scammer_150",
+        "to": "baiter_150",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: IMF Treasury Department's Off",
+        "body": "Hello Breanna\r\n\r\nPlease, kindly be informed that your approved funds have been forwarded to\r\nthe management of the KBC Bank of Belgium? I shall give you the Bank\r\ncontact details as soon as O hear back from you.\r\n\r\nSincerely Yours,"
+    },
+    {
+        "from": "baiter_150",
+        "to": "scammer_150",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.016342592592592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: IMF Treasury Department's Off",
+        "body": "Hello Breanna,\n\nThank you for reaching out to me. I appreciate the information you have shared about my approved funds being forwarded to the KBC Bank of Belgium. Could you please provide me with more details about this bank? I would like to know how I can contact them and proceed with the necessary steps.\n\nLooking forward to your response.\n\nBest wishes,\nBreanna"
+    },
+    {
+        "from": "scammer_150",
+        "to": "baiter_150",
+        "direction": "Inbound",
+        "days_from_first_conversation": 12.965289351851851,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: IMF Treasury Department's Off",
+        "body": "Hello Breanna\r\n\r\nApologies for my late response.\r\n\r\nWe have arranged with the management of the KBC Bank of Belgium to pay you\r\nthrough their Online Wire Transfer Platform. All you need to do now is to\r\ncontact the Bank management as they are waiting to hear from you.\r\n\r\nBank Name: KBC Bank of Belgium\r\nRdpt Robert Schuman 4, 1040\r\nBruxelles, Belgium\r\nContact Person: Andrew Sacco\r\nEmail: andrew.sacco@kbc-corporation.com\r\n\r\nContact ANDREW SACCO and quote your approved amount and keep me posted.\r\n\r\nKeep me posted as soon as you hear from the Bank management.\r\n\nSincerely Yours,\r\nARVIN KYLES"
+    },
+    {
+        "from": "baiter_150",
+        "to": "scammer_150",
+        "direction": "Outbound",
+        "days_from_first_conversation": 13.000671296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: IMF Treasury Department's Off",
+        "body": "Hello Arvin,\n\nThank you for reaching out to me. I appreciate the information about the payment arrangement with KBC Bank of Belgium. Could you provide me with more details on how to proceed with contacting Andrew Sacco at the bank? I want to make sure everything is done correctly.\n\nLooking forward to your response.\n\nBest wishes,\nBreanna"
+    },
+    {
+        "from": "baiter_150",
+        "to": "scammer_150",
+        "direction": "Outbound",
+        "days_from_first_conversation": 13.083125,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: IMF Treasury Department's Off",
+        "body": "Hello! Thank you for sharing this information with me. Could you provide more details about how I should contact Andrew Sacco at the KBC Bank of Belgium? I want to make sure I do it correctly.\n\nBest wishes,\nBreanna"
+    },
+    {
+        "from": "baiter_150",
+        "to": "scammer_150",
+        "direction": "Outbound",
+        "days_from_first_conversation": 13.083900462962964,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: IMF Treasury Department's Off",
+        "body": "Hello Arvin,\n\nThank you for sharing this information with me. I appreciate your efforts in arranging the payment through KBC Bank of Belgium. Could you provide me with more details on how to contact Andrew Sacco at the bank? I want to make sure I reach out to the right person.\n\nLooking forward to your response.\n\nBest wishes,\nBreanna"
+    },
+    {
+        "from": "baiter_150",
+        "to": "scammer_150",
+        "direction": "Outbound",
+        "days_from_first_conversation": 13.124629629629629,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: IMF Treasury Department's Off",
+        "body": "Hello! Thank you for sharing this information with me. I appreciate it. Could you provide more details about how the Online Wire Transfer Platform works? How did you arrange this payment method with the bank?\n\nBest wishes,\nBreanna"
+    },
+    {
+        "from": "baiter_150",
+        "to": "scammer_150",
+        "direction": "Outbound",
+        "days_from_first_conversation": 13.126319444444444,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: IMF Treasury Department's Off",
+        "body": "Hello! Thank you for sharing this information with me. Could you provide more details about how the Online Wire Transfer Platform works? I'm interested in learning more about the process before contacting the bank.\n\nBest wishes,\nBreanna"
+    },
+    {
+        "from": "baiter_150",
+        "to": "scammer_150",
+        "direction": "Outbound",
+        "days_from_first_conversation": 13.16744212962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: IMF Treasury Department's Off",
+        "body": "Hello! Thank you for sharing this information with me. I appreciate it. Could you provide more details about how the Online Wire Transfer Platform works? How do I go about contacting Andrew Sacco at the KBC Bank of Belgium?\n\nBest wishes,\nBreanna"
+    },
+    {
+        "from": "scammer_150",
+        "to": "baiter_150",
+        "direction": "Inbound",
+        "days_from_first_conversation": 13.630405092592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: IMF Treasury Department's Off",
+        "body": "Hello Breanna\r\n\r\nSend an email to the management of the KBC Bank of Belgium and request for\r\ntheir Account Opening Form. They shall set up your Online Account as soon\r\nas you submitted your Account Opening Form to them. Your total approved\nfunds is $10,500,000.00 only.\r\n\r\nSincerely Yours,\r\nARVIN KYLES"
+    },
+    {
+        "from": "baiter_150",
+        "to": "scammer_150",
+        "direction": "Outbound",
+        "days_from_first_conversation": 13.665671296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: IMF Treasury Department's Off",
+        "body": "Hello Arvin,\n\nThank you for sharing this information. Could you please provide me with more details on how to contact the management of KBC Bank of Belgium? I am interested in learning more about their account opening process.\n\nLooking forward to your response.\n\nBest wishes,\nBreanna"
+    }
+]

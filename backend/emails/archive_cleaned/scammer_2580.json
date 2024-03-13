@@ -1,0 +1,92 @@
+[
+    {
+        "from": "scammer_2580",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hi,  Ma’am, ",
+        "body": "Hi,  Ma’am, \nMy Name is Mrs. Valentine Geroud,\n I am terminally ill and presently in an Intensive care Unit in a hospital here in Turkey Where I have been taking treatment as I battle Leukemia for more than 6 agonizing years.\nI want to entrust to you my bequest at the financial Volume of US$ 5,500,000.00 for Humanitarian  purposes.\nCould you please permit me to give you details of the discussion by email.\nThanking You ,\n Valentijn Geroud,"
+    },
+    {
+        "from": "baiter_2580",
+        "to": "scammer_2580",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hi,  Ma’am, ",
+        "body": "Hello Mrs. Valentine Geroud,\n\nI'm really sorry to hear about your situation. It must be incredibly tough for you. I hope you're getting the best care possible in Turkey.\n\nYour message has certainly piqued my interest, although I must admit, I'm a bit confused about the details. Could you please elaborate more on this bequest and its purposes? \n\nLooking forward to hearing from you soon.\n\nPlease note that while I am interested in learning more, I won't be able to provide any personal information online for security reasons.\n\nBest wishes,\nRobert"
+    },
+    {
+        "from": "scammer_2580",
+        "to": "baiter_2580",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Hi, Ma’am,",
+        "body": "Hello Robert.,\r\n\r\nFirstly, I must truly apologize for intruding in the first place, But I got\r\nyour contact through random  searches I made on the web.\r\n\r\nI am also sorry for getting back to you late after your mail, it's because\r\nof my little strength .\r\n\r\nLike I said before, My name is  Mrs. Velvet Geroudam 75 years old, Canadian\r\nNational Living in Turkey with my husband for over 45 years . My Husband\r\nworks as an Engineer  with the Bayegan Dis Tic A.S. This is an oil and Gas\r\nCompany  in Turkey.\r\n\r\nIn the year 2013 I was diagnosed to have Breast cancer , this was not\r\ndictated earlier because there was no sign or symptom of such disease, It\r\nwas after two weeks it was confirmed that The cancer is Stage IV\r\n(metastatic). This is indeed a dead sentience to me and ever since then I\r\nhave been battling the diseases but the spread is massive and so nothing\r\ncan be done except  managing it and waiting for the last call home.\r\n\r\nI inherited this amount as mentioned before $5,500.000.00 from my late\r\nhusband and because we could not have a child for our Marriage , I have\r\nthus decided to solicit your hand in helping me ensure that this amount is\r\naccordingly given to the Less privileged in the society  .\r\nI therefore and again plead that you make yourself available to be used to\r\nfulfill my last wish whether I am alive to its conclusion or not . This you\r\nwill do by receiving this money from the bank where it's deposited and use\r\nit for humanitarian work.\r\nI have a lawyer here who will be of assistance in making sure this is\r\npossible.\r\nBasically, this is how I sincerely wish the Money be shared or disbursed on\r\nyour total supervision.\r\n\r\n(1) Give 10% of the money for general Miscellaneous and logistics, before ,\r\nduring and after the process.\r\n\r\n(2) Give 70% of the money to Charity organizations, Orphanage homes and\r\nChurches on my name so that my soul may rest in peace.\r\n\r\nThe remaining 20% should be for you and others that you would love to\r\nassist.\r\n\r\nUpon your full consideration and acceptance of this, kindly let me know so\r\nthat I can get the lawyer to begin immediately with the  legal documents\r\nfor this matter.\nRegards,\r\nMrs.  Velvet"
+    },
+    {
+        "from": "baiter_2580",
+        "to": "scammer_2580",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0271875,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Hi, Ma’am,",
+        "body": "Hello Mrs. Velvet,\n\nI'm truly sorry to hear about your health condition. It must be a tough time for you and I appreciate your courage in dealing with it.\n\nYour intention to help the less privileged is commendable and it's an honor that you considered me for this noble cause. However, I have a few questions before we proceed further.\n\n1. How did you find my contact information? \n2. Could you please provide more details about the lawyer who will assist us?\n3. What kind of legal documents are involved in this process?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRobert"
+    },
+    {
+        "from": "baiter_2580",
+        "to": "scammer_2580",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.02730324074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Hi, Ma’am,",
+        "body": "Hello Mrs. Velvet,\n\nI'm truly sorry to hear about your health condition. It must be a tough time for you and I appreciate your courage in dealing with it.\n\nYour intention to help the less privileged is commendable and it's an honor that you considered me for this noble cause. However, I have a few questions before we proceed further.\n\n1. How did you find my contact information? \n2. Could you please provide more details about the lawyer who will assist us?\n3. What kind of legal documents are required for this process?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nRobert"
+    },
+    {
+        "from": "scammer_2580",
+        "to": "baiter_2580",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.9156944444444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Hi, Ma’am,",
+        "body": "Hello Robert.,\r\n\r\nThank You for replying back, to respond to your questions, Firstly I got\r\nyour contact through random searches I made on the internet, I  told God to\r\nproduce who will do this work for me , that is how I got your contact\r\nthrough search on Google .  However I am sure that it was a divine\r\narrangement.\r\n\r\nThe Lawyer is our family Lawyer, he is willing to be of assistance in\r\nwhichever way to make this successful.\r\n\r\nThe documents or procedures are to get documents  affidavit according to\r\nthe Lawyer given power to the beneficiary to receive this fund, and to\r\nstate that I willingly transferred this fund to the beneficiary for the\r\nstated purposes.\r\n\r\n He said when this is done and the purpose of the transfer is well stated\r\nin the document, it will not be a problem when the transfer will be made to\r\nyour account.\r\n\r\nI am sure the lawyer’s part of the work will end once you receive the money.\nRegards,\r\nMrs.  Velvet"
+    },
+    {
+        "from": "baiter_2580",
+        "to": "scammer_2580",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.9435532407407408,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Hi, Ma’am,",
+        "body": "Hello Mrs. Velvet,\n\nThank you for your detailed response. It's quite interesting how you found my contact through a random search on Google, isn't it? I'm curious about this divine intervention you mentioned. Could you elaborate more on that?\n\nAlso, regarding the lawyer and the documents, could you please clarify what exactly these documents are? And what does an affidavit entail in this context? \n\nYou mentioned that the purpose of the transfer needs to be well stated in the document. What is the intended purpose of this transfer?\n\nI look forward to hearing from you.\n\nBest wishes,\nRobert"
+    },
+    {
+        "from": "scammer_2580",
+        "to": "baiter_2580",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.983865740740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Hi, Ma’am,",
+        "body": "Dear Robert,\r\n\r\nI have seen your letter,\r\n\r\nYes I got your contact from the internet, I have not had a personal\r\nencounter with you before, nor have you refer to me by anybody. I would not\r\nknow what is strange about this.\r\n\r\nWhat I mean by divine arrangement, is getting total stranger only by\r\nsearching on the internet by adding a few keywords could only be possible\r\nby God.\r\n\r\nI was well informed that to transfer this amount of funds is not easy\r\nbecause of regulations, but having a solid reason for the transfer such as\r\nHumanitarian Purposes will help to make transfer hitch free.\r\n\r\nThe documents I am talking about is paperwork which will   say that this\r\nfund is willingly instructed by the owner to be transferred to the\r\nbeneficiary and for the purpose of charity work.\r\n\r\nIf you are not cleared with my answers, you may wish to talk further with\r\nthe lawyer so more clarity.\nRegards,\r\nMrs.  Velvet"
+    },
+    {
+        "from": "baiter_2580",
+        "to": "scammer_2580",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.0092708333333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Hi, Ma’am,",
+        "body": "Dear Mrs. Velvet,\n\nThank you for your response. I must say, it's quite fascinating how the internet can connect total strangers in such a way. It's almost like divine intervention, as you've mentioned.\n\nI understand that transferring funds of this magnitude is not an easy task and requires solid reasons and proper documentation. The idea of using these funds for charity work sounds noble indeed.\n\nCould you please elaborate more on the paperwork? What kind of information would be required from my end to facilitate this process? Also, could you provide me with the contact details of the lawyer so I can discuss further?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRobert"
+    }
+]

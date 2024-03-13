@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_330",
+        "to": "baiter_330",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "THANKS FOR YOUR MAIL.",
+        "body": "From:(UNFCU)United Nations Federal Credit Union,\r\n\r\n1419 Westwood Blvd i Gale Ave Los Angeles, California(CA) USA.\r\n\r\n\r\n\r\nDear,\r\n\r\n\r\n\r\nYour mail noted!!\r\n\r\n\r\n\r\nWe grant Loans to individuals and companies.\r\n\r\n\r\n\r\nThe Finance Credit Union grant loan has provided various types of loan,\r\nprojects loan (short- and long-term loan, personal loan, INVESTMENT loan,\r\nBUSINESS loan, Students/study Loan, MORTGAGE loan etc.) for a maximum of 15\r\nyears.\r\n\r\n\r\n\r\nNo interest and collateral are required. If you are interested send the\r\nfollowing details to enable us get back to you with more details.\r\n\r\n\r\n\r\nINFORMATION NEEDED.\r\n\r\nYour name..\r\n\r\nAmount needed.\r\n\r\nCompany name...\r\n\r\nOccupation...\r\n\r\nPhone Number...\r\n\r\nMonthly Income Level....\r\n\r\nGender....\r\n\r\nCountry.\r\n\r\n\r\n\r\nAnswer us for more details.\r\n\r\n\r\n\r\nThanks for your understanding.\r\n\r\n\r\n\r\nBest Regards:\r\n\r\n\r\n\r\nMr. Cohen Landon\r\n\r\n\r\n\r\nPhone Number +1 3104642330"
+    },
+    {
+        "from": "baiter_330",
+        "to": "scammer_330",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: THANKS FOR YOUR MAIL.",
+        "body": "Hello! Thank you for sharing that information. Can you tell me more about the types of loans your company offers? How does the process work without requiring any interest or collateral?\n\nBest wishes,\nMatthew"
+    },
+    {
+        "from": "scammer_330",
+        "to": "baiter_330",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.003993055555555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "INFORMATION NEEDED.",
+        "body": "From:(UNFCU)United Nations Federal Credit Union,\r\n\r\n\r\n\r\n1419 Westwood Blvd i Gale Ave Los Angeles, California(CA) USA.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nDear,\r\n\r\n\r\n\r\n\r\n\r\nIt is a long term loan, no interest or collateral is required on the loan.\r\n\r\n\r\n\r\nEndeavor to fill in your details to enable us proceed.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nINFORMATION NEEDED.\r\n\r\n\r\n\r\nYour name..\r\n\r\n\r\n\r\nAmount needed.\r\n\r\n\r\n\r\nCompany name...\r\n\r\n\r\n\r\nOccupation...\r\n\r\n\r\n\r\nPhone Number...\r\n\r\n\r\n\r\nMonthly Income Level....\r\n\r\n\r\n\r\nGender....\r\n\r\n\r\n\r\nCountry.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nI expect to hear from you.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nBest Regards:\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nMr. Cohen Landon\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nPhone Number +1 3104642330\r\n\r\n\r\n\r\n\r\n\r\nMatthew"
+    },
+    {
+        "from": "baiter_330",
+        "to": "scammer_330",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.020104166666666666,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: INFORMATION NEEDED.",
+        "body": "Hello Mr. Cohen Landon,\nThank you for sharing the information about the long term loan opportunity with no interest or collateral required. Could you please provide more details about how the loan process works and any specific terms and conditions that apply? I'm interested in learning more before proceeding.\nLooking forward to your response.\n\nBest wishes,\nMatthew"
+    },
+    {
+        "from": "scammer_330",
+        "to": "baiter_330",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.27111111111111114,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "INFORMATION NEEDED.",
+        "body": ""
+    },
+    {
+        "from": "baiter_330",
+        "to": "scammer_330",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.29160879629629627,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: INFORMATION NEEDED.",
+        "body": "Hello! How can I help you today?\n\nBest wishes,\nMatthew"
+    }
+]

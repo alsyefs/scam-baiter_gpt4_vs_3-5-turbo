@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_921",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  ATTENTION",
+        "body": "  ATTENTION\nYou are among those whose pending payment has been approved. The release of your fund has been delayed either as a result of your dealing with unauthorized individuals or unawareness of your current fund and its value. You are advised to stop further communication with anybody or institution regarding the payment.\nNote that these funds constitute unpaid Insurance, Pension, Contract sums, Inheritance/next of kin and Lottery beneficiaries that originated from Europe, Asia Plus Middle East, America and Africa. Be notified then You are among the list of individuals and companies whose unpaid funds have been approved for payment.\nWe request that you contact this office within 48 hours of receiving this notification.\nOn contacting us, please confirm your full name and contact telephone number to enable us to normalize the documents in your name and advise you on how to make your claim.\nYou can call or whatsapp me .\nPayment will be made from our Eurpoe office.\nYours faithfully,\nGabriel Marcel   "
+    },
+    {
+        "from": "baiter_921",
+        "to": "scammer_921",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   ATTENTION",
+        "body": "Hello Gabriel Marcel,\n\nThank you for reaching out to me regarding my pending payment. I appreciate the information you have provided. Could you please clarify which specific payment you are referring to? I want to make sure I have a clear understanding of the situation.\n\nAdditionally, could you provide more details about the process of claiming this payment? What documents will be required from me and how long does it usually take for the funds to be released?\n\nI would also like to know more about your organization. Can you tell me about its background and how it is involved in handling these types of payments?\n\nThank you in advance for your assistance.\n\nBest wishes,\nBilly"
+    },
+    {
+        "from": "scammer_921",
+        "to": "baiter_921",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: ATTENTION",
+        "body": "Dear Billy\r\n\r\nSorry for the late response have been busy on official duty.\r\n\r\nCan you send the first email sent to you so as to be sure am dealing with\r\nthe right person and also send your contact details.\r\n\nGabriel"
+    },
+    {
+        "from": "baiter_921",
+        "to": "scammer_921",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.004479166666666667,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: ATTENTION",
+        "body": "Dear Gabriel,\n\nThank you for reaching out to me. I apologize for the delay in my response as well. Unfortunately, I am unable to retrieve the first email you mentioned as it seems to have been deleted accidentally. However, I would still be interested in hearing more about what you have to share.\n\nRegarding my contact details, I prefer not to share them at this point. Could you please provide me with some more information about what you would like to discuss? I'm curious to know what this is all about.\n\nLooking forward to your reply.\n\nBest wishes,\nBilly"
+    }
+]

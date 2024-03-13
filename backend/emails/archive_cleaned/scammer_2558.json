@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2558",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  US BANK",
+        "body": "  US BANK\n1025 Connecticut Ave. NW, Ste. 510. Washington, DC 20036\nAttention: Beneficiary.\nThis is to inform you that the U.S Government has instructed us to remit the sum of $5Million United States Dollars into your bank account the reason is because your name was among the scam victims that lost a lot of money to African and European Fraudsters and we were meant to understand from our findings that you have been going through hard ways by paying a lot of charges to see to the release of your fund (US$5 Million), which has been the handwork of some miscreant elements. We advise that you stop further communication with any correspondence from any bank, or anywhere concerning your funds as you will receive your fund from this bank if you follow our instruction.\nWe know your representatives will advise you to still go ahead with them, which will be at your own risk. Your (US$5 Million) will reflect in your designated bank account within three Bank working days. As a matter of fact, a possible arrangement has been made to ensure that you receive this fund through one of the provisional means as its due procedure. These means are as follows: (1) a payment through an ATM Visa Card (2) Direct Bank-to-Bank Wire Transfer. You will be attended to from the above alternatives depending on your choice.\n(1) By Bank to Bank Wire Transfer\n(2) By ATM Card.\nDo not go through anybody again but through this Bank if you really want your fund. Finally, you are advice to re-confirm these to us,\nRE-CONFIRM YOUR BELOW DETAILS.\nFull Name....................\nHome Address.................\nAge/Occupation..............\nValid Phone number............\nYour Country........\nAny Of Your Identity Card........\nDo not send money upfront fee to anyone from Europe or Africa again for whatsoever reason. The US bank will immediately remit your account once you reconfirm your banking details.\nCongratulations.\nMr. Donald J. Richard\nExecutive Region Manager\nUSBANK.   "
+    },
+    {
+        "from": "baiter_2558",
+        "to": "scammer_2558",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   US BANK",
+        "body": "Hello Mr. Donald J. Richard,\n\nThank you for reaching out and informing me about this situation. I must say, it's quite surprising to hear that my name was among the victims of such fraudulent activities.\n\nI appreciate your advice on not dealing with any other banks or entities regarding this matter. It's reassuring to know that US Bank is taking care of this issue.\n\nYou mentioned two methods of receiving the funds - through an ATM Visa Card or Direct Wire Transfer. Could you please elaborate more on these options? How would each process work?\n\nAlso, I noticed you asked for some personal details. While I understand the need for verification, I hope you understand my hesitation in providing such information over email due to security reasons. Is there a secure method through which I can provide these details?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSherry"
+    }
+]

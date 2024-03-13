@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2498",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "May the Peace of the Lord be w",
+        "body": "May the Peace of the Lord be with you!\nPlease, this is an urgent solicitation for assistance, I’m Mrs Maria Talley from the United States of America, but I lived in London for many years. I am 54 years old. I was diagnosed with cancer about 2 years ago. This letter comes from a devastated, sorrowful and emotional laden soul that needs compassion from a kind and conscience driven person. I need someone who has a sincere, compassionate heart of international humanitarian charity. There are some properties left by my late husband, which I sold, because \nthe doctor had diagnosed me that I am in my last days, that I can not live any longer\n, so I have to sell all those properties that were left by my late husband.\nI have deposited the sum of $9.5 Million in a Bank in the United States of America, which I sold from my properties and deposited it in New York City Bank in America. I want you to help me use this funds to help the less privileged, the motherless baby homes and hospitals in your country before I die. I want you to take 40 percent of the total money for your personal use, while 60% of the money will go to charity. I will appreciate your utmost confidentiality and trust in this matter to accomplish my heart's desire, as I don't want anything that will jeopardize my last wish. If you are a good and honest person write back to me for more details.\nThanks and God bless you,\nMrs Maria Talley"
+    },
+    {
+        "from": "baiter_2498",
+        "to": "scammer_2498",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: May the Peace of the Lord be w",
+        "body": "Hello Mrs. Maria Talley,\n\nI'm deeply moved by your story and I'm sorry to hear about your health condition. It's truly admirable that you're thinking of others and wanting to help the less fortunate even in such difficult times.\n\nI have a few questions though, if you don't mind me asking. How did you come across my contact information? And why did you choose me for this noble cause? I'm just an ordinary person with no experience in handling such large sums of money or charity work.\n\nAlso, could you please provide more details about how this process would work? I mean, how would the funds be transferred and how can we ensure they reach the intended recipients?\n\nThank you for considering me for this task. May God bless you and give you strength during these trying times.\n\nBest wishes,\nHolly"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_990",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "I am Mr. Jerome Smith , Contra",
+        "body": "I am Mr. Jerome Smith , Contract Administrator with Qatar Energy.\nIt may please you to know that there is an investment opportunity of $120m USD for investment either in real estate or any profitable venture in your Country.\nMay I kindly request for your assistance and cooperation in helping to move this fund into a designated Foreign Bank Account as a contract payment from Qatar Energy .\nBe assured that this is a very transparent and risk free transaction.\nPlease be back to me if you can handle this. \nAlso note that my next email will come through my official Email address with Qatar Energy\n (qatarenergy.qa) in order to prove myself and the office.For further details reply me here :jeromsmith081@mail.ru\nBest regards,\nJerome Smith\nContract Administrator.\nQatar Energy."
+    },
+    {
+        "from": "baiter_990",
+        "to": "scammer_990",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: I am Mr. Jerome Smith , Contra",
+        "body": "Hello Mr. Jerome Smith,\n\nThank you for reaching out and considering me for this opportunity. It's quite intriguing to hear about the investment in real estate or any profitable venture. I'm curious, could you please share more details about this project? What kind of assistance are you exactly looking for?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMildred"
+    }
+]

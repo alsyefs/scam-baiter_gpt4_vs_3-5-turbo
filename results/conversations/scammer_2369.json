@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_2369",
+        "to": "baiter_2369",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "good news reply!! now",
+        "body": "Dear \r\n\r\nTHIS IS TO INFORM YOU THAT AFTER THE MEETING WITH THE MINISTRY OF FINANCE BOARD DIRECTORS WE HAVE CONCLUDED THAT YOU SHOULD BE PAID $10.5 MILLION TO MAKE UP FOR YOUR LOSSES IN THE PAST AND ALSO RETRIEVE THE GOOD IMAGE OF OUR FEDERATION THAT HAS BEEN TARNISHED BY HOODLUMS AND SCAMMERS THEREFORE YOU HEREBY ADVISED TO GET BACK TO OUR BANK WITHOUT DELAY.\nTHANKS\r\nMr James Gorman"
+    },
+    {
+        "from": "scammer_2369",
+        "to": "baiter_2369",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "good news reply!! now",
+        "body": "Dear \r\n\r\nTHIS IS TO INFORM YOU THAT AFTER THE MEETING WITH THE MINISTRY OF FINANCE BOARD DIRECTORS WE HAVE CONCLUDED THAT YOU SHOULD BE PAID $10.5 MILLION TO MAKE UP FOR YOUR LOSSES IN THE PAST AND ALSO RETRIEVE THE GOOD IMAGE OF OUR FEDERATION THAT HAS BEEN TARNISHED BY HOODLUMS AND SCAMMERS THEREFORE YOU HEREBY ADVISED TO GET BACK TO OUR BANK WITHOUT DELAY.\nTHANKS\r\nMr James Gorman"
+    },
+    {
+        "from": "baiter_2369",
+        "to": "scammer_2369",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.008726851851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: good news reply!! now",
+        "body": "Hello Mr. James Gorman,\n\nThank you for your message and the wonderful news! I'm thrilled to hear about this decision from the Ministry of Finance Board Directors. It's really heartening to know that there are efforts being made to rectify past losses.\n\nCould you please provide me with more details about this process? How will it be carried out? And what steps do I need to take next?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nIsmael"
+    }
+]

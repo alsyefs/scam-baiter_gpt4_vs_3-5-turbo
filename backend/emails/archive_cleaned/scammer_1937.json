@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1937",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   It is my pleasure to introd",
+        "body": "   It is my pleasure to introduce myself to you I am Dr Iur. Beat Graf, (Dr. Bear Graf), a Senior Associate Finance Director VP Bank Switzerland.\n \nI receive your name from the office of Head of Fraud analyst & Compliance officer in the name of Barrister Paul Martins which detailed brief on an ongoing plot to steal your contract inheritance fund under a false report that you are dead. From a Billionaire from Saudi Arabia has been lured to believe you are dead, and he has forwarded an application and the processing is currently being pursued vigorously with his influence, money and connections.\n \nMrs. Shayna Alexia This is in fulfillment of the promise made to the whole Foreign Beneficiaries during the just concluded World Economic Summit, in Zurich-Switzerland, that every Beneficiary will receive his/her outstanding fund without further delay from VP Bank of Switzerland\nPlease I urge you to do everything humanly possible to get it done because the fund is ready, and I will be very much glad to know the type of account you choose.\n \nThanks,\nDr Iur. Bear Graf, (Dr. Bear Graf)\n Senior Associate\nFinance Director\nVP Bank Switzerland.    "
+    },
+    {
+        "from": "baiter_1937",
+        "to": "scammer_1937",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    It is my pleasure to introd",
+        "body": "Hello Dr. Iur. Beat Graf,\n\nIt's a pleasure to meet you, albeit virtually. I must say, your message has taken me by surprise! I had no idea there was any confusion about my being alive or dead. It's quite alarming to hear that someone from Saudi Arabia believes otherwise.\n\nI'm curious about this contract fund you mentioned. Could you provide more details? What is the nature of this contract and how did it come into existence?\n\nAlso, could you tell me more about Barrister Paul Martins? How did he come to be involved in this situation?\n\nLastly, you mentioned something about choosing an account type. Could you elaborate on what options are available and what each entails?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDiana"
+    }
+]

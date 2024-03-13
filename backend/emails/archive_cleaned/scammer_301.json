@@ -1,0 +1,242 @@
+[
+    {
+        "from": "scammer_301",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Sir,",
+        "body": "Dear Sir,\nI hope you are doing well? My name is   Bradley Wilford, a Senior Financial Consultant from London, United Kingdom.\nI am contacting you in regards to a confidential matter which involves my client as He is one of the Russian Oligarchs, both the United Kingdom/European Union and the USA have frozen some of his assets.\nHe needs your help in receiving £250M GBP in one of the Uk Banks which the government is not aware of. All legal documents stating you as His representative will be presented to the bank.\nKindly contact me as soon as possible and I will provide you with more details for agreements and how to move forward.\nIf this business proposition offends your moral values please accept my apology.\nKind regards,\nBradley Wilford."
+    },
+    {
+        "from": "baiter_301",
+        "to": "scammer_301",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Sir,",
+        "body": "Hello Bradley Wilford,\n\nI hope this message finds you well. Your proposition certainly sounds intriguing, although I must admit, it's not something I encounter every day. \n\nCould you please provide more details about this situation? For instance, how did you come across my contact information and why do you believe I would be the right person to assist in this matter?\n\nAlso, could you clarify what exactly is expected of me in this process? And what would be the potential risks and benefits involved?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMarcia"
+    },
+    {
+        "from": "scammer_301",
+        "to": "baiter_301",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Sir,",
+        "body": "Dear Marcia,\r\n\r\nThanks for your reply. From the contents of your email, I have seen your\r\nreadiness to actualize this transaction with my Client. Your role is to\r\nreceive the funds and invest it in a lucrative business before it will be\r\ndiscovered by the authorities and confiscated.\r\n\r\nYou will be greatly rewarded once you receive the funds and invest in a\r\nlucrative business that is very safe and secure, in return you will receive\r\nan upfront payment of 5Million for accepting to invest the funds and 2.5%\r\nof the total yearly profit. My Client's Attorney will draft a memorandum of\r\nunderstanding (MOU) /contract agreement.\r\n\r\nIn the meantime, confidentiality and non disclosure of this project are of\r\nparamount importance, you must irrevocably agree that you will not disclose\r\nor otherwise reveal directly or indirectly to a third party the\r\nconfidential information provided by me or my Client otherwise acquired,\r\nparticularly contract terms, banking information, Client details, financial\r\nagreement, schedules and information concerning the identity of the Client\r\nor their representatives.\r\n\r\nIn order to move forward, I would like you to supply me with the following\r\ninformation, so that I can present it to my Client to prepare the legal\r\ndocuments which would be submitted to the Bank.\r\n\r\n1. Your Full Name:\r\n2. Your Contact Address:\r\n3. Telephone Number:\r\n4. Fax Number:\r\n5. Nationality:\r\n6. Date of Birth:\r\n7. Marital Status:\r\n8. Occupation:\r\n9. Company Name and Address:\r\n10. Your private Email Address:\r\n11. Attach a copy of your Driver's License or International Passport.\r\n\r\nI am looking forward to hearing from you soon.\r\n\nKind regards,\r\n\r\nBradley Wilford."
+    },
+    {
+        "from": "baiter_301",
+        "to": "scammer_301",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0005555555555555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Sir,",
+        "body": "Dear Bradley,\n\nThank you for your detailed response. It's quite an interesting proposition you've presented here, and I must say, it does sound like a lucrative opportunity. However, I do have a few questions that I'd like to clarify before we proceed further.\n\nFirstly, could you please elaborate more on the nature of the business in which the funds will be invested? It would be helpful to understand what kind of industries or sectors we're looking at.\n\nSecondly, regarding the upfront payment and percentage of total yearly profit, could you provide more specifics? How is this calculated and when can I expect these payments?\n\nLastly, about the non-disclosure agreement (NDA), could you explain more about its terms and conditions? What are my obligations under this agreement?\n\nI hope you understand that while I'm eager to participate in this venture, it's important for me to fully comprehend all aspects of our potential partnership. \n\nLooking forward to your response.\n\nBest wishes,\nMarcia"
+    },
+    {
+        "from": "scammer_301",
+        "to": "baiter_301",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.3845254629629629,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Dear Sir,",
+        "body": "Dear Marcia,\r\n\r\nYour email is well received and contents therein are understood and noted.\r\n\r\nThe nature of the business in which the funds will be invested in will be\r\ndecided by you. It all depends on the area you are located and the type of\r\nbusiness that is yielding enough profit in your region. There are a lot of\r\nindustries or sectors you can invest in. Do you have an existing business?\r\nIf I am in a position to advise you, I will advise you to look into real\r\nestate, telecommunications, oil and gas etc. Although, you can decide for\r\nyourself which line of investment suits you better once funds are available\r\nto you.\r\n\r\nIn regards to the upfront payment of £5 Million GBPS, that would be given\r\nto you immediately the total funds are transferred into your account. The\r\npercentage of the total yearly profit of 2.5% is calculated thus, you add\r\nup the profit made annually and take out 2.5% of it as yours before\r\ndeclaring the rest. More detailed explanations are contained in the MOU.\r\nYou can expect the £5 Million immediately the funds are transferred into\r\nyour account while the 2.5% is annually.\r\n\r\nTherefore, I 'm advising you to supply the needed information in my\r\nprevious email so that I can submit it to my client for review and the next\r\nstep to proceed.\r\n\r\nKind regards,\r\n\r\nBradley."
+    },
+    {
+        "from": "baiter_301",
+        "to": "scammer_301",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.697835648148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Dear Sir,",
+        "body": "Hello Bradley,\n\nThank you for your detailed response. It's quite interesting to learn about the various investment opportunities available, especially in real estate and oil and gas sectors. I'm intrigued by the potential of these industries.\n\nI don't currently have an existing business, but I've always been interested in exploring new ventures. Your suggestion about considering what suits me better once funds are available is very insightful.\n\nRegarding the upfront payment of Million GBPS, could you please clarify a bit more? How exactly does this process work? And how soon can I expect the funds to be transferred into my account?\n\nAlso, could you explain a bit more about the MOU? What does it entail and how does it protect my interests?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarcia"
+    },
+    {
+        "from": "scammer_301",
+        "to": "baiter_301",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.018252314814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Dear Sir,",
+        "body": "Dear Marcia,\r\n\r\nI am in receipt of your email and contents therein are well noted. Since it\r\nis interesting to learn about the various investment opportunities\r\navailable, it's up to you to make your choice.\r\n\r\nWell, since you don't have an existing business but always been interested\r\nin exploring new ventures is still okay.\r\n\r\nIn regards to the £5 Million GBPS upfront payment to you will be\r\ntransferred into your Bank account for saying thank you by my client for\r\naccepting to receive the funds and invest it into a lucrative business on\r\nhis behalf. The process will work faster if you open an account with the\r\nsame Bank my client is using, so it will be a switch transfer. However, you\r\nare advised to supply your information as I requested earlier on for review\r\nby my Client.\r\n\r\nThe contents of the MOU is not something I can easily explain because I am\r\nnot a Solicitor but I strongly believe that your interest will be\r\nprotected. Once my Client's Solicitor drafts the MOU, it would be sent to\r\nyou to review and if there is anywhere you want an amendment, you 'll feel\r\nfree to point it out and it will be amended before signing.\r\n\r\nKind regards,\r\n\r\nBradley."
+    },
+    {
+        "from": "scammer_301",
+        "to": "baiter_301",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.281319444444445,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Multimillion Investment. Can you handle it?",
+        "body": "Dear Sir,\r\n\r\nI hope you are doing well. My name is Bradley Wilford, a Senior Financial\r\nConsultant from London, United Kingdom.\r\n\r\nI am contacting you in regards to a confidential matter which involves my\r\nclient as He is one of the Russian Oligarchs, both the United\r\nKingdom/European Union and the USA have frozen some of his assets.\r\n\r\nHe needs your help in receiving £250M GBP in one of the Uk Banks which the\r\ngovernment is not aware of. All legal documents stating you as His\r\nrepresentative will be presented to the bank.\r\n\r\nKindly contact me as soon as possible and I will provide you with more\r\ndetails for agreements and how to move forward.\r\n\r\nIf this business proposition offends your moral values please accept my\r\napology.\r\n\nKind regards,\r\n\r\nBradley Wilford."
+    },
+    {
+        "from": "baiter_301",
+        "to": "scammer_301",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.383761574074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Multimillion Investment. Can you handle it?",
+        "body": "Hello Bradley Wilford,\n\nI hope this message finds you well. Your proposal certainly sounds intriguing, and I appreciate your reaching out to me. \n\nI'm curious about a few things though. How did you come across my contact information? And why do you believe I would be the right person to assist in this matter?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMarcia"
+    },
+    {
+        "from": "baiter_301",
+        "to": "scammer_301",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.3840625,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Multimillion Investment. Can you handle it?",
+        "body": "Hello Bradley Wilford,\n\nI hope this message finds you well. Your proposal certainly sounds intriguing, and I appreciate your reaching out to me. \n\nCould you please provide more details about the nature of this business? For instance, how did you come across my contact information and why do you believe I would be a suitable candidate for this task?\n\nAlso, could you clarify what exactly is expected from me in this process? And what would be the potential risks involved?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMarcia"
+    },
+    {
+        "from": "baiter_301",
+        "to": "scammer_301",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.470474537037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Dear Sir,",
+        "body": "Hello Marcia,\n\nI hope this message finds you well. I'm really excited to hear about these investment opportunities you've mentioned. It's always been a dream of mine to explore new ventures and this seems like a great chance.\n\nThe idea of receiving an upfront payment as a thank you is quite intriguing, I must say. Could you perhaps elaborate more on how the process works? And why would it be faster if I open an account with the same bank your client uses?\n\nAs for supplying my details, could you clarify what exactly is needed for review by your client? I just want to make sure everything is clear before proceeding.\n\nRegarding the MOU, even though I'm not a solicitor either, I'd appreciate if you could give me a general idea of its contents. After all, it's important to have some understanding before reviewing the document, don't you think?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarcia"
+    },
+    {
+        "from": "baiter_301",
+        "to": "scammer_301",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.3869444444444445,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: Dear Sir,",
+        "body": "Hello Bradley,\n\nThank you for your detailed response. It's quite interesting to learn about the various investment opportunities available, especially in sectors like real estate and oil and gas.\n\nI don't currently have an existing business, but I've always been interested in exploring new ventures. Your suggestion of looking into these industries is something I'll definitely consider.\n\nRegarding the upfront payment of Million GBPS, could you please clarify a bit more? How exactly does this process work? And when you mention \"the funds are into your account\", do you mean that the money will be transferred directly to my personal bank account?\n\nAlso, could you explain a bit more about the MOU? What kind of details does it contain?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarcia"
+    },
+    {
+        "from": "baiter_301",
+        "to": "scammer_301",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.387060185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: Dear Sir,",
+        "body": "Hello Bradley,\n\nThank you for your detailed response. It's quite interesting to learn about the various investment opportunities available, especially in sectors like real estate and oil and gas. I appreciate your advice on this matter.\n\nI don't currently have an existing business, but I've always been interested in exploring new ventures. Your suggestion of waiting until the funds are available before deciding on a specific line of investment seems very sensible.\n\nRegarding the upfront payment and annual profit percentage, I think I understand how it works now. However, could you please clarify what MOU stands for? Is it some sort of agreement or contract?\n\nAlso, you mentioned needing some information from me in your previous email. Could you please specify what exactly you need? I want to make sure we're on the same page before proceeding further.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarcia"
+    },
+    {
+        "from": "baiter_301",
+        "to": "scammer_301",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.448263888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: Dear Sir,",
+        "body": "Hello Bradley,\n\nThank you for your detailed response. It's great to hear about the potential investment opportunities in real estate, oil and gas sectors. I'm intrigued by these possibilities.\n\nI don't currently have an existing business, but I've always been interested in exploring new ventures. Your suggestions sound very promising indeed.\n\nRegarding the upfront payment of Million GBPS, could you please clarify a bit more? How exactly does this process work? And when can I expect the funds to be transferred into my account?\n\nAlso, could you explain a bit more about the MOU? What does it entail and how does it affect our agreement?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarcia"
+    },
+    {
+        "from": "baiter_301",
+        "to": "scammer_301",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.739618055555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: Dear Sir,",
+        "body": "Hello Bradley,\n\nThank you for your detailed response. It's great to hear that there are so many potential areas for investment. I'm particularly interested in the real estate sector, as it seems like a stable and profitable industry.\n\nI don't currently have an existing business, but I've always been interested in starting one. With the right guidance and resources, I believe I could make it successful.\n\nRegarding the upfront payment of Million GBPS, could you please clarify how this process works? Will this be transferred directly into my bank account?\n\nAlso, could you provide more information about the MOU? What does it entail and what are its terms?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarcia"
+    },
+    {
+        "from": "baiter_301",
+        "to": "scammer_301",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.0948726851851855,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: Dear Sir,",
+        "body": "Hello Bradley,\n\nThank you for your detailed response. It's quite interesting to learn about the various investment opportunities available, especially in real estate and oil and gas sectors. I'm not currently running any business but I've always been interested in exploring new ventures.\n\nI appreciate your advice on how to manage the profits once the funds are available. However, I have a few questions regarding this process. Could you please explain more about the MOU? What does it entail and how does it protect my interests?\n\nAlso, could you clarify what you mean by \"the needed\" that you mentioned in your previous email? I want to make sure I understand everything correctly before we proceed further.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarcia"
+    },
+    {
+        "from": "scammer_301",
+        "to": "baiter_301",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.119224537037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: Dear Sir,",
+        "body": "Dear Marcia,\r\n\r\nI have been very busy lately.\r\n\r\nThe contents of my previous emails are self explanatory. Since you are\r\ninterested in exploring any of the business sectors available, it's okay.\r\n\r\nI am not the one drafting the MOU ``Memorandum Of Understanding\" but the\r\nSolicitor. Therefore, I cannot be in a position to explain its contents\r\nuntil you follow the directives to enable us to proceed further. This is a\r\nsensitive transaction that has to be followed up step by step. As I stated\r\nin my earlier correspondence, once the MOU is drafted by the Solicitor,\r\ncopies would be sent to you to receive and you point out areas that you\r\nwant amendment on before signing.\r\n\r\nIn order to move forward, I would like you to supply me with the following\r\ninformation, so that I can present it to my Client to prepare the legal\r\ndocuments which would be submitted to the Bank.\r\n\r\n1. Your Full Name:\r\n2. Your Contact Address:\r\n3. Telephone Number:\r\n4. Fax Number:\r\n5. Nationality:\r\n6. Date of Birth:\r\n7. Marital Status:\r\n8. Occupation:\r\n9. Company Name and Address:\r\n10. Your private Email Address:\r\n11. Attach a copy of your Driver's License or International Passport.\r\n\r\nI am looking forward to hearing from you soon.\r\n\nKind regards,\r\n\r\nBradley Wilford."
+    },
+    {
+        "from": "baiter_301",
+        "to": "scammer_301",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.13625,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: Dear Sir,",
+        "body": "Hello Bradley,\n\nThank you for your detailed response. I appreciate the time and effort you've put into explaining the process to me. I must admit, some of this is a bit over my head, but I'm eager to learn more.\n\nI understand that the MOU Memorandum Of Understanding is a crucial part of this process. Could you perhaps explain in simpler terms what it entails? Also, could you tell me more about the role of the Solicitor in drafting it?\n\nAs for the information you requested, I'm afraid I can't provide all of it at this moment. However, I'd be happy to share my full name and occupation with you. My name is Marcia and I work as an accountant.\n\nCould you also clarify why these specific details are needed? And how will they be used in preparing the legal documents?\n\nLooking forward to your response.\n\nBest wishes,\nMarcia"
+    },
+    {
+        "from": "scammer_301",
+        "to": "baiter_301",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.5162152777777775,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: Dear Sir,",
+        "body": "Hello Marcia,\r\n\r\nThanks for appreciating the time and efforts I 've put into explaining the\r\nprocess to you.\r\n\r\nI 've told you that I cannot be able to explain the contents of the MOU\r\nbecause I am not the Solicitor drafting it. In my personal understanding it\r\nmust contain general insight of this project and how you are going to\r\nproceed. However, it will also make provision for your protection etc.\r\nTherefore, I don't know how you want me to start explaining something which\r\nI 'm not the one drafting it.\r\n\r\nThe MOU is a legal binding agreement and it is not drafted by a layman,\r\nhence the role of a Solicitor is important in it.\r\n\r\nWith due respect, without providing all requested information, there is no\r\nway for us to proceed further. But one thing I can assure you is your\r\ninformation will be highly protected and solely for this project.\r\n\r\nThe specific details are needed because my Client wants to know the\r\nindividual he is entrusting his funds to. While drafting the MOU there are\r\nprovisions where your details will be required to be filled in.\r\n\r\nKind regards,\r\n\r\nBradley."
+    },
+    {
+        "from": "baiter_301",
+        "to": "scammer_301",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.531504629629629,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: Dear Sir,",
+        "body": "Hello Bradley,\n\nThank you for your detailed explanation. I appreciate your patience in this matter. I understand that the MOU is a legal binding agreement and it's not something to be taken lightly.\n\nI'm curious, could you perhaps share more about the general insight of this project? What exactly will my role be? And how will my protection be ensured?\n\nAlso, could you tell me more about your client? It would be nice to know a bit about the individual I might potentially be entrusting with important matters.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarcia"
+    },
+    {
+        "from": "scammer_301",
+        "to": "baiter_301",
+        "direction": "Inbound",
+        "days_from_first_conversation": 7.102962962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Re: Dear Sir,",
+        "body": "Hello Marcia,\r\n\r\nI appreciate the fact that you have understood that MOU is a legal binding\r\nagreement.\r\n\r\nThis project is of mutual benefit. I have explained this before that your\r\nrole is to receive the funds and invest it into a lucrative business before\r\nit will be discovered by the authorities and frozen like his other assets\r\nbecause of his associates with Putin. Your protection will be ensured as\r\nmuch as it is drawn in the MOU. You are free to take legal action if your\r\nprotection is violated.\r\n\r\nMy Client is one of the Russian Oligarchs. However, due to the current War\r\nsituation in Russia/Ukraine he is hiding. Actually my Client needs your\r\nhelp in receiving £250M GBP in one of the Uk Banks which the government is\r\nnot aware of.\r\n\r\nYou will get to know my Client better as you make progress in this matter.\r\n\r\nKind Regards,\r\n\r\nBradley."
+    },
+    {
+        "from": "baiter_301",
+        "to": "scammer_301",
+        "direction": "Outbound",
+        "days_from_first_conversation": 7.11480324074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: Dear Sir,",
+        "body": "Hello Bradley,\n\nThank you for your detailed explanation. It's quite an intriguing situation, isn't it? I'm curious about a few things though. \n\nFirstly, could you elaborate more on the type of lucrative business that the funds are expected to be invested in? I mean, what kind of businesses are we talking about here?\n\nSecondly, how exactly is my protection ensured in this agreement? I understand that legal action can be taken if violated but what measures are put in place to prevent such violation from happening in the first place?\n\nLastly, I'm interested to know more about your client. You mentioned he is one of the Russian Oligarchs. That sounds fascinating! Could you share more about him without revealing his identity?\n\nLooking forward to hearing from you.\n\nBest wishes,\nMarcia"
+    },
+    {
+        "from": "scammer_301",
+        "to": "baiter_301",
+        "direction": "Inbound",
+        "days_from_first_conversation": 7.414907407407408,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "22",
+        "subject": "Re: Dear Sir,",
+        "body": "Hello Marcia,\r\n\r\nWhy do you keep on repeating the same question I have answered again and\r\nagain?\r\n\r\nThis is not the right thing to do to move this transaction forward.\r\n\r\nBradley."
+    },
+    {
+        "from": "baiter_301",
+        "to": "scammer_301",
+        "direction": "Outbound",
+        "days_from_first_conversation": 7.427789351851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "23",
+        "subject": "Re: Dear Sir,",
+        "body": "Hello Marcia,\n\nI hope this message finds you well. I noticed that we seem to be going over the same question multiple times. Perhaps there's a misunderstanding or something I'm not explaining clearly? Let's try to clarify things so we can move forward. Can you tell me what part of my previous responses is unclear? \n\nLooking forward to your response.\n\nBest wishes,\nMarcia"
+    }
+]

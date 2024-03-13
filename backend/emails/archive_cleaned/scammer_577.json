@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_577",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "USA DEPARTMENT OF HOMELAND SEC",
+        "body": "USA DEPARTMENT OF HOMELAND SECURITY\nANTI-TERRORIST AND MONETARY CRIMES DIVISION\nNEW YORK FIELD OFFICE\n26 Federal Plaza\n9th Floor, Suite 9-110\nNew York, NY 10278\nATTENTION BENEFICIARY\nYour package delivery was approved since the beginning of this year we (DEPARTMENT OF HOMELAND SECURITY) has instructed you before to contact the dhl for the delivery without knowing you didn't contact them, i was surprised when i got call from dhl saying that you haven't reach them for the delivery. You have to contact them now so the delivery doesn't delay because that package of yours has over stayed in their custody.\n Contact dhl now with your full address for the delivery the only fee you will pay to them is $50 only.\nThis is how you will collect your package, contact DHL on the information below and ask them about your package delivery. Tell them I sent you to them and I am sure they will understand. Remember you will have to pay them only $50 or you pay by Apple card to complete the delivery to your address contact them now on the info below. Don't forget you have to send $50 or you pay with an Apple card to them to complete the delivery, contact them with your full information to enable them to continue with your delivery.\nCONTACT DHL ON THIS INFORMATION BELOW FOR THE DELIVERY.\nCONTACT PERSON: Dhl Director Mr James Ben\nEMAIL ADDRESS: (\ndhlkoreacompany73@zohomail.com\n)\nWE AWAIT YOUR URGENT REPLY\nBEST REGARDS\nSpecial Agent Danny Bray\nDEPARTMENT OF HOMELAND SECURITY\nANTI-TERRORIST AND MONETARY CRIMES DIVISION\nNEW YORK FIELD OFFICE\nNote: Disregard any email you get from any impostors or offices claiming to be in possession of your ATM card, you are hereby advice only to be in contact with Mr James Ben who is the rightful person to deal with in regards to your payment and forward any emails you get from impostors to this office so we could act upon it immediately.\nHelp stop cyber crime"
+    },
+    {
+        "from": "baiter_577",
+        "to": "scammer_577",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: USA DEPARTMENT OF HOMELAND SEC",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding my package delivery. I apologize for not contacting DHL earlier, as I was unaware of the need to do so.\n\nCould you please provide me with more details about the package? What is it that I am expecting to receive? Also, could you clarify what fee needs to be paid to DHL? I want to make sure I have all the necessary information before proceeding.\n\nAdditionally, could you explain why the payment needs to be made using an Apple card specifically? Is there a reason for this preference?\n\nI look forward to your prompt response.\n\nBest wishes,\nJohn"
+    }
+]

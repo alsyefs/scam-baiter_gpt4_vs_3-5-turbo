@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1322",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Attn: Beneficiary,",
+        "body": "   Attn: Beneficiary,\nI wish to find out if your accrued interest funds of (US$587,491.00)\nhave been paid to you as reported in our Payment database? Confirm the\nstatus to me by E-mail: \njohnvan54@outlook.com\n If I did not receive any\nresponse from you within the next 48 hours, we shall assume your\naccrued interest funds of US$587,491.00 (Five Hundred And Eighty Five\nThousand,Four Hundred And Ninety One US Dollars) has been successfully\nreceived by you. Have a nice day\nRegards\nMr. John Van  "
+    },
+    {
+        "from": "baiter_1322",
+        "to": "scammer_1322",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Attn: Beneficiary,",
+        "body": "Hello Mr. John Van,\n\nThank you for reaching out to me. I'm not quite sure what you're referring to, could you please provide more details about these accrued interest funds? How did this come about? \n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nFrancis"
+    }
+]

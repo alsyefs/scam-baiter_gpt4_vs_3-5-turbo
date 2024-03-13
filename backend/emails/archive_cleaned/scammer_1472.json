@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1472",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear good friend,",
+        "body": "  Dear good friend,\nGood day my dear friend, how are you doing today?  Longest time. I'm happy\nto inform you about my success in getting those Inheritance funds\ntransferred under the cooperation of a new partner from Belgium. Presently\ni'm in France for investment projects with my own share of the total sum.\nMeanwhile, I didn't forget your past efforts and attempts to assist me in\ntransferring those Inheritance funds despite the fact that it failed us\nsomehow.  Now contact my secretary in Nigeria west Africa, her name is Mrs.\nLinda Frank on her email address (\nlfrank20122@gmail.com\n) ask her to send\nyou the total of ($500,000.00), five  hundred thousand united states\ndollars which i kept for your compensation for all the past efforts and\nattempts to assist me in the transaction.\nI really appreciated your efforts by that time very much. So feel free and\ncontact my secretary Mrs. Linda Frank and instruct her where to send you an\nATM CARD of the total sum of ($500,000.00). Please do let me know\nimmediately you receive it so that we can share the joy after all the\nsuffering at that time. In the moment, I'm very very busy here because of\nthe investment projects which i am having with my new partner at hand,\nfinally remember that I had forwarded instruction to my secretary on your\nbehalf to receive that ATM CARD of ($500,000.00) so feel free to get in\ntouch with Mrs. Linda Frank, she will send the amount to you without any\ndelay. Please kindly confirm this address below if it is correct or not.\nBest regards,\nMrs. Joy Anu.\n "
+    },
+    {
+        "from": "baiter_1472",
+        "to": "scammer_1472",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear good friend,",
+        "body": "Hello Mrs. Joy Anu,\n\nI hope this message finds you well. It's great to hear about your success and the new investment projects you're working on in France. That sounds very exciting!\n\nI'm also glad to know that you remember my past efforts, even though they didn't quite work out as we had hoped. I appreciate your kind gesture of wanting to send me an ATM CARD with a total sum of five hundred thousand United States dollars.\n\nHowever, before proceeding further, I have a few questions if you don't mind:\n\n1) Could you please provide more details about how this ATM card works? \n2) How can I use it safely without any issues?\n3) Is there any specific reason why the funds are being sent through an ATM card instead of a direct bank transfer?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nFrank"
+    }
+]

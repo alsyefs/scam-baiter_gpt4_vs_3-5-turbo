@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1667",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  ATTENTION: DEAR BENEFICIARY,",
+        "body": "  ATTENTION: DEAR BENEFICIARY,\n \n                                                              TOPIC: YOUR $3.7 MILLION UNITED STATE DOLLARS\n \nGOOD MORNING, I AM MR ALFRED SCHIPKE IMF SENIOR RESIDENT REPRESENTATIVE UNITED STATE OF AMERICA,I USE THIS OPPORTUNITY TO GET IN CONTACT WITH YOU REGARDING YOUR $3.7 MILLION UNITED STATE DOLLARS IN OUR CUSTODY. INFORMATION GETTING TO US IS THAT YOU HAVE SPENT SO MUCH ON THIS AND HAVE NOT RECEIVE ANY DIME.\n \nYOU ARE ADVISED TO GET BACK TO US FOR FURTHER DETAILS IF YOU REALLY WANT TO RECEIVE YOUR FUNDS.\n \nFEEL FREE TO REACH ME ON MY DIRECT TELEPHONE NUMBER 859-567-9369.\n \nYOURS FAITHFULLY,\nALFRED SCHIPKE,\nIMF SENIOR RESIDENT REPRESENTATIVE.   "
+    },
+    {
+        "from": "baiter_1667",
+        "to": "scammer_1667",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   ATTENTION: DEAR BENEFICIARY,",
+        "body": "Good morning, Mr. Alfred Schipke! Thank you for reaching out to me regarding the million United States dollars in your custody. I must admit, this is quite surprising as I wasn't aware of any funds being held by the IMF on my behalf. Can you please provide me with more information about how this came about?\n\nBest wishes,\nManuel"
+    }
+]

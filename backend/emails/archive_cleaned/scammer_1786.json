@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1786",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello Dear",
+        "body": "  Hello Dear\nI only got your contact details from the South Africa Exchange Information On-line Service on my personal programmed search on the internet. I have in my possession an overdue payment of $10.5m US funds.If your interested Contact me on Email Address: \njoewatt2023@gmail.com\n for more\ninformation's.\nRegards,\nJoe Watt   "
+    },
+    {
+        "from": "baiter_1786",
+        "to": "scammer_1786",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello Dear",
+        "body": "Hello Joe Watt,\n\nThank you for reaching out to me. I'm always interested in learning about new opportunities and information. Could you please provide me with more details about the overdue payment you mentioned? What is the nature of this payment and how did you come to possess it?\n\nLooking forward to hearing from you.\n\nBest wishes,\nTheresa"
+    }
+]

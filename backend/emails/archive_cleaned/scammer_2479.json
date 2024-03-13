@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2479",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "My Dear Friend,",
+        "body": "My Dear Friend,\nGreetings to you & your Family.\nI have arranged your payment of 5.5million through ATM CARD which you will use to withdraw your money in any ATM machine in any part of the world, but the maximum is ten thousand five hundred united states dollars per day.\nNow you are advise to go and contact the manager of United Bank for Africa Plc, ATM Payment Department Unity.\nContact person Mr Mike Godwin\nEmail( \nubab79325@gmail.com\n \nContact him and ask him to send the atm card to you. but you will pay $50 for the ATM CARD\nwilliam eze .\nYour atm card payment successful"
+    },
+    {
+        "from": "baiter_2479",
+        "to": "scammer_2479",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: My Dear Friend,",
+        "body": "Hello there,\n\nThank you for your message and the information provided. It's quite interesting to hear about this ATM card arrangement. I'm curious, how does this process work exactly? And why is there a maximum withdrawal limit per day?\n\nAlso, could you please provide more details about Mr. Mike Godwin? What is his role at United Bank for Africa Plc? \n\nLastly, you mentioned that I would need to pay for the ATM card. Could you clarify what this payment is for and how much it would be?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAlvaro"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "from": "scammer_1392",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello,",
+        "body": "Hello,\nI hope this letter finds you in a convenient condition.\nI represent a financial company and we are currently expanding our investment portfolio in production and distribution outside our region in the following sectors, Oil/Gas, construction, Real Estate, Stock Speculation and Mining, Transportation, Health Sector and Tobacco, Communication Services, Agriculture Forestry & fishery, information technology, Education, infrastructure, telecommunications, financial services, agrobusiness, Etc.\nWe are also interested in Debt Financing/Loan. We also pay 1-percent commission to brokers, who introduce project owners for finance or other opportunities.\nIf you're interested, we shall give details upon response.\nBest regards,\nMr. Kamer Mehmet.\nSecretary General of the Investment Funding."
+    },
+    {
+        "from": "baiter_1392",
+        "to": "scammer_1392",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello,",
+        "body": "Hello Mr. Kamer Mehmet,\n\nThank you for reaching out to me. I'm always interested in learning about investment opportunities. Could you please provide more details about the sectors you mentioned? Specifically, what kind of projects are you looking to invest in within the Oil Gas, Real Estate, Stock and Mining, Health Sector, Tobacco, Services, Forestry fishery, Education, and financial services?\n\nAdditionally, could you explain how the Debt Financing Loan works? What are the terms and conditions associated with it?\n\nI appreciate your time and look forward to hearing back from you.\n\nBest wishes,\nCarol"
+    },
+    {
+        "from": "scammer_1392",
+        "to": "baiter_1392",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Hello,",
+        "body": "Hello Ms Carol\r\n\r\nYour email message was received and acknowledged.\r\n\r\nHere are the full details of our proposal and proceedings so I urge you to\r\nread carefully and respond accordingly. I’m the assistant secretary general\r\nfor Global Financial Investment in Turkey .\r\n\r\nWe invite you to partner with us and benefit in our new Loan and Project\r\nfunding referral program. We provide investment capital for companies to\r\nfinance their business or viable projects using our alternative finance\r\nstructure without the usual rigorous and stringent conditions experienced\r\nin banks and some other lending institutions.\r\n\r\nThrough our alternative finance structure clients will have interest rate\r\nfixed at 2% per annum on investment capital or bridge finance given\r\nproposed tenure for the loan, so we are interested in funding\r\n\r\n    * Start up * Business Acquisition\r\n    * Business Expansion * Commercial Real Estate acquisition\r\n    * Renewable energy project * Bridge loan\r\n    * Mining & agricultural projects\r\n\r\nWe advise you to revert to us for further discussions on your  business\r\ninterest.\r\n\r\nregards,\r\n\r\nMr. Kamer Mehmet\r\nAssistant Secretary General\r\nof the Investment Funding\r\n\r\n\r\nThu, Feb 8, 2024 at 5:50 PM Carol <gi26950@***.com> wrote:"
+    },
+    {
+        "from": "baiter_1392",
+        "to": "scammer_1392",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.040462962962962964,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Hello,",
+        "body": "Hello Mr. Kamer Mehmet,\n\nThank you for reaching out to me with this proposal. I am interested in learning more about your Loan and Project funding referral program. Could you please provide me with some additional details?\n\n1. What are the specific conditions and requirements for companies to qualify for investment capital through your finance structure?\n2. How does your interest rate compare to traditional banks and lending institutions?\n3. Can you give me an example of a successful project that has been funded through your program?\n4. Are there any limitations on the types of businesses or projects that can be considered for funding?\n\nI appreciate your time and look forward to hearing back from you.\n\nBest wishes,\nCarol"
+    },
+    {
+        "from": "scammer_1392",
+        "to": "baiter_1392",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.236377314814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Hello,",
+        "body": "Hello Carol, (Our Detailed Email, Please. Read Very Carefully)\r\n\r\nI sincerely appreciate your swift response and interest to communicate with\r\nme which shows how ready you are to proceed.\r\n\r\nHowever, I can understand by going through your brief mail, I know  you are\r\nprofessionally skilled in business so I also need to know the best\r\n strategy we can approach the matter.\r\n\r\nTo that effect I wish to explain in detail that we are a Turkey based\r\ninvestment company. We are currently interested in financing projects in\r\nneed of a loan at 2% interest annually. There are no sector or regional\r\nrestrictions/limits to projects we receive, review and approve to finance.\r\n\r\n\r\nBelow is our standard business practice.\r\n\r\nMinimum and maximum Funding: $1 Million to $300 Billion USD\r\nPlacement Opens to: Entrepreneurs, Corporations and Investors\r\nFunding Type: Loan Investment\r\nFunding Rate: 2% Interest Rate per annum\r\nTerm: 2-10 years   Repayment/ Renewable tenure\r\nCollateral: We will use the Due Diligence Document that you will send to us\r\nto secure an insurance bond policy that will represent the collateral for\r\nthe funding but it will be our responsibility not yours.\r\nGrace Period: We offer a maximum of 12 months grace period before the\r\nborrower starts paying interest.\r\nDisbursement: Loan is disbursed in full amount to the borrower's project\r\nBank account.\r\nPrepayment Penalties: There is no prepayment penalty associated with the\r\nfunding.\r\n\r\nIf our standard business practice is OK with you and based on the above\r\ninformation, we shall be glad to receive your executive summary / business\r\nplan with projected cash flow analysis in a compatible format (PDF\r\n-recommended) for our review and consideration in time.\r\n\r\nIf there is more information you need to learn about us please feel free to\r\ncontact us.\nBest regards,\r\n\r\nMr. Kamer Mehmet\r\nSecretary General\r\nof the Investment Funding"
+    },
+    {
+        "from": "baiter_1392",
+        "to": "scammer_1392",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.248703703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Hello,",
+        "body": "Hello Mr. Kamer Mehmet,\n\nThank you for sharing the detailed information about your Turkey-based investment company and the financing projects you are interested in. I appreciate your transparency in explaining your standard business practice.\n\nCould you please provide more details on the specific types of projects or industries that your company typically finances? Additionally, could you elaborate on the process of securing the insurance bond policy as collateral for funding?\n\nI look forward to learning more about how we can potentially collaborate on a project. Thank you.\n\nBest wishes,\nCarol"
+    },
+    {
+        "from": "scammer_1392",
+        "to": "baiter_1392",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.236365740740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Hello,",
+        "body": "Ms Carol\r\nThank you for your email.\r\nMy last email is well detailed prior to your last email/questions. However,\r\nplease read below once again.\r\n\r\n\"We will use a Due Diligence Document that you will send to us to secure an\r\ninsurance bond policy that will represent the collateral for the funding.\"\r\n\r\nSecondly, we finance all viable projects irrespective of region/country.\r\nKindly send us your business plan or executive summary with projected cash\r\nflow analysis for our review and consideration in time.\r\n\r\nWe appreciate your cooperation.\nregards\r\nMr. Kamer Mehmet"
+    },
+    {
+        "from": "baiter_1392",
+        "to": "scammer_1392",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.248946759259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Hello,",
+        "body": "Hello Mr. Kamer Mehmet,\n\nThank you for providing more details about the process. I appreciate your thorough explanation. Could you please clarify what specific information you require in the business plan or executive summary? Additionally, do you have a preferred format for these documents?\n\nLooking forward to your response.\n\nBest wishes,\nCarol"
+    },
+    {
+        "from": "scammer_1392",
+        "to": "baiter_1392",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.433078703703703,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Hello,",
+        "body": "Hello Carol\r\nYour email is appreciated.\r\nFollowing your question, which I have explained everything you need to know\r\nabout the loan process, it is with keen regard to inform you that you ought\r\nto have known what I meant by business plan or executive summary. Also, I\r\nstated in one of my last correspondence that the recommended preferred\r\nformat is through PDF.\r\n\r\nWe will appreciate your response along with the above requested information.\nregards\r\nMr. Kamer Mehmet"
+    },
+    {
+        "from": "baiter_1392",
+        "to": "scammer_1392",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.436956018518519,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Hello,",
+        "body": "Hello Mr. Kamer Mehmet,\n\nThank you for your email. I appreciate the information you have provided about the loan process and the preferred format for documents. Could you please clarify what specific details are required in the business plan or executive summary? I want to ensure that I provide all the necessary information in my response.\n\nLooking forward to your guidance on this matter.\n\nBest wishes,\nCarol"
+    }
+]

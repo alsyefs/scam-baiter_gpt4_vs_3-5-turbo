@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1603",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello,",
+        "body": "Hello,\nI am Mr. Brian Ezeh, here in Abija Nigeria, Money Gram\nOffice received signal funds sum of Nine Hundred and Seventy\nThousand United State Dollars Only ($970,000.00) on your name from\nMrs. Schuller, your business partner to pay you compensation for\nyour past effort.\nWait to hear from you upon receive of my msg about your funds how\nyou can receive it either by Check or Bit by Bit via outlet Money Gram office\nor by Bank to Bank wire transfer.\nThanks.\nMr. B. Ezeh\nE-mail: \nMGnoticeoffice@financier.com\nAbuja Money Gram officer\nPhone: +2349078568339"
+    },
+    {
+        "from": "baiter_1603",
+        "to": "scammer_1603",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello,",
+        "body": "Hello Mr. Brian Ezeh,\n\nThank you for reaching out to me. I hope this message finds you well. I received your message regarding the funds that have been sent to me by Mrs. Schuller, my business partner.\n\nI appreciate your assistance in helping me receive these funds. Could you please provide me with more details on how I can go about receiving the money? What are the requirements and procedures involved in either receiving a check or using Money Gram office for the transfer?\n\nAdditionally, could you clarify what you mean by \"Bit by Bit\" via outlet Money Gram office? I am not familiar with this term and would like to understand it better.\n\nThank you once again for your help, and I look forward to hearing from you soon.\n\nBest wishes,\nSusan"
+    }
+]

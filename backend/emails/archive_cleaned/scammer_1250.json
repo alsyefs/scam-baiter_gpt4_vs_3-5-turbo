@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1250",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Greetings and I hope this em",
+        "body": "  Greetings and I hope this email finds you well, You happened to be\namong the 3 beneficiaries that are receiving this message.\nThe U.S. Department of Labor in collaboration with Standard Chartered\nBank compensation award of USD$1M\nYour email address has been selected for the award of USD$1M This\nprogram is to help individuals that lost their jobs to covide19, Scam\nvictims, ETC.\nYour funds are scam free and risk free. Kindly contact branch manager\nof Standard Chartered Bank\n ( Sir S.G ) on hid direct email address ( \nstandardchatban@zohomail.com\n)\nSend him your\n1. Full Name\n2. Home or Office Address\n3. Telephone Number\nGood-luck and may no one cast evil eyes on you and your entire family\nAdmin Werner   "
+    },
+    {
+        "from": "baiter_1250",
+        "to": "scammer_1250",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Greetings and I hope this em",
+        "body": "Hello there,\n\nThank you for your email and the wonderful news! I'm thrilled to hear about this award from the Department of Labor in collaboration with Standard Chartered Bank. It's great to know that such programs exist to help those who have lost their jobs or fallen victim to unfortunate circumstances.\n\nCould you please tell me more about how this program works? How was my email address selected for this award? Also, could you provide more details about the process of receiving these funds?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nHeidi"
+    }
+]

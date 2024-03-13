@@ -1,0 +1,342 @@
+[
+    {
+        "from": "scammer_447",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Greetings Sir/Madam.",
+        "body": "  Greetings Sir/Madam.\n  Ref: US$7.5 Million USD Transaction.\nWe urgently need your Banking detail to transfer your fund ,Kindly send it with a copy of your ID with your telephone number .Note that you will be paid by MT100 Swift transfer (Bank To Bank transfer)\nWe look forward to hear from you.\nYours in service.\nMs Bestie Joe\nBranch Manager\nCommercial Bank of New York\nDirect Line +1 928 265 5459   "
+    },
+    {
+        "from": "baiter_447",
+        "to": "scammer_447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Greetings Sir/Madam.",
+        "body": "Hello Ms. Bestie Joe,\n\nThank you for reaching out to me. I'm thrilled to hear about this fund transfer, but I must admit, I'm a bit confused. Could you please provide more details about the nature of this transfer? How did it come about and why am I the recipient?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "scammer_447",
+        "to": "baiter_447",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "just send me your information and i will explain everything to you with the\r\ndocuments\r\nthank you\r\n\r\n-- \r\nGreetings Sir/Madam.\r\n\r\n  Ref: US$7.5 Million USD Transaction.\r\n\r\nWe urgently need your Banking detail to transfer your fund ,Kindly send it\r\nwith a copy of your ID with your telephone number .Note that you will be\npaid by MT100 Swift transfer (Bank To Bank transfer)\r\n\r\nWe look forward to hear from you.\r\n\r\nYours in service.\r\n\r\nMs Bestie Joe\r\nBranch Manager\r\nCommercial Bank of New York\r\nDirect Line +1 928 265 5459"
+    },
+    {
+        "from": "baiter_447",
+        "to": "scammer_447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0874074074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "Hello Ms. Bestie Joe,\n\nThank you for reaching out to me. I'm thrilled to hear about this opportunity, but I must admit, I'm a bit confused. Could you please explain more about the fund transfer? What is it for and how did it come about?\n\nI would also like to know more about the process of Swift transfer Bank To Bank transfer. How does it work? Is there any additional information that I need to be aware of?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "scammer_447",
+        "to": "baiter_447",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.973483796296296,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "This fund is from the UNITED NATION it was sent out randomly to emails and\r\nnames of lucky people\r\nthrough the commercial bank of New york and BNP PARIBAS SA of Switzerland.\r\nduring COVID 19\r\nas a palliatives. Many claims have been made. so don't be left behind .\r\n\r\n\r\nwe are ready to transfer the fund to you now, send us your information to\r\nconfirm your name and to know\r\nif truly you are one of the beneficiary., after that your bank draft and\r\nfund release certificate shall be sent\r\nto you ,\r\nand you will provide your bank details  and the transfer will be done\r\n\r\nthank you\r\n\r\n\r\n\r\n-- \r\nGreetings Sir/Madam.\r\n\r\n  Ref: US$7.5 Million USD Transaction.\r\n\r\nWe urgently need your Banking detail to transfer your fund ,Kindly send it\r\nwith a copy of your ID with your telephone number .Note that you will be\npaid by MT100 Swift transfer (Bank To Bank transfer)\r\n\r\nWe look forward to hear from you.\r\n\r\nYours in service.\r\n\r\nMs Bestie Joe\r\nBranch Manager\r\nCommercial Bank of New York\r\nDirect Line +1 928 265 5459"
+    },
+    {
+        "from": "baiter_447",
+        "to": "scammer_447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.003854166666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "Hello Ms. Bestie Joe,\n\nWow, this is such an unexpected surprise! I can't believe I'm one of the lucky ones chosen by the United Nations. It's really amazing how they're helping people during these tough times.\n\nCould you please tell me more about this process? How was my name selected and what are the next steps? \n\nI'm a bit confused about providing my bank details though. Is there any other way to receive the funds without sharing my personal banking information?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_447",
+        "to": "scammer_447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.004166666666666,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "Hello Ms. Bestie Joe,\n\nThank you for reaching out to me. I'm thrilled to hear about this opportunity from the United Nations and the Commercial Bank of New York. It's such a generous initiative during these challenging times.\n\nCould you please provide more details about this fund? How was I selected for it? And how much is the fund worth?\n\nI appreciate your assistance and look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_447",
+        "to": "scammer_447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.00449074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "Hello Ms. Bestie Joe,\n\nWow, this sounds like an amazing opportunity! I can't believe my luck. I'm really excited about this. Can you tell me more about how this process works? How was I chosen for this? \n\nAlso, could you please explain a bit more about the fund transfer process? Is there any paperwork that needs to be done on my end?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_447",
+        "to": "scammer_447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.047025462962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "Hello Ms. Bestie Joe,\n\nWow, this is such an unexpected surprise! I can't believe I'm one of the lucky ones chosen by the United Nations. It's really a blessing especially during these tough times.\n\nCould you please tell me more about how this selection process works? How did my name come up in the draw? And also, could you explain a bit more about the fund release process?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "scammer_447",
+        "to": "baiter_447",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.109039351851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "Ref: US$7.5 Million USD Transaction.\r\n\r\nAttention:amy\r\n\r\nThanks For your prompt reply .Attached to this email is your Bank draft\r\nCheck with your fund release Authority clearance certificate which we\r\nreceived from the BNP PARIBAS SA of Switzerland .We are going to open an\r\nonline Banking account on your name and deposit in the Bank Draft there for\r\nimmediate clearance .\r\n\r\nOnce we open the account we shall send you the account user ID and the\r\nPasswords with the Pin which you will use to access the account and\r\ntransfer the fund to any account of your choice.\r\n\r\nAll you have to do is to send us the sum of $500 only which we shall use to\r\nopen an online Banking account on your name and deposit the Bank Draft for\r\nimmediate clearance so that you will from there transfer the fund by\r\nyourself to any account of your choice.you can pay the required fee through\r\nbitcoin,or paypal,or zelle payment options\r\n\r\nThanks for your cooperation and patience all these days.While we look\r\nforward to hearing from you positively.\r\n\r\nYours in service.\r\n\r\nMs Bestie Joe\r\nBranch Manager\r\nCommercial Bank of New York\r\nDirect Line +1 928 265 5459\r\n\r\n-- \r\nGreetings Sir/Madam.\r\n\r\n  Ref: US$7.5 Million USD Transaction.\r\n\r\nWe urgently need your Banking detail to transfer your fund ,Kindly send it\r\nwith a copy of your ID with your telephone number .Note that you will be\npaid by MT100 Swift transfer (Bank To Bank transfer)\r\n\r\nWe look forward to hear from you.\r\n\r\nYours in service.\r\n\r\nMs Bestie Joe\r\nBranch Manager\r\nCommercial Bank of New York\r\nDirect Line +1 928 265 5459"
+    },
+    {
+        "from": "baiter_447",
+        "to": "scammer_447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.129004629629629,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "Hello Ms. Bestie Joe,\n\nThank you for your detailed email. It's quite interesting to hear about this online banking account and the process involved. I'm curious, though, could you explain a bit more about how this Bank Draft works? And why is there a need for me to send a sum of money for the account opening?\n\nAlso, I'd like to know more about the zelle payment options you mentioned. How does it work exactly? \n\nAs for the banking details and ID copy request, I'm afraid I can't provide those at this moment due to privacy concerns. However, I'm eager to learn more about this process.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_447",
+        "to": "scammer_447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.129178240740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "Hello Ms. Bestie Joe,\n\nThank you for your email and the detailed information provided. It's quite interesting to learn about this online banking account process.\n\nHowever, I have a few questions that I hope you could help me understand better. You mentioned a sum of money required to open the online banking account, but it seems like the amount was not specified in your message. Could you please clarify how much is needed?\n\nAlso, could you explain more about the zelle payment options? I'm not very familiar with it and would appreciate some guidance.\n\nRegarding the request for my banking details and ID copy, I must apologize as I am not comfortable sharing such sensitive information through email due to security reasons. Is there another way we can proceed without me having to provide these details?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_447",
+        "to": "scammer_447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.129849537037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "Hello Ms. Bestie Joe,\n\nWow, this is such an unexpected surprise! I can't believe I'm one of the lucky ones chosen by the United Nations. It's really a blessing especially during these tough times.\n\nI'm curious though, how was my name selected for this? And could you please explain more about how this fund from the United Nations works? \n\nLooking forward to hearing from you soon!\n\nBest regards.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_447",
+        "to": "scammer_447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.130092592592592,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "Hello Ms. Bestie Joe,\n\nWow, this sounds like an amazing opportunity! I can't believe my luck. Could you please tell me more about how this process works? How was I chosen for this? And what exactly is the purpose of these funds?\n\nI'm a bit confused though, why do you need my banking details and ID? Is there any other way to confirm my identity without sharing such sensitive information?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "scammer_447",
+        "to": "baiter_447",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.153402777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "you don't need to send us your bank details anymore just send us the\r\nrequired of 500 usd and\r\nwe will open an online account for you and send you an ATM CARD that is\r\nconnected to the fund\r\nyou can withdraw 100.000 usd daily anywhere in the world\r\nthank you\r\n\r\nyours in service\r\n\r\n-- \r\nGreetings Sir/Madam.\r\n\r\n  Ref: US$7.5 Million USD Transaction.\r\n\r\nWe urgently need your Banking detail to transfer your fund ,Kindly send it\r\nwith a copy of your ID with your telephone number .Note that you will be\npaid by MT100 Swift transfer (Bank To Bank transfer)\r\n\r\nWe look forward to hear from you.\r\n\r\nYours in service.\r\n\r\nMs Bestie Joe\r\nBranch Manager\r\nCommercial Bank of New York\r\nDirect Line +1 928 265 5459"
+    },
+    {
+        "from": "baiter_447",
+        "to": "scammer_447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.170625,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "Hello Ms. Bestie Joe,\n\nThank you for your message and the information provided. It's quite interesting to hear about this online account and ATM card system. I'm curious, how does it work exactly? And is there a specific reason why this method is preferred over traditional bank transfers?\n\nAlso, could you please provide more details about the Swift transfer Bank To Bank transfer process? How secure is it and what measures are taken to ensure the safety of the funds during the transfer?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "scammer_447",
+        "to": "baiter_447",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.705729166666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "Dear Amy,\r\nit's very secure, we have a system to protect our client fund and the\r\nonline account .\r\ncommercial bank of New york bank to bank transfer  .is very efficient .we\r\nare going to open an account here in the\r\nbank and lodged your fund into it .after you send the required fee of 500\r\nusd and we will  send  your ATM CARD to you . and connect the\r\ncard to the account to enable you to make withdrawals anywhere of your\r\nchoice and chosen.\r\n\r\nthank you\r\n\r\nyours in service\r\n\r\n\r\n-- \r\nGreetings Sir/Madam.\r\n\r\n  Ref: US$7.5 Million USD Transaction.\r\n\r\nWe urgently need your Banking detail to transfer your fund ,Kindly send it\r\nwith a copy of your ID with your telephone number .Note that you will be\npaid by MT100 Swift transfer (Bank To Bank transfer)\r\n\r\nWe look forward to hear from you.\r\n\r\nYours in service.\r\n\r\nMs Bestie Joe\r\nBranch Manager\r\nCommercial Bank of New York\r\nDirect Line +1 928 265 5459"
+    },
+    {
+        "from": "baiter_447",
+        "to": "scammer_447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.712685185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "Hello Ms. Bestie Joe,\n\nThank you for your prompt response. It's great to hear that the Commercial Bank of New York has such a secure system in place to protect client funds and online accounts.\n\nI'm curious about the process you mentioned. Could you please explain more about how the bank-to-bank transfer works? And what is this ATM card that will be connected to my account?\n\nAlso, I would like to know more about the fee of USD. What exactly is this fee for?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "scammer_447",
+        "to": "baiter_447",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.718541666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "Dear Amy,\r\na mastercard ATM CARD will be connected to your account after opening the\r\naccount in your name and load it with all the 7.5 million dollars.\r\nthe 500 USD which is the required fee is for the documentations and account\r\nopening cost that is  what all the beneficiary of this type of fund pays\r\nto enable us to process it and the ATM CARD will be sent to you. even the\r\ndelivery cost of the ATM card to our client is inclusive to that 500 usd\r\nrequired fee\r\n\r\nthank you\r\n\r\nyour in service\r\n\r\n\r\n-- \r\nGreetings Sir/Madam.\r\n\r\n  Ref: US$7.5 Million USD Transaction.\r\n\r\nWe urgently need your Banking detail to transfer your fund ,Kindly send it\r\nwith a copy of your ID with your telephone number .Note that you will be\npaid by MT100 Swift transfer (Bank To Bank transfer)\r\n\r\nWe look forward to hear from you.\r\n\r\nYours in service.\r\n\r\nMs Bestie Joe\r\nBranch Manager\r\nCommercial Bank of New York\r\nDirect Line +1 928 265 5459"
+    },
+    {
+        "from": "baiter_447",
+        "to": "scammer_447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.753784722222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "Hello Ms. Bestie Joe,\n\nThank you for your prompt response and the detailed explanation about the process. It sounds like a great opportunity indeed! I'm just curious, could you please explain a bit more about how this ATM card works? And how exactly will it be connected to my account?\n\nAlso, I would like to know more about the security measures in place to ensure that this process is safe and secure. Could you please provide some information on that?\n\nI appreciate your assistance and look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "scammer_447",
+        "to": "baiter_447",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.765740740740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "It is protected against hackers and against cyber theft .The ATM CARD will\r\nbe linked to your account\r\nafter creating one for you. kindly send the required fee to enable us to\r\nstart the process ...\r\nI will send you the account details to send the required fee.\r\n\r\nthank you\r\n\r\n\r\nyours in service\r\n\r\n\r\n-- \r\nGreetings Sir/Madam.\r\n\r\n  Ref: US$7.5 Million USD Transaction.\r\n\r\nWe urgently need your Banking detail to transfer your fund ,Kindly send it\r\nwith a copy of your ID with your telephone number .Note that you will be\npaid by MT100 Swift transfer (Bank To Bank transfer)\r\n\r\nWe look forward to hear from you.\r\n\r\nYours in service.\r\n\r\nMs Bestie Joe\r\nBranch Manager\r\nCommercial Bank of New York\r\nDirect Line +1 928 265 5459"
+    },
+    {
+        "from": "scammer_447",
+        "to": "baiter_447",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.783032407407408,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "account holder=kelvin kayode\r\nbank name=wells fargo bank\r\naccount number =40630152720133763\r\nroutine  number=121000248\r\naccount type =checking\r\naddress -651 north broad street suite 206, middletown ,19709\r\ndelaware USA\r\n\r\n\r\nSEND THE REQUIRED FEE OF 500 USD TO THE ACCOUNT DETAILS\r\n\r\n\r\nTHANK YOU\r\n\r\nYOURS IN SERVICE\r\n\r\n-- \r\nGreetings Sir/Madam.\r\n\r\n  Ref: US$7.5 Million USD Transaction.\r\n\r\nWe urgently need your Banking detail to transfer your fund ,Kindly send it\r\nwith a copy of your ID with your telephone number .Note that you will be\npaid by MT100 Swift transfer (Bank To Bank transfer)\r\n\r\nWe look forward to hear from you.\r\n\r\nYours in service.\r\n\r\nMs Bestie Joe\r\nBranch Manager\r\nCommercial Bank of New York\r\nDirect Line +1 928 265 5459"
+    },
+    {
+        "from": "baiter_447",
+        "to": "scammer_447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.7957986111111115,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "22",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "Hello Ms. Bestie Joe,\n\nThank you for reaching out to me. I'm a bit confused about the details of this transfer. Could you please explain more about why this fund is being transferred to me? \n\nAlso, could you provide some more information about the Commercial Bank of New York? I'd love to learn more about your institution.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_447",
+        "to": "scammer_447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.7958796296296295,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "23",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "Hello Ms. Bestie Joe,\n\nThank you for reaching out to me. I'm quite intrigued by this ATM card that will be linked to my account. Could you please explain more about how this process works? \n\nAlso, I'm curious about the fee you mentioned. What exactly is it for and how much is it? \n\nAs for the banking details, could you clarify why they are needed? I'm just trying to understand everything better.\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "scammer_447",
+        "to": "baiter_447",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.82550925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "24",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "check the previous mails  i sent you i explained in details why you are\r\npaying the fee the details about the transfer and details about how\r\neverything works\r\ngo through your mail\r\n\r\nthank you\r\n\r\n\r\n-- \r\nGreetings Sir/Madam.\r\n\r\n  Ref: US$7.5 Million USD Transaction.\r\n\r\nWe urgently need your Banking detail to transfer your fund ,Kindly send it\r\nwith a copy of your ID with your telephone number .Note that you will be\npaid by MT100 Swift transfer (Bank To Bank transfer)\r\n\r\nWe look forward to hear from you.\r\n\r\nYours in service.\r\n\r\nMs Bestie Joe\r\nBranch Manager\r\nCommercial Bank of New York\r\nDirect Line +1 928 265 5459"
+    },
+    {
+        "from": "baiter_447",
+        "to": "scammer_447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.837152777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "25",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "Hello Ms. Bestie Joe,\n\nThank you for your prompt response. I appreciate the urgency of this matter, however, I must admit that I'm a bit confused about some details. Could you kindly explain to me again why there is a fee involved in this transfer? \n\nAlso, could you provide more information about how the Swift transfer Bank To Bank works? I'm not very familiar with these banking terms and would like to understand better before proceeding.\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "scammer_447",
+        "to": "baiter_447",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.473553240740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "26",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "The required fee is for setting up your account and making sure you get\r\nyour ATM CARD courier service cost  inclusive.\r\nThe swift transfer will be made clear and shown to you after the payment of\r\nthe required fee.\r\nyou will understand more about it .you\r\n will need a practical explanation .through the document that will be sent\r\nto you.after you make the payment.\r\n\r\nthank you\r\n\r\n\r\n-- \r\nGreetings Sir/Madam.\r\n\r\n  Ref: US$7.5 Million USD Transaction.\r\n\r\nWe urgently need your Banking detail to transfer your fund ,Kindly send it\r\nwith a copy of your ID with your telephone number .Note that you will be\npaid by MT100 Swift transfer (Bank To Bank transfer)\r\n\r\nWe look forward to hear from you.\r\n\r\nYours in service.\r\n\r\nMs Bestie Joe\r\nBranch Manager\r\nCommercial Bank of New York\r\nDirect Line +1 928 265 5459"
+    },
+    {
+        "from": "baiter_447",
+        "to": "scammer_447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.503831018518518,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "27",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "Hello Ms. Bestie Joe,\n\nThank you for your prompt response. I'm quite intrigued by this whole process, it's all very new to me. Could you please explain a bit more about how the ATM card courier service works? And what exactly does the required fee cover?\n\nAlso, could you clarify what you mean by \"the swift transfer will be made clear and shown to me after the payment of the required fee\"? I'm not sure I fully understand.\n\nI'm also curious about the document that will be sent to me after making the payment. What kind of information will it contain?\n\nAs for my banking details, I'd like to know more about why they are needed and how they will be used in this process before sharing them.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "scammer_447",
+        "to": "baiter_447",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.602673611111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "28",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "Why all these questions ? Are you sure you really want to claim your fund?\r\n\r\n\r\n\r\n-- \r\nGreetings Sir/Madam.\r\n\r\n  Ref: US$7.5 Million USD Transaction.\r\n\r\nWe urgently need your Banking detail to transfer your fund ,Kindly send it\r\nwith a copy of your ID with your telephone number .Note that you will be\npaid by MT100 Swift transfer (Bank To Bank transfer)\r\n\r\nWe look forward to hear from you.\r\n\r\nYours in service.\r\n\r\nMs Bestie Joe\r\nBranch Manager\r\nCommercial Bank of New York\r\nDirect Line +1 928 265 5459"
+    },
+    {
+        "from": "baiter_447",
+        "to": "scammer_447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.628888888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "29",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "Hello Ms. Bestie Joe,\n\nThank you for reaching out to me. I'm thrilled to hear about this fund! Could you please provide more information about it? How did I come to be the recipient of such a fund?\n\nI'm also curious about the transfer process. Could you explain how the Swift transfer Bank To Bank transfer works? \n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "scammer_447",
+        "to": "baiter_447",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.719444444444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "30",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "I have explained everything to you . kindly send the required fee and learn\r\nmore about how the transfer works\r\n\r\n\r\n-- \r\nGreetings Sir/Madam.\r\n\r\n  Ref: US$7.5 Million USD Transaction.\r\n\r\nWe urgently need your Banking detail to transfer your fund ,Kindly send it\r\nwith a copy of your ID with your telephone number .Note that you will be\npaid by MT100 Swift transfer (Bank To Bank transfer)\r\n\r\nWe look forward to hear from you.\r\n\r\nYours in service.\r\n\r\nMs Bestie Joe\r\nBranch Manager\r\nCommercial Bank of New York\r\nDirect Line +1 928 265 5459"
+    },
+    {
+        "from": "baiter_447",
+        "to": "scammer_447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.753877314814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "31",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "Hello Ms. Bestie Joe,\n\nThank you for your prompt response. I'm really excited about this opportunity! However, I'm a bit confused about how the transfer works. Could you please explain it to me in more detail? \n\nAlso, could you tell me more about the Commercial Bank of New York? I've never heard of it before and would love to learn more.\n\nLooking forward to hearing from you soon!\n\nBest regards.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "scammer_447",
+        "to": "baiter_447",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.766875,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "32",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "How can you be confused? your will be confiscated if you dont claim your on\r\ntime.\r\n\r\n\r\n\r\n-- \r\nGreetings Sir/Madam.\r\n\r\n  Ref: US$7.5 Million USD Transaction.\r\n\r\nWe urgently need your Banking detail to transfer your fund ,Kindly send it\r\nwith a copy of your ID with your telephone number .Note that you will be\npaid by MT100 Swift transfer (Bank To Bank transfer)\r\n\r\nWe look forward to hear from you.\r\n\r\nYours in service.\r\n\r\nMs Bestie Joe\r\nBranch Manager\r\nCommercial Bank of New York\r\nDirect Line +1 928 265 5459"
+    },
+    {
+        "from": "baiter_447",
+        "to": "scammer_447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.795775462962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "33",
+        "subject": "Re: Greetings Sir/Madam.",
+        "body": "Hello Ms. Bestie Joe,\n\nThank you for reaching out to me. I'm thrilled to hear about this fund transfer, but I must admit, I'm a bit confused. Could you please provide more details? How did this come about? And why is it urgent?\n\nI appreciate your assistance and look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAmy"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1530",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "I know that you will be surpri",
+        "body": "I know that you will be surprised to receive this mail from me today.\nMy name is Lynne Scott This letter is highly privileged and it\nrequires your immediate attention because \nwe lost one of our Bank\ncustomers who happens to be from your country also has the same family\nname as you \nand he had a fixed-term Deposit worth of $4.7 Million with\nour Bank before his death.\nContact me through this email address;\nEmail; \nupsdeliverycompany@gmx.com\nName; Lynne Scott\nGiven to your nationality with our late Customer Michael.\n I know you\nmay not actually be in any way related to him but for you sharing the\nsame name with him will make it easy to get the funds to your name \nand\nboth of us will divide the funds 50% 50% once the money is transferred\ninto your account.\nI look forward to your immediate response.\nKind Regards,\nLynne Scott"
+    },
+    {
+        "from": "baiter_1530",
+        "to": "scammer_1530",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: I know that you will be surpri",
+        "body": "Hello Lynne Scott,\n\nThank you for reaching out to me. I must admit, receiving this email has indeed surprised me. I'm sorry to hear about the loss of your bank customer. However, I must clarify that I am not related to him in any way, despite sharing the same family name.\n\nCould you please provide more details about this situation? How did you come across my name? And what exactly is required from me in order to assist with the funds?\n\nI appreciate your prompt response.\n\nBest wishes,\nEdward"
+    }
+]

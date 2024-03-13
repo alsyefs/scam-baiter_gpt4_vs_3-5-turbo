@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2705",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "ATTENTION: President/CEO.",
+        "body": "ATTENTION: President/CEO.\nI write to make this urgent business proposal to you. I was assigned by two of my Clients to seek a reliable partner who will assist in providing a convenient account in any designated bank for the transfer of US$35,500,000.00.\nThis amount came about as a result of deliberate inflation of Contract Value awarded by their Department - The Department of Agriculture (USDA) to an expatriate Company (precisely Deere machinery USA Inc for supply of Agricultural Tractors/ Machinery).\nThe contract was concluded and payment made to them, remaining the over-invoiced amount of US$35.5 million, which my clients want to transfer now in your favor for disbursement among ourselves. The transfer of this money can only be possible with the help of a trusted Partner who will be presented as the beneficiary of the fund.\nAs government officials, my clients are not allowed to operate foreign accounts, hence the need to contact you. It has been agreed that 35% of the total sum will be for you for providing the account while 5% will be set aside for the expenses incurred during the cost of transfer of the fund into your account, while 60% will be reserved for us.\nHowever, we hereby solicit for your assistance in providing a convenient account where this fund would be transferred. For security reasons, we demand that you keep this proposal and the entire transaction confidential and to yourself alone.\nBe rest assured that \nthis transaction is 100% risk free\n and I am on standby to give more details as you may require.\nLooking forward to hearing from you.\nRegards,\nAttorney Felix Appelbe\nAmbrose Appelbe & Solicitors.\nWhat app number: +44 7389094183."
+    },
+    {
+        "from": "baiter_2705",
+        "to": "scammer_2705",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: ATTENTION: President/CEO.",
+        "body": "Hello Attorney Felix Appelbe,\n\nThank you for reaching out to me with this urgent business proposal. I appreciate the opportunity to assist you. I understand that your clients are seeking a reliable partner to provide a convenient account for the transfer of a significant amount of money.\n\nCould you please provide more details about the contract awarded by the Department of USDA to Deere Machinery USA Inc? I would like to have a better understanding of the background and context of this transaction.\n\nAdditionally, could you clarify how my involvement as a trusted partner would be required? What specific role would I play in facilitating the transfer of funds?\n\nI also want to ensure that all necessary legal and security measures are taken into consideration. Can you elaborate on any safeguards or procedures that will be in place to protect both parties involved in this transaction?\n\nThank you for assuring me that this is a risk-free opportunity. However, before proceeding further, I would appreciate it if you could provide more information and address these concerns.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJuan"
+    }
+]

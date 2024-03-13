@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1934",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Your Email address was selecte",
+        "body": "Your Email address was selected \nin the Microsoft Lottery Draw with the sum of US2,000,000.00 dollars. also a bonus prize of kitchen Aid mixer, a 2022 Ford SUV, and 5,000 dollars weekly for the rest of your life.\nKindly send your Full Name, Address and Phone Number for claims \nto this Phone number to this email Email: \nofficecompleted@proton.me\nYour Sincerely.\nMrs. Mary Clark\nHead Of Operations"
+    },
+    {
+        "from": "baiter_1934",
+        "to": "scammer_1934",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Your Email address was selecte",
+        "body": "Hello Mrs. Mary Clark,\n\nThank you for reaching out to me. I must say, I'm quite surprised to receive this email. Can you please provide me with more information about the Microsoft Lottery Draw? How did my email address get selected? And what are the steps involved in claiming the prize?\n\nLooking forward to your response.\n\nBest wishes,\nRobert"
+    }
+]

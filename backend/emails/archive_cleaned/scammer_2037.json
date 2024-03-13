@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2037",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "This office is responsible for",
+        "body": "This office is responsible for the sole purpose of resolving Unclaimed\nand Lost Money owned to companies and individuals which have been\ndelayed due to  carelessness in the apex  Bank and poor Government\npolicies  .\nHowever ,In accordance with the licensing and supervision of banking\ndirective, \na specified file registered in your favor under your email\naccount has been certified and approved by the federal authorities for\nthe Financial Services Compensation scheme 1.2 Million usd  .\nYou are advice to  Kindle provide us with your complete\nLegal name................\nDirect telephone ...............................\nand Postal address..................... to enable us process the\nrelease of the funds for cash withdrawal  at your local Bank in your\narea .\nEnabling You First\nMr. Osborne Michel.\nDebt Reconciliation Commission\nCable Add:  NY 10017 USA.\nosbornemichel438@gmail.com"
+    },
+    {
+        "from": "baiter_2037",
+        "to": "scammer_2037",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: This office is responsible for",
+        "body": "Hello Mr. Osborne Michel,\n\nThank you for reaching out and providing this information. It's quite interesting to hear about the Unclaimed and Lost Money owned to companies. I'm curious, how does this process usually work? And what kind of issues have been caused by poor Government policies?\n\nI'm also intrigued by the Financial Services scheme Million usd you mentioned. Could you please elaborate more on that? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAsha"
+    }
+]

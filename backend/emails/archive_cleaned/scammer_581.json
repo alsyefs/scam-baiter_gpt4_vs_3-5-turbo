@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_581",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   International Monetary Fund",
+        "body": "   International Monetary Fund (IMF)\n                                            Hon. Justice Mohammed Bello St.\n                                            Asokoro Abuja,\n                                            NIGERIA.\nGood day,\n   I wish to inform you that your overdue payment worth of $5.8 Million USD\nhas be scheduled to pay\nyou through certified ATM Card which you will be only required to\nproceed to any ATM Cash\nPoint to withdraw $5,000, 2-times per day till your fund is completed.\n   Meanwhile, the valid ATM CARD was registered with DHL Courier\nCompany as a packaged.\nAll you need to do now is to contact them with the attached form\nclearance permit on their\ninformation below with your delivery address for the immediate\ndelivery to your giving address\nwithout any delay.\nManager Name: MR Vincent Eze\nE-mail: \ndhl_cservice1@yahoo.com\nPhone/Fax: (+234) 91 640 32715\nThanks\nMrs.Kristalina Georgieva\nIMF Managing Director,\nNigeria.   "
+    },
+    {
+        "from": "baiter_581",
+        "to": "scammer_581",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    International Monetary Fund",
+        "body": "Hello,\n\nThank you for reaching out to me with this information. I appreciate your efforts in informing me about my overdue payment. Could you please provide me with more details about the certified ATM card? How does it work exactly?\n\nBest wishes,\nCherry"
+    }
+]

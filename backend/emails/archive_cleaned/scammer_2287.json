@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2287",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "YOUR CONSIGNMENT HAS BEEN SUCC",
+        "body": "YOUR CONSIGNMENT HAS BEEN SUCCESSFULLY SENT TO JOHN F KENNEDY INTERNATIONAL\nAIRPORT. FOR MORE INFORMATION CONTACT MR. SANA WITH THE INFORMATION\nBELOW.\ncall +17712080351 or kindly send your reply to \nSanaparez2@outlook.com"
+    },
+    {
+        "from": "baiter_2287",
+        "to": "scammer_2287",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: YOUR CONSIGNMENT HAS BEEN SUCC",
+        "body": "Hello there,\n\nThank you for your message. I'm really excited to hear that my package has been sent to John Kennedy Airport! Could you please provide me with more details about this? Like, what is the estimated time of arrival? And how can I track it?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJulie"
+    },
+    {
+        "from": "scammer_2287",
+        "to": "baiter_2287",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: YOUR CONSIGNMENT HAS BEEN SUCC",
+        "body": "Reconfirm your information as such\r\n\r\nReceiver's Name\r\nAddress:\r\nCountry:\r\nTelephone Number:\r\n\r\nSent from Outlook for iOS<https://aka.ms/o0ukef>"
+    },
+    {
+        "from": "baiter_2287",
+        "to": "scammer_2287",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0005439814814814814,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: YOUR CONSIGNMENT HAS BEEN SUCC",
+        "body": "Hello there,\n\nI hope this message finds you well. I'm reaching out to share some information that I believe might be of interest to you. However, before we proceed, could you please confirm if this is the correct email address to reach you at?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJulie"
+    }
+]

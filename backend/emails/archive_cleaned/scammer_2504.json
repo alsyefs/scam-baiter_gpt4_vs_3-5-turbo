@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2504",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good-day ",
+        "body": "Good-day \n  Good day, sorry to disturb you at this moment but it will be of great help to you as soon as you go through this message of benefit, I am the United Nations Regional Head for Refugees, am passing this information to you that the United nations  is looking for God fearing person who can be the Ambassador /Emissary  to the world refugees, the meeting was held  some few days ago in the united nation headquarters and it happen that  your name has been nominated to be the Ambassador/Emissary  for the world Refugees. \nAll you have to do now is to forward the following details to us immediately:\nFull Name:\nHome/Office Address/Postal Address:\nMobile/Office/Home Telephone Number:\nPhoto-copy of Identification:\nWith all the above following details/minutiae will be pass to the United Nation Head Office in United State of America and Geneva Switzerland, so that United Nation Head Office in both ends can put  your name in the registration book for this appointment and send you an Official letter regarding this appointment: \n The  United Nations Regional Head world-wide  hereby wait to hear from you as  soon as possible.\nYours Faithfully\nDr ibrahim Hassan\nUnited Nation Organization\nRegional Head for humanitarian Affairs"
+    },
+    {
+        "from": "baiter_2504",
+        "to": "scammer_2504",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Good-day ",
+        "body": "Hello Dr. Ibrahim Hassan,\n\nThank you for reaching out to me with this opportunity. I must say, it sounds quite interesting. Can you please provide me with more details about the role of the Ambassador Emissary for the world refugees? What would be expected of me in this position?\n\nI appreciate your time and look forward to hearing from you soon.\n\nBest wishes,\nPatsy"
+    }
+]

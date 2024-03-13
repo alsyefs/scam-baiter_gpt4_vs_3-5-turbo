@@ -1,0 +1,52 @@
+[
+    {
+        "from": "scammer_1574",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "CAN I TRUST YOU Receiving this",
+        "body": "CAN I TRUST YOU Receiving this message might sound as a surprise to you, please do accept it as a blessing from God made possible through a man with a good and sincere heart towards the poor orphans. I am Mr.Maxwell Tobo, a great citizen of the LONDON UK , I bring to you a proposal which I want you to assist me with. It is painful now to let you know that I have been suffering from a Coronary artery disease for the past 12 years and just few weeks ago my Doctors notified me that I won't get past another 5 months. I want you to help me distribute some funds I kept aside for charity purposes, to Charity Homes and the poor in your state Please kindly reply to this email if you are willing to help me carry out this task and i'd feed you with more details, You'd be compensated for carrying out this mission. Thanks, i hope to read from you soon. Sincerely, Mr.maxwell  tobo"
+    },
+    {
+        "from": "baiter_1574",
+        "to": "scammer_1574",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: CAN I TRUST YOU Receiving this",
+        "body": "Hello Tobo, thank you for reaching out to me with this opportunity. I am interested in learning more about how I can assist you with distributing funds to charity homes and the poor. Could you please provide me with more details on how we can proceed with this task? I look forward to hearing from you soon.\n\nBest wishes,\nMildred"
+    },
+    {
+        "from": "scammer_1574",
+        "to": "baiter_1574",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: CAN I TRUST YOU Receiving this",
+        "body": "Before we can collectively achieve this together, You are required to send\r\nto me the following information, First name.................... Middle\r\nname................ Last name...................\r\nAddress........................ Age..............................\r\nCity............................ State........................ Zip/Postal\r\ncode........... Nationality................... Home\r\nphone................... Cell phone................... Why this information\r\nis needed is to enable us to secure the change of beneficiary name in favor\r\nof you in the security firm. The affidavit of change of ownership will be\r\nsubmitted to the Bank and once the change is successfully made, you become\r\na full beneficiary to the claim of the fund. on attached"
+    },
+    {
+        "from": "baiter_1574",
+        "to": "scammer_1574",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.017002314814814814,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: CAN I TRUST YOU Receiving this",
+        "body": "Hello! Thank you for sharing this information with me. Can you please provide more details about the security firm and the fund in question? I'm interested to learn more about how this process works.\n\nBest wishes,\nMildred"
+    },
+    {
+        "from": "baiter_1574",
+        "to": "scammer_1574",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03737268518518518,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: CAN I TRUST YOU Receiving this",
+        "body": "Hello! Thank you for sharing this information with me. Could you please provide more details about the security firm and the fund in question? I'm interested to learn more about how this process works.\n\nBest wishes,\nMildred"
+    }
+]

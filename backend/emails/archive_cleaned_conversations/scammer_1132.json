@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1132",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   T.C. Ziraat Bank,Bankası A.",
+        "body": "   T.C. Ziraat Bank,Bankası A.Ş., \nSehit Muhtar Mh, Istiklal Cd. No:26, 34435 Beyoglu/Istanbul, Turkey.\nEmail: \ninfo@ziraatibanksi.com\n, \nEmail: \ncustomer.care@ziraatibanksi.com\nAttn: \n \nOnce Again, I am writing to inform you that your fund  is ready for wire transfer, as approved by the ministry of finance. this time however,I wish to confirm from you if Mr.Carlos E. Aviles  who is in our office for the same reason, has your mandate to receive your funds on your behalf as he stated that you are ill and hospitalized, Mr.Carlos E. Aviles  is from  Ohio, U.S.A. \nBecause this office will not be liable to any wrong payment, kindly note that upon your confirmation of his mandate and authorization, we shall have no other option than to pay the funds into the following bank account detail, as submitted by Mr.Carlos E. Aviles :\nBank Name: Huntington Bank\nAddress: 41 South High Street, Columbus Ohio 43287 USA\nSwift #:HUNTUS33     \nRouting #:044-00002-4     \nAccount number: 04897258511 \nAccount Name: CARLOS E. AVILES .\nHe even enclosed a copy of his passport which I attached to you for Identification purposes.\nYours In Service,\nMr.Lucas Donald.  "
+    },
+    {
+        "from": "baiter_1132",
+        "to": "scammer_1132",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    T.C. Ziraat Bank,Bankası A.",
+        "body": "Hello Donald,\n\nThank you for reaching out to me. I appreciate the update regarding my fund and the wire transfer. However, I must clarify that I do not know anyone by the name of E. Aviles from Ohio. It seems there might be some confusion or misunderstanding.\n\nCould you please provide more information about E. Aviles and why he claims to have my mandate to receive the funds on my behalf? How did he come to know about my situation? Also, could you explain why he mentioned that I am ill?\n\nI want to ensure that everything is in order before proceeding with any transactions. Your assistance in clarifying these matters would be greatly appreciated.\n\nBest wishes,\nMary"
+    },
+    {
+        "from": "scammer_1132",
+        "to": "baiter_1132",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "From Donald",
+        "body": "T.C. Ziraat Bank,Bankası A.Ş., (https://mail.zoho.eu/zm/#) \nSehit Muhtar Mh, Istiklal Cd. No:26, 34435 Beyoglu/Istanbul, Turkey Email: info@ziraatibanksi.com, (mailto:info@ziraatibanksi.com) Email: customer.care@ (mailto:customer.care@ziraatbk.org) ziraatibanksi.com \nAttn::Mary   , I hereby re-attach to you the so called Carlose E. Aviles who claimed, you are being hospitalized for your own perusal. Thank you for the information as we have an appointment with the so-called CARLOS E. AVILES . Later today  we will hand him over to the police so that he will be charged to court  for Impersonation and fraud. To enable you to receive your  $5.5M  . You hereby advised to send to us your receiving bank details as below: Your bank name and address: Your bank swift Code: Your  Account Number: If any bank routing Number: Account Name : Address: Tel: A copy of your ID: We assure you of our professional assistance always, you should please follow all instructions furnished to you by us, and also your swift response to our emails will be greatly appreciated. Yours In Service, \nDonald"
+    },
+    {
+        "from": "baiter_1132",
+        "to": "scammer_1132",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.001574074074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: From Donald",
+        "body": "Hello Donald,\n\nThank you for reaching out to me. How can I assist you today?\n\nBest wishes,\nMary"
+    }
+]

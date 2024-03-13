@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1048",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "RBC) ROYAL BANK OF CANADA.",
+        "body": "RBC) ROYAL BANK OF CANADA.\n1122 International Blvd. Burlington,\nOntario L7L 6Z8 Canada.\nEmail: \ni08085995@gmail.com\nBANK OF CANADA  CORPORATION\nRef.: Final Payment Release Update.\nAmount Valued: US$15, 500, 000.00.\nWe are obliged to inform you that we are still waiting for your compliance in sending the required $950 insurance/dispatching fee of the original copy of your ATM CARD.\nBe informed that we were supposed to submit our payment report file to the authorities today, but considering the fact that you have not completed the obligation for receiving your card containing your funds, \nKindly pay the sum of $50 now and pay the balance as of $900 soon as we deliver the ATM CARD to you.\nAnd note that once the report file is submitted, every outstanding payment would be cancelled and be redirected to the Canada Government Treasury account as unclaimed money.\nSo we advised that you should hasten up with your arrangements in sending the required fee, to enable you to receive your card before the expiration of the mandate given to us by the authorities, thus, the insurance and delivery fee is the only obligation hindering the completion of this transaction now.\nThe required fee should be wired to Royal Bank of Canada cash receiving agent\nAmount $950 us dollars\nAnticipating your immediate compliance to these instructions to enable this bank proceeds with the transaction of your approved fund and serve you better as we were directed by the Canadian Government. Thank you for choosing Royal Bank Of Canada.\nYours Faithfully,\nDavid I Mckay\nThe President and CEO.\nHead Office Location Address: 200 Bay Street, Bank Plaza,\nToronto, ON, C, M5J 2J5."
+    },
+    {
+        "from": "baiter_1048",
+        "to": "scammer_1048",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: RBC) ROYAL BANK OF CANADA.",
+        "body": "Hello David Mckay,\n\nThank you for reaching out to me. I appreciate your patience and understanding in this matter. I understand that there is a fee required for the insurance of my ATM card.\n\nHowever, could you please provide more details about this process? For instance, why is there an insurance fee for an ATM card? Also, could you explain what happens if the payment report file is submitted before I complete my obligation?\n\nI'm also curious about the redirection of payments to the Canada Government Treasury account as unclaimed money. Could you elaborate on how that works?\n\nLastly, could you clarify what you mean by \"the expiration of the mandate given to us by the\"?\n\nI look forward to your response.\n\nBest wishes,\nCraig"
+    }
+]

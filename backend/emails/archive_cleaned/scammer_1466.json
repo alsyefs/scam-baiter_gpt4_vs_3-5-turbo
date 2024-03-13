@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1466",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Do you need financial assistan",
+        "body": "Do you need financial assistance for any type of business or do you have any personal need then contact us  for more information."
+    },
+    {
+        "from": "baiter_1466",
+        "to": "scammer_1466",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Do you need financial assistan",
+        "body": "Hello there! \n\nThank you for reaching out. I'm always interested in learning more about opportunities. Could you please provide me with some more details? What kind of financial assistance are we talking about here? And what are the terms and conditions associated with it?\n\nBest wishes,\nHugo"
+    },
+    {
+        "from": "scammer_1466",
+        "to": "baiter_1466",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Loan Application Form",
+        "body": "Hello,\r\n\r\n   I am Zofia Kaczyńska. One of the registered and approved loan lenders in\r\nTurkey. We can offer you the loan at a low rate of 3% and if you are\r\nwilling to get a loan from this firm, you are 100% guaranteed of getting\r\nthe required loan amount you requested for okay. So  you feel free and get\r\nback to us with the loan application form so that we can proceed further\r\nokay.\r\n\r\nLoan Application Form:\r\n\r\nFull Names:...................\r\nCountry:.......................\r\nState:........................\r\nSex:............................\r\nAge:......................\r\nOccupation:.................\r\nMonthly income:......................\r\nPhone Number:....................\r\nLoan Amount Needed:.................\r\nLoan Duration (yrs):........................\r\n\r\nThanks.\r\nZofia Kaczyńska."
+    },
+    {
+        "from": "baiter_1466",
+        "to": "scammer_1466",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.04083333333333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Loan Application Form",
+        "body": "Hello Zofia Kaczyńska,\n\nThank you for reaching out to me. I'm intrigued by your offer and would like to know more about it. Could you please provide more details about the loan terms? What is the interest rate and are there any additional fees involved?\n\nAlso, could you explain the process of applying for this loan? Is there a specific form that needs to be filled out? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nHugo"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_854",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "I have registered your inherit",
+        "body": "I have registered your inheritance fund $3.5 Million ATM MASTER CARD with COURIER COMPANY this\nmorning and we agreed up that the delivery of your ATM Card will take off by tomorrow morning\nonce they hear from you, So\n do reconfirm your delivery address\n to Director Liberal Finance with\nhis below contact address:\nContact Person: Liberal Finance\nEmail: \nfinanceliberal7@gmail.com\nPhone: +229-59876299\n1. Your Full Name:2. Your Address:3. Your Age:4. Your Occupation:5.Your Telephone Numbers:6.\nAttach Scan Copies Of Your ID\nfor Proof or Recent Photo Size Picture\nSo do contact him urgently because I will not be at office till March 20th 2024. the amount in\nyour Card is $3.5 Million usd and\nyour ATM MASTER CARD Pin code is: (2046) Okay.\nThanks\nMrs.Therese Sandoval."
+    },
+    {
+        "from": "baiter_854",
+        "to": "scammer_854",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: I have registered your inherit",
+        "body": "Hello Sandoval,\n\nThank you for your message. It's quite exciting to hear about the ATM Master Card. I'm curious, how does this process work? And could you tell me more about the Courier Company that will be handling the delivery?\n\nI'm also interested in knowing more about Liberal Finance. What kind of services do they offer? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRandell"
+    }
+]

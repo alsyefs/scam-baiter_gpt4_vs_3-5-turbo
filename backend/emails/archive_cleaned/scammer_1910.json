@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1910",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention: Beneficiary.",
+        "body": "  Attention: Beneficiary.\nThis Message is to inform you that your payment file has returned to our office this morning, and they returned your payment file in our office for us to start sending your funds to you through Western Union\nso that you will receive $5000 twice daily until the total amount scheduled in our office is completely sent to you.\nNoticed for past years what made you not receive your funds from our office is due to the Bank having not approved your funds and also you don't have an international transfer permit certificate(I.T.P.C) which\nwill help you in receiving your payment from any Western Union money transfer in your Area.\nNote that the only fee you are going to pay is $75 for the international transfer permit certificate(I.T.P.C) Here are your transaction details again:\n \nMoney Transfer Reference number:# 092-494-0743\nSenders Name:James  Willie\nAmount Sent:$5000\nYou can track your MTCN through this link\nhttps:/ /www.westernunion.com/ca/en/web/global-service/track-transfer\nWestern Union\nWestern Union\nwww.westernunion.com\nWestern Union money transfer tracking numbers are available in progress\nand you will pay the $75 today to enable you to pick up your first transaction.\nPLEASE YOU ARE REQUIRED TO RECONFIRM THIS INFORMATION BELOW.\nI will be looking up to your email response\nPlease if you are still willing to receive all your money, please we beg you in the name of God to avoid you blaming us here, and I'm here to give you 100%Assurance that once you send the $75.00 give me(25 minutes ) ahead receive your money today, and don't forget that the total amount of your fund is 10.5 million USD And don't forget to buy any of the listed Card iTunes Card. $75 Or Steam Wallet card and attach the copy if you cannot be able to attach just send us only the card PIN, OK?\nMr. Michael Williams\nE-mail: \nwesternunin_transfer@outlook.com\nTel: +256 76 319 90466\nRemittance Dept. Western Union Uganda Constituency.\nWestern Union money transfer.     "
+    },
+    {
+        "from": "baiter_1910",
+        "to": "scammer_1910",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention: Beneficiary.",
+        "body": "Hello Mr. Michael Williams,\n\nThank you for reaching out to me regarding my payment file. I appreciate the update and your assistance in sending the funds through Western Union. However, I have a few questions before proceeding.\n\nFirstly, could you please provide more information about the transfer permit? What exactly is it for and why is it necessary for receiving the payment? Additionally, what is the fee associated with obtaining this permit?\n\nSecondly, you mentioned that I can track my MTCN (Money Transfer Control Number) through a link provided. Could you please share that link with me so that I can keep track of my funds?\n\nLastly, you mentioned buying a Card Card or Steam Wallet card. Could you explain further how these cards are related to receiving the payment? What purpose do they serve?\n\nI look forward to your response and appreciate your assistance in clarifying these details.\n\nBest wishes,\nJames"
+    }
+]

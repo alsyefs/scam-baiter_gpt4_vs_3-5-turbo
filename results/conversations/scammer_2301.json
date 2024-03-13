@@ -1,0 +1,192 @@
+[
+    {
+        "from": "scammer_2301",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "I am Mr. Adolph Scholze, The U",
+        "body": "I am Mr. Adolph Scholze, The USP Store Manager,\n i am currently at San Francisco International Airport with your Parcel, get back to me asap with ur delivery info for the Custom Clearance to enable me complete the delivery\n. contact me via this email \nscholzeadolph@gmail.com"
+    },
+    {
+        "from": "baiter_2301",
+        "to": "scammer_2301",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: I am Mr. Adolph Scholze, The U",
+        "body": "Hello Mr. Adolph Scholze,\n\nThank you for reaching out to me. I hope you're having a good day. I received your message about the parcel at the San Francisco Airport. Could you please provide me with more information about the delivery? What kind of parcel is it and what are the next steps for the custom clearance?\n\nI appreciate your assistance in completing the delivery process. Looking forward to hearing from you soon.\n\nBest wishes,\nDaryl"
+    },
+    {
+        "from": "scammer_2301",
+        "to": "baiter_2301",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: I am Mr. Adolph Scholze, The U",
+        "body": "How are you doing today and how about your family ?, I hope everybody is in\r\ngood health .\r\n\r\nIt's been couple of weeks now you have been ignoring my emails , which is a\r\nvery bad behavior , I'm letting you know that your the lady has sued you\r\nagain for impersonation as the owner of the funds , she claimed that her\r\nlate husband is the real owner and person in place of receiving the funds .\r\n\r\nAt this edge , the Court became confuse about the whole thing , I want to\r\nofficially inform you that your your Funds will be release the this lady if\r\nyou do not prove yourself as the owner of the funds by complying with the\r\nneedful fee as a serious person as the owner .\r\n\r\nYour failure to respond will be the cause of the release of the funds to\r\nthe opponent.\r\n\r\nThank you"
+    },
+    {
+        "from": "scammer_2301",
+        "to": "baiter_2301",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: I am Mr. Adolph Scholze, The U",
+        "body": "How are you doing today and how about your family ?, I hope everybody is in\r\ngood health .\r\n\r\nIt's been couple of weeks now you have been ignoring my emails , which is a\r\nvery bad behavior , I'm letting you know that your the lady has sued you\r\nagain for impersonation as the owner of the funds , she claimed that her\r\nlate husband is the real owner and person in place of receiving the funds .\r\n\r\nAt this edge , the Court became confuse about the whole thing , I want to\r\nofficially inform you that your your Funds will be release the this lady if\r\nyou do not prove yourself as the owner of the funds by complying with the\r\nneedful fee as a serious person as the owner .\r\n\r\nYour failure to respond will be the cause of the release of the funds to\r\nthe opponent.\r\n\r\nThank you"
+    },
+    {
+        "from": "baiter_2301",
+        "to": "scammer_2301",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.020150462962962964,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: I am Mr. Adolph Scholze, The U",
+        "body": "Hello! I hope you and your family are doing well. Thank you for sharing this information with me. Can you provide more details about the situation? What exactly is required to prove ownership of the funds?\n\nBest wishes,\nDaryl"
+    },
+    {
+        "from": "baiter_2301",
+        "to": "scammer_2301",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.020474537037037038,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: I am Mr. Adolph Scholze, The U",
+        "body": "Hello! I hope you and your family are doing well. Thank you for sharing this information with me. Can you provide more details about the situation? What exactly is required to prove ownership of the funds?\n\nBest wishes,\nDaryl"
+    },
+    {
+        "from": "baiter_2301",
+        "to": "scammer_2301",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.021215277777777777,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: I am Mr. Adolph Scholze, The U",
+        "body": "Hello! I hope you and your family are doing well. I appreciate you reaching out to me with this information. Can you please provide more details about the situation and what steps I need to take to prove my ownership of the funds?\n\nBest wishes,\nDaryl"
+    },
+    {
+        "from": "scammer_2301",
+        "to": "baiter_2301",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.025729166666666668,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: I am Mr. Adolph Scholze, The U",
+        "body": "I acknowledge the receipt of your mail and the content is well understood.\r\n\r\nAs the owner of the funds , you were told to conduct the needed clearance\r\nto enable you receive your ATM Card but you ignored it.\r\n\r\nWith that act you have shown several times , the Court is willing to\r\nrelease the Atm card to the plaintiff .\r\n\r\nMy advise to goes this way if you want to receive what is rightfully yours\r\n, kindly make the clearance fee of 75.00 available otherwise the court will\r\nconsider you as the wrong person and accept the clearance fee from the\r\nplaintiff attorney and release the Atm card to her as the law stated .\r\n\r\nGet back to me asap .\r\n\r\nThank you"
+    },
+    {
+        "from": "baiter_2301",
+        "to": "scammer_2301",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3121759259259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: I am Mr. Adolph Scholze, The U",
+        "body": "Thank you for reaching out. I appreciate the information you provided about the needed clearance for receiving the ATM card. Can you please provide more details about the clearance process and how to proceed with making the payment? I want to ensure that everything is done correctly.\n\nBest wishes,\nDaryl"
+    },
+    {
+        "from": "scammer_2301",
+        "to": "baiter_2301",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.5574537037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: I am Mr. Adolph Scholze, The U",
+        "body": "I acknowledge the receipt of your mail and the content is well understood.\r\n\r\nTo proceed with your request , you will need to cover the required fee\r\narticulated on our first notification mail , that is the reason you still\r\nhaven't receive your ATM Card yet .\r\n\r\nSo Kindly get back to me asap to know your arrangement regarding the fee\r\nbecause with the multiple turn down the court has decided to release the\r\nfund to your opponent who claim that her late husband is the rightful owner\r\nof the funds and she's willing to incure the charges for the release of the\r\nAtm card to their family .\r\n\r\nYour urgent response will be appreciated to enable you get the information\r\nyou need for making the payment today otherwise you ,you won't have the\r\nopportunity to receive the Atm card in the next 24hours hour .\r\n\r\nThank you ."
+    },
+    {
+        "from": "baiter_2301",
+        "to": "scammer_2301",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.5625231481481482,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: I am Mr. Adolph Scholze, The U",
+        "body": "Hello! Thank you for your message. I appreciate the update regarding my ATM card. Could you please provide more details about the required fee and how it needs to be paid? I want to ensure that everything is in order so that I can receive my card as soon as possible. Looking forward to your response.\n\nBest wishes,\nDaryl"
+    },
+    {
+        "from": "scammer_2301",
+        "to": "baiter_2301",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.5728009259259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: I am Mr. Adolph Scholze, The U",
+        "body": "I acknowledge the receipt of your mail and the content within.\r\n\r\nYou can Remit the fee Using Bitcoin or you can remit it through wester\r\nunion transfer to our department.\r\n\r\nThe fee is the only thing delaying the delivery delivery to take place , so\r\nlet me know how you would like to remit the fee via Bitcoin or western\r\nunion transfer.\r\n\r\nThank you"
+    },
+    {
+        "from": "baiter_2301",
+        "to": "scammer_2301",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6034027777777777,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: I am Mr. Adolph Scholze, The U",
+        "body": "Hello! Thank you for reaching out. I appreciate the information about the fee for the delivery. Could you please provide more details on how to proceed with the payment through Bitcoin or Western Union transfer? I want to ensure a smooth process for the delivery.\n\nBest wishes,\nDaryl"
+    },
+    {
+        "from": "baiter_2301",
+        "to": "scammer_2301",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.604363425925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: I am Mr. Adolph Scholze, The U",
+        "body": "Thank you for your message. I appreciate the information you have shared regarding the required fee for processing my ATM card. Could you please provide more details about the fee and how it needs to be paid? I want to ensure that everything is in order so that I can receive my card as soon as possible.\n\nBest wishes,\nDaryl"
+    },
+    {
+        "from": "baiter_2301",
+        "to": "scammer_2301",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6055439814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: I am Mr. Adolph Scholze, The U",
+        "body": "Hello! Thank you for your message. I appreciate the information you've shared about the ATM card. Could you please provide more details about the required fee and how it needs to be paid? I want to make sure everything is clear before proceeding.\n\nBest wishes,\nDaryl"
+    },
+    {
+        "from": "baiter_2301",
+        "to": "scammer_2301",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6455671296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: I am Mr. Adolph Scholze, The U",
+        "body": "Thank you for your message. I appreciate the information you have shared regarding the required fee for the release of the ATM card. Could you please provide more details about the fee and how it can be paid? I want to ensure that everything is in order before proceeding further.\n\nBest wishes,\nDaryl"
+    },
+    {
+        "from": "scammer_2301",
+        "to": "baiter_2301",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6493981481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: I am Mr. Adolph Scholze, The U",
+        "body": "I acknowledge the receipt of your mail and the content is well understood.\r\n\r\nBelow is the Bitcoin Wallet address where to remit the fee .\r\n\r\nYou will need to remit it through your Bitcoin account or go to the nearest\r\nWal-Mart or target store , all you need is to present the below wallet\r\naddress to the cashier with the amount you want to send , therefore they\r\nwill make the payment and give you a transfer receipt .\r\n\r\nBelow is the wallet address.\r\n\r\n38zRe7i4CbSpfVfcsohnTmDWzAPvCGWcWr\r\n\r\nAmount 75.00 usd .\r\n\r\nI will be waiting for your response asap with copy of Bitcoin transfer\r\nreceipt .\r\n\r\nThank you"
+    },
+    {
+        "from": "baiter_2301",
+        "to": "scammer_2301",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6867824074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: I am Mr. Adolph Scholze, The U",
+        "body": "Hello! Thank you for sharing the Bitcoin Wallet address for the fee payment. Could you provide more details about what the fee is for and why it needs to be paid through Bitcoin specifically? I want to make sure I understand everything clearly before proceeding.\n\nBest wishes,\nDaryl"
+    },
+    {
+        "from": "baiter_2301",
+        "to": "scammer_2301",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6869791666666667,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re: I am Mr. Adolph Scholze, The U",
+        "body": "Thank you for your message. I appreciate the update regarding the ATM card. Could you please provide more details about the required fee and how it needs to be paid? I want to ensure that everything is in order before proceeding.\n\nBest wishes,\nDaryl"
+    }
+]

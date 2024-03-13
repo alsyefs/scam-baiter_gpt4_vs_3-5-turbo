@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1337",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Greetings To You,",
+        "body": "  Greetings To You,\nMy name Joseph is Mr.Anthony Miller,Director AMS Consultant Services.I am contacting you in confidence to find out if you willingly decided to abandon an approved transfer of USD 5.5Million at HSBC New York because of a US$2,400 fee payable to the accredited broker of the bank who is to provide and sign the legal documents that will facilitate the transfer of your funds to your bank account.I need to hear your side of the story to see if I can direct you to Mr.Wyatt E.Crowell (Senior Executive Vice President,Head of Commercial Banking)HSBC New York before the approvals given is withdrawn.\nBest regards,\nJoseph Anthony Miller.\nEmail: \njosephanthonymiller602@gmail.com\n "
+    },
+    {
+        "from": "baiter_1337",
+        "to": "scammer_1337",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Greetings To You,",
+        "body": "Hello Joseph,\n\nThank you for reaching out to me. I must admit, your message has piqued my curiosity. Could you please provide me with more details about this approved transfer of USD at HSBC New York? I want to understand the situation better before deciding how to proceed.\n\nLooking forward to hearing from you.\n\nBest wishes,\nDebra"
+    }
+]

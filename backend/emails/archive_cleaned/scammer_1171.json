@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1171",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention ",
+        "body": "  Attention \n \n \nGo and send a check or money order to this address right now we will catch the money on our own okay.\n \n \n \n                                                       Receiver Name:\n                                                     E. C.\n                            ------------------------------------------\n \n                                                      Mailing Address:\n \n                                                      ozone park New York\n                                        11420,United States of America\n \n \nSend a copy of the check or money order you sent to this E-mail address immediately after you have sent the money.\n \n \nyour urgent response will be highly welcome.\n \nYours sincerely,\nMR.ROBERT SMITH\npayment director\nFor Supervisor Team    "
+    },
+    {
+        "from": "baiter_1171",
+        "to": "scammer_1171",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention ",
+        "body": "Hello SMITH,\n\nThank you for your message. I'm really interested in what you're saying, but could you please explain a bit more about why I need to send a check or money order? What is it for exactly? \n\nAlso, could you tell me more about your role as a payment director and the Supervisor Team? It sounds fascinating!\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMaryann"
+    }
+]

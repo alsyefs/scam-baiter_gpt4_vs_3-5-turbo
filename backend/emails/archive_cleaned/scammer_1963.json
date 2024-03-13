@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1963",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "2024/Compensation Amount of GB",
+        "body": "2024/Compensation Amount of GBP£450,000.00, \nFrom: HSBC Bank Plc London\n168 Churchill Place Street.\nLondon,\nUnited Kingdom.\nGood day; Sir/Madam,\nHave you received your payment? If really you have not received your payment. Please contact our processing Agent in South Africa for your payment, for immediate release of your payment;\nKindly reply through this Agent email for your payment: ( \nagent2200@yandex.com\n ).\nWe wait for your urgent response before the end of today.\nYours in service,\nMr. Michael Møller (Admin Sec)\nTel/Fax: +44 703 1814 858\nHSBC Bank Plc Funds Investigation Unit."
+    },
+    {
+        "from": "baiter_1963",
+        "to": "scammer_1963",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: 2024/Compensation Amount of GB",
+        "body": "Hello Mr. Michael,\n\nThank you for reaching out to me. I hope you're doing well. I must admit, your message has caught my attention. However, I have a few questions before proceeding further.\n\nFirstly, could you please provide me with more details about the payment you mentioned? What is the nature of this payment and why am I being contacted specifically?\n\nSecondly, who is the processing agent in South Africa that I should contact? Could you share their contact information so that I can get in touch with them directly?\n\nLastly, it would be helpful if you could explain why my payment needs to be released urgently. Is there a specific reason for this urgency?\n\nI appreciate your assistance and look forward to your prompt response.\n\nBest wishes,\nJacquelyn"
+    }
+]

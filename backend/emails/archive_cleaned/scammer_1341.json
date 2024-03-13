@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1341",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "YOUR FUND OF $2.500, 000.00 HA",
+        "body": "YOUR FUND OF $2.500, 000.00 HAS BEEN RELEASED AND THE TRANSFER BEGAN TODAY\nTHROUGH WESTERN UNION TRANSFER $5000.00 DAILY. SO CONTACT WESTERN\nUNION AGENT JOSEPH DANIEL, AND ASK HIM WHAT YOU NEED TO DO TO ENABLE\nTHEM ACTIVATE YOUR ACCOUNT FILE SO THAT YOU WILL BE ABLE TO PICK YOUR\nTRANSFER, EMAIL:( \njosephdaniell299@gmail.com\nYOUR RECEIVER NAME====\nYOUR COUNTRY========\nYOUR CITY========\nYOUR TELL========\nRegards\nDOREEN SIMON"
+    },
+    {
+        "from": "baiter_1341",
+        "to": "scammer_1341",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: YOUR FUND OF $2.500, 000.00 HA",
+        "body": "Hello Doreen Simon,\n\nWow, that's some exciting news! I can't believe my fund has been released. I'm really looking forward to getting in touch with Joseph Daniel at Western Union.\n\nCould you please tell me more about this process? Like, how did my fund get released and why is it being transferred through Western Union? Also, what does activating my account file mean?\n\nI'm sorry for all the questions. I just want to make sure I understand everything correctly.\n\nThank you so much for your help!\n\nBest wishes,\nMartin"
+    }
+]

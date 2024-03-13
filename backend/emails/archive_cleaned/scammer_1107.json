@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1107",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  You can send via money gram ",
+        "body": "  You can send via money gram to the receiver sent to you   "
+    },
+    {
+        "from": "baiter_1107",
+        "to": "scammer_1107",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   You can send via money gram ",
+        "body": "Hello! Thank you for reaching out to me. I appreciate your willingness to share information. Could you please provide me with more details about what you would like to share?\n\nBest wishes,\nDoris"
+    }
+]

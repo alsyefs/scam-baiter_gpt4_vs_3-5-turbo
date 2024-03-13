@@ -1,0 +1,52 @@
+[
+    {
+        "from": "scammer_1378",
+        "to": "baiter_1378",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "DEAR SANDRA, A FILLING FORM HAS BEEN SENT TO THROUGH ATTACHMENT)",
+        "body": "DEAR SANDRA. A FILLING FORM HAS BEEN SENT TO YOU THROUGH ATTACHMENT, PLEASE YOU ARE ADVISED TO FILL THE FORM AND RETURN IT BACK TO US TO ENABLE US PROCESS YOUR FUNDS IMMEDIATELY, PLEASE DO THE NEEDFUL. SINCERELY, CHARLES WILSON. DIRECTOR, INTERNATIONAL REMITTANCE DEPARTMENT, SANTANDER BANK. NEW YORK - USA TEL: 516 856 4323 EXT: 101 OFFICIAL EMAIL: charles.wilson@usasantanderbank.com (mailto:charles.wilson@usasantanderbank.com) WEBSITE: www.santanderbank.com (http://www.santanderbank.com/)"
+    },
+    {
+        "from": "baiter_1378",
+        "to": "scammer_1378",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: DEAR SANDRA, A FILLING FORM HAS BEEN SENT TO THROUGH ATTACHMENT)",
+        "body": "Hello Sandra,\n\nThank you for reaching out to me. I received the form you mentioned, but before I proceed, could you please provide me with some more information about the purpose of this form and why it needs to be filled? I want to make sure I understand everything correctly.\n\nAlso, could you clarify what funds you are referring to? It would be helpful to know more details about the process and how it will benefit me.\n\nLooking forward to your response.\n\nBest wishes,\nSandra"
+    },
+    {
+        "from": "scammer_1378",
+        "to": "baiter_1378",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.02347222222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "DEAR SANDRA, TWO FILLING FORM HAS BEEN SENT TO YOU THROUGH ATTACHMENT)",
+        "body": "DEAR SANDRA. TWO (2) FILLING FORM HAS BEEN SENT TO YOU THROUGH ATTACHMENT, PLEASE YOU ARE ADVISED TO FILL THE FORM AND RETURN IT BACK TO US TO ENABLE US PROCESS YOUR WINNING FUND ($850,000.00) IMMEDIATELY, PLEASE DO THE NEEDFUL. SINCERELY, CHARLES WILSON. DIRECTOR, INTERNATIONAL REMITTANCE DEPARTMENT, SANTANDER BANK. NEW YORK - USA TEL: 516 856 4323 EXT: 101 OFFICIAL EMAIL: charles.wilson@usasantanderbank.com (mailto:charles.wilson@usasantanderbank.com) PRIVATE EMAIL: jur9enstock@yandex.com"
+    },
+    {
+        "from": "baiter_1378",
+        "to": "scammer_1378",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.023842592592592592,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: DEAR SANDRA, TWO FILLING FORM HAS BEEN SENT TO YOU THROUGH ATTACHMENT)",
+        "body": "Hello Sandra,\n\nThank you for reaching out to me. I appreciate the information you have shared. Could you please provide me with more details about the forms that need to be filled? What is the purpose of these forms and what kind of information do you require from me?\n\nI want to make sure I understand everything correctly before proceeding. Looking forward to your response.\n\nBest wishes,\nSandra"
+    },
+    {
+        "from": "baiter_1378",
+        "to": "scammer_1378",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.023877314814814816,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: DEAR SANDRA, TWO FILLING FORM HAS BEEN SENT TO YOU THROUGH ATTACHMENT)",
+        "body": "Hello Sandra,\n\nThank you for reaching out to me. I appreciate the information you have shared. Could you please provide me with more details about the forms that need to be filled? What is the purpose of these forms and what kind of information do you require?\n\nI want to make sure I understand everything correctly before proceeding. Looking forward to your response.\n\nBest wishes,\nSandra"
+    }
+]

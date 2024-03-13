@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_45",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "The FBI agent New York have re",
+        "body": "The FBI agent New York have receive your mail today and this is the bank account information where you are going to pay the fees $350 to help you, below is the payment and get back to us with transfer slip.\nBANK NAME: GO2BANK. (NEW YORK)\nACCOUNT NAME: L. S.\nACCOUNT NUMBER: 1522688748xxxx\nROUTING NUMBER:  124303162\nThank you for your mail.\nMr Paul Abbate\nDeputy Director\nFBI AGENT NEW YORK USA"
+    },
+    {
+        "from": "baiter_45",
+        "to": "scammer_45",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: The FBI agent New York have re",
+        "body": "Hello Mr. Paul Abbate,\n\nThank you for reaching out to me. I appreciate your prompt response. I just want to make sure I understand correctly - you mentioned that the FBI agent in New York has received my mail today. Could you please provide more details about what mail you are referring to?\n\nAdditionally, you mentioned a bank account where I am supposed to pay fees to receive help. Could you please explain what these fees are for and why they are necessary? I want to make sure I have a clear understanding before proceeding.\n\nThank you once again for your assistance.\n\nBest wishes,\nValarie"
+    }
+]

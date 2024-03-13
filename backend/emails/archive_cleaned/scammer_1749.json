@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1749",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention",
+        "body": "  Attention\n          HSBC has agreed to repay stump up £4M to pay back customers\nsubjected to \"unreasonable\" debt collection  co-operation to front\nfor the immediate claim of this funds. You can  view the below\n  website:http:/ /www.independent.co.uk/news/business/news/hsbc-bank-repay-4-million-to-customers-unreasonable-ebt-collection-charges-fca-financial-conduct-a7538016.html\n        HSBC bank agrees to repay £4m to customers for .. HSBC has\nagreed  to  stump up £4m to pay back customers subjected to\n\"unreasonable\"  debt  collection practices following a regulatory\nprobe. The  Financial Conduct Authority said on Friday that the ...\n/www.independent.co.uk\n      Upon the receipt of the funds in your account you will be\nentitled  to  50% of the total sum and 50% for me. If your are\ninterested send  your    full names, telephone number, address and\nyour bank details  to    immediately do all the necessary paper work\nand Process of this  claim    and you would be paid within 12 working\n  days. Reply to \nmrmarksilbers5@gmail.com\n        Best regards,\n      Mr Mark Silber   "
+    },
+    {
+        "from": "baiter_1749",
+        "to": "scammer_1749",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention",
+        "body": "Hello there! Thank you for reaching out to me with this information. I'm interested in learning more about it. Could you please provide me with some additional details? What exactly is the claim for and how did I become entitled to this sum of money?\n\nBest wishes,\nMaggie"
+    }
+]

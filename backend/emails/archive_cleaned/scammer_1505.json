@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1505",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir. ",
+        "body": "  Dear Sir. \nGood morning. We didn’t get to hear from you. Are you still continuing with the order as we thought the American bank details would have made the payment easier. \nKindly reconfirm the bank details before making payment. \nRegards. \nMr. Manish Sidhiwala.    "
+    },
+    {
+        "from": "baiter_1505",
+        "to": "scammer_1505",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir. ",
+        "body": "Dear Mr. Manish Sidhiwala,\n\nGood morning! Thank you for reaching out to me again. I apologize for the delay in getting back to you. Yes, I am still interested in placing an order with you. However, I have a few questions before proceeding with the payment.\n\nCould you please provide me with the updated American bank details? I want to make sure that everything is correct before making the payment. Also, could you clarify what payment methods are accepted? It would be helpful to know if there are any specific instructions or requirements for making the payment.\n\nThank you for your assistance and prompt response.\n\nBest wishes,\nPaul"
+    }
+]

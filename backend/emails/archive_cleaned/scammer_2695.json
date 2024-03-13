@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2695",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Dear Friend,",
+        "body": " Dear Friend,\nMy Name is Mr. Ahmet Yilmaz, a personal Accountant/Executive board Member of Directors   working with ILBANK of Turkey.  A late investor who bears the same last name as you has left {Nineteen Million Three Hundred and Forty   Thousand United States Dollars} with Our Bank for some years and no Next of kin has come forward all these years for claim.\nPlease get back to me as soon as possible for more details if you are interested in my proposal. contact me:( \nyo73119@gmail.com\n )  \nBest Regards,\nMr. Ahmet Yilmaz\nExecutive Member Board Directors    "
+    },
+    {
+        "from": "baiter_2695",
+        "to": "scammer_2695",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  Dear Friend,",
+        "body": "Hello Mr. Ahmet Yilmaz,\n\nI hope this message finds you well. Your proposal certainly sounds interesting and I appreciate you reaching out to me. \n\nCould you please provide more details about the late investor? How did they come to leave such a large sum of money unclaimed? And why has no next of kin come forward for the claim?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJames"
+    }
+]

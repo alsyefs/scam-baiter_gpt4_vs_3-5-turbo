@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1575",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  From The Desk of Mr. Paul Do",
+        "body": "  From The Desk of Mr. Paul Donofrio\nBank of America.\nBranch Offices New York\n150 Broadway, New York. NY 10038, USA.\nPENDING TRANSACTION…\nThis is to let you know that the World Bank group’s board of executive directors has reopened our services to beneficiaries on a project to provide cash support to 270,000 vulnerable households unit including those who recently lost their source of income as a result of the pandemic.\nGiven this development, we are fully aware that many beneficiaries may have died as a result of the pandemic and therefore could not claim their pending funds.\nBank of America was appointed by the office of World Bank auditors to make such payments to the concerned beneficiaries. And the sum of USD 5,400,000.00 has been approved by World Bank auditors to be paid to each beneficiary concerned out of his/her total fund as part payment.\nWe, therefore, want you to get back to us if you are still alive by forwarding your full details such as\n1-Your full names\n2-Address\n3- Phone number\n4- Age\n5- Occupation\nThe only thing we will do is to re-validate your file so that it will become more authentic and be among the list of files that will be on our pay list.\nThis is a golden opportunity for you to receive your fund. Thanks for your anticipated cooperation. Your immediate response is highly needed to enable us to commence the transfer.\nYours in Service-\nMr. Paul Donofrio..   "
+    },
+    {
+        "from": "baiter_1575",
+        "to": "scammer_1575",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   From The Desk of Mr. Paul Do",
+        "body": "Hello Mr. Paul Donofrio,\n\nThank you for reaching out and sharing this information with me. It's really heartening to hear about the efforts of the World Bank group in providing support to vulnerable households during these challenging times.\n\nI'm curious, how was I selected for this program? And could you please provide more details about how this process works? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nWalter"
+    }
+]

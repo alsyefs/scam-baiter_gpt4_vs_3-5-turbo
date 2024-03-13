@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_1634",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Beneficiary,",
+        "body": "  Dear Beneficiary,\n \nWe received mail about your involvement in an accident weeks ago. Please are you dead or alive?\n \nMr. Garcia made us understand that you are in hospital for treatment\nbut there is no hope of your recovery. He stated that he is your business\nassociates and your next of kin whom you have chosen and permitted to\ninherit all your properties. He is contacting this office based on your\noverdue payment fund which is about to be paid to you.\nHe requested that the payment should now be transferred into his own\npersonal account as he stated below.\n \nAccount Name Mr. Garcia Charles Gilbert\nCitibank Banamex USA\n15900 La Cantera Parkway Bldg #18\nSan Antonio, TX 77825\nRouting Number: 122233645\nAccount Number: 5944130210\n \nKindly inform us if you are authorizing this process to\nMr. Garcia Charles Gilbert Bank Account. This is to avoid releasing\nyour money to wrong person because Mr. Garcia Charles Gilbert is too\neager and ready to follow every instruction to have this money into\nhis account. If you did not have auto accident and you did not permit\nMr. Garcia Charles Gilbert to claim your money, kindly reply this\nmessage with your full contact information so we can process the\nrelease of your fund to you.\n \n \nBest Regards,\n \nAnshula Kant,\nManaging Director and\nWorld Bank Group Chief\nFinancial Officer.   "
+    },
+    {
+        "from": "baiter_1634",
+        "to": "scammer_1634",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Beneficiary,",
+        "body": "Dear Anshula Kant,\n\nThank you for reaching out to me. I must clarify that I have not been in any accident recently, and I am alive and well. It seems there may be some confusion or misunderstanding regarding my situation.\n\nI appreciate Mr. Garcia's concern, but I have not authorized him to handle any of my financial matters or inherit any funds on my behalf. Therefore, I would kindly request more information about the overdue payment fund you mentioned.\n\nCould you please provide details about the nature of this payment? How much is it for, and what is the reason behind its release? Additionally, I would like to know how this fund came to be associated with me.\n\nOnce I have a better understanding of the situation, I will be able to provide further instructions on how to proceed. Thank you for your assistance in clarifying this matter.\n\nBest wishes,\nSally"
+    },
+    {
+        "from": "scammer_1634",
+        "to": "baiter_1634",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "*Dear Beneficiary: *\r\n\r\nI acknowledge the receipt of your response. Great to hear from you and to\r\nknow that you are hale and hearty. I read your email with all carefulness\r\nand it is well understood. Your Email appeared in our portal as one of the\r\nbeneficiaries of this long overdue fund from the World Bank. Now we are\r\nmaking sure all beneficiaries receive what is due to them. Because this\r\nfund is long overdue in our custody.\r\n\r\n It is important you note that this email was not sent to you in error. For\r\nus to make it up to you without delay, Follow our instruction by contacting\r\nyour paying bank which is *FIRST STERLING INVESTMENT BANK*. for them to\r\ntransfer your funds through their unlimited online account because of the\r\namount involved. If you equally prefer an *ATM MASTER CARD*, they will\r\nissue it to you without any further delay.\r\n\r\n    We are sorry for whatever you might have encountered in the past in\r\ntrying to receive your fund. Now that we are  involved, My assurance to you\r\nis that there will be no atom of scam and you must receive your funds now.\r\n\r\nFor us to transfer  your fund to you as the right beneficiary, Below is the\r\ne-mail address:\r\n\r\n\r\n\r\n\r\n*FIRST STERLING INVESTMENT BANKEmail: info@firststerlinginvbk.com\r\n<info@firststerlinginvbk.com>CONTACT PERSON: Greg Walker, Head of\r\nforeignremittance department.*\r\n\r\n\r\nOnce you contact the bank in the above email,They will guide you on how to\r\nreceive your funds without any delay or impediment for you to know that you\r\nare in safe hands. The World Bank came into this transaction in order to\r\nmake sure people get what is due to them and to cushion the effect of\r\nGlobal Economic Hardship and for small and medium scale businesses in the\r\nWorld. Your *Total fund is $5,500,000 (Five million five hundred thousand\r\nUnited States Dollars).*\r\n\r\nGet back to me once you contact the bank. Feel free to ask whatever\r\nquestion you wish to ask as we are here to serve you better. Attached is a\r\ncopy of my Identification Card.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Best Regards, Anshula Kant,Managing Director andWorld Bank Group\r\nChiefFinancial Officer.*"
+    },
+    {
+        "from": "baiter_1634",
+        "to": "scammer_1634",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.7982523148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "Dear Anshula,\n\nThank you for reaching out to me and providing this information. I appreciate your assurance that there will be no scam involved in this process. I understand that the funds are long overdue, and I would like to proceed with receiving them.\n\nCould you please provide me with more details about the First Sterling Investment Bank? How can I contact them? Are they a reputable institution?\n\nAlso, you mentioned the option of receiving the funds through an ATM Master Card. Could you explain how that works? Is it a secure method of receiving the funds?\n\nI apologize for my skepticism in the past, but I want to make sure everything is legitimate before proceeding. Thank you for your understanding.\n\nBest wishes,\nSally"
+    },
+    {
+        "from": "scammer_1634",
+        "to": "baiter_1634",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.1425347222222224,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "*Dear Beneficiary,*\r\n\r\n*How are you doing today? Kindly check the last  email i sent to you, the\r\ncontact of your paying bank is provided there. This is a reputable and\r\nreliable bank that has an online access which is unlimited. That is the\r\nreason the world bank chose them to handle these transactions around the\r\nworld.*\r\n\r\n*Below again is the contact the bank: *\r\n\r\n\r\n\r\n\r\n*FIRST STERLING INVESTMENT BANKEmail: info@firststerlinginvbk.com\r\n<info@firststerlinginvbk.com>CONTACT PERSON: Greg Walker, Head of\r\nforeignremittance department.*\r\n\r\n*Get back to us once you contact them. Do have a blessed day.*\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Best Regards, Anshula Kant,Managing Director andWorld Bank Group\r\nChiefFinancial Officer.*"
+    },
+    {
+        "from": "baiter_1634",
+        "to": "scammer_1634",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.1528009259259258,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "Dear Anshula,\n\nThank you for reaching out to me. I hope you're doing well too. I received your previous email and I'm interested in learning more about the bank you mentioned. Can you provide me with some additional information about First Sterling Investment? What services do they offer and how can they help me?\n\nLooking forward to hearing from you.\n\nBest wishes,\nSally"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2351",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Beneficiary",
+        "body": "  Dear Beneficiary\nAfter proper and several investigations and research at Western Union\nand MoneyGram Office, we found your name in Western Union/MoneyGram\ndatabase among those that have sent money through Western\nUnion/MoneyGram and this proves that you have truly been swindled by\nthose unscrupulous persons by sending money to them through Western\nUnion/Money Gram in the course of getting one fund or the other that\nis not real.\nIn this regard a meeting was held between the Board of Directors of\nWESTERN UNION, MONEYGRAM, the FBI alongside with the Ministry of\nFinance, As a consequence of our investigations it was agreed that the\nsum of Five Hundred Thousand United States Dollars ($500,000.00USD)\nshould be transferred to you out from the funds that The United States\nDepartment of the Treasury has set aside as compensation payment for\nscam victims.\nThis case would be handled and supervised by the FBI. We have\nsubmitted your details to them so that your funds can be transferred\nto you. Contact the Western Union agent office through the information\nbelow:\nNAME: Rose Ishibashi\nEMAIL:  \nspagentrose@gmail.com\nPHONE:  +1 (206) 580 1172 (text message only)\nYours sincerely,\nChristopher A. Wray\nFBI: Internet Relation   "
+    },
+    {
+        "from": "baiter_2351",
+        "to": "scammer_2351",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Beneficiary",
+        "body": "Hello A. Wray,\n\nThank you for reaching out and sharing this information with me. It's quite surprising to hear that my name was found in the Western Union database as someone who has sent money through their service.\n\nI'm curious, how did you come across my details? And could you please elaborate more on the process of receiving the Five Hundred Thousand United States Dollars? \n\nAlso, I would like to know more about the role of the FBI in this case. How will they supervise it?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nTena"
+    }
+]

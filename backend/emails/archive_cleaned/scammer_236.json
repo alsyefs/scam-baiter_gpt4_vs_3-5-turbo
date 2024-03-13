@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_236",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "I have a business transaction ",
+        "body": "I have a business transaction in which I need your assistant, your share will be 50%. If interested do contact me for more details."
+    },
+    {
+        "from": "baiter_236",
+        "to": "scammer_236",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: I have a business transaction ",
+        "body": "Hello! Thank you for reaching out. I'm interested in learning more about the business opportunity you mentioned. Could you please provide me with some additional details?\n\nBest wishes,\nThomas"
+    },
+    {
+        "from": "scammer_236",
+        "to": "baiter_236",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: I have a business transaction",
+        "body": "LEGAL SHIELD LAW FIRM\r\n\r\nMANAGING PARTNER\r\n\r\nBARRISTER ANDREW YOUNG, ESQ.\r\n\r\nAddress: Plaza De La Constitución, 10, 29008, Marbella\r\n\r\nMalaga, Spain 🇪🇸.\r\n\r\n\r\n2/19/2024\r\n\r\n\r\n\r\nDearest Friend Thomas,\r\n\r\n\r\nI am Barrister Andrew Young, a legal practitioner with LegalShield Law\r\nFirm, Malaga Spain. I saw your contact and profile and decided that you\r\ncould cooperate with me in this proposition. I have a client, who died as a\r\nresult of heart-related condition combined with Tuberculosis on the 20th\r\nNovember 2013\r\n\r\n\r\nI contacted you to assist in getting the funds left behind by my client\r\nbefore it is confiscated or declared Non Serviceable by the bank where this\r\ndeposit is valued at.The bank has issued me a notice to contact the next of\r\nkin, or the account will be confiscated.\r\n\r\n\r\nMy proposition to you is to seek your consent to present you as the\r\nnext-of-kin and beneficiary of  he deposited €11.5 Millions (Eleven Million\r\nFive Hundred Thousands Euros) with a Corporate bank here in Spain. to my\r\ndeceased client, since both of you share the same surname, so that the\r\nproceeds of this account can be paid to you thereafter we can share the\r\namount on a mutually agreed-upon percentage of 50% 50% . I wish to point\r\nout that I want 20% of this money to be shared among Charity Organizations\r\nof your choice within and outside of your country, while the remaining 80%\r\nis shared equally between us 50% for me and 50% for your respectful self.\r\n\r\n\r\nAll legal documents to backup your claim as my deceased late client's\r\nNext-of-Kin will be provided by me. All I require is your honest\r\ncooperation in this proposition.\r\n\r\n\r\nThis will be executed under a legitimate arrangement that will protect you\r\nfrom any breach of the law. I must use this opportunity to implore you to\r\nexercise the utmost indulgence to keep this matter extraordinarily\r\nconfidential, whatever is your decision, while I await your prompt\r\nresponse. Kindly forward me the following:\r\n\r\n\r\n1. Your Legitimate Name\r\n\r\n2. Contact Address\r\n\r\n3. Marital Status\r\n\r\n4. Area of Specialization\r\n\r\n5. Company Full Details\r\n\r\n6. Nationality\r\n\r\n7. Age\r\n\r\n8. Mobile No\r\n\r\n9. Scan copy of your international passport or driver's licenses\nBest Regards,\r\n\r\nBarrister Andrew Young. ESQ\r\n\r\n(Senior Advocate/Solicitor)."
+    },
+    {
+        "from": "baiter_236",
+        "to": "scammer_236",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.016064814814814816,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: I have a business transaction",
+        "body": "Hello there! Thank you for reaching out to me with this opportunity. I appreciate your trust in considering me for cooperation. Could you please provide more details about the process of claiming the funds left behind by your client? How can I assist you further in this matter?\n\nBest wishes,\nThomas"
+    }
+]

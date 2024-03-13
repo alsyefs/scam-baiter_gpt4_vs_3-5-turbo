@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_2236",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention",
+        "body": "Attention\nThis is to notify you that your funds are valued at Three Million Five\nHundred Thousand united states dollars (US $3,500,000.00) has been\nreleased today to the CITIZENS TRUST AND FINANCE BANK.\n \nFor your convenience, you will have to transfer through within 24hrs\nonline by yourself to your local account. By this method, You Will\nmonitor the movement of the local funds online until your account is\ndue credits.\n \nContact the CITIZENS TRUST AND FINANCE BANK to provide personnel with\nthe login details so you can begin the transfer by yourself.\n \nCONTACT PERSON:\nMr. Fred Dan\nCONTACT CITIZENS TRUST AND FINANCE BANK\nEMAIL: \nrofcanadarbc@gmail.com\n \nSINCERELY,\nMr. Brown Edward"
+    },
+    {
+        "from": "baiter_2236",
+        "to": "scammer_2236",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attention",
+        "body": "Hello Mr. Brown Edward,\n\nWow, that's a lot of money! I'm really excited about this opportunity. Could you please explain to me how this process works? I've never done something like this before.\n\nAlso, could you tell me more about the CITIZENS TRUST AND FINANCE BANK? How long have they been in operation and where are they located?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nGuy"
+    },
+    {
+        "from": "scammer_2236",
+        "to": "baiter_2236",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Attention",
+        "body": "Thank you for your email,We are very much apprceitated ,Response to your\r\nemail you are advise to send your information below Banks address\r\nbanks infomation    account number  phone number\r\n\r\nWe are waiting to have it before proceed with our transfer.\r\n\r\nMr. Brown Edward,"
+    }
+]

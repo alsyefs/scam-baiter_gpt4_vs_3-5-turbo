@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1723",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear",
+        "body": "Dear\nYou are the next of kin to our late Gold Merchant worth 30 Million Dollars.\nReply for more information\nMr James Wilbert"
+    },
+    {
+        "from": "baiter_1723",
+        "to": "scammer_1723",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear",
+        "body": "Dear Mr. James Wilbert,\n\nThank you for reaching out to me. I'm intrigued by your message about being the next of kin to a late Gold Merchant with a significant fortune. Could you please provide me with more details about this opportunity? I would appreciate any additional information you can share.\n\nBest wishes,\nBenjamin"
+    }
+]

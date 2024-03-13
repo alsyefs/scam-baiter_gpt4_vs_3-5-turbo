@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1620",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention:  Dear Sir/Ma'am,",
+        "body": "  Attention:  Dear Sir/Ma'am,\n \nI trust this message finds you well. My purpose in writing to you is to bring to your attention recent developments in the banking sector.\n \nDuring this last quarter of 2023, a recapitalization exercise took place, and a substantial amount of foreign approved unpaid funds were discovered. In collaboration with the World Bank and the International Monetary Fund (IMF), a significant sum has been released as bailout funds to empower banks financially and settle foreign debts to the legitimate beneficiaries.\n \nOur office has been tasked with verifying and overseeing the immediate release of all genuine approved sums to their respective rightful beneficiaries. As part of this process, we kindly request your prompt response along with any available identification that may facilitate the swift processing of your funds.\n \nIf you have any concerns or would like further clarification, feel free to contact us directly using the official contact information.\n \nWe appreciate your cooperation in this matter.\n \nSincerely,\n \nMs. Michelle Hey\nAudit Unit Department   "
+    },
+    {
+        "from": "baiter_1620",
+        "to": "scammer_1620",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention:  Dear Sir/Ma'am,",
+        "body": "Hello Ms. Michelle Hey,\n\nI hope this message finds you in good health. I am intrigued by your email and the information it contains about the banking sector. It's quite interesting to learn about these exercises and the release of bailout funds.\n\nCould you please provide more details on how these funds are being distributed? And what kind of information do you need from me to facilitate the processing of these funds?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nCynthia"
+    }
+]

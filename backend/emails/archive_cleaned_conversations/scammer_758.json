@@ -1,0 +1,52 @@
+[
+    {
+        "from": "scammer_758",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hi",
+        "body": "  Hi\nGreeting to you,\nI have very good news for you, which is that your Cash Box that prevented entry into your country & was impounded by the Financial Task Force Authority. Meanwhile, I would like to introduce myself to you, My name is Ms. Katie Anderson. I wish to let you know that we were able to retrieve the consignment box from the Customs with the assistance of my contact person at Geneva.\nThe cash funds amounting to the sum $15Million was deposited with an International Security vault in Europe under your name being the beneficiary. Meanwhile, you are advised to get back to me immediately you receive this mail and forward to me your full contact information immediately.\nThis is to enable me to submit it to the Security vault for them to start processing to move your consignment directly to your doorstep. You can as well reach the Security vault and forward your contact information directly to them, they are already aware that you are the beneficiary of the said $15,000,000.00, marked with Serial Reference Code: presently deposited in their Security vault.\nPlease note that I had an understanding with this follower at Geneva, that you are to offer him 5% of the total money immediately the fund is moved into your account.\nAwaiting your urgent response.\nMr. Evangeline Reynes.   "
+    },
+    {
+        "from": "baiter_758",
+        "to": "scammer_758",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Hi",
+        "body": "Hello Mr. Evangeline Reynes,\n\nThank you for reaching out to me with this information. It sounds quite interesting, but I have a few questions before we proceed. Could you please provide me with more details about the Cash Box and why it was impounded by the Financial Task Force Authority? Also, how did you manage to retrieve it from Customs?\n\nAdditionally, I would like to know more about the Security vault in Europe where the cash funds are currently deposited under my name. Can you tell me which specific vault it is and how secure it is? I want to ensure that my funds will be safe throughout the process.\n\nLastly, you mentioned that I should contact your contact person at Geneva and offer them a portion of the total money once the fund is moved into my account. Could you please provide me with their contact information so that I can get in touch with them directly?\n\nI appreciate your prompt response and look forward to hearing back from you soon.\n\nBest wishes,\nCorinne"
+    },
+    {
+        "from": "scammer_758",
+        "to": "baiter_758",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "HELLO MR. CORINNE. REPLY TO YOUR MAIL PLS. CONTACT THE SECURITY COMPANY. FROM MR. EVANGELINE REYNES.",
+        "body": "From: Mr. Evangeline Reynes.\r\n262 Hermann St, San Francisco, CA 94117\r\nCalifornia, USA\r\nTEL: +1 (404) 282 2721.\r\n\r\nHi Corinne.\r\n\r\nGreeting to you Sir,\r\n\r\nI am in receipt of your mail. Content well noted. Honestly speaking sir, i\r\nwish to inform you that I am a serious minded fellow who has no time for\r\nfrivolities hence this transaction is 100% real and will make a meaningful\r\nimpact in your life. Also Note that  it is NEVER my intention to deny you\r\nthis opportunity. I am a devoted christian and will gain nothing in doing\r\nso, you should note that for the fact that others failing in a venture does\r\nnot warrant new people from succeeding in the same venture. A soldier does\r\nnot stop soldiering because of his dead colleagues but with a strong\r\n belief of victory irrespective of any odds against him.\r\n\r\nMr. Corinne. I will also like to introduce myself once more to you, my name\r\nis Mr. Evangeline Reynes. working at the Financial Task Force Authority.\r\nLike i told you that am writing to alert you of a consignment box dictated\r\nto have containing some huge cash being either your inheritance payment\r\nwith contacts marked with batch number serial code the precipitant laying\r\nunclaimed at the airport and was recently repatriated/deposited with an\r\nInternational Security vault in Europe with the instruction to have it\r\ndelivered to your country.\r\n\r\nMeanwhile in my first mail to you I told you your consignment has been\r\nmoved out to an Security Vault in Europe I will advise as a matter of\r\nurgency you immediately contact the Security Company in United Kingdom and\r\nlet them know that you are the beneficiary of the sum $15Million marked\r\nwith *Serial Reference Code: CORINNE/EURO/V20/22,* presently deposited in\r\ntheir Security vault. You can contact the person in-charges of the\r\nConsignment with the below information:\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Europiir Logistics Ltd.Tallinn, United KingdomCONTACT PERSON NAME: Mr.\r\nGraeme Wood.(Sales & Marketing Executive Director). ORMr. Jim\r\nAnderson.(Head of Security Vault Resources)TEL: +44 7452 214721Fax:\r\n+44-07087274397E-MAIL: euro@europiirlogistiltd.pw\r\n<euro@europiirlogistiltd.pw>*\r\n\r\nTo be honest with you Mr. Corinne. This is real and legal. I have no bad\r\nintention on you; rather, it is destiny that is about bringing us together\r\nto achieve this goal for you and I believe it shall come to pass.\r\n\r\nAwaiting your immediate response.\r\n\nYours sincerely,\r\nMr. Evangeline Reynes."
+    },
+    {
+        "from": "baiter_758",
+        "to": "scammer_758",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.034930555555555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: HELLO MR. CORINNE. REPLY TO YOUR MAIL PLS. CONTACT THE SECURITY COMPANY. FROM MR. EVANGELINE REYNES.",
+        "body": "Hello Mr. Evangeline Reynes,\n\nThank you for reaching out to me. I appreciate your email and the information you have shared with me. It's interesting to hear about this opportunity involving a box of cash that is supposedly marked with my name.\n\nI understand that you mentioned the box has been moved to a security vault in Europe. Could you please provide me with more details about how this came about? How did my name become associated with this box of cash?\n\nAlso, could you clarify why the box was initially left unclaimed at the airport? It seems unusual for such a valuable item to be abandoned like that.\n\nLastly, I would like to know more about Europiir Logistics United and their role in all of this. What is their reputation and how can I be sure that they are a trustworthy company?\n\nThank you again for contacting me, Mr. Reynes. I look forward to your response.\n\nBest wishes,\nCorinne"
+    },
+    {
+        "from": "baiter_758",
+        "to": "scammer_758",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.49375,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: HELLO MR. CORINNE. REPLY TO YOUR MAIL PLS. CONTACT THE SECURITY COMPANY. FROM MR. EVANGELINE REYNES.",
+        "body": "Hello Mr. Evangeline Reynes,\n\nThank you for reaching out to me. I appreciate your email and the information you have shared with me. It's interesting to hear about this opportunity involving a box of cash that is supposedly marked with my name.\n\nI must admit, though, that I am a bit cautious when it comes to such matters. Can you please provide me with more details about how this cash ended up in the airport and why it was moved to a security vault in Europe? I want to make sure I fully understand the situation before taking any further steps.\n\nAdditionally, could you clarify what exactly my role would be in this process? How would I go about contacting the Security Company in the United Kingdom? And what are the next steps if I decide to proceed?\n\nThank you for your understanding, and I look forward to hearing back from you soon.\n\nBest wishes,\nCorinne"
+    }
+]

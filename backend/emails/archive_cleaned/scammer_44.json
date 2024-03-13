@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_44",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "We have a ",
+        "body": "We have a \nwide breadth of experience over the years providing financial services\n."
+    },
+    {
+        "from": "baiter_44",
+        "to": "scammer_44",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: We have a ",
+        "body": "Hello there,\n\nThat sounds really interesting! Could you please tell me more about the types of financial services you provide? I'm particularly interested in understanding how these services could potentially benefit someone like me.\n\nBest wishes,\nDoris"
+    }
+]

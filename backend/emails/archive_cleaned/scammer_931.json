@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_931",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Beneficiary,",
+        "body": "Dear Beneficiary,\nThis is to officially inform you that we have written to you before without getting response from you and we believe that our previous mail did not get to you therefore we write you again. We are contacting you concerning the release of your inheritance fund / Draft /Cheque /ATM Card which have  been delayed for transfer by some officials who claim to be in position of your fund thereby extorting money from you in one way or the other.Your Fund has finally been approved for transfer by the West  Africa Fund Monitoring Unit. Your fund will be transfer to you via ATM Visa Card which is cash-able in any ATM machine or Bank anywhere in the world.\nWe hereby inform you that the ATM card worth US$4.8,million US dollars has been credited in your favour as the first part payment of your inheritance fund which has been delayed by these officers who claim  to be in position of your fund. Therefore you are warned to stop any further communication with anybody concerning your inheritance fund.\nYour fund to be released via MasterCard ATM in act to uphold the rule of law which we represent.\nYou have to reconfirm the informations below for security reasons. And also be informed that delivery agent will leave this country as soon as you comply with Courier Company clearnce requirement fee $20 apple itunes gift card.\nSend them the following information of yours for the conclusion of your Atm Card: DHL director,  Mr. James McLoughlin\nYour Full Name:\nYour Country:\nYour State:\nYour City:\nYour Cell Phone Number:\nYour Delivery Address:\nYour Current Occupation:\nYour age and Sex\nYour Next Of Kin Name:\nYour Next Email Address:\n11.\n COPY OF UR PASSPORT OR ID\nTherefore you have to stop contacting anybody or offices regards the Cheque draft since I have authorized the bank to issue you an ATM CARD so that you can withdraw your funds to avoid any further problem. contact DHL director once you received this email. (\ngeneralben844@gmail.com\nThanks for your ANTICIPATION.\nFrom Mrs. Jane Egouno"
+    },
+    {
+        "from": "baiter_931",
+        "to": "scammer_931",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "Hello,\n\nThank you for reaching out to me regarding the release of my fund. I appreciate the update on the situation. Could you please provide more details on how I can proceed with receiving the ATM card? What steps do I need to take next to ensure a smooth transfer of the funds?\n\nLooking forward to your response.\n\nBest wishes,\nCharles"
+    }
+]

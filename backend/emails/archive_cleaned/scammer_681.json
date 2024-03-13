@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_681",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attn: Beneficiary,",
+        "body": "  Attn: Beneficiary,\nWhat is still holding you from receiving your fund total US$3,700,000.00 which is ready for us to dispatch your ATM VISA CARD. Very important you comply and make contact to  Mr. Frank Kelly, with your full delivery Address, Phone Number and your Full Name, so that he will Dispatch your parcel and give you the tracking number to monitor the delivery as well.\nContact Person: Frank Kelly\nEmail: \nfk446876@gmail.com\nNumber : + 229 99364186\nWe thank you and also remain yours in service.\nRegards,\nCustomer-care\nMr.Umha Muhammed,\nUBA Bank \napolinar1959@hotmail.com\n>Group Plc (BR)   "
+    },
+    {
+        "from": "baiter_681",
+        "to": "scammer_681",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attn: Beneficiary,",
+        "body": "Hello Muhammed,\n\nThank you for reaching out to me. I appreciate your assistance in getting my fund total US delivered to me. However, before I proceed, I have a few questions regarding the process.\n\n1. Could you please provide more details about the ATM VISA CARD? How does it work and what are its benefits?\n\n2. What is the reason behind dispatching the card instead of transferring the funds directly to my bank account?\n\n3. Is there any cost or fee associated with receiving and activating the ATM VISA CARD? If so, could you please clarify what those fees are and how they can be paid?\n\nI look forward to your response.\n\nBest wishes,\nMichael"
+    }
+]

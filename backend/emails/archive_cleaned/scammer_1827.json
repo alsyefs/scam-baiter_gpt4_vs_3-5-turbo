@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1827",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "ATTN MY DEAR",
+        "body": "ATTN MY DEAR\nThis is to bring to your notice that, I have paid the re-activation fee and the delivery of your ATM.I paid it because the ATM Card 8119 $8.5m,has less three days to expire and when it expires,the money will go into Government purse. With that I decided to help you pay the money so that,the ATM will not expire,because I know that when you get your ATM definitely you must pay me back my money and even compensate me for helping you,\nNow i want you to contact UPS DELIVERY SERVICE with your Full Contact informations\nYOUR NAME .............................. ...\nADDRESS .............................. ....\nCOUNTRY .............................. ....\nAGE .............................. .......\nSEX .............................. .......\nPhone Number............\nOCCUPATION .............................\nMARITAL STATUS .........................\nso, that they can deliver your Card to your designated address without any delay.Like i stated earlier, The delivery charges has been paid but i did not pay their official keeping fees since they refused. They refused and the reason is that they do not know when you are going to contact them and dumurrage might have increase.They told me that their keeping fees is $25.00 per day and i deposited it yesterday been  11/1/2024, Call him as soon as you receive this mail.Below is their Contact\nInformations,\nContact Person:Dr. Mrs Stell John,\nUPS DELIVERY SERVICE\nEmail: (\nmrsstellajohnson2@gmail.com\nContact them Today to avoid increase of their keeping fees and let me know\nonce you receive your Card.\nYours Faithfully\nMrs Stell John"
+    },
+    {
+        "from": "baiter_1827",
+        "to": "scammer_1827",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: ATTN MY DEAR",
+        "body": "Hello Mrs Stell John,\n\nThank you for your message. I appreciate your help and concern regarding the ATM card. It's really kind of you to have paid the delivery charges on my behalf.\n\nI'm curious about a few things though. Could you please explain why the ATM card would expire in three days? Also, could you provide more details about this UPS DELIVERY SERVICE? How reliable are they?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nCharles"
+    }
+]

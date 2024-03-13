@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_643",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Personal Assistant Needed",
+        "body": "Personal Assistant Needed\n \nEntrepreneur business man and Project Manager at Chicago Commercial Construction based in Lansing, Illinois  and Czech Republic\n seeks an energetic personal assistant with a wide range of ability to assist in many aspects of her daily life.\nThe candidate's duties will primarily consist of assisting in the maintenance and care of our three homes, performing administrative and research work and assisting with professional and personal daily tasks. The right person is an independent and creative thinker with great taste, preferably multilingual and internationally savvy - Must be willing and able to travel. They will have excellent professional communication skills, and be able to shift from very different tasks that must be managed at once.\nThis is a long-term, full-time position that offers a highly attractive compensation package including health insurance, paid vacation, and a 401(k) plan. This is also \na Remote job position that can be Perform from home\n and Pay is $500.00 Weekly\nBenefits:\n401(k)\nHealth insurance\nPaid time off\nSchedule: 8 hour shift\nMonday to Friday\nIf interested you are to get back to this Email for further procedure \ndrkellymacpherson@gmail.com\nThanks\nDr. Kelly Macpherson\ndrkellymacpherson@gmail.com"
+    },
+    {
+        "from": "baiter_643",
+        "to": "scammer_643",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Personal Assistant Needed",
+        "body": "Hello Dr. Kelly Macpherson,\n\nThank you for reaching out and providing information about the personal assistant position. It sounds like an interesting opportunity. I have a few questions regarding the role:\n\n1. Could you please provide more details about the specific tasks and responsibilities involved in assisting with the care of your three homes?\n2. What kind of research work would be required as part of this position?\n3. Is there any specific criteria or qualifications you are looking for in a candidate's excellent skills?\n4. How often would travel be expected, and what would be the nature of these travel arrangements?\n\nI appreciate your time and look forward to hearing back from you.\n\nBest wishes,\nCecile"
+    },
+    {
+        "from": "scammer_643",
+        "to": "baiter_643",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Personal Assistant Needed",
+        "body": ""
+    },
+    {
+        "from": "baiter_643",
+        "to": "scammer_643",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.006863425925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Personal Assistant Needed",
+        "body": "Hello! How can I help you today?\n\nBest wishes,\nCecile"
+    }
+]

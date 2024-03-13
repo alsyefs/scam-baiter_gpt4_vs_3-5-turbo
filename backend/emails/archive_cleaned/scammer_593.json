@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_593",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  I received your email and it",
+        "body": "  I received your email and its content was well assimilated\nconcerning the release of your funds. After going through\nyour email, I have to make an inquiry from the Attorney\nGeneral of US regarding the Legal Clearance Certificate to\nyour name, he told me that it will cost you some money in\norder to insure this document to your name. I further to\nask him if there will be any tariff or custom issues during\nthe delivery of your package, he answered and said that you\nshould also need to acquire Anti-drug trafficking & Terrorist\nClearance Certificate. This document will be sign and stamp\nunder the Attorney General of Unitd States. He told me that\nit will cost you the sum of $50\nI shall be waiting to hear from you upon receipt of this\nemail, so that I will provide you with the infomation to\nremit the required fees for the procurement of the both\ndocuments to your name. I will forward the copy the\ndocuments to you once it's insured  here is my contact email  \n( \npaymentfile105@gmail.com\n)   "
+    },
+    {
+        "from": "baiter_593",
+        "to": "scammer_593",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   I received your email and it",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate the information you have shared regarding the release of my funds. It's good to know that you have made inquiries with the Attorney General of the United States.\n\nI understand that there may be some costs involved in obtaining the necessary legal clearance and terrorist clearance documents. Could you please provide me with more details about these fees? How much would they amount to, and how should I go about remitting the required fees?\n\nAdditionally, once I have obtained these documents, what will be the next steps in ensuring the safe delivery of my package? Are there any other formalities or customs procedures that need to be taken care of?\n\nI look forward to hearing back from you soon and receiving further instructions on how to proceed.\n\nBest wishes,\nCrystal"
+    }
+]

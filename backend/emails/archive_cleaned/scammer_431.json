@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_431",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "CITIBANK OF AMERICA.",
+        "body": "CITIBANK OF AMERICA.\n100 CITIBANK DRIVE,\nSAN ANTONIO,TX 78245 USA.\nAlternative email:jmarkmason22@gmail.com\nDear beneficiary,\nCHANGE OF BENEFICIARY\nThis is very urgent and urgent attention is needed.\nIn our office today was the presence of one Mr. John T. Kehoe of 1200 Fitch Way, Sacramento, Ca. 95864 filing application contrary to your pending fund transfer. The above-mentioned people visited this Bank yesterday with a power of attorney given in his favor by your good self, granting him the benefit to process and claim your US$5,000,000.00(Five Million United States Dollars Only) for personal reasons.\nHe further Stated that the online account be Terminated while the fund should be wired to his Bank account with Bank Of America, Routing Number 121000358. Our office has asked Mr. John T. Kehoe to return back within 48 hours to enable us to have a personal confirmation from you being hitherto the beneficiary.\n1. Did you instruct Mr. John T. Kehoe of 1200 Fitch Way, Sacramento, Ca. 95864, to claim and receive the payment on your behalf?\n2. Did you sign any 'Deed of Assignment' in his favor thereby making him the current beneficiary?\nIf you did, well, we are sorry to have delayed your instruction in giving out this fund since we must adhere to the procedures of this honorable bank by making sure this request is verified and confirmed by the beneficiary.\nYour quick reply via this alternative email will be appreciated:jmarkmason22@gmail.com\nYours Faithfully,\nJMark Mason.\nExecutive."
+    },
+    {
+        "from": "baiter_431",
+        "to": "scammer_431",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: CITIBANK OF AMERICA.",
+        "body": "Hello! Thank you for sharing this information with me. It sounds like there may be some confusion regarding the fund transfer. Can you provide more details about the process and how I can verify the authenticity of this request?\n\nBest wishes,\nSteven"
+    }
+]

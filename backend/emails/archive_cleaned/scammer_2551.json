@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2551",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello,",
+        "body": "Hello,\nMy name is Angela Uratta from Ivory Coast and I am 18 yrs. I have an inheritance fund of US$4.5 million from my Late father Mr Jean Uratta,I need your assistance to help me invest in your country for my future.\nAngela"
+    },
+    {
+        "from": "baiter_2551",
+        "to": "scammer_2551",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello,",
+        "body": "Hello Angela,\n\nIt's a pleasure to meet you. I'm sorry to hear about your late father. It sounds like you're going through a challenging time. \n\nYou mentioned an investment in my country, could you please elaborate more on the type of investment you are interested in? Also, it would be helpful if you could provide more details about the fund.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJohn"
+    }
+]

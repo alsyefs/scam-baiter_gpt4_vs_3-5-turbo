@@ -1,0 +1,372 @@
+[
+    {
+        "from": "scammer_2191",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear,",
+        "body": "  Dear,\nI am Rev. Ben Johnson, director of the cash processing unit, The\nunion has approved the sum of ($10,000,000) but due to on going fraud\nin the world today, we have taken $5,000 from your funds for handling\ncharges.\nQuickly forward your full name,home address and direct phone number to\nme for immediate payment.\nRev. Ben Johnson\nDirector Cash Processing\nrevbenjohnson20@outlook.com\n "
+    },
+    {
+        "from": "baiter_2191",
+        "to": "scammer_2191",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear,",
+        "body": "Hello Rev. Ben Johnson,\n\nThank you for your message. It's quite interesting to hear about this cash processing unit and the approval of a certain sum. I'm curious, could you tell me more about how this process works? And what is the purpose of these funds?\n\nAlso, I'd like to understand more about the handling charges that have been taken from my funds. Could you provide a detailed breakdown of these charges?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nPatricia"
+    },
+    {
+        "from": "scammer_2191",
+        "to": "baiter_2191",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "My dear Patricia",
+        "body": "My Dear Patricia,\r\n\r\nHow are you doing today? Once again, my name is Rev. Rev Ben Johnson, the director of the Cash Processing unit. I am writing to give you more details about this transaction. The IMF World Economic Outlook (WEO), International Monetary Fund together with World Bank Financial Support has agreed to compensate you with the sum of $10MIllion from the Reserve Account (RA) as Relief Fund to alleviate poverty caused by Covid-19 pandemic. We were on round table and decided to deduct the sum of $5000 from your $10Million for handling cost. Therefore, you will receive the sum of $9,995.000.  I want you to be much ready to receive your payment as all the necessary arrangements to pay you within 3 official working days have been concluded. Therefore, I urge you to check your Inbox/Spam regularly, from time to time to ensure you reply when due to meet with the 3 days payment plans. Your immediate reply will determine how soon you will receive your package.\r\n\r\nIn order for you to receive your package within 3 days, kindly send the following information. Your Full name, your home address where to deliver the package to you and your phone number for swift communication.\r\nAs soon as you confirm the accuracy of information, we will comply with more information to enable you to receive your fund within three days.\r\n\r\nFull name:\r\nAddress:\r\nPhone\r\nWe wait to hear from you shortly\r\n\nRev Ben Johnson\r\nCash Processing Unit\r\n+256-743348442"
+    },
+    {
+        "from": "baiter_2191",
+        "to": "scammer_2191",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0006481481481481481,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: My dear Patricia",
+        "body": "Hello Rev. Ben Johnson,\n\nI hope this message finds you well. I'm thrilled to hear about the IMF World Economic Outlook WEO Monetary Fund and World Bank Financial Support's decision to compensate individuals affected by the pandemic. It's truly a noble initiative.\n\nHowever, I have a few questions that I'd like to clarify before we proceed further. Could you please explain more about the Reserve Account RA? Also, could you provide more details on how the handling cost is calculated?\n\nI'm also curious about the delivery process of this package. How will it be delivered and what measures are in place to ensure its safety during transit?\n\nLooking forward to your response.\n\nBest wishes,\nPatricia"
+    },
+    {
+        "from": "scammer_2191",
+        "to": "baiter_2191",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.917824074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: My dear Patricia",
+        "body": "My dear Patricia,\r\n\r\nThe $10 million compensation is from the Federal Reserve Relief Fund account to alleviate poverty caused by the Covid-19 pandemic. This letter is to inform you that we still have three other payment options for you to receive your $10 million relief fund.\r\n\r\n1) Cash delivery to your address through a United Nations diplomatic courier company.\r\n2) Delivery by ATM Visa Per-paid card to your address\r\n3) Online banking with Start Trust Bank. You will be sent an online username and password when created to enable you to access your funds and make a wire transfer to a bank account of your choice anywhere in the world.\r\n\r\nPlease select one of the three payment options listed and contact us so we can proceed.\r\n\r\nWe are waiting to hear from you shortly.\r\n\nRev Ben Johnson\r\nCash processing unit\r\n+256-743348442"
+    },
+    {
+        "from": "baiter_2191",
+        "to": "scammer_2191",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.415092592592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: My dear Patricia",
+        "body": "Hello Rev Ben Johnson,\n\nThank you for your message and the information provided. It's quite interesting to hear about these different payment options. I must say, it's not every day that one gets an email about a million relief fund!\n\nCould you please provide more details about each of these options? For instance, how does the cash delivery work? Is there any fee associated with this service? And what about the ATM Visa card option - how would that work exactly?\n\nAs for the online banking with Start Trust Bank, could you tell me more about this bank? I'm not familiar with it.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nPatricia"
+    },
+    {
+        "from": "scammer_2191",
+        "to": "baiter_2191",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.164918981481481,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: My dear Patricia",
+        "body": "My dear Patricia,\r\n\r\n\r\nLike I explained to you in my previous message that we three payment options for you to receive your $10 million relief fund.\r\n\r\n\r\n1)    Cash delivery to your address through a United Nations diplomatic courier company.\r\n\r\nAll that is required is your full names and address until your consignment box fund is delivered to your doorstep. The only cost is the courier delivery fee.\r\n\r\n\r\n2)    Delivery by ATM Visa Per-paid card to your address.\r\n\r\n\r\nAll that is required are:\r\n\r\nFull names...\r\nHome Address....\r\nPhone number....\r\nDate of birth....\r\nID....\r\nOccupation...\r\nNames of Next of Kin...\r\nAddress of Next of Kin ..\r\nYour relationship with your Next of Kin...\r\n\r\nThe only cost is the courier delivery fee of sending the ATM CARD to your address after processing it.\r\n\r\n\r\n3)                    Online banking with Start Trust Bank. You will be sent an online username and password when created to enable you to access your funds and make a wire transfer to a bank account of your choice anywhere in the world.\r\n\r\nAll that is required are:\r\n\r\nFull names...\r\nHome Address....\r\nPhone number....\r\nDate of birth....\r\nID....\r\nOccupation...\r\nNames of Next of Kin...\r\nAddress of Next of Kin ..\r\nYour relationship with your Next of Kin...\r\n\r\nThe only cost is: Non-States residential account processing fee.\r\n\r\nPlease select one of the three payment options listed and contact us so we can proceed. We are waiting to hear from you shortly.\r\n\nRev Ben Johnson\r\nCash processing unit\r\n+256-743348442"
+    },
+    {
+        "from": "baiter_2191",
+        "to": "scammer_2191",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.18662037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: My dear Patricia",
+        "body": "Hello Rev Ben Johnson,\n\nThank you for your detailed explanation about the payment options. It's really helpful! I'm curious, how does the United Nations diplomatic courier company ensure the safety of cash delivery? Also, could you please tell me more about this Start Trust Bank? I've never heard of it before.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nPatricia"
+    },
+    {
+        "from": "scammer_2191",
+        "to": "baiter_2191",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.199513888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: My dear Patricia",
+        "body": "My dear Patricia,\r\n\r\nLike I explained to you in my previous message.\r\n\r\n\r\n1)    Cash delivery to your address through a United Nations diplomatic courier company is very secure and safe.  Before the assigned diplomat agent will proceed with the delivery, All the backup Paperworks such as,  Approval Certificate. Clearance Certificate.  Entry Permit Certificate and Airway Bill will be obtained and send to you.\r\n\r\n\r\n2)         Start Trust Bank is a bank located in the United States.  They are the assigned bank we use for wire transfer and online banking.  This is their website :   https://www.starttrustbk.com/\r\n\r\nAll that is required are:\r\n\r\nFull names...\r\nHome Address....\r\nPhone number....\r\nDate of birth....\r\nID....\r\nOccupation...\r\nNames of Next of Kin...\r\nAddress of Next of Kin ..\r\nYour relationship with your Next of Kin...\r\n\r\nThe only cost is: Non-States residential account processing fee.\r\n\nRev Ben Johnson\r\nCash processing unit\r\n+256-743348442"
+    },
+    {
+        "from": "baiter_2191",
+        "to": "scammer_2191",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.207048611111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: My dear Patricia",
+        "body": "Hello Rev Ben Johnson,\n\nThank you for your detailed explanation. It's really helpful to understand the process better. I'm curious about how this whole system works. Could you please explain more about the role of the United Nations diplomatic courier company in this process? And what exactly are Approval Clearance Entry Permit and Airway Bill?\n\nAlso, it's interesting that Start Trust Bank is involved in this. Can you tell me more about their role? How do they ensure the security of transactions?\n\nI'm sorry but I'm not comfortable sharing my personal information online due to privacy concerns. Is there any other way we can proceed without sharing such details?\n\nLooking forward to hearing from you.\n\nBest wishes,\nPatricia"
+    },
+    {
+        "from": "baiter_2191",
+        "to": "scammer_2191",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.270462962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: My dear Patricia",
+        "body": "Hello Rev Ben Johnson,\n\nThank you for your detailed explanation. It's really interesting to learn about the process of cash delivery through United Nations diplomatic courier company. I'm curious, how long does it usually take to obtain all the necessary paperwork like Approval Clearance Entry Permit and Airway Bill?\n\nAlso, I've never heard of Start Trust Bank before. Can you tell me more about them? How long have they been in operation and what makes them a reliable choice for wire transfer and online banking?\n\nI appreciate your request for my personal information but I'm not comfortable sharing it at this point. Is there any other way we can proceed with this without me having to provide such details?\n\nLooking forward to hearing from you.\n\nBest wishes,\nPatricia"
+    },
+    {
+        "from": "scammer_2191",
+        "to": "baiter_2191",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.286701388888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: My dear Patricia",
+        "body": "My dear Patricia,\r\n\r\nI think I've explained everything you need to understand.\r\n\r\n   1)    For cash delivery to your address, we choose UN diplomatic courier company because of its immunity seal and safe and secure delivery of your cash box to your doorstep. All the mentioned documents will be obtained before the appointed delivery person proceeds with the delivery to your doorstep. This is to ensure smooth and successful delivery of your shipment box.\r\n\r\n2) Start Trust Bank is a reliable bank that can complete this transaction within 3 banking days. Tested and trusted and secured.\r\n\r\nAs for your data, you can be sure that your data is safe and will only be used for you to receive your fund and not for any other purpose. You do not have to worry.\r\n\nRev Ben Johnson\r\nCash processing unit\r\n+256-743348442"
+    },
+    {
+        "from": "baiter_2191",
+        "to": "scammer_2191",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.2901388888888885,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: My dear Patricia",
+        "body": "Hello Rev Ben Johnson,\n\nThank you for your detailed explanation. It's comforting to know that the UN diplomatic courier company will be handling the delivery due to their immunity seal and secure methods. I'm also glad to hear that all necessary documents will be obtained beforehand.\n\nI have a few questions though, if you don't mind. How long does it usually take for the cash box to reach its destination? And what happens if I'm not at home when the delivery arrives?\n\nAlso, could you tell me more about Start Trust Bank? I've never heard of them before and would like to know more about their services and reputation.\n\nLastly, thank you for reassuring me about my data safety. It's always a concern these days with so much online activity.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nPatricia"
+    },
+    {
+        "from": "scammer_2191",
+        "to": "baiter_2191",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.304085648148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: My dear Patricia",
+        "body": "Hello Rev Ben Johnson,\r\n\r\nIf we start cash delivery process tomorrow, including obtaining all the necessary paperwork, the consignment box will definitely leave on Monday and arrive on Wednesday. The designated delivery person will call you upon arrival in your country if you are not at home.\r\n\r\nHere too, Start Trust Bank is reliable and safe, as I already said. Their services and reputation are solid. Trust us and be rest assured that all agreements will be completed as planned. Your data information is secure and will only be used for you to receive your $10 million relief fund.\r\n\nRev Ben Johnson\r\nCash processing unit\r\n+256-743348442"
+    },
+    {
+        "from": "scammer_2191",
+        "to": "baiter_2191",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.30650462962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: My dear Patricia",
+        "body": "My dear Patricia,\r\n\r\nIf we start cash delivery process tomorrow, including obtaining all the necessary paperwork, the consignment box will definitely leave on Monday and arrive on Wednesday. The designated delivery person will call you upon arrival in your country if you are not at home.\r\n\r\nHere too, Start Trust Bank is reliable and safe, as I already said. Their services and reputation are solid. Trust us and be rest assured that all agreements will be completed as planned. Your data information is secure and will only be used for you to receive your $10 million relief fund.\r\n\nRev Ben Johnson\r\nCash processing unit\r\n+256-743348442"
+    },
+    {
+        "from": "baiter_2191",
+        "to": "scammer_2191",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.311516203703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: My dear Patricia",
+        "body": "Hello Rev Ben Johnson,\n\nThank you for your detailed response. I'm glad to hear that the Start Trust Bank is reliable and safe, it's always comforting to know that. \n\nI have a few questions though, if you don't mind. Could you please explain more about the cash delivery process? How does it work exactly? And what kind of paperwork is needed for this process?\n\nAlso, could you tell me more about the designated delivery person? What are their qualifications and how can I be sure they will handle my relief fund safely?\n\nLooking forward to hearing from you.\n\nBest wishes,\nPatricia"
+    },
+    {
+        "from": "baiter_2191",
+        "to": "scammer_2191",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.3115856481481485,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: My dear Patricia",
+        "body": "Hello Rev Ben Johnson,\n\nThank you for your detailed response. I'm thrilled to hear about the upcoming delivery and the reliability of Start Trust Bank. It's comforting to know that my data is secure with them.\n\nI do have a few questions though, if you don't mind. Could you please elaborate on what the necessary paperwork involves? Also, how will the delivery person identify themselves when they arrive?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nPatricia"
+    },
+    {
+        "from": "baiter_2191",
+        "to": "scammer_2191",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.311689814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: My dear Patricia",
+        "body": "Hello Rev Ben Johnson,\n\nThank you for your detailed response. It's great to hear that the cash delivery process can start tomorrow and that the box will arrive by Wednesday. I'm also glad to know that a designated delivery person will call me upon arrival in my country.\n\nI have heard good things about Start Trust Bank, so it's reassuring to know they are involved in this process. I trust that they will handle everything professionally and securely.\n\nCould you please tell me more about the necessary paperwork? What kind of documents would be required for this process? Also, could you provide more details about the delivery person? How will I recognize them?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nPatricia"
+    },
+    {
+        "from": "baiter_2191",
+        "to": "scammer_2191",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.312280092592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: My dear Patricia",
+        "body": "Hello Rev Ben Johnson,\n\nThank you for your detailed response. It's great to hear that the cash delivery process can start tomorrow and that the box will arrive by Wednesday. I'm also glad to know that a designated delivery person will call me upon arrival in my country.\n\nI have heard good things about Start Trust Bank, so it's reassuring to know they are involved in this process. However, could you please tell me more about how they ensure the safety and security of transactions like this? \n\nAlso, could you explain a bit more about what the necessary paperwork involves? I just want to make sure I understand everything correctly.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nPatricia"
+    },
+    {
+        "from": "scammer_2191",
+        "to": "baiter_2191",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.321331018518518,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: My dear Patricia",
+        "body": "My dear Patricia,\r\n\r\nI have already explained everything to you in detail. We reiterate everything we discussed in our previous email. Approval certificate. Clearance certificate. Entry permit certificate and air waybill. All copies will be given to the delivery person and also to you for your own record purposes.\r\n\r\nYou will be sent details of the delivery person on the day of the delivery, such as his ID, to make it easier for you to identify him on his arrival. I thought I had explained enough.\r\n\nRev Ben Johnson\r\nCash processing unit\r\n+256-743348442"
+    },
+    {
+        "from": "baiter_2191",
+        "to": "scammer_2191",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.331655092592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Re: My dear Patricia",
+        "body": "Hello Rev Ben Johnson,\n\nThank you for your detailed explanation. I appreciate the time and effort you've put into this. Just to clarify, will I be receiving these documents before or on the day of delivery? And how will they be sent to me? \n\nAlso, could you please tell me more about the delivery person's identification process? How can I ensure it's the right person?\n\nLooking forward to your response.\n\nBest wishes,\nPatricia"
+    },
+    {
+        "from": "baiter_2191",
+        "to": "scammer_2191",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.331747685185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: My dear Patricia",
+        "body": "Hello Rev Ben Johnson,\n\nThank you for your detailed explanation. I appreciate the time you've taken to clarify things for me. I'm looking forward to receiving the copies of the Approval Clearance Entry permit and air waybill.\n\nCould you please tell me more about how this delivery process works? And, what should I do if I'm not at home when the delivery person arrives?\n\nBest wishes,\nPatricia"
+    },
+    {
+        "from": "scammer_2191",
+        "to": "baiter_2191",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.342604166666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "22",
+        "subject": "Re: My dear Patricia",
+        "body": "My dear Patricia,\r\n\r\nI have already explained enough . Kindly send your details so we can start the documentation first thing tomorrow morning. After the documentation,  i shall forward all the Paperworks.\r\n\r\nRegarding the delivery man, on the day of delivery, his ID will be sent to you for easy identification.  You are repeating almost everything you asked before. I have clarified you already. Kindly send your details so we can proceed without any further delay.\r\n\nRev Ben Johnson\r\nCash processing unit\r\n+256-743348442"
+    },
+    {
+        "from": "baiter_2191",
+        "to": "scammer_2191",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.352974537037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "23",
+        "subject": "Re: My dear Patricia",
+        "body": "Hello Rev Ben Johnson,\n\nThank you for your prompt response. I appreciate your patience with me, as I am just trying to understand everything clearly. \n\nCould you please provide more information about the delivery process? How will it be carried out and what are the necessary steps that need to be taken from my end?\n\nAlso, could you tell me a bit more about this cash processing unit? What exactly does it do and how does it work?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nPatricia"
+    },
+    {
+        "from": "baiter_2191",
+        "to": "scammer_2191",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.353460648148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "24",
+        "subject": "Re: My dear Patricia",
+        "body": "Hello Rev Ben Johnson,\n\nThank you for your prompt response. I appreciate your patience with me, I just want to make sure I understand everything correctly. \n\nCould you please explain a bit more about the delivery process? How will the ID of the delivery man be sent to me? And what should I do once I receive it?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nPatricia"
+    },
+    {
+        "from": "scammer_2191",
+        "to": "baiter_2191",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.36,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "25",
+        "subject": "Re: My dear Patricia",
+        "body": "My dear Patricia,\r\n\r\nThe delivery process will be carried out by the courier. The delivery process is as the same normal package delivery you receive from DHL or FedEx courier. The documentation and the ID of the delivery man will attach in the email and sent to you.  I have explained enough. Kindly send your details such as your full names, Address and phone number so we can proceed.\r\n\nRev Ben Johnson\r\nCash processing unit\r\n+256-743348442"
+    },
+    {
+        "from": "baiter_2191",
+        "to": "scammer_2191",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.373414351851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "26",
+        "subject": "Re: My dear Patricia",
+        "body": "Hello Rev Ben Johnson,\n\nThank you for your prompt response and detailed explanation about the delivery process. It's really interesting to know how it works, just like a normal package delivery from DHL or courier. \n\nCould you please tell me more about the ID of the delivery man? How will I be able to verify it? Also, could you provide more information on what happens after I receive the package?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nPatricia"
+    },
+    {
+        "from": "scammer_2191",
+        "to": "baiter_2191",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.379733796296296,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "27",
+        "subject": "Re: My dear Patricia",
+        "body": "My dear Patricia,\r\n\r\nThe delivery man ID is for face identification and nothing more. I have explained to you already that the delivery is like the normal delivery you receive from FedEx and DHL. I have already explained enough. I am getting tired of all these repeating questions.\r\n\r\nOnce you receive your consignment after delivery is completed, you must alleviate poverty in your area and make sure to empower people around you because that is the primary purposes for this fund. Please no more questions.\r\n\r\nKindly send your details so we can proceed without any further delay.\r\n\nRev Ben Johnson\r\nCash processing unit\r\n+256-743348442"
+    },
+    {
+        "from": "baiter_2191",
+        "to": "scammer_2191",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.394710648148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "28",
+        "subject": "Re: My dear Patricia",
+        "body": "Hello Rev Ben Johnson,\n\nThank you for your patience and for explaining the process to me. I'm just trying to understand everything clearly, as this is all new to me. \n\nI am excited about the opportunity to help alleviate poverty in my area. Could you please tell me more about how I can use the fund for this purpose? Are there any specific programs or initiatives that you recommend?\n\nAlso, could you clarify what details you need from me? I want to make sure I provide the correct information.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nPatricia"
+    },
+    {
+        "from": "scammer_2191",
+        "to": "baiter_2191",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.403009259259259,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "29",
+        "subject": "Re: My dear Patricia",
+        "body": "My dear Patricia,\r\n\r\nPoverty alleviation program comprises of helping the poor, Widows, Deprivileged persons mostly children and helping the needy in your community in general. There is no specific program about it. Is all about putting smiles in people's faces.\r\n\r\nThe information we need to proceed are:\r\n\r\nFull names\r\nAddress\r\nPhone number\r\n\r\nOnce we receive this detail, we shall process all the documentation and forward you all the copies before the diplomat will proceed with the delivery.\r\n\nRev Ben Johnson\r\nCash processing unit\r\n+256-743348442"
+    },
+    {
+        "from": "baiter_2191",
+        "to": "scammer_2191",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.415636574074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "30",
+        "subject": "Re: My dear Patricia",
+        "body": "Hello Rev Ben Johnson,\n\nThank you so much for your kind response. It's really heartwarming to hear about the poverty program and how it aims to help the poor, widows, children, and the needy in our community. I truly believe that such initiatives can make a significant difference in people's lives.\n\nI'm curious to know more about how this process works. Could you please share more details? For instance, how are the beneficiaries selected? And what kind of assistance is provided?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nPatricia"
+    },
+    {
+        "from": "scammer_2191",
+        "to": "baiter_2191",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.420347222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "31",
+        "subject": "Re: My dear Patricia",
+        "body": "Help the needy in general . No selection. Is a charity program to alleviate poverty in your community. I am done with question. No more questions. Kindly your details so we can proceed.\r\n\nRev Ben Johnson\r\nCash processing unit\r\n+256-743348442"
+    },
+    {
+        "from": "baiter_2191",
+        "to": "scammer_2191",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.437256944444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "32",
+        "subject": "Re: My dear Patricia",
+        "body": "Hello Rev Ben Johnson,\n\nThank you for reaching out and sharing about this charity program. It sounds like a wonderful initiative to help those in need in our community. Could you please provide more information about how the program works? How does it alleviate poverty? I'm really interested to know more.\n\nLooking forward to your response.\n\nBest wishes,\nPatricia"
+    },
+    {
+        "from": "scammer_2191",
+        "to": "baiter_2191",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.438657407407407,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "33",
+        "subject": "Re: My dear Patricia",
+        "body": "I have already explained everything to you in detail.\r\n\nRev Ben Johnson\r\nCash processing unit\r\n+256-743348442"
+    },
+    {
+        "from": "baiter_2191",
+        "to": "scammer_2191",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.456863425925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "34",
+        "subject": "Re: My dear Patricia",
+        "body": "Hello Rev Ben Johnson,\n\nThank you for your message. I appreciate the time you've taken to explain everything to me. However, I'm a bit slow in understanding complex matters and would need some more clarification.\n\nCould you please elaborate on the details of the cash processing unit? What exactly does it entail? And how does it work?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nPatricia"
+    },
+    {
+        "from": "scammer_2191",
+        "to": "baiter_2191",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.458865740740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "35",
+        "subject": "Re: My dear Patricia",
+        "body": "I have already explained everything to you in detail. I thought I had explained enough. I can't go on repeat things i said again and again. I am tired.\r\n\nRev Ben Johnson\r\nCash processing unit\r\n+256-743348442"
+    },
+    {
+        "from": "baiter_2191",
+        "to": "scammer_2191",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.478101851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "36",
+        "subject": "Re: My dear Patricia",
+        "body": "Hello Rev Ben Johnson,\n\nI hope you're doing well. I'm sorry if I've caused any inconvenience with my questions. It's just that sometimes, things go over my head and I need a bit more clarification to fully understand.\n\nCould you please help me understand the process of the cash processing unit? I'm really interested in knowing how it works.\n\nBest wishes,\nPatricia"
+    }
+]

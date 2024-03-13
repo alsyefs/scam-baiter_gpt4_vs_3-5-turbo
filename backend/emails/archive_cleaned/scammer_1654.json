@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1654",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Hello Dear",
+        "body": "   Hello Dear\nI am Mrs. Maureen , from the USA. I am Married to an Australian but we are both based in the UK , and am suffering from breast cancer . My husband and my only son died four years ago.\nI came online to release my late husband's assets worth USD$5Million to you in order to help me fund churches, the poor and the less privileged, the orphanages ETC.\nThis is my last dying wish\nI will be glad to hear from you\nThanks and God Bless you\nMs.  Maureen   "
+    },
+    {
+        "from": "baiter_1654",
+        "to": "scammer_1654",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Hello Dear",
+        "body": "Hello Ms. Maureen,\n\nI'm deeply touched by your story and I'm sorry to hear about your situation. It's truly admirable that you're thinking of others during such a difficult time.\n\nCould you please tell me more about the projects or organizations you'd like to support? I'd love to learn more about how this funding could make a difference.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nKarma"
+    }
+]

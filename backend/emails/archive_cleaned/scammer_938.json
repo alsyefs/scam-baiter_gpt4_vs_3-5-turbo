@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_938",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Sir",
+        "body": "  Sir\nI am a senior official of currency Minting and printing Company Limited and I had the privileged to come across the foreign contractors' files in which your file was among the files I recovered. And we can wash and clen your found and open any box.\nAfter due consultation and verification conducted on your inheritance & contract file , I truly sympathized with you because I observed that you have suffered a lot.\nThis is the reason why I am writing you to find out if you will be interested to have your funds release to you through my assistance.\nOnce I had your call, I will advise you on what to do.\nHope to hear from you on this matter in the interest of your transaction call me. + 233-243-529-999 .\nYours faithfully\nGeorge Yeboa   "
+    },
+    {
+        "from": "baiter_938",
+        "to": "scammer_938",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Sir",
+        "body": "Hello George Yeboa,\n\nThank you for reaching out to me. I'm quite intrigued by your message, although I must admit, it's a bit confusing. Could you please clarify what you mean by \"wash and clean my found and open any box\"? \n\nAlso, when you mention \"contract file\", could you provide more details about this? I don't recall having any contracts that would require such attention.\n\nI appreciate your assistance and look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nKenneth"
+    }
+]

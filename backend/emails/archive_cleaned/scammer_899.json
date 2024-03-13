@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_899",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "I am writing to inform you tha",
+        "body": "I am writing to inform you that your total funds amounting to $15.5 million USD are scheduled for delivery to your specified address through WorldChoice Delivery Ltd, a trusted courier service.\nTo facilitate the seamless delivery of your funds, kindly provide the following information:\n1.      Your Full Name (as it should appear on the shipment)\n2.      Your Current Mailing (Delivery) Address\n3.      Your Private Mobile Number (for direct contact with the delivery team)\n4.      Your Direct Telephone Number\n5.      Your Email Address\n6.      \nA copy of your identification card or driver's license\nUpon receiving your response, the funds will be dispatched promptly via my office.\nThank you for your cooperation.\nBest regards,\nMr. Frank Williams Rao\nCourier Operations Manager & Associate Banker,\nWorld Choice Delivery Ltd\nTEL: +44 (0) 7361584225"
+    },
+    {
+        "from": "baiter_899",
+        "to": "scammer_899",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: I am writing to inform you tha",
+        "body": "Hello Mr. Frank Williams Rao,\n\nThank you for reaching out to me with this information. I appreciate your assistance in delivering my funds. However, before I provide any personal information, I would like to ask a few questions to ensure the legitimacy of this process.\n\n1. Can you please provide more details about the source of these funds? How did I become eligible for such a large amount?\n\n2. What is the purpose of needing a copy of my card or driver's license? Is there any alternative way to verify my identity?\n\n3. Could you please share some more information about World Choice Delivery Ltd? Are they a well-known and reputable courier service?\n\nI look forward to your response and clarification on these matters.\n\nBest wishes,\nJanet"
+    }
+]

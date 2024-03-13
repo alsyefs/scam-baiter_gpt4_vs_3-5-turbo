@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_814",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "New York, NY, United States of",
+        "body": "New York, NY, United States of America Founded: 1914, New York City, New York, United States\nADDRESS: 33 Liberty St New York , NY 10045-0001 \nFrom the desk of Mr Jerome Powell\nDear Sir/Madam\nTo Whom it may concern,\nWe apologies for the delay of your payment and all the inconveniences we might put you through, while we were having some minor problems with our payment system which in all case not meeting up with fund beneficiary payments, we apologies once again. From the records of outstanding transactions due for payment with federal Government of united states of america your name was discovered on the list, out of the 11 outstanding transactions and beneficiaries who have not yet received their payments during the 3 years tenure of the previous administration in the office please bear with us for making this initial contact through email.\nPlease Kindly reconfirm your details to this bank as a matter of urgency. the federal government will not beheld responsible if you fail to comply with us, you requested to fill and send this information’s for verification purpose so that your fund valued ($5.500.000.00USD) will be delivered to you through the courier delivery company.\nKindly reconfirm to the bank the following info.\n1. Your Full Name:.................\n2. Occupation:...............\n3. Home Address:...............\n4. \nWorking Id/ int’l Passport\n:...............\n5. Age:................\n6. Your telephone number:................\nSincerely.\nMr Jerome Powell\nDirector Federal Reserve Bank\n33 Liberty St New York , NY 10045"
+    },
+    {
+        "from": "baiter_814",
+        "to": "scammer_814",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: New York, NY, United States of",
+        "body": "Hello Mr. Jerome Powell,\n\nThank you for reaching out and explaining the situation. I understand that there might have been some issues with your payment system, these things happen.\n\nI'm curious about this fund payment you mentioned. Could you please provide more details about it? How was my name discovered on the list? And what does it mean for me?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nWilliam"
+    }
+]

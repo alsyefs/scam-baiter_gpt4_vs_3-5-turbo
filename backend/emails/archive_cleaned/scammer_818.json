@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_818",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention",
+        "body": "Attention\nThis is to inform you that the total sum of $1,200,000.00 USD ATM Card\nhave been registered with FedEx for immediate delivery to you by Mrs.\nSusan Ngongi Namondo UN Resident Coordinator in Uganda for your compensation.\nThe $1,200,000.00 USD ATM Card is package is \nready to be deliver to\nyou once you forward the below information.\nName\nAddress\nPhone\nNearest Airport\nMeanwhile the delivery cost has been paid and the only fee you have to\npay is $100.00 USD for security keeping fee \nand your ATM Card package\nfund will be deliver to you within 24 hours once we confirm the fee\nthrough Apple gifts card or steam wallet card as soon as possile.\nContact (\nfedexcouriers286@gmail.com\n)\nYours Sincerely,\nMichael George.\nDirector"
+    },
+    {
+        "from": "baiter_818",
+        "to": "scammer_818",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attention",
+        "body": "Hello Michael George,\n\nThank you for your message. It's quite exciting to hear about this ATM Card. I'm curious, how did Mrs. Susan Ngongi Namondo come to choose me for this? \n\nAlso, could you please explain a bit more about the security keeping fee? What exactly does it cover?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nCherri"
+    }
+]

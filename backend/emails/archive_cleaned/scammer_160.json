@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_160",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention:  ,",
+        "body": "  Attention:  ,\nI am recently waiting to hear from you for the dispatching of your package to your destination doorstep.\nThese are account details to make the payment of the courier company delivery fee as soon as possible for immediate shipment to your address. \nBank Name:Access Bank Nigeria\nAccount Name: P. O. C.\nAccount Number: 081629XXXX\nSwift Code: ABNGNGLA\nBank Address:Plot 1261 Adeola Hopewell\nStreet.Victoria Island ,Lagos, Nigeria\nYours Sincerely,\nDR. OLIVER ALAWUBA\nGROUP MANAGING DIRECTOR/CEO   "
+    },
+    {
+        "from": "baiter_160",
+        "to": "scammer_160",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention:  ,",
+        "body": "Hello Dr. Oliver Alawuba,\n\nThank you for your message. I'm really excited about the package! Could you please tell me more about what's inside it? Also, could you provide some more details about the courier company that will be delivering it? I'd love to know how long they've been in business and if they have a good track record.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nAnna"
+    },
+    {
+        "from": "scammer_160",
+        "to": "baiter_160",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Attention: ,",
+        "body": "*Dear **Anna, *\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Your mail is acknowledged.This is a United Nation Compensation Program and\r\nyour email was selected so follow instructions to enable you to receive\r\nyour Compensation Fund via Atm Visa Card. You are advised to forward your\r\npersonal information as listed Below for immediate commencement of the Atm\r\nCard Activation process.Your Full Names:.............Contact\r\naddress:..........Telephone\r\nNumber:..............City:.................................Zip\r\nCode:...................ID CARD if any:....................Please note that\r\nas soon as I receive your information as stated above, the concerned Bank\r\nwill issue the Card in your name and the Copy will be sent to you via email\r\nattachment for your view before dispatch to your address.Do not delay to\r\nget back to us.Yours Sincerely,DR. OLIVER ALAWUBAGROUP MANAGING\r\nDIRECTOR/CEO*"
+    },
+    {
+        "from": "baiter_160",
+        "to": "scammer_160",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00047453703703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Attention: ,",
+        "body": "Hello Anna,\n\nWow, that's really exciting news! I can't believe my email was selected for the United Nations Program. It's such an honor to be considered for this opportunity.\n\nCould you please tell me more about this program? How was my email chosen? And what exactly does receiving funds via an ATM Visa Card entail?\n\nI'm also curious about the process of activating the card. Could you provide more details on how that works?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAnna"
+    }
+]

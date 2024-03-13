@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1806",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "This is Mrs Linda Solomon , th",
+        "body": "This is Mrs Linda Solomon , the U.S Postmaster General. I want to bring to\nyour Notice that, on my routine Monthly investigation of every USPS And DHL\nOffice visiting, i discovered an abandoned Parcel containing an ATM\nCard worth of IS ($4, 800,000,USD) in one of our offices. And when i made\ninquiry of the reason it has not been mailed for the owner, i\ndiscovered that the mailing information on the Parcel is not complete,\nas the mailing information written on the form is just your name and\nemail address, as the Beneficiary only, no mailing address on it. The\nPostmaster in that branch (Mr. Bernard Coleman) fail to mail it as\nprogrammed, due to the incorrect information.\nI have made the arrangement of mailing the ATM Card Parcel to you. So,\nI'm sending you this message to get back with your current mailing\naddress to enable us to mail it for you.\nNow, i want to mail the ATM Card Parcel for you by myself as i have\nmade the arrangement of mailing it to you. I discussed it with the\nWhite House and all Homeland Securities including FBI and they have\nall given me the go head order to mail it for you immediately, \nyou\nreconfirm your mailing address to this office in order for us to mail\nthe ATM Card directly to you after sending the mailing fee which is\nust US$55\nNote, below is the officially information needed for posting of the\nATM CARD ASAP.\nFull name:_____\nFull mailing Address:_____\nYour cell phone no:_____\nNationality:____\nID card copy\n:___\nWe shall mail the ATM Card for you once you update us with the above\ninformation and the Postal Stamp fee of US$ only via BTC or Steam Wallet card\nUS$55 or Apple  Gift Card of US$55 as a matter of\nUrgency and Deliver you.\nBest Regards,\nMRS LINDA SOLOMON"
+    },
+    {
+        "from": "baiter_1806",
+        "to": "scammer_1806",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: This is Mrs Linda Solomon , th",
+        "body": "Hello Mrs. Linda Solomon,\n\nThank you for reaching out to me regarding the abandoned parcel containing an ATM card. I appreciate your efforts in trying to locate the rightful owner. However, I have a few questions before proceeding.\n\nCould you please provide more details about the ATM card? Is it linked to a specific bank or financial institution? Also, how did you come across my name and email address as the recipient of this parcel?\n\nAdditionally, I'm curious about the mailing fee you mentioned. Could you please explain why there is a fee involved and how it should be paid? Is there any way to verify the legitimacy of this transaction?\n\nThank you for your assistance in clarifying these matters.\n\nBest wishes,\nMaria"
+    }
+]

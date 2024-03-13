@@ -1,0 +1,142 @@
+[
+    {
+        "from": "scammer_2161",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Dear Sir,",
+        "body": " Dear Sir,\n \nI am writing this mail with my heart because of the situation we found ourselves in since we made this journey to Accra, Ghana.  I hope you will find this mail in a good condition. My name is Rana Marwan, we arrived in Ghana in the company of my mother on a UN chartered flight last week. My father was a gold merchant in Sudan with links and business in Ghana, West-Africa before his demise in an air raid that killed so many people in the civil war that is going on in my country.\n \nI and my mother and my other brother decided to leave the country with the aid of the United Nation Organization peacekeepers who rescued us and we were flown to Ghana where we are seeking asylum for now. We decided to fly to Ghana because our late father has two consignment boxes deposited in a security company here in Ghana. One of the boxes contains a cash fund which is valued at US$13,745,000 and the other box contains gold that is in the quantity of 43 Kilograms.\n \nPlease reply to us so that we can discuss with you as we seek your advice to determine how you can assist us to clear these boxes and get the fund invested into any lucrative business in your country and I can also continue with my education again. For your anticipated assistance we will offer you 30% of the fund as your commission for helping us in clearing the boxes from the Security Company.\n \nI am waiting to hear from you.\n \nSincerely,\nRana Marwan    "
+    },
+    {
+        "from": "baiter_2161",
+        "to": "scammer_2161",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  Dear Sir,",
+        "body": "Hello Rana Marwan,\n\nI hope this message finds you well. I'm sorry to hear about the difficult situation you and your family are currently facing. It must be incredibly challenging, especially in these uncertain times.\n\nYour story is quite intriguing, and I'm curious to know more about it. How did your father manage to secure such valuable assets? And why did he choose Ghana as the location for their storage?\n\nAlso, could you please provide more details about the security company where these boxes are kept? How do they operate and what are their procedures for releasing deposited items?\n\nI appreciate your trust in seeking my advice on this matter. However, I would like to clarify that I am not a professional financial advisor or business consultant. My knowledge in these areas is quite limited.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nGloria"
+    },
+    {
+        "from": "scammer_2161",
+        "to": "baiter_2161",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re:  Dear Sir,",
+        "body": "Dear friend,\r\n\r\n\r\nThank you for your mail response. We really appreciate your concern. Our late father was a successful business man when he was alive. He was a gold merchant with a business route to Ghana. That is what brought about storing the fund and the gold bars in Ghana, why because it is where he has been buying his goods and shipping into our country, Sudan.\r\n\r\nThe Security Company where he deposited the fund in the consignment box and the gold bars is called Globis Security Company GH. Ltd and it is situated in Accra, Ghana. That is the reason for our choice to run for asylum in Ghana because of the fund and gold that our late father has in the security company here.\r\n\r\nTheir mode of operation and the procedure is that if you have any demurrage fee accumulated since the deposit is made, it must be paid before you can make any claim. Also when going for claim, you must go there with your Deposit Certificate given to the depositor by the company on the day of the deposition.\r\n\r\nAs the next of kin to the depositor who is Fredrick Marwan, we wrote to you so that you can partner with us clear the demurrage fee that has accumulated since last two years to enable them release the consignment box to you as the beneficiary on our behalf. For your assistance, we will offer you 30% of the fund when you help get the consignment boxes out of the Security Company.\r\n\r\nWe are waiting to hear from you.\r\n\nYours Sincerely,\r\n\r\nRana and Mom"
+    },
+    {
+        "from": "baiter_2161",
+        "to": "scammer_2161",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00045138888888888887,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re:  Dear Sir,",
+        "body": "Hello Rana and Mom,\n\nThank you for sharing this information with me. It sounds like your late father was a very successful businessman, and I'm sorry to hear about his passing.\n\nI'm curious about the Globis Security Company GH. Ltd in Accra, Ghana. Could you tell me more about how they operate? And what exactly is a demurrage fee?\n\nAlso, could you clarify what you mean by \"you must go there with your Deposit given to the depositor by the company on the day of\"? I'm not quite sure I understand that part.\n\nLastly, when you mention partnering to clear the demurrage fee, could you provide more details on how that would work? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nGloria"
+    },
+    {
+        "from": "scammer_2161",
+        "to": "baiter_2161",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.010277777777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re:  Dear Sir,",
+        "body": "Dear friend,\r\n\r\n\r\nThe demurrage fee that we owe in the company is about US$8,320. I mean that you when you are going for claim, you must go with your deposit certificate given to you as the depositor.\r\n\r\nWhen we say partnering we mean to be part of us and pay the demurrage fee that we owe in the company. Because of that we are offering you 30%of the transaction as our new beneficiary.\nThanks,\r\n\r\nRana and Mom."
+    },
+    {
+        "from": "baiter_2161",
+        "to": "scammer_2161",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.011539351851851851,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re:  Dear Sir,",
+        "body": "Hello Rana and Mom,\n\nThank you for your message. It's interesting to hear about the demurrage fee situation at your company. I'm a bit confused though, could you please explain more about what this fee is for? And how does one become a partner in your company? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nGloria"
+    },
+    {
+        "from": "scammer_2161",
+        "to": "baiter_2161",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.013032407407407407,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re:  Dear Sir,",
+        "body": "To clear the consignment box from the company and get it released to us as the beneficiary."
+    },
+    {
+        "from": "baiter_2161",
+        "to": "scammer_2161",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.01361111111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re:  Dear Sir,",
+        "body": "beneficiary, what steps do I need to take? Could you please guide me through the process?\n\nBest wishes,\nGloria"
+    },
+    {
+        "from": "scammer_2161",
+        "to": "baiter_2161",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.02053240740740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re:  Dear Sir,",
+        "body": "Please contact the Security Company for enquiry. Their email address is globis@qualityservice.com<mailto:globis@qualityservice.com>. Kindly write to them for more confirmation."
+    },
+    {
+        "from": "baiter_2161",
+        "to": "scammer_2161",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.021180555555555557,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re:  Dear Sir,",
+        "body": "Hello there,\n\nThank you for your message. I appreciate the information you've provided. Could you please tell me more about this Security Company? What services do they offer and how can they assist me? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nGloria"
+    },
+    {
+        "from": "scammer_2161",
+        "to": "baiter_2161",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.023530092592592592,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re:  Dear Sir,",
+        "body": "Contact them. Whatever you want to ask them, they will be on hand to answer you."
+    },
+    {
+        "from": "baiter_2161",
+        "to": "scammer_2161",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.02396990740740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re:  Dear Sir,",
+        "body": "Hello there,\n\nI hope this message finds you well. I'm reaching out to gather some information and I was told that you might be able to help me. \n\nCould you please provide me with more details about your services? What exactly do you offer and how does it work? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nGloria"
+    },
+    {
+        "from": "scammer_2161",
+        "to": "baiter_2161",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.02953703703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re:  Dear Sir,",
+        "body": "I hope you are human."
+    },
+    {
+        "from": "baiter_2161",
+        "to": "scammer_2161",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03025462962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re:  Dear Sir,",
+        "body": "Hello there! I hope you're having a great day. I'm here to share some information with you. Is there anything specific you'd like to know about?\n\nBest wishes,\nGloria"
+    }
+]

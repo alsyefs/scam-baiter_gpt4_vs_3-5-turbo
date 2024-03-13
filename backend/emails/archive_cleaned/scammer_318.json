@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_318",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hi",
+        "body": "  Hi\nI am a Canadian female geologist dealing in crude oil and precious stones business in the Middle East. I have an urgent welfare mission project that will require your personal involvement if you oblige.\nWe shall discuss details upon your response.\nDr.Thana Burhan\n(Manama Bahrain)\nReply to Email:   \nburhanthana099@gmail.com\n "
+    },
+    {
+        "from": "baiter_318",
+        "to": "scammer_318",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Hi",
+        "body": "Hello Burhan,\n\nThank you for reaching out to me. I'm interested to hear more about your welfare mission project. Could you please provide me with some details? What exactly is the project about and how can I be of help?\n\nLooking forward to your response.\n\nBest wishes,\nWendy"
+    },
+    {
+        "from": "scammer_318",
+        "to": "baiter_318",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Hi",
+        "body": "Thanks for your candid response.  It is important that I explain the\r\ndetails of  the proposed charity project so that you will understand\r\n exactly what to do and how I need your  involvement in the program as\r\nadministrator. It is a 100% legal and legitimate  welfare program to help\r\nespecially  the suffering orphans,  less privileged widows  and abandoned\r\nelderly people in the society.\r\n\r\n I feel eternally indebted to society  because I was raised in an orphanage\r\n in Toronto and went through school by scholarship under (NSERC)Natural\r\nSciences & Engineering Research Council Canada.  This brief introduction is\r\nnecessary so that you would know my humble background and appreciate the\r\nreason for my  decision to reach out for this charity mission at this time\r\nof my life, with my personal wealth made from the crude oil and precious\r\nstones business.\r\n\r\nI was married for many years to a wealthy businessman  and  later got\r\ndivorced from the fruitless and abusive marriage.I have no child of my own\r\nand no immediate or traceable blood relatives as family. Just about  when I\r\ndecided   to go for an adoption, I became  very sick and was later\r\ndiagnosed with a  terminal disease which is why I am at a medical facility\r\nhere in Manama Bahrain for treatment. My resolve to embark on this\r\nhumanitarian program at this very critical time of my life is because it is\r\nthe only achievement that will  bring satisfaction to my soul. It would be\r\nfoolish of me to leave behind my hard earned wealth to the so-called\r\nfriends  who betrayed and actually abandoned me now that I need them most.\r\nI wish to know more about your good self in detail, with your picture or\r\nidentity attached. I will provide you with more  information  on receipt of\r\nyour positive response.\r\n\nDr.Thana Burhan\r\nBldg 178, Flat 104, Road 907, 309\r\nP.O. Box 10988\r\nManama Bahrain\r\nTel/WhatsApp : +97337079207"
+    },
+    {
+        "from": "baiter_318",
+        "to": "scammer_318",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.403275462962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Hi",
+        "body": "Hello Burhan,\n\nThank you for reaching out and sharing your story. I'm sorry to hear about the challenges you've faced in your life, but it's admirable that you want to help those in need through a charity project.\n\nCould you please provide more information about the specific details of this charity project? I would like to understand how it works and how my involvement would make a difference. Additionally, could you explain how the funds will be used to support orphans, widows, and elderly people?\n\nWhile I appreciate your request for personal information, I prefer to keep my identity private for now. However, I am genuinely interested in learning more about this opportunity and how I can contribute positively.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nWendy"
+    }
+]

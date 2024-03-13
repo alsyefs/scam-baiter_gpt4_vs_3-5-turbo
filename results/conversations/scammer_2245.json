@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2245",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention:Benefivery,",
+        "body": "  Attention:Benefivery,\nFUND RELEASE PAYMENT APPROVED US$30.5MiILLON UNITED STATES DOLLARS\nThis is urgent message to you kindly been inform that the president of america,Mr.Joe Biden,is now have concluded approved release of your abandon FUND US30.5M for immediate your FUND,\n be release to you this new year 2024 January so because of delay if you are the one been the real beneficiary of this FUND Do not be delay and kindly send your address details information requested below  was i received your details i will proceed ON how you are going to be receive  your FUND,\nYour Full Name\nYour Country\nYour Age\nYour telephone number\nCopy Of your ID Card passport\nYour Occupation\nRegards,\nMr.Thomas Rosel\nU.S Government\nTreasury Department   "
+    },
+    {
+        "from": "baiter_2245",
+        "to": "scammer_2245",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention:Benefivery,",
+        "body": "Hello Rosel,\n\nThank you for reaching out to me. I'm quite surprised and excited about this news! Could you please tell me more about how this came to be? How was my name chosen for this fund release?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nCameron"
+    },
+    {
+        "from": "scammer_2245",
+        "to": "baiter_2245",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Attention:Benefivery,Cameron,Kindly Response",
+        "body": "Attention:Cameron,\r\n\r\nThank you for your response to my email, i need to been kindly inform you\r\nthat this is NOT a scam will are here U.S Government Treasury Department to\r\nbe RELEASED your FUND US$30.5M,\r\n\r\n because your name has been listed  among the (5)beneficiary so because of\r\ndelay you have to been kindly send your bank account details information\r\nincluding your home address details requested BELOW, send it to us so that\r\nwill can proceed where your FUND been deposited in your name has you are\r\nthe benefivery and find attach copy of my working ID Card has been attach\r\nto this email,\r\n\r\nYour Full Name\r\nYour Country\r\nYour Age\r\nYour telephone number\r\nCopy Of your ID Card passport\r\nYour Occupation\nRegards,\r\nMr.Thomas Rosel\r\nU.S Government\r\nTreasury Department"
+    },
+    {
+        "from": "baiter_2245",
+        "to": "scammer_2245",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.09479166666666666,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Attention:Benefivery,Cameron,Kindly Response",
+        "body": "Hello Rosel,\n\nThank you for your message. It's quite exciting to hear that my name has been listed by the Government Treasury Department. I'm curious, how did my name come up? \n\nAlso, could you please explain a bit more about this fund? How much is it and why is it being released to me?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nCameron"
+    }
+]

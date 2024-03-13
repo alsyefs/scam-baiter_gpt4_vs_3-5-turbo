@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1599",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Beneficiary,",
+        "body": "Dear Beneficiary,\nWe were instructed and mandated by the present government administration in\nNigeria to pay your fund of US$12.8 MILLION,which is long overdue.\nThis instruction by the government is in line with the fight against\ncorruption which has brought a bad name and has painted Nigeria and her\ncitizens black in the international community.\nTherefore, we can pay you via BANK to BANK ONLINE WIRE TRANSFER OR VIA ATM CARD which you can use in any ATM MACHINE in the world.\nPlease cooperate with us to serve you better.\nKindly Provide the Detailed Information Below and Get Back to Us for Your fund to Be Delivered to You:\nYour Full Name:\nBank Details:\nResidential Address.\nPhone/Mobile Number.\nAttached Copy of Your Identification\n:\nOccupation:\n \nPlease Provide the Above Information Accurately, Because This Office Will Not Be Held Liable for Any Wrong Delivery of Funds via ATM Card or Wire Transfer. Thanks for Banking With us While We Look Forward to Serving You With the Best of Our Service.\nRegards,\nUgo Frank,\nDirector,\nForeign Remittance\nGuaranty Trust Bank plc\nEmail Address: \nmfonkpan@gmail.com"
+    },
+    {
+        "from": "baiter_1599",
+        "to": "scammer_1599",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "Dear Ugo Frank,\n\nThank you for reaching out to me regarding the payment of my fund. I appreciate the efforts of the present government in Nigeria to fight against corruption and improve the country's reputation.\n\nI am interested in receiving my funds, but I have a few questions before proceeding. Could you please provide more details about the process of the BANK to BANK ONLINE WIRE TRANSFER? How long does it usually take for the funds to be transferred? Are there any fees or charges associated with this method?\n\nAdditionally, I would like to know more about the ATM card option. How does it work exactly? Can I use it internationally? Are there any limitations or restrictions on withdrawing funds from an ATM machine?\n\nLastly, could you please clarify what information you require from me in order to proceed with either method of payment? I want to ensure that everything is done correctly and securely.\n\nThank you for your assistance, and I look forward to your response.\n\nBest wishes,\nClay"
+    }
+]

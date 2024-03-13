@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2256",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention Customer",
+        "body": "Attention Customer\nThis is from Coca cola Company contacting again regarding for this your US$10.500,000.00 for last time, we told you before that our coca cola  company Branch in your Country will contact you US$10.500,000.00 after your file is approved with the low cost of $25 which you have opportunity from now till tomorrow After tomorrow, this payment will cancel and nullify, \nif you are willing to receive this US$10.500,000.00   awarded by Coca Cola Company then send\nApple gift card or Steam Card of $25 and update us.\nMr Stephen James\nPresident & Chief Operating\nOfficer of Coca-Cola Canada Bottling Limited"
+    },
+    {
+        "from": "baiter_2256",
+        "to": "scammer_2256",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attention Customer",
+        "body": "Hello Mr. Stephen James,\n\nThank you for reaching out to me regarding the US award from Coca Cola Company. I appreciate the reminder about the deadline for payment. However, I have a few questions before proceeding.\n\nCould you please provide more details about the award? What is it specifically for and how was I selected as a recipient? Additionally, could you clarify why an Apple gift card or Steam Card is required for this process?\n\nI look forward to your response.\n\nBest wishes,\nGary"
+    }
+]

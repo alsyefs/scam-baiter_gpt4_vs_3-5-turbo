@@ -1,0 +1,112 @@
+[
+    {
+        "from": "scammer_2400",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  DR. MS. Susan Holm",
+        "body": "  DR. MS. Susan Holm\nChief Financial Officer\nPostFinance Bank AG\nMingerstrasse 20,\nBern, BE, 3030, Switzerland.\n02/09/2024\nFor your attention\nPlease note that we have received a Memo from the office of the Permanent Secretary Federal Ministry of Finance where your funds originated from instructing us to return all unclaimed funds back to the source, the management of Post Finance Bank has directed that we notify all customers whose funds are still with us to make efforts to receive their funds or it will be returned back. We do not have the authority to retain such funds here with us, because we are only their correspondent bank.\nPlease get back to us urgently.\nDR. MS. Susan Holm\nChief Financial Officer   "
+    },
+    {
+        "from": "baiter_2400",
+        "to": "scammer_2400",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   DR. MS. Susan Holm",
+        "body": "Hello Dr. Ms. Susan Holm,\n\nThank you for reaching out to me regarding this matter. I must say, it's quite surprising to hear about these unclaimed funds. Could you please provide more details about this? For instance, how did my name come up in connection with these funds? And what is the process for claiming them?\n\nLooking forward to your response.\n\nBest wishes,\nVictoria"
+    },
+    {
+        "from": "scammer_2400",
+        "to": "baiter_2400",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "For your attention Victoria,",
+        "body": "Dr. MS. Susan Holm\r\nChief Financial Officer\r\nPostFinance Bank AG\r\nMingerstrasse 20,\r\nBern, BE, 3030, Switzerland.\r\n\r\nFor your attention Victoria,\r\n\r\nThank you for your message, and sorry for responding late. Your contract\r\nfile was forwarded to our bank for payment The Federal Ministry of Finance\r\nNigeria, we are a correspondence bank to the Central bank of Nigeria, and\r\nwe handle all their offshore payment. So your payment of $10.7 Million\r\nDollars originated from there.This payment file has been in our bank since\r\nlast year September, it has been processed waiting for you to reconfirm\r\nyour particulars.\r\n\r\nWe received a fresh memo from the Ministry of Finance Nigeria to return\r\nback to the Central Bank of Nigeria all the unclaimed funds that is still\r\nin our bank, if you are still interested in receiving your funds still with\r\nus, you are advised to reconfirm your particulars to enable us do the\r\nneedful, and we will also notify the Ministry of Finance that you are ready\r\nand willing to receive your payment.\r\n\r\nPlease get back to us\r\n\nDr. MS. Susan Holm"
+    },
+    {
+        "from": "baiter_2400",
+        "to": "scammer_2400",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.011689814814814814,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: For your attention Victoria,",
+        "body": "Hello Dr. MS. Susan Holm,\n\nThank you for your response and the information provided. I'm quite interested in understanding more about this process. Could you please elaborate on how these funds came to be in your bank? Also, could you explain what steps I need to take to reconfirm my interest in receiving these funds?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nVictoria"
+    },
+    {
+        "from": "scammer_2400",
+        "to": "baiter_2400",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.2491898148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: For your attention Victoria,",
+        "body": "Attention Victoria,\r\n\r\nThank you for your response. We have already notified you that we are\r\nacting as the correspondence to the Federal Ministry of Finance Nigeria\r\nwhere your funds originated from. This funds was first moved to another\r\ncorrespondence bank, kuveytturkbank Bank (KTB) in Istanbul Turkey before it\r\nwas redirected to our bank because of delay, all this happened since 2023\r\nSeptember.\r\n\r\nI don't understand how you are telling us that you are not aware that your\r\nfunds are with us, according to instructions from the originating Ministry\r\nof Finance, this is a contract that you or your company executed and has\r\nnot been paid.\r\n\r\nThe step to follow is first your will reconfirm your particulars including\r\nyour nominated bank account where the funds will be credited, once we\r\nreceive your particulars, we will apply to the  European Banking Authority\r\n(EBA) for a payment clearance, this is because any payment originating from\r\nAfrica that is above one Million,  European Banking Authority (EBA) must\r\ngive their clearance before any bank in Europe will make such a payment.\r\n\r\nOnce we get a clearance from them, we will process and credit your\r\nnominated bank account. Please get back to me with the required information.\r\n\nDr. MS Susan Holm"
+    },
+    {
+        "from": "baiter_2400",
+        "to": "scammer_2400",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.26155092592592594,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: For your attention Victoria,",
+        "body": "Hello Dr. Susan Holm,\n\nThank you for your detailed explanation. It's quite surprising to hear about these funds, as I don't recall executing any contract that would result in such a large sum of money. However, I'm intrigued by this situation and would like to understand more.\n\nCould you please provide me with more information about the contract or company that supposedly executed it? Also, could you clarify why the funds were moved from Nigeria to Turkey and then redirected to your bank?\n\nI appreciate your assistance in this matter and look forward to hearing from you soon.\n\nBest wishes,\nVictoria"
+    },
+    {
+        "from": "scammer_2400",
+        "to": "baiter_2400",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.622199074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: For your attention Victoria,",
+        "body": "After a brief meeting of the board of directors, I have been directed to\r\nreturn the payment file that bears your name back to where it originated\r\nfrom, we cannot keep giving out information to you while you have proven\r\nthat the payment does not belong to you. such amount of money is not what\r\nwe will pay to someone that is not sure that it belongs to her, please note\r\nthat the file will be returned back to the Federal Ministry of Finance\nAbuja Nigeria.\r\n\r\nThank you\r\n\r\nDr. MS. Susan Holm"
+    },
+    {
+        "from": "baiter_2400",
+        "to": "scammer_2400",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6367013888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: For your attention Victoria,",
+        "body": "Hello Dr. MS. Susan Holm,\n\nThank you for your message. I'm a bit confused about the situation, could you please explain it to me in simpler terms? What exactly is this payment file that bears my name? And why would it be returned back to the Federal Ministry of Finance Abuja Nigeria?\n\nI'm sorry for any inconvenience caused, I just want to understand the situation better.\n\nLooking forward to your response.\n\nBest wishes,\nVictoria"
+    },
+    {
+        "from": "scammer_2400",
+        "to": "baiter_2400",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.7728125,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: For your attention Victoria,",
+        "body": "Please a contract payment that originated from the Federal Ministry of\r\nFinance Nigeria was forwarded to my bank for payment, it was a contract\r\nexecuted in Nigeria, the Job was done at Nigeria National Petroleum\r\nCorporation and the contract is valued at $10.7 Million, i don't know what\r\nelse you want me to tell you, if you are not interested in receiving the\r\nfunds we will return it back from where it originated from, the payment\r\nfile is a payment instruction directing us to settle the contractor that\r\nhas completed his/her job and has not been paid.\r\n\r\nPlease there is no risk involved in the payment, you are not the only\r\npayment we are instructed to pay, we have more than thirteen payment files\r\nfrom the Federal Ministry of Finance, we are their correspondence bank, we\r\nhandle all their foreign payments.\r\n\r\nAll we need from you is for you to reconfirm your particulars to us, this\r\nwill show that you are the real person, you have nothing to fear, there is\r\nno risk involved. If you cannot receive it in your bank account for\r\nsecurity reason, we will create an online bank account in our bank, and you\r\ncan transfer the funds to any bank of your choice in bits\r\n\r\nBut if you delay, my bank will return the funds back to where it came from,\r\nit is a clear bank payment.\r\n\nDr. MS. Susan Holm"
+    },
+    {
+        "from": "baiter_2400",
+        "to": "scammer_2400",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7830092592592592,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: For your attention Victoria,",
+        "body": "Hello Dr. MS. Susan Holm,\n\nThank you for your detailed explanation about the contract payment from the Federal Ministry of Finance Nigeria. It's quite interesting to know that such a large amount of money is involved in this transaction.\n\nI'm curious, how did my name come up in relation to this contract? I don't recall having any business dealings with the Nigeria National Petroleum or any other Nigerian entity for that matter.\n\nAlso, could you please elaborate on the process of creating an online bank account? How does it work and what are the steps involved?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nVictoria"
+    },
+    {
+        "from": "baiter_2400",
+        "to": "scammer_2400",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7833217592592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: For your attention Victoria,",
+        "body": "Hello Dr. MS. Susan Holm,\n\nThank you for your detailed explanation about the contract payment from the Federal Ministry of Finance Nigeria. It's quite interesting to learn about the work done at Nigeria National Petroleum and how it's valued at a million.\n\nI'm curious, though, how did my name come up in this? I don't recall having any business dealings in Nigeria or with the petroleum industry. Could there be a mix-up somewhere?\n\nAlso, could you please elaborate more on the process of creating an online bank account? How does transferring funds in bits work exactly?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nVictoria"
+    }
+]

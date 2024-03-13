@@ -1,0 +1,622 @@
+[
+    {
+        "from": "scammer_1317",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Your funds worth ($15 Million ",
+        "body": "Your funds worth ($15 Million USD) has been deposited through JP Morgan Chase Bank in New York after our final meeting today\n \nContact Mr Johnson Richard\nReconfirm your information as such\n \nReceiver's Name \nAddress: \nCountry:\nTelephone Number:\n \nFrom JP MORGAN CHASE BANK\nYour Funds Worth $15 Million USD\ncall or Text 2602322757 usa\n Mr Johnson Richard"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Your funds worth ($15 Million ",
+        "body": "Hello Mr. Johnson Richard,\n\nThank you for reaching out to me. I received your message regarding the deposit of my funds worth a million USD through JP Morgan Chase Bank in New York. This is quite unexpected, but I'm definitely interested in learning more about it.\n\nCould you please provide me with some additional details? Specifically, I would like to know how this deposit came about and what steps I need to take to access these funds. Additionally, could you clarify what you mean by \"reconfirm your as such\" and provide further instructions on how to proceed?\n\nI appreciate your assistance and look forward to hearing back from you soon.\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "My name is Johnson Richard the manager of JP Morgan chase bank here in New\r\nYork City USA"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0005555555555555556,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello Johnson Richard, it's nice to meet you. How can I assist you today?\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0007060185185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Proceed me your full information address to proceed the delivery immediately\r\n\r\nFull Name\r\nHome address\r\nPhone number\r\nCountry\r\nOccupation\r\nID card\r\n\r\nTo enable me proceed the delivery immediately."
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0011689814814814816,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello! Thank you for reaching out. I appreciate your willingness to proceed with the delivery. However, I'm a bit hesitant to share my personal information right away. Could you please provide me with more details about the delivery? What is it that you are looking to deliver and from where?\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0013310185185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Provide me your full information address to proceed the delivery immediately\r\n\r\nFull Name\r\nHome address\r\nPhone number\r\nCountry\r\nOccupation\r\nID card"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0022685185185185187,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "What I need is the information to avoid wrong delivery"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0025694444444444445,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello! Thank you for reaching out. I understand that avoiding wrong delivery is important to ensure that packages and items are delivered to the correct recipients. Could you please provide me with more information about how this can be achieved? I'm interested in learning more about it.\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.002638888888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello! Thank you for reaching out. I appreciate your interest in sharing information. However, I'm a bit cautious about providing personal details online. Could you please tell me more about what this delivery is for and why my address and other information are needed?\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.003726851851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "With your full correct address your fund will be delivered to you\r\nsuccessfully"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.003946759259259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello! Thank you for reaching out to me. I appreciate your offer to deliver my fund. Could you please provide me with more details about the process? How long will it take for the fund to be delivered, and are there any fees or charges involved?\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.005636574074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "It’s what i said on my previous email that with your address I will know\r\nhow long it will take to be delivered if is not in USA 🇺🇸 I will know how\r\nlong it will take to be delivered in your country"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.006053240740740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello,\n\nThank you for reaching out to me again. I appreciate your willingness to provide more information. Can you please clarify what exactly you need my address for? I just want to make sure I understand the purpose behind it.\n\nAdditionally, could you please let me know which country you are referring to when you mention \"your country\"? It would be helpful to have that information so that I can better understand the delivery timeline.\n\nLooking forward to hearing back from you.\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.008518518518518519,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "My office is here in USA 🇺🇸 so give me your address to proceed the\r\ndelivery"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.009039351851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello! Thank you for reaching out. I appreciate your offer to proceed with the delivery, but I'm curious to know more about what it entails. Could you please provide me with some additional information about the package and the delivery process?\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.009953703703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "I have told you everything you need to know about this delivery 🚚"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.010266203703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello! Thank you for sharing the information about the delivery. I appreciate your help. Can you please provide me with more details about the delivery process? How long does it usually take for the package to arrive? Is there a tracking number that I can use to keep an eye on its progress?\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.011863425925925927,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Once i register your fund I will send you tracking number\r\nBut before that I need to know what country you from to know the delivery\r\n🚚 timeline"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.012291666666666666,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "19",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello! Thank you for reaching out. I appreciate your assistance with tracking my fund. I am currently residing in the United States. Could you please let me know the estimated delivery timeline for my country?\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.014131944444444445,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "20",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Within 3 or 4 hours depending on your state"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.014363425925925925,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "21",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello! Thank you for reaching out. I'm interested in learning more about what you mentioned regarding the timeframe. Could you please provide me with some additional details?\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.018761574074074073,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "22",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Now I’m waiting for your information"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.01923611111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "23",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello there! I hope you're doing well. I'm curious to know what information you'd like to share. Feel free to let me know, and I'll be happy to listen and ask any follow-up questions if needed.\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.020289351851851854,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "24",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "All I need is\r\nFull Name\r\nHome 🏠 Address\r\nPhone ☎️ number\r\nOccupation\r\nID 🪪 card\r\nCountry"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.020613425925925927,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "25",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello! Thank you for reaching out. I appreciate your interest in gathering information, but I'm a bit cautious about sharing personal details online. Could you please let me know why you need this information and how it will be used?\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.02079861111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "26",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "If you didn’t provide me this information I will not answer any question\r\nyou ask me"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.02141203703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "27",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello! Thank you for reaching out. I'm happy to answer any questions you have, but could you please provide me with some more information or context about what you're referring to? That way, I can better understand and assist you.\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.021493055555555557,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "28",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "If you not serious please don’t ask me any nonsense questions again\r\nAre you a kid or do you think that I’m here for games"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.022002314814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "29",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello there! I apologize if my previous message came across as nonsensical. I assure you, I am serious and here for a genuine conversation. How can I assist you today?\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.02236111111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "30",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "I said you should provide me the following information\r\n\r\nFull Name\r\nHome 🏠 Address\r\nPhone ☎️ number\r\nOccupation\r\nID card\r\nCountry"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.02269675925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "31",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello! Thank you for reaching out. I appreciate your interest in connecting with me. However, I'm a bit cautious about sharing personal information online. Could you please let me know why you need these details?\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.023564814814814816,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "32",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Why i need it is to make sure that your fund will be delivered successfully\r\nin your address"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.024212962962962964,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "33",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello! Thank you for reaching out. I'm curious, could you please provide me with more information about the fund delivery? How does it work and what are the steps involved?\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.026597222222222223,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "34",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Once I register your fund I send you your tracking number immediately"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.026990740740740742,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "35",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "I will not answer any question from you if you don’t provide me the\r\nrequired information"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.02701388888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "36",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello! Thank you for reaching out. I'm interested in learning more about this fund registration process. Could you please provide me with some additional details? What kind of fund is it, and what are the benefits of registering? Also, how long does it typically take to receive the tracking number once the registration is complete?\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.02763888888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "37",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello! Thank you for reaching out. I'm happy to chat and share information with you. What do you need help with?\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.02851851851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "38",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Full Name\r\nHome address\r\nPhone number\r\nCountry\r\nOccupation\r\nID card"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.029016203703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "39",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello! Thank you for reaching out. I appreciate your interest in connecting and sharing information. However, I prefer not to provide personal details such as my full name, home address, phone number, country, occupation, or ID card information online. Is there anything specific you would like to discuss or any topic you'd like to share? Let's keep the conversation going!\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.030011574074074072,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "40",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "If you won't provide the address let's forget everything"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03037037037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "41",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello! I hope you're doing well. I understand that you're looking for some information, and I'd be happy to help if I can. What specifically are you interested in learning about?\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.03138888888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "42",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "You not serious"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03172453703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "43",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello! I hope you're doing well. I'm sorry if my previous message came across as not serious. I assure you, I am genuinely interested in what you have to share. Could you please provide me with more information?\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.03599537037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "44",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Bye for now you not serious"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03644675925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "45",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello! I hope you're doing well. I'm sorry if my previous message came across as not serious. I assure you, I am genuinely interested in what you have to share. Could you please tell me more about the information you'd like to share?\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.12425925925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "46",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "I'm tired of your question I'm 67 years old man so I'm not here for games"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.1310763888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "47",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello there! I apologize if my previous message came across as a game. I assure you, I am here to have a genuine conversation and share information. Is there something specific you would like to discuss or learn about?\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.13495370370370371,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "48",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Learn what you I see you not serious"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7561111111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "49",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello! Thank you for reaching out. I'm always open to learning new things and gaining knowledge. What do you have in mind?\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.2762731481481482,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "50",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Don't contact me again because you not serious"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.320625,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "51",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello there! I hope you're having a great day. I understand that you may have concerns about my seriousness, but I assure you that I am genuinely interested in hearing what you have to share. Could you please provide me with more details or information about what you'd like to discuss?\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.3289583333333335,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "52",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "I told you already that I'm not here for games"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.778287037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "53",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello! I apologize if it seemed like I was playing games earlier. I assure you, that's not my intention. I'm actually here to have a conversation and share information. Is there something specific you'd like to talk about or learn more about?\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.980011574074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "54",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Bye"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.986180555555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "55",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello! How are you doing today? I hope you're having a great day so far. I wanted to share some interesting information with you. Did you know that there are amazing opportunities out there to make money from the comfort of your own home? It's true! Many people have found success through online businesses and investments. Have you ever considered exploring these options?\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.212164351851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "56",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "I can see you not serious"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.3812037037037035,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "57",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello! I apologize if it seemed like I wasn't taking you seriously. I assure you that I am interested in what you have to share. Please go ahead and tell me more about the information you'd like to share.\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.384305555555556,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "58",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "I will not repeat myself again get me your full information address if you\r\nwant to receive your fund\r\n\r\nFull Name\r\nHome address\r\nOccupation\r\nPhone number\r\nID card\r\nCountry"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.402488425925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "59",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello! Thank you for reaching out to me. I appreciate your offer, but I'm a bit hesitant to share my personal information right away. Could you please provide me with more details about the fund you mentioned? What is it for and how did I become eligible for it?\n\nBest wishes,\nGeneva"
+    },
+    {
+        "from": "scammer_1317",
+        "to": "baiter_1317",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.404884259259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "60",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "I can't explain anything to you again\r\nBye"
+    },
+    {
+        "from": "baiter_1317",
+        "to": "scammer_1317",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.96525462962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "61",
+        "subject": "Re: Your funds worth ($15 Million",
+        "body": "Hello! I'm sorry if I gave the wrong impression. I'm actually quite interested in learning new things and hearing different perspectives. Is there something specific you'd like to share or explain? I'm all ears!\n\nBest wishes,\nGeneva"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2152",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Hello,",
+        "body": "Dear Hello,\nI need you as an Overseas Partner in a financial transaction worth. (US$11,745,358.00) if you have a Personal Bank Account and not Company's Bank Account.  A Bank Account that only you control.  This amount is not from illegal funds (drug funds, money laundering funds, illegal firearms funds, illegal gambling funds) but from an\nOver-invoicing of a (Contract Projects) already completed and full payment made to the Original Contractor leaving out this. (US$11,745,358.00) which we are seeking for your cooperation shall be legally remitted into that Bank Account for our mutual benefits.  My colleagues and I have agreed to give you 35% of the total amount at\nthe conclusion of the transaction within (7) days.\nThe process is that you will act as our Overseas Partner, we shall, process and remit first $500,000.00 into that Bank Account to test your loyalty and trustworthiness.  If you do not (sit tight) on the remitted $500,000.00 then the balance will be remitted immediately.\nWrite back if you are interested on this email: \nra4278741@gmail.com\nRegards,\nKaori ICHIKAWA."
+    },
+    {
+        "from": "baiter_2152",
+        "to": "scammer_2152",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Hello,",
+        "body": "Hello,\n\nThank you for reaching out with this opportunity. Can you provide more details about the Contract Projects that have been completed and how my involvement as an Overseas Partner would work? I'm interested in learning more about the process and how we can proceed.\n\nLooking forward to your response.\n\nBest wishes,\nMarie"
+    },
+    {
+        "from": "scammer_2152",
+        "to": "baiter_2152",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Hello,",
+        "body": "Dear Sir,\r\n\r\nYour email reply received.\r\n\r\nThis amount is not from illegal funds (drug funds, money laundering funds,\r\nillegal firearms funds, illegal gambling funds) but from an Over-invoicing\r\nof a Government Projects already completed and full payment made to the\r\nOriginal Contractor leaving out this (US$11,745,358.00) which we are\r\nseeking for your cooperation shall be\r\nlegally remitted into that Bank Account for our mutual benefits.\r\n\r\nThe Process is very simple, send to me your Personal Bank Account\r\ndetails,Full name, Address, Phone and copy of ID then our personnel will do\r\nthe necessary documentation to present you as the Funds Owner/Funds\r\nBeneficiary.\r\n\r\nThen, approvals/remittance schedule batch will be obtained.  The\r\nwith-holding Bank will now communicate to you directly as the Funds\r\nOwner/Funds Beneficiary.\r\n\r\nNote:  The sum of $500,000.00 shall be remitted firstly to your bank account\r\n\r\nWrite back if you are interested.\nRegards,\r\nMrs. Kaori ICHIKAWA."
+    },
+    {
+        "from": "baiter_2152",
+        "to": "scammer_2152",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00829861111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Hello,",
+        "body": "Hello,\nThank you for sharing this information with me. I appreciate your transparency regarding the source of the funds. Can you provide more details about the Government Projects that were completed and led to this payment? I am interested in learning more about how this process works.\n\nBest wishes,\nMarie"
+    }
+]

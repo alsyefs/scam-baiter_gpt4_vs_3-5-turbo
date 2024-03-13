@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_182",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " I will rather suggest you wes",
+        "body": " I will rather suggest you western Union or money gram if you may.\nMr. Watson Adams\n (Attorney at Law)\n  Watson & Adams Associates.\n70 Beverly Towers, Cnr. Riviera & Oxford Streets. Killarney,\nJohannesburg R.S.A\n Phone: +27 847088811\nEmail:adamsattorneys@execs.com   "
+    },
+    {
+        "from": "baiter_182",
+        "to": "scammer_182",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  I will rather suggest you wes",
+        "body": "Hello Mr. Watson Adams,\n\nThank you for reaching out to me. I appreciate your suggestion regarding Western Union or MoneyGram. Could you please provide me with more information about why you recommend these services? I'm curious to know how they compare to other methods of transferring money.\n\nAlso, could you tell me a bit more about yourself and your work as an attorney at law? I'm always interested in learning about different professions and the experiences of those who work in them.\n\nLooking forward to hearing from you!\n\nBest wishes,\nRudy"
+    }
+]

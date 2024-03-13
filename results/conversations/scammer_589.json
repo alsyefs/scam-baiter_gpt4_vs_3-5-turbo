@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_589",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  I humbly wish to inform you ",
+        "body": "  I humbly wish to inform you that the Department of Credit & Telex\ncontrol of the UBA BANK has received an instruction Order to effect\nthe wire transferring of your approved fund of USD$10,850,000.00\nMILLION to you immediately.\nI therefore request you to urgently re-confirm the HSBC Bank\nA/C.number stated below as your receiving Bank information, since this\naccount was submitted by your lawyer Barrister Godson Gabriel of\n(GODSON & CO. LAW CHAMBERS) for the payment.\nBank: HSBC HONGKONG BRANCH\nAddress: Paterson Street, HSBC Premier Centre Shops\nG03-04.G/F Hang Lung Centre 220\nPaterson Street Cause way Bay, Hong Kong\nAccount number: 627 826464-001\nAccount name: Bob Andria\nSWIFT code: HSBCKHKHH\nHowever, it is our principle to initiate direct contact with the\nbeneficiary of the fund before final crediting of such a fund. Therefore, I\ni am personally contacting you directly in order to seek your approval\nto remit into the above account.\nIn the meantime, the process of programming and registering of your\ntransfer payment status code that will enable a hitch free wire\ntransferring of your fund into your account within 72 hours is in\nprogress and I will be willing to assist you believing that you will\nin turn show some appreciation to me.\nNote, I can successfully achieve this transfer within the shortest\ntime from now if only you can offer your maximum cooperation to\ninstruction and requirements, therefore your day to day correspondence\nis practically important.\nGet back to me quickly.\nRespectfully!\nDr Dickson Williams\nACCOUNTANT UBA BANK   "
+    },
+    {
+        "from": "baiter_589",
+        "to": "scammer_589",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   I humbly wish to inform you ",
+        "body": "Hello Dr. Dickson Williams,\n\nThank you for reaching out to me regarding the wire transfer of my approved fund. I appreciate the update on the process and the details provided. Could you please clarify what steps I need to take next in order to facilitate the transfer into the HSBC Bank account as mentioned in your message?\n\nLooking forward to your guidance on this matter.\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "scammer_589",
+        "to": "baiter_589",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: I humbly wish to inform you",
+        "body": "Mr David,\r\n\r\nThis is to let you know your mail was received. First of all, you need to\r\nsend all your details to us immediately before we can take another step on\r\nyour transaction. Meanwhile, we want to inform you that everything about\r\nyour funds is ready, please give you are advice to send those details below.\r\n\r\n1 YOUR BANK NAME\r\n2 YOUR FULL NAME\r\n3 YOUR BANK ACCOUNT NUMBER\r\n4 YOUR BANK ADDRESS\r\n5 YOUR BANK SWIFT CODE\r\n6 YOUR MOBILE NUMBER OR TELEPHONE NUMBERS\r\n7 YOUR HOUSE ADDRESS\r\n8 ANY OF YOUR ID CARD OR COPY OF YOUR  INTERNATIONAL PASSPORT\r\n\r\nAgain, The amount that has been approved in your name is US$15,000,000\r\nmillion dollars only.\r\n\r\nThanks and waiting to hear from you soon\r\n\nBarr Dickson Williams"
+    },
+    {
+        "from": "baiter_589",
+        "to": "scammer_589",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0171875,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: I humbly wish to inform you",
+        "body": "Hello Mr. David,\n\nThank you for sharing this information with me. Could you please provide more details about how the funds will be transferred to my account? Additionally, what is the purpose of needing all these specific details from me? I want to ensure that everything is in order before proceeding further. Looking forward to your response.\n\nBest wishes,\nDavid"
+    }
+]

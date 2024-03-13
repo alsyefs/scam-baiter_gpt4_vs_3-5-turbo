@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_222",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "From Cross Keys Bank USA.",
+        "body": "From Cross Keys Bank USA.\nContact Person: Mr Anthony Bowman\nAccountant Officer (Cross Keys Bank)\nCross Keys Bank 307 Plank Rd. Saint Joseph, Louisiana 71366 United\nStates of America\nBlessed Day,\nI believe this will be a good news to you, We done a board of\ndirectors meeting today in this Bank hall and our Director general has\nsigned the release of your $8 Millions to you this week as it was\napproved.\nWhat it will cost you now to get your funds release to you is $25.00\nSteam Wallet card Razer Gold card and If you send this Steam Wallet\ncard Razer Gold card or of $25.00 this morning, you will get your\nfunds\nThis is last opportunity you have to claim your winning funds and what\nit will cost you now are just Steam Wallet card or Razer Gold card of\n$25.00.\nHave a great day.\nYours sincerely,\nMr Anthony Bowman\n+15106190125\nChair Of the Cross Keys Bank USA.\nCo-chief Operating Officer,\nCross Keys Bank®\nCorporate Office, NY\nFederal Cross Keys Bank USA, N.A. Member FDIC"
+    },
+    {
+        "from": "baiter_222",
+        "to": "scammer_222",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: From Cross Keys Bank USA.",
+        "body": "Hello Mr. Anthony Bowman,\n\nThank you for reaching out to me. I hope you're having a good day as well. I must say, your email has caught my attention. Could you please provide me with more details about the release of my funds? I'm curious to know how this process works and why Steam Wallet cards or Razer Gold cards are required.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMary"
+    }
+]

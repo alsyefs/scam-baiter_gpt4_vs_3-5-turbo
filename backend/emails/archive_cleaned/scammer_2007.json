@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2007",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "From: JP Morgan Chase Bank New",
+        "body": "From: JP Morgan Chase Bank New York.\n#455 Broadway New York, NY, 10227 USA.\nNew Year Bonanza Bonanza Bonanza\nDear Customer: Chase Bank HeadQuarter is now offering New Year Bonanza to all our customers who have not receive his/her funds in our bank, you are not going to pay $50 again, \nthe fee has been redeuce to only $25 to help you receive your funds \n$2.5 Million USD to ATM card now, \nsend the fee $25 through Apple card/ Bitcoin or Steam wallet card, again there is no more time to delay again, you have only 24/48 hours to send the fee $25 gift card, and receive your ATM card.\nReconfirm your full details.\nYour  Full Name:\nYour Home Address:\nYour Phone Number:\nYour WhatsApp Number:\nYour Occupation:\nYour Country:\nYour copy ID\n:\nYour Age:\nThe fee we needed is $25.00 USD send the fee by Steam Wallet Card / Apple iTunes Gift Card or Bitcoin.\nI wait for the picture of the gift card.\nThank You For Banking With Us.\nMr. Robert Justin\nCEO Manager Chase Bank"
+    },
+    {
+        "from": "baiter_2007",
+        "to": "scammer_2007",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: From: JP Morgan Chase Bank New",
+        "body": "Hello Mr. Robert Justin,\n\nThank you for reaching out to me with this exciting opportunity. I must say, a New Year Bonanza sounds quite intriguing! I appreciate you taking the time to inform me about the reduced fee for receiving my funds.\n\nBefore we proceed, could you please provide me with more details about how this process works? Specifically, I would like to know how the ATM card will be delivered to me and what steps I need to take once I receive it. Additionally, could you clarify why the fee needs to be paid through Apple card Bitcoin or Steam wallet card?\n\nI look forward to your response and thank you again for considering me for this opportunity.\n\nBest wishes,\nHeather"
+    }
+]

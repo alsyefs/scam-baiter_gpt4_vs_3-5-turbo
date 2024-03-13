@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2292",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Good Day, Note that I'm pati",
+        "body": "  Good Day, Note that I'm patient enough if you are not interested kindly notify me so that i will look for another partner that can work with me in the success of this transaction.\nNote that i can screenshot the account and forward to you to be rest assure this is 100% guarantee  deal\nKind Regards,\nMr. Jerry Wilson   "
+    },
+    {
+        "from": "baiter_2292",
+        "to": "scammer_2292",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Good Day, Note that I'm pati",
+        "body": "Hello Mr. Jerry Wilson,\n\nGood day to you too! I appreciate your patience and your willingness to share this opportunity with me. It's always exciting to hear about new ventures.\n\nCould you please provide more details about the nature of this partnership? What kind of work would it involve? And how does the account screenshot come into play?\n\nLooking forward to hearing from you soon!\n\nBest regards.\n\nBest wishes,\nVirginia"
+    }
+]

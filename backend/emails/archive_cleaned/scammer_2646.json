@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2646",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  INTERNATIONAL MONETARY FUND ",
+        "body": "  INTERNATIONAL MONETARY FUND (IMF).\nWorld Debt Reconciliation Agencies.\n1900 Pennsylvania Ave NW,\nWashington, DC 20431, USA\nUnited States of America.\nAttention!! Attention!!\nThis is to inform you that this Agency (International Monetary Fund (IMF) has been instructed by the World Bank in collaboration with the United Nations/ Regions Bank, to carry out the release of every long withholding inheritance benefits such as listed below:\ni.   Unclaimed Inheritance funds.\nii.  Unclaimed Retirement Benefits\niii. Unclaimed lottery prize.\niii. Unclaimed Consignment/Packages.\niv. Unclaimed Compensation funds.\nv.  Unclaimed Inheritance documents and its certificates.\nThis INSTRUCTIONS was carried out after the above-mentioned Agency has taken time to study your payment file and found out that you have paid VIRTUALLY fees and certificate but the fund has not been released to you.\nThe most annoying thing is that they cannot tell you the truth that on a known account will they ever release the fund to you or refund; instead they let you spend money unnecessarily. Now we have been ordered by the above mentioned Agency to have your fund release to you through online system of Banking. For further inquiries, contact us directly on the E-mail address\nRegards,\nWilson Anone\nMrs. Wilson Anone\nChief Information Officer\nDirector of the Information Technology Department\nInternational Monetary Fund (IMF).\nUnited States of America.   "
+    },
+    {
+        "from": "baiter_2646",
+        "to": "scammer_2646",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   INTERNATIONAL MONETARY FUND ",
+        "body": "Hello Mrs. Wilson Anone,\n\nThank you for reaching out and providing such detailed information. It's interesting to learn about the various unclaimed benefits that are being managed by the Monetary Fund IMF.\n\nI'm curious, how does this process of releasing funds through an online system of banking work? And what role does the Technology Department play in this?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nCharles"
+    }
+]

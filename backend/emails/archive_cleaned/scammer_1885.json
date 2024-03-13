@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1885",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   HSBC LONDON UK BANK PLC.",
+        "body": "   HSBC LONDON UK BANK PLC.\nAddress: 28 Borough High St,\nLondon SE1 1YB, United Kingdom\nPhone: +44 345 740 4404\nHello,\nI am Dr Andrew Makinson. The Managing Director of HSBC bank of London\nUK and i am contacting you regarding to the  insertion we received\nfrom the World Bank  OF UK to release your funds sum 10.5 Million\nUnited State Dollars to you through ATM Visa Card  we have already\nprocess your fund in your name through ATM Card and you will start\nusing it to withdraw money as you like immediately you receive it.\nMeanwhile The  Attachment here is the Copy of the ATM Visa Card so go\nand send the delivery fee of $150 and receive it as soon as possible I\nwill advise you to our branch in the United States of America the ATM\nbranch that is the where your ATM card has been fine and deposit to\ndeliver to your house address please below is their email.\nMr. John Nenninger\nEmail:nenningerjohnmarvin@gmail.com\nManaging Director/HSBC UK\nDr Andrew Makinson\nMail Delivery Subsystem <mailer-d  "
+    },
+    {
+        "from": "baiter_1885",
+        "to": "scammer_1885",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    HSBC LONDON UK BANK PLC.",
+        "body": "Hello Dr. Andrew Makinson,\n\nThank you for reaching out to me. I am quite surprised and thrilled to hear about this fund release from the World Bank of UK. It's not every day that one receives such news.\n\nI have a few questions though, if you don't mind. Could you please explain why the World Bank of UK has chosen me for this? Also, could you provide more details about how the ATM Visa Card works? \n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nSandra"
+    }
+]

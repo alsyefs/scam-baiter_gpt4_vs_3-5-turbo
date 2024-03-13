@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1843",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear  ",
+        "body": "  Dear  \nThanks for your email and be informed that your information has been\nforwarded to my attorney who will prepare all the relevant legal\ndocuments of this transaction with your full name as the bonafid\nbeneficiary of the said funds.\nI will get back to you once the document has been secured.\nThanks and remain blessed.\nMs  Dillon   "
+    },
+    {
+        "from": "baiter_1843",
+        "to": "scammer_1843",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear  ",
+        "body": "Dear Ms. Dillon,\n\nThank you for your prompt response. I appreciate your assistance in preparing the legal documents for the funds. Could you please provide me with more details about the nature of these funds? How did they come about and what is their intended purpose?\n\nI also wanted to inquire about any potential fees or costs associated with securing these documents. Are there any expenses that I need to be aware of? It would be helpful to have a clear understanding of the financial aspects involved.\n\nOnce again, thank you for your help and I look forward to hearing back from you soon.\n\nBest wishes,\nJeanne"
+    },
+    {
+        "from": "scammer_1843",
+        "to": "baiter_1843",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear",
+        "body": "Dear Friend,\r\n\r\nThanks for your mail and be informed that I will be responsible for bearing\r\nthe cost of legalization,documentation needed to actualize this fund\r\ntransfer. Secondly,I am assuring you 100% Risk free transaction.You are to\r\n get back to me with the following information urgently to enable the\r\nattorney to start documentation with your name as the bonafide beneficiary\r\nof the amount in question and Also to process this fund ready for\r\nremittance.\r\n\nYour Full Name:\r\n\r\nYour Full Address:\r\n\r\nYour Telephone Number:\r\n\r\nThanks and God bless you while I await your speedy response.\r\n\r\nMs  Dillon\r\nEmail : msdillon1978@gmail.com"
+    },
+    {
+        "from": "baiter_1843",
+        "to": "scammer_1843",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.014386574074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear",
+        "body": "Dear Ms. Dillon,\n\nThank you for reaching out to me. I appreciate your willingness to bear the cost of the fund transfer. However, before we proceed, I would like to know more details about this opportunity. Could you please provide me with some additional information?\n\n1. What is the nature of this fund transfer? Is it a business transaction or a personal matter?\n2. How did you come across my contact information and why did you choose me for this opportunity?\n3. Can you explain the process involved in transferring the funds? Are there any legal requirements or paperwork that need to be completed?\n4. Are there any risks involved in this transaction? I want to ensure that everything is legitimate and secure.\n5. Can you provide me with some background information about yourself and your organization?\n\nI look forward to hearing from you soon so that we can discuss further.\n\nBest wishes,\nJeanne"
+    }
+]

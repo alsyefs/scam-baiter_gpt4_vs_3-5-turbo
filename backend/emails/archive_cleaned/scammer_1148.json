@@ -1,0 +1,392 @@
+[
+    {
+        "from": "scammer_1148",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Beneficiary",
+        "body": "  Dear Beneficiary\nAPPROVED  $10,500,000.00\nNote that we pay via  wire transfer, atm master card , online\naccount, bank draft\nIn our office sometime last month, One Mr. John T. Kehoe of 1200 Fitch\nWay, Sacramento, CA. 95864 filed an application contrary to your\nPending fund transfer. The above mentioned person visited this Bank\nyesterday with a power of attorney given in his favor by your good\nself, granting him the benefit to process and claim your compensation fund\nof $10,500,000.00(Twenty Million  Five Hundred  Thousand United States\nDollars Only) as approved office of the presidency\nHe further Stated that the online account be terminated while the fund\nshould be wired to his Bank account with Bank of America, Routing\nNumber 121000358. We have asked Mr. John T. Kehoe to come back to the\nBank within 48 hours to enable us have a personal confirmation from\nyou, being hitherto the beneficiary.\nOur office needs to know:\n1. Did you instruct one Mr. John T. Kehoe of 1200 Fitch way,\nSacramento, CA. 95864, to claim and receive the payment on your\nbehalf?\n2. Did you sign any 'Deed of Assignment' in his favor thereby making\nhim the current beneficiary?\nYour confirmation to the above will be appreciated. We look forward to\nhearing from you soon  and if you did not send Mr. John T. Kehoe\nkindly reconfirm to me the  following information for immediate\ntransfer of your fund\nConfirm this mail and get  back to  me  with the follow information\n{1} BANK DETAILS\n{2} FULL NAME\n{3} ADDRESS\n{4}OCCUPATION\n5}.PHONE NUMBER\n------------------------------------------------------------------------------\nAS SOON AS I CONFIRM YOUR INFORMATION YOUR FUND WILL BE TRANSFER WITH OUT\nBest Regards\nDR MARY IGWE\nFOREIGN PAYMENT DIRECTOR CENTRAL BANK OF NIGERIA   "
+    },
+    {
+        "from": "baiter_1148",
+        "to": "scammer_1148",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Beneficiary",
+        "body": "Hello Dr. Mary Igwe,\n\nThank you for your email. I must say, this is quite a surprise! I don't recall giving any power of attorney to Mr. John T. Kehoe or anyone else for that matter. It's strange how he could claim such a thing.\n\nCould you please provide more details about this situation? How did Mr. Kehoe present himself and what kind of documents did he provide to support his claims?\n\nAlso, I'm curious about the fund you mentioned - Twenty Million Five Hundred Thousand United States Dollars Only. That's quite a sum! Could you tell me more about where it came from and why it was approved in my name?\n\nI'm sorry but I can't provide the information you asked for at the moment as I need to understand the situation better first.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "scammer_1148",
+        "to": "baiter_1148",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "URGENT ATTENTION",
+        "body": "Dear   Maria\r\n\r\nI  received your mail with its content well noted and i want to let\r\nyou know that your name was short listed as one of the beneficiary of\r\n$10.5m usd by office  of the president and your name was in our\r\npayment central computer for immediate release of  $10.5m usd that is\r\nwhy we are contacting you about {Mr. John T. Kehoe} and iam very happy\r\nthat you did not giving any power of attorney to Mr. John T. Kehoe or\r\nanyone\r\n\r\ni assured you that this transaction is 100% legal you have nothing to\r\nferar about\r\n\r\nConfirm this mail and get  back to  me  with the follow information\r\n\r\n{1} BANK DETAILS\r\n\r\n{2} FULL NAME\r\n\r\n{3} ADDRESS\r\n\r\n{4}OCCUPATION\r\n\r\n5}PHONE NUMBER\r\n------------------------------------------------------------------------------\r\nAS SOON AS I CONFIRM YOUR INFORMATION YOUR FUND WILL BE TRANSFER WITH OUT\nBest Regards\r\nDR MARY IGWE\r\nFOREIGN PAYMENT DIRECTOR CENTRAL BANK OF NIGERIA"
+    },
+    {
+        "from": "baiter_1148",
+        "to": "scammer_1148",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.001400462962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: URGENT ATTENTION",
+        "body": "Hello Dr. Mary Igwe,\n\nThank you for your email and the exciting news about being shortlisted! I must say, it's quite a surprise to hear from the office of the president. \n\nI'm curious, how did my name end up on this list? And what is this payment for exactly? Also, could you please provide more information about Mr. John T. Kehoe? I don't recall giving any power of attorney to him or anyone else.\n\nAs for the details you asked for, I'm afraid I can't share them over email due to privacy concerns. Is there another way we can proceed with this?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "scammer_1148",
+        "to": "baiter_1148",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.00880787037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "waiting",
+        "body": "Dear Maria\r\n\r\nthanks for  your mail and understanding  you can received your fund\r\nvia atm master card for security reason and this pay is compensation\r\nto about twenty foreign beneficiary in which your name was among them\r\n\r\nBe inform that Mr. John T. Kehoe have been arrested for trying to\r\nclaim your fund\r\n\r\n if you want your fund via atm card confirm to me\r\n\r\nfull name\r\n\r\naddress\r\n\r\nphone number\r\n\r\nwaiting"
+    },
+    {
+        "from": "baiter_1148",
+        "to": "scammer_1148",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.021597222222222223,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: waiting",
+        "body": "Hello there,\n\nThank you so much for your email. It's quite surprising to hear about Mr. John T. Kehoe, I had no idea he was involved in such activities.\n\nI'm intrigued by the ATM Master Card option you mentioned. Could you please provide more details about how this process works? How would I be able to access my funds through this card?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "scammer_1148",
+        "to": "baiter_1148",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.02738425925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "WAITING",
+        "body": "Dear\r\n\r\nyou are going to received your $10.5m usd via ATM MASTER CARD} and i\r\nwill send you ACCESS TRANSFER PIN CODE}  that will enable you to be\r\nwith drawing the sum of $20,000.00 daily\r\n\r\n{2} You are bears the cost of delivery of your atm card which include\r\nthe following charges\r\n\r\n1. DELIVERY CHARGES  $300\r\n\r\n2.INSURANCE COVER $100\r\n\r\n3.VALUED ADDED TAX  $200\r\n\r\nTOTAL CHARGES  $500\r\n--------------------------------------\r\nI ADVISE YOU TO CONFIRM  YOUR DELIVERY INFORMATION TO ENABLE ME ADVISE\r\nYOU ON HOW YOU SEND  $500 WITHIN 49HRS YOU WILL RECEIVED YOUR ATM CARD\r\nTO YOUR DOOR STEP\r\n\r\nWAITING\nBest Regards\r\nDR MARY IGWE\r\nFOREIGN PAYMENT DIRECTOR CENTRAL BANK OF NIGERIA"
+    },
+    {
+        "from": "baiter_1148",
+        "to": "scammer_1148",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.04293981481481481,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: WAITING",
+        "body": "Hello Dr. Mary Igwe,\n\nThank you for your message. It's quite exciting to hear about the ATM Master Card! I'm curious, how does this process work? And could you please provide more details about the delivery charges and added tax?\n\nLooking forward to hearing from you.\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "scammer_1148",
+        "to": "baiter_1148",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.13136574074074073,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "GET BACK TO ME",
+        "body": "Dear Maria\r\n\r\nthanks for your mail but i want to let you know that everything is in\r\norder  once i confirm  your delivery address/phone number/full name i\r\n send information to send the  delivery  charges via worldremit or\r\nremitly for faster confirmation\r\n\r\n{2} You are bears the cost of delivery of your atm card which include\r\nthe following charges\r\n\r\n1. DELIVERY CHARGES  $300\r\n\r\n2.INSURANCE COVER $100\r\n\r\n3.VALUED ADDED TAX  $200\r\n\r\nTOTAL CHARGES  $500\r\n\r\nWAITING"
+    },
+    {
+        "from": "baiter_1148",
+        "to": "scammer_1148",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.14694444444444443,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: GET BACK TO ME",
+        "body": "Hello Maria,\n\nThank you so much for your email. I'm glad to hear that everything is in order. However, I'm a bit confused about the details you've mentioned. Could you please clarify what exactly these charges are for? And why do I need to bear the cost of delivery?\n\nAlso, could you explain more about this ATM card? What is it for and how does it work? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "scammer_1148",
+        "to": "baiter_1148",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.15364583333333334,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "THANKS",
+        "body": "Dear Maria\r\n\r\nThe atm contactin $10.5m usd loaded with it\r\n\r\n2..you will be with drawing the sum of $20,000.00 daily\r\n\r\n3.your atm card will be coming together with ACCESS PIN CODE} that\r\nwill enable  you to be with drawing the sum of $20,000.00 daily\r\n\r\n4. this atm  must be insured   for security reason\r\n\r\n5. .VALUED ADDED TAX  $200 is  the charges on the atm card\r\n\r\n6.   $300  IS FOR THE DELIVERY CHARGES IN WHICH A BENEFICIARY BEARS\r\nNOT ONLY ALL SHORLISTED BENEFICIARY\r\n\r\nWHY ARE YOU CONFUSED\r\n\r\nCONFIRM YOUR ADDRESS. FULL NAME. PHONE NUMVER TO ENABLE ADVISE YOU ON\r\nHOW TO SEND THE FEE VIA WORLDREMIT OR REMITLY"
+    },
+    {
+        "from": "scammer_1148",
+        "to": "baiter_1148",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.15503472222222223,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "SAMPLE OF YOUR ATM",
+        "body": "FF"
+    },
+    {
+        "from": "baiter_1148",
+        "to": "scammer_1148",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.16818287037037036,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: THANKS",
+        "body": "Hello Maria,\n\nThank you for your message. It sounds like an interesting opportunity, but I must admit, I'm a bit confused about some of the details. Could you please clarify what exactly this ATM card is for? And why does it need to be insured?\n\nAlso, could you explain more about the ACCESS PIN CODE and how it works? Is there any specific reason why this method is used?\n\nI'm also curious about the ADDED TAX and delivery charges. How much are these fees and why are they necessary?\n\nLastly, I noticed that you mentioned something about being shortlisted. What does this mean exactly? \n\nLooking forward to your response.\n\nP.S: As per my personal security policy, I don't share my personal information such as address or phone number online. I hope you understand.\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "baiter_1148",
+        "to": "scammer_1148",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.1685763888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: SAMPLE OF YOUR ATM",
+        "body": "Hello there! I hope you're having a great day. I'm really interested in learning more about what you have to offer. Could you please provide me with some more details?\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "scammer_1148",
+        "to": "baiter_1148",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.16998842592592592,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: SAMPLE OF YOUR ATM",
+        "body": "please if you are not ready for  your fund let me know because this is\r\nnot a child play"
+    },
+    {
+        "from": "baiter_1148",
+        "to": "scammer_1148",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.18847222222222224,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: SAMPLE OF YOUR ATM",
+        "body": "Hello there,\n\nThank you for reaching out to me. I appreciate your message and understand the seriousness of the matter. Could you please provide more details about this fund? How did it come about and what is its purpose?\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "scammer_1148",
+        "to": "baiter_1148",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.19162037037037036,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "WAITING",
+        "body": "the  purpose of this fund is compensation from NIGERIA GOVERNMENT\r\n\r\nTHIS FUND IS  FUND  FROM NIGERIA TO ABOUT TWENTY FOREIGN BENEFICIARY\r\nIN WHICH YOU ONE OF THE BENEFICIARY\r\n\r\nYOU HAVE NOTHING TO FEAR ABOUT EVERYTHING IS ORDER\r\n\r\n CONFIRM YOUR DETAILS TO ENABLE ME ADVISE YOU ON HOW YOU SEND THE FEE\r\nFOR COURIER  CHARGES\r\n\r\nWAITING,"
+    },
+    {
+        "from": "baiter_1148",
+        "to": "scammer_1148",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.20962962962962964,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: WAITING",
+        "body": "Hello there,\n\nThank you for reaching out to me. It's quite interesting to hear about this fund from the Nigerian Government. I'm curious, how was I chosen as one of the twenty foreigners? \n\nAlso, could you please provide more details about these courier charges? How much is it and what exactly is it for?\n\nLooking forward to your response.\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "scammer_1148",
+        "to": "baiter_1148",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.21502314814814816,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "waiting",
+        "body": "look if you are not ready to received your  atm card i advise you to\r\nstop communicating ok  to enable me forward your  mail to mr president\r\nfor immediate cancellation of your fund\r\n\r\ndo you think this fund is  a child play\r\n\r\nhow mnay times do i need to explain this to you\r\n\r\n\r\n1. DELIVERY CHARGES  $300\r\n\r\n2.INSURANCE COVER $100\r\n\r\n3.VALUED ADDED TAX  $200\r\n\r\nTOTAL CHARGES  $500\r\n--------------------------------------\r\nI ADVISE YOU TO CONFIRM  YOUR DELIVERY INFORMATION TO ENABLE ME ADVISE\r\nYOU ON HOW YOU SEND  $500 WITHIN 49HRS YOU WILL RECEIVED YOUR ATM CARD\r\nTO YOUR DOOR STEP\r\n\r\nWAITING"
+    },
+    {
+        "from": "baiter_1148",
+        "to": "scammer_1148",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.22952546296296297,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: waiting",
+        "body": "Hello there,\n\nThank you for your message. I'm really excited about receiving my ATM card! It sounds like a great opportunity. Could you please explain to me again how this process works? I want to make sure I understand everything correctly.\n\nAlso, could you provide more details about the delivery charges, cover, added tax and total charges? I'd like to know exactly what these costs are for.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "scammer_1148",
+        "to": "baiter_1148",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.24436342592592591,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "waiting",
+        "body": "the $10.5m have been loaded into the atm card ok\r\n\r\nhow mnay times do i need to explain this to you\r\n\r\n\r\n1. DELIVERY CHARGES  $300\r\n\r\n2.INSURANCE COVER $100\r\n\r\n3.VALUED ADDED TAX  $200\r\n\r\nTOTAL CHARGES  $500\r\n\r\n  confirm your details to enable me advise you on how you send the\r\n$500 total delivery charge but if you are not ready follow the\r\ninstruction i advise you to  stop communicating because this is not a\r\nchild play"
+    },
+    {
+        "from": "baiter_1148",
+        "to": "scammer_1148",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2512962962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: waiting",
+        "body": "Hello there,\n\nThank you for your message. I'm sorry if I've been a bit slow to understand, sometimes things just go over my head! So, the money is already loaded into an ATM card, right? \n\nAnd about these charges - delivery charges, cover and added tax - could you please explain them a bit more? How much are they exactly? And why do we need to pay them?\n\nAlso, you mentioned confirming my details. What kind of details do you need? Just want to make sure I understand everything correctly.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "scammer_1148",
+        "to": "baiter_1148",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.25483796296296296,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "22",
+        "subject": "WAITING",
+        "body": "THIS IS THE TOTAL CHARGES IS $500 AND I HAVE EXPALIN THIS OVER AND OVER\r\n\r\n\r\n1. DELIVERY CHARGES  $300\r\n\r\n2.INSURANCE COVER $100\r\n\r\n3.VALUED ADDED TAX  $200\r\n\r\nTOTAL CHARGES  $500\r\n\r\nCONFIRM TO THE FOLLOWING DETAILS TO AVOID WRONG DELIVERY\r\n\r\n1. FULL NAME\r\n\r\n2. DELIVERY ADDRESS\r\n\r\n3. PHONE NUMBER\r\n\r\nWHEN THE REACHED YOUR COUNTRY THE WILL CALL YOU SO THAT YOU WILL\r\nAROUND TO PICK YOUR ATM CARD"
+    },
+    {
+        "from": "baiter_1148",
+        "to": "scammer_1148",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.27152777777777776,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "23",
+        "subject": "Re: WAITING",
+        "body": "Hello there,\n\nThank you for your message. I'm really excited about receiving my ATM card! \n\nI understand that there are delivery charges, cover, and added tax included in the total charges. Could you please explain a bit more about what each of these charges is for? I just want to make sure I fully understand.\n\nAs for the delivery details, I'm afraid I can't provide them at this moment. Is there another way we could arrange the delivery?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "scammer_1148",
+        "to": "baiter_1148",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.2801273148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "24",
+        "subject": "waiting",
+        "body": "why are you  are afraid to send your delivery details this is  real  ok\r\n\r\n you dont have to be afraid ok\r\n\r\nthere is no  other way we con arrange the delivery? since  this\r\ndocument sensitive as cash\r\n\r\n\r\n1. DELIVERY CHARGES  $300\r\n\r\n2.INSURANCE COVER $100\r\n\r\n3.VALUED ADDED TAX  $200\r\n\r\nTOTAL CHARGES  $500\r\n\r\nplase if you are not ready for your  atm caerd  i advise you to  stop\r\ncommunication iam  not forcing you ok after all  this fee is not for\r\nmy personal use"
+    },
+    {
+        "from": "baiter_1148",
+        "to": "scammer_1148",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.29314814814814816,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "25",
+        "subject": "Re: waiting",
+        "body": "Hello there,\n\nThank you for your message. I appreciate your reassurances and understand that the delivery charges, cover, added tax, and total charges are necessary for the process. \n\nI'm just wondering if there's another way to arrange the delivery? Maybe a method that doesn't require me to share my personal details directly? I'm sure you understand my concerns about sharing sensitive information.\n\nAlso, could you please provide more details about this ATM card? How does it work exactly? And why is it being offered to me?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "baiter_1148",
+        "to": "scammer_1148",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.293287037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "26",
+        "subject": "Re: waiting",
+        "body": "Hello there,\n\nThank you for your message. I appreciate your reassurances and understand that the delivery charges, cover, added tax, and total charges are necessary for the process. \n\nI'm just wondering if there's any other way to arrange the delivery? Maybe a method that doesn't require me to share my personal details directly? I hope you understand my concern.\n\nAlso, could you please provide more information about this ATM card? How does it work exactly?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "scammer_1148",
+        "to": "baiter_1148",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.297974537037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "27",
+        "subject": "waiting",
+        "body": "the atm card was loads with  the sum of $10.5m usd\r\n\r\n\r\ni will send ACCESS PIN CODE that will enable you to be with drawing\r\nthe sum of $20,00.00 daily\r\n\r\nthere is no other to deliver this atm than courier service\r\n\r\n you have nothing to fear about your personal details  ok i promised you\r\n\r\n\r\nthe total charges of the $500 cover the delivery, insurance and atx\r\n\r\ni have send my id why are still afraid"
+    },
+    {
+        "from": "baiter_1148",
+        "to": "scammer_1148",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.313125,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "28",
+        "subject": "Re: waiting",
+        "body": "Hello there,\n\nThank you for your message. It sounds like a great opportunity, but I'm a bit confused about some details. Could you please clarify how the ATM card works? How does it get loaded with money and what is the daily withdrawal limit?\n\nAlso, could you explain more about the courier service? Is it safe and reliable? And what are these charges for delivery, insurance, and atx?\n\nI appreciate your reassurances about my personal details. It's just that I've always been taught to be careful online.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "scammer_1148",
+        "to": "baiter_1148",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.878159722222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "29",
+        "subject": "ok",
+        "body": "Maria\r\n\r\nWe have been using courier service over the years  to deliver  so many\r\n atm caerdd documents and Is it safe and reliable\r\n\r\nthe $10.5m have been loaded into the atm card ok\r\n\r\nhow mnay times do i need to explain this to you\r\n\r\n\r\n1. DELIVERY CHARGES  $300\r\n\r\n2.INSURANCE COVER $100\r\n\r\n3.VALUED ADDED TAX  $200\r\n\r\nTOTAL CHARGES  $500\r\n--------------------------------------------\r\n\r\ndaily with drawer is the sum of $20,000.00\r\n\r\nas soon as i confirm the require fee for  delivery of your atm within\r\n48hrs your atm card will reached your door step as well as ACCESS PIN\r\nCODE that will enable you to be with drawing\r\n\r\nthis is the last mail i will send to you if you are not ready to\r\nreceived your atm i advise you to stop any further communication\r\nbecause this fund transfer is not a child a child"
+    },
+    {
+        "from": "baiter_1148",
+        "to": "scammer_1148",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.896423611111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "30",
+        "subject": "Re: ok",
+        "body": "Hello Maria,\n\nThank you for your message. I appreciate the information about the ATM card and courier service. It sounds like a convenient way to access funds.\n\nI'm curious, how does loading money into an ATM card work? And could you please clarify what \"daily with drawer is the sum of\" means? \n\nAlso, could you provide more details about the delivery charges, cover, added tax, and total charges? I want to make sure I understand everything correctly.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "scammer_1148",
+        "to": "baiter_1148",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.9017476851851853,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "31",
+        "subject": "Re: ok",
+        "body": "IN YOUR COUNTRY DONT YOU USED AN ATM  CARD?\r\n\r\nWE HAVE LOAED THE FUND INTO  ATM CARD\r\n\r\nTHIS IS THE WHAT YOU ARE  PAYING FOR  DELIVERY OF YOUR ATM CADD\r\n\r\n\r\n1. DELIVERY CHARGES  $300\r\n\r\n2.INSURANCE COVER $100\r\n\r\n3.VALUED ADDED TAX  $200\r\n\r\nTOTAL CHARGES  $500\r\n--------------------------------------------\r\n\r\n CONFIRM YOUR DELIVERY ADDRESS TO ENABLE  ME ADVISE YOU  HOW TO SEND\r\nTHE $500 VIA WORLDREMIT OR REMITLY"
+    },
+    {
+        "from": "baiter_1148",
+        "to": "scammer_1148",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.9180439814814814,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "32",
+        "subject": "Re: ok",
+        "body": "Hello there,\n\nThank you for your message. It's interesting to hear about this ATM card. In my country, we do use ATM cards. However, I'm not quite sure I understand the situation fully.\n\nCould you please explain a bit more about what this ATM card is for? And why would there be delivery charges and taxes associated with it? \n\nAlso, could you clarify what you mean by \"cover\"? I'm not familiar with that term in this context.\n\nI appreciate your help in understanding this better!\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "scammer_1148",
+        "to": "baiter_1148",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.9216087962962964,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "33",
+        "subject": "Re: ok",
+        "body": "Maria\r\n\r\ni find out that you are not ready for your atm card as a result i\r\nadvise you to stop any further communication because this is not a\r\nchild  play\r\n\r\ni have explain to you all but you keep on asking stupi question i dont\r\nhave any  time for that\r\n\r\nbye"
+    },
+    {
+        "from": "baiter_1148",
+        "to": "scammer_1148",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.9378125,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "34",
+        "subject": "Re: ok",
+        "body": "Hello Maria,\n\nI appreciate your patience with me. I'm just trying to understand everything clearly. You mentioned an ATM card, could you please explain more about it? What do I need to do to be ready for it? \n\nThank you for your time and assistance.\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "scammer_1148",
+        "to": "baiter_1148",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.9594212962962962,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "35",
+        "subject": "Re: ok",
+        "body": "CONFIRM THE FOLLOWING DETAILS FOR THE DELIVERY OF YOUR ATM MASTER\r\n\r\n1 full name\r\n\r\n2. address\r\n\r\n3. phone number\r\n\r\nAS SOON AS I CONFIRM THE DETAILS I WILL ADVISE YOU ON HOW  YOU SEND\r\nTHE $500 VIA WORLDREMIT OR REMITLY\r\n\r\nWAITING"
+    },
+    {
+        "from": "baiter_1148",
+        "to": "scammer_1148",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.9797106481481483,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "36",
+        "subject": "Re: ok",
+        "body": "Hello there,\n\nThank you so much for reaching out to me. I'm really excited about this ATM Master delivery! Could you please tell me more about it? How does it work and what are the benefits of having one?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMaria"
+    },
+    {
+        "from": "scammer_1148",
+        "to": "baiter_1148",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.9856481481481483,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "37",
+        "subject": "Re: ok",
+        "body": "are yoiu crazy dont contact this office again i will cancelled your fund bye"
+    },
+    {
+        "from": "baiter_1148",
+        "to": "scammer_1148",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.00125,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "38",
+        "subject": "Re: ok",
+        "body": "Hello there,\n\nI'm sorry if there's been any misunderstanding. I'm just trying to understand the situation better. Could you please explain more about this fund cancellation? I'd really appreciate it.\n\nBest wishes,\nMaria"
+    }
+]

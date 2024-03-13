@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1267",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "123 Front St W, Toronto, ON M5",
+        "body": "123 Front St W, Toronto, ON M5J 2M2, Canada,\nAttention Dear:\nI am writing this E-mail message to ask you, does it mean that you are no longer interested to claim your outstanding coca cola winning valued at a total sum of $1.2 Billion US Dollar or are you not receiving our notifications E-mailed? However; Your response will determine your interest. Failure to comply with the remaining payment of $50 immediately is a confirmation that you have rejected your fund and our noble Bank will have no other option than to allow the Canadian government to use the fund for this homeless project as they are threatening to do since. And \ndon't forget you are permitted to pay the fee $50 through either: iTunes card Ebay Gift Card worth $50 only\n.\nKeep in communication on below E-mail addresses, \njimraphael56@gmail.com\nJim Raphael\nChairman/CEO\nCitibank Of Canada\n123 Front St W, Toronto, ON M5J 2M2, Canada,"
+    },
+    {
+        "from": "baiter_1267",
+        "to": "scammer_1267",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: 123 Front St W, Toronto, ON M5",
+        "body": "Hello Jim Raphael,\n\nThank you for reaching out to me. I must say, a billion US dollars sounds like an incredible amount of money! It's hard to even imagine what one could do with such a sum.\n\nI'm curious though, how did I come to be the lucky recipient of this prize? Could you please provide more details about this Coca Cola winning? \n\nAlso, I'm not quite clear on why there is a fee involved. Could you explain that part to me as well?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nEllen"
+    }
+]

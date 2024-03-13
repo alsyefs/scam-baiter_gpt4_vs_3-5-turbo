@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_1900",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir",
+        "body": "  Dear Sir\nHow are you? Hope you are keeping safe and Happy to meet with you.\nMy name is Mr Luis Josh Numbre. I am reaching you through your email because I was asked to contact you and Haven obtained your contact details from a reliable source as a potential partner. I am  searching for a good person to invest in your country.  We are a renowned investment-broking company agent and offer irresistible investment services and providers.  \nWe are by this email letter offering you an irresistible joint (Partnership) to allow us to have you as our representative and manager of investment funds partnership in your country within the time frame of the investment relationship.  Since we cannot determine whether this email is functional or valid and your willingness, we have kept this proposal brief.\nWe are in the hope to share this irresistible offer with you based on a partnership investment program within your country.  If you are interested in this partnership, please respond with your direct telephone and give us your full contact details plus your company profile, and in your response, we will send you an elaborate email with details of this kind of offer.  \nYour expedient response will be appreciated.\nThank you.\nMr Luis Josh Numbre   "
+    },
+    {
+        "from": "baiter_1900",
+        "to": "scammer_1900",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir",
+        "body": "Hello Mr. Luis Josh Numbre,\n\nI hope this message finds you well. It's a pleasure to make your acquaintance.\n\nYour proposal sounds interesting, but I would like to understand more about it before we proceed further. Could you please provide more details about the nature of the investment and what exactly my role would be? \n\nAlso, could you tell me more about your company and its history? I'm always interested in learning about new businesses and their operations.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMary"
+    },
+    {
+        "from": "scammer_1900",
+        "to": "baiter_1900",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Sir",
+        "body": "Greetings Mary\r\n\r\n\r\nThank you for your email you said you are interested, this kind of\r\ninvestment is that we use this available cash to invest in your country\r\nsince the customer has died and no one came forward for this money, there\r\nis this secret i want to tell you but did not want to disclose in my\r\nprevious email to you before, now i want to use this opportunity to inform\r\nyou that my client Arab lady has passed away at old age, over 101 years\r\nwithout a child, but i had the opportunity to have work with her for many\r\nyears and the money is deposited in the bank in a private bank  in  CANADA\r\nBANK secretly with names as the beneficiary, as her investment broker i was\r\nable to have all the details of the bank and the account officer directly\r\nwho is Mr Hassan the banker who has been working with her as her account\r\nofficer.\r\n\r\nTherefore, I want us to share and keep this little secret between us, the\r\nbank will not know because i have told them that you and i have been long\r\nacquainted, this is to avoid any eyebrow to the funds in the bank,  do not\r\nlet anybody know about this money except you and me, I trust you now and i\r\nknow you will invest this money very well, the total sum of USD $59.9M is\r\navailable for collection, if you present the last deposit receipt or  ESIN\r\nCODE NUMBER and change of ownership that i will obtained in your name as\r\nthe next of kin to my late client to verify which i will make available to\r\nyou which will enable the bank to transfer the funds to you via a wire\r\nbank-to-bank, and we will share 50% for you when you receive credit then\r\nyou will send 40% for us while you use the remaining 10% for expenses and\r\nlocal bank taxes in your country.\r\n\r\nIn view of the above, this is urgent as the bank in  CANADA , wants to take\r\nover these funds to another person since no one is coming for it, you need\r\nto do something fast to get these funds out from the bank in CANADA to\r\navoid raising an eyebrow on this money, as the investment facilitator.\r\n\r\nOnce i hear from you i will give you contact of Mr Hassan the banker so\r\nthat you will  ask him how fast this will take to be transferred to your\r\naccount, how many days or hours it will take and what will you do to make\r\nit fast because i do not want this money to stay in CANADA till next week\r\nFriday. .\r\n\r\nPromise me that you will keep it secret.\r\n\nSincerely,\r\n\r\nLooking forward to hearing from you.\r\n\r\nMr. Luis Josh Number"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_908",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "This is Freeman Nickolas, i am",
+        "body": "This is Freeman Nickolas, i am bring to your notice that your long awaiting funds $2.800.000.00USD, has arrived in the United State of America this noon, And you're\nadvise to get back to me immediately, after you received this message to enable me direct you on how to go about it.\nThank you                          \nFreeman Nickolas\nEmail: \nfreemannikolas10@gmail.com\nYou Can WhatsApp me with or SMS below\n+1(417) 242-1753"
+    },
+    {
+        "from": "baiter_908",
+        "to": "scammer_908",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: This is Freeman Nickolas, i am",
+        "body": "Hello Freeman Nickolas,\n\nThank you for your message. I'm really excited to hear about these funds! Could you please provide me with more details? Like, how did this happen and what do I need to do next?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nCalvin"
+    }
+]

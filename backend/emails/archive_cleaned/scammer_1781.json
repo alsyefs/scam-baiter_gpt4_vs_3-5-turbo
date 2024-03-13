@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1781",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "United Nation Organization",
+        "body": "United Nation Organization\nInformation Section.\n760 United Nations Plaza,\nNew York, NY 10017, USA.\nRE: DOCKET NO. OP 292.\nOur Ref: UN/BKL/STB\nIMMEDIATE RELEASE OF YOUR FUND $10 MILLION USD ONLY VIA ATM VISA CARD.\n \nAttention: Sir/Madam,\nWe wish to inform you that your email has been chosen as one of the previous scam victims in the past. The United Nation, World Bank, and Paris club have instructed United bank for America  New York, to process and release your restitution worth of USD$10,Million,  through an ATM CARD\nWe are very sorry for the plight you have gone through in the past. Kindly get back to me for further instructions.\nT/C applies.\nThanks for your time and remain blessed.\ncongratulations!\n \nYours Sincerely,\nMrs. Ellen Johnson Sirleaf"
+    },
+    {
+        "from": "baiter_1781",
+        "to": "scammer_1781",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: United Nation Organization",
+        "body": "Hello Mrs. Ellen Johnson Sirleaf,\n\nThank you for your email and the information provided. It's quite surprising to hear that my email has been chosen as one of the previous scam victims. I'm curious, how was this selection process carried out? \n\nAlso, could you please provide more details about this ATM VISA CARD? How does it work and how can I use it to access the funds?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nMabel"
+    }
+]

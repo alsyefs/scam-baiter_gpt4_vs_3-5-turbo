@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_363",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attn: Sir. Ma",
+        "body": "  Attn: Sir. Ma\nHaving assumed office as the new governor of central bank of Nigeria\nas a result of the removal of Mr. Godwin Emefiele as the CBN governor\nby the new Nigerian president, Senator Bola Ahmed Tinubu (GCFR), I\nhave since then studied several files, especially foreign payment\nfiles. I consequently discovered that some of the payments were\nstopped illegally. For Justice and Fairness,I have reviewed some of\nthem and your payment file of $25.5M is one of the only three files\nthat I felt so much touched about and therefore recommended them to\nthe new president for his approval, which he has graciously approved\nfor immediate payment. Quickly reconfirm to me via\n( \ncentralbnknig009@gmail.com\n ) your full name, your address, your\ntelephone number, your bank account details and you will be paid\nthrough wire transfer from one of our affiliate banks in your capital\ncity within 48 hours of your details reconfirmation. But Should you\nprefer alternative payment methods, quickly indicate your particular\npreference.\nYours Faithfully,\nPETER GEORGE.\nFOR:  Dr. Olayemi Michael Cardoso,\nThe New Governor, Central Bank Of Nigeria (CBN)\nPlot 33,Abubakar Tafawa Balewa Way Central Business District,Federal\nCapital Territory,Garki Abuja.Nigeria   "
+    },
+    {
+        "from": "baiter_363",
+        "to": "scammer_363",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attn: Sir. Ma",
+        "body": "Hello Peter George,\n\nThank you for reaching out to me. I appreciate the information you have shared regarding my payment file. However, before I proceed, I would like to ask a few questions to ensure that everything is in order.\n\n1. Can you please provide more details about the reason my payment was stopped illegally? I would like to understand the situation better.\n\n2. How did you come across my payment file specifically? Is there any specific reason why it caught your attention?\n\n3. Could you please clarify which affiliate bank will be handling the wire transfer? It would be helpful to know their name and location.\n\nI look forward to your response.\n\nBest wishes,\nMartha"
+    }
+]

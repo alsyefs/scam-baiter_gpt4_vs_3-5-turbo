@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_377",
+        "to": "baiter_377",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "DEAR SANDRA, A FILLING FORM HAS BEEN SENT TO THROUGH ATTACHMENT)",
+        "body": "DEAR SANDRA.\r\n\r\nA FILLING FORM HAS BEEN SENT TO YOU THROUGH ATTACHMENT, PLEASE YOU ARE \r\nADVISED TO FILL THE FORM AND RETURN IT BACK TO US TO ENABLE US PROCESS \r\nYOUR FUNDS IMMEDIATELY, PLEASE DO THE NEEDFUL.\r\n\r\nSINCERELY,\r\n\r\nCHARLES WILSON.\r\n\r\nDIRECTOR, INTERNATIONAL REMITTANCE DEPARTMENT,\r\nSANTANDER BANK. NEW YORK - USA\r\nTEL: 516 856 4323 EXT: 101\r\nOFFICIAL EMAIL: charles.wilson@usasantanderbank.com\r\nWEBSITE: www.santanderbank.com [1]\r\n\r\nLinks:\n------\r\n[1] http://www.santanderbank.com/"
+    },
+    {
+        "from": "baiter_377",
+        "to": "scammer_377",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: DEAR SANDRA, A FILLING FORM HAS BEEN SENT TO THROUGH ATTACHMENT)",
+        "body": "Dear Charles Wilson,\n\nThank you for reaching out to me. I appreciate your assistance in processing my funds. Could you please provide me with more information about the form that needs to be filled? What kind of details are required in the form? Additionally, could you explain the process of how my funds will be processed?\n\nBest wishes,\nSandra"
+    },
+    {
+        "from": "scammer_377",
+        "to": "baiter_377",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.02318287037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "DEAR SANDRA, TWO FILLING FORM HAS BEEN SENT TO YOU THROUGH ATTACHMENT)",
+        "body": "DEAR SANDRA.\r\n\r\nTWO (2) FILLING FORM HAS BEEN SENT TO YOU THROUGH ATTACHMENT, PLEASE YOU \r\nARE ADVISED TO FILL THE FORM AND RETURN IT BACK TO US TO ENABLE US \r\nPROCESS YOUR WINNING FUND ($850,000.00) IMMEDIATELY, PLEASE DO THE \r\nNEEDFUL.\r\n\r\nSINCERELY,\r\n\r\nCHARLES WILSON.\r\n\r\nDIRECTOR, INTERNATIONAL REMITTANCE DEPARTMENT,\r\nSANTANDER BANK. NEW YORK - USA\r\nTEL: 516 856 4323 EXT: 101\r\nOFFICIAL EMAIL: charles.wilson@usasantanderbank.com\r\nPRIVATE EMAIL:  ac9326436@gmail.com"
+    },
+    {
+        "from": "baiter_377",
+        "to": "scammer_377",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.023645833333333335,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: DEAR SANDRA, TWO FILLING FORM HAS BEEN SENT TO YOU THROUGH ATTACHMENT)",
+        "body": "Dear Charles Wilson,\n\nThank you for reaching out to me. I appreciate your assistance in processing my winning fund. Could you please provide me with more details about the forms that need to be filled? What information is required on these forms?\n\nI want to make sure that I provide all the necessary information accurately. Once I have a better understanding of the process, I will be happy to fill out the forms and return them to you.\n\nThank you again for your help.\n\nBest wishes,\nSandra"
+    },
+    {
+        "from": "scammer_377",
+        "to": "baiter_377",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.07652777777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "DEAR SANDRA, THIS IS THE INFORMATION WE NEED TO PROCESS YOUR FUNDS IMMEDIATELY)",
+        "body": "MADAM,\r\n\r\nTHANKS FOR YOUR MESSAGE. BELOW IS THE INFORMATION NEEDED FROM THE \r\nFILLING FORM TO ENABLE US PROCESS YOUR FUNDS IMMEDIATELY. SEND THE \r\nINFORMATION PLAINLY IF YOU CAN'T DOWNLOAD THE FILLING FORM.\r\n\r\n1. YOUR FULL NAME:\r\n\r\n2. CONTACT TELEPHONE:\r\n\r\n3. CONTACT HOUSE TEL/MOBILE TEL:\r\n\r\n4. COUNTRY OF ORIGIN:\r\n\r\n5. DATE OF BIRTH:\r\n\r\n6. AMOUNT TO BE PAID: $850,000.00 (EIGHT HUNDRED AND FIFTY THOUSAND US \r\nDOLLAR) ONLY.\r\n\r\n7. ANY OF YOUR ID (DRIVER'S LICENSES OR ANY WORKING ID) NEEDED.\r\n\r\nSINCERELY,\r\n\r\nCHARLES WILSON"
+    },
+    {
+        "from": "baiter_377",
+        "to": "scammer_377",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.07717592592592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: DEAR SANDRA, THIS IS THE INFORMATION WE NEED TO PROCESS YOUR FUNDS IMMEDIATELY)",
+        "body": "Hello Charles Wilson,\n\nThank you for reaching out to me. I appreciate your message. I would like to know more about the funds you mentioned. Can you please provide some additional information? What is the purpose of these funds and how did you come across my contact information?\n\nAlso, I noticed that you mentioned a filling form. Could you please explain what this form is for and why it is needed? Is there any specific reason why my full name, contact telephone numbers, country of origin, date of birth, and identification documents are required?\n\nI look forward to hearing back from you.\n\nBest wishes,\nSandra"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2578",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Western Union Payments",
+        "body": "Western Union Payments\nFOREIGN OPERATION MANAGER\nWESTERN UNION OFFICE UGANDA REPUBLIC\nAttention:\nBoard of directors said that since you refused to pay the $50 to pick\nyour 5000 with this AVAILABLE (M.T.C.N): # 596-854-0364\nSender's Name:   Dennis John Bailey\nAddress:   6603 E Queen St Tulsa Oklahoma 74115\nCountry:   USA\nAmount:    Sent $5000\n(M.T.C.N):    # 596-854-0364\nAvailable,    Amount: $5000\nYou can track it with this link\nhttps: // www. westernunion.com/global-service/track-transfer\nYour payment will be canceled on Wednesday because you think they are\njoking this time around. Only Saviour of your payment now is to pay\nthe fees of $25\nthat holding you to receive it, When you pay the $25 your pick up\ndetails will be forward to you immediately but if you fail to pay it\nfrom now till Wednesday it will be hand over to somebody who need the\nmoney more than you. I can assure you there will be no problem or\nexcuses once you sent the money, be rest assured that your fund will\nbe immediately released to you once you can make the payment today and\nthat's 100% assured, And \nblow is the information to send the fee But\nif you can't send it through Western Union Money-Gram or Ria You are\npermitted to pay the fee fee through either: iTunes card steam wallet\ncard worth the amount $25 only,\nReceive name Daisy Namwebe\nCountry   Republic of Uganda\nCity   Kampala\nAddress: ntinda ministers village\nAamount .... $25\nManager Mr.James Willie"
+    },
+    {
+        "from": "baiter_2578",
+        "to": "scammer_2578",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Western Union Payments",
+        "body": "Hello there! Thank you for reaching out to me. I'm interested in learning more about the Western Union payment you mentioned. Can you please provide me with some additional details?\n\nBest wishes,\nWilliam"
+    }
+]

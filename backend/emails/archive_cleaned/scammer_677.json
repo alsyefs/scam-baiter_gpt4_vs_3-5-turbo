@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_677",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Owner,",
+        "body": "  Dear Owner,\nI am Mr David Lewis, Inspection Unit Manager United Nations\nInspection Agency in Hartsfield Jackson International Airport Atlanta,\nGeorgia. During our investigation, I discovered An abandoned shipment\nthrough a Diplomat from the United Kingdom which was transferred from\nJF Kennedy Airport to our facility here in Atlanta.\nThe two consignment boxes are worth $10 million. And I assure you that\nthe consignment is in your name, and you are advised to provide all\ndetails for claim, after custom clearance charges are perfected .\n(REPLY TO THIS EMAIL : (\ndvidlewis52@gmail.com\n)\nBest Regards,\nMr. David Lewis\nHead Officer-in-Charge   "
+    },
+    {
+        "from": "baiter_677",
+        "to": "scammer_677",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Owner,",
+        "body": "Hello Mr. David Lewis,\n\nThank you for reaching out and sharing this intriguing information with me. I must say, it's not every day that one hears about abandoned shipments worth millions!\n\nCould you please provide more details about these boxes? What exactly do they contain? And how did my name get associated with them?\n\nAlso, could you clarify what you mean by \"custom clearance charges are perfected\"? How does this process work?\n\nLooking forward to your response.\n\nBest wishes,\nTracy"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_181",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Okay",
+        "body": "  Okay\n\t \tMr Christopher A Wray - Chat @ Spike\t2f1wx7   "
+    },
+    {
+        "from": "baiter_181",
+        "to": "scammer_181",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Okay",
+        "body": "Hello Mr. Wray Chat Spike! How are you today? I hope you're doing well. What information would you like to share with me? I'm all ears!\n\nBest wishes,\nVeronica"
+    }
+]

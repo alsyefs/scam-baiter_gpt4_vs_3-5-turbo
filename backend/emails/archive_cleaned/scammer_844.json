@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_844",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn: Beneficiary,",
+        "body": "Attn: Beneficiary,\nCompliments of the Season.\nYou have been rewarded with the sum of $1.5 Million usd by Money Gram World Remit, in order to claim your rightful Money Gram World Remit fund, \nplease contact the payment office below for proper directive and also your full information is required.\nNAME:\nADDRESS:\nMOBILE :\nNAME OF YOUR NEAREST AIRPORT:\nA COPY OF YOUR IDENTIFICATION\n:\nKind regards,\nRio Kenneth\nSenior Financial Consultant"
+    },
+    {
+        "from": "baiter_844",
+        "to": "scammer_844",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attn: Beneficiary,",
+        "body": "Hello Rio Kenneth,\n\nThank you for reaching out to me and informing me about this opportunity. I must say, it sounds quite intriguing. Could you please provide me with more details on how I can claim my Million USD reward from Money Gram World Remit? I would appreciate any guidance or instructions you can give me.\n\nLooking forward to your response.\n\nBest wishes,\nNellie"
+    }
+]

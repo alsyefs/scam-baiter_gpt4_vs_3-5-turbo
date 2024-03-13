@@ -1,0 +1,102 @@
+[
+    {
+        "from": "scammer_828",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn: Beneficiary,",
+        "body": "Attn: Beneficiary,\nYour Compensation Fund which is currently estimated at $1,000,000.00\n[One Million US Dollars] has been approved by the United Nations [UN].\nAfter the last survey/draw your email was randomly selected among\nothers to receive this Fund.\n You are advice to select from the options\nbelow, the means by which you will like to receive your Fund:\nCertified Bank Draft\nATM Debit Card\nFeel free to contact this bona fide agent for further explanation;\nName: Felipe Aitken\nEmail: \nfelipeaitken918@aol.com\nTelephone: +22945584395\nYou have been correctly informed.\nRegards,\nShawn Gad"
+    },
+    {
+        "from": "baiter_828",
+        "to": "scammer_828",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attn: Beneficiary,",
+        "body": "Hello Shawn Gad,\n\nThank you for reaching out to me with this information. I appreciate you letting me know about the approved fund from the United Nations. It sounds like a great opportunity.\n\nI would like to learn more about the options available to receive the fund. Could you please provide me with some additional details about each option? Specifically, I am interested in knowing more about the process and any associated fees or charges.\n\nAlso, could you please clarify who the bona fide agent is that I should contact for further assistance? I want to make sure I am communicating with the right person.\n\nThank you again for sharing this information with me. I look forward to your response.\n\nBest wishes,\nJoe"
+    },
+    {
+        "from": "scammer_828",
+        "to": "baiter_828",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Joe,",
+        "body": "Dear Joe,\r\nI have read your response, I understand your perplexity. I will simply advise you to be positive, everything will work out well. Bank will be informed and involved in the process of payment of funds to you. The possible and applicable methods of transfer are ;\r\n(1) A Certified Bank Draft: can be issued and dispatched to you for depositing at your local bank in order to cash into your bank account the compensation funds.\r\n(2) For Cash Payment: your presence will be required here in the bank office to pay you the compensation in cash.\r\n(3) For Swift Wire Transfer: the fund can be transferred to a bank account in your name. You will be required to provide your accountdetails as follows; (a) Bank Name (b) Bank Address (c) Your Account Number (d) Account Name (e) Swift Code\r\n(4) The ATM card Module: ATM card is still an option; it still can be delivered to you if you do not choose any of the above 3 listed payment mediums.\r\nIndicate your option by giving a response today to this e-letter.\r\nAcknowledge receipt of this email and reply.\r\nRegards,\r\nAitken Jeremy FelipeAddress: 9C3P+GM2, Rue de la Poste,Phone: +22945584395"
+    },
+    {
+        "from": "baiter_828",
+        "to": "scammer_828",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.012916666666666667,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Joe,",
+        "body": "Hello Joe,\n\nThank you for sharing this information with me. It's good to know that there are different methods available for the transfer of funds. Can you provide more details on how the Certified Bank Draft process works? How long does it usually take for the funds to be available once the draft is deposited?\n\nLooking forward to your response.\n\nBest wishes,\nJoe"
+    },
+    {
+        "from": "baiter_828",
+        "to": "scammer_828",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.053148148148148146,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Dear Joe,",
+        "body": "Hello Joe,\n\nThank you for sharing this information with me. I appreciate your guidance on staying positive throughout this process. Could you please provide more details on how the Certified Bank Draft option works? How long does it usually take for the funds to be available once the draft is deposited at my local bank?\n\nLooking forward to your response.\n\nBest wishes,\nJoe"
+    },
+    {
+        "from": "baiter_828",
+        "to": "scammer_828",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.054282407407407404,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Dear Joe,",
+        "body": "Hello Joe,\n\nThank you for sharing this information with me. I appreciate your guidance on staying positive throughout the process. Could you please provide more details on how the Certified Bank Draft option works? I'm curious to learn more about the steps involved in depositing it at my local bank.\n\nLooking forward to your response.\n\nBest wishes,\nJoe"
+    },
+    {
+        "from": "baiter_828",
+        "to": "scammer_828",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.09575231481481482,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Dear Joe,",
+        "body": "Hello Joe,\n\nThank you for sharing this information with me. I appreciate your guidance on being positive throughout this process. Could you please provide more details on how the Certified Bank Draft option works? I would like to understand the steps involved in depositing it at my local bank.\n\nLooking forward to your response.\n\nBest wishes,\nJoe"
+    },
+    {
+        "from": "baiter_828",
+        "to": "scammer_828",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.09601851851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Dear Joe,",
+        "body": "Hello Joe,\n\nThank you for sharing this information with me. I appreciate your guidance on staying positive throughout this process. Could you please provide more details on how the Certified Bank Draft option works? I'm interested in understanding the steps involved in depositing it at my local bank.\n\nLooking forward to your response.\n\nBest wishes,\nJoe"
+    },
+    {
+        "from": "baiter_828",
+        "to": "scammer_828",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.09625,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Dear Joe,",
+        "body": "Hello Joe,\n\nThank you for sharing this information with me. I appreciate your guidance on staying positive throughout this process. Could you provide more details on how the Certified Bank Draft option works? How long does it usually take for the funds to be available once the draft is deposited at my local bank?\n\nLooking forward to your response.\n\nBest wishes,\nJoe"
+    },
+    {
+        "from": "baiter_828",
+        "to": "scammer_828",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.13708333333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Dear Joe,",
+        "body": "Hello Joe,\n\nThank you for sharing this information with me. It's good to know that there are different methods available for the transfer of funds. Can you provide more details on how the Certified Bank Draft process works? I'm curious about the steps involved in depositing it at a local bank.\n\nLooking forward to your response.\n\nBest wishes,\nJoe"
+    }
+]

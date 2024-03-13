@@ -1,0 +1,72 @@
+[
+    {
+        "from": "scammer_349",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Attn: Sir/Madam,",
+        "body": "   Attn: Sir/Madam,\n                          RE-CHANGE OF ACCOUNT.\nI have just been appointed into office in charge of the Banking & Payment System here in the Central Bank of Nigeria, to oversee all pending & overdue foreign payments and ensure that debts owed to all foreign beneficiaries from contract/inheritance/lottery winnings are completely paid. And I have therefore discovered that a new bank account has been submitted to divert your payment to a German bank as stated below:\nFRANKFURTER BANK\nA/C NO.: 367840545\nSWIFT CODE: 50050201\nBENEFICIARY: CERSTIN WENGER.\nThe new account was submitted with a letter stating that you have died, and have directed the new beneficiary to claim your fund. You are therefore required to urgently confirm if this development is true and has your authority. All arrangements to effect payment to the new bank account have been completed, but is kept pending until we hear from you.\nRespond immediately with your full details, so that all perceived anomalies will be corrected, to ensure that we do not release your fund to the wrong persons.\nSincerely,\nVictor Jonathan\nManager\nBanking & Payment System\n(Foreign Remittance Department)\nCentral Bank of Nigeria.  "
+    },
+    {
+        "from": "baiter_349",
+        "to": "scammer_349",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Attn: Sir/Madam,",
+        "body": "Hello Victor Jonathan,\n\nWow, that's quite a surprise! I can assure you that I'm very much alive and well. It's strange to hear about this new bank account in Germany. I don't recall authorizing any such changes.\n\nCould you please provide more details about this situation? How did the bank receive this information? And what steps are being taken to investigate this matter?\n\nI appreciate your help in resolving this issue. Looking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMary"
+    },
+    {
+        "from": "scammer_349",
+        "to": "baiter_349",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Acknowledgement & directives",
+        "body": "Attn: Sir/Ma,\r\n\r\nGood that you are alive to claim your long overdue payment, and also save\r\nus the embarrassment of making payment to a wrong person. We didn't believe\r\nthem, that's why we contacted you to seek this clarification.\r\n\r\nIt might interest you to note that my duty is to list/schedule this payment\r\nwhich is in your name, and which is part of what I met in my office as my\r\nstatutory duties. So be informed that in handling your payment, we will\r\nfollow the due process thoroughly, to ensure that you, the bonafide\r\nbeneficiary, receive your payment without hitches.\r\n\r\nWe therefore confirm receipt of your full information/details for the\r\nreconciliation of your file (DOCUMENTATION PROCESS). Already, your US$10.5M\r\nfund has been approved and programmed to be paid to you via ATM CARD. We\r\nwill give you your Payment Approvals as soon as your details are confirmed.\r\nAnd be informed also that you are not going to pay any further charges/fees\r\nin Cost of Transfers (COT) for the release of your payment.\r\n\r\nThese fake claimants (I Nigerian and 2 foreign nationals) would surely be\r\napprended for prosecution when the report back in 2 weeks time, as gave\r\nthem time.\r\n\r\nSincerely,\r\n\r\nVictor Jonathan\r\nAssistant Director,\r\nBanking & Payment System\r\n(Foreign Remittance Department)\r\nCentral Bank of Nigeria.\r\n*Tel: +234-913 886 1299*"
+    },
+    {
+        "from": "baiter_349",
+        "to": "scammer_349",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0631712962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Acknowledgement & directives",
+        "body": "Hello Victor Jonathan,\n\nThank you for reaching out to me. I'm glad to hear that there's a payment in my name, although I must admit, this comes as quite a surprise! Could you please provide more details about this? How did this payment come about and why is it in my name?\n\nAlso, could you explain the process of receiving the payment via an ATM card? I've never received a payment in this manner before.\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nMary"
+    },
+    {
+        "from": "scammer_349",
+        "to": "baiter_349",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.5373726851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Forward your details",
+        "body": "Attn: Madam,\r\n\r\nGood to hear from you again.\r\n\r\nIt is also very surprising to me hearing that you are surprised at this\r\npayment in your name. As I explained to you earlier, this is part of what I\r\nmet on my table upon assumption of office. I couldn't have contacted you if\r\nyour name is not here as a fund beneficiary.\r\n\r\nHowever, we must carry out a full verification between you and Cerstin\r\nWenger, before finally taking a decision. Yes, I contacted you, first for\r\nthe purpose of verifying the genuine beneficiary of the $10.5m, and\r\nsecondly to effect the payment upon a satisfactory verification of the\r\nbonafide beneficiary. And that is between yourself and Cerstin Wenger who\r\nhas submitted information and documents of herself for proof.\r\n\r\nSo forward to us:\r\n*Your full names\r\n*Current/complete address\r\n*Profession/Occupation\r\n*Age\r\n*Nationality\r\n*Copy of your Driver's License/International Passport.\r\n\r\nAfter the verification we will proceed to issue the ATM Card, and you will\r\nduly be notified of the processes involved.\r\n\r\nI am sending my ID Card and International Passport, as protocol demands,\r\nfor you to know me properly.\r\n\r\nSincerely,\r\n\r\nVictor Jonathan\r\nManager\r\nBanking & Payment System\r\n(Foreign Remittance Department)\r\nCentral Bank of Nigeria.\r\n*Tel: +234-913 886 1299*"
+    },
+    {
+        "from": "baiter_349",
+        "to": "scammer_349",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.063900462962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Acknowledgement & directives",
+        "body": "Hello Victor Jonathan,\n\nThank you for reaching out to me. I'm glad to hear that there's a payment in my name. However, I'm a bit confused about the details. Could you please explain more about this overdue payment? How did it come about and why is it in my name?\n\nAlso, could you clarify what you mean by \"ATM CARD\"? Is this a physical card that will be sent to me or is it something else?\n\nLastly, I'm curious about these fake claimants you mentioned. Who are they and how did they get involved in this situation?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nMary"
+    },
+    {
+        "from": "baiter_349",
+        "to": "scammer_349",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.272476851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Forward your details",
+        "body": "Hello Victor Jonathan,\n\nIt's great to hear from you! I'm quite surprised about this payment in my name, it's not something I was expecting. \n\nYou mentioned a verification process between me and Cerstin Wenger. Could you please elaborate more on that? What kind of verification is needed? And who exactly is Cerstin Wenger?\n\nI appreciate your request for my personal details, but I'm afraid I can't provide them at the moment. Is there any other way we could proceed with this without sharing such information?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nMary"
+    }
+]

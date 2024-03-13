@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1323",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention:,",
+        "body": "Attention:,\nI am Senator Godswill Akpabio Senate President of Nigeria writing this urgent message concerning the final meeting we hard with Nigeria President to compensate every foreigner scam victims with the sum of US$10 Million which Nigeria Government has approved BANK OF AFRICA (UBA) without any further delay,\n you are adivce to fill up your account details immediately for urgent crediting of your Foreign Scam Victims Fund worth US$10 Million.\nFILL THE INFORMATION BELOW:\n(1) Account Name:\n(2) Account Number:\n(3) Bank Name and Address:\n(4) SWIFT Code:\n(5) Your International Passport:\nFurthermore, Immediately you receive this message contact BANK OF AFRICA (UBA) through their Bank information below:\nName: Bank of Africa\nE-mail: \njohnwilli1@proton.me\nTelephone number: 234-807-789-1845\nFinally, contact BANK OF AFRICA (UBA) now with your Bank account details let them carry on the urgent crediting of your Foreign Scam Victims Fund worth US$10 Million immediately without any delaying.\nFOLLOW UP  IMMEDIATELY NOW.\nThanks\nYours faithfully,\nSenator Godswill Akpabio\nSenate President of Nigeria."
+    },
+    {
+        "from": "baiter_1323",
+        "to": "scammer_1323",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attention:,",
+        "body": "Hello Senator Godswill Akpabio,\n\nThank you for reaching out to me with this urgent message. I appreciate your efforts in compensating the foreign scam victims. However, before I proceed, I have a few questions regarding the process.\n\n1. Can you please provide more details about the meeting with the Nigeria President? What was discussed and how did it lead to the approval of these funds?\n\n2. Could you explain why Bank of Africa UBA has been chosen as the institution to handle these transactions? Are there any specific reasons for this choice?\n\n3. Is there any official documentation or paperwork that needs to be completed in order to receive the compensation? If so, what are the necessary steps involved?\n\nI look forward to your response and further guidance on how to proceed with claiming my Foreign Scam Victims Fund.\n\nBest wishes,\nSusan"
+    }
+]

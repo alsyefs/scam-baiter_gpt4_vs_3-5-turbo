@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_361",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Beneficiary",
+        "body": "  Beneficiary\nRef:Payment of your long awaited funds\nWe are so sorry for the delay in making your contract and inheritance payment to you for such a long time now.\nI have written a series of mails to you since I resumed office to handle this payment but no response back ,reasons best known to you.\nAs a matter of urgency,Kindly acknowledge receipt of this mail and please furnish me with the below information.\n1.Your real names and address:\n2.Your telephone number and fax:\n3.Your age/Occupation:\n4:Your international passport/drivers license\n5.Your receiving bank information\n6.Your Amount to be paid:\nAll these I will use and secure fresh payment approvals in your names and favor through this mode payment so that it will be easy for you.\nFaithfully,\nDr. Anthony Okafor\nInternational telex Director\nTel:+234-09092200377   "
+    },
+    {
+        "from": "baiter_361",
+        "to": "scammer_361",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Beneficiary",
+        "body": "Hello Dr. Anthony Okafor,\n\nThank you for reaching out and I apologize if there has been any miscommunication in the past. I'm quite interested in understanding more about this payment process you've mentioned.\n\nCould you please provide me with more details about why these specific pieces of information are needed? Also, could you explain a bit more about how this payment approval process works?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nThelma"
+    }
+]

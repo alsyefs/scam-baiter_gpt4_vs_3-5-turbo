@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_106",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention Dear Fund Owner,",
+        "body": "Attention Dear Fund Owner,\nThis is Mrs Carol B. Tomé the CEO of United Parcel Service (UPS) Atlanta. Office Address: 55 Glenake Pkwy NE, Atlanta, GA 30328, United States. I received a report from ECOWAS that you have an abandoned fund worth  USD$14,000,000.00  in West Africa. I have instructed ECOWAS and the concerned authorities to bring the fund to our Head office in Atlanta. the fund will arrive in my office today.\nI want you to kindly reconfirm your house address or where the fund will be delivered to this office in order for us to deliver the fund directly to you. Note, \nbelow information is officially needed for the delivery of the your fund.\nFull Name..........\nCurrent Home Address...........\nOccupation…………\nNearest Airport...........\nDirect Cell Phone............\nThe above requirements is for Security Reasons,  and to avoid wrong delivery."
+    },
+    {
+        "from": "baiter_106",
+        "to": "scammer_106",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attention Dear Fund Owner,",
+        "body": "Hello Mrs. Carol B. Tom,\n\nThank you for reaching out to me about this matter. I must say, it's quite a surprise to hear about an abandoned fund in West Africa! How did my name get associated with this fund? \n\nI'm also curious about the process of transferring such a large amount of money. Could you please explain more about how ECOWAS and your office are involved in this?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nTammy"
+    }
+]

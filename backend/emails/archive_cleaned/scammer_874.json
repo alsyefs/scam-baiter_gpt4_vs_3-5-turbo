@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_874",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  82 ADDERLEY STR. - Cape Town",
+        "body": "  82 ADDERLEY STR. - Cape Town.\n \nFrom The Desk of FNB Online Banking,\nBanking/Remittance Team.\n \n \nAttention:  \nYour email message was received.\n As we request early, kindly confirm to us your receiving information details address where your Gold Visa ATM Master Card will be delivered to you.\nAs regards to your question, your card activation fee of ZAR 6 300 is equivalent to 347, United States Dollar.\nAnd you can call the bellow number if you need more information.\nWe wait for your urgent reply.\n Sincerely,\nMrs Devirani Naidoo,\nOperations Manager.\nPhone: 0027 7349 19382.   "
+    },
+    {
+        "from": "baiter_874",
+        "to": "scammer_874",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   82 ADDERLEY STR. - Cape Town",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate your prompt response. I would like to confirm my receiving details address as requested. My address is .\n\nRegarding the card activation fee, could you please clarify the exact amount in United States Dollars? I want to make sure I have the correct information.\n\nAlso, could you provide more details about the Gold Visa ATM Master Card? How does it work and what are its benefits?\n\nThank you for your assistance. I look forward to your reply.\n\nBest wishes,\nShane"
+    }
+]

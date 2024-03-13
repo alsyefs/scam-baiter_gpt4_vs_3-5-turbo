@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2704",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Sir/Madam,",
+        "body": "Dear Sir/Madam,\nMy Name is Zeynep Mehmet, the Chief Financial Officer & Executive Vice President at Citi Global Bank Istanbul office in Turkey. I hope this message finds you well. I am reaching out with a time-sensitive and mutually beneficial business proposal that I believe you are well-suited to handle I think it is God's wish that I find you now.\nI came across your profile on a business platform, and after careful consideration, I believe you possess the capability and integrity required for this business transaction. Allow me to provide you with some background information:\n \nThe late Mr. Sulaiman Aladeeli, a 62 years old citizen of your Jordan who was in the gold business here in Istanbul, had a time deposit with my bank in 2007 for 108 calendar months, valued at US$9,500,000.00 (nine million five hundred US dollars) at maturity The date of this deposit was last year.  Sulaiman Aladeeli, was among the victims of the death from the Covid19 2020 pandemic on April 30 in Ankara province in Turkey.\n \nDespite our efforts, we have been unable to locate any of Mr. Sulaiman Aladeeli, next of kin. According to Turkish law, if no one steps forward to claim the funds within six years, they will be transferred to the ownership of the Turkish government. To prevent this from happening, I am seeking your assistance to act as Mr. Sulaiman Aladeeli, Business Associate. This would enable the release of the aforementioned funds (US$9.5 Million USD) in your name as the next of kin and their subsequent transfer into your account.\nRest assured that this transaction is 100% risk free\n; there is no atom of risk involved in this business all necessary documents and proof required for a smooth claims process will be provided to you upon your positive response to this email.\nYour prompt response to this matter would be greatly appreciated.\nBest Regards,\nZeynep Mehmet\nChief Financial Officer\nCiti Global Bank"
+    },
+    {
+        "from": "baiter_2704",
+        "to": "scammer_2704",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Sir/Madam,",
+        "body": "Hello Zeynep Mehmet,\n\nI hope this message finds you in good health. I must say, your email caught me by surprise! It's not every day that one receives such a unique business proposal.\n\nI'm sorry to hear about the unfortunate demise of Mr. Sulaiman Aladeeli due to the Covid pandemic. It's indeed a tragic loss.\n\nYour proposal is quite intriguing, but I have a few questions before we proceed further. Could you please provide more details about the process? How exactly would I be able to assist in claiming these funds as Mr. Sulaiman Aladeeli's Business Associate?\n\nAlso, could you explain why you chose me for this task? As far as I know, I had no connection with Mr. Sulaiman Aladeeli.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDeborah"
+    }
+]

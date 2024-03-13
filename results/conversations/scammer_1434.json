@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_1434",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello, I am Barrister Ivan Kos",
+        "body": "Hello, I am Barrister Ivan Kostyantyn  ,  I want  to confirm if  you still use this email address, I have a confidential Business proposal  for you that will change our fiinancial status forever. The moment you confirm receipt of this message, I shall send you the details. I wait for your prompt response.\n \nBest regardsBarrister Ivan Kostyantyn"
+    },
+    {
+        "from": "baiter_1434",
+        "to": "scammer_1434",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello, I am Barrister Ivan Kos",
+        "body": "Hello Barrister Ivan Kostyantyn,\n\nThank you for reaching out to me. I'm intrigued by your business proposal and would love to hear more about it. Could you please provide some general details about the nature of this opportunity? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nTonya"
+    },
+    {
+        "from": "scammer_1434",
+        "to": "baiter_1434",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "From Barrister Ivan Kos",
+        "body": "Morgun & Partners Law Firm\r\n23 Dniprovska Naberezhna Street,\r\nOffice 179\r\nKyiv 02081 Ukraine.\r\n\r\n\r\nGood Day  Sir\r\n\r\n\r\nI am Barrister Ivan Kostyantyn, the lawyer to Mr. Hennadiy  Kernes (Late).\r\nMy client  Hennadiy Kernes was born  on the 27th  of  June 1959  in the\r\nUkrainian SSR, Soviet Union (now Ukraine), unfortunately he died of\r\nCovid-19  on the 17th  December 2020 in Berlin Germany at the age of 61.  I\r\nbring you a proposal that will change our lives forever. Mr. Hennadiy\r\nKernes was a top politician in Ukraine, known  for his political  stride.\r\nWhile he was alive, he was a member of a political party known as  Kernes\r\nBloc  and was a Mayor of  Kharkov  from 24th November 2010 till  death.\r\nKernes' wife and  her two kids were  killed by the Russian military on 8th\r\nof April  2022. during the Russian Invasion in Ukraine. My client Mr.\r\nHennadiy  Kernes was one of the corrupt  politicians in the history of\r\nUkraine who lunder funds to different parts of the world using his company\r\nHendiyK  LTD.\r\n\r\nHowever, Kernes’ 10-year reign in Kharkov was marked by scandals and\r\ncontroversy, hence in 2014 an attempt was made on his life. I was his\r\nclose ally and trusted lawyer. My Client made a fixed deposit of  Nine\r\nmillion, eight hundred thousand dollars using a company (HendiyK  LTD)\r\nwhich never existed, I was the person that handled most  documentation of\r\nhis shady deals while he  was  still mayor of Kharkov. This is a lifetime\r\nopportunity that will change our lives forever.  I am going to recommend\r\nyou as the beneficiary  and co-owner of  HendiyK  LTD and the bank will\r\nrelease the Nine million, eight hundred thousand dollars  to you as his\r\nrightful beneficiary.\r\n\r\nWe are going to share the proceeds into two equal parts. This  transaction\r\nwill be executed under a legitimate arrangement that will protect us from\r\nany  breach of the law, I advise you to keep this matter  confidential, get\r\nback to me with whatever your decision, as I wait for your prompt response.\r\n\r\nYours In service\nBarrister Ivan Kostyantyn."
+    },
+    {
+        "from": "baiter_1434",
+        "to": "scammer_1434",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.3262152777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: From Barrister Ivan Kos",
+        "body": "Hello Barrister Ivan,\n\nThank you for reaching out and sharing this information with me. I must say, the story of Mr. Hennadiy Kernes is quite intriguing and tragic. It's always sad to hear about such events.\n\nI'm curious though, how did you come across my contact information? And why do you believe I would be a suitable candidate to act as the next of kin for Mr. Kernes' company LTD?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nTonya"
+    },
+    {
+        "from": "scammer_1434",
+        "to": "baiter_1434",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.4880208333333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "From Barrister Ivan Kos",
+        "body": "Morgun & Partners Law Firm\r\n23 Dniprovska Naberezhna Street,\r\nOffice 179\r\nKyiv 02081 Ukraine.\r\n\r\n\r\nGood Day Sir,\r\n\r\n\r\nThank you for your response to my proposal, it is a decision that you will\r\nlive to appreciate for the rest of your life. This opportunity  comes  once\r\nin a lifetime. It might interest you to know that I have been in contact\r\nwith the bank for the past 8 months, in my desperation to make sure that\r\nthe deceased inheritance is secured, the bank has emphatically requested\r\nthat I provide the deceased next of kin. Let me intimate you on the way\r\nforward.  I  must recommend you to the bank as the rightful  beneficiary\r\nand next of kin to the deceased, hence as his lawyer, it is my\r\nresponsibility and in line with the court of probate as amended to provide\r\nhis next of kin.\r\n\r\nPlease note, that  we must observe the due  legal process in this\r\ntransaction. The court of probate made it very clear on issues of\r\ninheritance, in its provision, and its role is to make sure that a deceased\r\nperson's debts are paid and assets are allocated to the correct\r\nbeneficiaries. It is used to  describe the legal process that manages the\r\nassets and liabilities left behind by a recently deceased person.\r\n\r\n\r\nMoving forward, the very first step to take, is for me to procure an\r\naffidavit in your name, I shall do that from the  supreme court which is\r\nthe highest court in the country, with such affidavit, the claim of your\r\nrelationship with the   deceased will be established officially and that\r\nwill enable me file an official fund release application to the bank in\r\nyour favor,On that note, i will be needing the below details from you, to\r\nenable me to approach the court for the affidavit.\r\n\r\n 1. Full Name:\r\n2. Nationality:\r\n3. Contact Address:\r\n4. Telephone Number:\r\n5. Occupation\r\n6. Age.\r\n7. Sex.\r\n8. Position at work\r\n\r\n\r\nUpon the receipt of the above listed details from you, I shall proceed with\r\nthe process, Please if there is any part of the message that you did not\r\nunderstand very well, do not hesitate to ask questions, I shall be looking\r\nforward to your response.\r\n\r\n\r\nYours In service\r\n\nBarrister Ivan Kostyantyn."
+    },
+    {
+        "from": "baiter_1434",
+        "to": "scammer_1434",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.4924652777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: From Barrister Ivan Kos",
+        "body": "Hello Barrister Ivan,\n\nThank you for your detailed explanation. It's quite a surprise to hear about this situation, but I'm glad you reached out to me. \n\nI have a few questions though, if you don't mind. You mentioned that the bank has requested the next of kin of the deceased. How did they come to know about me? Also, could you please tell me more about this deceased person? I'm curious to know how we are related.\n\nAs for the affidavit from the supreme court, what exactly does it entail? And how long does this process usually take?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nTonya"
+    }
+]

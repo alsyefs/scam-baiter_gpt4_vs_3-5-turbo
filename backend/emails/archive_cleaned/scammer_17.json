@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_17",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn:  xxx,",
+        "body": "Attn:  xxx,\n        Due to the scamming activities going on around the world, this is why the Funds Compensation and International remittance office of the United Nations have decided to compensate you with four million ,five hundred thousand United States dollars ($4.5million USD).\nIf you are interested then you get back to us on how you want to receive the ($4.5million USD).\n \nThe following details are needed from us:\nYour Full names, address, telephone number, marital status and age.\nPlease note that it will only cost you $380usd\n.\n   Please if you are interested the $380 USD can be sent via these means: Bitcoin/Blockchain wallet, Sendvalu.com, Worldremit and  Rocket Remit or even bank to bank transfers, it all depends on your choice.\nRegards and awaits your urgent response.\nCharles Abani\nUnited Nations Resident Coordinator, Ghana."
+    },
+    {
+        "from": "baiter_17",
+        "to": "scammer_17",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attn:  xxx,",
+        "body": "Hello Charles Abani,\n\nThank you for reaching out to me. I appreciate your offer, but I have a few questions before proceeding. Can you please provide more details about the source of the USD? Is it a personal fund or part of a larger program?\n\nAdditionally, could you clarify how the transfer process works through Bitcoin Blockchain wallet, Worldremit, Rocket Remit, or bank-to-bank transfers? Are there any fees involved in these transactions?\n\nI look forward to your response.\n\nBest wishes,\nHilda"
+    }
+]

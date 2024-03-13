@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_743",
+        "to": "baiter_743",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Dear Kenneth",
+        "body": "EQUITY INVESTMENT LIMITED.\r\nTEL:+447452219067\r\nFax:+447452232010\r\nDate: 12/02/2024\r\n\r\nDear Kenneth,\r\n\r\n\r\nWho are you. Kindly forward your award certificate so that we verify you.\r\n\r\n\nERIC PAUL"
+    },
+    {
+        "from": "baiter_743",
+        "to": "scammer_743",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Kenneth",
+        "body": "Dear Eric Paul,\n\nThank you for reaching out to me. I apologize for any confusion, but I'm not sure what award you are referring to. Could you please provide more details about the award and how it is related to Equity Investment Limited? I would be happy to assist you further once I have a better understanding of the situation.\n\nBest wishes,\nKenneth"
+    },
+    {
+        "from": "scammer_743",
+        "to": "baiter_743",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.12170138888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Dear Kenneth",
+        "body": "Dear Kenneth,\r\n\r\nYou sent me an email stating you want  information regarding our\r\nbanking details regarding Affidavit T21.\r\n\r\nKindly send all information and documents you received from us so that I verify.\r\nKindly study the mail below.\r\n\r\nRegards,\r\n\r\nERIC PAUL\r\n\r\n\r\n\r\nDear Eric Paul,\r\n\r\nThank you for reaching out to me. I appreciate your message regarding\r\nthe equity investment limited and the bank accounts you provided.\r\nCould you please provide me with more information about the affidavit\r\nfee? What is it for exactly, and how much is required?\r\n\r\nI want to make sure I understand the process correctly before\r\nproceeding. Additionally, could you please clarify what award prize\r\nyou are referring to? I'm sorry if there has been any confusion on my\r\npart.\r\n\r\nLooking forward to your response.\nBest wishes,\r\nKenneth"
+    },
+    {
+        "from": "baiter_743",
+        "to": "scammer_743",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.13765046296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Dear Kenneth",
+        "body": "Dear Kenneth,\n\nThank you for your response. I appreciate your interest in our banking details and the Affidavit. The Affidavit is a legal document that verifies the authenticity of certain information or claims. In this case, it is required to ensure the smooth transfer of funds to your account.\n\nRegarding the fee for the Affidavit, it covers administrative and legal expenses involved in processing and verifying the necessary documents. The exact amount will depend on various factors, such as the total sum being transferred and any applicable taxes or fees.\n\nAs for the award prize, it refers to a promotional offer we have running currently. If you provide me with some more information about yourself, I can check if you are eligible for this prize. However, please note that claiming the prize may require fulfilling certain conditions or paying additional fees.\n\nIf you have any further questions or concerns, please feel free to ask. I'm here to assist you.\n\nBest wishes,\nKenneth"
+    }
+]

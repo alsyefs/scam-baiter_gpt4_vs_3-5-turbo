@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_462",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good Morning ",
+        "body": "Good Morning \nI just want to know if your money has been transferred to your account because all payments end 30th December, 2023 that was the order given to settle all the overdue payments to all the scam victims.\nIn case you have not been paid, send all your info back to me right away.\nRegards\nThiery Rene Jacquet."
+    },
+    {
+        "from": "baiter_462",
+        "to": "scammer_462",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Good Morning ",
+        "body": "Good Morning Thiery Rene Jacquet,\n\nThank you for reaching out to me. I'm not sure if I've received any payments, as I haven't checked my account recently. Could you please provide more details about these payments? What are they for and how were they determined?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nJessica"
+    }
+]

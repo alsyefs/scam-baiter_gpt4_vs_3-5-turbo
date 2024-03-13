@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_628",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir,",
+        "body": "  Dear Sir,\nMy name is Dr. Abraham Olofin, a Chartered Accountant and a Forensic\nAuditor attached to the Financial Institutions of the Federal Republic\nof Nigeria.\nRecently, in the cause of my activity in one of the financial houses,\nI discovered a huge amount of money in foreign currency belonging to\nthe late ABBA KYARI,(A close associate of the President) who suddenly\ndied of Covid-19.\nI want to make you a beneficiary of part of the fund upon your\napproval. That you are one of the beneficiary to one of the pending\npayments with your details, hence this email to you.\nAs at this moment, I am at the position of working it out on your\napproval. I expect your earliest response to this email with your\ntelephone numbers to enable a private discussion prior to the next\nline of action.\nBest Regards,\nDr. Abraham Olofin\n(Chartered Account & Auditor)   "
+    },
+    {
+        "from": "baiter_628",
+        "to": "scammer_628",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir,",
+        "body": "Hello Dr. Abraham Olofin,\n\nThank you for reaching out to me. I must say, your job as a Chartered Accountant and Forensic Auditor sounds very interesting! \n\nI'm sorry to hear about the passing of ABBA KYARI. It's always sad when someone passes away unexpectedly.\n\nYou mentioned that there is a large amount of money in foreign currency involved. Could you please provide more details about this? How did it come to be in the possession of Mr. Kyari?\n\nAlso, could you explain what you mean by me being part of the fund upon my approval? What exactly would this entail?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMerle"
+    }
+]

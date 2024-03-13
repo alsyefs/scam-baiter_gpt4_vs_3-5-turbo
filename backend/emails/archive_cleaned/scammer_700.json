@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_700",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Sir",
+        "body": "Dear Sir\nHow are you doing today?Hope you are doing well\nI have a business proposal that may interest you.\nkindly reply back so that i will send your further details about the proposal.\nwaiting for your urgent response\nRegards\nMr.Edward S. Ayensu"
+    },
+    {
+        "from": "baiter_700",
+        "to": "scammer_700",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Sir",
+        "body": "Dear S. Ayensu,\n\nThank you for reaching out to me. I hope this message finds you well. I am always open to hearing about new business proposals and opportunities. Could you please provide me with some more information about the proposal? What kind of business is it related to? How would I be involved?\n\nI look forward to your response.\n\nBest wishes,\nLucy"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_733",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Subject: Urgent Response Ben",
+        "body": "  Subject: Urgent Response Beneficiary!\nState Street Trustees Bank's Ltd\n324 Royal Palm Way, Palm Beach, N.A, New York.\nSWIFT (SB): SBOSUS3NXXX/SBOSUS3N\nFounded: United States of America\nHours: Open 24 Hours\nUrgent Response Beneficiary!\nThis is to inform you that an instruction and approvals given from\nInternational Monetary Fund and Federal Bureau Investigation (FBI,\nWashington DC, USA regards the deposited funds from IMF, sum US$25\nMillion. as full payment of your inheritance fund. To proceed with\nthis transaction, you are required to send the following information\nfor the claim of your fund.\n1. Your Full Name\n2. Your Resident Address               \n3. Your Direct Phone Number\n4. Your Occupation\n5. Your Next of Kin\n6. Your Driver's License\nWith this information we can proceed and process the transfer of your\nfund immediately.\nYours Faithfully,\nMr. Ronald P. O'Hanley\nCEO Manager\nState Street Trustees Bank's Ltd   "
+    },
+    {
+        "from": "baiter_733",
+        "to": "scammer_733",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Subject: Urgent Response Ben",
+        "body": "Hello! Thank you for sharing this information with me. I appreciate your message. Could you please provide more details about the process of claiming the funds? How long does it usually take for the transfer to be completed once all the required information is provided?\n\nBest wishes,\nJames"
+    }
+]

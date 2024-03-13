@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1908",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Winner,",
+        "body": "  Dear Winner,\nI write to acknowledge the receipt of your application for the claim of your winning prize.\nWe hereby write to bring to your notice that Mega Millions International Lottery is the organizers of the Mega Millions International Lottery WORLDWIDE Foundation Promo, Mega millions, Monthly Play, Thunder ball, Hot picks, and Lotto Extra in the internet giveaway program whereby email addresses extracted from the internet, and the winners selected from a ballot draw.\nLuckily it happened that your e-mail address drew the lucky numbers: 13-45- 02-23-62-31 which subsequently won you the lottery in the 3rd category, i.e. match five plus bonus. You have therefore been approved to claim a total sum of One Million United States Dollars, credited to file GOLDEN/9GM/327752.\nNote, that tickets are not sold anywhere for this program; hence, the above enlightenment is all on the subject of how you became a winner of our giveaway program. You are required to send the following details below to enable you to claim your winning funds and have it sent to you in the next 72 hours.\n1. Full name:\n2. Country:\n3. Contact Address:\n4. Telephone Number:\n5. Sex:\n6. Age\nWe have approved for the payment of your award winning prize contact our financial adviser now.\nCONTACT\nNAME Attorney John hawkins\nEMAIL \nattorneyjohnhawkins@firemail.at\nSincerely yours,\nElizabeth Lyons\nMega Millions International Lottery\nInternational claims agent.  "
+    },
+    {
+        "from": "baiter_1908",
+        "to": "scammer_1908",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Winner,",
+        "body": "Dear Elizabeth Lyons,\n\nThank you for reaching out to me regarding the Mega Millions Lottery WORLDWIDE Foundation Promo. I must say, I am quite surprised to receive this email. Can you please provide me with more information about how I became a winner in this giveaway program? I don't recall participating in any lottery or giveaway recently.\n\nAlso, could you clarify what exactly is the prize that I have won? It would be helpful to know the details before proceeding further. Additionally, are there any fees or charges involved in claiming the prize?\n\nI look forward to your response.\n\nBest wishes,\nScott"
+    }
+]

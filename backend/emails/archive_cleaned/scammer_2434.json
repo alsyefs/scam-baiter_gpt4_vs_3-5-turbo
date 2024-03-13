@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2434",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "My dear friend ! .",
+        "body": "My dear friend ! .\nThis is to inform you that we have finally received your unpaid delayed contract payment which  was transferred from the United Nations (UN).\nAlso note that from the record in my file, the total amount confirmed is\n Ten Million U.S.D ( $10,000,000.00 )  only .\n \nHowever, we have received a notice of Change of Account from your\n representative Mr. Julius Fletcher yesterday. In respect to  the account\n received from him, we wish to confirm with you before we proceed  with\n the transfer of your contract fund to the new account he provided.\n \nKindly confirm the below new bank account as valid and endorsed by you\n for the  transfer of your unpaid contract fund.\nBank; Bank of America\nAddress; 690 Adams Street Quincy Ma 02169 USA\nA/C Number: 4666 0133 5222\nRouting Number: 011000138\nA\\C Name: Julius Fletcher\n \nThe transfer will take place immediately you confirm the authenticity of the new bank account information provided by Mr. Julius Fletcher.\n \nI demand an urgent response from you to enable us to proceed with the transfer.\nTo claim the above mentioned amount, Kindly send to us the following:\n 1. Your full names :\n 2. Your mailing address:\n 3. \nCopy of your valid i.d\n:\n 4. Your telephone number for easy access for communication purposes .\nThanks for your understanding, while looking forward to your reply.\nPersonal regards .\nPeter "
+    },
+    {
+        "from": "baiter_2434",
+        "to": "scammer_2434",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: My dear friend ! .",
+        "body": "Hello Peter,\n\nThank you for reaching out to me. I'm quite surprised to hear about this unpaid delayed contract payment from the United Nations. It's a substantial amount, isn't it? Ten million! That's quite something.\n\nI must say, though, I'm a bit confused about this Mr. Julius Fletcher you mentioned. Could you tell me more about him and how he is related to my case? \n\nAs for the bank account details, I think there might be some misunderstanding here. I don't recall endorsing any new bank account or authorizing any changes recently.\n\nBefore we proceed further, could you please provide more information on this contract? What exactly does it entail and why am I receiving such a large sum?\n\nLooking forward to your response.\n\nBest wishes,\nAndre"
+    }
+]

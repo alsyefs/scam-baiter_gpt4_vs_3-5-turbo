@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1877",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  ATTN: BENEFICIARY,GOOD DAY G",
+        "body": "  ATTN: BENEFICIARY,GOOD DAY GET BACK TO ME\n(IMF) International Monetary Fund, in alliance with the economic\ncommunity of West African States (ECOWAS). We have been working\ntowards the eradication of fraudsters and scam Artists in the world,\nespecially the Western part of Africa, with help of the United States\nGovernment and the United Nations we have been able to track down some\nscam artists,\nWe have been able to recover a huge amount of money from these scams.\nartists, The IMF Managing Director have agreed with the United Nations\nAnti-crime commission and the United The government states that all\nthe money recovered from the scammers will be shared among 100 lucky\npeople around the globe and they are all in Government custody now,\nyou have been compensated with  a sum of $4.5million US Dollars, You\nhave to reconfirm your information below for the conclusion of your\npayment.\nPlease get back to me\nFull Name:___________\nCountry:_____________\nPhone Number:_______\nAge:________________\nsex:________________\nBest Regard,\nREV MATHEW JAMES\nInternational Monetary Fund\nChief Information Officer,   "
+    },
+    {
+        "from": "baiter_1877",
+        "to": "scammer_1877",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   ATTN: BENEFICIARY,GOOD DAY G",
+        "body": "Hello REV MATHEW JAMES,\n\nWow, that's some really interesting information you've shared there! I'm quite surprised to hear about all this. It's great to know that organizations like the IMF and ECOWAS are working hard to combat fraudsters and scam artists.\n\nI'm curious though, how was I chosen for this? And could you please explain a bit more about how this process works? \n\nLooking forward to hearing from you soon!\n\nBest regards.\n\nBest wishes,\nIrma"
+    },
+    {
+        "from": "scammer_1877",
+        "to": "baiter_1877",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: ATTN: BENEFICIARY,GOOD DAY G",
+        "body": "ATTN:  Irma\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nWe are in receipt of your mail, the content is well noted. Please send the\r\ncomplete information below to enable me to finalize your payment\r\ndocumentation before forwarding your payment file to the paying bank and\r\ninstruct them to contact you for your fund payment.  This is strictly by\r\nluck, and the lot fell on you.\r\n\r\n\r\n\r\nWe use this opportunity to thank you for your anticipated cooperation;\r\nlooking forward to hearing from you soonest\r\n\r\n\r\n\r\nFull Name:___________\r\n\r\nCountry:_____________\r\n\r\nPhone Number:_______\r\n\r\nAge:________________\r\n\r\nYours Faithfully,\r\n\r\n\r\n\r\nREV. MATHEW JAMES\r\n\r\nInternational Monetary Fund\r\n\r\nChief Information Officer"
+    },
+    {
+        "from": "baiter_1877",
+        "to": "scammer_1877",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03922453703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: ATTN: BENEFICIARY,GOOD DAY G",
+        "body": "Hello REV. MATHEW JAMES,\n\nThank you for your email and the opportunity that has fallen on me. I'm quite excited about this! Could you please provide more details about the payment process? How does it work exactly?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nIrma"
+    }
+]

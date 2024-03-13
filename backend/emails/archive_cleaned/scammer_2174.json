@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2174",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Dear Beloved",
+        "body": "   Dear Beloved\nThank you for your chosen option, please kindly choose the option you prefer for the payment we have money gram and western Union here so let me know the details to send to you when you are ready for the payment, thank you\nPastor Ben  "
+    },
+    {
+        "from": "baiter_2174",
+        "to": "scammer_2174",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    Dear Beloved",
+        "body": "Hello Pastor Ben,\n\nThank you for reaching out to me. I appreciate your willingness to share information with me. Before we proceed, could you please provide me with some more details about what this payment is for? I want to make sure I fully understand the situation.\n\nAlso, could you explain a bit more about how the money gram and Western Union options work? I'm not very familiar with those methods of payment. Thank you!\n\nBest wishes,\nAntoinette"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_30",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings to you",
+        "body": "Greetings to you\nI Mr Eric Smith wrote from a hospital where there was bladder cancer,\nand I also failed surgery because of the high risk of cancer. I am a\nI am a 75-year-old widower and I am no longer married. In addition, the\nlatest medical examination shows that I will not live for more than\nthree months. My country is (Brazil) but I live in the United States of\nAmerica. So, I made contact with you so that you could be the\nbeneficiary of the money I inherited from my ex-wife. Depending on\nyour agreement, I will credit you with the bank management and ask\nthem to pay you the sum of $3.5Million Dollars into your bank account\nimmediately.\nAlso, \nI want you to get back to me with your full details\n on this email: \naccttgeneral378@gmail.com\n1. Full Name:\n2. Address:\n3. Country:\n4. Phone Number:\n5. Occupation:\n6. Age:\nYours truly\nMr Eric Smith\nEmail: \naccttgeneral378@gmail.com"
+    },
+    {
+        "from": "baiter_30",
+        "to": "scammer_30",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings to you",
+        "body": "Hello Mr. Eric Smith,\n\nI'm really sorry to hear about your health condition. It must be a tough time for you. I appreciate your trust in me, but I'm just an ordinary person and I don't know how much help I can be.\n\nCould you please tell me more about this inheritance? How did you come across my contact information? And why did you choose me for this task?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJarrod"
+    },
+    {
+        "from": "scammer_30",
+        "to": "baiter_30",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Greetings to you",
+        "body": "Get back to me with your informations"
+    },
+    {
+        "from": "baiter_30",
+        "to": "scammer_30",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0042592592592592595,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Greetings to you",
+        "body": "Hello there! I'm interested in hearing more about what you have to share. Could you please provide me with some additional details?\n\nBest wishes,\nJarrod"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1784",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Asalamalakum. Greetings,",
+        "body": "Asalamalakum. Greetings,\nI am Safia Farkash, wife of Late Libyan leader Colonel Muammar Gaddafi,\nFollowing the heat as a result of the crises in Libya against my Husband, I have been able to escape to neighboring Algeria with my daughter. I am desperately looking for a foreign reliable partner whom I can trust to Handle some funds on our behalf. A deposit was made shortly before the crisis started by my husband in one of the security Companies in Europe which happens to be in my name. The UN and the Western world have frozen most of our assets and funds bearing Gaddafi's name anywhere in the world consequently, our status/position of the present state does not permit us to open a bank account or run any huge financial businesses at the moment, hence\n i am contacting you to claim the funds on our behalf.\nThe necessary Legal documents will be changed to your name to enable the release of the funds to you by the Financial institution. Your assistance will enable us invest the funds in your Country. But before we proceed you will promise me that you will not betray our trust. Last time the Government moved to officially freeze the assets held by the Libyan regime in The UK following sanctions imposed by the UN Security Council.\nFind below the links showing some of our frozen assets.\nhttp: // www. deccanherald.com/content/144251/libyas-first-lady-owns-airline.html\nI will furnish you with more info as soon as I hear your response indicating your interest to partner with me.\nWaiting for your prompt and positive response.\nThanks.\nMrs.Safia Farkash Gaddafi\nPLS: REPLY ME THROUGH THIS EMAIL ADDRESS : \nmrsfarkashgaddafi8@gmail.com"
+    },
+    {
+        "from": "baiter_1784",
+        "to": "scammer_1784",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Asalamalakum. Greetings,",
+        "body": "Hello Safia Farkash,\n\nThank you for reaching out to me. I understand the difficult situation you are facing and I appreciate you considering me as a potential partner to help with your funds. Can you provide more details about the funds that need to be handled on your behalf? How much is involved and what would be required from me to assist you in this matter?\n\nLooking forward to hearing back from you soon.\n\nBest wishes,\nJennifer"
+    }
+]

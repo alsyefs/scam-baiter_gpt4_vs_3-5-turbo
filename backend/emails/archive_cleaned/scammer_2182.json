@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2182",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Purchasing of raw materials fo",
+        "body": "Purchasing of raw materials for production\nHello,\nI need your assistance in the purchase of a raw material for production.\nPlease get back to me for a detailed business discussion and possible collaboration.\nI look forward to your feedback.\nBest regards\nResearch And Development Department\nJerry Waildon"
+    },
+    {
+        "from": "baiter_2182",
+        "to": "scammer_2182",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Purchasing of raw materials fo",
+        "body": "Hello Jerry,\n\nThank you for reaching out to me. I'm interested in learning more about the purchase of raw materials for production. Could you please provide me with some details about the specific raw materials you are looking to purchase? Additionally, it would be helpful to know the quantity and any specific requirements or specifications.\n\nI look forward to hearing back from you and discussing this further.\n\nBest wishes,\nJanet"
+    }
+]

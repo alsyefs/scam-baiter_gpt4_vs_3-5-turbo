@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_473",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Beneficiary,",
+        "body": "  Dear Beneficiary,\nWe are not sure you received our previous message, but we wish to use\nthis medium to officially inform you that following the ongoing review\nof all unclaimed and delayed funds by the United Nations and the World\nBank, your payment file was forwarded to our office for immediate\npayment of your long delayed outstanding funds, starting with a first\npayment  of US$1.4 Million with reference No. USA/FM-99FL, to you.\nHowever, we are surprised to receive another application this morning\nfrom your representative, MR. HANS STEINBICHLER, stating that you\nauthorized him to receive your funds into his personal bank account in\nSwitzerland and that you were recently involved in an auto accident\nwith your family and cannot walk right now. Could you please confirm\nimmediately your relationship with MR. HANS STEINBICHLER and also\nconfirm if the bank account in Switzerland as shown below is now your\nnew bank account information to receive your funds.\nCREDIT SUISSE, CH-8038 Z?RICH, SWITZERLAND ACCOUNT NO:\n0872-456011-91IBAN: CH55 0487 2045 6011 9100 0SWIFT CODE: CRESCHZZ8OT\nKindly get in touch with us today by email  \ncraithtim@gmail.com\n with\nyour details to confirm this information to avoid making a wrong\npayment.\n1) YOUR FULL NAME:\n2) CONTACT ADDRESS:\n3) NATIONALITY:\n4) OCCUPATION:\n5) PHONE, FAX AND MOBILE:\n6) GENDER:\n7) AGE:\nYours sincerely,\nTim Craith\nDirector, Anti-Fraud Unit\nFinancial Services Regulation Committee   "
+    },
+    {
+        "from": "baiter_473",
+        "to": "scammer_473",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Beneficiary,",
+        "body": "Dear Tim Craith,\n\nThank you for reaching out to me regarding the review of my unclaimed funds. I appreciate your efforts in ensuring that I receive my long-delayed payment. However, I must clarify that I have not authorized anyone named MR. HANS to receive my funds on my behalf.\n\nI am sorry to hear about the misinformation you received regarding an auto accident involving me and my family. Rest assured, there has been no such incident, and we are all in good health.\n\nTo confirm, I have not changed my bank account details. The bank account information you mentioned does not belong to me. My current bank account details remain the same as previously provided.\n\nPlease let me know what further steps need to be taken to ensure the correct payment is made into my account. I would appreciate it if you could provide more information about the process and any necessary documentation required.\n\nThank you for your assistance in this matter.\n\nBest wishes,\nRaymond"
+    }
+]

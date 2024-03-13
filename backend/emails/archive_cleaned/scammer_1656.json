@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1656",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir,",
+        "body": "  Dear Sir,\nMy good friend I'm back again, it has been a long while we talked and more especially the outstanding business that is still pending. I am fully back on my feet now and we can now finalize our outstanding business transaction. You may recall that I have a US$5,000,000.00 transfer coming through you to my investment destination, I'm still very ready to offer 5% for your partnership and that has not changed. You will still have to reconfirm all your information since we are now starting all over again. \nThe process still remains the same in such that you still have to visit /www.wise.com and set up a wallet account with them and link it to your receiving bank account. The transfer will still be done installment through your WISE WALLET into your account where you deduct your 5% and send the balance to my investment destination. The transaction still will not cost you any fee or tax, all I want is your trust, loyalty, sincerity and confidentiality as usual. \nEvery arrangement still remains the same and none of the processes have changed so I look forward to your reply to proceed. \nBest Regard\nMr. Emeka Osakwe   "
+    },
+    {
+        "from": "baiter_1656",
+        "to": "scammer_1656",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir,",
+        "body": "Hello Mr. Emeka Osakwe,\n\nIt's great to hear from you again! I'm glad to know that you're back on your feet and ready to proceed with our business. I must admit, it's been a while and some details are a bit fuzzy in my memory.\n\nCould you kindly refresh my understanding about the US transfer? What exactly is the nature of this investment? Also, could you explain more about the WISE WALLET? How does it work and how secure is it?\n\nI appreciate your trust in me and I assure you of my sincerity in this matter. However, I would like to understand everything clearly before we proceed further.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRichard"
+    }
+]

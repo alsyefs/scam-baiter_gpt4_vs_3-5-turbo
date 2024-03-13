@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_584",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  general meeting held about y",
+        "body": "  general meeting held about your fund delivery, the paying bank of UGANDA\n(ABC Bank Uganda Limited )\napproved your delivery through a conformable  DHL DELIVERED COURIER\nSERVICE COMPANY  to  delivery your  ATM CARD to you doorstep as ask\nyou mead the payment to them , in act to uphold the rule of law which\nwe represent . You\nhave to reconfirm the information below for security reasons. And also\nbe informed that delivery agent will leave this country as soon as you\ncomply with\n(Courier)Company requirement,\nE-MAIL ADDRESS OF THE DHl: ( \ndhrequirement_delivery1@outlook.com\n)\nBest regards,\nMr. Akello  Emmanuel(Chairman of Board of Directors)   "
+    },
+    {
+        "from": "baiter_584",
+        "to": "scammer_584",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   general meeting held about y",
+        "body": "Hello Mr. Akello Emmanuel,\n\nThank you for your message. It's quite exciting to hear about the ATM card delivery! I'm a bit confused though, could you please explain more about this fund delivery? What is it for exactly?\n\nAlso, could you provide more details about the DHL DELIVERED COURIER SERVICE COMPANY? How does the process work?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nHubert"
+    }
+]

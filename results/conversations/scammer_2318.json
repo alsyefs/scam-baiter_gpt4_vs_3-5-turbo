@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2318",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Good Day,",
+        "body": "  Good Day,\n    I am Mr. Sergei Revovich Ivanov, an investor and a director with Gazprom Russia. Considering the current economic sanctions melted on Russia by some European countries and United States of America which is seriously\naffecting all our investments globally, I'm soliciting for your consent to transfer twenty four million dollars ($24 millions) investment funds deposited with National Westminster Bank into your personal bank account for\ninvestment and also to escape confiscation by USA government sanctions.\nPlease respond back for more details.\n \nYours Truly,\nSergei Revovich Ivanov\nChairman of the board of directors Gazprom   "
+    },
+    {
+        "from": "baiter_2318",
+        "to": "scammer_2318",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Good Day,",
+        "body": "Hello Mr. Sergei Revovich Ivanov,\n\nIt's a pleasure to hear from you! I'm intrigued by your proposal, it sounds like quite an interesting situation you're in. Could you please provide more details about this investment? For instance, what kind of investment are we talking about here? And how would the transfer process work?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nHelen"
+    },
+    {
+        "from": "scammer_2318",
+        "to": "baiter_2318",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Good Day,",
+        "body": "Dear Helen,\r\n I received your email with much gratitude and I want to thank you for your\r\ntimely response.\r\nI got your contact details from the World input Database when I was\r\nsearching for an expert foreign investor  so I decided to contact you.\r\n\r\nNevertheless it is a matter of choice and I promise you that you will not\r\nregret and I will  offer you 30% of the total funds.If you're ready to work\r\nwith me, kindly reply so that I can present you to the bank to grant you\r\naccess to the funds as my foreign investor.\r\n\r\nIf you agree to work with me, I will make a proper arrangement on how the\r\nfund will be transferred to you safely without any problem. Attached is the\r\ncopy of my passport for your perusal.\r\n\r\nI wait for your response.\r\nSergei Revovich Ivanov"
+    },
+    {
+        "from": "baiter_2318",
+        "to": "scammer_2318",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.018344907407407407,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Good Day,",
+        "body": "Hello Sergei Revovich Ivanov,\n\nThank you for reaching out and considering me as a potential foreign investor. I am flattered by your offer and the trust you are willing to place in me.\n\nI must admit, I'm not very familiar with the World Input Database. Could you tell me more about it? How does it work?\n\nAlso, could you provide more details about the investment opportunity? What kind of project is it? What would be my role as a foreign investor?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nHelen"
+    }
+]

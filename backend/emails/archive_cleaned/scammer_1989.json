@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1989",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings to you from BANK OF ",
+        "body": "Greetings to you from BANK OF AMERICA .we received a total fund($10.5\nmillion )from office of the Bank America to be credited to you via\nonline banking service. \nYou are advice to provide us with your details\nsuch as below to enable us create your online banking account and\nprovide you with the username and login, which you can use to login\ninto your online bank account through our bank website and make your\nfund transfer into your personal bank account of your choice.\nFull Name:\nYour Bank/ details:\nYour Swift code:\nYour account number:\nAge/Gender:\nOccupation:\nCell Mobile Number:\nEmail address:\nCity:\nScan copy of your Id is very important\n Regard"
+    },
+    {
+        "from": "baiter_1989",
+        "to": "scammer_1989",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings to you from BANK OF ",
+        "body": "Hello! Thank you for reaching out to me from the Bank of Erica. I appreciate your assistance in helping me with my funds. Before I provide you with my details, could you please clarify a few things for me? \n\n1. Could you explain how the online banking service works? \n2. What are the benefits of having an online bank account with the Bank of Erica? \n3. Is there any fee or cost associated with creating and using this online banking account? \n4. How secure is the online banking system at the Bank of Erica? \n\nOnce I have a better understanding of these details, I will be happy to proceed and provide you with the necessary information. Thank you!\n\nBest wishes,\nJack"
+    }
+]

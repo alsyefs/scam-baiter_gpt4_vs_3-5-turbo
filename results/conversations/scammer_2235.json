@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2235",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello,",
+        "body": "Hello,\nYou are among the ones selected for the compensation of 950,000 US Dollar from the United Nations under the European Union of compensation association.\nContact the below mentioned office for immediate payment.\nMr. Rodrigue Geraud\nHead of department (HOD)\nEmail: \nrodriguegeraud@post.com\nCC \nrodriguegeraud@outlook.com\nRegards,\nMs. Marilyn Daniel\nUnited Nations Compensation Commission\nLiaison Office 2023 Edition"
+    },
+    {
+        "from": "baiter_2235",
+        "to": "scammer_2235",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello,",
+        "body": "Hello! That sounds interesting. Can you tell me more about how I was selected for this US Dollar payment from the United Nations under the European Union? What is the process for receiving this payment?\n\nBest wishes,\nJill"
+    },
+    {
+        "from": "scammer_2235",
+        "to": "baiter_2235",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Hello,",
+        "body": "Attention: Jill, \n \nYour mail is well received. \n \nAffirming receipt of your mail in regards to your $950,000 US Dollars installment support, a Voluntary Fund Awarded to you for Victim of Torture. \n \nA guidance has been given to me from UNCC to reach you and send you the funds yet the fund will be sent to you, through an ATM Visa Card which the $950,000 US Dollars is already credited on it. \n \nSend us your receiving postal address and Passport Copy or ID Card Copy bearing your name on it so I will realize that I am not sending your ATM Visa Card, to an off-base individual along with your immediate phone number to empower us send the ATM Visa Card to you through any of your choice dispatching service without wasting time. \n \nWhen you get the ATM Visa Card you can withdraw from any ATM machines in your country and all over the world. \n \nWe will additionally tell you the possible daily limit withdrawal until the whole funds is totally withdrawn. \n \nAnticipating to hear from you earliest. \n \nBest Respects \nMr. Rodrigue Geraud \nTel: +229 508 945 70 \nWhatsApp: +229 591 060 08 \nJoined Countries Data Center \nUnited Nations Information Centre \n \n \n DISCLAIMER: The content of this e-mail is intended solely for the use of the Individual or entity to whom it is addressed. If you have received this communication in error, be aware that forwarding it, copying it, or in any way disclosing its content to any other person, is strictly prohibited. If you have received this communication in error, please notify the author by replying to this e-mail immediately. \n \n \n \n Sent: Friday, February 23, 2024 at 12:15 PM From: \"Jill\" <gp94342@***.com> To: rodriguegeraud@post.com Subject: Re: Hello, \n \nHello! That sounds interesting. Can you tell me more about how I was selected for this US Dollar payment from the United Nations under the European Union? What is the process for receiving this payment?\nBest wishes, \nJill"
+    },
+    {
+        "from": "baiter_2235",
+        "to": "scammer_2235",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.020763888888888887,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Hello,",
+        "body": "Hello Jill, I'm glad you reached out. It's great to hear about the US Dollars support you've been awarded for victims of torture. The process seems straightforward - they will be sending you the funds through an ATM Visa Card which already has the credited amount on it. \n\nTo receive the card, they are requesting your postal address, a copy of your Passport or ID bearing your name, and your phone number for delivery purposes. Once you have the card, you can withdraw the funds from any ATM machine.\n\nAs for how you were selected for this payment, it would be interesting to know more details about that. Have you had any previous involvement with organizations supporting victims of torture? Do you have any idea why they specifically chose you for this award?\n\nLooking forward to hearing more from you!\n\nBest wishes,\nJill"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2405",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Good morning to you,",
+        "body": " Good morning to you,\nThis is M J Anderson. I have been trying to contact you by email, regarding your pending transfer from one of our corporate accounts. However, this fund could not be transferred to you due to correctable reasons, which I will inform you about in response to this email.\nAre you ready to receive this fund? I will definitely help you make this transfer to your local bank account within 48 hours. If you need help with this, please contact me as soon as possible.\nDo reconfirm the following details to enable me commence the process immediately.\nYour Full Names:\nYour Current Home Address:\nYour Direct Cell:\nYour Current Occupation:\nBank Names:\nBank Address:\nBank Account No:\nBeneficiary Names:\nSwift No:\nRouting No:\nIban No:\nThank you,\nM J Anderson\nHead of Customer Service\nCitibank Washington, D.C USA    "
+    },
+    {
+        "from": "baiter_2405",
+        "to": "scammer_2405",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  Good morning to you,",
+        "body": "Good morning Anderson,\n\nThank you for reaching out to me regarding the pending transfer from one of your corporate accounts. I'm definitely interested in receiving this fund, but I would like to know more about the reasons why it couldn't be transferred initially. Could you please provide me with more information?\n\nAlso, I appreciate your offer to help me make the transfer to my local bank account within hours. That sounds very efficient. Before we proceed, could you please clarify what specific details you need from me to commence the process? I want to make sure I provide you with the correct information.\n\nLooking forward to hearing back from you soon.\n\nBest wishes,\nMichael"
+    }
+]

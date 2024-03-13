@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_36",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attn:Fund Beneficiary,",
+        "body": "  Attn:Fund Beneficiary,\nIMMEDIATE FUND RELEASE ORDER THROUGH UNITED STATES OF AMERICA BRANCH OFFICE\nREAD CAREFULLY\nThis message is to bring to your notice that we have fifteen (!5) fund beneficiaries in our list of payment and you are one of the shortlisted  beneficiaries whose payment have been approved for immediate remittance.\nAs one of the means of security measures against impersonation, we have decided not to address you by your name in this message so that by the time you respond to this message quoting your name, we shall check from our list and if your name is found there, we shall release your funds to you without delay because some of beneficiary's payment have been delayed unnecessarily.\nIt is vital to acquaint you with the information that some staffs handling your payment in the past have been either retired or transferred to another location and department of duty changed and new credible staffs assigned to ensure that the shortlisted beneficiaries are paid through our correspondence financial institution in United States of America (USA)\nYou are required to fill the questionaire below:\n(a)  Quote your name as it appeared in your fund ownership and claim.\n(b)  The total sum you are expecting.\n(c)   Your country of origin.\nWe shall revert to you if the information you provided tally with the one in our file, followed by prompt release of your fund.\nQuote your tally number as INTL/112/FP/23 when replying for easy confirmation of your payment information.\nYour sincerely,\nMr.Adams Jeremiah\n(Finance and Strategy)   "
+    },
+    {
+        "from": "baiter_36",
+        "to": "scammer_36",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attn:Fund Beneficiary,",
+        "body": "Hello Jeremiah,\n\nThank you for your message. It's quite exciting to hear about this fund release! I'm curious, though, how did my name end up on this list? And could you please explain a bit more about what the tally number is and why it's important?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nRobert"
+    }
+]

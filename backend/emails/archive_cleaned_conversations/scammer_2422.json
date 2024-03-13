@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2422",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hi",
+        "body": "  Hi\nI am a Canadian female geologist dealing in crude oil and precious\nstones business in the Middle East. I have an urgent welfare mission\nproject that will require your personal involvement if you oblige.We\nshall discuss details upon your response.\nDr.Thana Burhan\n(Manama Bahrain)\nTel/WhatsApp: +97337079207\nRelp to  Email: \nthanaburhan7@gmail.com\n "
+    },
+    {
+        "from": "baiter_2422",
+        "to": "scammer_2422",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Hi",
+        "body": "Hello Burhan,\n\nThank you for reaching out to me. I'm interested to hear more about your welfare mission project. Could you please provide me with some details? What exactly is the project about and how can I be of assistance?\n\nLooking forward to your response.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_2422",
+        "to": "baiter_2422",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Hi",
+        "body": "Thanks for your candid response and I do appreciate you as a person and\r\nwhat you represent to humanity. I could not revert to you before now\r\nbecause the medical procedure took too long and I went to sleep immediately\r\nas a result of the effects of the administered drugs. My dear friend, a few\r\nmonths ago I fell very sick and was diagnosed with Esophageal cancer at\r\n Royal Specialist hospital here in Manama, where I am making this contact\r\nwith you now. I am in deep pain as I write you this mail, but I am\r\ndetermined more than ever  to make sure that this charity project becomes a\r\nreality before I pass away.\r\n\r\n I have been recommended for surgical operation at Tisch Cancer Specialist\r\nHospital New York in the United States of America but I am hesitant to\r\nleave for  now because the doctor's verdict on the success of the procedure\r\nis 50/50.  My medical condition has become desperate and hopeless with each\r\npassing day over the past months and I must embark on this trip as a matter\r\nof emergency if there are no other options beyond  what they have available\r\nhere , including trado medical approach. We will have the chance to meet in\r\nNewyork when I eventually arrive  at  Tisch Cancer Specialist Hospital\r\nwithin two weeks from now if there is no improvement in my condition here.\r\n\r\nLike I hinted earlier, I have some amounts of funds which are part of the\r\ndivorce settlement  from my late husband and  private earnings from the\r\ngold/diamond business which I run on a large scale. The capital investment\r\nmoney is in  excess of  ($3.5m) with Cofina Bank Groupe (\r\nhttps://cofinagroupes.com) out of which is drawn a Master Card that will be\r\nsent to you  on my instructions after due legal documentation and\r\nendorsement between us to start off the basic establishments for the\r\ncharity project.  I will provide you with more details and introduce you\r\npersonally to the relevant authorities as my appointed trustee in due\r\ncourse.\r\n\r\n We will discuss necessary details and if you have interest also in selling\r\ngold, I will introduce you to my agent in Eco Trust Company (\r\nhttps://ecotrustsec.com) to discuss the shipment and sale  of my gold\r\ndeposit worth 125kg with all necessary documents available, including\r\ncustoms declaration and approval for export. You will not be required to\r\nspend your money in the process because that is why I have made the\r\nprovision for the Master Card to be sent to you, in order to enable you\r\naccess the fund to a daily limited  amount through ATM before opening a\r\nsuitable account with the Holden bank Confina to facilitate the transfer of\r\nthe money for the project needs in due course.\r\n\r\nI need a copy of your identity and your registered  address  for the\r\ncharity administration documentation. . The information will be used to\r\nprocess legal trustee documents in the court of Bahrain  to empower you for\r\nthe appointment and service as soon as possible. I attach  some of the\r\nrelevant documents for your records and reference in making formal enquiry\r\nwith the respective institutions if you so desire. You can inquire through\r\n: https://ecotrustsec.com/\r\nhttps://cofinagroupes.com/\nRegards,\r\n\r\nDr.Thana Burhan\r\nBldg 178, Flat 104, Road 907, 309\r\nP.O. Box 10988\r\nManama Bahrain"
+    },
+    {
+        "from": "baiter_2422",
+        "to": "scammer_2422",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.217361111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Hi",
+        "body": "Dear Burhan,\n\nThank you for reaching out to me and sharing your story. I'm sorry to hear about your health condition, and I hope you are receiving the necessary medical care. It's admirable that you are determined to make your charity project a reality.\n\nI would be interested in learning more about the charity project you mentioned. Could you provide some details about the specific cause or purpose of the project? Additionally, how do you plan on ensuring the funds are used effectively for this cause?\n\nRegarding the gold business, I'm curious to know more about it. How does it work, and what role would I play if I were to get involved? Are there any risks or legal considerations that I should be aware of?\n\nLastly, before proceeding further, could you please clarify how my identity and registered address will be used for the charity? What kind of legal trustee documents are required, and what responsibilities would come with being appointed as a trustee?\n\nThank you for providing some relevant documents for reference. I will review them carefully and let you know if I have any further questions.\n\nBest wishes,\nJames"
+    }
+]

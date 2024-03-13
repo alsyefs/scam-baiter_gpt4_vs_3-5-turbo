@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_672",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Dear Friend",
+        "body": "   Dear Friend\n \nI'm happy to inform you about my success in getting the fund transferred to a Royal Bank of Scotland Account with the cooperation of a new partner from London who is an international business man.\n \nPresently I'm in India for investment projects with my own share of the total  sum. Meanwhile, I did not forget your past efforts and attempts to assist me in transferring those funds despite that it failed us somehow.\n \nNow contact my secretary, her contact is:\nName:  Aisha Yakoub\nEmail: \nladyaishayakoub@yahoo.com\nTel: +2349060818260\n \nAsk her to send you the total $650.000.00 (Six Hundred and Fifty Thousand US Dollars) which I kept for your compensation for all the past efforts and attempts to assist me in this matter.\n \nI appreciated your efforts at that time very much. So feel free and get in touch with my secretary Aisha Yakoub and instruct her where to send the amount to you.\nPlease do let me know immediately you receive it so that we can share the joy together after all we suffered at that time. In the moment, I am very busy here Because of the investment projects which me and the new partner are having at hand, you can reach me on this number +447024087586.\nFinally, remember that I had forwarded instruction to my secretary on your behalf to receive that money, so feel free to get in touch with Aisha Yakoub and she will send the amount to you without any delay.\n \nWith best regards\nPaul Clement,   "
+    },
+    {
+        "from": "baiter_672",
+        "to": "scammer_672",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    Dear Friend",
+        "body": "Dear Paul Clement,\n\nThank you for reaching out to me with this exciting news. I'm glad to hear about your success in securing the funds and your new partnership. It's great that you haven't forgotten my past efforts to assist you, even though it didn't work out as planned.\n\nI appreciate your trust in me and would like to know more about how I can receive the Six Hundred and Fifty Thousand US Dollars. Could you please provide me with some additional details? For instance, what is the purpose of this fund transfer? Is there any specific process or documentation required for me to receive the amount?\n\nAlso, I would like to congratulate you on your investment projects in India. It sounds like a busy and fruitful time for you. If there's anything else you'd like to share or discuss, please feel free to let me know.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMary"
+    }
+]

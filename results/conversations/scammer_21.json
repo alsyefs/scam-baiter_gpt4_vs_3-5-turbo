@@ -1,0 +1,122 @@
+[
+    {
+        "from": "scammer_21",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention:   ",
+        "body": "  Attention:   \nDid you receive the email that I sent to you as regards to your funds of $10.5M that you authorized a proxy to claim on your behalf?\nKindly revert to me with an answer to the above.\nMr. Paul Abbate\nDirector Fund Recovery Team   "
+    },
+    {
+        "from": "baiter_21",
+        "to": "scammer_21",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention:   ",
+        "body": "Hello Mr. Paul Abbate, thank you for reaching out. I don't recall receiving an email about authorizing a proxy to claim funds on my behalf. Can you please provide more details about this?\n\nBest wishes,\nJean"
+    },
+    {
+        "from": "scammer_21",
+        "to": "baiter_21",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Attention:",
+        "body": "Attn: Jean\r\n\r\nThis is to acknowledge the receipt of your message.\r\n\r\nFor security purposes, I can not send details of the project as demanded by\r\nyou in your response unless you send me a copy of the first message\r\nyoureceived from  me and your details which must include your full name,\r\naddress and phone number. I need to confirm that I am corresponding with\r\nthe right person before opening up.\r\n\r\nThank you for your cooperation.\r\n\nMr. Paul Abbate\r\nDirector Fund Recovery Team"
+    },
+    {
+        "from": "baiter_21",
+        "to": "scammer_21",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.022650462962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Attention:",
+        "body": "Hello Mr. Paul Abbate, thank you for your message. I understand the need for security measures. Could you please provide more information about the project before I share my details? I would like to know more about how we can proceed.\n\nBest wishes,\nJean"
+    },
+    {
+        "from": "scammer_21",
+        "to": "baiter_21",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.2076851851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Attention:",
+        "body": "Attn: Jean\r\n\r\nYour message is received.\r\n\r\nKindly forward to me, the first message you received from me before I will\r\nprovide more information about the project and direct you on how we can\r\nproceed.\r\n\r\nThank you for your cooperation.\r\n\nMr. Paul Abbate\r\nDirector Fund Recovery Team"
+    },
+    {
+        "from": "baiter_21",
+        "to": "scammer_21",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2304861111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Attention:",
+        "body": "Hello Mr. Paul Abbate, thank you for reaching out. I would be interested in learning more about the project and how we can proceed. Please go ahead and provide me with the details.\n\nBest wishes,\nJean"
+    },
+    {
+        "from": "scammer_21",
+        "to": "baiter_21",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.074675925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Attention:",
+        "body": "Attn: Jean\r\n\r\nYour message is received.\r\n\r\nWell, I can only comply with you when you have met with my demands,\r\n\r\nThank you\r\n\nMr. Paul Abbate\r\nDirector Fund Recovery Team"
+    },
+    {
+        "from": "baiter_21",
+        "to": "scammer_21",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.148113425925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Attention:",
+        "body": "Hello Mr. Paul Abbate, thank you for reaching out. I understand the importance of meeting demands in certain situations. Could you please provide more details about the fund recovery process? I'm interested to learn more about how it works.\n\nBest wishes,\nJean"
+    },
+    {
+        "from": "baiter_21",
+        "to": "scammer_21",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2324652777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Attention:",
+        "body": "Hello Mr. Paul Abbate, thank you for reaching out. I'm interested in learning more about how your Fund Recovery Team operates. Can you provide me with some details on the process?\n\nBest wishes,\nJean"
+    },
+    {
+        "from": "scammer_21",
+        "to": "baiter_21",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.4936921296296297,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Attention:",
+        "body": "Attn: Jean\r\n\r\nYour message is received.\r\n\r\nYour messages were received. It is obvious that you do not want to comply\r\nwith what is demanded of you. I have to stop all communication until you\r\nare ready to comply with my directives.\r\n\r\nThank you and enjoy your weekend.\r\n\nMr. Paul Abbate\r\nDirector Fund Recovery Team"
+    },
+    {
+        "from": "baiter_21",
+        "to": "scammer_21",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.6490509259259258,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Attention:",
+        "body": "Hello! Thank you for reaching out. I'm interested in learning more about the fund recovery process. Can you provide me with some details on how it works?\n\nBest wishes,\nJean"
+    },
+    {
+        "from": "baiter_21",
+        "to": "scammer_21",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.7724768518518519,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Attention:",
+        "body": "Hello! Thank you for your message. I understand that you are looking for compliance with certain demands. Can you please provide more details on what is required to move forward?\n\nBest wishes,\nJean"
+    }
+]

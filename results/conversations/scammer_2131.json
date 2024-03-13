@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2131",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention Sir,",
+        "body": "  Attention Sir,\nMy name is Olawale Edun, the Finance Minister to the Government of the Federation, Federal Republic of Nigeria. I wish to notify you that instruction has been given to me by the President of Nigeria His Excellency Bola Ahmed Tinubu to make sure that all pending foreign beneficiaries funds are paid within twenty one (21) days from today.\nSo if you are yet to receive your payment, this is an opportunity for you to do so because we have just 21 days to effect all pending transfers as before the expiration of the mandate given by the president.\nOn this note, this development came on based on the complaints from some foreign beneficiaries that the commercial banks assigned by the government to pay them were unable to do that, instead, they keep asking for payments after payment without results.\nHowever, you are advised to forward your receiving bank information and every relevant document issued to you in regards to your payment, and this needs to be done urgently as I will personally contact your bank to notify them of the transfer.\nIf you are dealing with anyone in this regard, I will advise you to stop immediately because they are your problem.\nI await your response for further proceedings.\nThanks,\nYours Sincerely,\nOlawale Edun\nMinister of Finance, Budget and National Planning\nFederal Republic of Nigeria   "
+    },
+    {
+        "from": "baiter_2131",
+        "to": "scammer_2131",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention Sir,",
+        "body": "Hello Mr. Olawale Edun,\n\nThank you for reaching out to me. I'm intrigued by your message and the opportunity it presents. However, I must admit that I'm a bit confused about some details.\n\nCould you please clarify what these pending foreign funds are? And why have they not been paid yet? Also, could you explain more about the mandate given by the President?\n\nI'm also curious about these complaints from foreign individuals. What exactly were their issues with the commercial banks?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nCarol"
+    },
+    {
+        "from": "scammer_2131",
+        "to": "baiter_2131",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Attention Sir,",
+        "body": "MESSAGE RECEIVED,\r\nSEND YOUR DRIVERS LICENSE FRONT AND BACK\r\nTHANKS WAITING FOR YOUR REPLY"
+    },
+    {
+        "from": "baiter_2131",
+        "to": "scammer_2131",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.015231481481481481,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Attention Sir,",
+        "body": "Hello there,\n\nThank you for your message. I'm afraid I can't provide the information you're asking for, as it's personal and sensitive. However, I'd be happy to help with any other non-personal information or questions you might have. Could you please tell me more about why you need this information?\n\nBest wishes,\nCarol"
+    }
+]

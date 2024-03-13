@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_886",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Mrs xxx,",
+        "body": "Mrs xxx,\n \nWe have been dealing with claims of an imposter trying to claim your funds, I had to notify the Foregin Remittance Department immediately.\nYou need to STOP  communicating anyone right now, change your email passwords etc. please follow my instruction or you might loose all your funds communicating or contacting impostors, do not speak or  email anyone anymore for your own good. please STOP.\nI would advise you make your payment and get the Remittance Department to wire your funds to you immediately before your funds is put on hold because of multiple claim.\n \nPayment Information   \n \nBank Name -        Wise\nAcc #-        6796xxxx\nName -       M.  O.\nSort Code - 119687\nIban  -        BE6796xxxx119687\nBIC    -       TRWIBEB1XXX\nAmount -    $4,200.  \n \nMake payment  to the Account, immediately and send me proof        \n \nBarr Fred"
+    },
+    {
+        "from": "baiter_886",
+        "to": "scammer_886",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Mrs xxx,",
+        "body": "Hello Mrs. xxx,\n\nThank you for reaching out to me with this important information. I appreciate your concern and want to make sure I understand the situation correctly. Could you please provide me with more details about the imposter who is trying to claim my funds? How did you come across this information?\n\nI also want to ensure that I take the necessary steps to protect myself. Can you please guide me on how to change my email passwords securely? Are there any other precautions I should be taking at this time?\n\nRegarding the payment, could you please explain why it is necessary for me to make a payment? What is the purpose of this payment, and how will it help in getting my funds wired to me? Additionally, can you provide more information about the Remittance Department and their role in this process?\n\nI apologize for bombarding you with questions, but I want to make sure I have a clear understanding of everything before proceeding further. Thank you for your assistance.\n\nBest wishes,\nRaymond"
+    },
+    {
+        "from": "scammer_886",
+        "to": "baiter_886",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Mrs xxx,",
+        "body": "[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[ fada"
+    },
+    {
+        "from": "baiter_886",
+        "to": "scammer_886",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.06800925925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Mrs xxx,",
+        "body": "Hello! How can I help you today?\n\nBest wishes,\nRaymond"
+    }
+]

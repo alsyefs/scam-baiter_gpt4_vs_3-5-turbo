@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_506",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good day xxx,",
+        "body": "Good day xxx,\nThis is to officially inform you that \nyour email address emerged as one of the selected lucky winners\n of £750,000.00 in the international lottery jackpot 2023.\nThis program was sponsored and organized by Coca-Cola in conjunction with Ann Uarmusa Organization for the final quarter of the year jackpot.\nYou are among the lucky 500 beneficiaries to gain from this global lottery program (GLP 2023).\nBelow are your approved details to claim your winnings.\nWinning Reference Number: CCCI-GLP-W20-CL23\nKindly contact Mr. Eugene Drumio by Email: \ndast79709@gmail.com\n ; and quote your winning reference number: CCCI-GLP-W20-CL23\nOnce again, Congratulations!!!\nRegards,\nGilbert Trouse\nCoca Cola\nGlobal Lottery Program (GLP 2023)"
+    },
+    {
+        "from": "baiter_506",
+        "to": "scammer_506",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Good day xxx,",
+        "body": "Hello Gilbert Trouse,\n\nThank you for reaching out to me and providing this information. I must say, it's quite exciting to hear that my email address has been selected as one of the lucky winners in the lottery jackpot! Can you please provide me with more details about how I can claim my winnings? What is the next step I need to take?\n\nAlso, could you clarify who Ann Uarmusa is and what her role was in sponsoring and organizing this global lottery program? It would be helpful to know more about the background of this program.\n\nLooking forward to your response.\n\nBest wishes,\nRobin"
+    }
+]

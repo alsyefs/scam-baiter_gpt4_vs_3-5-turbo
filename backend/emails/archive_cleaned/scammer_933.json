@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_933",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Helo,",
+        "body": "Helo,\nI'm Gen Li Shangfu China’s defence minister.\nDue to my recent issue with my Government I do deem it fit to contact you privately to seek for your help as I have appeared missing which is a euphemism for being fired or imprisoned. When I kill an Arab, a Jew, a Muslim, a Hindu, a communist, whoever it is, I am killing myself. I wonder if Chinese Government realise this, basically.\nWell, my problem with the Chinese Government is their actions without considération, as we all know that he who plunges into action without considering the problem, thinking that he is reforming the world – it is he who is creating greater confusion and greater misery. whereas, the so-called missing or inactive man who withdraws and is seriously considering the whole question – surely, such a man is much more active.\nIn these times especially, when the whole world is on the edge of a precipice and catastrophic events are taking place, is it not necessary for a few at least to be inactive, deliberately not to allow themselves to be caught in this machine, this atomic machine of action, which does not produce anything except further confusion, further chaos?\nI'm desperately in need. Please ,save my life!!!\nI promise you will never regret helping me. If you can save my life and properties. I hope will can be friends with benefits.\nThank you in anticipation. Please kindly reply me on here ( \nGenLiShangfu@gmail.com\n)\nBest Regards,\nGen Li Shangfu\nChina’s defence minister."
+    },
+    {
+        "from": "baiter_933",
+        "to": "scammer_933",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Helo,",
+        "body": "Hello Gen Li Shangfu,\n\nThank you for reaching out to me. I'm sorry to hear about the issues you're facing with the Chinese Government. It sounds like a difficult situation. Can you please provide more details about what exactly happened and how I can help you?\n\nBest wishes,\nEllen"
+    }
+]

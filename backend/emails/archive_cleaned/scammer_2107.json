@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2107",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  RADIUS BANK OF BOSTON",
+        "body": "  RADIUS BANK OF BOSTON\n1 Harbor St, Boston, MA 02110,\nUnited States\nDate ……..16/01/2024\nAttention:\nCompliment of the season,We are contacting you based on your overdue payment USD$7.5Million in my bank and also which to know if you have made an agreement with Mr.Benson Scott to claim your overdue payment.We are giving you 24hrs to respond back to us, else we will proceed with the payment to Mr.Benson Scott on your Behalf.\nYour response is needed.\nMr.Philip Peter\nAccount Department   "
+    },
+    {
+        "from": "baiter_2107",
+        "to": "scammer_2107",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   RADIUS BANK OF BOSTON",
+        "body": "Hello Peter,\n\nThank you for reaching out to me. I hope you're doing well. I received your message regarding an overdue payment in my bank account. Could you please provide me with more details about this payment? I want to make sure I have a clear understanding of the situation before proceeding.\n\nAlso, could you clarify who Scott is and what his role is in this matter? I don't recall making any agreements with him, so it would be helpful to know more about his involvement.\n\nI appreciate your prompt response and look forward to hearing back from you soon.\n\nBest wishes,\nPaula"
+    }
+]

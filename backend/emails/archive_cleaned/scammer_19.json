@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_19",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear beloved beneficiary,",
+        "body": "Dear beloved beneficiary,\nHappy Weekend!\nWe would like to inform you that we have officially received and confirmed an order authorizing the transfer of funds (Debt/Inheritance Fund) from the Money Investigation Unit in your favor. We are pleased to inform you that your fund has been approved by COAF and deposited here at Banco Luso Brasileiro.\nPlease note that this approved pending payment has been verified through our legal department and will be deposited into your bank account smoothly via fast wire bank transfer.\nPlease be aware that we have used our authority to obtain all support from the Department of Justice to ensure the successful transfer of your $10,000,000.00 funds via ONLINE/Bank Transfer.\nFYI: Every day we are receiving more and more pressure from some corrupt government officials trying to transfer your funds to an unknown account. But we do not agree with their evil plans at all, so they continue to pressure us regarding your funds.\nWe honestly assure you that we will do my best to complete the transfer of your funds VIA ONLINE/Bank Transfer.\nWe will also print and send you account statements of your funds at this bank. Until we hear from you, we will continue the process of transferring your funds.\nWe await your urgent reply for further modalities.\nSincerely,\nInternational Payment Review Desk\nBanco Luso Brasileiro, S.A"
+    },
+    {
+        "from": "baiter_19",
+        "to": "scammer_19",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear beloved beneficiary,",
+        "body": "Hello Payment Review Desk at Banco Luso,\n\nThank you for your message and the good news about the fund transfer. I'm thrilled to hear that everything has been approved by COAF and is ready to proceed.\n\nCould you please provide me with more details about this process? For instance, how long will it take for the funds to be transferred into my bank account? Also, could you explain what an ONLINE Bank Transfer entails?\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nCheryl"
+    }
+]

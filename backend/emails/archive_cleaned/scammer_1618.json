@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1618",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  INTERNATIONAL MONETARY FUND ",
+        "body": "  INTERNATIONAL MONETARY FUND (IMF).\nWorld Debt Reconciliation Agencies.\n1900 Pennsylvania Ave NW,\nWashington, DC 20431, USA\nUnited States of America.\nAttention!! Attention!!\nThis is to inform you that this Agency (International Monetary Fund (IMF) has been instructed by the World Bank in collaboration with the United Nations/ Regions Bank, to carry out the release of every long withholding inheritance benefits such as listed below:\ni.   Unclaimed Inheritance funds.\nii.  Unclaimed Retirement Benefits\niii. Unclaimed lottery prize.\niii. Unclaimed Consignment/Packages.\niv. Unclaimed Compensation funds.\nv.  Unclaimed Inheritance documents and its certificates.\nThis INSTRUCTIONS was carried out after the above-mentioned Agency has taken time to study your payment file and found out that you have paid VIRTUALLY fees and certificate but the fund has not been released to you.\nThe most annoying thing is that they cannot tell you the truth that on a known account will they ever release the fund to you or refund; instead they let you spend money unnecessarily. Now we have been ordered by the above mentioned Agency to have your fund release to you through online system of Banking. For further inquiries, contact us directly on the E-mail address\nRegards,\nRaymond Wood\nMrs. Raymond Wood\nChief Information Officer\nDirector of the Information Technology Department\nInternational Monetary Fund (IMF).\nUnited States of America.   "
+    },
+    {
+        "from": "baiter_1618",
+        "to": "scammer_1618",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   INTERNATIONAL MONETARY FUND ",
+        "body": "Hello Raymond Wood and Mrs. Raymond Wood,\n\nThank you for reaching out to me with this information. It's quite interesting to hear about these unclaimed benefits and funds. I must admit, I'm not very familiar with how all of this works.\n\nCould you please explain a bit more about the process? How does the Monetary Fund IMF identify these unclaimed funds and benefits? And how do they decide who is eligible to receive them?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRandall"
+    }
+]

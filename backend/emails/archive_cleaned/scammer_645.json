@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_645",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  From: Central Bank of Nigeri",
+        "body": "  From: Central Bank of Nigeria\nPlot 33,Abubakar Tafawa Balewa Way\nCentral Business District,\nFederal Capital Territory,\nGarki Abuja.\nNigeria\nDear Beneficiary.\nThis is to officially inform you that Central Bank of Nigeria have\nreleased and approved Your Payment File as a foreign beneficiary who\nwill finally inherit cash payment of US$19,500,000.00 via United\nNations approved Doorstep delivery.\nInstruction was given to CBN by the Federal Government of Nigeria,\nthrough the Federal Ministry of Finance/AUDITS,as mandated by United\nNations (UN) and (IMF) to transfer the approved sum of\nUS$19,500,000.00 as a Cash delivery to your doorstep in your  country\nunder U.N Diplomatic coverage tag.\nMore importantly, The whole fund have been securely packaged in a\nconsignment beyond any security intervention by the Central Bank Fund\npackaging and Logistics Department and will be hand over to a known\nexpatriate who will deliver the cash to you as a classified diplomatic\npouches to your doorstep in your country under international approved\nU.N Diplomatic Immunity coverage tag.\nReply me immediately for effective communication and process of your\nCourier delivery to your doorstep within 72hrs.\nReply swiftly to Email: \ndrkingsleyobioradgepd@outlook.com\nYours Faithfully\nDr.Kingsley Obiora\nDeputy Governor,CBN\nAlternate Executive Director (IMF)   "
+    },
+    {
+        "from": "baiter_645",
+        "to": "scammer_645",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   From: Central Bank of Nigeri",
+        "body": "Dear Obiora,\n\nThank you for reaching out to me with this information. I must say, it sounds quite intriguing. I would appreciate it if you could provide me with some more details about the process of the courier delivery to my doorstep. How long does it usually take for the delivery to be completed? Are there any fees or charges associated with this service?\n\nLooking forward to your response.\n\nBest wishes,\nFrancis"
+    }
+]

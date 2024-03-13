@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2016",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello,",
+        "body": "Hello,\nMy name is Oknha Ung Phallar, Director Monarch Investment Group Cambodia. Please permit me to reach you through this means. The MD of an oil and gas company in Dusseldorf,\ndied in 2019 at the edge of a completion of payment of a multi-million dollar contract with the Cambodian government. Unfortunately, this payment was not effected before his\ndemise and there have been delays in payment due to our inability to provide a recipient on his behalf.\nMy partner and fellow executive, who is a cousin of our King Sihamoni, has agreed to seek your assistance to receive this payment on our behalf while hoping we can arrive at a\nbeneficial settlement or cut therein for your part.\nI would love to entrust the details in your hands for further discussions.\nBest Regards,\nOknha Ung Phallar\nDirector Monarch Investment Group Cambodia\nEmail: \noknhaung@gmail.com"
+    },
+    {
+        "from": "baiter_2016",
+        "to": "scammer_2016",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello,",
+        "body": "Hello Oknha Ung Phallar,\n\nThank you for reaching out to me with this opportunity. I am interested in learning more about how I can assist you in receiving the payment on behalf of your company. Could you please provide me with more details regarding the process and what would be expected from me?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_2016",
+        "to": "baiter_2016",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Hello,",
+        "body": "How are you, William?\r\n\r\nApart from being a director with Monarch Investment Group, I am also the\r\nCEO of UPL & LKH International Group Co., Ltd, Cambodia. Monarch Investment\r\ngroup, of which I am a director, got a contract project of about\r\nUS$103Million from the Cambodian government in collaboration with a German\r\ncompany Veritas Oil and Gas company to develop part of KOK TANG PREAH\r\nSIHANOUK PROVINCE. All arrangements were up and awaiting payment when our\r\nGerman friend and collaborator suddenly died.\r\n\r\nVeritas Oil and Gas company a foreign company owned by Mr. Herbert Karven,\r\nacted as an expert consultant to Monarch Investment Company in this\r\nproject. The understanding was an indirect way of moving funds out of\r\nCambodia for foreign investment.\r\n\r\nAfter Herbert Karven's death and having had our payment delayed, we are\r\nleft with no option than to carry on the arrangement as previously planned\r\nby the group but with a change of foreign representative, hence my contact\r\nto you. We solicit for you to take over as the expatriate company that\r\nMonarch Investment Group consulted in order to have the part payment of USD\r\n$29,867,525 (Twenty Nine Million Eight Hundred and Sixty Seven thousand,\r\nFive Hundred and Twenty Five Cents) released to us by the Cambodia\r\ngovernment. You will take 30% from this payment while keeping 70% will be\r\nfor us until when needed for our investment purposes in your care. We will\r\nattach the project plan and our contract agreement with the Cambodian\r\ngovernment for you to go through and understand more of this collaboration\r\nafter I hear from you.\r\n\r\nWe are anticipating a yes response from you on this collaboration. With the\r\ninfluence of my other company executive and royal partner and friend, Son\r\nAltesse Sisowath Panara Sirivuth the cousin of the current King of\r\nCambodia, everything will go as arranged without any hindrance.\r\nDo get back urgently to me to tell you how we can go about this as the\r\nMinistry of Economy and Finance is awaiting payment instructions from\r\nMonarch Investment Company. My personal regards as I await your reply. I\r\nhave attached our IDs which includes my diplomatic passport and photos of\r\nthe people involved and hope that you can keep this transaction a top\r\nsecret.\r\n\r\nBest Regards,\r\n\r\nOknha Ung Phallar\r\nTell/WhatsApp +855-88-507 7039\r\nEmail: uphallar@monarchinvestment-kh.asia\r\n\r\nNote: Okhna: is a title honor given to outstanding Cambodia Citizens of\r\nrespect by the Monarchy.\r\nSon Altesse: is the title of members of the King's family.\r\n_______"
+    },
+    {
+        "from": "baiter_2016",
+        "to": "scammer_2016",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.031689814814814816,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Hello,",
+        "body": "Hello William,\n\nThank you for sharing this information with me. It sounds like quite a complex situation with the project in Cambodia and the unfortunate passing of Mr. Herbert Karven. I appreciate you reaching out to me for assistance.\n\nI would be interested in learning more about the project plan and contract agreement with the Cambodian government. Could you provide me with more details on how my involvement would help facilitate the release of the payment?\n\nI understand the need for confidentiality, and I assure you that I will treat any information shared with me with utmost discretion.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nWilliam"
+    }
+]

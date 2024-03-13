@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_425",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Friend,",
+        "body": "  Dear Friend,\nMy name is Chung Yuan Lin , a Board Member of Foreign Trade Bank of Cambodia (FTB).\nA late investor of our bank died and left $32,640.000.00 Million dollars in our bank some years ago and there was no next of kin to claim this fund.\nPlease get back to me as soon as possible for more details if you are interested in my proposal.\nBest Regards\nMr Chung Yuan Lin\nEMAIL: \nchungyuanlin434@gmail.com\n "
+    },
+    {
+        "from": "baiter_425",
+        "to": "scammer_425",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Friend,",
+        "body": "Hello Mr. Chung Yuan Lin,\n\nI hope this message finds you well. Your proposal certainly sounds intriguing! I'm curious to know more about it. Could you please provide some additional details? \n\nFor instance, how did this situation come about? And what would be my role in this scenario?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nKatharine"
+    },
+    {
+        "from": "scammer_425",
+        "to": "baiter_425",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Friend,",
+        "body": "Dear  Katharine\r\n\r\nThanks for your mail, how are you and your health? It’s the will of God to\r\nknow you in this transaction. I am a senior staff in Foreign Trade bank\r\nhere in Cambodia; I have been a banker for 27 years now. I have had a\r\nclient for years and I control his account here in Foreign Trade bank,\r\nunfortunately his family were all involved in the tsunami disaster on the\r\n26 December 2004 in Sumatra Indonesia where they all lost their lives.\r\n\r\nBased on this incident he started sick for years and developed heart\r\nproblems and passed away on 12th march 2005 leaving nobody as the next of\r\nkin. On his sick bed I am the only person that controls his hospital bills\r\nbecause I am in control of his money being his personal accountant.\r\n\r\nAfter years of the fund $32,640,000 (Thirty Two Million Six Hundred and\r\nForty Thousand United States Dollars) here in Foreign Trade bank none of\r\nthe family is alive for the claims, recently Foreign Trade bank board\r\ndirectors stipulated to send this money to the government treasury purse. I\r\nam a living witness of this fund which I will not like the government to\r\nhave together with his estate. I decided to contact you to stand as the\r\nrelative next of kin because you share the same name with him.\r\n\r\nAfter my research I got your contact information from a reputable\r\nbusiness/professional directory of your country which gives me assurance of\r\nyour legibility as a person while trying to get a good and capable business\r\nfor both business and investment purposes.\r\n\r\nAll documents relating to my late client and the fund are in my possession.\r\nHence, you do not need to worry yourself or entertain any fear in you at\r\nall in this transaction. With your consent, I will file your name\r\nofficially as the inheritor and will monitor the process, giving you every\r\ninformation/advice on how to claim this fund and successfully transfer it\r\nto your nominated bank account. You will get 50% of the amount at the\r\nconclusion of this transaction for your partnership.\r\n\r\nMeanwhile I will need you to confirm your information below so that it will\r\nenable me officially file your name at the bank as the inheritor for the\r\nbank to start the release process:\r\n\r\n1. Full names\r\n2. Full address\r\n3. Occupation\r\n4. Direct telephone number for easy communication.\r\n\r\nAll I require from you is your maximum cooperation.\r\n\nHere is my Direct num +85598502242\r\nCell Phone Num +855712066904.\r\nAttached is my ID card.\r\n\r\nYours sincerely\r\nMr Lin Chung Yuan\r\nBoard member\r\nForeign Trade Bank of Cambodia\r\nPhnom Penh."
+    },
+    {
+        "from": "baiter_425",
+        "to": "scammer_425",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0008101851851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Friend,",
+        "body": "Hello Mr. Lin Chung Yuan,\n\nI hope this message finds you well. I must say, your email was quite a surprise! It's not every day that one receives such news.\n\nIt's truly tragic to hear about the fate of your late client and his family. The tsunami disaster in Sumatra Indonesia was indeed a terrible event, and it's heartbreaking to know that so many lives were lost.\n\nYou mentioned that I share the same name with your late client. That's quite a coincidence! However, I'm curious as to how you found my contact information? You mentioned a reputable business directory - could you tell me which one?\n\nAlso, I'm intrigued by the process you described for claiming this fund. Could you provide more details on how this works? How does one officially become an inheritor? And what kind of advice would you be able to give me?\n\nAs for the information you requested, I'm afraid I can't provide it at this time. But rest assured, I am very interested in learning more about this situation.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nKatharine"
+    }
+]

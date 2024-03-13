@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2019",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear sir,",
+        "body": "Dear sir,\nHappy New Year to you.\nThis is to officially inform you that you have just received an irrevocable and unconditional approval for the immediate release of your funds.\nI am Mr. Oliver Alawuba, the Chief Executive officer CEO/Managing\ndirector of the United Bank for Africa. My office has been nominated by the Presidency to pay/settle all debts as a result of  foreign investment,\nconsultancy, inheritance, contracts and compensations.\nKindly as a matter of urgency let us know the method of payment you want.\n\"HELP US TO SERVE YOU BETTER\"\nYours faithfully,\nMr Oliver Alawuba\nCEO/MD UBA."
+    },
+    {
+        "from": "baiter_2019",
+        "to": "scammer_2019",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear sir,",
+        "body": "Dear Mr. Oliver Alawuba,\n\nThank you for reaching out to me and wishing me a Happy New Year. I hope you had a great start to the year as well.\n\nI appreciate the information regarding the approval for the release of my funds. Could you please provide more details about the nature of these funds? What is the source of these funds and why have they been nominated by the Presidency for settlement?\n\nRegarding the method of payment, could you please explain what options are available? I would like to understand the process and ensure that it is secure and reliable.\n\nThank you once again for contacting me. I look forward to your response.\n\nBest wishes,\nKathleen"
+    }
+]

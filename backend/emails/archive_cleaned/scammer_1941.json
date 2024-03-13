@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1941",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "HSBC BANK PLC",
+        "body": "HSBC BANK PLC\nAddress: 1818 H Street, NW Washington, D.C, 20433, USA\nEmail: \ndesmonwalter001@us.hsbc.com\nTelephone: +1-917-933-3572\nFrom The Desk Of Mr. Desmond Walter\nDirector HSBC BANK PLC USA\n                          For The Immediate Release Of Your Fund Valued US$10,000,000.00 US Dollars With Payment Number: IMF/UN-19/RF/2023\nRef Payment Number: IMF/UN-19/RF/23\nAttn:\nThis is to acknowledge the receipt of an instruction from Mrs. Esther George, to release the donation fund valued $10,000,000.00 US Dollars, that was deposited by Mrs. Esther George.\n \nThis is to inform you that Mrs. Esther George, has instructed this bank to transfer this sum of $10,000,000.00 to your account or to convert it into an ATM Card and send it to your receiving address.\nMind you that you are the new sole beneficiary and next of kin to Mrs. Esther George for the transferring of the sum of $10,000,000.00 from HSBC Bank PLC to you.\nHenceforth, We will require your full name and address.\nAs soon as we receive these requirements, then we will commence with the procedure and processing of remitting of the fund into your account.\nWe are looking forward to your anticipated cooperation.\nWaiting to hear from you on receipt of this mail.\nYours Sincerely\nMr. Desmond Walter\nDirector HSBC BANK PLC"
+    },
+    {
+        "from": "baiter_1941",
+        "to": "scammer_1941",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: HSBC BANK PLC",
+        "body": "Hello Mr. Desmond Walter,\n\nThank you for reaching out to me. I am quite surprised and a bit overwhelmed by this news about Mrs. Esther George's donation fund. It's not every day that one receives such an email.\n\nBefore we proceed, could you please provide more information about Mrs. Esther George? How did she come to choose me as the next of kin? Also, could you explain the process of transferring this sum into my account or converting it into an ATM card?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nPaul"
+    }
+]

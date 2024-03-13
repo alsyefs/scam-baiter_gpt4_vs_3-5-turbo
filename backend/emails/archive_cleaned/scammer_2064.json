@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2064",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Attn: Beneficiary.",
+        "body": " Attn: Beneficiary.\nSir,\nThis is to confirm the receipt of your email with the approved assigned payment amount US$4.5M with  payment reference  (FQ011/UNDRC/B-60015/23).\nDo be informed that the pending unsettled payment was recalled from the financial entity to the International Monetary Fund after receiving all pending payment files during the joint session between the IMF/UN and the financial entity that was previously in charge of your pending payment.  During the joint session meeting in the last quarter of 2023 financial audit year, there was a resolution to complete this payment exercise through a diplomatic delivery channel, since there have been various interest groups associated with your payment that have hindered or delayed your payment for a period of time now.\nOn this note, what you are expected to do is to fill the attached Unsettled Payment Claims form DX-12 for due verification and authentication purposes. If you are unable to print and fill the claims form DX-12, you can as well provide the complete details as requested on the form and I will personally fill the form on your behalf. Once that is done, I will forward it to the IMF Admin and Fund assessment Unit for due confirmation. Once the verification is completed which normally takes 48 working hours, the unsettled payment will be approved and subsequently you will be assigned with a top delivery agent/diplomat based on your geographic location  who will be in contact with you via telephone to work out the delivery modalities with you.\nDo find attached copy of the claims DX-12 Form.\nWe look forward to your immediate response.\nKind regards,\nMr. Graham Bennett.\nPayment Verification/Audit.\n------\nThe information contained in this message and or attachments is intended only for the person or entity to which it is addressed and may contain confidential and/or privileged material.  Any review, transmissible, dissemination or other use of, or taking of any action in reliance upon, this information by persons or entities other than the intended recipient is prohibited. If you received this in error, please contact the sender and delete the material from any system and destroy any copies.    "
+    },
+    {
+        "from": "baiter_2064",
+        "to": "scammer_2064",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  Attn: Beneficiary.",
+        "body": "Dear Mr. Graham Bennett,\n\nThank you for reaching out to me regarding the pending unsettled payment. I appreciate your efforts in resolving this matter and providing me with the necessary information.\n\nI have received the attached Unsettled Payment Claims form. However, I am unable to print it at the moment. Could you please assist me in filling out the form based on the details I provide? I want to ensure that everything is done correctly.\n\nAdditionally, could you please explain more about the diplomatic delivery channel? How does it work and what are the benefits of using this method for my payment?\n\nThank you once again for your assistance. I look forward to your prompt response.\n\nBest wishes,\nEileen"
+    }
+]

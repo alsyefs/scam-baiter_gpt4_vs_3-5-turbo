@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2381",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Amalgamated Finance Limited is",
+        "body": "Amalgamated Finance Limited is a leading Financial Services provider that is based in United Kingdom to provide Non Recourse Loans, Business Loans, SME Loan, Investment Loan, Project Financing, Bank Guarantees, SBLCs, Letters of Credit, Monetization of BG/SBLC and funding for all kinds of viable projects locally and internationally."
+    },
+    {
+        "from": "baiter_2381",
+        "to": "scammer_2381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Amalgamated Finance Limited is",
+        "body": "Hello there,\n\nThank you for sharing this information about Finance Limited. It sounds like they offer a wide range of financial services. I'm particularly interested in the Non Recourse Loans and Project Financing. Could you please provide more details about these services? For instance, what are the terms and conditions, interest rates, and repayment plans?\n\nAlso, could you explain a bit more about Bank Letters of Credit and BG SBLC? I'm not very familiar with these terms.\n\nLooking forward to your response!\n\nBest wishes,\nMary"
+    }
+]

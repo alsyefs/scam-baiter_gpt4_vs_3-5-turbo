@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1139",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  BANK OF AMERICA",
+        "body": "  BANK OF AMERICA\n100 NORTH TRYON ST CHARLOTTE,\nNORTH CAROLINA. 28255, USA.\nFROM THE DESK OF:\nMR. BRIAN THOMAS MOYNIHAN\nPRESIDENT AND CEO BANK OF AMERICA\nCONTACT LINK: BANK OF AMERICA\n(bankofamerica.com)\nEMAIL: (\ninfoboa0bankofamerica@gmail.com\n).\nATTENTION: FUND BENEFICIARY.\nWe wish to inform you that the board of trustees and management of Bank of America has finalized and have been given an Immediate transfer order by the Us Department of the Treasury in conjunction with the United Nations and our current President Mr. Joe Biden, to transfer your overdue fund to your bank account, the approved sum of USD$10,000.000.00 (Ten Million United States Dollars Only) by this following means of choice.\nThe World Bank Group has mandated the Bank of America (BA) via my Office to release funds to beneficiaries through a means preferable by the beneficiary, Hence Your Name appears as one of The fund beneficiaries whom their fund was successfully cleared for payment.\nYour money will be released to you through a means preferable by you to avoid paying excess charges.\nFinally, you are advised to re-confirm these to us.\nYour Full Name.......................\nContact address......................\nOccupation.............................\nTelephone.............................\nAnd Fax Number for easy communication.\nMost importantly be aware that (Ten Million United States Dollars Only(US$10,000.000.00) was allocated to you as the approved amount due to you, there are two options to receive your funds (1) Bank to Bank wire transfer (2) Payments through Delivery of ATM CARD to your address then you have to choose on the two options above, Be also informed that all the documents regarding this approval and authorization has been issued in your name.\nTherefore be aware that your fund has obtained all her clearance to be released to you.\nAwait your urgent attention  today.\nCongratulations.\nYours Sincerely,\nMR. BRIAN THOMAS MOYNIHAN\nPRESIDENT AND CEO\nBANK OF AMERICA.\n(\ninfoboa0bankofamerica@gmail.com\n)   "
+    },
+    {
+        "from": "baiter_1139",
+        "to": "scammer_1139",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   BANK OF AMERICA",
+        "body": "Dear Mr. Brian Thomas Moynihan,\n\nThank you for reaching out to me regarding the transfer of my overdue fund. I appreciate the information you have provided and I am interested in learning more about the process.\n\nCould you please explain to me how the transfer will be conducted? What are the steps involved and what documents will be required from my end? Additionally, could you clarify the options for receiving the funds - Bank to Bank wire transfer or Delivery of ATM CARD?\n\nI look forward to your prompt response.\n\nBest wishes,\nEdward"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2144",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hi Friend",
+        "body": "Hi Friend\nIt will be my pleasure to share my story with you as life has brought me this far by giving me much more than I expected, so kindly Email me  for more details.WhatsApp number\nBest Regards,\nMr. Kofi Asiedu.\nEmail:koffiasiedumessage3@gmail.com\nWhatsapp:  +233262761939"
+    },
+    {
+        "from": "baiter_2144",
+        "to": "scammer_2144",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hi Friend",
+        "body": "Hi Mr. Kofi Asiedu,\n\nThank you for reaching out and offering to share your story with me. I'm always interested in hearing about people's experiences and the lessons they've learned along the way. Could you please give me a brief overview of what your story is about? I'd love to know more before we proceed.\n\nBest wishes,\nLee"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2158",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello",
+        "body": "Hello\nMy name is Ramse Taylor. I work as a procurement assistant. I got your contact details in my search for a reliable and neutral company or individual to partner with in the area of investment. I need your assistance to manage an investment fund in a profitable business in your region with a good Annual Return on Investment (AROI). I know that this mail might come to you as a surprise because we neither know each other nor have ever met but please accept it with an open and positive mind.\nDetails of the investment and funding will be furnished to you when I receive your response which will also facilitate a face to face meeting with the investors.\nWaiting for your quick response.\nYours sincerely,\nRamse Taylor"
+    },
+    {
+        "from": "baiter_2158",
+        "to": "scammer_2158",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello",
+        "body": "Hello Ramse Taylor,\n\nThank you for reaching out to me. I appreciate your interest in partnering with me for an investment opportunity. I'm always open to exploring new possibilities, so I would like to learn more about the details of this investment and funding.\n\nCould you please provide me with some additional information? Specifically, I would like to know what type of business this investment fund is intended for and what the expected Annual Return on Investment (AROI) is. Additionally, it would be helpful to understand the timeframe and any potential risks involved.\n\nOnce I have a better understanding of these details, we can discuss further and potentially arrange a face-to-face meeting with the investors.\n\nLooking forward to hearing back from you soon.\n\nBest wishes,\nMary"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_840",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   FROM THE DESK OF DR JOHNSON",
+        "body": "   FROM THE DESK OF DR JOHNSON COKER\nMANAGING DIRECTOR FIDELITY BANK PLC\nATTN: \nBE INFORM BY TODAY WE RECEIVE EMAIL FROM ONE MT LEE GRAHAM WHO CLAIM TO BE YOUR BUSINESS PARTNER AND  HE TOLD US BY EMAIL THAT YOU HAVE DIED OF COVID 19 AT AGE OF 70 YEARS OLD AND AS WELL HE HAS DIRECTED US TO TRANSFER YOUR { TWENTY MILLION FIVE HUNDRED THOUSAND UNITED STATES DOLLARS} TO THE  NEW BANK ACCOUNT INFORMATION HE JUST FORWADED TO US BELOW\n1 ACCOUNT NAME LEE GRAHAM\n2 BANK NAME BMO BANK OF MONTREAL\nBANK ADDRESS ALBERTA CANADA\nACCOUNT NUMBER 2277010553\nSO SIR IF YOU NEVER AUTHORIZE THIS CHANGE OF BANK ACCOUNT AND AS WELL YOU NEVER PERMITTED HIM TO CLAIM AND RECEIVE THIS MONEY ON YOUR BEHAL;F THEM GET BACK TO US IMMEDIATELY AND TO CONFIRM YOUR POSITION ON THIS MATTER AS THE FIDELITY BANK PLC WILL NOT BE HELD RESPONSIBLE FOR WRONG TRANSFER OF YOUR MONEY\nTHANKS\nDR JOHNSON COKER   "
+    },
+    {
+        "from": "baiter_840",
+        "to": "scammer_840",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    FROM THE DESK OF DR JOHNSON",
+        "body": "Hello Dr. Johnson Coker,\n\nThank you for reaching out to me about this matter. I must say, it's quite a surprise to hear that someone is claiming I've passed away! Rest assured, I am very much alive and well.\n\nI don't recall having any business partner named Lee Graham. Could you please provide more information about him? How did he claim to know me? And how did he come into possession of my supposed bank account details?\n\nAlso, could you clarify the origin of this large sum of money? I'm not aware of any dealings that would result in such an amount being associated with my name.\n\nLooking forward to your response.\n\nBest wishes,\nKelly"
+    }
+]

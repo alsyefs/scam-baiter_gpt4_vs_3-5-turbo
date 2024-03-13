@@ -1,0 +1,52 @@
+[
+    {
+        "from": "scammer_1127",
+        "to": "baiter_1127",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "From Swiss National Bank (SNB)",
+        "body": "Swiss National Bank (SNB)\r\nAddress: Börsenstrasse 15, Zurich,\r\n8022, Switzerland\r\nPhone: 41586410000\r\n\r\nAttention: Mrs. Gloria,\r\n\r\nDear Sir/Madam,\r\n\r\nWe the management of Swiss National Bank (SNB) wished to bring to your \r\nnotice that there is a pending $3,500,000:00 approved by President Joe \r\nBiden on your behalf, you are to kindly respond to us indicating your \r\nwilling to receive the funds or we cancel the payment.\r\n\r\nWe wait for your reply within 48 hours.\r\n\r\nWe are Poised to serve you better.\r\n\r\nMr. Thomas Jordan\r\nChairperson of the Swiss National Bank"
+    },
+    {
+        "from": "baiter_1127",
+        "to": "scammer_1127",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: From Swiss National Bank (SNB)",
+        "body": "Hello! Thank you for reaching out to me. I appreciate the information about the pending approval by President Joe Biden. Could you please provide more details about the funds and the process for receiving them? I would like to understand how everything works before proceeding.\n\nBest wishes,\nGloria"
+    },
+    {
+        "from": "scammer_1127",
+        "to": "baiter_1127",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0115393518518518,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: From Swiss National Bank (SNB)",
+        "body": "Swiss National Bank (SNB)\r\nAddress: Börsenstrasse 15, Zurich,\r\n8022, Switzerland\r\nPhone: 41586410000\r\n\r\nAttention: Gloria,\r\n\r\nDear Madam,\r\n\r\nWe the management of Swiss National Bank (SNB) acknowledged your reply.  \r\nThis is a compensation grant approved by US President Mr. Joe Biden on \r\nyour behalf and social grant to business,company owners.\r\n\r\nYou are on this notice, required to orderly send the following \r\ninformation of yours to us to process the funds for immediate releasing \r\nto you.\r\n\r\nSend the following details:\r\nYour full names\r\nContact Address\r\nPhone Numbers\r\nYour Next of Kin\r\nPassport/Identification of you\r\n\r\nAll the necessary approvals to back up the release of this money to you \r\nsafely will be issued by the appropriate body upon our confirmation of \r\nyour personal details, option of payment and readiness to receive the \r\nmoney.\r\n\r\nBe rest assured that we are going ensure that rule of rule is respected.\r\n\r\nWe are Poised to serve you better.\r\n\r\nMr. Thomas Jordan\r\nChairperson of the Swiss National Bank"
+    },
+    {
+        "from": "baiter_1127",
+        "to": "scammer_1127",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.041412037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: From Swiss National Bank (SNB)",
+        "body": "Hello! Thank you for sharing this information with me. I appreciate your message regarding the grant approved by US President Joe Biden. Could you please provide more details about how the process works and what steps I need to take to receive the funds?\n\nBest wishes,\nGloria"
+    },
+    {
+        "from": "baiter_1127",
+        "to": "scammer_1127",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.4580671296296297,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: From Swiss National Bank (SNB)",
+        "body": "Hello! Thank you for reaching out to me with this information from the Swiss National Bank SNB. I appreciate your message. Could you please provide more details about the grant approved by US President Joe Biden? How did I become eligible for this social grant?\n\nBest wishes,\nGloria"
+    }
+]

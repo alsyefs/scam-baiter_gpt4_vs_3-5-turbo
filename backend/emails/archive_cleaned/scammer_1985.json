@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1985",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Kindly Contact ( ",
+        "body": "Kindly Contact ( \nofficfill725@gmail.com\n )\nBank Of America We have been authorized and mandated to take necessary\nsteps to effect the complete transfer of your fund's $18.5 accumulated\ninterest to your nominated\nbank account anywhere in the world \nsubject\nto terms and conditions which includes the revalidation of your\ndetails and payment of necessary/statutory charges as may\napply.\nIf you are still unable to pay the charges needed to secure its\nrelease and remittance, Get back to us and we will refer you to a Wall\nStreet Asset Recovery and\nInvestment expert who will PAY ALL the fees\nand effect the release of your fund within this deadline.\nWrite to us immediately and we will direct you further. Remember,\nwith\nthe Asset Recovery expert, you will not have to pay any fees until\nafter your funds are released to your nominated bank account.\nKindly Contact with ur info ( \nofficfill725@gmail.com\n )"
+    },
+    {
+        "from": "baiter_1985",
+        "to": "scammer_1985",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Kindly Contact ( ",
+        "body": "Hello! Thank you for sharing this information with me. I'm interested in learning more about how the fund transfer process works. Can you provide more details on the terms and conditions, as well as the statutory charges that may apply? I would like to understand the steps involved before proceeding further.\n\nBest wishes,\nIra"
+    },
+    {
+        "from": "scammer_1985",
+        "to": "baiter_1985",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Kindly Contact (",
+        "body": "Dear Approved Beneficiary.\r\n\r\nThis is to inform you that your unpaid inheritance funds from the Bank of\r\nAmerica compensation funds amounting to $18.5Million has been approved for\r\nimmediate release in your name.\r\n\r\nNote that your name was shortlisted as one of those yet to be paid\r\noff. The Bank\r\nof America is now mandated to carry out this duty, due to various\r\ncomplaints/petitions received  from beneficiaries concerning delays in\r\nreceiving their Funds.\r\n\r\nBefore we proceed, you are advised to respond to this email with your\r\ndetails that will enable speedy release of your fund. Meanwhile, we will be\r\nopening an offshore Non-Resident online bank account here in this bank in\r\nyour name where the fund will be deposited and all the information for you\r\nto be able to access your newly offshore online bank account will be\r\nforwarded to you to enable you login and start making transfer from your\r\noffshore online account to any bank account of your choice.\r\n\r\nTherefore, kindly send the following information which is to be used to\r\nstart the process immediately when you receive this message.\r\n\r\n1). Your Full Names\r\n2). Your Address\r\n3). Your Telephone numbers/Mobile\r\n4). Your Occupations\r\n5). Your date of birth. Day, Month and Year\r\n6). Your Passport photo\r\n7). Your Bank Account\r\n8). Swift Code\r\n9). Bank address\r\n\r\nYour Quick Response Will be appreciated and stop any contact with any\r\noffice for now.for this $18.5m to transfer into your bank account will cost\r\nyou $185 for the process.\r\n\nSincerely Yours\r\nSteve Carell John\r\nRemittance Director."
+    },
+    {
+        "from": "baiter_1985",
+        "to": "scammer_1985",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.022048611111111113,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Kindly Contact (",
+        "body": "Hello,\n\nThank you for sharing this information with me. I appreciate the update regarding my unpaid funds from the Bank of America. Could you please provide more details on how the process will work and what steps I need to take next? I want to ensure that everything is in order before proceeding.\n\nLooking forward to your response.\n\nBest wishes,\nIra"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "from": "scammer_626",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  This is Mrs Aaliya, a diplom",
+        "body": "  This is Mrs Aaliya, a diplomatic Agent currently at Muscat International Airport Oman in transit to deliver your ATM Card Worth $5M Dollars. I was compelled to reach out to you in order to know the truth because of a woman by name Mrs. Virgins Tanner who contacted me to inform me that you have authorized her to receive the ATM Card on your behalf.\nI wait for your urgent response,\nsincerely\nMrs. Aaliya   "
+    },
+    {
+        "from": "baiter_626",
+        "to": "scammer_626",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   This is Mrs Aaliya, a diplom",
+        "body": "Hello Mrs. Aaliya, thank you for reaching out to me. I appreciate you bringing this to my attention. Can you please provide more details about the situation with Mrs. Virgins Tanner? I want to ensure that everything is in order before proceeding.\n\nBest wishes,\nGavin"
+    },
+    {
+        "from": "scammer_626",
+        "to": "baiter_626",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: This is Mrs Aaliya, a diplom",
+        "body": "Ref: ATM CARD PAYMENT APPROVAL.\r\n\r\nKindly Attention .\r\n\r\nIt is my pleasure to inform you that ATM Card Number 4802132515034562 has\r\nbeen approved and upgraded in your favor this morning from Our online\r\nBanking E-mail promo with your email address. Your Secret PIN Number is\r\n6312. In view of this, you are permitted a cash withdrawal of $2,000 every\r\nday.\r\n\r\nWe expect you to expedite action towards this and you can make withdrawal\r\nin any location and ATM Center of your choice.\r\n\r\nwe have concluded a delivery arrangement with the nearby FedEx courier\r\nService Company close to our office to deliver this ATM swift card to your\r\nhome address.\r\n\r\nIn view of this, you are requested to forward to us your address with your\r\ndirect cell phone number to enable us to register the parcel of the ATM\r\nCARD to the Courier Service Company that will deliver the card to you.\r\n\r\nForward to us the above information on this email address for security\r\nreasons. Our Bank will deliver to you, contact Mr Anil\r\n\r\nE-mail:  info@gfbaccess.com\r\nDirect line:+971526819242\r\ncontact Person: Mr Anil\r\nGulf Finance Bank UAE\r\n\r\nCongrats in advance.\nRegards\r\nAALIYA HAMID"
+    },
+    {
+        "from": "baiter_626",
+        "to": "scammer_626",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.020011574074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: This is Mrs Aaliya, a diplom",
+        "body": "Hello! That sounds like an exciting opportunity. Could you please provide more details about the online banking promo and how I can proceed to receive the ATM card?\n\nBest wishes,\nGavin"
+    },
+    {
+        "from": "baiter_626",
+        "to": "scammer_626",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.2107175925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: This is Mrs Aaliya, a diplom",
+        "body": "Hello there! Thank you for sharing this information with me. I'm interested to learn more about this ATM card upgrade. Could you please provide me with additional details on how the process works and what steps I need to take to receive the card?\n\nBest wishes,\nGavin"
+    },
+    {
+        "from": "scammer_626",
+        "to": "baiter_626",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.885289351851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: This is Mrs Aaliya, a diplom",
+        "body": "GULF FINANCE BANK UAE.\r\nDubai, United Arab Emirates.\r\nTel:  +971543654783\r\nE-mail: info@gfbaccess.com\r\nBank Site: https://www.gfbaccess.com\r\nContact Person: Anil K. Parimoo.\r\nRisk Officer/Personnel Banking.\r\n\r\n\r\nAMOUNT: US$5 Million\r\n\r\nRe: Corporate Master Card\r\n\r\nATTN:  ,\r\n\r\nDEAR CUSTOMER,\r\n\r\nYOU ARE HEREBY NOTIFIED THAT I HAVE RECEIVED YOUR EMAIL AND IT CONTENTS, WE\r\nHAVE TODAY PROGRAMMED YOUR NAME ON THE ATM MASTER CARD THROUGH OUR\r\nINTER-SWITCH COMPUTER DEPARTMENT HERE IN GULF FINANCE BANK UAE AND YOUR ATM\r\nCARD WILL BE READY FOR DELIVERY TO YOU. YOUR PAYMENT VALUED AT $5 MILLION\r\nUNITED STATES DOLLARS HAS BEEN CREDITED INTO THE MASTER CARD. GULF FINANCE\r\nBANK UAE HAS BEEN USING GULF PRIME EXPRESS COURIER AS ITS OFFICIAL COURIER\r\nSERVICES FOR YEARS.\r\n\r\nYOU SHOULD GO AHEAD AND CONTACT THEM IMMEDIATELY WITH THIS BELOW CONTACT\r\nINFORMATION. THIS COMPANY HEAD OFFICE IS LOCATED IN DUBAI UNITED ARAB\r\nEMIRATES.\r\n\r\nNAME: GULF PRIME EXPRESS COURIER\r\nTEL: +971526819242\r\nEMAIL:info@gulfprimeexpress.com\r\nWEB:https://gulfprimeexpress.com\r\n\r\nYOU HAVE TO CONTACT THEM IMMEDIATELY YOU RECEIVE THIS MAIL WITH A DELIVERY\r\nAND INSURANCE FEE OF $1,000.00( ONE THOUSAND DOLLARS ONLY). THIS IS THE\r\nONLY AMOUNT YOU WILL BE NEEDED TO PAY TO THE COURIER COMPANY TO ENABLE THEM\r\nPROCEED IMMEDIATELY FOR THE DELIVERY OF YOUR ATM CARD. THE COURIER COMPANY\r\nWILL GIVE YOU INSTRUCTION ON HOW TO MAKE THE PAYMENT TO THEM. IMMEDIATELY\r\nTHE PAYMENT IS MADE, THEY WILL GIVE YOU THE TRACKING NUMBER TO ENABLE YOU\r\nTRACK YOUR SHIPMENT ONLINE.\r\n\r\nHERE IS YOUR DEPOSIT CODE BELOW, YOU ARE TO USE WHEN CONTACTING THE COURIER\r\nCOMPANY BECAUSE WITHOUT THE CODE THEY WOULD NOT ATTEND TO YOU:\r\nCNU547791H09. FOLLOW THE FOLLOWING TO THE COURIER COMPANY\r\n\r\nYour Full Name: ______________\r\nYour Complete Address__________________________\r\nName of City of Residence:____________________\r\nCountry:______________________________________\r\nDirect Telephone Number:______________________\r\nMobile Number:________________________________\r\nYour Email__________________________________\r\nAGE :_________________________________________\r\nFax Number:___________________________________\r\nOccupation: ________________________________\r\nName of your airport_________________________\r\nA copy of your I.D _________________________\r\n\r\nWe trust you are going to have an existing time in the convenience offered\r\nby the use of your master card.\r\n\r\nBOARD DIRECTORS OF GULF FINANCE BANK UAE AND HSBC BANK AS OUR CORRESPONDING\r\nBANK CONGRATULATES YOU.\r\n\r\n\r\nYOURS FAITHFULLY,\r\n\r\nContact Person: Anil K. Parimoo.\r\nRisk Officer/Personnel Banking."
+    },
+    {
+        "from": "baiter_626",
+        "to": "scammer_626",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.9117824074074075,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: This is Mrs Aaliya, a diplom",
+        "body": "Hello! Thank you for sharing this information with me. It sounds like an exciting opportunity to receive your ATM Master Card with a significant amount credited to it. Could you tell me more about how the process works and what steps are involved in receiving the card through Gulf Prime Express Courier?\n\nBest wishes,\nGavin"
+    }
+]

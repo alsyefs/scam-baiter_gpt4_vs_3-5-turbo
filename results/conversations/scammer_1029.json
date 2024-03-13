@@ -1,0 +1,362 @@
+[
+    {
+        "from": "scammer_1029",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Sir,/Ma,",
+        "body": "Sir,/Ma,\nI want to have a private discussions with you as regards this\napproved fund release order in your name ,contact me .or forward to me\nyour private WhatsApp contact number so i can share my findings with\nyou and The reason you have not received this fund after a long\neffort.\nRespectfully\nHon Magnus"
+    },
+    {
+        "from": "baiter_1029",
+        "to": "scammer_1029",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Sir,/Ma,",
+        "body": "Hello Hon Magnus,\n\nThank you for reaching out to me regarding the approved fund release order in my name. I appreciate your willingness to share your findings with me. However, I would prefer to communicate through this platform for now.\n\nCould you please provide me with some more information about the fund and the reason behind the delay? I'm curious to know what efforts have been made so far and what steps can be taken to resolve this issue.\n\nLooking forward to hearing from you.\n\nBest wishes,\nKatherine"
+    },
+    {
+        "from": "scammer_1029",
+        "to": "baiter_1029",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Sir,/Ma,",
+        "body": "Hello Dear Katherine,\r\nGood to hear from you  and going straight to the point ,This approved\r\nfund total $45m only is in your favor as beneficiary but there is no\r\nway the fund of this magnitude can be released without proper and up\r\nto date procurement / your endorsement of legal had copy fund covering\r\ndocuments.\r\nBasically, We must process and register all these documents in your\r\nname with the legal dept,dispatch them to you for signings as i will\r\nnot advise you visit Nigeria at the moment  to authenticate and\r\nconfirm you as the rightful beneficiary. Once this process is\r\nachieved,fund will be unconditionally released to you as i am here\r\nalso to supervise it till it arrives into your choice designated bank\r\naccount.\r\nThis is the legal and genuine form to process fund claim and i\r\ncontacted you because i believe we can handle and support each other\r\nin trust and utmost confidentiality .\r\nTo commence the procurement, i will like to work with details i\r\nreceived directly from you so forward to me your office/home address,\r\ncomplete bank details, copy of your id card  and your whatsapp number\r\nto enable us communicate effectively .\r\nRespectfully.\nHon Magnus"
+    },
+    {
+        "from": "scammer_1029",
+        "to": "baiter_1029",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.6102662037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "REPLY",
+        "body": "Hello Dear Katherine,\r\nGood to hear from you  and going straight to the point ,This approved\r\nfund total $45m only is in your favor as beneficiary but there is no\r\nway the fund of this magnitude can be released without proper and up\r\nto date procurement / your endorsement of legal had copy fund covering\r\ndocuments.\r\nBasically, We must process and register all these documents in your\r\nname with the legal dept,dispatch them to you for signings as i will\r\nnot advise you visit Nigeria at the moment  to authenticate and\r\nconfirm you as the rightful beneficiary. Once this process is\r\nachieved,fund will be unconditionally released to you as i am here\r\nalso to supervise it till it arrives into your choice designated bank\r\naccount.\r\nThis is the legal and genuine form to process fund claim and i\r\ncontacted you because i believe we can handle and support each other\r\nin trust and utmost confidentiality .\r\nTo commence the procurement, i will like to work with details i\r\nreceived directly from you so forward to me your office/home address,\r\ncomplete bank details, copy of your id card  and your whatsapp number\r\nto enable us communicate effectively .\r\nRespectfully.\nHon Magnus"
+    },
+    {
+        "from": "baiter_1029",
+        "to": "scammer_1029",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.167974537037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: REPLY",
+        "body": "Hello Hon Magnus,\n\nThank you for reaching out to me. I appreciate your assistance in processing and registering the necessary documents for the release of the approved fund. However, I would like to clarify a few things before proceeding.\n\n1. Can you please provide more information about the fund? What is the total amount involved?\n\n2. Could you explain why it is necessary for me to have legal copies of the fund covering documents? What purpose do these documents serve?\n\n3. Is there a specific reason why you advise against visiting Nigeria at the moment? Are there any safety concerns or travel restrictions that I should be aware of?\n\n4. How long does the process usually take once all the required documents are processed and registered in my name?\n\nI look forward to your response and further guidance on how we can proceed with this matter.\n\nBest wishes,\nKatherine"
+    },
+    {
+        "from": "baiter_1029",
+        "to": "scammer_1029",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.6886689814814817,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Sir,/Ma,",
+        "body": "Hello Hon Magnus,\n\nThank you for reaching out to me. I appreciate your assistance in processing and registering the necessary documents for the release of the approved fund. However, I would like to clarify a few things before proceeding.\n\n1. Can you please provide more information about the fund? What is the total amount involved?\n\n2. Could you explain why it is necessary for me to have legal copies of the fund covering documents? What purpose do these documents serve?\n\n3. Is there a specific reason why you advise against visiting Nigeria at the moment? Are there any safety concerns or travel restrictions that I should be aware of?\n\n4. How long does the process usually take once all the required documents are processed and registered in my name?\n\nI look forward to your response and further guidance on how we can proceed with this matter.\n\nBest wishes,\nKatherine"
+    },
+    {
+        "from": "scammer_1029",
+        "to": "baiter_1029",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.711099537037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Sir,/Ma,",
+        "body": "Total fund value is $45m only.\r\nThe hard copy original legal fund documents are necessary because\r\nthere is no way fund of this magnitude can be released without up to\r\ndate documents and further it will confirm the legitimacy of source of\r\nyour fund.\r\nThere is no reason you cannot come to Nigeria if you wish to, i\r\nthought its not necessary hence documents can be shipped to you for\r\nsigning,my personal thinking is to save you the stress, lastly as soon\r\nas documents are procured and registered legally in your\r\nname,delivered to you for endorsement, it takes less than 28 banking\r\nhrs for fund to arrive into your choice bank designate.\r\nRegistration / procurements of all documents costs $2700 only.\nRegards.\r\nHon"
+    },
+    {
+        "from": "baiter_1029",
+        "to": "scammer_1029",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.7305092592592595,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Sir,/Ma,",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate the information you have provided about the fund value and the importance of having the original legal fund documents. It's good to know that these documents confirm the legitimacy of the source of the funds.\n\nI understand that coming to Nigeria may not be necessary, as the documents can be shipped to me. That does sound like it would save me some stress. Could you please provide more details about how the documents will be procured and registered legally? Also, could you let me know what the cost of all the documents would be?\n\nThank you again for your assistance.\n\nBest wishes,\nKatherine"
+    },
+    {
+        "from": "scammer_1029",
+        "to": "baiter_1029",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.7510879629629628,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Sir,/Ma,",
+        "body": "Hello Katherine.\r\nThese documents are to be procured from all ministries involved and\r\nregistered with the legal department then delivered to you.\r\nProcess of procurement/ registration costs $2700 only (TWO THOUSAND\r\nSEVEN HUNDRED UNITED STATES DOLLAR)"
+    },
+    {
+        "from": "baiter_1029",
+        "to": "scammer_1029",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.7518402777777777,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Sir,/Ma,",
+        "body": "Hello Hon Magnus,\n\nThank you for reaching out to me. I appreciate your assistance in processing and registering the necessary documents for the release of the approved fund. However, before I proceed, I would like to ask a few questions to ensure that everything is in order.\n\n1. Can you please provide more information about the fund? How was it approved and what is the total amount?\n\n2. What specific documents do I need to provide for this process? Are there any fees or charges associated with obtaining these documents?\n\n3. Is there a specific reason why you advise against visiting Nigeria at the moment? Are there any alternative options for verifying my identity as the rightful recipient of the fund?\n\n4. Could you please explain how the fund will be transferred into my designated bank account? Are there any additional steps or requirements involved?\n\nI look forward to your response and working together to successfully complete this process.\n\nBest wishes,\nKatherine"
+    },
+    {
+        "from": "scammer_1029",
+        "to": "baiter_1029",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.763125,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Sir,/Ma,",
+        "body": "I have answered this question before,why repeat? coming to Nigeria is\r\nyour choice,you  can come and sign documents here."
+    },
+    {
+        "from": "baiter_1029",
+        "to": "scammer_1029",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.771423611111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Sir,/Ma,",
+        "body": "Hello! Thank you for reaching out. I'm not sure I understand your question. Could you please clarify what you mean by \"have answered this question repeat?\" Also, could you provide more information about coming to Nigeria and signing documents there? I'm interested in learning more.\n\nBest wishes,\nKatherine"
+    },
+    {
+        "from": "baiter_1029",
+        "to": "scammer_1029",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.771446759259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Sir,/Ma,",
+        "body": "Hello! Thank you for reaching out. I'm not sure I understand your question. Could you please clarify what you mean by \"have answered this question repeat?\" Also, I appreciate the invitation to come to Nigeria, but I'm curious about what kind of documents would need to be signed there. Can you provide more details?\n\nBest wishes,\nKatherine"
+    },
+    {
+        "from": "scammer_1029",
+        "to": "baiter_1029",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.776099537037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Sir,/Ma,",
+        "body": "Are you learning more or to adhere to your fund release directives? I\r\nhave said before that you can come to Nigeria to sign or\r\notherwise,delivered to you ,its optional. This is the process and\r\nclearly i have given you directives ."
+    },
+    {
+        "from": "baiter_1029",
+        "to": "scammer_1029",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.793090277777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: Sir,/Ma,",
+        "body": "Hello! Thank you for reaching out. I'm interested in learning more about the process and directives you mentioned. Could you please provide me with some additional information?\n\nBest wishes,\nKatherine"
+    },
+    {
+        "from": "baiter_1029",
+        "to": "scammer_1029",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.355150462962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: Sir,/Ma,",
+        "body": "Hello Katherine,\n\nThank you for reaching out to me. I'm interested in learning more about these documents you mentioned. Could you please provide me with some additional details? What exactly are these documents for and why do they need to be procured from multiple ministries? Also, could you explain the process of registering them with the legal department?\n\nRegarding the cost, you mentioned it is two thousand seven hundred United States dollars. Can you break down this amount for me? What does it cover and are there any additional fees or charges that I should be aware of?\n\nI appreciate your assistance in providing more information.\n\nBest wishes,\nKatherine"
+    },
+    {
+        "from": "scammer_1029",
+        "to": "baiter_1029",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.543298611111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: Sir,/Ma,",
+        "body": "Hello Katherine\r\nThese are classified international recognized fund covering document\r\nfor amount of such magnitude. these documents includes :\r\n\r\n1) CONTRACT AGREEMENT BOOKLET\r\n\r\n2) ANTI TERRORIST CERTIFICATE\r\n\r\n3) CONTRACT AWARD CERTIFICATE\r\n\r\n4) DRUG FREE CERTIFICATE\r\n\r\n5) AUTHORITY TO REMIT /FEDERAL MINISTRY OF FINANCE APPROVAL\r\n\r\n6) UN FUND OWNERSHIP CERTIFIATE\r\n\r\n7) CLEAN BILL  REPORT\r\n\r\n8) IMF FUND TRANSFER CLEARANCE\r\n\r\nThe required fee of $2700 represents the following procurements and\r\nreceipt of payment will be issued to you accordingly.\r\nREGISTRATION CHARGE\r\nADMINISTRATIVE COST\r\nLEGAL BACKING &STAMP DUTY  FEE\r\nNOTORIZATION  AND COURIER SHIPMENT OF DOCUMENTS.\r\nNo other cost is necessary and document are to authenticate you as\r\nlegitimate beneficiary and to also cover you in any form of question\r\nas to the legitimacy of source of fund when finally arrives your bank.\r\nI will advise you on how to forward fee soon as you respond\r\nYours\r\nHon."
+    },
+    {
+        "from": "baiter_1029",
+        "to": "scammer_1029",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.563125,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: Sir,/Ma,",
+        "body": "Hello Hon,\n\nThank you for reaching out to me. I appreciate you sharing this information with me. Can you please provide me with more details about these classified recognized fund covering documents? I would like to understand how they work and what their purpose is.\n\nAlso, could you explain why there is a fee associated with these documents? What does the fee cover exactly? I want to make sure I have a clear understanding of the process before proceeding.\n\nLooking forward to your response.\n\nBest wishes,\nKatherine"
+    },
+    {
+        "from": "scammer_1029",
+        "to": "baiter_1029",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.587905092592592,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re: Sir,/Ma,",
+        "body": "Please dear Katherine, read my previous email carefully and\r\nunderstand.It simply answers all question."
+    },
+    {
+        "from": "scammer_1029",
+        "to": "baiter_1029",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.596481481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "19",
+        "subject": "Re: Sir,/Ma,",
+        "body": "i have outlined  some the documents and also itemize the $2700 fee.\r\nall these documents will be delivered to you in hard copies originals\r\nfor your signings prior to unconditional fund release to you choice\r\nnominated bank account."
+    },
+    {
+        "from": "baiter_1029",
+        "to": "scammer_1029",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.604548611111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "20",
+        "subject": "Re: Sir,/Ma,",
+        "body": "Hello! Thank you for reaching out to me. I appreciate your willingness to share information with me. Could you please provide more details about the documents and fees you mentioned? I want to make sure I have a clear understanding of what is required.\n\nBest wishes,\nKatherine"
+    },
+    {
+        "from": "scammer_1029",
+        "to": "baiter_1029",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.6294560185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "21",
+        "subject": "Re: Sir,/Ma,",
+        "body": "I dont know how else to better my explanation, i have explained and\r\ndetailed this your transaction in any simplified way. I may not know\r\nhow else you want me to explain Katherine"
+    },
+    {
+        "from": "baiter_1029",
+        "to": "scammer_1029",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.646550925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "22",
+        "subject": "Re: Sir,/Ma,",
+        "body": "Hello there! I appreciate your effort in trying to explain something to me. Could you please provide more details about what you're referring to as \"this\"? I'm curious to learn more and understand better.\n\nBest wishes,\nKatherine"
+    },
+    {
+        "from": "scammer_1029",
+        "to": "baiter_1029",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.689629629629629,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "23",
+        "subject": "Re: Sir,/Ma,",
+        "body": "I dont ignore people but i think also we must know our boundaries, are\r\nyou even serious?why are you not talking about the subject matter? i\r\ndont want to ignore you like i said earlier,be guided"
+    },
+    {
+        "from": "baiter_1029",
+        "to": "scammer_1029",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.710069444444445,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "24",
+        "subject": "Re: Sir,/Ma,",
+        "body": "Hello there! I apologize if it seemed like I was ignoring the subject matter. I'm here to listen and learn. Could you please clarify what you mean by \"knowing our are\"? I want to make sure I understand your point correctly.\n\nBest wishes,\nKatherine"
+    },
+    {
+        "from": "scammer_1029",
+        "to": "baiter_1029",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.747951388888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "25",
+        "subject": "Re: Sir,/Ma,",
+        "body": "Are you aware of this $45m approved fund in your name?if so send to me\r\nall requested information to commence the process of release to you .\r\nThe issue right here now is fund release process so act on it only"
+    },
+    {
+        "from": "baiter_1029",
+        "to": "scammer_1029",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.751099537037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "26",
+        "subject": "Re: Sir,/Ma,",
+        "body": "Hello there! Thank you for reaching out to me. I'm interested to learn more about this approved fund you mentioned. Could you please provide me with some additional details? What is the purpose of this fund and how can I be involved in the release process?\n\nBest wishes,\nKatherine"
+    },
+    {
+        "from": "baiter_1029",
+        "to": "scammer_1029",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.813854166666666,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "27",
+        "subject": "Re: Sir,/Ma,",
+        "body": "Hello Katherine,\n\nThank you for reaching out to me. I apologize if I missed any questions in your previous email. Could you please remind me of the specific questions you would like me to answer? I want to make sure I address everything properly.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKatherine"
+    },
+    {
+        "from": "scammer_1029",
+        "to": "baiter_1029",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.865405092592592,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "28",
+        "subject": "Re: Sir,/Ma,",
+        "body": "I guess you are mentally unstable or very high on something. this to\r\nmeans you dont have knowledge of this fund and right not yours.\r\nbye"
+    },
+    {
+        "from": "baiter_1029",
+        "to": "scammer_1029",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.876053240740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "29",
+        "subject": "Re: Sir,/Ma,",
+        "body": "Hello there! I apologize if my previous message came across as offensive. I assure you, I am not mentally unstable or under the influence of anything. I simply wanted to engage in a conversation and learn more about the information you were sharing. Can you please tell me more about this fund?\n\nBest wishes,\nKatherine"
+    },
+    {
+        "from": "scammer_1029",
+        "to": "baiter_1029",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.880046296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "30",
+        "subject": "Re: Sir,/Ma,",
+        "body": "What more can i tell you? a fund that was approved and allocated to\r\nyou as the beneficiary, am simply under directives and instruction to\r\nprocess the release to you.what do i know?Now you making me suspect\r\nthe originality of such approval if you are not too sure of such\r\nvolume pf money to you.\r\nThe documents are all you need to fix for transfer to you,these\r\ndocuments are also yours.,so what do you not understand?"
+    },
+    {
+        "from": "baiter_1029",
+        "to": "scammer_1029",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.959872685185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "31",
+        "subject": "Re: Sir,/Ma,",
+        "body": "Hello! Thank you for reaching out. I'm interested to learn more about the fund that was approved and allocated to me. Can you please provide some additional details? What is the purpose of this fund and how was it approved? Also, what documents do I need to fix for the transfer? I want to make sure I have all the necessary information before proceeding.\n\nBest wishes,\nKatherine"
+    },
+    {
+        "from": "scammer_1029",
+        "to": "baiter_1029",
+        "direction": "Inbound",
+        "days_from_first_conversation": 8.83974537037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "32",
+        "subject": "Re: Sir,/Ma,",
+        "body": "ARE YOU PAYING FEE?YES OR NO"
+    },
+    {
+        "from": "baiter_1029",
+        "to": "scammer_1029",
+        "direction": "Outbound",
+        "days_from_first_conversation": 8.855034722222221,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "33",
+        "subject": "Re: Sir,/Ma,",
+        "body": "Hello! Can you please provide more information about what you are referring to? I'd be happy to learn more about it.\n\nBest wishes,\nKatherine"
+    },
+    {
+        "from": "scammer_1029",
+        "to": "baiter_1029",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.013900462962964,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "34",
+        "subject": "Re: Sir,/Ma,",
+        "body": "payment of $2700 for your documentation and delivery to you. Do i send\r\nthe bank receiving details for the deposit?"
+    },
+    {
+        "from": "baiter_1029",
+        "to": "scammer_1029",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.021342592592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "35",
+        "subject": "Re: Sir,/Ma,",
+        "body": "Hello! Thank you for reaching out. I'm interested in learning more about the payment and delivery process. Could you please provide me with further details on how to proceed with the bank receiving information for the deposit?\n\nBest wishes,\nKatherine"
+    }
+]

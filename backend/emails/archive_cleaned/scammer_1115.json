@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_1115",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Mr. xxx,",
+        "body": "Dear Mr. xxx,\nHow are you doing today? I hope well, I have been waiting to hear from you to no avail, kindly respond to my emails so that we can proceed with the business transaction and conclude successfully at the earliest convenience.\nThere is no single time to waste considering the time frame given to conclude this transaction, act swiftly so that we can proceed and conclude successfully.\nI look forward to hearing from you soon.\nHave a nice day.\nBest regards\nBarr. Gilbert Howard (ESQ)\nGilbert Howard LLP"
+    },
+    {
+        "from": "baiter_1115",
+        "to": "scammer_1115",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Mr. xxx,",
+        "body": "Hello Mr. Gilbert Howard,\n\nI hope this message finds you well. I'm doing quite alright, thank you for asking. I apologize if my response has been delayed, I've been a bit preoccupied lately.\n\nRegarding the business matter you mentioned, could you please provide me with more details? What exactly is it about and what would be my role in it? \n\nLooking forward to your response.\n\nHave a great day!\n\nBest wishes,\nLeila"
+    },
+    {
+        "from": "scammer_1115",
+        "to": "baiter_1115",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Mr. xxx,",
+        "body": "Dear Leila,\r\n\r\nThank you for your response to my email. I personally sent you the \r\nemail, I would like to let you know that this is a genuine claim with \r\nmutual benefit, this is about Late Mr. Hans Schmidt who passed away 9 \r\nyears ago here in Canada, but before his death with his partner in a car \r\ncrash, he obtained a life insurance contract with Aviva Insurance \r\nCompany which I was his personal attorney throughout and I have been \r\nunable to locate the right relative of my late client Late Mr. Hans \r\nSchmidt since his death. Since the contract stipulates that if no one \r\ncomes for the claim after 9 years of death, that the proceeds of the \r\nestate shall be turned over to the abandon property of the state of \r\nOntario Canada, I therefore decided to reach out to you so that we can \r\nwork together and process the transfer of this life insurance contract \r\nto your name, instead of allowing the state to confiscate this insurance \r\nbenefit.\r\n\r\nTo highlight you on the procedure, I have perfected the modality for the \r\nclaim of this claimant, and you stand a chance of doing this transaction \r\nwith me. It is important to emphasize that, for transactions of this \r\nmagnitude; sincerity and confidentiality shall be paramount. I repose my \r\ntrust in you in the hope that once we achieve our aim of securing the \r\nrelease of the legacy to you, that the sharing ratio of 45% for you, 45% \r\nfor me and 10% to charity will not be renegotiated under any \r\ncircumstance.\r\n\r\nTo achieve this objective, I will depose an Affidavit of Support before \r\na Court of competent jurisdiction testifying that you are the next of \r\nkin to my deceased client, and with the Affidavit in support \r\nconsequently apply to the Probate Registry for the letter of \r\nAdministration of the deceased Estate in accordance with the inheritance \r\nlaw. This is necessary based on the fact that there was no Will left \r\nbehind by my client.\r\n\r\nSecondly, I want you to know that there are legal procedures to follow \r\nin a transaction of this nature; there won’t be any problem either to \r\nyou or me. I am a lawyer of repute with many years of experience so be \r\nassured that I know what to do and how to go about this transaction. I \r\nimplore you to keep this transaction very confidential to yourself only, \r\nI believe with your cooperation and collaboration we must actualize our \r\nobjectives. I will proceed to the court to swear affidavits in your \r\nfavor once you consent to this project by providing me with the \r\nfollowing information:\r\n\r\nComplete Name:\r\nContact Address:\r\nDirect Telephone Number:\r\n\r\nThis information will enable me to file an application in your favor as \r\nthe next of kin to my late client Mr. Hans Schmidt for the claims. I \r\nonce again assure you 100% risk free as much as I will legally handle \r\nthe process of this business to its conclusion. More information will be \r\nconveyed to you as soon as I receive your urgent response.\r\n\r\nI hereby attach a copy of my ID to prove the level of my sincerity and \r\ntransparency in this transaction.\r\n\r\nLooking forward to hearing from you.\r\n\r\nHave a nice day.\nBest regards\r\nBarr. Gilbert Howard (ESQ)\r\nGilbert Howard LLP\r\nTel: +1 416 840 5134\r\nhttps://howardgilbertllp.com"
+    },
+    {
+        "from": "baiter_1115",
+        "to": "scammer_1115",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2234375,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Mr. xxx,",
+        "body": "Hello Barr. Gilbert Howard,\n\nThank you for your detailed email and for sharing this information with me. I'm sorry to hear about the unfortunate demise of Mr. Hans Schmidt.\n\nI must admit, this is a lot to take in and I have a few questions if you don't mind. You mentioned that there are legal procedures to follow, could you please elaborate on what these procedures might be? \n\nAlso, I'm curious about the process of transferring the life insurance contract to my name. How exactly does that work? And how long would it take?\n\nLastly, you mentioned that we will be donating a portion of the proceeds to charity. That's very noble! Could you tell me more about which charities we might consider?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLeila"
+    },
+    {
+        "from": "scammer_1115",
+        "to": "baiter_1115",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.1603240740740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Dear Mr. xxx,",
+        "body": "Dear Leila,\r\n\r\nThanks for your prompt response to my email and contents well noted. As \r\nsoon as I received your complete name and address together with your \r\ndirect telephone number, I shall proceed to the Superior Court here in \r\nCanada to swear an Affidavit on your behalf as the next of kin to my \r\nlate client Mr. Hans Schmidt and proceed to the probate registrar to \r\nsecure the Letter of Administration on your name. As soon as I secure \r\nall these documents, I will proceed to the Aviva Insurance Company to \r\nsubmit the documents for Approval. The procedures will be stress free \r\nand if you follow my kind instructions, we will be able to conclude \r\nsuccessfully before ten (10) business days and the heritage fund will be \r\ntransferred into any of your nominated bank account in your country.\r\n\r\nWe will donate 10% of the heritage fund ($9,820,000.00) to Bill and \r\nMelinda Gates foundation since this organization is helping the less \r\nprivileged in our society. Proceed immediately and send to me your \r\ncomplete name and address, together with your direct telephone number so \r\nthat we can proceed with the business transaction and conclude \r\nsuccessfully at the earliest convenience.\r\n\r\nI look forward to hearing from you soon.\r\n\r\nHave a nice weekend.\nBest regards\r\nBarr. Gilbert Howard (ESQ)\r\nGilbert Howard LLP"
+    },
+    {
+        "from": "baiter_1115",
+        "to": "scammer_1115",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.5151157407407407,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Dear Mr. xxx,",
+        "body": "Hello Barr. Gilbert Howard,\n\nThank you for your detailed response and the information provided. It's quite an interesting situation, isn't it? I'm curious about a few things though.\n\nFirstly, could you tell me more about Mr. Hans Schmidt? How did he come to be in Canada and what was his line of work? Also, how did you come to know him?\n\nSecondly, I'm intrigued by the process you've outlined. Could you explain a bit more about what an Affidavit is and why it needs to be sworn on my behalf? And what exactly is a probate registrar?\n\nLastly, I think it's wonderful that part of the heritage fund will go to the Bill and Melinda Gates foundation. They do such great work! Do they know about this donation yet?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nLeila"
+    },
+    {
+        "from": "scammer_1115",
+        "to": "baiter_1115",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.726701388888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Dear Mr. xxx,",
+        "body": "Dear Leila,\r\n\r\nMy late client Mr. Hans Schmidt was a German national who worked with \r\nSuncor Energy Company here in Canada before his death. I was his \r\npersonal attorney until his death in the car accident with his partner. \r\nThe Affidavit of Claim and the Letter of Administration of the deceased \r\nEstate sworn in your name is necessary because there was no Will left \r\nbehind by my late client. This process is in accordance with Canadian \r\nInheritance law.\r\n\r\nAll you need to do is follow my kind instructions as that are the way \r\nforward towards the successful conclusion of this transaction. I have \r\nnot informed the Bill and Melinda gates foundation about the donation; \r\nwe will do so as soon as the heritage fund arrives in your bank account \r\nin your country.\r\n\r\nHere attached is a scanned copy of the Death Certificate of my late \r\nclient Mr. Hans Schmidt for your records.\r\n\r\nI look forward to receiving the information I requested earlier from you \r\nso that we can proceed and conclude successfully at the earliest \r\nconvenience.\r\n\r\nHave a nice weekend.\nBest regards\r\nBarr. Gilbert Howard (ESQ)\r\nGilbert Howard LLP"
+    },
+    {
+        "from": "baiter_1115",
+        "to": "scammer_1115",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.454108796296296,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Dear Mr. xxx,",
+        "body": "Hello Barr. Gilbert Howard,\n\nThank you for your detailed message and the information about Mr. Hans Schmidt. It's quite unfortunate to hear about his untimely demise.\n\nI'm curious, how did you come across my contact details? Also, could you please explain more about the Affidavit of Claim and the Letter of Estate? I'm not very familiar with these legal terms.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLeila"
+    }
+]

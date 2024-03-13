@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1875",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " ",
+        "body": " \n10TH NATIONAL ASSEMBLY\n(FEDERAL REPUBLIC OF NIGERIA)\nP.M.B: 113454, Abuja\nTEL/FAX: +234 (09) 867890\nDATE: 06/10/2023\nAttn: Shayna Alexia\nSir/Madam,\nFollowing the inauguration of the current 10th National Assembly of the Federal Republic of Nigeria which was chaired by the new senate president (Senator Godswill Akpabio), investigations were carried out on all payment files o contracts//inheritance/compensation payments awarded by the immediate past government of former President Mohammadu Buhari, GCON.\nDuring the recent investigations by this green Chambers, three overdue payments were discovered on your behalf which were yet to be transferred/delivered to you due to corrupt practices perpetrated by the past regime/government of President Muhammadu Buhari and the embattled former governor of Central Bank of Nigeria (Dr. Godwin Emefiele) who is currently detained by DSS for his financial misappropriation while in office.\nThree outstanding payments that were discovered in your favor were valued at US$30.3 M and had been referred to our designated Foreign  Assets Bank Account in the United States of America for security reasons. And to avoid impostors/scammers gaining access to your funds anymore. \nThe referred amount in the tune of  US$30.3 M  will be issued in your favor from our Foreign  Asset bank account in United States of America (USA)  via   ATM Card ,  kindly respond back to us so we can furnish you with contact info of our designated correspondent bank in the United States of America  where your payment in the tune of  US$30.3 M is currently deposited for you to contact them. \nNote: Please do not bother to respond if this message gets to you by mistake/error.  \nYours Faithfully,\nSenator Godswill Akpabio \n(The Senate President)\nFederal Republic of Nigeria   "
+    },
+    {
+        "from": "baiter_1875",
+        "to": "scammer_1875",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  ",
+        "body": "Hello Senator Godswill Akpabio,\n\nThank you for your message. It's quite surprising to hear about these overdue payments. I'm curious, how did my name come up in this matter? And could you please explain more about the process of receiving these funds via an ATM card?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nVirginia"
+    }
+]

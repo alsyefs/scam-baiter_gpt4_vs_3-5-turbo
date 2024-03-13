@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1285",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention",
+        "body": "Attention\nThis message sent to you from United National organization (UNO) after our last meeting with our able president Mr Joe Biden , He was instructed to release your fund worth sum of 28.5 millions dollars (usd) without any delay, \ncontact your diplomatic agent,\n(Mr Joseph Harris)\nText him +_1_702_753_1660\n(\nJoesphhairrs@diplomats.com\n)\nwith your full information\nReceiver's Name__\nAddress: __\nCountry: __\nPhone Number: _\nBe rest assured that your package will be registered and give you the\ntracking number for safely deliver to your door step, thank you.\nMr Joesph Harris\n(\nJoesphhairrs@diplomats.com\n)\nDiplomatic agent"
+    },
+    {
+        "from": "baiter_1285",
+        "to": "scammer_1285",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attention",
+        "body": "Hello there,\n\nThank you for reaching out to me. It's quite exciting to hear about this opportunity. I'm curious, could you please provide more details about this fund? How was my name selected for this?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDale"
+    },
+    {
+        "from": "scammer_1285",
+        "to": "baiter_1285",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Re: Attention",
+        "body": "Compensation fund for those that works all over the world so your name was appear on it \n\nDiplomatic agent"
+    },
+    {
+        "from": "baiter_1285",
+        "to": "scammer_1285",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.060289351851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Re: Attention",
+        "body": "Hello there! That sounds really interesting. Could you please tell me more about this fund and how my name appeared on it?\n\nBest wishes,\nDale"
+    }
+]

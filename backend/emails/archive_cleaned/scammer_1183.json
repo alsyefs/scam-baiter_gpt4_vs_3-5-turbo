@@ -1,0 +1,332 @@
+[
+    {
+        "from": "scammer_1183",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello, my name is Kristalina G",
+        "body": "Hello, my name is Kristalina Georgieva, \nam contacting you in regards to your 22 million dollar compensation funds that was transferred to my bank by United nation as a contract fund awarded to to you in other to take care of the orphanage and homeless people please get back to me with your current address and information where I can make this deposit to you\n, thanks\nYours sincerely, Kristalina Georgieva, the director of international monitoring fund (IMF).\nContact NO: (812) 508 6718"
+    },
+    {
+        "from": "baiter_1183",
+        "to": "scammer_1183",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Hello Kristalina Georgieva,\n\nThank you for reaching out to me. I'm quite surprised to hear about this million dollar fund. Could you please provide more details about this contract? How was I selected for this? And could you also explain the process of how these funds will be used to help the orphanage and homeless people?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nNancy"
+    },
+    {
+        "from": "scammer_1183",
+        "to": "baiter_1183",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Thank you for your response. The United Nations are awarding the good\r\npeople around the world with this sum of money to help support the people’s\r\nin needs, like orphans, homeless people, and your email address was among\r\nthe people selected so congratulations to you, and will be looking forward\r\nto hear from you soon.\r\nRegards Kristalina Georgieva."
+    },
+    {
+        "from": "baiter_1183",
+        "to": "scammer_1183",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0321875,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Hello Kristalina Georgieva,\n\nWow, that sounds like an amazing initiative! I'm really flattered to be considered for such a noble cause. Could you please tell me more about how this program works? How was my email address selected and what would be the next steps in this process?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nNancy"
+    },
+    {
+        "from": "scammer_1183",
+        "to": "baiter_1183",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.035173611111111114,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "It’s depends to you to know how you going to manage your winnings once it\r\ngets to you, your email was among the 10 lucky winners and the next time\r\nis!\r\n\r\nNote: We have three (3) payment methods as follows,\r\n\r\n(1)>>Fund transfer via online banking system\r\n(2)>>Payment via Certified ATM Card\r\n(3)>>Funds transfer via MoneyGram Office\r\n\r\nYou are advised to choose and indicate how you wish your fund to be\r\nreleased to you,\r\nwhen contacting us with your details as requested,\r\n\r\nTo facilitate your fund transfer, you are to forward your personal\r\ndetails which will includes:\r\nYour Full Name.......................... ..............................\r\n.......\r\nYour Valid Phone numbers....................... ............................"
+    },
+    {
+        "from": "baiter_1183",
+        "to": "scammer_1183",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.11575231481481481,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Hello there,\n\nWow, that's some exciting news! I can't believe my email was among the lucky winners. It's not every day you hear something like this.\n\nAs for the method of receiving the funds, I think I would prefer the Certified ATM Card. That seems like a convenient option for me.\n\nHowever, before we proceed further, could you please provide more details about this? Like how did my email get selected and what is this winning from exactly? Also, are there any terms and conditions associated with it?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nNancy"
+    },
+    {
+        "from": "scammer_1183",
+        "to": "baiter_1183",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.2931712962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Your email was selected through the Gmail database that was submitted by\r\nthe Gmail CEO and from the social security database, you are one of the\r\nlucky winners and you will receive your funds after you comply with the\r\ncredentials and other valid details needed."
+    },
+    {
+        "from": "baiter_1183",
+        "to": "scammer_1183",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3239930555555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Hello there,\n\nWow, that sounds like an amazing opportunity! I can't believe my email was selected. Could you please tell me more about this? How was the selection process conducted? And what exactly do I need to comply with?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nNancy"
+    },
+    {
+        "from": "baiter_1183",
+        "to": "scammer_1183",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3242361111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Hello there,\n\nWow, that sounds like an amazing opportunity! I can't believe my luck. Could you please tell me more about this? How was I selected and what exactly do I need to comply with? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nNancy"
+    },
+    {
+        "from": "scammer_1183",
+        "to": "baiter_1183",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.3293171296296296,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "I can’t tell you how your email was selected but it’s a luck and you need\r\nto thank God for that if you’re serving the living God almighty! You’re to\r\ncomply with.\r\n\r\n1. Your Full Name:=======\r\n\r\n2. Your Telephone No:====\r\n\r\n3. Your Country:=========\r\n\r\n4. Your Home Address:====\r\n\r\n5. Your occupation======\r\n\r\n6. Your date of birth:==\r\n\r\n7. Your Marital Status==\r\n\r\n\r\nYours Sincerely\r\n\r\nKristalina Georgieva."
+    },
+    {
+        "from": "baiter_1183",
+        "to": "scammer_1183",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3659722222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Hello Kristalina Georgieva,\n\nThank you for reaching out to me. I feel so lucky! It's not every day that one gets an email like this. I'm curious, how exactly was my email selected? And what is this all about?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nNancy"
+    },
+    {
+        "from": "baiter_1183",
+        "to": "scammer_1183",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3660300925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Hello there,\n\nWow, that's really exciting news! I can't believe my email was selected. Could you please tell me more about this? How was the selection process conducted? And what exactly do I need to comply with?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nNancy"
+    },
+    {
+        "from": "baiter_1183",
+        "to": "scammer_1183",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.36680555555555555,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Hello there,\n\nWow, that's some news! I can't believe my email was selected. Could you please tell me more about this? How was the selection process carried out? And what exactly do I need to comply with?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nNancy"
+    },
+    {
+        "from": "scammer_1183",
+        "to": "baiter_1183",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.3797916666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Choose any of your preferred Company out of the 4Companies below and make\r\narrangement to send the Delivery cost of your preferred Company.\r\n\r\n1) UPS Courier Service\r\nI. Delivery fee $100\r\n1days delivery.\r\n\r\n2) FedEx Service\r\nI. Delivery fee $75\r\n2days delivery\r\n\r\n3) DHL Service\r\nI. Delivery fee $50\r\n48hours delivery\r\n\r\n4) ONLINE Banking Services\r\nCharges $150"
+    },
+    {
+        "from": "baiter_1183",
+        "to": "scammer_1183",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.4071875,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Hello there,\n\nThank you for providing me with these options. I'm not very familiar with these services, could you please help me understand more about them? For instance, what are the differences between UPS Courier Service, DHL Service and ONLINE Banking Services in terms of delivery speed and reliability? \n\nAlso, could you clarify what the delivery fee covers? Is it just for the transportation of the package or does it include other services as well?\n\nI appreciate your assistance!\n\nBest wishes,\nNancy"
+    },
+    {
+        "from": "scammer_1183",
+        "to": "baiter_1183",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.41010416666666666,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Hello Nancy\r\nA DHL is a delivery company that delivers packages and items all over the\r\nworld same with UPS delivery company but they are different companies,\r\nonline banking is also good you can access your funds online!"
+    },
+    {
+        "from": "scammer_1183",
+        "to": "baiter_1183",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.4106828703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "So you can choose the service you prefer and remit the fee for the delivery\r\ncompany to take charge of your business."
+    },
+    {
+        "from": "baiter_1183",
+        "to": "scammer_1183",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.44859953703703703,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Hello there! \n\nThank you for sharing this information with me. It sounds like a convenient service. Could you please tell me more about how this process works? What kind of services can I choose from? And how is the fee determined?\n\nBest wishes,\nNancy"
+    },
+    {
+        "from": "baiter_1183",
+        "to": "scammer_1183",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.44864583333333335,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Hello there! \n\nOh, that's interesting. I've heard of DHL and UPS but never really knew what they did. So, they deliver packages all over the world? That must be a big job! How do they manage to keep track of everything?\n\nAnd online banking sounds convenient. Is it safe though? I mean, how do they ensure that no one else can access my funds?\n\nBest wishes,\nNancy"
+    },
+    {
+        "from": "scammer_1183",
+        "to": "baiter_1183",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.5990162037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Everything is safe and sound here, online banking is secure and so does\r\nothers so you just need to make your own choice and then make the payment!\r\nFor your funds to be safely delivered to your home address."
+    },
+    {
+        "from": "baiter_1183",
+        "to": "scammer_1183",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6152662037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Hello there,\n\nThank you for your message. It's great to hear that online banking is secure. I'm a bit of a novice when it comes to this stuff, so could you perhaps explain how the process works? How does one ensure their funds are safely delivered to their home address? \n\nI'm also curious about the different payment options available. Could you provide more information on that? Thanks in advance!\n\nBest wishes,\nNancy"
+    },
+    {
+        "from": "baiter_1183",
+        "to": "scammer_1183",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6158564814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Hello there,\n\nThank you for your message. It's great to hear that online banking is secure. I'm always a bit nervous about these things, you know? Could you tell me more about how the payment process works? And how can I be sure that my funds will be safely delivered to my home address?\n\nBest wishes,\nNancy"
+    },
+    {
+        "from": "baiter_1183",
+        "to": "scammer_1183",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6171180555555555,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "22",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Hello there,\n\nThank you for your message. It's great to hear that online banking is secure. I'm a bit of a novice when it comes to this stuff, so could you perhaps explain how the process works? How does one ensure their funds are safely delivered to their home address? \n\nLooking forward to hearing from you!\n\nBest wishes,\nNancy"
+    },
+    {
+        "from": "scammer_1183",
+        "to": "baiter_1183",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6227430555555555,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "23",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Hello Ms. It’s only left for you to make your choice and this funds will be\r\ndelivered to you in the next few days depending on the options you choose."
+    },
+    {
+        "from": "baiter_1183",
+        "to": "scammer_1183",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6574884259259259,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "24",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Hello there! Wow, that sounds really interesting. Could you please tell me more about these funds? How does this process work exactly?\n\nBest wishes,\nNancy"
+    },
+    {
+        "from": "scammer_1183",
+        "to": "baiter_1183",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6588773148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "25",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Look Ms. I am really tired of explaining things to you if you really want\r\nyour funds then make a decision and make your choice based on the options\r\nprovided."
+    },
+    {
+        "from": "baiter_1183",
+        "to": "scammer_1183",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.698587962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "26",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Hello there,\n\nThank you for your message. I understand that this process might be a bit tiring, but I just want to make sure I'm making the right decision. Could you please explain the options provided once more? I appreciate your patience and assistance in this matter.\n\nBest wishes,\nNancy"
+    },
+    {
+        "from": "scammer_1183",
+        "to": "baiter_1183",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.7010879629629629,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "27",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Choose any of your preferred Company out of the 4Companies below and make\r\narrangement to send the Delivery cost of your preferred Company.\r\n\r\n1) UPS Courier Service\r\nI. Delivery fee $100\r\n1days delivery.\r\n\r\n2) FedEx Service\r\nI. Delivery fee $75\r\n2days delivery\r\n\r\n3) DHL Service\r\nI. Delivery fee $50\r\n48hours delivery\r\n\r\n4) ONLINE Banking Services\r\nCharges $150\r\n\r\n\r\nThis is an ATM Card delivery and you need to choose the company you want!"
+    },
+    {
+        "from": "baiter_1183",
+        "to": "scammer_1183",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7404398148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "28",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Hello there,\n\nThank you for providing me with these options. I must say, it's quite a comprehensive list! I'm curious about the different services each company offers. Could you please elaborate more on what UPS Courier Service, DHL Service, and ONLINE Banking Services specifically provide? \n\nAlso, could you clarify what the delivery fee entails? Is it a one-time payment or will there be additional charges along the way?\n\nLooking forward to your response.\n\nBest wishes,\nNancy"
+    },
+    {
+        "from": "scammer_1183",
+        "to": "baiter_1183",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.7526967592592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "29",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "It’s a one time payment and your ATM Card will arrive at your destination!\r\nThe UPS delivery company and DHL delivery company are the safest way to\r\nreceive your funds!"
+    },
+    {
+        "from": "baiter_1183",
+        "to": "scammer_1183",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7821527777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "30",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Hello there,\n\nThank you for your message. It's great to hear that the ATM card will arrive with a one-time payment. I'm curious, how does this process work? And why are UPS and DHL considered the safest ways to receive funds? Could you please provide more details about this?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nNancy"
+    },
+    {
+        "from": "scammer_1183",
+        "to": "baiter_1183",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.144212962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "31",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Am not playing this game anymore! If you don’t want to make your choice\r\nplease let me know."
+    },
+    {
+        "from": "baiter_1183",
+        "to": "scammer_1183",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.1569212962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "32",
+        "subject": "Re: Hello, my name is Kristalina G",
+        "body": "Hello there! I appreciate your message. It seems like you're not too keen on continuing with this. Could you please elaborate a bit more on why you feel this way?\n\nBest wishes,\nNancy"
+    }
+]

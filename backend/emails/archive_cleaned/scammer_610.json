@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_610",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  My name is Dmitri, Everybody",
+        "body": "  My name is Dmitri, Everybody is aware of the war going on between Ukraine and Russia, Russia is under serious economic sanctions.\nI am contacting you because I need an anonymous partner to manage this fund amounting to millions of Euros in cash. All my business accounts have been frozen but I have money in cash left in Europe which I want you to invest in your Country. I can't leave Russia or manage it myself because of the war.\nPlease get back to me with your contact information for more details.\nNote: This project must be kept confidential.\nDmitri Gorodilov\nPrivateEmail: \ndmitrigorodilov5@proton.me\n "
+    },
+    {
+        "from": "baiter_610",
+        "to": "scammer_610",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   My name is Dmitri, Everybody",
+        "body": "Hello Dmitri Gorodilov,\n\nThank you for reaching out and sharing this information. The situation in Ukraine and Russia is indeed concerning, and I hope you are safe.\n\nI'm intrigued by your proposal, but I would like to understand more about it. Could you please provide more details about the nature of the investment? What kind of business or industry are we talking about?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRichard"
+    },
+    {
+        "from": "scammer_610",
+        "to": "baiter_610",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Dear, Richard.",
+        "body": "Dear, Richard.\n\nThanks for your prompt response. I don't speak or write english. I use a translator, I have to choose a stranger for many reasons, Someone that is not related or linked to me for security reasons. So many people around me have betrayed me. A relative of mine assassinated my parents and my sister because of family wealth. Now the war of Putin with Ukraine has caused so much pain to us.\nAttached herein are my ID and some of my company documents. Please you must not save or forward it to anyone. I sent these documents to prove my Identity to you, all the documents are verifiable. I needed an anonymous partner to work with to avoid tracing it to me. but I'm desperate to move the consignment to a safer location for investment. That is why I contacted you. I will connect you to the handlers in Europe to speak with you. My contacts has all the necessary documents to move it to your locations.\n\nI must remain anonymous please. Sorry most of the documents are in Russian language.\nI'm not making any transfers, my entire company fund in the bank has been blocked both in USA and EUROPE; I have up to 10 million Euros in Spain in cash. You will choose the area of investment. You don't have to be an expert to handle, every detail will be provided to you.\n\nI will send you video proofs, This cash will be moved to your location if we reach an agreement. All my offshore accounts have been frozen by the west, the funds I have are in cash, as the international body has confiscated all funds and business/ assets belonging to Russians. The handlers in Europe helped me move it from Russia to Spain. I have the capable hand to move the fund to your location. I don't want to have direct dealings with them, because I know I'm being monitored, You're going to be the middle man here. Every business related to Russians is confiscated by the western authorities.\n\nI'm currently here in Russia, The company doesn't know the original content of the consignment to avoid tempering it.\nI'm being skeptical about releasing much information. I trust you can handle this. confirm you receive this message.\nNote: Do not disclose this message to anyone for security reasons.. Kindly send me your information and any means of identification.\nThanks\n\nDmitri Gorodilov"
+    },
+    {
+        "from": "baiter_610",
+        "to": "scammer_610",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0007986111111111112,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Dear, Richard.",
+        "body": "Hello Dmitri Gorodilov,\n\nThank you for your detailed message. I must say, it sounds like you're in quite a predicament. I'm sorry to hear about the difficulties you're facing due to the current political situation.\n\nI appreciate your trust in reaching out to me, a stranger, with such sensitive information. However, I have some questions that I hope you can clarify for me.\n\nFirstly, could you please explain more about these handlers in Europe? What is their role and how will they assist in this process?\n\nSecondly, what exactly would my role be as the middle man? You mentioned that every detail will be provided to me but could you give me an overview of what this might entail?\n\nLastly, what are the risks involved in this operation? It seems like a complex situation and I want to make sure I understand everything before making any decisions.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRichard"
+    }
+]

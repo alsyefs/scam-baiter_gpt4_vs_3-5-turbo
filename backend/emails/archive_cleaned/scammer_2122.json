@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2122",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Lucky Beneficiary",
+        "body": "Dear Lucky Beneficiary\nThis is to inform you that your Olympic,  UEFA Champions league and\nCoca Cola Lotto winning price of $22,500,000.00 USD  million United\nstates Dollars\nawarded to you have been credited into An already Activated ATM Visa Card\nhas already been shipped to you through UPS Delivery company.\nYou should urgently reconfirm your full information for the accurate\ndelivery to your home address\nFull Name\nPhone Number\nCountry\nNearest Airport\nAGE & SEX\nOn the receipt of the above payment, your tracking number will be\ngiven to you immediately to enable you track your package until it\ngets to your home address.\nThe only fee needed from you is the sum of $50 for the certificate of\nClaim\n, this is the only ever fee needed from you, I tried to deliver\nthe ATM card without you paying the fees but it was stopped at\nWashington Airport, once I receives the confirmation of your\ninformation I will send your tracking number so you can see it and\nconfirm by yourself.\nOnce I hear from you I will send you the information to send the $50\nfor the Certificate of Claim fee.\nThanks & Best Regards\nVIVIAN F. Doglas\nChief Award Payment Director"
+    },
+    {
+        "from": "baiter_2122",
+        "to": "scammer_2122",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Lucky Beneficiary",
+        "body": "Hello Vivian F. Doglas,\n\nThank you for your message and the exciting news about my winnings! I can't believe I've won such a large amount from the Olympic, UEFA Champions League, and Coca Cola Lotto. This is truly a surprise!\n\nI'm curious to know more about this process. How was I selected as the winner? And could you please explain more about this ATM Visa Card that has been credited with my prize money?\n\nAlso, you mentioned a fee for the claim. Could you provide more details on what this fee is for? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKatherine"
+    }
+]

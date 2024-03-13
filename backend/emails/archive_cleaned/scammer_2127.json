@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2127",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn: Sir,",
+        "body": "Attn: Sir,\nWe have been mandated by the Neil Carlton to Pay-Out all outstanding\nFunds with An Empire Management Finance that has been approved for\nPayment. Your Approved Payment was transferred to us to correct all\nthe irregularities that have delayed the Payment and remit the Payment\nto you without any further delay. We have been instructed to remit the\nFunds to you according to our choice Mode of Payment as listed below;\n(i)Bank to Bank Transfer\n(ii) Crypto Currency\nAs soon as we receive your response, we will forward you our Fund\nRelease Form for completion.\nBest Regards,\nPatrick Paul\n(Director of Legal)"
+    },
+    {
+        "from": "baiter_2127",
+        "to": "scammer_2127",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attn: Sir,",
+        "body": "Hello Patrick Paul,\n\nThank you for reaching out to me. It's quite interesting to hear about this approved payment. I must admit, I'm a bit surprised as I don't recall having any pending funds with An Empire Management Finance.\n\nCould you please provide more details about this? How did my name come up in your records? And could you explain a bit more about the choice Mode of Payment?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nSteve"
+    }
+]

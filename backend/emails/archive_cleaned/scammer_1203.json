@@ -1,0 +1,402 @@
+[
+    {
+        "from": "scammer_1203",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Greeting From JaJa Morris,",
+        "body": "  Greeting From JaJa Morris,\n I am JaJa Morris , I have US$ Twenty Six point Five Hundred Thousand Million Dollars($26.5M) will be moved on your name as the beneficiary of my late client, I need your help to receive this money into your Bank Account.I will send you more details about this deal and the procedures to follow when I receive a positive response from you with\nyour Full Names, Direct Private Telephone Numbers and Physical Address.\n Your quick response will be highly appreciated.\n Mr. JaJa Morris,\nHave a great day.   "
+    },
+    {
+        "from": "baiter_1203",
+        "to": "scammer_1203",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Greeting From JaJa Morris,",
+        "body": "Hello Mr. Morris,\n\nThank you for reaching out to me. I hope you're doing well. I'm interested in learning more about the opportunity you mentioned regarding your late client's funds. Could you please provide me with some additional details about the deal and the procedures involved?\n\nHowever, before we proceed further, I would like to clarify a few things. Can you please explain why you have chosen me specifically to assist with this matter? Additionally, what kind of assistance do you require from me in order to receive the funds into my bank account?\n\nI appreciate your understanding and look forward to hearing back from you soon.\n\nBest wishes,\nClarice"
+    },
+    {
+        "from": "scammer_1203",
+        "to": "baiter_1203",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "This is the Details",
+        "body": "Dear Partner\r\n\r\nI am Barrister Jaja Morris ,An Attorney . I am the personal attorney to Mr Johnson K Clarice, a National of your country, who used to work with Con oil Company in Nigeria.On the 21st of April 2015, my client,his wife and their only daughter were involved in a car accident along Lagos Badagry express way-Lagos Nigeria\r\n\r\nAll occupants of the vehicle unfortunately lost there lives. Since then I have made several enquirers to your embassy here to locate any of my clients extended relatives, this has also proved unsuccessful.After these several unsuccessful attempts, I decided to track his last name over the Internet,to locate any member of his family hence I contacted you. I have contacted you to assist in recovering the fund valued at US$26.5 million left behind by my client before it gets confiscated or declared UN-serviceable by the Bank where this huge amount were deposited.\r\n\r\nThe said Bank has issued me a notice to provide the next of kin or have the account confiscated within the next twenty one official working days.Since I have been unsuccessful in locating the relatives for over 5/6 years now, I seek the consent to present you as the next of kin to the deceased since you have the same surname , so that the proceeds of this account can be paid to you.Therefore, on receipt of your positive response,we shall then discuss the sharing ratio and modalities for transfer. I have all necessary information and legal _document_s needed to back you up for claim.\r\n\r\nAll that I required from you, is your honest co operation to enable us see this transaction through.I guarantee that this will be execute under legitimate arrangement that will protect you from any breach of the law. YOUR ID CARD PASSPORT ,YOUR AGE ,YOUR OCCUPATION YOUR TELEPHONE NUMBER IS NEEDED YOUR FULLY NAME YOUR HOUSE ADDRESS\r\nAs soon as i read from you I will send you the text application ,you will fill and contact the Bank were the fund was deposited.\r\n\r\nPlease get in touch with me Immediately.\nYours Sincerely. \r\nBarr JaJa Morris (San"
+    },
+    {
+        "from": "baiter_1203",
+        "to": "scammer_1203",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03561342592592592,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: This is the Details",
+        "body": "Dear Barrister Morris,\n\nThank you for reaching out to me with this opportunity. I am sorry to hear about the tragic accident involving Mr. Johnson Clarice and his family. It must be a difficult time for you.\n\nI understand that you are looking for assistance in recovering the funds left behind by your client. I would be interested to know more about the process and how I can help. Could you please provide me with some additional information? Specifically, I would like to know:\n\n1. How did you come across my name as a potential next of kin?\n2. What is the exact amount of funds that were left behind?\n3. Can you explain the legal documents that are needed to support my claim?\n4. Are there any fees or costs involved in this process?\n\nOnce I have a better understanding of the situation, we can discuss further steps and proceed accordingly.\n\nBest wishes,\nClarice"
+    },
+    {
+        "from": "baiter_1203",
+        "to": "scammer_1203",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2852662037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: This is the Details",
+        "body": "Dear Barrister Morris,\n\nThank you for reaching out to me with this opportunity. I am sorry to hear about the tragic accident involving Mr. Johnson Clarice and his family. It must be a difficult time for you.\n\nI understand that you are looking for assistance in recovering the funds left behind by your client. I would be interested to know more about the process and how I can help. Could you please provide me with some additional information? Specifically, I would like to know:\n\n1. How did you come across my name as a potential next of kin?\n2. What are the legal documents that you mentioned? Can you explain their purpose?\n3. Are there any fees or costs involved in this process? If so, what are they for?\n\nOnce I have a better understanding of the situation, we can discuss further steps and proceed accordingly.\n\nBest wishes,\nClarice"
+    },
+    {
+        "from": "scammer_1203",
+        "to": "baiter_1203",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.5620601851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: This is the Details",
+        "body": "Dear Partner\r\n\r\nThank you for your prompt response to my email and I appreciate you for that.\r\nThe fund in question has been in a bank here for many years and the bank has given me deadline to look for a reliable person that will claim the money that is why I contacted you.\r\n\r\nThe process is simple,I have the death certificate of late Johnson which is the most important prove the bank will need, secondly I will register your name as his next if kin here in a high court and submit it to the bank . thirdly I will get a letter of Administration proving that you are now a person that will receive the fund from the bank .after submitting all these documents to the bank,they bank will now contact you officially that you are now free to claim the money\r\nOn how I got your details,after my prayers,God directed me when I was searching through my internet I came across your Email address details that is when the spirit of God said that you are the right person to do this with me\r\nAll I need is sincerely and trust.\r\n\r\nAll i need now is your full Address ,phone number and international passport that I will use to get the letter of Administration in your name and submit it to bank were the fund was deposited\r\n\r\nYes there are going to be fees to spend on this ,like going to court to get the power of attorney ,letter of Administration and registering you legal in court will cost money but not much ,Both of us will share the fees but legal fees will be free as i am a lawyer .The attachment is my id card passport for your perusal.\r\n\r\nPlease get in touch with me Immediately.\nYours Sincerely.\r\nBarr JaJa Morris (San"
+    },
+    {
+        "from": "scammer_1203",
+        "to": "baiter_1203",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.514363425925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: This is the Details",
+        "body": "Sir \r\nHow are you doing today and i hope all is well ? And i sent you mail and I did not read from you why ?\r\nJAJA MORRIS"
+    },
+    {
+        "from": "baiter_1203",
+        "to": "scammer_1203",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.953402777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: This is the Details",
+        "body": "Hello there! I'm doing alright, thank you for asking. I apologize if I haven't responded to your email yet. Could you please remind me what it was about? Sometimes messages can get lost in the shuffle, so I appreciate your patience. How can I assist you today?\n\nBest wishes,\nClarice"
+    },
+    {
+        "from": "scammer_1203",
+        "to": "baiter_1203",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.234537037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "THIS IS THE WAY FORWARD",
+        "body": "Dear Partner\r\n\r\nThank you for your prompt response to my email and I appreciate you for that.\r\nThe fund in question has been in a bank here for many years and the bank has given me deadline to look for a reliable person that will claim the money that is why I contacted you.\r\n\r\nThe process is simple,I have the death certificate of late Johnson which is the most important prove the bank will need, secondly I will register your name as his next if kin here in a high court and submit it to the bank . thirdly I will get a letter of Administration proving that you are now a person that will receive the fund from the bank .after submitting all these documents to the bank,they bank will now contact you officially that you are now free to claim the money\r\nOn how I got your details,after my prayers,God directed me when I was searching through my internet I came across your Email address details that is when the spirit of God said that you are the right person to do this with me\r\nAll I need is sincerely and trust.\r\n\r\nAll i need now is your full Address ,full name, phone number and international passport or any of your identification Id Card that I will use to get the letter of Administration in your name and submit it to bank were the fund was deposited\r\n\r\nYes there are going to be fees to spend on this ,like going to court to get the power of attorney ,letter of Administration and registering you legal in court will cost money but not much ,Both of us will share the fees but legal fees will be free as i am a lawyer .The attachment is my id card passport for your perusal.\r\n\r\nPlease get in touch with me Immediately.\nYours Sincerely.\r\nBarr JaJa Morris (San"
+    },
+    {
+        "from": "baiter_1203",
+        "to": "scammer_1203",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.243553240740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: THIS IS THE WAY FORWARD",
+        "body": "Dear Barr Morris San,\n\nThank you for reaching out to me and providing more information about the fund. I understand that there are certain steps we need to take in order to claim the money from the bank.\n\nI appreciate your trust in me and I assure you that I will handle this matter with sincerity. However, before we proceed, I have a few questions regarding the process.\n\n1. Could you please provide more details about late Johnson? How did he acquire this fund and what was his relationship with you?\n\n2. What is the total amount of money that is currently in the bank? It would be helpful to know the approximate value of the fund.\n\n3. You mentioned that there will be fees involved for going to court and obtaining power of attorney. Can you give me an estimate of these fees? I just want to have a clear understanding of the financial commitment required.\n\n4. Are there any specific documents or forms that I need to fill out in order to proceed with this process? If so, could you please provide me with more information on how to obtain them?\n\nOnce again, thank you for considering me as a partner in this endeavor. I look forward to your response.\n\nBest wishes,\nClarice"
+    },
+    {
+        "from": "baiter_1203",
+        "to": "scammer_1203",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.244467592592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: This is the Details",
+        "body": "Dear Barr Morris San,\n\nThank you for reaching out to me and providing more information about the fund. I understand that there are certain steps we need to take in order to claim the money from the bank.\n\nI appreciate your trust in me and I assure you that I will handle this matter with sincerity. However, before we proceed, I have a few questions regarding the process.\n\n1. Could you please provide more details about late Johnson? How did he acquire this fund and what was his relationship with you?\n\n2. What is the total amount of money that is currently held in the bank? It would be helpful to know the approximate value of the fund.\n\n3. You mentioned that there will be fees involved, could you please clarify what these fees are for and how much they might amount to?\n\n4. Can you explain further about obtaining a power of attorney and going to court? What exactly do these steps entail?\n\nI apologize for my lack of knowledge in legal matters, but it's important for me to fully understand the process before moving forward. Once I have all the necessary information, I can make an informed decision.\n\nLooking forward to your response.\n\nBest wishes,\nClarice"
+    },
+    {
+        "from": "scammer_1203",
+        "to": "baiter_1203",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.4611226851851855,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: This is the Details",
+        "body": "My Dear Clarice ,\r\n How are you doing today ? and in regard to your mail and your question it is well understood and noted and below is your Question and the Answer.\r\n\r\n\r\n Could you please provide more details about late Johnson? How did he acquire this fund and what was his relationship with you? (Late Johnson was a contractor with CON OIL here in Nigeria and I am till his death, I was his legal adviser.)\r\n\r\n 2. What is the total amount of money that is currently held in the bank? It would be helpful to know the approximate value of the fund .($26.5M)\r\n\r\n 3. You mentioned that there will be fees involved, could you please clarify what these fees are for and how much they might amount to?(The little fees are just to obtain a letter of Administration in your name from the court that will only cost little as $1200,Affidavit of claim which will cost us $300 and power of Attorney from court presenting you to the bank that will cost $450)All these are court fees, legal fees will be handled by me as his family Lawyer.\r\n\r\n 4. Can you explain further about obtaining a power of attorney and going to court? What exactly do these steps entail? (This power of attorney will be presented to the bank that you are now the next of kin to the Late Johnson.)Once these are done and submitted to the bank, the bank will then process the funds and release them to your nominated account in your country.\r\n\r\nTake note;There is no risk involved.I have his death certificate with me and the police report we got the day he died.\r\nI have contacted you to assist in recovering the fund valued at US$26.5 million left behind by my client before it gets confiscated or declared UN-serviceable by the Bank where this huge amount were deposited.\r\n\r\nThe said Bank has issued me a notice to provide the next of kin or have the account confiscated within the next twenty one official working days.\r\n\r\nPlease get in touch with me Immediately.\nYours Sincerely.\r\nBarr JaJa Morris (San"
+    },
+    {
+        "from": "scammer_1203",
+        "to": "baiter_1203",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.044189814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Are you alive?",
+        "body": "My dear Clarice\r\nHow are you doing ? I hope you receive my mail and I am waiting for your response .\r\nJaja morris"
+    },
+    {
+        "from": "baiter_1203",
+        "to": "scammer_1203",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.057083333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Are you alive?",
+        "body": "Hello Jaja Morris,\n\nI hope this message finds you well. Yes, I received your email and I'm curious to know more about what you have to share. What is it that you would like to discuss?\n\nBest wishes,\nClarice"
+    },
+    {
+        "from": "scammer_1203",
+        "to": "baiter_1203",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.4183564814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: Are you alive?",
+        "body": "Mr Clarice \r\nThanks for your mail and I want you to stand as the next of kin to my late client Enge Johnson .And i don't know why you are delay this project .I need your information for us to proceed and claim this fund for our mature benefit .\r\nI am waiting for your positive response \nJaJa Morris"
+    },
+    {
+        "from": "baiter_1203",
+        "to": "scammer_1203",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.432256944444444,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: Are you alive?",
+        "body": "Hello Morris,\n\nThank you for reaching out to me. I'm sorry for the delay in my response. I just want to make sure I understand the situation correctly. You mentioned that you want me to stand as the next of kin to your late client, Enge Johnson, in order to proceed with a project and claim some funds. Could you please provide more details about this project and how it would benefit us?\n\nI look forward to hearing from you.\n\nBest wishes,\nClarice"
+    },
+    {
+        "from": "scammer_1203",
+        "to": "baiter_1203",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.446504629629629,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "READ THIS MAIL VERY WELL AND GET BACK TO ME",
+        "body": "My Dear Clarice ,\r\nHow are you doing today ? and in regard to your mail and your question it is well understood and noted and below is your Question and the Answer.\r\n\r\n\r\n (Late Johnson was a contractor with CON OIL here in Nigeria and I am till his death, I was his legal adviser.)\r\n\r\nThe amount involve .($26.5M)\r\n\r\n(The little fees are just to obtain a letter of Administration in your name from the court that will only cost little as $1200,Affidavit of claim which will cost us $300 and power of Attorney from court presenting you to the bank that will cost $450)All these are court fees, legal fees will be handled by me as his family Lawyer.\r\n\r\n (This power of attorney will be presented to the bank that you are now the next of kin to the Late Johnson.)Once these are done and submitted to the bank, the bank will then process the funds and release them to your nominated account in your country.\r\n\r\nTake note;There is no risk involved.I have his death certificate with me and the police report we got the day he died.\r\nI have contacted you to assist in recovering the fund valued at US$26.5 million left behind by my client before it gets confiscated or declared UN-serviceable by the Bank where this huge amount were deposited.\r\n\r\nThe said Bank has issued me a notice to provide the next of kin or have the account confiscated within the next twenty one official working days.\r\n\r\nPlease get in touch with me Immediately.\nYours Sincerely.\r\nBarr JaJa Morris (San"
+    },
+    {
+        "from": "baiter_1203",
+        "to": "scammer_1203",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.452233796296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: READ THIS MAIL VERY WELL AND GET BACK TO ME",
+        "body": "Dear Barr Morris San,\n\nThank you for reaching out to me. I hope this email finds you well. I appreciate your response and the information you have provided regarding Late Johnson's situation.\n\nI understand that there are some fees involved in obtaining the necessary documents from the court and presenting them to the bank. Could you please provide more details about these fees? How much would they amount to, and what is the process for making the payments?\n\nAdditionally, I would like to know more about Late Johnson's background and how he came to have such a significant amount of funds deposited in the bank. Can you share any further information about his business or personal circumstances?\n\nThank you once again for contacting me, and I look forward to hearing back from you soon.\n\nBest wishes,\nClarice"
+    },
+    {
+        "from": "scammer_1203",
+        "to": "baiter_1203",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.466342592592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re: READ THIS MAIL VERY WELL AND GET BACK TO ME",
+        "body": "My Dear Clarice \r\n\r\n (Late Johnson was a contractor with CON OIL here in Nigeria and I am with his death Certificate , I was his legal adviser.)\r\n(The little fees are just to obtain a letter of Administration in your name from the court that will only cost little as $1200,Affidavit of claim which will cost us $300 and power of Attorney from court presenting you to the bank that will cost $450)All these are court fees, legal fees will be handled by me as his family Lawyer.\r\n\r\nEngr Johnson is a foreigner and he live in Lagos-Nigeria and the CON OIL used to give him contract to treat they water and to Digg a bore hole for they Staff of the company, all they water is treated by Johnson .\r\n\r\nClarice are for real or not? because I have gave you the details of this transaction and I don't want to joke with it please because this is my only hope and if you are really interested let us move ahead \nJaja Morris"
+    },
+    {
+        "from": "scammer_1203",
+        "to": "baiter_1203",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.4852893518518515,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "19",
+        "subject": "Dear Clarice ,Read and Get Back To Me",
+        "body": "Dear Clarice ,\r\n\r\nThanks so much for your mail to me, l have also taking my time very carefully to study it and the content is well understood. Please l advised that you should try as much as you can to shun being doubt and skeptical in regards to the success of this project as you know very well that criminal activities, fraudulent and terrorist has been a disease going on globally, so that is an old news. But it does not mean that genuine transaction is not going on globally certainly there is, Let me use this great chance to reiterate to you once again that the only way we can forge ahead and claim this fund for our mutual benefit as anticipated is to shun being skeptically and bias of mind to each other, do not allow skeptic and doubt to destroy trust and confidence we have build to each other all this day’s we have come to know each other in respect to the realization of this project.\r\n\r\nBe well informed that the Federal Republic of Nigeria and the united kingdom has placed all what you have being hearing in the Internet just to frustrate and bias the mind of foreigners who wish to assist those top officials that has an opportunity to transfer fund out of this country. Remember this is a third world country where if you have your connection and position you can do anything and go free. If you can go down to memory lane, you will agree with me that the Nigerian politicians, our governors, ministers and our foreign ambassadors in all part of countries in almost the whole world, has misused their position to serve our great country Nigeria by using their position to siphoned and fraud the public fund out of this country into their private bank account abroad through the assistance of a foreigners for their mutual benefit, all this abnormality they are committing brings distress, diseases, poverty and detriments to all Nigerians. So, My dear Clarice , because of the kind of money that has been transferred outside this country, base on that outcome the present government place whatever they may wish in the Internet just to bias the mind of foreigners who wish to assist those top officials to transfer their fund out of the shore of this country. Remember Nigeria was under military regime over 34 years that has brought bad and fraudulent government all this years. Could you believe that we are just witnessing Democracy just approximately 24years now, l am an renowned, influential and recognize Banker (attorney) here in Lagos-Nigeria and will be in a better position to tell you the truth and what is happening over here, no body today no matter where he or she comes from can be able to tell more better of your country than you, is not possible no matter his/her level of education. Please go ahead and disregard all what you are seeing in the Internet as the Nigerian Government is responsible for that just to bias the mind of foreigners, but deep down in their mind they are still transferring the public fund outside of this country, bringing more and more poverty, sufferings to a lot of people over here.\r\n\r\n l have given you my word as a true Christian and l want you to reciprocate to that as l can never, never mislead you in any form, my dream of coming to your country and Live must be manifested and this is the only opportunity l have and can never let it slip out of my hands. l am a recognized and influential Banker (attorney) over here Lagos-Nigeria, l am also a man of integrity and transparency that has a name to maintain in the society, l have not sold my conscience to the {SATAN DE DEVIL} as l am still a normal human been that has conscience, beside l am a member of Saint Molumber in the Catholic Church so l can never, never be little myself or indulge in any act to defraud or mislead you as my conscience forbid such act, So you have nothing to worry about. Remember that if this fund finally hit your chosen bank account it will definitely change our entire future no matter any kind of burden we are being going through all the past years. l am not trying to change your stand or your motive in respect to your decision but because l will use your name to secure all the necessary vital documents in the judiciary on your behalf and submitted it to the bank on your favor, and of course l have sunk in all my life savings into this project before it come to this final stage. So you go ahead and send to me your information .\r\n\r\nJAJA MORRIS"
+    },
+    {
+        "from": "baiter_1203",
+        "to": "scammer_1203",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.493564814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "20",
+        "subject": "Re: Dear Clarice ,Read and Get Back To Me",
+        "body": "Dear Jaja Morris,\n\nThank you for reaching out to me and providing me with this information. I appreciate your honesty and assurance that this project is genuine. It's unfortunate that there are fraudulent activities happening globally, but I understand that there are also legitimate opportunities out there.\n\nI have heard about the issues with transferring funds out of Nigeria, but it's good to know that you have a clear understanding of the situation. It must be frustrating to see public funds being misused by top officials, causing distress and poverty for the people of Nigeria.\n\nI will take your advice and disregard any negative information I may come across on the internet regarding this project. It's reassuring to know that you are a trustworthy individual and have not sold your conscience to deceive or defraud others.\n\nCould you please provide me with more details about how this project will work? I would like to understand the process better before making any decisions. Also, what kind of documents would be required from my end?\n\nThank you once again for reaching out to me. I look forward to hearing back from you soon.\n\nBest wishes,\nClarice"
+    },
+    {
+        "from": "baiter_1203",
+        "to": "scammer_1203",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.494386574074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "21",
+        "subject": "Re: READ THIS MAIL VERY WELL AND GET BACK TO ME",
+        "body": "Hello Jaja Morris,\n\nThank you for reaching out to me. I'm sorry to hear about the passing of Late Johnson. It sounds like he was a valuable contractor for CON OIL. I understand that you are his family lawyer and are looking for assistance in obtaining some legal documents.\n\nI appreciate you sharing these details with me, but I have a few questions before we proceed. Could you please clarify what exactly the letter from the court is for? And what is the purpose of the power of attorney from the court?\n\nAdditionally, could you provide more information about how this opportunity would benefit me? I want to make sure I fully understand the situation before moving forward.\n\nBest wishes,\nClarice"
+    },
+    {
+        "from": "scammer_1203",
+        "to": "baiter_1203",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.523773148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "22",
+        "subject": "Re: READ THIS MAIL VERY WELL AND GET BACK TO ME",
+        "body": "Dear Clarice\r\n\r\nA power of attorney (POA) is legal authorization for a designated person to make decisions about another person's property, finances, or medical care.\r\n\r\n Letters of administration are court documents giving someone permission or authority to administer the estate of someone who died without a will ..\r\n\r\nIf you’re the next of kin to someone who died without a valid will — and all or some of their assets weren’t bequeathed via a trust, payable on death (POD) account, joint tenancy or other valid avenue for assets to pass to beneficiaries without probate — you’ll need to get letters of administration to close your loved one’s estate, fund\r\n\r\n\nJaja Morris"
+    },
+    {
+        "from": "scammer_1203",
+        "to": "baiter_1203",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.531574074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "23",
+        "subject": "Re: Dear Clarice ,Read and Get Back To Me",
+        "body": "Dear Clarice \r\nThanks for your question and the only way we can claim this fund is \r\n1 Honesty \r\n2 Truth \r\n3 Trust \r\n4 Confidential \r\n5 I don't need third party into this project \r\n6 Take me as your blood brother /believer with each other .\r\n\r\nThe documents I require from you is your fully information like ,your fully name ,your house address ,your direct Mobile telephone number ,your id card passport ,your occupation ,your age , your marriage status\r\n\r\nAs stated before I will use it to get all the vita documents on your behalf as the next of kin to late Johnson .\r\nI am looking forward to read your positive response for us to forge ahead .\r\nJAJA MORRIS"
+    },
+    {
+        "from": "baiter_1203",
+        "to": "scammer_1203",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.53556712962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "24",
+        "subject": "Re: Dear Clarice ,Read and Get Back To Me",
+        "body": "Dear Jaja Morris,\n\nThank you for reaching out to me. I appreciate your trust and honesty in this matter. However, I have a few follow-up questions before we proceed.\n\n1. Can you provide more information about the fund and how it became available?\n2. What is the total amount of the fund?\n3. Are there any legal procedures or fees involved in claiming the fund?\n4. Can you explain why my personal information, such as my full name, address, and occupation, is required?\n\nI look forward to your response and further clarification on these matters.\n\nBest wishes,\nClarice"
+    },
+    {
+        "from": "baiter_1203",
+        "to": "scammer_1203",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.53574074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "25",
+        "subject": "Re: READ THIS MAIL VERY WELL AND GET BACK TO ME",
+        "body": "Dear Jaja Morris,\n\nThank you for sharing this information about power of attorney and letters of administration. It's interesting to learn about the legal processes involved in making decisions on someone else's behalf or administering their estate.\n\nCould you please provide more details on how one can obtain letters of administration? Are there specific requirements or steps that need to be followed? Also, what are some common situations where someone might need to apply for letters of administration?\n\nI appreciate your knowledge on this topic and look forward to hearing more from you.\n\nBest wishes,\nClarice"
+    },
+    {
+        "from": "scammer_1203",
+        "to": "baiter_1203",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.238391203703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "26",
+        "subject": "Re: READ THIS MAIL VERY WELL AND GET BACK TO ME",
+        "body": "My Dear Clarice \r\nThanks for your mail and you question is well understood .How to obtain the letter of administration is very simple and the specific requirement is follow the rule of the law .\r\nYour fully information is what I need and the little fees we need to pay in court .\r\nI am late Johnson personal attorney it is my duty to apply for the letter .I hope i have make my self clear and if you are serious about this project by now we would have make step to proceed .Sorry for not get back to you since yesterday I was too busy in office \r\nJAJA MORRIS"
+    },
+    {
+        "from": "baiter_1203",
+        "to": "scammer_1203",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.243587962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "27",
+        "subject": "Re: READ THIS MAIL VERY WELL AND GET BACK TO ME",
+        "body": "Hello Jaja Morris,\n\nThank you for your response. I appreciate your willingness to help me obtain the letter. Could you please provide more details about the specific rules and fees that need to be followed in order to proceed with this? I want to make sure I understand everything clearly before moving forward.\n\nAlso, could you please explain what exactly the letter is for and how it relates to late Johnson's personal attorney? I just want to have a better understanding of the situation.\n\nThank you again for your assistance. I look forward to hearing back from you soon.\n\nBest wishes,\nClarice"
+    },
+    {
+        "from": "scammer_1203",
+        "to": "baiter_1203",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.249155092592592,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "28",
+        "subject": "Re: READ THIS MAIL VERY WELL AND GET BACK TO ME",
+        "body": "Dear Clarice \r\nI have explained all this your question to you and I have answer you and I don't know the kind of details you want if you are interested give me your information let us proceed if not please allow me ,I found out that you still repeating one question and another \r\nJAJA MORRIS"
+    },
+    {
+        "from": "scammer_1203",
+        "to": "baiter_1203",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.25818287037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "29",
+        "subject": "YOUR INFORMATION IS NEEDED",
+        "body": "My Dear Clarice \r\nI am waiting for your information \nJaja morris"
+    },
+    {
+        "from": "baiter_1203",
+        "to": "scammer_1203",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.265092592592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "30",
+        "subject": "Re: YOUR INFORMATION IS NEEDED",
+        "body": "Hello Jaja Morris,\n\nThank you for reaching out to me. How can I assist you today?\n\nBest wishes,\nClarice"
+    },
+    {
+        "from": "baiter_1203",
+        "to": "scammer_1203",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.265185185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "31",
+        "subject": "Re: READ THIS MAIL VERY WELL AND GET BACK TO ME",
+        "body": "Hello Clarice,\n\nThank you for reaching out to me. I appreciate your willingness to explain things to me. I apologize if I have been repeating questions, I just want to make sure I understand everything clearly.\n\nCould you please provide more details about the information you would like to share? It would be helpful for me to know what specific topic or subject we are discussing.\n\nAlso, could you clarify what you mean by \"proceed\"? Are there any next steps or actions that need to be taken?\n\nThank you again for your patience and willingness to share information with me.\n\nBest wishes,\nClarice"
+    },
+    {
+        "from": "scammer_1203",
+        "to": "baiter_1203",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.281030092592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "32",
+        "subject": "Re: READ THIS MAIL VERY WELL AND GET BACK TO ME",
+        "body": "What do you mean that you don't understand the mean of proceed?\r\nIf is joke please stop it this project is my only hope and I don't want to joke with it .\r\nI need your information to know you and to use it to secure some documents on your behlf\r\nJaja Morris"
+    },
+    {
+        "from": "scammer_1203",
+        "to": "baiter_1203",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.2821643518518515,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "33",
+        "subject": "Re: YOUR INFORMATION IS NEEDED",
+        "body": "YOUR INFORMATION IS NEEDED FIRST BEFORE ANY THING \r\nJAJA MORRIS"
+    },
+    {
+        "from": "baiter_1203",
+        "to": "scammer_1203",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.285324074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "34",
+        "subject": "Re: READ THIS MAIL VERY WELL AND GET BACK TO ME",
+        "body": "Hello Jaja Morris,\n\nI apologize if there was any confusion in my previous message. I'm here to help and understand more about the project you mentioned. Could you please provide some more details about what you need assistance with? I want to make sure I can fully understand and support you.\n\nAlso, could you clarify what you mean by securing documents on my behalf? I'm curious to know how that would work and what it entails. Please let me know so we can continue the conversation.\n\nThank you!\n\nBest wishes,\nClarice"
+    },
+    {
+        "from": "baiter_1203",
+        "to": "scammer_1203",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.285358796296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "35",
+        "subject": "Re: YOUR INFORMATION IS NEEDED",
+        "body": "Hello Jaja Morris,\n\nThank you for reaching out. I'm curious to know more about what you need from me. Could you please provide some additional information or context? I'm here to help and share information if I can.\n\nBest wishes,\nClarice"
+    },
+    {
+        "from": "scammer_1203",
+        "to": "baiter_1203",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.322048611111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "36",
+        "subject": "Re: READ THIS MAIL VERY WELL AND GET BACK TO ME",
+        "body": "The answer is that you are not serious\r\nJaja morris"
+    },
+    {
+        "from": "baiter_1203",
+        "to": "scammer_1203",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.327314814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "37",
+        "subject": "Re: READ THIS MAIL VERY WELL AND GET BACK TO ME",
+        "body": "Hello Jaja Morris! Thank you for reaching out. I'm curious to know more about what you mean by me not being serious. Could you please elaborate on that?\n\nBest wishes,\nClarice"
+    },
+    {
+        "from": "scammer_1203",
+        "to": "baiter_1203",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.449618055555556,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "38",
+        "subject": "Re: READ THIS MAIL VERY WELL AND GET BACK TO ME",
+        "body": "Clarice yes if you are serious to this project what is holding you to give me your information and all this question you are asking i have answered you many time \nJaja morris"
+    },
+    {
+        "from": "baiter_1203",
+        "to": "scammer_1203",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.4526157407407405,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "39",
+        "subject": "Re: READ THIS MAIL VERY WELL AND GET BACK TO ME",
+        "body": "Hello Clarice! Thank you for reaching out to me. I understand that you have already answered my questions before, but I just want to make sure I have all the information correct. Can you please provide me with more details about the project? What exactly is it about and how can I get involved?\n\nBest wishes,\nClarice"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1435",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "My name is krisalina georgieva",
+        "body": "My name is krisalina georgieva  Whitehouse delivery agent from IMF office company\nI'm reaching you on email right now because i started working in this\noffice as New  agent and i saw a documents showing that you have\nunclaimed funds worth of $45.500 Million USD and this funds\narrived in the time Mrs CHRISTINE LAGARDE the Ex agent but i don't\nknow if she tell you about the fund before or not all i know is that\nnow i'm the agent you are going to received your funds completely"
+    },
+    {
+        "from": "baiter_1435",
+        "to": "scammer_1435",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: My name is krisalina georgieva",
+        "body": "Hello Krisalina Georgieva,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I wasn't aware of any unclaimed funds in my name. Could you please provide more details about these funds? How did they end up unclaimed and why are they now being released to me? \n\nI'm also curious about the process involved in claiming these funds. What steps do I need to take from here?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nLarry"
+    }
+]

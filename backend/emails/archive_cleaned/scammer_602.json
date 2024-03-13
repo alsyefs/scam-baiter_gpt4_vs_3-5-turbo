@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_602",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention",
+        "body": "Attention\nYour Scam Compensation funds worth a sum of $4.5000.000.00 dollars approved in your name through United Nations mass assisted project funds. This compensation involves business investment failure, Inheritance, Contracts, Lottery, Dating, Diplomatic Payment, loan, E. T. C, the mass assisted fund was approved to compensate you for being a scam Victim.\n We wish to inform you that your scam compensation worth a sum of $4.5000.000.00 United states dollars approved through United Nations mass assisted project, we have severally tried to contact you without success, are you willing to receive your scam compensation? You have to respond as soon as you receive this message because we have your compensation file submitted by UN external auditors here in the United State and we have not heard from you. International global security watchers reported different degrees of scams and their mouthwatering proposals. You will never have an opportunity of this kind so your destiny and survival is in your hands.\nIn addition, we urge you to indicate your preferred options to get this funds released to you because we have two options by which you have to chose to receive your compensation funds which are as follows:\nThrough ATM MASTER CARD ?\nThrough Bank to Bank wire transfer ?\nNote: that any option you chose, you have to pay an equal amount of $100usd for the remittance of funds to you and you should pay it through iTunes Apple Gift Card.\nNote: that every claim has an expiring period of five working days, so you have to do that very urgently to avoid expiration.\nThanks\nYour sincerely\nVagus Wilson\nDirector Of Scam Victim Compensation"
+    },
+    {
+        "from": "baiter_602",
+        "to": "scammer_602",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attention",
+        "body": "Hello Vagus Wilson,\n\nThank you for reaching out to me. I must say, your message is quite intriguing. It's not every day that one hears about such a unique opportunity.\n\nI'm curious about this United Nations mass assisted project funds. Could you tell me more about it? How does it work exactly?\n\nAlso, I'd like to know more about these two options for receiving the funds. What are the pros and cons of each? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nForest"
+    }
+]

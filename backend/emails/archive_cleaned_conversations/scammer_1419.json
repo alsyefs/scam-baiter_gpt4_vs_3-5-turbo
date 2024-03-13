@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_1419",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attn: Beneficiary,  ",
+        "body": "  Attn: Beneficiary,  \n \nRe: Your US$18M Transfer.\nAccording to the approval  order to release an inheritance fund to you from the IMF resettlement account with this institution Barclays Bank Accra-Ghana for transparency and accurate record.  We deem it necessary to let you know that we are to start moving your funds in bits into  Bitcoin Wallet  Account and you are advised to open Bitcoin account and forward the details  with a copy of your identification to enable us start paying your funds till the entire US$18,000,000.00 ( Eighteen Million United States Dollars) will be paid but not at once but in bits of US$1,000,000.00 on each transaction.\nThis is the only easy way out to avoid International Payment Requirements as this is PAYMENTS MADE EASY.\nWe look forward to your compliance\nThanks for your patience and time\nYours Sincerely\nVictor Adams\nDirector of Operations\nBarclays Bank  Accra-Ghana    "
+    },
+    {
+        "from": "baiter_1419",
+        "to": "scammer_1419",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attn: Beneficiary,  ",
+        "body": "Hello Victor Adams,\n\nThank you for reaching out to me and providing this information. I appreciate your time and patience in explaining the process to me. I must admit, I am not very familiar with Bitcoin Wallet Accounts, but I am open to learning more about it.\n\nCould you please provide me with some more details on how exactly the funds will be transferred into the Bitcoin Wallet Account? How long does this process usually take? And are there any fees or charges associated with opening a Bitcoin account?\n\nI want to make sure that I fully understand the steps involved before proceeding. Thank you again for your assistance.\n\nBest wishes,\nBert"
+    },
+    {
+        "from": "scammer_1419",
+        "to": "baiter_1419",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Attn: Beneficiary,",
+        "body": "Dear Sir,\r\n\r\nIt is the same way of opening account online with your bank, there's no\r\ndifference."
+    },
+    {
+        "from": "baiter_1419",
+        "to": "scammer_1419",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03612268518518519,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Attn: Beneficiary,",
+        "body": "Dear Sir,\n\nThank you for reaching out to me. I appreciate your interest in sharing information. Could you please provide more details about the process of opening an account online with my bank? I would like to understand how it works and what steps are involved.\n\nLooking forward to hearing from you.\n\nBest wishes,\nBert"
+    },
+    {
+        "from": "scammer_1419",
+        "to": "baiter_1419",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.7677430555555556,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Attn: Beneficiary,",
+        "body": "Sir, do you want our bank Barclays bank UK to open online account to you ?"
+    },
+    {
+        "from": "baiter_1419",
+        "to": "scammer_1419",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.8692129629629629,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Attn: Beneficiary,",
+        "body": "Hello! Thank you for reaching out. I'm interested in learning more about opening an online account with Barclays bank UK. Could you please provide me with some additional information?\n\nBest wishes,\nBert"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_713",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  I think I should better forg",
+        "body": "  I think I should better forget about it and look for someone else. I will ask the Finance company to cancel every arrangement for this transfer that is your name.\nI do not see any seriousness in your bid to assist me, first you refused sending your details, that is when I know you were not serious, in any way thanks for wasting my time. Have a nice day.   "
+    },
+    {
+        "from": "baiter_713",
+        "to": "scammer_713",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   I think I should better forg",
+        "body": "Hello there! I'm sorry if I gave you the wrong impression earlier. I understand that you may be frustrated, but I assure you that I am serious about helping you. Can we please discuss this further? Maybe there's a misunderstanding that we can clear up.\n\nBest wishes,\nElizabeth"
+    }
+]

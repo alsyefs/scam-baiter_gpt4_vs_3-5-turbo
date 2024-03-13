@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2032",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn: Beneficiary,",
+        "body": "Attn: Beneficiary,\nWhat is still holding you from sending the required $175 usd as was needed for the delivery of your ATM VISA CARD.\nPlease kindly comply and contact Mr. Dominion Samuel with your delivery Home Address Phone Number and your Full Name so that he will Dispatch your parcel and give you the tracking number to monitor the delivery as well,  \nPlease the only fee you will be advised to send is only the delivery fee which is the sum of $175 usd only kindly contact him as soon as you receive this message is urgent,    \nContact Person: Mr. Dominion Samuel,\nEmail:  \nmr.dominionsamuel@seznam.cz\nWhatsApp Number : +22966361047\n \nWe thank you and also remain yours in service.\n \nRegards,\nCustomer-care\nMrs . Martha Oceni\nUBA Bank Group Plc (BR)"
+    },
+    {
+        "from": "baiter_2032",
+        "to": "scammer_2032",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attn: Beneficiary,",
+        "body": "Hello Mrs. Martha Oceni,\n\nThank you for reaching out to me. I appreciate your assistance with the delivery of my ATM VISA CARD. However, before proceeding, I have a few questions regarding the required USD for the delivery.\n\n1. Can you please provide more details about the delivery fee? What does it cover exactly?\n\n2. Is there any specific reason why the delivery fee needs to be paid in USD? Can it be paid in any other currency?\n\n3. How can I be assured that once I pay the delivery fee, my parcel will be dispatched promptly and safely?\n\nI look forward to your response.\n\nBest wishes,\nAlvina"
+    }
+]

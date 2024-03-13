@@ -1,0 +1,112 @@
+[
+    {
+        "from": "scammer_2104",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello,",
+        "body": "Hello,\nMy email is  about a business proposal we can both be involved in\ntogether.  Reply for further details please.\nMr Peter Wong"
+    },
+    {
+        "from": "baiter_2104",
+        "to": "scammer_2104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello,",
+        "body": "Hello Mr. Peter Wong,\n\nThank you for reaching out to me with this business proposal. I'm always open to new opportunities and would love to hear more about it. Could you please provide some more details about the nature of the business, what it involves, and how we could both be involved?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nWanda"
+    },
+    {
+        "from": "scammer_2104",
+        "to": "baiter_2104",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Hello,",
+        "body": "Greetings from Hong Kong, I hope my email reaches you in good health. This\r\nis to acknowledge receipt of your email, and the content of your email was\r\nwell understood. I apologise for the unsolicited letter I sent to you, but\r\nit was as a result of the prevailing circumstances and urgency surrounding\r\nthis inheritance claim that I decided to reach you that way.   I must\r\nexpress my profound gratitude to you for finding the time to respond to my\r\nletter.\r\n\r\nI want to use this great opportunity to assure you that, as far as I am\r\nconcerned, this claims process is 100% risk-free on your side, and if you\r\ncooperate fully with me by adhering to my instructions and advice, there\r\nwould be no hindrance in the execution of this transaction. Inclusively,our\r\ndealings must be kept 100% confidential from both ends because of my\r\nposition in the deal. I guarantee that all modalities will be put in place\r\nto secure all legal backup documents that will register you legally as the\r\nlegitimate next of kin to the late client.\r\n\r\nThe Hong Kong government has established an Independent Commission on\r\nDormant Assets to confiscate all unclaimed funds and dormant accounts. The\r\ncommission has uncovered 2 billion United States dollars in unclaimed\r\nassets across a variety of financial services, including insurance\r\nproducts, stocks and shares, and pensions. The board of directors of our\r\nbank has now adopted a resolution that if the next of kin of our deceased\r\ncustomer does not show up for the payment of this money, the money will be\r\ndeclared an abandoned fund and be forwarded to the Hong Kong government\r\ncoffers as unclaimed funds. Our bank has planned to confiscate the funds\r\nafter the expiration of the period given to me.\r\n\r\nEssentially,your assistance is required to fit you in as the next of kin to\r\nmy late client The fact that your last name matches that of our deceased\r\nclient makes you eligible to stand for claims as his next of kin or\r\nbeneficiary. Please note that at this present time, you are the only person\r\nI have contacted, and I started this research recently because the due date\r\ngiven to apply for claims is fast approaching. As a professional banker\r\nwith many years of banking experience, the required instruments to bring\r\nthis inheritance claim to fruition in adherence to all international\r\nmonetary laws are at my disposal.\r\n\r\nYour role is to be presented as the next of kin to the deceased funds, and\r\nas the credit and investment director, I will provide the evidence to\r\nattest to this. I strongly believe we can conclude this transaction within\r\n21 banking days.\r\n\r\nHow to Proceed:\r\n\r\nFirstly, we must require the services of a reputable financial attorney\r\nhere in Hong Kong, whom I will appoint as your legal representative and who\r\nis an expert in probate-related matters. The Attorney will procure all\r\nlegal backup documents (Affidavit of Oath and Letter of Probate Without\r\nWill) in the High Court here in Hong Kong that will register your name as\r\nthe next of kin to my late client. The appropriate legal backup documents\r\nwill empower you, the next of kin, to claim the deceased funds as his legal\r\nnext of kin. All processes will be perfectly executed in a proper and legal\r\nmanner, and when all necessary documentation for the fund's release is met\r\nand satisfied, approval will be given by the board of our bank for the\r\nfund’s release to you as the next of kin and beneficiary.\r\n\r\nThe above is a very concise explanation of the entire process of this\r\ntransaction. This process will only take a few banking days to complete. As\r\nsoon as I receive your response, I will provide you with the full\r\ninformation of my late client.\r\n\r\nAs a consequence of the funds involved and my identity, please kindly keep\r\nour relationship completely surreptitious until the successful conclusion\r\nof this deal. You must note that the bank management is not aware of my\r\ncommunication with you in regards to the inheritance claim, and as such,\r\nstrict confidentiality must be adhered to at all times until we have\r\nsucceeded.\r\n\r\n\r\nBefore his demise, he deposited the sum of US$69,850,000.00 (Sixty Nine\r\nMillion, Eight Hundred And Fifty Thousand, United States Dollars) placed\r\nunder the management of our bank. The institution, being aware of his\r\ndeath, has mandated me to present a member of his family (heir/inheritor)\r\nor Next of Kin to make claims of his funds with our bank. Otherwise, it\r\nwill be confiscated by the authorities and revert back to the treasury of\r\nthe Hong Kong Government as unclaimed. This action is in conformity with\r\nHong Kong Financial Laws which stipulates that such unclaimed monies become\r\nthe property of the government in the advent of the unavailability of a\r\nnext of kin to lay claims to the estate within a specified time frame.\r\nHowever, this law is unjust and inhuman as it often creates an avenue for\r\nthe top officials of financial institutions to divert such fortunes for\r\ntheir selfish use.\r\n\r\n\r\nYours faithfully, and please kindly reply soon.\r\n\nYour Faithfully,,\r\n\r\nMr.Peter Wong"
+    },
+    {
+        "from": "baiter_2104",
+        "to": "scammer_2104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0007291666666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Hello,",
+        "body": "Hello Wong,\n\nThank you for your detailed email. I must say, it's quite an interesting situation you've described. I'm a bit surprised to hear about this unclaimed fund and the connection with my last name. \n\nI understand that you're suggesting I could be presented as the next of kin to claim these funds. However, I have a few questions before we proceed further.\n\nFirstly, could you please provide more information about your late client? How did he come into such a large sum of money and why was there no next of kin listed in his records?\n\nSecondly, how exactly does the process work? You mentioned needing a reputable financial attorney in Hong Kong - how would we go about finding one and what would their role be?\n\nLastly, what are the risks involved in this process? It seems like a complex situation and I want to make sure I fully understand everything before making any decisions.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nWanda"
+    },
+    {
+        "from": "baiter_2104",
+        "to": "scammer_2104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.0988657407407407,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Hello,",
+        "body": "Hello Wong,\n\nThank you for your detailed email. I must say, it's quite an intriguing situation you've described. I'm curious about a few things though.\n\nFirstly, how did you come across my name and why do you believe that I could be the next of kin to your late client? It's quite a coincidence that our last names match.\n\nSecondly, could you provide more information about this deceased client? Who was he and what was his relationship with me?\n\nThirdly, what would be my responsibilities as the next of kin in this process? You mentioned that we would need to hire a financial attorney in Hong Kong. Would I need to travel there or can everything be handled remotely?\n\nLastly, is there any risk involved in this process? It seems like a delicate matter and I wouldn't want to get into any legal trouble.\n\nI look forward to hearing from you soon.\n\nBest wishes,\nWanda"
+    },
+    {
+        "from": "scammer_2104",
+        "to": "baiter_2104",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.020833333333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "FIND ATTACHED",
+        "body": "Dear  Wanda\r\n\r\nFind attached\r\n\nPeter"
+    },
+    {
+        "from": "baiter_2104",
+        "to": "scammer_2104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.598865740740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: FIND ATTACHED",
+        "body": "Hello Wanda,\n\nI hope this message finds you well. I have attached the information you requested in our previous conversation. Please feel free to review it at your convenience.\n\nIf there's anything that isn't clear or if you need further clarification, don't hesitate to ask. I'm here to help and would be more than happy to answer any follow-up questions you might have.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nWanda"
+    },
+    {
+        "from": "scammer_2104",
+        "to": "baiter_2104",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.271400462962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: FIND ATTACHED",
+        "body": "Dear  Wanda\r\n\r\nI did not receive the information you sent. Please re-send the information\r\nagain.\r\n\nPeter"
+    },
+    {
+        "from": "baiter_2104",
+        "to": "scammer_2104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.286747685185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: FIND ATTACHED",
+        "body": "Hello Wanda,\n\nI hope this message finds you well. I'm sorry, but it seems like there was a bit of a mix-up. I didn't receive the information you mentioned in your previous communication. Could you please send it again? \n\nAlso, could you provide some more details about what the information entails? I'm really interested to know more about it.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nWanda"
+    },
+    {
+        "from": "scammer_2104",
+        "to": "baiter_2104",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.399849537037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: FIND ATTACHED",
+        "body": "Full Names: ..........................................................\r\nResidential address: ................................................\r\nAge/Sex: .............................................................\r\nProfession/Occupation: ...........................................\r\nNext of kin: ..........................................................\r\nYour confidential phone number: ...............................\r\nYour confidential E-mail address: ...............................\r\nNationality: .........................................................."
+    },
+    {
+        "from": "baiter_2104",
+        "to": "scammer_2104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.412395833333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: FIND ATTACHED",
+        "body": "Hello there! I'm sorry, but I can't provide the information you're asking for. However, I'd love to know more about your interests or hobbies. What do you enjoy doing in your free time?\n\nBest wishes,\nWanda"
+    }
+]

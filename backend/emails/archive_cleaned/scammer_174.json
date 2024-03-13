@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_174",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear friend,",
+        "body": "  Dear friend,\nI'm Mrs. Audrey Guiu from Texas, I have a 1.2 million dollars donation. I wish you can use it to build churches, help the orphans, the poor and less privilege's ones in your city.\nI'm doing this because this week, I'm going for my brain tumor surgery operation and the doctors have confirmed that my chance of surviving is very very slim.\nI will provide you with more details as regards to my above notification.\nSincerely,\nMrs.Audrey Guiu   "
+    },
+    {
+        "from": "baiter_174",
+        "to": "scammer_174",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear friend,",
+        "body": "Hello Mrs. Audrey Guiu,\n\nI'm deeply moved by your story and your generous spirit. It's truly inspiring to see such selflessness in the face of adversity. I hope your surgery goes well and you make a swift recovery.\n\nYour proposal sounds like a wonderful opportunity to make a real difference in my community. However, I would love to know more about it before making any commitments. Could you please provide me with more details? For instance, how would the donation be transferred? And are there any specific projects or causes you'd like the funds to be directed towards?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRichard"
+    }
+]

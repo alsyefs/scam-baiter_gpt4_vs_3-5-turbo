@@ -1,0 +1,242 @@
+[
+    {
+        "from": "scammer_1297",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello Dear,",
+        "body": "  Hello Dear,\nI am Mr.John Glover, a diplomat assigned by the United Nations\nCompensation Award Committee to deliver an approved fund of\n$11,500,000.00 in an ATM Card to you. I am writing to you to send\nme your below information so that I make sure I don't deliver it to\nwrong person.\nName:______\nAddress:_______\nPhone:______\nPlease don't hesitate to email me the above-requested information,\nI will deliver your fund in the ATM Card to you. The backup papers\nto prove that the ATM Card is in no way related to drugs or\nterrorism are intact. I will move to your address today with your\nATM Card immediately you get back to me.\nYours faithfully,\nMr.John Glover   "
+    },
+    {
+        "from": "baiter_1297",
+        "to": "scammer_1297",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello Dear,",
+        "body": "Hello Glover,\n\nIt's a pleasure to hear from you. I'm quite surprised and intrigued by this news of an approved fund in an ATM Card. Could you please provide me with more details about this? How did I become eligible for such a fund? And what is the role of the United Nations Award Committee in this?\n\nI appreciate your concern about delivering it to the right person, but I would like to understand more about this process before proceeding further.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "scammer_1297",
+        "to": "baiter_1297",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Hello Dear,",
+        "body": "Thank you for your email\r\nThese funds are from the United Nations' collaboration with the World Bank\r\nGroup,  the purpose of these Funds is to help scam victims and poor people\r\nand your email address was selected during our Google Random Selections\r\n2023/2024 as one of the Lucky Person to benefit the money from the\r\nGovernment.\r\nThanks for your understanding looking forward to hear from you."
+    },
+    {
+        "from": "baiter_1297",
+        "to": "scammer_1297",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0004050925925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Hello Dear,",
+        "body": "Hello,\n\nThank you for your email. It's really interesting to hear about this initiative from the United Nations and the World Bank Group. I'm curious, how was my email address selected during your Google Random Selections? And could you please provide more details about how these funds are being distributed to help scam victims and poor people?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "scammer_1297",
+        "to": "baiter_1297",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0069328703703703705,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Hello Dear,",
+        "body": "We have three options and obligations\r\n(1) Through Bank to Bank wire transfer\r\n(2) Through ATM Card Delivery\r\n(3) Through Western Union\r\nChoose how to want you it and I will direct you on how to proceed"
+    },
+    {
+        "from": "baiter_1297",
+        "to": "scammer_1297",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.007280092592592592,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Hello Dear,",
+        "body": "Hello there,\n\nThank you for providing me with these options. I'm not very familiar with these methods, could you please explain a bit more about how each one works? I'd like to understand better before making a decision.\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "scammer_1297",
+        "to": "baiter_1297",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.01885416666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Hello Dear,",
+        "body": "(1) ATM Card delivery you can use the ATM to withdraw in any ATM Machines\r\naround your country.\r\n(2) Bank Bank wire transfer I will transfer the money straight  to your\r\naccount\r\n(3) Western Union I can send it to your name and you will use your ID card\r\nto pick it up at Western union office."
+    },
+    {
+        "from": "baiter_1297",
+        "to": "scammer_1297",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.01912037037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Hello Dear,",
+        "body": "Hello there,\n\nThank you for sharing this information with me. It's quite interesting to learn about these different methods of money transfer. I'm curious, how does the ATM card delivery work? And could you also explain a bit more about the bank wire transfer process? I've heard of Western Union but never used it before, so any additional details would be appreciated.\n\nLooking forward to your response!\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "scammer_1297",
+        "to": "baiter_1297",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.043958333333333335,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Hello Dear,",
+        "body": "I don't have time for all this I'm sleeping"
+    },
+    {
+        "from": "baiter_1297",
+        "to": "scammer_1297",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.044097222222222225,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Hello Dear,",
+        "body": "Oh, I'm sorry to have disturbed you! Perhaps we can chat at a more convenient time for you? I'd love to hear more about your interests and share some information with you.\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "scammer_1297",
+        "to": "baiter_1297",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.04673611111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Hello Dear,",
+        "body": "I told you all you need to know what else do you want ?"
+    },
+    {
+        "from": "baiter_1297",
+        "to": "scammer_1297",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.04685185185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: Hello Dear,",
+        "body": "Hello there! Thanks for sharing the information. I'm curious to know more about it. Could you please elaborate on some of the key points?\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "scammer_1297",
+        "to": "baiter_1297",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.05528935185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: Hello Dear,",
+        "body": "Don't contact me again"
+    },
+    {
+        "from": "baiter_1297",
+        "to": "scammer_1297",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.05597222222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: Hello Dear,",
+        "body": "Hello there,\n\nI appreciate your message, but I'm a bit confused. Could you please provide more details about the context of your request? I'm always open to conversation and learning new things. Looking forward to hearing from you soon!\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "scammer_1297",
+        "to": "baiter_1297",
+        "direction": "Inbound",
+        "days_from_first_conversation": 17.494722222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: Hello Dear,",
+        "body": "Hello, good news to you Dear Beneficiary.  This is officially to inform you\r\nthat the ATM Card that contains your Funds  is ready for delivery to you\r\ntoday. we have made all the necessary arrangements on how to deliver the\r\nFund to you and it went successfully, the only thing that remains is the\r\nrequested fee of ($50) for a Clearance Certificate, to enable us to deliver\r\nthe ATM Card to you, without any delay or stop by Any Airport Authorities,\r\nYou are Advice  to use the\r\n$50 to purchase an Apple gift card so that it will not cost you a\r\ntransaction fee,\r\nLet me know immediately after you buy the card.\r\nAttached the picture of the card and receipt for confirmation.\r\nNote that we don't have much time here because we have a lot of Packages\r\nregistered together with your package, try your best to make use you send\r\nthe requested fee today which is $50 only, I will also give you our\r\ntracking number which you will use to monitor your packages online until it\r\nreaches your destination.\r\nThanks for your understanding I look forward to hearing from you soon."
+    },
+    {
+        "from": "baiter_1297",
+        "to": "scammer_1297",
+        "direction": "Outbound",
+        "days_from_first_conversation": 17.5825,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: Hello Dear,",
+        "body": "Hello there,\n\nThank you for your message. It's great to hear that my ATM card is ready for delivery. I'm a bit confused about the process though. Could you please clarify what the requested fee is for? And why do I need to purchase an Apple gift card?\n\nAlso, could you explain more about this tracking number? How does it work and how can I use it to monitor my package?\n\nLooking forward to your response. Thanks!\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "scammer_1297",
+        "to": "baiter_1297",
+        "direction": "Inbound",
+        "days_from_first_conversation": 17.60232638888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: Hello Dear,",
+        "body": "Buy an Apple gift card\r\nTracking number I will give you our website where you can track your package"
+    },
+    {
+        "from": "baiter_1297",
+        "to": "scammer_1297",
+        "direction": "Outbound",
+        "days_from_first_conversation": 17.664895833333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: Hello Dear,",
+        "body": "Hello there,\n\nThank you for your message. It's exciting to hear that my ATM card is ready for delivery! I'm a bit confused about some details though. Could you please clarify what the requested fee is for the clearance? And why do I need to purchase an Apple gift card?\n\nAlso, could you explain more about how the tracking number works? How can I use it to monitor my package online?\n\nLooking forward to your response. Thanks again!\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "baiter_1297",
+        "to": "scammer_1297",
+        "direction": "Outbound",
+        "days_from_first_conversation": 17.666863425925925,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: Hello Dear,",
+        "body": "Hello there,\n\nThank you for your message. It's great to hear that my ATM card is ready for delivery. I'm a bit confused about the process though. Could you please clarify what the requested fee is for? And why do I need to purchase an Apple gift card?\n\nAlso, could you explain more about this tracking number and how it works? I'm not very familiar with these things.\n\nLooking forward to your response. Thanks!\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "baiter_1297",
+        "to": "scammer_1297",
+        "direction": "Outbound",
+        "days_from_first_conversation": 17.707060185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: Hello Dear,",
+        "body": "Hello there,\n\nThank you for your message. It's exciting to hear that my ATM card is ready for delivery! I'm a bit confused about the process though. Could you please clarify what the requested fee is for? And why do I need to purchase an Apple gift card?\n\nAlso, could you explain more about this tracking number? How does it work and how can I use it to monitor my package?\n\nLooking forward to your response. Thanks again!\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "baiter_1297",
+        "to": "scammer_1297",
+        "direction": "Outbound",
+        "days_from_first_conversation": 17.748506944444443,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Re: Hello Dear,",
+        "body": "Hello there,\n\nThank you for your message. It's great to hear that my ATM card is ready for delivery. I'm a bit confused about the process though. Could you please clarify what the requested fee is for? And why do I need to purchase an Apple gift card?\n\nAlso, could you explain more about this tracking number and how it works? I've never used one before.\n\nLooking forward to your response. Thanks!\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "baiter_1297",
+        "to": "scammer_1297",
+        "direction": "Outbound",
+        "days_from_first_conversation": 17.87337962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: Hello Dear,",
+        "body": "Hello there,\n\nThank you for your message. I'm quite interested in this Apple gift card offer. Could you please tell me more about it? How does the tracking number work and what kind of package will I be able to track on your website?\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "baiter_1297",
+        "to": "scammer_1297",
+        "direction": "Outbound",
+        "days_from_first_conversation": 17.874189814814816,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "22",
+        "subject": "Re: Hello Dear,",
+        "body": "Hello there,\n\nThank you for your message. I'm quite interested in this Apple gift card offer. Could you please provide me with more details? How does the tracking number work and what kind of package will I be able to track on your website? \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "scammer_1297",
+        "to": "baiter_1297",
+        "direction": "Inbound",
+        "days_from_first_conversation": 31.35542824074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "23",
+        "subject": "Re: Hello Dear,",
+        "body": "Hello, Dear Beneficiary\r\nRegarding your email\r\n this is officially to inform you that we have made all the necessary\r\narrangements on how to deliver your  Funds and it went successfully the\r\nonly thing that remains is the required fee of $100 for the Clearance\r\nOnce you send the fee I will deliver your funds to you in not less than 24\r\nhours, the Total Funds in your ATM Card is $7.5 Million\r\n\r\nhas been credited to the ATM card with PIN code (9197), with the ATM Card\r\nyou can make withdrawals at any ATM Machine around you. The duration time\r\nto deliver the ATM Card to your address cannot take more than 24 hours for\r\nyou to receive your fund therefore we will need you to re-confirm your Full\r\ninformation once again after payment to avoid wrong delivery.\r\n\r\nThe ATM CARD DELIVERY TO YOUR ADDRESS will cost you $100. fees, which\r\nincludes all charges. I am waiting urgently to hear from you about the\r\nrequired fee of $100. and to direct you on how to make the payment for the\r\ndelivery to proceed.\r\nNote that I will give you a tracking number and our website where you can\r\nmonitor your package online until it reaches your destination.\r\n\r\nThanks for your understanding look forward to hearing from you soon"
+    }
+]

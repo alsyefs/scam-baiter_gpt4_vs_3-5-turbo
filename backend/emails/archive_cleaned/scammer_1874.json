@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1874",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "WELCOME TO UNITED BANK HEADQUA",
+        "body": "WELCOME TO UNITED BANK HEADQUARTERS.\n100 WALL STREET,NEW YORK,10005, UINTED STATES OF AMERICANYOUR URGENT ATTENTION NEEDED,\nWelcome to united bank , We are socially responsible organization,\nproviding banking and membership services to individuals, companies,\ntrade unions, charities, credit unions and membership organization\nsectors. We listen to and understand what our customers want and have\ndeveloped a service which offers a wide range of benefits. One of our\nkey objectives is to provide value for money banking for all of our\ncustomers. That means delivering a wide range of services that can be\ntailored to your exact needs, including the smooth transfer of your\nbanking to united bank In regards setting up an Online bank\naccount with us, Your details has been forwarded to us earlier by\nInternational Monetary Fund and Federal Bureau Investigation (FBI)\ndeclaring you as a beneficiary to receive the total sum of $15,700,000\nUSD (Fifteen Million, Seven Hundred Thousand United State Dollars,\nNOTE: If you do not Sequel to your information recorded on file and in\naccordance to the IMF and Stock Market State Commission (SSMSC) rules\nand regulations on operational banking policy on transfer of large\namount of money emanated proceeds, Be informed that you are advised of\nthis very need for you to setup a Resident\nAccount with BOA Plc which will be responsible for clearing of your\nfunds here in USA before the funds in cash can be transferred from\nyour account in your name\nwith united bank to any bank account of your choice, you are\nrequired to choose from the under listed options, the most suitable\naccount type to you.\nPlease you will need to choose from the options below your mode of\ncollection of your funds and also provide the information below for\nprocessing of your fund release:\n1. Via ATM Card.\nThe total funds will be loaded into an ATM Card in your name and sent\nto you which will take 2 days for the card to arrive and you can\nwithdraw a maximum sum of $100,000 US per day at any ATM Machine\nworldwide.\n2. Bank to Bank Transfer.\nThe cash will be transfer directly into your nominated account which\nwill take 24 hours for the funds to reflect into your preferred\naccount.\n3. Cash Delivery.\nWe can arrange the funds to be sealed in a consignment box without\nanyone knowing what is inside it and delivered to your address of\ndelivery in cash. This will take a maximum of 2 days so you sign for\ncollection.\nWe guarantee that the transaction will be executed under a legitimate\narrangement that will protect you from any breach of law. Due to the\nfact that the fund is donation claims valued $15.700.000.00 USD, there\nshould be a supportive clearance from the IMF before the commencement\nof the wire transfer. Please read the above procedures very carefully\nand revert back at your earlier convenience for us to move forward.\nThanks for banking with us\nI await your urgent response.\nYOURS FAITHFULLY\nMR.ALEX SIV GLELANMNT\nUNITED BANK 100 W\nALL STREET,NEW YORK,10005, \nUINTED STATES OF AMERICAN"
+    },
+    {
+        "from": "baiter_1874",
+        "to": "scammer_1874",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: WELCOME TO UNITED BANK HEADQUA",
+        "body": "Hello there,\n\nThank you for reaching out and providing such detailed information. I must say, it's quite a surprise to hear about this large sum of money. Can you tell me more about how my details were forwarded to you by the Monetary Fund and Federal Bureau FBI? \n\nAlso, could you please explain a bit more about the different options for receiving the funds? The ATM Card option sounds interesting but I'm not sure I fully understand how it works. Would I be able to use this card just like a regular debit card?\n\nI appreciate your help with this matter.\n\nBest regards.\n\nBest wishes,\nDoyle"
+    }
+]

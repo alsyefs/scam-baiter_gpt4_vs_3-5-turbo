@@ -1,0 +1,102 @@
+[
+    {
+        "from": "scammer_2070",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Beneficiary",
+        "body": "  Dear Beneficiary\nwe write to notify you that you have been approved as one of those to\nbe paid part payment of their overdue fund\nWe have been given world bank grant\nto disburse to our foreign/local beneficiaries whose debt has been\nlong overdue\nTo this end, the sum of $2M has been Approved for immediate Release to\nyou via ATM Mastercard\nThis is in line with the directive given to us by the World Bank to\nensure that the rightful beneficiaries get paid\nAwaiting your prompt response\nDr.Goodman Martins\nPayment Commission   "
+    },
+    {
+        "from": "baiter_2070",
+        "to": "scammer_2070",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Beneficiary",
+        "body": "Dear Martins,\n\nThank you for reaching out to me with this information. I appreciate the notification about being approved for part payment of an overdue fund. Can you please provide me with more details about the World Bank grant and how it works? I want to make sure that everything is legitimate before proceeding.\n\nLooking forward to your response.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_2070",
+        "to": "baiter_2070",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Beneficiary",
+        "body": "Dear William\r\n\r\nWe acknowledge your response to our last email notifying you about your\r\nApproved part sum which will be released to you as soon as you reconfirmed\r\nyour details\r\n\r\nOur paying Bank has been instructed to process your fund\r\n\r\nYou are required to email your contact address, phone number and a copy of\r\nyour ID which is required for your account opening/ATM Card issuance\r\n\r\nWe apologize for our delayed response as pur Commission went on Break which\r\nwe just reconvene this week\r\n\r\nKindly email the requested info to enable our Paying Bank to process your\r\npayment\r\n\r\nDr Goodman Martins"
+    },
+    {
+        "from": "baiter_2070",
+        "to": "scammer_2070",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03530092592592592,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Beneficiary",
+        "body": "Hello Dr. Goodman Martins,\n\nThank you for reaching out to me regarding the approved part sum. I appreciate the update and instructions provided. Could you please confirm which bank will be processing the payment? Additionally, do you have an estimated timeline for when the funds will be released once I provide the requested information?\n\nLooking forward to your response.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_2070",
+        "to": "baiter_2070",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.1902314814814814,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Dear Beneficiary",
+        "body": "Dear Williams\r\n\r\nYour mail was received. However, regarding your question about the\r\ntimeline, it varies, it can take minimum of 7 working days to maximum 14\r\nworking days\r\n\r\nWe are paying you from our Thailand paying bank, our previous referrals did\r\nnot exceed 10 days\r\n\r\nYour payment is in the third and last batch of the payment, we have\r\ncompleted first and second batches\r\n\r\nYou should enclose the requested info to facilitate your funds release\r\n\r\nAwaiting your prompt response\r\n\r\nDr Goodman Martins"
+    },
+    {
+        "from": "baiter_2070",
+        "to": "scammer_2070",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2438657407407407,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Dear Beneficiary",
+        "body": "Hello Dr. Goodman Martins,\n\nThank you for the information regarding the payment timeline and the batch process. Could you please clarify what specific information is required to facilitate the release of funds? I want to ensure that everything is in order on my end.\n\nLooking forward to your prompt response.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "baiter_2070",
+        "to": "scammer_2070",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2458564814814814,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Dear Beneficiary",
+        "body": "Hello Williams,\n\nThank you for sharing this information with me. I appreciate the update on the payment process. Could you please clarify what specific information is required to facilitate the release of funds? \n\nLooking forward to your response.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "baiter_2070",
+        "to": "scammer_2070",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2461689814814816,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Dear Beneficiary",
+        "body": "Hello Dr. Goodman Martins,\n\nThank you for the information regarding the payment timeline and the batch process. Could you please clarify what specific information is required to facilitate the release of funds? I want to ensure that everything is in order for a smooth transaction.\n\nLooking forward to your prompt response.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "baiter_2070",
+        "to": "scammer_2070",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.4122916666666667,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Dear Beneficiary",
+        "body": "Hello Dr. Goodman Martins,\n\nThank you for your email and the information provided regarding the payment timeline. I appreciate your prompt response.\n\nCould you please clarify what specific information is required to facilitate the release of funds? I want to ensure that everything is in order from my end.\n\nLooking forward to your guidance on this matter.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "baiter_2070",
+        "to": "scammer_2070",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.4127546296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Dear Beneficiary",
+        "body": "Hello Dr. Goodman Martins,\n\nThank you for your email and the information provided regarding the payment timeline. I appreciate the update on the payment process and the clarification about the batches.\n\nCould you please confirm what specific information is required to facilitate the release of funds? I want to ensure that everything is in order from my end.\n\nLooking forward to your prompt response.\n\nBest wishes,\nWilliam"
+    }
+]

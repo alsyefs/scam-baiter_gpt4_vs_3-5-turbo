@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_433",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "CITI CREDIT UNION",
+        "body": "CITI CREDIT UNION\n250 BROADWAY, NEW YORK 10007,USA\nINTERCONTINENTAL DEBT HANDLING AND SETTLEMENT UNIT.\nATTN:   Mr. xxx,  \nWe confirm receipt of your email response and the contents noted. In order for us to proceed with your funds payment process,\n You are requested to send your personal details and your receiving bank account details for the transfer of the funds into your account. You should send the required information to us as stated below: \nYour full name and address, \ncopy of your identity document either drivers license or international passport. Your receiving bank account details \nwhere the money will be transferred into.\n \nYou are required to send the above listed information to us as soon as possible, to enable us commence your funds payment. We hope to receive the required information from you soon. \n \nBest Regards\nMr. Kenneth West Lamar\nDepartment Director\nIntercontinental Debt Settlement Unit."
+    },
+    {
+        "from": "baiter_433",
+        "to": "scammer_433",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: CITI CREDIT UNION",
+        "body": "Hello Mr. Kenneth West Lamar,\n\nThank you for your response. I appreciate your promptness in getting back to me. Before I provide you with my personal details and bank account information, I would like to clarify a few things.\n\nFirstly, could you please confirm the exact amount of funds that will be transferred into my account? It would be helpful to have this information before proceeding further.\n\nSecondly, I would like to know more about the debt handling and settlement process. Could you explain how it works and what steps are involved? I want to make sure that everything is done correctly and legally.\n\nLastly, can you provide some references or testimonials from previous clients who have successfully received their funds through your organization? It would give me peace of mind knowing that others have had positive experiences with your services.\n\nI look forward to hearing from you soon and receiving the requested information. Thank you for your assistance.\n\nBest wishes,\nJeffrey"
+    }
+]

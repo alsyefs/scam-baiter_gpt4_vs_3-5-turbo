@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2382",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello xxx,",
+        "body": "Hello xxx,\nI acknowledge receipt of your email. As regards to our investment offer  , I would like to highlight some of the demands from my client (Investor) who is a top politician.\nPrimarily, we are interested in profitable businesses that are capable of yielding good returns on investment (ROI).\nI have promised to provide my client with very good business proposals that are lucrative and viable for investment.\nHere are some of my clients' demands:\nA politically stable country with an excellent investment climate.\nInterested in investing in new or existing business projects, depending on the {ROI).\nTerms of investment, Our Investor can  give funds as a loan at a reduced interest rate.\nI am of the opinion that you can take custody of the funds as a loan if you have a long-term project.\n The features Terms of this loan Investment offer are as follows;\n \n* Funding Type; Debt Finance* Minimum Loan/Investment Amount:1,000 000.00* Maximum Loan/Investment Amount: USD 5 Billion+++\n* Terms : 1 to 10 years Renewable\n* Repayment: Quarterly or Monthly Installment\n* Interest rate: 3%\n*Loan/Investment Security: The loan must be securitized by the borrower through establishment of an SPV to stand as the collateral structure..\n* Project Appraisal: Assessment compulsory due diligence check to all foreign base projects.  \nIf this proposal is acceptable to you, then we should proceed to schedule a time to discuss further.\nKindly send us your Investment plan for the evaluation process.\nSincerely,\nMr. Suhail Ahmad Al-Muhannadi\nWhatsApp +13348959037"
+    },
+    {
+        "from": "baiter_2382",
+        "to": "scammer_2382",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello xxx,",
+        "body": "Hello Mr. Suhail Ahmad,\n\nThank you for reaching out to me with this investment offer. I appreciate your interest in finding profitable businesses for your client. Can you please provide more details about the types of businesses your client is interested in? What industries or sectors are they particularly focused on?\n\nAdditionally, could you clarify what you mean by a \"stable country with an excellent investment climate\"? Are there any specific countries that your client prefers for their investments?\n\nRegarding the loan option, can you please explain the terms and conditions in more detail? What is the interest rate for the loan, and how long is the repayment period? Also, could you elaborate on what is meant by \"an SPV to stand as collateral\"?\n\nLastly, I would like to know more about the project appraisal assessment and due diligence check. What exactly does this entail, and how does it affect the evaluation process?\n\nI look forward to hearing back from you with further information.\n\nBest wishes,\nSamuel"
+    }
+]

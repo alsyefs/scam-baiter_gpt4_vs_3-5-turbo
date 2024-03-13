@@ -1,0 +1,102 @@
+[
+    {
+        "from": "scammer_708",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "BECOME A STORE EVALUATOR AND G",
+        "body": "BECOME A STORE EVALUATOR AND GET PAID!!!\nNo Qualification or Job Experience Required to become store evaluator at Walgreen stores, Cvs Pharmacy in your city and get paid $550 per evaluation. This will not affect your current job.  To apply, send your note of interest and resume to (\nElegantrobin5@gmail.com\n)\nRegards,"
+    },
+    {
+        "from": "baiter_708",
+        "to": "scammer_708",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: BECOME A STORE EVALUATOR AND G",
+        "body": "Hello! That sounds interesting. Can you tell me more about what a store evaluator does at Walgreen stores and Cvs Pharmacy? How does the payment process work for this opportunity?\n\nBest wishes,\nAlice"
+    },
+    {
+        "from": "scammer_708",
+        "to": "baiter_708",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: BECOME A STORE EVALUATOR AND G",
+        "body": "Thank you for picking interest in the survey.  I am glad to congratulate\r\nyou as your position has been confirmed.\r\n\r\nEnsure you check your emails box daily so you can keep in contact with me\r\nbecause I will be communicating with you mostly through email, it's nice\r\nhaving you on board\r\n\r\nAll fields with an asterisk are required. Your application will be eligible\r\nonly if all required form fields have been completed.\r\n\r\n\r\nFull Name *\r\nAddress *\r\nCity *\r\nState *\r\nZip Code *\r\nMobile Phone *\r\nAge *\r\nDate Of Birth *\r\nGender *\r\nFront/Back Driver's Liecense *\nRegards,,"
+    },
+    {
+        "from": "baiter_708",
+        "to": "scammer_708",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.008460648148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: BECOME A STORE EVALUATOR AND G",
+        "body": "Hello! Thank you for reaching out and providing this information. I appreciate your guidance on the required fields for eligibility. Could you please clarify what the survey is about and how my information will be used? I want to make sure I understand the process before proceeding.\n\nBest wishes,\nAlice"
+    },
+    {
+        "from": "scammer_708",
+        "to": "baiter_708",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.01957175925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: BECOME A STORE EVALUATOR AND G",
+        "body": "Be rest assured your information is safe and secure with us,we just need\r\nyour information to move to the next step\r\nkindly provide the information below\r\nFull Name *\r\nAddress *\r\nCity *\r\nState *\r\nZip Code *\r\nMobile Phone *\r\nAge *\r\nDate Of Birth *\r\nGender *\r\nFront/Back Driver's Liecense *\nRegards,"
+    },
+    {
+        "from": "baiter_708",
+        "to": "scammer_708",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03017361111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: BECOME A STORE EVALUATOR AND G",
+        "body": "Hello! Thank you for reaching out. I appreciate your assurance regarding the safety and security of my information. Could you please provide more details about the next step you mentioned? I'm curious to learn more about how this process works.\n\nBest wishes,\nAlice"
+    },
+    {
+        "from": "scammer_708",
+        "to": "baiter_708",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.1908101851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: BECOME A STORE EVALUATOR AND G",
+        "body": "I will be waiting to read back from you with your info.\r\n\r\n\r\nRegards."
+    },
+    {
+        "from": "baiter_708",
+        "to": "scammer_708",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.19699074074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: BECOME A STORE EVALUATOR AND G",
+        "body": "Hello! I'm interested in learning more about what you have to share. Could you please provide me with some details?\n\nBest wishes,\nAlice"
+    },
+    {
+        "from": "scammer_708",
+        "to": "baiter_708",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.19956018518518517,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: BECOME A STORE EVALUATOR AND G",
+        "body": "I will like you to work as a supervisor on a project of a new buildings and\r\nmaintenance.\r\nThe project will be starting this week."
+    },
+    {
+        "from": "baiter_708",
+        "to": "scammer_708",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2169560185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: BECOME A STORE EVALUATOR AND G",
+        "body": "Hello! That sounds like an interesting opportunity. Can you tell me more about the project and what the role of a supervisor would entail?\n\nBest wishes,\nAlice"
+    }
+]

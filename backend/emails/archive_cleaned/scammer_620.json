@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_620",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello,",
+        "body": "  Hello,\nI pray this crucial notice meets you well. In  any work, punctuality\nis one of the key factors of success. Either you run your own business\nor you are an employee of someone. And for the reason of maintaining\nappropriate timing, I'll provide you with all the money required for\nexpenses in this project, the money will be posted to you via FedEx\nand tracking number provided. No out of your pocket expenses is\nrequired, no Upfront fee is required from you on this from start to\nfinish. No Bank check as all our dealing will be only CASH\nTRANSACTION.\nOn enquiry, I was told by the handling Agency that I will cost me the\nsum of $1000 as the only \"handling-Charges\" for the sum of $1.5Million\nto be brought successfully to your city for my investment in property\npurchase. Actually, I have concluded my plans beforehand to forward\nyou the sum of $1000 in cash via usps courier service to you before\nanything starts. Upon receipt of the $1000 cash, you will keep it till\nthe\nagency will direct you on where to send it for settlement of all\nrequirements before bringing in the main sum of $1.5Million to you.\nThis business is for US CITIZENS alone or you have a reliable someone\nto represent you judiciously.\nMy compensation goes like this, once the $1.5Million gets to your\naddress, you'll be required to take $300k as my appreciation for a job\nwell done when you  keep $1.2Million aside for me,  - Actually, my\nwife and I will make a trip to meet you this Christmas for buying a\nproperty in your city where we'll retire. We've worked in Europe for\n35 years where this $1.5Million savings came from and we want to use\nit properly as our retirement fund.  Can I trust you on this?\nI remain obidient while waiting to hear back from you soon,\nRgds,\nPhillips Williams.   "
+    },
+    {
+        "from": "baiter_620",
+        "to": "scammer_620",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello,",
+        "body": "Hello Phillips Williams,\n\nThank you for reaching out and sharing this information with me. It's quite an interesting proposition you have there. I'm a bit curious about the details though, could you please clarify a few things for me?\n\nFirstly, I'd like to understand more about the project itself. What exactly does it entail? And what would my role be in all of this?\n\nSecondly, you mentioned that no upfront fee is required from me, which is reassuring. However, I'm not entirely clear on how the money will be transferred. Could you explain a bit more about the process?\n\nLastly, it's great to hear that you're planning to retire in my city! It's a wonderful place. Do you already have some properties in mind or are you still looking?\n\nLooking forward to hearing back from you soon.\n\nBest wishes,\nBlanca"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1507",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "l hope you have not forgotten ",
+        "body": "l hope you have not forgotten me, dearie\nPlease, you do not expect me to provide the expenses for the Lawyer to cover the document procurements required by the bank for the release of the funds to you? l have been in court and sentenced to house arrest in the UK. \nl am barely surviving due to the government has seized all my assets.\nPlease, be human and consider my pleading to raise the fee required by the Lawyer (any amount you can)\nInstead of spending money on your travel, send only $850 to the Lawyer and he will secure the legal documents and also represent you at the bank\n. This is a more sensible option  \nMy Lawyer Contact\nMr. Nelson Jason\nEmail address: \nfinancialadvisor@finmgradvisoryservltd.bulc.club\n \ndrnelsonjason@outlook.com\nWaiting for your reply\nMs. Allison Madueke"
+    },
+    {
+        "from": "baiter_1507",
+        "to": "scammer_1507",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: l hope you have not forgotten ",
+        "body": "Hello Ms. Allison Madueke,\n\nI hope you're doing well. I'm sorry to hear about your situation and the challenges you're facing. It must be really tough for you right now.\n\nRegarding the expenses for the lawyer, I understand that it's necessary to cover the required documents for the release of funds. However, I have a few questions before I can consider helping out.\n\n1. Can you provide more details about why the government has seized your assets? What led to this situation?\n2. How much is the fee required by the lawyer? Is there any flexibility in that amount?\n3. Could you explain how exactly the lawyer will secure the legal documents and represent me at the bank? What are their qualifications and experience?\n\nI appreciate your understanding and patience in answering these questions. It's important for me to have a clear understanding of the situation before making any decisions.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nCraig"
+    }
+]

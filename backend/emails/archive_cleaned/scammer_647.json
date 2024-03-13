@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_647",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn,",
+        "body": "Attn,\nI want to contact you concerning the 2023 Saudi Aramco oil contract abandonment program and sponsorship.(CAPS) which involves the Re\nawarding of all the abandoned contract supplies of 2021 and 2022.\nThis program gives a great opportunity to new contractors to come in and take over the existing contracts abandoned a few years ago.\nThe best part of this contract is that Saudi Aramco oil will back up the lucky contractors in the financial funding of the contract supplies.\nKindly reply to my direct email:(\ndrliptakm@gmail.com\n)\nI await your reply.\nDr. Marian Liptak (SAUDI ARMACO OIL)"
+    },
+    {
+        "from": "baiter_647",
+        "to": "scammer_647",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attn,",
+        "body": "Hello Dr. Marian Liptak,\n\nThank you for reaching out to me about the Saudi Aramco oil contract program and CAPS. It sounds like an interesting opportunity! I'm curious, could you please provide more details about these abandoned contracts? What kind of supplies are we talking about here?\n\nAlso, it's great to hear that Saudi Aramco oil will back up the lucky ones in the financial funding of the contract supplies. Could you elaborate on how this financial backing works?\n\nLooking forward to hearing from you.\n\nBest wishes,\nMarilyn"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1859",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Attn:  Beneficiary ,",
+        "body": " Attn:  Beneficiary ,\nThis is to inform you that your International Monetary Fund(IMF)/ World Bank group scammed Victim  compensation funds $1,500,000.00 you were supposed to receive by ATM Card which has expired due to corrupt officials trying to swindle money from you has been deposited with the M&T Bank, New York . Please contact the M&T Bank, New York urgently if you still need to receive your IMF compensation funds and they will send you the deposit certificate of your funds with their bank for your confirmation.\nPlease contact Mr. Rene F. Jones ( Chief Executive Officer, M&T Bank ) for your IMF Compensation Funds $1,500,000.00 transfer into your bank account with your name, house address and direct phone#.\nE-mail: \nmtbank10459@gmail.com\nFinally, be fully informed that this compensation fund payment is to restore sanity and ease global suffering of the past and present scam affected individuals across the globe.\nPlease send the file reference# (M&TB-USA/S0149/23) of your transaction when contacting them\nLooking forward to hearing from you.\nRegards\nMr. Tobias Adrian\nIMF, Financial Management Director.    "
+    },
+    {
+        "from": "baiter_1859",
+        "to": "scammer_1859",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  Attn:  Beneficiary ,",
+        "body": "Hello Mr. Tobias Adrian,\n\nThank you for reaching out to me with this information. I appreciate your efforts in restoring sanity and easing global suffering caused by scams. I would like to know more about the process of receiving my IMF funds through the Bank in New York.\n\nCould you please provide me with some additional details? What is the total amount of funds that have been deposited with the bank? How long will it take for the funds to be transferred into my bank account once I provide the necessary information?\n\nAlso, could you clarify what you mean by \"file reference\"? Is there a specific document or reference number that I need to provide when contacting the bank?\n\nI look forward to your response.\n\nBest wishes,\nMarsha"
+    }
+]

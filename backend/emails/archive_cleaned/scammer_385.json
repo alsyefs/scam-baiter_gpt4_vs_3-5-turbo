@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_385",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Good day, Now, where is the",
+        "body": "   Good day, Now, where is the payment?    "
+    },
+    {
+        "from": "baiter_385",
+        "to": "scammer_385",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    Good day, Now, where is the",
+        "body": "Hello! I hope you're doing well. Could you please provide me with some more information about the payment you're referring to? I want to make sure I understand the situation correctly before we proceed.\n\nBest wishes,\nDenise"
+    }
+]

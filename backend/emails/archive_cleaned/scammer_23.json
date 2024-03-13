@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_23",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Further to the previous commun",
+        "body": "Further to the previous communications Dr. Angelina De Dios had with you\nin respect of your $7.6m that have been in our bank vault ever since.\nJust to let you know that your funds ($7.6m) are already in the US this\nmoment. This action became quite imperative in order to prevent your\nfunds final evacuation to the Swiss Apex bank within this week. I had\nto promptly package them into our bank normal official delivery trunk\nbox and smuggled it into the same official delivery inventory for two\nother clients deliveries in the States. The three trunk boxes are\npresently kept in a storage facility in the States. Yours is clearly\nmarked in your name. The trunk boxes were delivered recently\nthrough a logistic charter on behalf of three of you. One of the\ntrunk box is for a client in Florida while the other trunk box belongs to\nanother client in New Jersey. Whilst your own trunk box is also routed for\ndelivery directly to you. I felt compelled at this juncture to safeguard your\nfunds especially like a woman even though you have always\ndiscouraged me from communicating with you.\nSo, I will be able to furnish you with the official contact details of\nthe Logistics officer that accompanied the boxes for you to process\nthe seamless official delivery of your trunk box to you as soon as\npossible.\nMeanwhile, in case you eventually did not take delivery of your trunk\nbox, I will then officially redirect the delivery to forestall any untoward\nissues in respect of the funds as a safeguard measure..\nI now await your communication soonest.\nSincere Regards.\nDr. Alicia Burns\nPrincipal Manager, Funds Control and Deliveries,\nUBS AG,"
+    },
+    {
+        "from": "baiter_23",
+        "to": "scammer_23",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Further to the previous commun",
+        "body": "Hello Dr. Alicia Burns,\n\nThank you for reaching out to me regarding my funds. I appreciate your efforts in ensuring the safekeeping of my money. Could you please provide me with more details about the logistics officer who will be handling the delivery of my trunk box? I would like to know their name and contact information so that I can get in touch with them directly.\n\nAlso, could you clarify what you mean by redirecting the delivery if I don't take immediate possession of the trunk box? What would be the process for redirecting it and how can we ensure that there won't be any issues with the funds?\n\nI look forward to your prompt response.\n\nBest wishes,\nJuan"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2052",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello Dear,",
+        "body": "  Hello Dear,\nI am quite impressed with your profile and vast experience in operations and great achievements in the other sectors of expertise.\nI represent an Investment consortium and also high-net-worth individuals who are interested in giving funding / loans doing businesses with any individual who is trusted and capable in area of project/business set-up.\nKindly let me know if we can execute huge projects in your country with a clients seeking for investment fund under legal ambient of law/government.\nThank you for your cooperation.\n Hope for a positive feedback\nSincerely,\nPapadopoulos Christos\nProject Management Team   "
+    },
+    {
+        "from": "baiter_2052",
+        "to": "scammer_2052",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello Dear,",
+        "body": "Hello Christos,\n\nThank you for reaching out and for your kind words about my profile. I'm flattered by your interest in my experience and expertise.\n\nYour proposal sounds intriguing, especially the part about executing huge projects. Could you please provide more details? What kind of projects are we talking about here? And what would be the expected role of someone like me in these projects?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nSylvia"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2352",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Dear,",
+        "body": "   Dear,\nhappy new year. what is the update?\nIvan  "
+    },
+    {
+        "from": "baiter_2352",
+        "to": "scammer_2352",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    Dear,",
+        "body": "Dear Ivan,\n\nHappy New Year to you too! I hope you had a great holiday season. As for the update, what specifically are you referring to? Is there something in particular you would like to know about?\n\nLooking forward to hearing from you.\n\nBest wishes,\nDarren"
+    }
+]

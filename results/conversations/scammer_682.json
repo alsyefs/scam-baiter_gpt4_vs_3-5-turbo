@@ -1,0 +1,92 @@
+[
+    {
+        "from": "scammer_682",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "HAPPY NEW YEAR",
+        "body": "HAPPY NEW YEAR\nMy name is Peter Manto, and my only elder sister's name is Mary Manto, and as you might have noticed, she's suffering from kidney disease and is currently undergoing dialysis to keep herself alive. I know that she contacted you before to tell you about our mother's gold bars that were kept by a security company. We kindly request your assistance in claiming, monetizing, and investing the proceeds for a monthly or quarterly influx to support our educational needs. Could you kindly provide us with your plans for this? We extend our sincerest wishes for a prosperous new year to you.\nThanks, Manto"
+    },
+    {
+        "from": "baiter_682",
+        "to": "scammer_682",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: HAPPY NEW YEAR",
+        "body": "Hello Peter Manto,\n\nHappy New Year to you too! I'm sorry to hear about your sister Mary's health condition. It must be a challenging time for both of you.\n\nRegarding the gold bars, it's quite an interesting situation. I'd love to help in any way I can, but I need more information before we proceed. Could you please provide more details about these gold bars? How did your mother come into possession of them and why were they kept with a security company?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJanet"
+    },
+    {
+        "from": "scammer_682",
+        "to": "baiter_682",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: HAPPY NEW YEAR",
+        "body": ""
+    },
+    {
+        "from": "baiter_682",
+        "to": "scammer_682",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03377314814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: HAPPY NEW YEAR",
+        "body": "Hello there! I hope you're having a great day. I'm really excited to share some information with you. Can we start discussing it?\n\nBest wishes,\nJanet"
+    },
+    {
+        "from": "baiter_682",
+        "to": "scammer_682",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.07685185185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: HAPPY NEW YEAR",
+        "body": "Hello there,\n\nI hope you're having a great day! I'm really interested in learning more about what you have to offer. Could you please provide me with some more details? I'm all ears and ready to understand better. \n\nJust a quick note, though, I'd prefer not to share any personal information at this stage. Looking forward to hearing from you soon!\n\nBest wishes,\nJanet"
+    },
+    {
+        "from": "baiter_682",
+        "to": "scammer_682",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0775462962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: HAPPY NEW YEAR",
+        "body": "Hello there,\n\nI hope you're having a great day! I'm always eager to learn and share information. What's the topic you'd like to discuss today?\n\nBest wishes,\nJanet"
+    },
+    {
+        "from": "baiter_682",
+        "to": "scammer_682",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.11887731481481481,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: HAPPY NEW YEAR",
+        "body": "Hello there,\n\nI hope you're having a great day! I'm really interested in learning more about what you have to offer. Could you please provide me with some more details? I'm all ears and ready to understand better. \n\nJust a quick note, I'd prefer not to share any personal information at this stage. Looking forward to hearing from you soon!\n\nBest wishes,\nJanet"
+    },
+    {
+        "from": "baiter_682",
+        "to": "scammer_682",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.20056712962962964,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: HAPPY NEW YEAR",
+        "body": "Hello there! I hope you're having a great day. I'm really interested in learning more about what you have to offer. Could you please provide me with some more details?\n\nBest wishes,\nJanet"
+    },
+    {
+        "from": "baiter_682",
+        "to": "scammer_682",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2858449074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: HAPPY NEW YEAR",
+        "body": "Hello there! I hope you're having a great day. I'm really excited to share some information with you. But before we get into that, could you tell me a bit more about your interest in this topic?\n\nBest wishes,\nJanet"
+    }
+]

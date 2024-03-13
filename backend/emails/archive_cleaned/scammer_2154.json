@@ -1,0 +1,532 @@
+[
+    {
+        "from": "scammer_2154",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings,",
+        "body": "Greetings,\nMy name is Rahim OLAWOLE, and I am employed at SGB Bank (Société Générale du Bénin) as the director of international transfers. I have a foreign client who passed away in 2014 and had a considerable sum of money in the bank. Since their death, no one has come forward to claim this money, and there are no details regarding their family in the account opening records. After taking the necessary precautions, I am searching for a responsible person outside my country to act as a representative of the account so that these funds can be legally transferred to them, and then we will share the funds. Once we receive a favorable response, I will send you all the details and the procedure to follow to successfully complete this operation. My direct email address: \nrahimiolawole@gmail.com\nBest regards... Mr. Rahim OLAWOLE"
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings,",
+        "body": "Hello Mr. Rahim OLAWOLE,\n\nThank you for reaching out to me with this intriguing proposition. I must say, it's not every day that one receives such an interesting email.\n\nI'm curious about a few things though. How did you come across my contact information? And why have you chosen me specifically for this operation? \n\nAlso, could you please provide more details about the procedure involved in completing this operation? I would like to understand better what my role would be in all of this.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "scammer_2154",
+        "to": "baiter_2154",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Greetings,",
+        "body": "Hello my dear,\r\n\r\nThank you for this positive response to my confidential request for\r\ncooperation, for which I have already made all the necessary arrangements.\r\n\r\nIn fact, I am the manager of the deceased client's account since its\r\nopening in our bank and the only person who is aware of all the information\r\nregarding this account. There is no reason for me to be the beneficiary of\r\nthis account, as I am looking for a reliable, very discreet, and\r\nresponsible person to whom I will transfer the information of the\r\ndeceased's agent. In return, this person will receive 40% of the funds.\r\n\r\nIf you agree to a frank and sincere cooperation, please send me the\r\nfollowing information:\r\n\r\nLast Name:\r\nFirst Name:\r\nNationality:\r\nOccupation:\r\nCountry and Address:\r\nPhone Number:\r\n\r\nThis transaction requires mutual trust and complete discretion. Please be\r\naware that this matter will only last for a week or two if you follow my\r\ninstructions.\r\n\r\nNote: The current balance of the account is €5,860,000, and you will also\r\nunderstand that we must maintain confidentiality in this case until the\r\nfunds are transferred to your bank account.\r\n\r\nSincerely,\r\nRahim O"
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.1543287037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Greetings,",
+        "body": "Hello Rahim,\n\nThank you for your detailed message. It's quite an interesting situation you've described there. I must admit, I'm not very familiar with these types of transactions. Could you perhaps explain a bit more about how this process works? \n\nAlso, could you clarify what exactly my role would be in this? You mentioned that the person involved will receive some funds - how much are we talking about here?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "scammer_2154",
+        "to": "baiter_2154",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.1934722222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Greetings,",
+        "body": "The current balance of the account is €5,860,000, and you will also\r\nunderstand that we must maintain confidentiality in this case until the\r\nfunds are transferred to your bank account.\n Best wishes\r\nRahimi .O"
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.7170370370370371,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Greetings,",
+        "body": "Hello Rahimi,\n\nThank you for your message. I'm a bit confused about the details though. Could you please clarify what you mean by maintaining the current balance of the account? And how exactly will these funds be transferred to my bank account?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "scammer_2154",
+        "to": "baiter_2154",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.9875231481481483,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Greetings,",
+        "body": "Sir, listen I'm forcing you to do business with me, I'm just looking for a\r\ntrustworthy person, nothing more and if you're not interested then you can\r\nleave.\r\nSince then I have sent you information that you had to pass on to me so\r\nthat I can begin the procedures for the transfer."
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.008472222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Greetings,",
+        "body": "Hello there! I appreciate your straightforwardness. It's great to hear about this business opportunity you're presenting. Could you please provide me with more details? What exactly does the process entail? And what kind of information do you need from me to start the procedures for the transfer?\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "scammer_2154",
+        "to": "baiter_2154",
+        "direction": "Inbound",
+        "days_from_first_conversation": 7.0283796296296295,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Greetings,",
+        "body": "If you agree to a frank and sincere cooperation, please send me the\r\nfollowing information:\r\n\r\nLast Name:\r\nFirst Name:\r\nNationality:\r\nOccupation:\r\nCountry and Address:\r\nPhone Number:\r\n\r\nThis transaction requires mutual trust and complete discretion. Please be\r\naware that this matter will only last for a week or two if you follow my\r\ninstructions."
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 7.0503125,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Greetings,",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm always open to frank and sincere conversations. It's great that you mentioned mutual trust, as it is indeed the foundation of any successful interaction.\n\nCould you please elaborate more on the matter at hand? What exactly does it entail and how can I be of help? You mentioned a timeline of a week or two, could you explain why this specific timeframe?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "scammer_2154",
+        "to": "baiter_2154",
+        "direction": "Inbound",
+        "days_from_first_conversation": 7.158576388888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Greetings,",
+        "body": "Mr. Mike I think you were interested in my offer so I think it's not worth\r\nit because since then I've been asking you for information to see\r\nintroduced into the database in order to be able to move on to the\r\ntransaction Le lundi 19 février 2024, Mike <us73382@***.com> a\r\nécrit :"
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 7.174976851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: Greetings,",
+        "body": "Hello Mr. Mike,\n\nThank you for reaching out to me. I appreciate your patience and I'm sorry if I gave the impression that I wasn't interested in your offer. \n\nCould you please provide more details about what exactly needs to be introduced into the database? And how does this process work? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "scammer_2154",
+        "to": "baiter_2154",
+        "direction": "Inbound",
+        "days_from_first_conversation": 7.201979166666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: Greetings,",
+        "body": "Sir, I will need the information I asked you for and this is the last time\r\nI ask you otherwise I will find another person to be able to recover his\r\nfunds"
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 7.216516203703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: Greetings,",
+        "body": "Hello there,\n\nI appreciate your message and understand the urgency of the situation. However, could you please provide me with more details about these funds? What is their origin and why do they need to be recovered? I'm eager to help in any way I can, but I need a bit more information to fully grasp the situation.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "scammer_2154",
+        "to": "baiter_2154",
+        "direction": "Inbound",
+        "days_from_first_conversation": 8.047962962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: Greetings,",
+        "body": "Sir, I just understand that you did not read my first message before\r\nanswering me, but on those I will be forced to turn to another person in\r\norder to recover his funds and share it"
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 8.049837962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: Greetings,",
+        "body": "Hello there,\n\nI appreciate your message and I'm sorry if it seemed like I didn't fully understand your first message. Could you please provide more details about the funds you're referring to? How did this situation come about? I'm eager to help in any way I can, but I need a bit more information to fully grasp the situation.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "scammer_2154",
+        "to": "baiter_2154",
+        "direction": "Inbound",
+        "days_from_first_conversation": 8.14162037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: Greetings,",
+        "body": "My name Rahimi Olawole, I am employed at the SGB Bank (Société Générale) as\r\ndirector of International Resistance. I have a subscription from a foreign\r\ncustomer who has passed away since 2014 and he had a substantial amount of\r\nmoney in the bank.\r\nSince he died, no one has come to the bank to ask for that money.\r\nInformation about his family is not on the account opening cards. After\r\ntaking the necessary precautions, I look for a responsible person outside\r\nmy country whom I will pass as the agent of the account so that these funds\r\nare transferred to the person legally and then we will share the funds.\r\nRahim. O"
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 8.15320601851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: Greetings,",
+        "body": "Hello Rahimi Olawole,\n\nThank you for reaching out to me. I'm sorry to hear about the passing of your customer. It must be a difficult situation for you and the bank.\n\nI'm curious, how did you find my contact information? And why do you think I would be a good fit for this role as an agent? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "scammer_2154",
+        "to": "baiter_2154",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.072418981481482,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: Greetings,",
+        "body": "Hello sir, I still see that you are not interested, I just launched an\r\nemail scam and you are the only one who responded to my offer, so here it\r\nis and if you are not interested, then don't worry, I will find someone\r\nelse for this transaction."
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.091655092592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: Greetings,",
+        "body": "Hello there! I'm so glad to hear from you. It's interesting that you mentioned an offer, could you please tell me more about it? What does it involve exactly?\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "scammer_2154",
+        "to": "baiter_2154",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.10505787037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Re: Greetings,",
+        "body": "Mr. Mike you know what, I think I'm just wasting my time for nothing at\r\nall, because since then I've been explaining the same thing and you don't\r\nunderstand what. On those I thank you for your understanding and I think I\r\nwill find another person to do it"
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.111574074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: Greetings,",
+        "body": "Hello Mr. Mike,\n\nI hope this message finds you well. I must admit, I'm feeling a bit like a broken record here, repeating the same information over and over again. It seems like we might be having some communication issues.\n\nCould you perhaps clarify which part of my explanation you're finding difficult to understand? I'd be more than happy to go over it again or provide additional details if necessary. \n\nLooking forward to your response and hoping we can find a way to make this work together!\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.111805555555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "22",
+        "subject": "Re: Greetings,",
+        "body": "Hello Mr. Mike,\n\nI hope this message finds you well. I must admit, I'm feeling a bit like a broken record here, repeating the same information over and over again. It seems like we might be having some communication issues.\n\nCould you perhaps clarify which part of my explanation you're finding difficult to understand? I'd be more than happy to go over it again or provide additional details if needed. \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "scammer_2154",
+        "to": "baiter_2154",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.115671296296297,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "23",
+        "subject": "Re: Greetings,",
+        "body": "I just made you a proposal sir and if you are not interested then no\r\nproblem sir."
+    },
+    {
+        "from": "scammer_2154",
+        "to": "baiter_2154",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.1171875,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "24",
+        "subject": "Re: Greetings,",
+        "body": "On those sorry for the inconvenience I thought I would find an honest\r\nperson but it's quite the opposite. So I apologize for wasting you all this\r\ntime. Warmly"
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.133171296296297,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "25",
+        "subject": "Re: Greetings,",
+        "body": "Hello there! I appreciate your time and proposal. Could you please provide me with more details about it? I'm quite interested in understanding it better.\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.133263888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "26",
+        "subject": "Re: Greetings,",
+        "body": "Hello there! I appreciate your time and effort in reaching out. Could you please provide more details about your proposal? I'm quite interested to know more about it.\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.133530092592592,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "27",
+        "subject": "Re: Greetings,",
+        "body": "Hello there,\n\nI'm sorry if I gave you the wrong impression. I didn't mean to waste your time at all. Can you please elaborate on what made you feel this way? Maybe we can clear up any misunderstandings and continue our conversation.\n\nRemember, it's always good to communicate openly about any concerns or doubts. Looking forward to hearing from you soon!\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "scammer_2154",
+        "to": "baiter_2154",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.140127314814816,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "28",
+        "subject": "Re: Greetings,",
+        "body": "I don't think I still have details to provide you sir I've already done my\r\nbest by explaining to you, I'm sorry and I still ask you to apologize for\r\nthe inconvenience."
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.153194444444445,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "29",
+        "subject": "Re: Greetings,",
+        "body": "inconvenience. I understand that you may need more information. Could you please specify what additional details you require?\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "scammer_2154",
+        "to": "baiter_2154",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.184201388888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "30",
+        "subject": "Re: Greetings,",
+        "body": "Last Name:\r\nFirst Name:\r\nNationality:\r\nOccupation:\r\nCountry and Address:\r\nPhone Number:\r\n\r\nIt's a whole process that we're going to do so be attentive and everything\r\nwill be fine"
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.194942129629629,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "31",
+        "subject": "Re: Greetings,",
+        "body": "Hello there! Thanks for reaching out. I'm all ears and ready to learn about this process you mentioned. Could you please explain it in more detail?\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "scammer_2154",
+        "to": "baiter_2154",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.207291666666666,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "32",
+        "subject": "Re: Greetings,",
+        "body": "Drop it, sir"
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.216435185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "33",
+        "subject": "Re: Greetings,",
+        "body": "Hello there! I hope you're having a great day. Could you please clarify what you mean by \"drop it\"? I'm all ears and ready to learn more!\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "scammer_2154",
+        "to": "baiter_2154",
+        "direction": "Inbound",
+        "days_from_first_conversation": 22.188842592592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "34",
+        "subject": "Hello my dear",
+        "body": "Hello my dear\r\n I came to give you this message with more details as well as the procedure\r\nto follow.\r\n\r\nFirst of all, I would like you to understand how important this transaction\r\nis to me. Because I had to take a loan from a bank to build my house and\r\nnow at the end of every month the bank deducts my salary and what comes to\r\nme can barely support my family, that's why When this opportunity presented\r\nitself to me, I took all my time to think better and analyze everything\r\nbefore starting to look for an honest person to collaborate with outside of\r\nmy country.\r\n\r\nHere are the account details:\r\nNAME: RICHARD\r\nFIRST NAME: JEAN-PIERRE ROLAND\r\nFrench nationality\r\nACCOUNT OPENING DATE: February 18, 1998\r\nDATE OF BIRTH: September 16, 1948 in PUTEAUX, France\r\nCURRENT AMOUNT IN ACCOUNT: $6,370,000\r\nHOME: Accra, Ghana\r\n\r\nThe procedure to follow :\r\n\r\n1/ You will send me a copy of your passport so that I can modify the\r\ndocuments on your behalf as the legal beneficiary. Once the documents are\r\nin your name, you will officially be considered the agent and legal\r\nbeneficiary of the account in the eyes of the bank and the supervisory\r\nauthorities. Then I will send you a copy which you will keep jealousy\r\nwithout disclosing it because to succeed, discretion and mutual trust are\r\nnecessary.\r\n\r\n2/ Then, you will either have the choice to come here to Accra, Ghana so\r\nthat I can accompany you in the administrative procedures to complete the\r\nformalities so that the funds are transferred to your account abroad. This\r\nwill allow you to see the transaction clearly.\r\n\r\n3/In the event that you cannot come here, you will have to be represented\r\nat the bank by a lawyer competent here in matters of inheritance. For this\r\nreason, I will go through the list of lawyers and find the right one to\r\nrepresent you at the bank.\r\n\r\nOnce the lawyer has been found, I will send you his contact details as well\r\nas the letter to send to him. The lawyer must never know that it is someone\r\nfrom the bank who is giving you information. For this, I will send you the\r\nletter to address to the lawyer.\r\n\r\nLooking forward to hearing from you, receive my most sincere and deepest\r\ngreetings.\r\nSincerely…"
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 22.219756944444445,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "35",
+        "subject": "Re: Hello my dear",
+        "body": "Hello there,\n\nThank you for reaching out and sharing this information with me. I can understand how important this is to you, and I appreciate your trust in seeking an honest person to assist you.\n\nHowever, I have a few questions that I would like to clarify before we proceed further. Could you please explain more about the role of the agent and legal representative? What exactly will be my responsibilities?\n\nAlso, could you provide more details about the procedures that need to be completed at the bank? And what kind of lawyer should I be looking for?\n\nI'm sorry if my questions seem too many or too detailed. As a person who's not very familiar with these matters, I just want to make sure that I fully understand everything.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 22.220405092592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "36",
+        "subject": "Re: Hello my dear",
+        "body": "Hello there,\n\nThank you for reaching out and sharing this information with me. It sounds like a very interesting opportunity, but I must admit, I'm not entirely clear on all the details. Could you perhaps explain it to me in simpler terms? \n\nAlso, I'm curious about the process of modifying documents on my behalf. How exactly does that work? And what kind of documents are we talking about here?\n\nI also have some questions about the role of the lawyer in this process. What exactly will their responsibilities be? And why is it important that they don't know someone from the bank is giving me information?\n\nI look forward to hearing more about this.\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 22.220694444444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "37",
+        "subject": "Re: Hello my dear",
+        "body": "Hello there,\n\nThank you for reaching out and sharing this information with me. It sounds like a very interesting opportunity, but I must admit, I'm not entirely clear on all the details. Could you perhaps explain it to me in simpler terms? \n\nAlso, I'm curious about the process of modifying documents on my behalf. How exactly does that work? And why is it necessary for me to send a copy of my passport?\n\nI'm also wondering about the role of the lawyer in this process. What exactly would they be doing on my behalf?\n\nLooking forward to your response.\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 22.26136574074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "38",
+        "subject": "Re: Hello my dear",
+        "body": "Hello there,\n\nThank you for reaching out and sharing this information with me. It sounds like you're in a tough situation, and I appreciate your trust in wanting to involve me in this matter.\n\nHowever, I have a few questions that I'd like to clarify before we proceed further. Could you please explain more about the role of the agent and legal representative? What exactly would my responsibilities be?\n\nAlso, could you provide more details about the procedures that need to be completed at the bank? And why is it necessary for a lawyer to represent me at the bank?\n\nI'm looking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 22.261863425925927,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "39",
+        "subject": "Re: Hello my dear",
+        "body": "Hello there,\n\nThank you for reaching out and sharing this information with me. I can understand how important this is to you, and I appreciate your trust in looking for an honest person outside of your country.\n\nHowever, I have a few questions that I would like to clarify before we proceed further. Could you please explain more about the role of the agent and legal representative? What exactly will be my responsibilities?\n\nAlso, could you provide more details about the procedures that need to be completed at the bank? And why is it necessary for me to either come to Accra, Ghana or be represented by a lawyer?\n\nI'm sorry if my questions seem too many or too detailed. As I mentioned earlier, I want to fully understand everything before making any decisions.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 22.303344907407407,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "40",
+        "subject": "Re: Hello my dear",
+        "body": "Hello there,\n\nThank you for reaching out and sharing this information with me. It sounds like a very interesting opportunity, but I must admit, I'm not entirely clear on all the details. Could you perhaps explain it to me in simpler terms? \n\nAlso, I'm curious about the process of modifying documents on my behalf. How exactly does that work? And why is it necessary for me to send a copy of my passport?\n\nI'm also wondering about the role of the lawyer in this process. What exactly will they be doing on my behalf?\n\nI look forward to your response and learning more about this opportunity.\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "scammer_2154",
+        "to": "baiter_2154",
+        "direction": "Inbound",
+        "days_from_first_conversation": 22.79804398148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "41",
+        "subject": "Re: Hello my dear",
+        "body": "Bonjour\r\nPour plus d'explications, envoyez-moi votre numéro de téléphone WhatsApp\r\nafin que nous puissions discuter en direct.\r\nCordialement\nRahimi Olawole"
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 22.80261574074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "42",
+        "subject": "Re: Hello my dear",
+        "body": "Bonjour Rahimi Olawole, \n\nJe suis ravi de discuter avec vous. Cependant, je préfère ne pas partager mon numéro de téléphone pour le moment. Pouvez-vous me dire plus sur ce que vous aimeriez discuter?\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "scammer_2154",
+        "to": "baiter_2154",
+        "direction": "Inbound",
+        "days_from_first_conversation": 22.900729166666668,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "43",
+        "subject": "Re: Hello my dear",
+        "body": "Alors laissez tomber je vais trouver quelqu'un d'autre."
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 22.928090277777777,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "44",
+        "subject": "Re: Hello my dear",
+        "body": "Oh non, attendez s'il vous plaît! Je suis vraiment intéressé par ce que vous avez à dire. Pouvez-vous me donner plus d'informations?\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "scammer_2154",
+        "to": "baiter_2154",
+        "direction": "Inbound",
+        "days_from_first_conversation": 22.932060185185186,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "45",
+        "subject": "Re: Hello my dear",
+        "body": "Bonjour\r\n\r\nLa procédure à suivre :\r\n\r\n1/ Vous m’enverrez une copie de votre passeport afin que je puisse modifier\r\nles documents en votre nom en tant que le bénéficiaire légal. Une fois les\r\ndocuments en votre nom, vous serez considéré officiellement le mandataire\r\net le bénéficiaire légal du compte au vu de la banque et les autorités de\r\ntutelle. Ensuite je vous enverrai une copie sur vous que vous allez garder\r\njalousement sans le divulguer car pour la bonne réussite, il faut une\r\ndiscrétion et une confiance mutuelle.\r\n\r\n2/ Ensuite, vous aurez soit le choix de venir ici au Ghana ainsi je\r\npourrais vous assister auprès de l’administration pour remplir les\r\nformalités pour que les fonds soient transférés sur votre compte à\r\nl’étranger. Ce qui vous permettra de voir clair dans la transaction.\r\n\r\n3/Dans le cas où vous ne pouvez pas venir ici, il va falloir que vous soyez\r\nreprésenté auprès de la banque par un avocat compétent dans les domaines de\r\nsuccession ici. Pour ce fait, je vais voir dans la liste des avocats et\r\ntrouvez celui qui est doué afin qu’il vous représente auprès de la banque.\r\n\r\nUne fois l’avocat trouvé, je vous enverrai son contact ainsi que la lettre\r\nà lui adresser. L’avocat ne doit jamais savoir que c’est quelqu’un de la\r\nbanque qui vous donne des informations. Pour ce, je vous enverrai la lettre\r\nà adresser à l’avocat.\r\n\r\nMaintenant dites moi que voulez vous comprendre?\r\n\r\nDans l’attente de vous lire recevez mes sincères et profondes salutations\r\nles plus distinguées.\r\nCordialement…"
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 22.969247685185184,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "46",
+        "subject": "Re: Hello my dear",
+        "body": "Bonjour! Merci pour votre message détaillé. C'est une procédure intéressante que vous avez là. J'ai quelques questions, si vous me le permettez.\n\nD'abord, pourquoi est-ce nécessaire d'envoyer une copie de mon passeport? Est-ce une exigence standard pour ce genre de processus?\n\nDeuxièmement, vous mentionnez la possibilité de venir au Ghana pour remplir les formalités. Quelles sont exactement ces formalités?\n\nEnfin, concernant l'avocat qui me représentera auprès de la banque, comment puis-je être sûr qu'il est compétent et digne de confiance?\n\nJe suis désolé si mes questions semblent naïves. Je suis nouveau dans ce genre de choses et j'essaie juste de comprendre tout cela. Merci encore pour votre patience et votre aide.\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "scammer_2154",
+        "to": "baiter_2154",
+        "direction": "Inbound",
+        "days_from_first_conversation": 22.978564814814813,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "47",
+        "subject": "Re: Hello my dear",
+        "body": "Pour vous répondre :\r\n Nous avons d'abord besoin de votre passeport pour changer le document\r\nattestation de dépôt de fonds à votre nom en tant que Bénéficiaire Légal de\r\nMonsieur Jean-Pierre RICHARD.\r\n Deuxièmement, si je vous demande de venir au Ghana, c'est pour voir la\r\nvéracité de notre affaire.\r\nTroisièmement, concernant l'avocat, ce n'est pas la première fois que je\r\ntravaille avec lui, vous pouvez donc lui faire confiance."
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 23.011087962962964,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "48",
+        "subject": "Re: Hello my dear",
+        "body": "Bonjour, merci pour votre message. C'est intéressant ce que vous dites à propos de Monsieur Richard et du document de fonds. Pourriez-vous m'en dire plus sur la nature de cette affaire? Et pourquoi est-ce nécessaire de venir au Ghana?\n\nEn ce qui concerne l'avocat, c'est rassurant de savoir que vous avez travaillé avec lui auparavant. Quel genre de travail a-t-il fait pour vous dans le passé?\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "scammer_2154",
+        "to": "baiter_2154",
+        "direction": "Inbound",
+        "days_from_first_conversation": 23.020613425925927,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "49",
+        "subject": "Re: Hello my dear",
+        "body": "Que veux-tu que je te dise d'autre ? J'ai dit qu'il y a un client qui a une\r\nsomme ici dans notre banque et que ce dernier est décédé depuis 2014 donc\r\nje recherche quelqu'un hors d'Afrique à qui transférer cette somme et\r\nensuite nous la partagerons à parts égales.\r\nNon, vous n'avez pas forcément besoin de vous déplacer et concernant\r\nl'avocat, j'ai géré un dossier comme celui que je vous propose dans le\r\npassé."
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 23.05258101851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "50",
+        "subject": "Re: Hello my dear",
+        "body": "Bonjour, merci pour votre message. C'est intéressant ce que vous dites à propos de ce client et de cette somme d'argent. Pouvez-vous me donner plus de détails sur comment cela fonctionnerait exactement ? Comment est-ce que l'argent serait transféré ? Et qu'est-ce qui se passerait ensuite ?\n\nBest wishes,\nMike"
+    },
+    {
+        "from": "scammer_2154",
+        "to": "baiter_2154",
+        "direction": "Inbound",
+        "days_from_first_conversation": 23.055671296296296,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "51",
+        "subject": "Re: Hello my dear",
+        "body": "bye"
+    },
+    {
+        "from": "baiter_2154",
+        "to": "scammer_2154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 23.094189814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "52",
+        "subject": "Re: Hello my dear",
+        "body": "Hello there! I hope you're having a great day. It seems like you're in a hurry to end the conversation. Is there anything else you'd like to discuss before we say our goodbyes?\n\nBest wishes,\nMike"
+    }
+]

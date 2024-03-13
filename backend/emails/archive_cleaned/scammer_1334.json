@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1334",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Beneficiarys, ",
+        "body": "  Dear Beneficiarys, \n       CONGRATULATIONS To you today, you were chosen as one of the enlisted Benefactor for this Grant , whom I contacted via private message. You get a Giveaway from us & additional Grant from our very attractive sponsors.\n    How to get the Grant, register yourself via our link below.\nHere  https:/ /specprofit.com/assot/BB-register.php\n(No Fee)\nFollow the steps and if you have (DONE) that please send me your proof of registration or screenshot,\nCongratulations and Thank You .\nRegard\nIf you have any questions or difficulties with registration, please contact us.\nBest Regards,\nMr Lampard   "
+    },
+    {
+        "from": "baiter_1334",
+        "to": "scammer_1334",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Beneficiarys, ",
+        "body": "Hello Mr. Lampard,\n\nThank you for your message and the opportunity to register for the Grant. I'm really excited about this! Could you please provide me with more details about the process? What kind of proof do I need to send after registration?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarie"
+    }
+]

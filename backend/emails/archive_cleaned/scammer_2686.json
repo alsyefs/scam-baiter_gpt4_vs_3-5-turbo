@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2686",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Central Bank of Nigeria (CBN)",
+        "body": "Central Bank of Nigeria (CBN)\nTinubu Square, Lagos\n+234 8088 755 472\nURGENT MATTER!\nDear Esteemed Customer,\nThis office would be unfair to you if we approve the affidavit submitted by Mr. Robert Michael Galbo from Florida who told us that you have been bedridden without proper verification, thus this letter. He said that he is your partner and he has been the one taking care of you at the hospital and that you have been warned not to answer any telephone call no matter how important it is. For reference purposes, I have a copy of his driver's license here.\nIn the affidavit he submitted, which is in the litigation department, he stated that you have empowered him to complete the process of this transaction/payment and have the funds ($10.5M) transferred to him.\nWe want to officially grant you 48 hours to respond to this message, failure to do so, the content of the sworn affidavit would be treated with urgency and we would commence the process of the transfer of the funds to him as instructed.\nSincerely,\nMr. Wyse Egwu\nDirector of Litigation\n+234 8088 755 472 (WhatsApp)\ne-Mail: \nwyseegwu7@gmail.com"
+    },
+    {
+        "from": "baiter_2686",
+        "to": "scammer_2686",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Central Bank of Nigeria (CBN)",
+        "body": "Hello Mr. Wyse Egwu,\n\nThank you for reaching out to me with this urgent matter. I must say, it's quite surprising to hear about Mr. Robert Michael Galbo claiming to be my partner and taking care of me at the hospital. \n\nI'm curious, could you please provide more details about the affidavit he submitted? And what exactly does the process of this payment involve?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nLee"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2062",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello my dear,",
+        "body": "  Hello my dear,\nI'm Patrick Robinson: from the United State Treasury Division New York city.\nI'm here to let you know that the case of your transaction has been settled positively after a successful conversion of your $7.5million into J.P Morgan ATM card.\nWe converted your fund to J.P Morgan bank ATM card with 100% assurance that you will withdraw money from any ATM machine world wide with your card.\nYour current home address is awaited where we can easily mail your card smoothly.\nCongratulations.\nYours Faithfully\nMr.  Patrick Robinson\nAddress: 383 MADISON AVENUE NY 10179,NEW YORK.   "
+    },
+    {
+        "from": "baiter_2062",
+        "to": "scammer_2062",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello my dear,",
+        "body": "Hello Mr. Patrick Robinson,\n\nWow, that's some news! I'm so glad to hear that my case has been settled positively. It's really interesting how you've converted the fund into a Morgan ATM card. I didn't even know such a thing was possible!\n\nCould you please tell me more about how this works? How can I use this card and are there any fees associated with it? Also, is there a limit on how much I can withdraw from an ATM machine worldwide?\n\nI'm sorry but for security reasons, I can't provide my home address over email. Is there another way we could arrange for the delivery of the card?\n\nLooking forward to your response.\n\nBest wishes,\nRichard"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1375",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Halifax Bank.",
+        "body": "  Halifax Bank.\nAddress: PO Box 548, Leeds, LS1 1WU UK\nFund Crediting / Foreign Operation Dept.\nOffice of the MD.\nOur Ref: HLB/WT/UK/DFC/653/XEWS/021/23\n11/10/23\nSir.\nThis is to informed you that the World Bank in conjunction with the International Monetary Fund (IMF) has approved a compensation fund of Five Hundred and Fifty Thousand British Pounds Sterling (550,000.00 GBP) as a compensation fund as a scam victim that loss his / her hard earn money from the internet fraudsters who was pretending to be the officials of the bank to facilitate your funds transfer in your favor and simultaneously extorted your hard earn money from you.\nThus, we have giving a mandate since Febuary,2023 to make sure we release and transfer your compensation funds of Five Hundred and Fifty Thousand Pounds and fortunately, i received a bank account from your associate whom claims that it is your partner and you authorized him to receive this 550,000.00 GBP on his account in Indonesia.\nAccount Holders Name: Mr. Liu Kong Nam\nAccount Number: 456-909-00943\nSwift Code: HSBCIDJA\nBank Name: HSBC BANK JAKARTA INDONESIA\nPlease kindly confirm or notify us that you had authorized your partner to receive your 550,000.00 GBP compensation fund to the above account to enable me start the process of the wire transfer of 550,000.00 GBP to Mr. Liu Kong Nam bank account with HSBC Indonesia.\nPlease do reach me here for more details\nThanks, and looking forward to hear from you today.\nYours faithfully,\nJuliet Arias\nFund Crediting / Foreign Operation Dept   "
+    },
+    {
+        "from": "baiter_1375",
+        "to": "scammer_1375",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Halifax Bank.",
+        "body": "Hello Juliet Arias,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I wasn't aware that such a fund had been approved in my name. \n\nHowever, I'm a bit confused about the part where you mentioned an associate of mine from Indonesia. I don't recall authorizing anyone to receive funds on my behalf. Could you please provide more details about this person? How did they claim to be associated with me?\n\nAlso, could you explain more about how this fund was approved? What were the criteria and who made the decision?\n\nI look forward to your response.\n\nBest regards.\n\nBest wishes,\nKayla"
+    }
+]

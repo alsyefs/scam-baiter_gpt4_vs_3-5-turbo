@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1007",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hi, Did you receive my previou",
+        "body": "Hi, Did you receive my previous email that I sent you about your funds, the sum of $15.7Million which is your rightful & legal overdue inheritance payment? Reply for full details (COPY THIS EMAIL AND REPLY) \nhedivlacich@outlook.com\nThanks.\nMrs. Hedi Vlacich\nBank Of Africa"
+    },
+    {
+        "from": "baiter_1007",
+        "to": "scammer_1007",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hi, Did you receive my previou",
+        "body": "Hello Mrs. Hedi Vlacich,\n\nI hope this message finds you well. I must admit, your email has piqued my curiosity. Could you please provide more details about these funds and why they are overdue? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nTheresa"
+    }
+]

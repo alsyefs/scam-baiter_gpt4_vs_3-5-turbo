@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_866",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Mr. James Smith",
+        "body": "Mr. James Smith\nFunds-Transfer Director\nFirst Financial Trust\n100 Erdman Way\nLeominster, MA 01453,\nUnited States.\nTel: +1 4132170553\nAttn:  xxx,\nThis is to notify you that after our last board of directors meeting in regards to your funds, we are pleased to inform you that your funds have been approved for payment.\nPlease note that you are to receive your funds ($9,500,000.00) through our online banking system which we believed is the safest way of making transfers in the modern banking system.\nTo enable us commence with the opening of your online banking account, you are requested to provide us the below required information.\nYour Name:............................................................................................................................................\nOccupation:............................................................................................................................................\nAddress..................................................................................................................................................\nDate of birth:..........................................................................................................................................\nMarital status:........................................................................................................................................\nSex:......................................................................................................................................................\nNext of kin:............................................................................................................................................\nID Card.\n.................................................................................................................................................\nTelephone::............................................................................................................................................\nUpon the receipt of the above required information, we shall commence further with the opening of your online banking account and your funds will be credited into your online banking account.\nSincerely Yours,\nMr. James Smith\n(Funds-Transfer Director)"
+    },
+    {
+        "from": "baiter_866",
+        "to": "scammer_866",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Mr. James Smith",
+        "body": "Dear Mr. James Smith,\n\nThank you for reaching out to me regarding the approval of my funds. I appreciate the update and I'm glad to hear that the payment process is moving forward.\n\nI understand that you mentioned using an online banking system for the transfer, which you believe is a safe method. Could you please provide more details about how this online banking system works? I want to make sure that my funds are secure throughout the process.\n\nAlso, could you clarify what type of ID card you require? Is it a government-issued ID or something else?\n\nThank you for your assistance in opening my online banking account and crediting the funds into it. I look forward to your response.\n\nBest wishes,\nMyrtle"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1229",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  From the Desk Of:",
+        "body": "  From the Desk Of:\nCEO: Mr Jamie Dimon\nJP Morgan Chase Bank New York (Code JP 2)\n270 Park Ave. New York City, New York USA\nThis is to bring to your kind notice that your outstanding payment of $10,000,000.00 which has been with our central paying office from United Nations has been signed and Approved for payment after series of meeting with our board of directors,also bear in mind that We want to conclude all payment before the 4th quarter of 2023 runs out for you to receive your Fund.\nBe informed that your payment fund is on the first batch list that will receive their payment before the end of this week. Let it be known to you that the crediting of your funds into your bank account does not require any form of delay and for that, any form of delay must be avoided.\nTherefore, we the management board of JP Morgan Chase & Co. have unanimously agreed to set up an account with our bank on your behalf so that your total funds $10 Million will be remitted for immediate confirmation. However, for us the management to implement this action of setting up the account on your behalf, provide the below requested information in your next email so that we the management will successfully open a new account on your behalf:\nYour Full Name:\nYour Complete Address:\nDirect Tell: Number:\nMobile Number:\nOccupation\nNationality.\nTherefore, to enable us to achieve our goal to release your Fund to you, you are advised to reconfirm to us the below information to enable us conclude this transaction with you. Kindly respond back to us immediately you receive this email and always recognize this bank code to know when you receive a scam mail in the name of JP Morgan Chase Bank.....Bank Code (JP 2).\nWaiting for your immediate response.\nThanks for your Co-operation.\nYours Faithfully,\nMr Jamie Dimon:\nChief Executive Officer\nJP Morgan Chase Bank...Code (JP2)\n270 Park Ave, New York City, New York USA\nWebsite:- /www.jpmorganchase.com   "
+    },
+    {
+        "from": "baiter_1229",
+        "to": "scammer_1229",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   From the Desk Of:",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding my payment. It's good to know that my funds are on the first batch list and will be credited into my bank account soon.\n\nI understand that you need some additional information from me in order to set up an account on my behalf. Before I proceed, could you please clarify what exactly this account will be used for? Additionally, could you provide more details about the process and any fees or charges that may be involved?\n\nI look forward to your response.\n\nBest wishes,\nJo"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_667",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Under construction.",
+        "body": "Under construction.\nFor navigation, contact administrator.\nadmin@dbonline-portal.com"
+    },
+    {
+        "from": "baiter_667",
+        "to": "scammer_667",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Under construction.",
+        "body": "Hello! How can I help you today?\n\nBest wishes,\nWilfredo"
+    }
+]

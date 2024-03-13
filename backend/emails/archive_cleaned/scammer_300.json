@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_300",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings,",
+        "body": "Greetings,\nI am Cameron, a financial analyst. I do have some business discussion\nI would like us to deliberate on that would yaild good profit. I can\nassure you that you would like it.\nGet back to me for more information. I would encourage you to revert\nwith your cell/mobile numbers for easy communications.\nKindly get back to me via this email and indicate your interest\nThanks,\nCameron Gundersun\nEmail: \nbradleywick3@gmail.com"
+    },
+    {
+        "from": "baiter_300",
+        "to": "scammer_300",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings,",
+        "body": "Hello Cameron,\n\nThank you for reaching out. I'm interested in hearing more about the business opportunity you mentioned. Could you please provide some additional details on what it entails and how it could yield a good profit? Looking forward to your response.\n\nBest wishes,\nDavid"
+    }
+]

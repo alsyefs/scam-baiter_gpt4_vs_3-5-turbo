@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_513",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "GOOD NEWS 2024",
+        "body": "GOOD NEWS 2024\nHello My good friend, this is Mr. David Moore from DHL delivery company,\nHow are you doing with your family I hope that you all enjoyed this christmas Holiday\nMy good friend i write to inform you that your ATM card still order my custody because you are not been able to pay the delivery fee of your ATM card which is $150, but today we the DHL delivery company is on bounce okay, so \nI am here to inform you that your delivery fee is no more $150 it's $75 only, so please kindly go to supermarket close to you and buy steam wallet card of $75 and get back to me steam wallet card picture,\nAnd I'm here to guarantee you that once we confirm the payment from you i will carry out with your delivery immediately okay\nAcknowledge this message immediately for your ATM VISA CARD Delivery with the following information.\n1. Full name: ============================== ========\n2. Phone number: ============================== =====\n3. Home address for the Delivery====================\n4. Date of Birth========================= ===========\n5. Your Occupation==================== ==============\n6.\n A copy of your driving license\n. =================\nSo please i will be looking forward to hear from you soon,\nThank you and God bless you\nMr. David Moore.."
+    },
+    {
+        "from": "baiter_513",
+        "to": "scammer_513",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: GOOD NEWS 2024",
+        "body": "Hello Mr. David Moore,\n\nI hope you're doing well. It's great to hear from you and I appreciate the update about my ATM card. I'm glad to know that DHL is taking care of it.\n\nIt's interesting that you mentioned a steam wallet card for payment. Could you please explain more about how this works? I've never used one before, so any additional information would be helpful.\n\nAlso, could you provide more details about the ATM VISA CARD? What are its benefits and how can I use it?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRoy"
+    }
+]

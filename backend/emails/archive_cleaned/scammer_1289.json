@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1289",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Esteemed Beneficiary",
+        "body": "  Dear Esteemed Beneficiary\nMy Name is John Albert, I have a consignment valued at $13.5M assigned\nto me to deliver to you by the (UN) United Nations Intergovernmental\norganization commission .\nI am ready to deliver funds to you as Focus and concentrate please\nsend your current resident address and cell phone number.\nMr John Albert   "
+    },
+    {
+        "from": "baiter_1289",
+        "to": "scammer_1289",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Esteemed Beneficiary",
+        "body": "Dear Mr. John Albert,\n\nThank you for reaching out to me. I appreciate your efforts in delivering the funds on behalf of the UN United Nations commission. However, before I provide you with any personal information, I would like to know more details about this delivery and the purpose behind it.\n\nCould you please share some additional information regarding the source of these funds and why they are being delivered to me specifically? It would be helpful to understand the background and context of this transaction.\n\nLooking forward to your response.\n\nBest wishes,\nRobert"
+    },
+    {
+        "from": "scammer_1289",
+        "to": "baiter_1289",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "FROM THE DESK OF MR ROY FUHRMANN CHIEF OPERATING OFFICER METROPOLITAN AIRPORTS COMMISSION",
+        "body": "FROM THE DESK OF\r\nMR ROY FUHRMANN\r\nCHIEF OPERATING OFFICER\r\nMETROPOLITAN AIRPORTS COMMISSION\r\nCell  +1-507-476-1715\r\n\r\nAttention :Sir /Madam\r\n\r\nI have been wondering why i have not received your mail for long now over\r\nyour abandoned Consignment here at Logan Airport USA.However am writing to\r\ninform you officially that i have decided to handle all the payments for\r\nthe release of your long abandoned consignments here and am ready to pay\r\nthe fee to make sure that you receive your funds and give me my 10% instead\r\nof the greedy officials to sit on your hard earned money and share it among\r\nthemselves but the only problem is that the authorities here are insisting\r\nthat you must pay part of the fee to ascertain the fact that you are still\r\nalive and ready to receive your funds.\r\n\r\nI know you are finding it difficult to believe me but my people used to say\r\nthat when a child is crying continuously and keeps pointing at something\r\nwhile crying, is either the thing making the child to cry is there or that\r\nplace is making the child to cry.\r\n\r\nI have been repeatedly writing to you about your funds but you never seems\r\nto be serious about it, So i will like you to give this opportunity a trial\r\nby at least buy Amazon Gift Card of $300, and scratch it and send it with\r\nthe purchasing receipt of the card, send it to me and i will present it to\r\nthem here and pay the balance of $250 and bring your funds to you under 24\r\nhours from the time i received the Cards and the receipt and this is the\r\nonly thing i need from you to prove to the authorities that you are still\r\nalive.\r\n\r\nThis is the only thing delaying your funds delivery to your address because\r\nonce the authorities confirm the receipt of the Cards from you, they will\r\nknow that you are alive and working to receive your funds.\r\n\r\nIf you agreed to work with me at this time and receive your funds,kindly\r\nreconfirm to me your current receiving Address Or your working place\r\naddress, Your reachable mobile telephone numbers, Your Personal\r\nidentification and the time you will be around to receive me.\r\n\r\nIf you cannot do this simple thing, they will believe that i want to use my\r\nmoney to finance your funds delivery and eat the funds alone, this is the\r\nmajor reason your funds is still here,\r\n\r\nSo i will advise you to think of this and get back to me so that we can\r\nresolve this issue once and for all, especially now that the roads here are\r\ncalm and no much stress.Kindly contact me on my private E-mail here :\r\nchiefoperatingofficerroyfuhrma@gmail.com\r\n\r\n if you agree to work with me and receive your abandoned consignment at the\r\nairport.\r\n\r\nI look forward to hearing from you.\r\n\r\nYou can as well call me on this number (+1) +1-507-476-1715 if you wish to\r\nspeak with me but if you call and could not reach me on phone note that i\r\nam on the field for inspection, So leave your information so that i can\r\nreach you when i am back in the office.\r\n\r\nSigned,\r\n\r\n\nMr Roy  Fuhrmann\r\nMinneapolis–Saint Paul International Airport\r\nSt Paul, MN 55111, United States"
+    },
+    {
+        "from": "baiter_1289",
+        "to": "scammer_1289",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6047337962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: FROM THE DESK OF MR ROY FUHRMANN CHIEF OPERATING OFFICER METROPOLITAN AIRPORTS COMMISSION",
+        "body": "Hello Mr. Roy Fuhrmann,\n\nThank you for reaching out to me regarding my abandoned funds at Logan Airport. I must admit, I am a bit surprised to receive this email. Can you please provide me with more details about the situation? I want to make sure I understand everything correctly before taking any further steps.\n\nCould you explain why there is a fee that needs to be paid in order for me to receive my funds? Is this a standard procedure? Also, how exactly does purchasing an Amazon Gift Card prove that I am still alive and ready to receive my funds?\n\nI appreciate your assistance in resolving this matter and look forward to your response.\n\nBest wishes,\nRobert"
+    }
+]

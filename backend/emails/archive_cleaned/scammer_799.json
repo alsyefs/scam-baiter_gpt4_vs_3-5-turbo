@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_799",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  ATTN:",
+        "body": "  ATTN:\nIt is my pleasure to inform you that after my conversation with you yesterday and having receive your mail with the content well noted to us, we wish to inform you that are customers right are always protected from been scammed by some impostors trying claim your approved atm card package with us and like I said to you before that our bank is confidential and legitimate to the world and your approved atm card package with us will be released to you as directed.\nAnd we are giving you are 100% assurance that everything thing will be fine once your maximum cooperation with us is been given to us by reconfirm your details of payment to us for a quick procession of your payment to you. And please do not entertain any fears with us cause I am a man with a dignity character that will not deceive you at this point. As I wait to hear from you with this required detail to enable us effect the release of this said atm card package to you with no further delay.THE ONLY problem the agent is having now is money to pay for taxi so him did not have $50 to pay for the taxi man to delivered the atm card to your home address: by 5:30 pm tomorrow\ni ask you to send is $50 Gift Card IS for the agent to pay for the taxi man so that the agent will to come to your home address: without any further delay by 5:00pm to day\n1) Your Full Name again\n2) Your Direct WhatsApp telephone number\n3) Your Complete Address for a reconfirmation.\n4) A Copy Of Your Identification I.D for a reconfirmation\n5) Occupation & Position\n6) IF YOU ARE SERIOUS Contact UPS COMPANY with copy of the $50 Gift Card or STEAM CARD or Amazon Gift Card for the agent to pay for the taxi man to delivered the atm card:\n7) Please i will advise Contact UPS COMPANY: \nusacustomoffice03@gmail.com\n with copy $50 Gift Card\nYours Sincerely\nJames william\nExecutive director   "
+    },
+    {
+        "from": "baiter_799",
+        "to": "scammer_799",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   ATTN:",
+        "body": "Hello James William,\n\nThank you for your detailed message. It's great to hear that my ATM card package is ready and waiting for me. I appreciate the assurance that everything will be fine and that my rights as a customer are protected.\n\nI understand that the agent needs money for taxi fare to deliver the ATM card to my home address. However, I'm a bit confused about why a gift card is needed for this. Could you please explain more about how this works?\n\nAlso, could you provide more information about UPS COMPANY? How do they fit into this process?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJames"
+    }
+]

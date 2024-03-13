@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1584",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good Day,",
+        "body": "Good Day,\nI am Mdherakg Bangla and I work with UNITED BANK For AFRICA. Please Can you use an ATM Visa card to withdraw money at ATM cash machines in your country?\nI want to transfer money to you from my country; it’s part of money taken by some old politician that was forced out of power.I will change the account details to\nyours, and apply for a visa card with your details in our bank,\nthey will send the visa card to you and you will be withdrawing money with it and always send my own percentage of the money,\nand the money we are talking about is $11.5Million us dollars about is $11.5Million us dollars. Whatever amount you withdraw daily, you will send 50% to me and you\nwill take 50%, the visa card and the bank account will be in your name,\nI will be waiting for your information as soon as possible.\nYour name..........................\nAge...........................\nSex...........................\nCountry.......................\nOccupation....................\nPhone number........................\nCopy of your passport\n.............\nBest Regards.\nMdherakg Bangla"
+    },
+    {
+        "from": "baiter_1584",
+        "to": "scammer_1584",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Good Day,",
+        "body": "Hello Mdherakg Bangla,\n\nThank you for reaching out to me. I hope you're doing well. I have a few questions regarding the transfer of money and the use of an ATM Visa card.\n\n1. Can you please provide more details about the source of this money? You mentioned it was taken by an old politician, but I would like to understand the legalities and origins of these funds.\n\n2. How much money are we talking about here? It would be helpful to know the approximate amount before proceeding further.\n\n3. Is there any specific reason why you want to transfer this money to my country? Are there any legal implications or restrictions that I should be aware of?\n\n4. Could you explain how the process of obtaining and using the ATM Visa card works? What are the fees involved, if any?\n\n5. Lastly, can you clarify what percentage of the money I would be entitled to keep for myself?\n\nI appreciate your time in answering these questions. Once I have a better understanding of the situation, we can discuss further steps.\n\nBest wishes,\nPhyllis"
+    }
+]

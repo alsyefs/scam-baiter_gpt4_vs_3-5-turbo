@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2044",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello dear,",
+        "body": "Hello dear,\nDid you get my last email about a profitable idea of $ 9 Million USD?\nWe will share 50% each, please reply if you are interested to know more details.\nThanks,\nPeggy Chan."
+    },
+    {
+        "from": "baiter_2044",
+        "to": "scammer_2044",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello dear,",
+        "body": "Hello Peggy,\n\nThank you for reaching out to me. I'm intrigued by your proposal and would love to hear more about this profitable idea. Could you please provide more details?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJames"
+    }
+]

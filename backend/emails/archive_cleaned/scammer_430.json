@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_430",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Citibank, 1107 Broadway Bra",
+        "body": "   Citibank, 1107 Broadway Branch\nFull Service Brick and Mortar Office\n1107 Broadway\nNew York, NY 10010\nSIR\nGood morning and congratulations all the people that have been scammed by\nthe Nigeria government  the Citi Bank have set a panel to compensate them\nand your name has been included as one of the beneficiary we are waiting\nfor your quick respond.\nRobert Baker\nAccount Officer   "
+    },
+    {
+        "from": "baiter_430",
+        "to": "scammer_430",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    Citibank, 1107 Broadway Bra",
+        "body": "Hello Robert Baker,\n\nThank you for reaching out to me. I appreciate the information you have shared about Citibank's initiative to compensate those who have been scammed by the Nigeria government. It's good to know that steps are being taken to address such issues.\n\nCould you please provide me with more details about this compensation program? How does it work and what is the process for claiming it? I want to make sure I have all the necessary information before proceeding.\n\nAlso, could you clarify how my name got included in this program? I don't recall reporting any scam or contacting Citibank regarding this matter. It would be helpful to understand how my name came up.\n\nThank you once again for bringing this to my attention. I look forward to hearing back from you with more information.\n\nBest wishes,\nPaul"
+    }
+]

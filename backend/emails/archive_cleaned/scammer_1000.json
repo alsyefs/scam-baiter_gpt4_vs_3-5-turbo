@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1000",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  ATTN! DEAR! YOUR ATM CARD,",
+        "body": "  ATTN! DEAR! YOUR ATM CARD,\nContact this my email address: (\nharryalexx01@gmail.com\n)\nYour ATM Card of $14.7 million USD has been approved and was deposited with FedEx delivery company this morning for registration, and we agreed up that the delivery of Your $14.7 Million USD ATM Package will take off tomorrow morning .So contact with your full\ninfo where your ATM card will be delivered to,\n(1) Full name---------\n(2) Mobile Number:--------------\n(3) Direct telephone number------\n(4) Country of origin:--------\n(5) Your Current delivery address:----\n(6) Occupation/ age/ sex-----\n(7) City -------------------\nContact this my email address: (\nharryalexx01@gmail.com\n)\nUrgently get back to us today with your full address where your ATM card will be delivered to because i will not be in the office next week: The amount in your Card is US$14.7Million and your Pin code is: (6818).\nRegards,\nMr Harry Alex\nFrom FedEx courier delivery company\nUSA.\nContact this my email address: (\nharryalexx01@gmail.com\n)\nContact name: Mr, Harry Alex\n "
+    },
+    {
+        "from": "baiter_1000",
+        "to": "scammer_1000",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   ATTN! DEAR! YOUR ATM CARD,",
+        "body": "Hello Mr. Harry Alex,\n\nWow, this is such exciting news! I can't believe my luck. It's not every day that one hears about an ATM card of a million USD being approved for them. \n\nCould you please tell me more about how this came to be? How was I chosen for this wonderful opportunity? Also, could you provide some details about the delivery process? I'm really curious to know how it works.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nStacey"
+    }
+]

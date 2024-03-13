@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_890",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Beneficiary,",
+        "body": "  Dear Beneficiary,\nHow are you today?\nPlease bear with us for making this initial contact through email, it\nis due to the urgency of this notification, since we are unable to\nreach your telephone line and to officially bring to your notice about\nyour payment file in which you are listed as a beneficiary to the\nUnited Nations Compensation Program. This Compensation Program is an\norganized Season program for victims of war, earthquakes, hurricane,\nfire disaster, internet scams, elderly ones, families of victims of\nCOVID-19 and fund payments delayed.\nA total sum of $3.8.Million United States Dollars only has been\napproved to you for compensation payment which will be released to you\nvia ATM CARD to avoid paying excess charges through bank transfer. You\nare strongly advised not to go through anybody or office for your fund\npayment but through this organization/commission that has been given\nthe authority and legal power for your fund payment through an ATM\nCARD.\nBe informed that as soon as the payment verification is completed, a\ntracking number will be sent to you to enable you to know the exact\ntime your ATM CARD Parcel including the vital documents backing up\nyour payment will be delivered to your contact address.\n1. Your Full Name.....\n2. Your Address where you would like to receive your ATM CARD:..........\n3. Occupation:...........\n4. Contact Telephone Number............\n5. Age..............\n6. Nationality/Country...........\nCongratulations\nMr. MARK ROBINSON\nFor United Nations Compensation Payment Unit.   "
+    },
+    {
+        "from": "baiter_890",
+        "to": "scammer_890",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Beneficiary,",
+        "body": "Hello Mr. Mark Robinson,\n\nI hope this message finds you well. I must say, your email has certainly piqued my interest! The United Nations Program sounds like a wonderful initiative, and it's heartening to know that there are efforts being made to help victims of various unfortunate circumstances.\n\nCould you please provide more details about this program? How does it work exactly? And how was I selected for this?\n\nAlso, the idea of receiving funds through an ATM card is quite intriguing. Could you elaborate on how that process works? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nVirginia"
+    }
+]

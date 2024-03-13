@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_410",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  270 Park Avenue,",
+        "body": "  270 Park Avenue,\nNew York, NY 10172\nFebruary 8th, 2024\nDear  \n \nWe would like to provide professional guidance and valuable advice regarding the handling of your inheritance fund valued at $5,000,000.00. This fund is currently in our possession and is set to be credited to your local bank account following the required clearance process with the Proof of Fund Origin from the US Treasury Department, as initially requested upon the arrival of your fund at our bank head office. It is crucial to emphasize that time is of the essence in this matter.\n \nThe urgency of your situation is highlighted by the time constraints set as financial law. Further delays in the resolution of this process may not be accommodated. Therefore, we professionally advise you to do everything within your means to expedite the resolution of this matter before it becomes too late.\n \nPlease understand that further reluctance or delay on your part could potentially lead to complications, putting your reputation and freedom at risk. We encourage you to prioritize the swift resolution of this issue to avoid any further complications.\n \nIf you require any assistance or guidance during this process, feel free to reach out. Your prompt attention to this matter is crucial for a successful and smooth resolution.\n \nSincerely,\n \nMr Jeremy Barnum\nChief Financial Officer\nJP Morgan Chase Headquarters - Inter Bank Department\n270 Park Avenue, New York, NY 10172. United States\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nThis message, and any attachments, is for the intended recipient(s) only, may contain information that is privileged, confidential and/or proprietary and subject to important terms and conditions. If you are not the intended recipient, please delete this message.   "
+    },
+    {
+        "from": "baiter_410",
+        "to": "scammer_410",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   270 Park Avenue,",
+        "body": "Dear Mr. Jeremy Barnum,\n\nThank you for reaching out to me regarding the handling of my fund. I appreciate your guidance and valuable advice. Could you please provide me with more details about the clearance process with the Proof of Fund Origin from the US Treasury? I want to make sure I understand everything correctly.\n\nYou mentioned that time is of the essence in this matter. Can you explain why there is such urgency? I want to ensure that I take the necessary steps promptly, but it would be helpful to have a better understanding of the situation.\n\nAdditionally, you mentioned that further delays could put my reputation and freedom at risk. Could you elaborate on how this could happen? It's important for me to fully comprehend the potential consequences.\n\nThank you for offering your assistance and guidance during this process. I may need some clarification along the way, so it's reassuring to know that I can reach out to you.\n\nLooking forward to your response.\n\nBest wishes,\nPeter"
+    }
+]

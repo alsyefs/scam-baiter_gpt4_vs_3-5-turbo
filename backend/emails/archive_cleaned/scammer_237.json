@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_237",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "State Treasury Law Firm is a f",
+        "body": "State Treasury Law Firm is a full-service global law firm. We provide insight at the point where law, business, and government meet, giving you a voice, supporting your ambitions, and achieving successful outcomes. Our multidisciplinary team of over 1,500 lawyers in 45 offices across 20 countries provides unrivaled access to expertise and invaluable connections on the ground."
+    },
+    {
+        "from": "baiter_237",
+        "to": "scammer_237",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: State Treasury Law Firm is a f",
+        "body": "Hello there,\n\nThank you for sharing this information about the State Treasury Law Firm. It sounds like a very comprehensive and global service. I'm intrigued by the scope of your operations, spanning across numerous countries with such a large team of lawyers.\n\nCould you please tell me more about the kind of legal services you provide? And how does your firm ensure that it provides valuable on-the-ground expertise in so many different regions?\n\nLooking forward to hearing more from you.\n\nBest wishes,\nGale"
+    }
+]

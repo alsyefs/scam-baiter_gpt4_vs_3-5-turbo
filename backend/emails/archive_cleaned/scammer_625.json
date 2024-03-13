@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_625",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello good friend,",
+        "body": "Hello good friend,\nGood day and how are you today? I hope all is well with you and your family? I am using this opportunity to inform you that the multi million-dollar business that we both are working on before has been finally concluded with the assistance of another partner from Iceland who financed the transaction to a logical conclusion. The fund wasn't transferred into your account due to one reason or the other. And for my kind gesture I have left an ATM Card for you worth $3,750.000 USD ( three Million Seven Hundred Fifty Thousand United States Dollars Only) To show my appreciation for your pass assistance. I must confess, you are truly a humble and a sincere person.\nHowever, I will gladly appreciate and happier wherever I am to hear that you have received your ATM Card; It will be a great honor to me because you deserve it. and do to my new business establishment with my new partner in Iceland I will be very busy for a very long time. Kindly contact him now Rev David Peters With the below information to enable him to negotiate with the courier company for the delivery of your ATM Card to you,\nContact person: Rev David Peters Email: \ndp5220039@gmail.com\nTherefore\n you should send him your full Name and telephone number/your correct mailing address where you want him to send the ATM card to you\n. This information is what will enable him to deliver the ATM Card to you. as I have left instructions on your behalf.\nThanks for your pass effort and God bless you and your family.\nHoping to hear from you.\nRegards,\nMrs. Precious Mpho"
+    },
+    {
+        "from": "baiter_625",
+        "to": "scammer_625",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello good friend,",
+        "body": "Hello Mrs. Precious Mpho,\n\nThank you for reaching out to me. I hope you are doing well too. I must say, your message has caught my attention. It sounds like there have been some developments in our previous business venture. Could you please provide me with more details about this new partner from Iceland who assisted in concluding the business? How did you come across this person and why did they decide to finance the project?\n\nI am also curious about the ATM card that you mentioned. Could you explain how it works and what steps need to be taken for me to receive it? Is there any cost involved in the delivery process? I just want to make sure everything is clear before proceeding.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSabrina"
+    },
+    {
+        "from": "scammer_625",
+        "to": "baiter_625",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Hello good friend,",
+        "body": "Listen to me follow instructions and get back to me.\r\n\r\nOn Friday 9 February 2024, Sabrina <pv31434@***.com> wrote:\r\n>\r\n>\r\n>\r\n> Hello Mrs. Precious Mpho,\r\n>\r\n> Thank you for reaching out to me. I hope you are doing well too. I must\r\nsay, your message has caught my attention. It sounds like there have been\r\nsome developments in our previous business venture. Could you please\r\nprovide me with more details about this new partner from Iceland who\r\nassisted in concluding the business? How did you come across this person\r\nand why did they decide to finance the project?\r\n>\r\n> I am also curious about the ATM card that you mentioned. Could you\r\nexplain how it works and what steps need to be taken for me to receive it?\r\nIs there any cost involved in the delivery process? I just want to make\r\nsure everything is clear before proceeding.\r\n>\r\n> Looking forward to hearing from you soon.\r\n>\r\n> Best wishes,\r\n> Sabrina\r\n>\r\n>\r\n>\r\n>\r\n>"
+    },
+    {
+        "from": "baiter_625",
+        "to": "scammer_625",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00016203703703703703,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Hello good friend,",
+        "body": "Hello there! Thank you for reaching out to me. I'm interested in learning more about this new partner from Iceland who helped conclude the business. How did you come across this person and what made them decide to finance the project? It would be great if you could provide me with some additional details.\n\nAlso, I'd like to understand how this whole process works and what steps need to be taken for me to receive whatever it is you're referring to. Could you please explain that to me? Additionally, I just want to clarify if there are any costs involved in the delivery process. It's always good to have a clear understanding of everything before moving forward. Looking forward to your response!\n\nBest wishes,\nSabrina"
+    }
+]

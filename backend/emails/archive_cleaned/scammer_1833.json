@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1833",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "we have change our communicati",
+        "body": "we have change our communication Email Address to this new address\nsgb-austria@socgen-at.com"
+    },
+    {
+        "from": "baiter_1833",
+        "to": "scammer_1833",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: we have change our communicati",
+        "body": "Hello there,\n\nThank you for letting me know about the change in your email address. I appreciate your effort to keep me updated. May I ask why the change was necessary? Also, will this new email address be used for all future communications?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nWilliam"
+    }
+]

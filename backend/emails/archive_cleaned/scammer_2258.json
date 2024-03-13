@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2258",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings.",
+        "body": "Greetings.\nI am Mrs. Rula Ghani,I am contacting you based on my personal interest to develop a mutual business relationship with you in your country or your company. which I believe we could mutually benefit from, The amount involved is $22,000,000.00 USD only which i want to invest.\nPlease reply urgently for more details.\nRegards,\nMrs. Rula Ghani"
+    },
+    {
+        "from": "baiter_2258",
+        "to": "scammer_2258",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings.",
+        "body": "Hello Mrs. Rula Ghani,\n\nThank you for reaching out to me. I'm intrigued by your proposal and would love to hear more about this mutual business opportunity. Could you please provide more details about the nature of the investment? What kind of business are we talking about here?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDavid"
+    }
+]

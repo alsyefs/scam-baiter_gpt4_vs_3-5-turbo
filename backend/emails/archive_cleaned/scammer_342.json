@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_342",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "This is the last message we wi",
+        "body": "This is the last message we will be sending you concerning your money\nthat has been sent to you through western union.\nTo access the fund send your details please include your phone number\nfor us to give you the reference number to pick up your first payment\nat any western union location around your country"
+    },
+    {
+        "from": "baiter_342",
+        "to": "scammer_342",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: This is the last message we wi",
+        "body": "Hello there! Thank you for reaching out to me. I appreciate the information about the money that has been sent to me through Western Union. Could you please provide me with more details about this? How much money has been sent and who is the sender?\n\nBest wishes,\nBobby"
+    }
+]

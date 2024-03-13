@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1117",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Good Morning.",
+        "body": "  Good Morning.\nWe are an investment and loan financing group.\nWe fund economically viable projects at 2% interest rate for 1-10 years.\nOur client, a high networth person, also has an investment fund that can be used to finance your new and existing project.\nI can be reached on email and Whatsapp: +97155 647 4204.\nContact us for more details.\nRegards,\nMA\nFinancial Consultant\nWhatsapp me: +97155 647 4204   "
+    },
+    {
+        "from": "baiter_1117",
+        "to": "scammer_1117",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Good Morning.",
+        "body": "Good morning! Thank you for reaching out. I'm interested in learning more about the investment and loan financing options your group offers. Can you provide more details on the types of projects you typically fund and the process for applying for financing?\n\nBest wishes,\nRobert"
+    },
+    {
+        "from": "scammer_1117",
+        "to": "baiter_1117",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Good Morning.",
+        "body": "Thank you for the email message..\r\n\r\nWe are providing Loan/Investment funds to Companies and Individuals with \r\nprofitable projects in any area of specialization at a low interest rate \r\nof between 2% - 3.5% PA for a duration of 1 to 10 years plus a 12-24 \r\nmonths grace period depending on the project type and region you are \r\nlocated.\r\n\r\nWe have two options for loans as stated below:\r\n\r\nSecured Loan\r\nLoan criteria features are as stated below:\r\n\r\n* Placement Opens to: Entrepreneurs and Corporations worldwide.\r\n\r\n* Region: Anywhere in the world\r\n\r\n* Min Loan Amount approx: 1,000,000.00 USD/EURO\r\n\r\n* Max Loan Amount: 10 Billion USD/EURO\r\n\r\n* Terms: 1 to 10 year's Renewable tenure with option of early repayment\r\n\r\n* Repayment: Yearly\r\n\r\n* Grace period: 1 year\r\n\r\n* Interest: 2% per year (Fixed)\r\n\r\nThe Loan is offered with a low interest rate and will be secured by a \r\nCollateral which the Borrower shall pledge to stand as security against \r\nrisk of loss by the Lender.\r\n\r\nUnsecured Loan\r\nLoan criteria features are as stated below:\r\n\r\n* Placement Opens to: Entrepreneurs, Corporations and Lenders\r\n\r\n* Region: Anywhere in the world\r\n\r\n* Min Loan Amount approx: 50,00.00 USD/EURO\r\n\r\n* Max Loan Amount: 2 Billion USD/EURO\r\n\r\n* Terms: 1 to 5 year's Renewable tenure with option of early repayment\r\n\r\n* Repayment: Yearly\r\n\r\n* Grace period: 1 year\r\n\r\n* Interest: 2.5% per year (Fixed)\r\n\r\nLender in collaboration with Banker shall appoint representatives who \r\nwill be inspecting the Business/Project funded in time bases every six \r\nCalendar (6 Months) twice annually pending when the Borrower finished \r\nthe repayment Plan of the Loan.\r\n\r\nTo proceed on either way, we need the attached application form \r\ncompleted and the documents requested below provided.\r\n\r\n1. Your full name and address\r\n2. Company name and address/ company registration documents\r\n3. Contact Telephone Number, mobile and Fax\r\n4. Current work position\r\n5. International passport / driver license\r\n6. Project Summary\r\n7. Formal loan request letter on your company letter headed paper\r\n\r\nAbove is basically the available loan options.\r\n\r\nSincerely\r\nDr. Mohammed AL-Kuwari\r\nGulf Pacific Investment and Loans Limited\r\nWebsite:https://www.gulfpacific-group.com\r\nEmail: Office email: info@gulfbusinesserviceslimited.com"
+    },
+    {
+        "from": "baiter_1117",
+        "to": "scammer_1117",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.023113425925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Good Morning.",
+        "body": "Thank you for sharing the information about the Loan Investment funds offered by Gulf Pacific Investment and Loans Limited. It's interesting to learn about the different options available for both Secured and Unsecured loans.\n\nCould you provide more details on how the collateral works for the Secured Loan option? How is the value of the collateral determined, and what are some examples of acceptable collateral?\n\nAdditionally, I'm curious about the inspection process mentioned for Business Projects funded with the loan. How does that inspection work, and what criteria are used to assess the progress of the project?\n\nLooking forward to hearing back from you with more information.\n\nBest wishes,\nRobert"
+    }
+]

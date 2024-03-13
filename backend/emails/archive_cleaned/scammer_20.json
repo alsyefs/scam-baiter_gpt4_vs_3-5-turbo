@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_20",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  From The Office of The Presi",
+        "body": "  From The Office of The Presidency:\nAhmed Bola Tinubu\nPresident Federal Republic of Nigeria.\nTell: +234-901-535-5647                                  \n                                                               URGENT ATTENTION FOR YOUR PAYMENT\nAttention The Fund Beneficiary,\n \nI decided to contact you by myself based on the Financial Security report reaching my office this week after the mandatory notice given to the Central Bank of Nigeria (CBN) to pay all Federal Government of Nigeria outstanding debt to all foreign and local contract/inheritance beneficiaries on or before the end of this Month.\n \nThe Financial Security report reaching my office from the Central Bank of Nigeria (CBN) this morning was that the bank has been trying all their possible best since last week to contact you and to confirm how you wish to receive your approved and processed payment sum of $10.5Million but all to no avail.\n \nI am contacting you directly from my office because i approved your payment and issued a mandatory payment notice to the Central Bank of Nigeria (CBN) to release your outstanding overdue contract/inheritance payment sum of Ten Million, Five Hundred Thousand United States of America Dollars ($10,500,000.00) before the end of this month, based on my promise to the world leaders and international community during my Presidential Election Campaign.\n \nMy Government Administration want to make sure that all Foreign and Local fund beneficiaries receive all their outstanding payment base on my earlier promise and assurance to the United Nation (UN) and the world leaders during our last submit this year in New York and your approved payment sum of $10.5Million has been processed by the Central Bank of Nigeria (CBN) and have been programmed into the paying bank Central Control Swift Wire Transfer System ready for onward remittance into your receiving bank account as the legitimate beneficiary of the $10.5Million, so in order for you to receive your fund now that your payment file is on my table for final payment, you are advice to re-confirm your receiving bank account details including your direct telephone number and call me on my direct telephone number below any time and i will take your call because of the limited time giving to finalize your payment.\n \nNow that my government has approved funds from our Federal Oil Reserved Account to pay all abandoned payments to the fund beneficiaries, I want to assure you that the Central Bank of Nigeria will release your payment to you as soon as I hear from you.\n \nLooking forward to hearing from you.\n \nRegards,\n \nPresident Ahmed Bola Tinubu,\nCommander-in-chief\nPresident Federal Republic of Nigeria.   "
+    },
+    {
+        "from": "baiter_20",
+        "to": "scammer_20",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   From The Office of The Presi",
+        "body": "Dear President Ahmed Bola Tinubu,\n\nThank you for reaching out to me regarding the financial security report and the release of my approved payment. I appreciate your personal involvement in ensuring that all foreign and local funds are received by their rightful recipients.\n\nI understand that the Central Bank of Nigeria has been trying to contact me, but I apologize if I have missed any communication from them. Could you please provide more details about the process of receiving my payment? How should I proceed to ensure a smooth transaction?\n\nAdditionally, I would like to know more about the Federal Oil Reserved Account and how it is being utilized to pay all abandoned payments. It's interesting to hear about these initiatives taken by your government.\n\nLooking forward to your response.\n\nBest wishes,\nLucy"
+    }
+]

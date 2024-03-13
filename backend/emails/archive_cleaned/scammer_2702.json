@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2702",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good day  to you I have receiv",
+        "body": "Good day  to you I have received your mail so I want you to try and\nthe fee today so that I will receive your funds i am sorry for that\nbut your funds is here so try and \nsend the fee of $55 today\n so that\nyou will pick up your first payment of $5000 as soon as you send the\nmoney to western union .\nReceiver's name;;;;JOSEPH  EMEGINIC\nCountry::::::Benin Republic\nCity::::::::Cotonou\nSender’s Name::::::::\nSender’s country::::::\nAmount: $55\nMTCN:\nDo have a wonderful day if you are alive but if you are dead may you\nsoul rest in peace (AMEN)\nsend us the MTCN number immediately you send the money and immediately\nwe confirm the transfer fee we will send you the first receipt of your\n$5000:00 today and not tomorrow The reason why am sending you this\nbecause I want you to receive your USD $4.8M immediately we are trying\nto round up for this payment program\nWith best\nRegards,\nMrs Zainab Shamsuna,\nEmail (\nZainabShamsuna04@outlook.com\n)\nPhone +2348036280224"
+    },
+    {
+        "from": "baiter_2702",
+        "to": "scammer_2702",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Good day  to you I have receiv",
+        "body": "Hello Mrs. Zainab Shamsuna,\n\nThank you for your email and the information provided. I hope you're having a wonderful day too! \n\nI'm curious about this process, could you please explain more about it? What is the purpose of this fee and how does it relate to receiving my funds? Also, could you provide more details about this payment program?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDonald"
+    }
+]

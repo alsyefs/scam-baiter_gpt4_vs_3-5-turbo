@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2466",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello,",
+        "body": "  Hello,\n \nI represent a high net-worth investor who is willing to finance your area of ​​experience with assured financial backup as a direct investment loan, for your business expansion and development.\n \nFurther details will be made available to you when you show interest by sending your response to my direct email: \nceom62953@gmail.com\n \nThank you.\n \nBest Regards,\n \nDavid Dokholyan   "
+    },
+    {
+        "from": "baiter_2466",
+        "to": "scammer_2466",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello,",
+        "body": "Hello David,\n\nThank you for reaching out and considering me for this opportunity. It's quite intriguing to hear about a high investor interested in my area of expertise. Could you please provide more details about the nature of this investment? What kind of business expansion are we talking about here?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nPeggy"
+    }
+]

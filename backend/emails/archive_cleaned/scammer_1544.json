@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1544",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello,",
+        "body": "Hello,\nI represent a high net-worth investor who is willing to finance your area of experience with assured financial backup as a direct investment loan.Further discussions will be compulsory when you show interest.my email id \nmarksmith514@aol.com\nBest Regards\nMark Smith"
+    },
+    {
+        "from": "baiter_1544",
+        "to": "scammer_1544",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello,",
+        "body": "Hello Mark Smith,\n\nThank you for reaching out and considering me for this opportunity. It's great to hear that your investor is interested in my area of expertise. Could you please provide more details about the investment? What kind of projects are they interested in? And what would be the expected role on my part?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMaurice"
+    }
+]

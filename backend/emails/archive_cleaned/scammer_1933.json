@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1933",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello xxx,",
+        "body": "Hello xxx,\n    I am very sorry I have to reach you through this medium. I am a member of the debt reconvene (debt collection experts) and I am aware of your ordeal about your unpaid fund.\n    It may interest you to know that not long after the Debt Management Office (DMO) completed the merger and acquisition process of all pending payments occasioned through the petition raised by the international community about their unpaid funds. I discovered that their boss connived with some top officials to divert funds approve to settle unpaid inheritances, email lottery winners, Internet scam victims, unclaimed consignments (concealed funds), and International Contractors.\n     The DMO has already given the approval to pay your fund but they deliberately withheld your payment file and continue to demand fees from you through their associates from different unassigned affiliates mostly from Africa, the US, Spain, and the Netherlands all in trying to frustrate you into giving up on it so they can finally enrich themselves. I wonder why you haven't noticed all this while.\n    You may choose to disbelieve this email as inconceivable but my doctrine does not let such an act, the reason I have to open up to you is to seek the right channel. DMO was authorized to release your fund via their asset management firm with claim code numbers, supposedly to have been issued to you.\n    Upon your response, I shall guide you through and offer you details to contact the assigned affiliate who will immediately ease the release of your fund.\nThanks and have a wonderful day.\nBe Safe.\nYours Faithfully,\nAdmin Staff."
+    },
+    {
+        "from": "baiter_1933",
+        "to": "scammer_1933",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello xxx,",
+        "body": "Hello there,\n\nThank you for reaching out and sharing this information. It's quite surprising to hear about these developments. I must admit, it's a bit hard to believe, but I'm open to understanding more about the situation.\n\nCould you please provide more details about the process of releasing the funds? And what exactly are these claim code numbers you mentioned?\n\nLooking forward to your response.\n\nStay safe and have a great day!\n\nBest wishes,\nMartina"
+    }
+]

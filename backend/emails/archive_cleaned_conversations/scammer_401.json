@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_401",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention: Grant Beneficiary,",
+        "body": "Attention: Grant Beneficiary,\nQUALIFICATION NUMBER\nCCF/774/2024/1470 \n                                                                  CASHAID PROJECT\nCongratulations on your selection as one of the beneficiaries of the Children Charity Foundation (CCF) first quarter of the year 2024 CashAid Grant in commemoration of this year's anniversary program. Children Charity Foundation is an international foundation with its headquarters in London and branches across Europe and Africa, with a lot of international donors with the sole aim of improving the condition of living of people in and around the world and building a better globe through peoples oriented poverty alleviation programs such as this. \nEvery year a random selection is made on email addresses of a cross section of seminar/conference attendees of interest, internet users etc..; and persons selected are contacted and their funds disbursed to them after due verification of claims.\n \nBe informed that your email address with Qualification Number (CCF/774/2024/1470) as must have been informed in our earlier sent notification mail; falls within our grant category of US$2,740,000 (Two Million, Seven Hundred and Forty Thousand United States Dollars) This being in two facet, with US$1,740,000.00 (One Million Seven Hundred and Forty Thousand US Dollars) being earmarked for you to do charity works in assisting poor children in your area (which is the sole aim of establishing this foundation) and the balance $1,000,000.00 USD (One million United States Dollars) being in your personal grant for your personal business development. The foundation will after releasing the money to you send across its monitoring team to monitor how you are utilizing the grant in achieving the major aim of the release of the grant to you.\n \nYou are by this mail kindly requested to fill/complete the Grant Payment Scheme Voucher Form (GPSV) attached to this email in PDF format to aid in the processing of your grant release.\n \nPlease do fill and return these Required GPSV form in your next email. You are to download the form and fill in correctly the requested information's after which you will have to scan the form or get a clear snap shot of it and send back to us for confirmation. Do feel free to ask in question should there be any gray areas that you are not too clear with.\nUpon receipt of your filled GPSV form, we shall commence with the processing of your grant.\n \nNote: We advice that you keep your Qualification Number out of reach of any other person, as any double entry of same Qualification Number leads to automatic disqualification of the same. Our advice is based on experiences where Nominee's relations whom have access to their relations Qualification Numbers tend to present same and this in many cases have lead to disqualification.\n \nDo make sure you call me to acknowledge the receipt of this email.\nThank you for your cooperation.\n \nYours Faithfully\nMarvin Hollis\n(Disbursement Officer )\nCCF Grant."
+    },
+    {
+        "from": "baiter_401",
+        "to": "scammer_401",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attention: Grant Beneficiary,",
+        "body": "Hello Marvin Hollis,\n\nWow, this is such an unexpected surprise! I can't believe I've been selected for the Children Charity Foundation grant. It's a wonderful opportunity to help poor children in my area and also improve my personal business.\n\nI'm curious about how you found my email address? Was it from a seminar or conference I attended? Also, could you tell me more about the selection process? How many people usually apply and how many are selected?\n\nRegarding the Grant Payment Scheme Voucher Form GPSV, I'm having trouble downloading it. Could you possibly resend it or guide me through the process?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMyrna"
+    },
+    {
+        "from": "scammer_401",
+        "to": "baiter_401",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Attention: Grant Beneficiary,",
+        "body": "Attention: Grant Beneficiary, \nQUALIFICATION NUMBER \nCCF/774/2024/1470 \n                                          CASHAID PROJECT \n \nAttention, Myrna \nKindly read carefully through the first Winning email notification that was sent to you, You will understand how you were selected for this grant, \nEvery year a random selection is made on email addresses of a cross section of seminar/conference attendees of interest, internet users etc..; and persons selected are contacted and their funds disbursed to them after due verification of claims. \nIt is for the good of children around your neigbourhood and you have been selected to carry out this obligation if you desire to do so. \nUpon receipt of your filled GPSV form, we shall commence with the processing of your grant. \nKindly download the GPSV form and print it out then hand fill the required informations and send it back to us for verifications. \nYours Faithfully \nMarvin Hollis \n(Disbursement Officer) \nCCF Grant \n \n \n \n Sent: Thursday, February 08, 2024 at 7:39 PM From: \"Myrna\" <zp74559@***.com> To: childrencharityfoundation@consultant.com Subject: Re: Attention: Grant Beneficiary, \n \nHello Marvin Hollis, \nWow, this is such an unexpected surprise! I can't believe I've been selected for the Children Charity Foundation grant. It's a wonderful opportunity to help poor children in my area and also improve my personal business. \nI'm curious about how you found my email address? Was it from a seminar or conference I attended? Also, could you tell me more about the selection process? How many people usually apply and how many are selected? \nRegarding the Grant Payment Scheme Voucher Form GPSV, I'm having trouble downloading it. Could you possibly resend it or guide me through the process? \nLooking forward to hearing from you soon.\nBest wishes, \nMyrna"
+    },
+    {
+        "from": "baiter_401",
+        "to": "scammer_401",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2840509259259259,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Attention: Grant Beneficiary,",
+        "body": "Hello Myrna,\n\nThank you for your prompt response and interest in our grant program. We are glad to hear about your enthusiasm towards helping children in your area.\n\nTo answer your questions, we gather email addresses from various sources including seminars, conferences, and other public forums. The selection process is completely random and unbiased. Every year, thousands of people apply for this grant but only a handful are selected.\n\nAs for the Grant Payment Scheme Voucher Form (GPSV), I apologize for any inconvenience you might have faced. I will resend the form to you shortly. Once you receive it, please print it out and fill in the required details manually. After that, scan the filled form and send it back to us via email.\n\nI hope this information helps! If you have any more questions or need further assistance, feel free to ask.\n\nBest wishes,\nMyrna"
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "from": "scammer_464",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear",
+        "body": "  Dear\n \nBelow is fiduciary account to transfer US$ 11,500.\nWe are using below fiduciary account to receive payments because of sanctions.\n \nBank Name: Industrial And Commercial Bank Of China (Asia) Limited.\nAddress: 33/F ICBC Tower, 3 Garden Road, Central, Hong Kong\nAccount Name: H. K. B.\nAccount Number: 95450600XXXX\nSwift Code: UBHKHKHHXXX\n \n \nAfter making the transfer send us the transfer slip for our confirmation.\n \nRegards\nBakaev A. Marsovich\n \n \n--\nContractorg Oil   "
+    },
+    {
+        "from": "baiter_464",
+        "to": "scammer_464",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear",
+        "body": "Dear Bakaev A. Marsovich,\n\nThank you for reaching out to me. I appreciate you sharing this information with me. Could you please provide me with more details about the fiduciary account? I would like to understand how it works and what the process is for making a transfer.\n\nAdditionally, could you clarify what you mean by \"sanctions\"? I want to make sure I have a clear understanding of the situation.\n\nThank you again for sharing this information with me. I look forward to hearing back from you.\n\nBest wishes,\nJon"
+    },
+    {
+        "from": "scammer_464",
+        "to": "baiter_464",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear",
+        "body": "Dear Jon\n \nFiduciary account is bank account the refinery uses to receive payments outside seller country, money transfer is same normal way of transfering money with MT103 telegrafic transfer.\nSanction is if seller country or bank is under sanction, the seller provides bank account outside seller country to receive payment.\nRegards\nBakaev A. Marsovich\n \n--\nContractorg Oil\n    \n \n \n--\nContractorg Oil"
+    },
+    {
+        "from": "baiter_464",
+        "to": "scammer_464",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0005555555555555556,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear",
+        "body": "Dear Bakaev A. Marsovich,\n\nThank you for reaching out and providing me with this information about fiduciary accounts and money transfers. It's interesting to learn about the different methods used in the oil industry.\n\nI have a few follow-up questions, if you don't mind. How common is it for refineries to use fiduciary accounts? Are there any specific advantages or disadvantages to using this type of account?\n\nAdditionally, could you please explain more about sanctions and how they affect the payment process? What happens if a seller country or bank is under sanction?\n\nThank you again for sharing your knowledge on this topic.\n\nBest wishes,\nJon"
+    },
+    {
+        "from": "scammer_464",
+        "to": "baiter_464",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.009363425925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Dear",
+        "body": "Dear Jon\n \nRefineries uses fiduciary accounts and there is no disadvantage once the account is officially issued in the refinery invoice.\nCountries under international sanctions can’t receive payment from the countries that sanctioned them and in such case the seller provides fiduciary account outside seller country for product payment.\nRegards\nBakaev A. Marsovich\n \n--\nContractorg Oil"
+    },
+    {
+        "from": "baiter_464",
+        "to": "scammer_464",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00980324074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Dear",
+        "body": "Dear Bakaev A. Marsovich,\n\nThank you for reaching out and sharing this information about refineries and fiduciary accounts. I find it quite interesting. Could you please explain a bit more about how these fiduciary accounts work? How are they different from regular bank accounts?\n\nAlso, you mentioned that countries under sanctions can receive payment through these accounts. That's intriguing. Are there any specific regulations or procedures in place for such transactions? I'm curious to know more about how this process works.\n\nThank you again for sharing your knowledge on this topic!\n\nBest wishes,\nJon"
+    },
+    {
+        "from": "scammer_464",
+        "to": "baiter_464",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.0688310185185186,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Dear",
+        "body": "Dear Jon\n \nWe don’t have to spend time on this, there is nothing more to explain.\nIf we receive your ICPO, the refinery will issue contract with account to receive payment.\nPayment transfer is same as is done everywhere.\nRegards\nBakaev A. Marsovich\n \n--\nContractorg Oil"
+    },
+    {
+        "from": "baiter_464",
+        "to": "scammer_464",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.408645833333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Dear",
+        "body": "Dear Bakaev A. Marsovich,\n\nThank you for reaching out to me. I appreciate your willingness to share information. Can you please provide more details about the ICPO and the contract? I want to make sure I understand the process correctly.\n\nAlso, could you explain what you mean by \"payment transfer is same as is done\"? I want to ensure that everything is clear before proceeding.\n\nBest wishes,\nJon"
+    },
+    {
+        "from": "baiter_464",
+        "to": "scammer_464",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.0134490740740745,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Dear",
+        "body": "Dear Bakaev A. Marsovich,\n\nThank you for reaching out to me. I appreciate your response, but I would like to understand more about the process before proceeding. Could you please explain what an ICPO is and how it relates to the contract and payment transfer? I want to make sure I have a clear understanding of the steps involved.\n\nBest wishes,\nJon"
+    },
+    {
+        "from": "scammer_464",
+        "to": "baiter_464",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.0406712962962965,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Dear",
+        "body": "Dear Jon\n \nICPO full meaning is Irrevocable Corporate Purchase Order.\nCheck attached guide line to address ICPO.\nRegards\nBakaev A. Marsovich\n \n--\nContractorg Oil"
+    },
+    {
+        "from": "baiter_464",
+        "to": "scammer_464",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.055,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Dear",
+        "body": "Dear Bakaev A. Marsovich,\n\nThank you for sharing this information about ICPO and its full meaning, which is Corporate Purchase Order. I appreciate your willingness to provide guidance on how to address ICPOs.\n\nCould you please tell me more about the purpose of an ICPO? How does it differ from a regular purchase order? Are there any specific industries or sectors where ICPOs are commonly used?\n\nThank you again for your help!\n\nBest wishes,\nJon"
+    },
+    {
+        "from": "scammer_464",
+        "to": "baiter_464",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.070405092592592,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Dear",
+        "body": "Dear Jon\n \nI am in petroleum products field, what I know is document required to start up petroleum product purchase.\nI don’t have all the time to keep answering questions that is why I sent you the ICPO addressing guide lines, follow the ICPO addressing guide line to address your ICPO.\nRegards\nBakaev A. Marsovich\n \n--\nContractorg Oil"
+    },
+    {
+        "from": "baiter_464",
+        "to": "scammer_464",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.075173611111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Dear",
+        "body": "Dear Bakaev A. Marsovich,\n\nThank you for reaching out to me. I appreciate your willingness to share information about starting up a petroleum product purchase. I understand that you have provided an ICPO addressing guide line, but could you please explain what an ICPO is and how it relates to the document requirements for purchasing petroleum products? I want to make sure I have a clear understanding.\n\nAlso, are there any specific documents or permits that are commonly required in the petroleum products field? It would be helpful to know what kind of paperwork is typically involved in this process.\n\nThank you again for your assistance.\n\nBest wishes,\nJon"
+    },
+    {
+        "from": "scammer_464",
+        "to": "baiter_464",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.018773148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Dear",
+        "body": "Dear Jon\n \nYour questions seems you are not in petroluem products field.\nI don’t lecture people.\nRegards\nBakaev A. Marsovich\n \n--\nContractorg Oil"
+    },
+    {
+        "from": "baiter_464",
+        "to": "scammer_464",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.033912037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: Dear",
+        "body": "Dear Bakaev A. Marsovich,\n\nThank you for reaching out to me. I apologize if my previous question gave the impression that I am not knowledgeable about petroleum products. I assure you, I am genuinely interested in learning more about the field.\n\nCould you please share some information about the different types of petroleum products and their uses? I would love to expand my knowledge on this subject.\n\nBest wishes,\nJon"
+    }
+]

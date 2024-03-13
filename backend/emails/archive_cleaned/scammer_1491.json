@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1491",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello,",
+        "body": "Hello,\nYou are invited for a quote. There are some major works that need to be done and we need your services for an accurate quotation. I would like to know your availability for the month, so i can know when to forward you the details and my address so you can come have a look.\nRegards."
+    },
+    {
+        "from": "baiter_1491",
+        "to": "scammer_1491",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello,",
+        "body": "Hello,\n\nThank you for considering me for your project. I'm always eager to help out where I can! However, before we proceed, could you please provide more details about the nature of the work? This will help me understand better what is required and how I might be able to assist.\n\nAlso, as much as I'd love to visit your location for a more detailed assessment, I'm currently unable to do so due to some personal reasons. But don't worry, we can still discuss everything online or over the phone.\n\nLooking forward to hearing from you soon!\n\nBest regards.\n\nBest wishes,\nRussell"
+    }
+]

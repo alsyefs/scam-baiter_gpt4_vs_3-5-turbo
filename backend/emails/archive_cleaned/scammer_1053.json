@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1053",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  To whom it may concern",
+        "body": "  To whom it may concern\n \nWe received a notice to change your name and account details as the beneficiary of your fund by your Family Attorney Larry D. Jones who informed us that you were sick and died as a result of Cardiac Arrest at the “HEART OF TEXAS MEMORIAL HOSPITAL, Address: 2008 Nine Rd, Brady, TX 76825 United States\n \n As a result of this development, as your family attorney he has the authority to file for a change of name and account details to receive your fund and disburse it to the family members as you have written in the WILL you left in his office.\n \n I decided to write this message to confirm if indeed the attorney Larry D. Jones is truly acting on behalf  of the family .Urgent response is expected within three working days before I will approve his request.\nYour Truly\nIbrahim Gambari\nAuditor & administrative office\nPresidency in coordinating  with\nFederal Ministry of Finance\nLagos-Annex office   "
+    },
+    {
+        "from": "baiter_1053",
+        "to": "scammer_1053",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   To whom it may concern",
+        "body": "Hello Ibrahim Gambari,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I wasn't aware that I had an attorney named Larry D. Jones or that I was reported dead due to Cardiac Arrest. This is news to me!\n\nI'm curious, could you please provide more details about this situation? How did you come across this information and what exactly does the WILL state? \n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nValarie"
+    }
+]

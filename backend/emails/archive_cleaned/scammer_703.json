@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_703",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  dear",
+        "body": "  dear\ni am the chair of efcc in africa both ghana south africa and other\ncountry in africa i was appointed by un to stop fruad and scam in\nafrica and also to monitor activitesof internet from the youth and\ngovernment official we arrested mr kingsley their base in ghana with a\ndraft of four million five hundred\nthousand us dollars deposited allahgi suleiman the deputy governor of\ncentral bank contacted me yestday and he sent me a copy of the draft\nafter much investigation we get information that mr kingsley is a\nfruad that base in ghana and he mention your name that the draft\nbelong to you that why i am contact\nme immediately with your information your full name your address state\nof origin your direct telephone number and your id card be free and\ncontact me to recover your fund\nChairman EFCC.\nMR. IBRAHIM MUSTAFA MAGU\nBelow is my number   "
+    },
+    {
+        "from": "baiter_703",
+        "to": "scammer_703",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   dear",
+        "body": "Hello Mr. Ibrahim Mustafa Magu,\n\nThank you for reaching out to me. I'm surprised to hear about this situation with Mr. Kingsley and the draft of four million five hundred thousand US dollars. I must admit, I don't recall having any dealings with a Mr. Kingsley.\n\nCould you please provide more details about how my name was mentioned in this case? And what exactly is the role of Allahgi Suleiman, the deputy governor of central bank in this matter?\n\nI appreciate your efforts in maintaining internet safety and preventing fraud across Africa.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKevin"
+    }
+]

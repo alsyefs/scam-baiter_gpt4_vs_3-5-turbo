@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_432",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "I Am Mr John Godwin the Intern",
+        "body": "I Am Mr John Godwin the International manager and i was sent from the\nUnited Bank Of America (Citibank) Washington DC to transfer your\n$85,million us dollars to your account bank and right now am ready to\nmake your deposit wire transfer and \ni want you to send text message to\nme now once you received this message and give me all about your bank\ninformation to avoid wrong wire transfer such as\"\nBest Regards John Godwin CEO of Citibank office TEXT OR CALL/ +1 (202)\n703-3700  /\nYour Name....\nYour bank name..\nYour bank details\n...\nYour Address ....\nYour Telephone Number....\nEmail me at ;; \ncitibankofamerica77@gmail.com\nBest Regards John Godwin CEO of Citibank office TEXT OR CALL/ +1 (202)\n703-3700  /"
+    },
+    {
+        "from": "baiter_432",
+        "to": "scammer_432",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: I Am Mr John Godwin the Intern",
+        "body": "Hello Mr. John Godwin,\n\nThank you for reaching out to me. I appreciate your willingness to assist with the transfer of my funds. However, before I provide any personal information, I would like to ask a few questions to ensure everything is in order.\n\n1. Can you please confirm the exact amount of funds that will be transferred to my account?\n\n2. What is the reason for this transfer? Is it related to any specific transaction or investment?\n\n3. Could you provide some additional details about the United Bank Of America Citibank? I want to make sure that everything is legitimate and secure.\n\nOnce I have received satisfactory answers to these questions, I will be more than happy to proceed with providing you the necessary bank details.\n\nLooking forward to your response.\n\nBest wishes,\nPaul"
+    }
+]

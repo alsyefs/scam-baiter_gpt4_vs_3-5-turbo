@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1542",
+        "to": "baiter_1542",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: I am counsel to Late Brad W",
+        "body": "Hello Eric\r\n\r\nRegarding my proposal to you, I have got your email. I look forward to working with you on this business endeavor. To proceed, will require the below information's:.\r\n\r\nYour Full Name:\r\nAddress:\r\nOccupation:\r\nMobile/Tel Number:\r\n\r\nUpon receiving the above details requested, I will prepare an MOU between us and provide you the necessary documents related to this funds which you will present to the bank where the funds is currently deposited representing as the next of kin and be rest assured that all documents required in completing this transaction are currently in my possession and will be forwarded to you in due course.\r\n\r\nKind regard\nMarko Steivic"
+    },
+    {
+        "from": "baiter_1542",
+        "to": "scammer_1542",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: I am counsel to Late Brad W",
+        "body": "Hello Marko,\n\nThank you for your prompt response and the opportunity to work together on this business endeavor. I'm really excited about it! However, I have a few questions before we proceed further.\n\nCould you please provide more details about the nature of this business? What exactly will my role be in this? Also, could you explain a bit more about what an MOU is?\n\nLooking forward to hearing from you soon!\n\nBest regards.\n\nBest wishes,\nEric"
+    },
+    {
+        "from": "scammer_1542",
+        "to": "baiter_1542",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.053495370370371,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: I am counsel to Late Brad W",
+        "body": "Hello Eric\r\n\r\nThank you for your email.\r\n\r\nThis is an inheritance funds which belongs to my late client Mr. Willam who died on auto crash accident and had no Children before his death.\r\n\r\nAs his lawyer, I have contacted you to present yourself to the bank as the next of kin to the the funds as all the relevant documents proving the legality of this funds are currently in my possession and I will require the below details from you in order to proceed.\r\n\r\nYour Full Name:\r\nAddress:\r\nOccupation:\r\nMobile/Tel Number:\r\n\r\nUpon confirmation of above details from you, I will prepare an MOU which we will both sign.\r\n\nKind regards\r\nMarko Steivic"
+    },
+    {
+        "from": "baiter_1542",
+        "to": "scammer_1542",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.061817129629629,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: I am counsel to Late Brad W",
+        "body": "Hello Marko,\n\nThank you for reaching out and sharing this information with me. I'm sorry to hear about the unfortunate demise of Mr. Willam.\n\nI'm curious, how did you find my contact details? And why have you chosen me as the next of kin for Mr. Willam's funds?\n\nLooking forward to your response.\n\nBest wishes,\nEric"
+    }
+]

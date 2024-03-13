@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2559",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  U.S.BANK PAYMENT OFFICE.",
+        "body": "  U.S.BANK PAYMENT OFFICE.\n1025 Connecticut Ave. NW, Ste. 510. Washington, DC 20036 United States\nof America.\nSWIFT (US): USBKUS44XXX\nFounded: United States of America\nHours: Open 24 Hours.Reply to\nPrivate Email:usbankoffice89@gmail.com\nDear customer:\nAfter today's board meeting of the management of this bank, Ministry\nof Finance, Internal Revenue Service of the United States (IRS), The\nReserve Bank and the World Bank Directorate it was gathered that your\noverdue compensation fund worth US$15 Million has been deposited with\nthis bank for onward payment/ transfer to your\ndesignated/choose bank account. the reason for this is because your\nname was among the scam victims that lost a lot of money to African\nand European Fraudsters, you are hereby advised to without delay stop\nall contact going on between you and anybody on internet because you\nwill end up at nothing.Reply to this Private Email:usbankoffice89@gmail.com\nRE-CONFIRM YOUR BELOW DETAILS.\nYour Full Name:\nYour Residential Address:\nYour Sex/ Age:\nOccupation:\nTelephone/Fax:\nNext of Kin:\nThe US bank will immediately remit your account once I reconfirm your\nbanking details.\nYour utmost response is needed to enable us proceed with your payment.\nWe are looking forward to hear from you.\nThanks for choosing US Bank\nYOURS FAITHFULLY\nMR. SMITH JOHN.\nEXECUTIVE REGION MANAGER.\nPRIVATE Email:usbankoffice89@gmail.com   "
+    },
+    {
+        "from": "baiter_2559",
+        "to": "scammer_2559",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   U.S.BANK PAYMENT OFFICE.",
+        "body": "Hello Mr. Smith John,\n\nThank you for reaching out to me. I'm quite surprised to hear about this overdue fund worth US Million. Could you please provide more details about it? How did my name end up on the list of scam victims?\n\nAlso, could you explain why I need to stop all contact with anybody on the internet? That seems a bit extreme.\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nAlphonse"
+    }
+]

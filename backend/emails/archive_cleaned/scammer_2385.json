@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2385",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "CHARITY WORK IN YOUR COMMUNITY",
+        "body": "CHARITY WORK IN YOUR COMMUNITY\nDATE; 1-26-2024\nGreetings,\nThere is a charity project for your community in which you are being invited to take charge of its execution. Although this may be a little outside of your core professional area of expertise, however, it is noteworthy that you are good at strategic planning in finding\nsolutions to issues of importance, making you worthy of the intended partnership in a Charity Project for your community. The amount earmarked for the project is US$15,000,000 and I will furnish you with further information as soon as you respond to this email that you can use funds wisely for charity projects. I wait to hear from you soon\nThanks\nSung Cho"
+    },
+    {
+        "from": "baiter_2385",
+        "to": "scammer_2385",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: CHARITY WORK IN YOUR COMMUNITY",
+        "body": "Hello Sung Cho,\n\nThank you for reaching out to me about the charity project in my community. I appreciate your invitation to take charge of its execution. While I may not have much experience in this area, I am always open to learning and helping out where I can.\n\nCould you please provide me with more details about the project? What is the specific goal or purpose of the charity project? How long will it run for? And how would the funds be allocated?\n\nI want to make sure that if I do get involved, I can contribute effectively and ensure that the funds are used wisely for the intended charitable purposes.\n\nLooking forward to hearing back from you soon.\n\nBest wishes,\nManuel"
+    },
+    {
+        "from": "scammer_2385",
+        "to": "baiter_2385",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: SOURCE OF THE DONATION FUNDS FOR THE CHARITY PROJECT",
+        "body": ""
+    },
+    {
+        "from": "baiter_2385",
+        "to": "scammer_2385",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.8756712962962965,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: SOURCE OF THE DONATION FUNDS FOR THE CHARITY PROJECT",
+        "body": "Hello! How can I help you today?\n\nBest wishes,\nManuel"
+    }
+]

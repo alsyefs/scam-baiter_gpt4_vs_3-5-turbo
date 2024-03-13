@@ -1,0 +1,362 @@
+[
+    {
+        "from": "scammer_805",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "FROM: THE DESK OF:",
+        "body": "FROM: THE DESK OF:\nMR.ROBERT GLEASON\nREMITTANCE DEPARTMENT,\nRESERVE BANK OF NEW YORK,\nUNITED STATES OF AMERICA(USA).\n ATTENTION:BENEFICIARY,\nTHIS IS TO INFORM YOU THAT YOUR OVER, DUE CONTRACT ENTLEMENT SUM OF USD30M WAS DISCUSSED,GAZETTED AND APPROVED FOR PAYMENT TO YOU AT THE G20 SUMMIT MEETING THAT WAS HELD IN INDIA ON THE 10TH OF SEPTEMBER 2023.\nIT WAS FURTHER AGREED THAT DUE TO PROBLEMS IN AFRICA, THAT YOUR FUND CAN NOW BE TRANSFERRED TO YOU BY US.\nWE STROBLY ASSURE YOU THAT WE MUST TRY OUR BEST TO SEE THAT YOUR FUND IS TRANSFERRED TO YOU.\nONCE AGAIN, \nDO FORWARD TO US YOUR FULL NAMES, ADDRESS, PHONE NUMBERS AS WE AS YOUR RECEIVING BANK ACCOUNT WHERE YOU WANT YOUR FUND BE TRANSFERRED INTO.\nREGARDS AND GOD BLESS,\nWAITING FOR YOUR ANSWER .\nMR.ROBERT GLEASON\nREMITTANCE DEPARTMENT,\nRESERVE BANK OF NEW YORK,\nUSA."
+    },
+    {
+        "from": "baiter_805",
+        "to": "scammer_805",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: FROM: THE DESK OF:",
+        "body": "Hello Gleason,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding my overdue contract entitlement sum. It's interesting to hear that the payment was approved at a summit meeting in India.\n\nHowever, before I proceed, I would like to know more about the problems in Africa that you mentioned. Could you please elaborate on what kind of problems are affecting the transfer of funds from Africa? Additionally, could you explain how the Reserve Bank of New York is involved in this process?\n\nI look forward to your response.\n\nBest wishes,\nBillye"
+    },
+    {
+        "from": "scammer_805",
+        "to": "baiter_805",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "FROM: FEDERAL RESERVE BANK(VERY URGENT).",
+        "body": "FROM: THE DESK OF:\r\nMR.ROBERT GLEASON\r\nREMITTANCE DEPARTMENT,\r\nRESERVE BANK OF NEW YORK,\r\nUNITED STATES OF AMERICA(USA).\r\n\r\n ATTENTION:SIR,\r\n\r\nSERIES OF REPORTS CAME FROM FOREIGNERS WITH COMPLAINTS THAT THEY HAVE PAID\r\nMONIES MANY TIMES AND HAVE NOT RECEIVED THEIR FUNDS AND THAT WAS WHY THE\r\nUNITED NATIONS WITH WORLD BANK HAVE ORDERED THAT FUNDS NOW SHOULD BE PAID\r\nTO BENEFICIARIES THROUGH FEDERAL RESERVE BANK OF NEW YORK.\r\n\r\nWE THEREFORE  FORWARD TO US YOUR FULL NAMES, ADDRESS, PHONE NUMBERS AS WE\r\nAS YOUR RECEIVING BANK ACCOUNT WHERE YOU WANT YOUR FUND BE TRANSFERRED INTO.\r\n\r\nREGARDS AND GOD BLESS,\r\n\r\nMR.ROBERT GLEASON\r\nREMITTANCE DEPARTMENT,\nRESERVE BANK OF NEW YORK,\r\nUSA."
+    },
+    {
+        "from": "baiter_805",
+        "to": "scammer_805",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.13221064814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: FROM: FEDERAL RESERVE BANK(VERY URGENT).",
+        "body": "Hello Gleason,\n\nThank you for reaching out to me. I appreciate the information you provided about the United Nations and World Bank ordering funds to be paid through the Federal Reserve Bank of New York. However, before I proceed, I have a few questions:\n\n1. Can you please provide more details about the specific funds that are being referred to? What is the source of these funds?\n2. How did you come across my contact information? Is there a specific reason why I was chosen for this opportunity?\n3. Are there any fees or charges associated with this process? If so, could you please explain them in detail?\n\nI look forward to your response.\n\nBest wishes,\nBillye"
+    },
+    {
+        "from": "scammer_805",
+        "to": "baiter_805",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.8192476851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "FROM: FEDERAL RESERVE BANK.",
+        "body": "FROM: THE DESK OF:\r\nMR.ROBERT GLEASON\r\nREMITTANCE DEPARTMENT,\r\nRESERVE BANK OF NEW YORK,\r\nUNITED STATES OF AMERICA(USA).\r\n\r\nATTENTION:SIR,\r\n\r\nYOUR INHERITANCE FUND OF USD$15M\r\n\r\nWE CAME IN CONTACT WITH YOU THROUGH YOUR INFORMATION THAT WAS SENT TO US BY\r\nUNITED NATIONS TO CONTACT YOU AND SEE THAT YOU ARE PAID WITH YOUR\r\nCOMPLIANCE.\r\n\r\nTHE ONLY FEE IS YOUR TRANSACTION INFORMATION ACTIVATION FEE TO\r\nUPDATE/ACTIVATE YOUR TRANSACTION FOR TRANSFER TO YOU THROUGH ANY OF YOUR\r\nCHOICE.\r\n\r\nREGARDS AND GOD BLESS,\r\n\r\nMR.ROBERT GLEASON\r\nREMITTANCE DEPARTMENT,\nRESERVE BANK OF NEW YORK,\r\nUSA.\r\nUSA."
+    },
+    {
+        "from": "baiter_805",
+        "to": "scammer_805",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9656481481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: FROM: FEDERAL RESERVE BANK.",
+        "body": "Hello Gleason,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding my fund. Could you please provide more details about the activation fee? What is it for and how much is required? Additionally, can you explain the process of updating and activating my account for the transfer?\n\nI look forward to your response.\n\nBest wishes,\nBillye"
+    },
+    {
+        "from": "scammer_805",
+        "to": "baiter_805",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.525,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "FROM: FEDERAL RESERVE BANK..",
+        "body": "Sir, thanks for your questions. Firstly, activation fee is a fee to update\r\nyour transaction to be active ready for transfer of funds to you and your\r\nactivation fee of your USD15M is USD800.00 only and as soon as that is\r\ndone, your fund will be activated and your fund will be received by you\r\nthrough any means of your choice. I advise that you forward your full\r\naddress/phone number to us. Thank you, Mr Robert Gleason."
+    },
+    {
+        "from": "baiter_805",
+        "to": "scammer_805",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.5492708333333334,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: FROM: FEDERAL RESERVE BANK..",
+        "body": "Hello Mr. Robert Gleason, thank you for providing me with this information. I appreciate your response. Could you please clarify what the activation fee is specifically for? I just want to make sure I understand the process correctly before proceeding.\n\nBest wishes,\nBillye"
+    },
+    {
+        "from": "scammer_805",
+        "to": "baiter_805",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.701701388888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: FROM: FEDERAL RESERVE BANK....",
+        "body": "Sir, it is to make the transition legal and active for transfer. Regards,\r\nMr Robert Gleason."
+    },
+    {
+        "from": "baiter_805",
+        "to": "scammer_805",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.7161689814814816,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: FROM: FEDERAL RESERVE BANK....",
+        "body": "Hello Mr. Robert Gleason,\n\nThank you for reaching out to me. I'm curious about the transition you mentioned. Could you please provide more details about what exactly needs to be transferred and why it needs to be done legally? I want to make sure I understand the situation correctly.\n\nBest wishes,\nBillye"
+    },
+    {
+        "from": "scammer_805",
+        "to": "baiter_805",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.8333101851851854,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: FROM: FEDERAL RESERVE BANK......",
+        "body": "Sir, done legally I meant is that it has to go with the ethics of financial\r\nlaws. Thanks, Robert Gleason"
+    },
+    {
+        "from": "scammer_805",
+        "to": "baiter_805",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.889050925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "FROM: FEDERAL RESERVE BANK",
+        "body": "Sir, We advise that you urgently forward to us your full address, Phone\r\nnumber and how you intend to have your fund, so that we can programme it\r\ninto our system ready for transfer by Cashier's Check, atm card or by bank\r\nto bank transfer into your bank account. Waiting for your urgent response.\r\nThanks, Mr Robert Gleason (Director)."
+    },
+    {
+        "from": "baiter_805",
+        "to": "scammer_805",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.924097222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: FROM: FEDERAL RESERVE BANK",
+        "body": "Hello Mr. Robert Gleason,\n\nThank you for reaching out to me. I appreciate your willingness to assist me with the transfer of funds. However, before I provide any personal information, I would like to know more about the process and ensure that it is legitimate.\n\nCould you please explain to me how this transfer works? What are the steps involved in getting the funds transferred by Cashier's Check, ATM card, or bank-to-bank transfer? Additionally, what are the fees or charges associated with each method?\n\nI look forward to your response.\n\nBest wishes,\nBillye"
+    },
+    {
+        "from": "scammer_805",
+        "to": "baiter_805",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.9669444444444446,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "FROM: FEDERAL RESERVE BANK.",
+        "body": "Sir, thanks for your questions. The process of receiving funds are: by\r\nCashier's Check, you have to pay for your courier delivery to deliver it to\r\nyour place and same to atm card but for transfer of funds into your\r\naccount, you have to pay for the cost of transfer charges to enable your\r\nfund be transferred into your bank account. Hope you understand. Thanks, Mr\r\nRobert Gleason (Director)."
+    },
+    {
+        "from": "baiter_805",
+        "to": "scammer_805",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.1741550925925925,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: FROM: FEDERAL RESERVE BANK.",
+        "body": "Hello Gleason,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding a remittance from the Reserve Bank of New York. Can you please provide me with more details about this fund? What is the purpose of this remittance and how did the United Nations get involved?\n\nAlso, could you clarify what you mean by \"activation fee\"? I want to make sure I understand all the necessary steps before proceeding.\n\nBest wishes,\nBillye"
+    },
+    {
+        "from": "scammer_805",
+        "to": "baiter_805",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.5094328703703703,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "FROM: FEDERAL RESERVE BANK(URGENT)",
+        "body": "Sir, by atm card or cashier's check, you have to pay for your courier\r\ndelivery company services fee of USD800.00 and to cost of transfer also you\r\nhave to pay for your cost of transfer to enable the remittance department\r\ntransfer your fund into your account. Thank you, Mr Robert Gleason."
+    },
+    {
+        "from": "baiter_805",
+        "to": "scammer_805",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.548865740740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: FROM: FEDERAL RESERVE BANK(URGENT)",
+        "body": "Hello Mr. Robert Gleason, thank you for reaching out to me. I appreciate the information you provided about the payment methods for the courier delivery company services fee and the cost of transfer. Can you please tell me more about how these fees are calculated? I want to make sure I understand everything clearly before proceeding with any payments.\n\nBest wishes,\nBillye"
+    },
+    {
+        "from": "scammer_805",
+        "to": "baiter_805",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.5855208333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "FROM: FEDERAL RESERVE BANK(NOTICE)",
+        "body": "Sir, we have been advised/ordered by world bank/United Nations on that\r\namount only as a help to enable the beneficiaries have their funds without\r\nany delay. Hope this is okay with you?. Thank you, Robert Gleason."
+    },
+    {
+        "from": "baiter_805",
+        "to": "scammer_805",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.8405324074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re: FROM: FEDERAL RESERVE BANK(NOTICE)",
+        "body": "Hello Robert Gleason,\n\nThank you for reaching out to me. I appreciate your efforts in helping people access their funds without any delay. Can you please provide me with more information about the assistance being offered by the World Bank and the United Nations? I would like to understand how this process works and how it can benefit individuals.\n\nLooking forward to hearing from you.\n\nBest wishes,\nBillye"
+    },
+    {
+        "from": "baiter_805",
+        "to": "scammer_805",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.8406944444444444,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "19",
+        "subject": "Re: FROM: FEDERAL RESERVE BANK......",
+        "body": "Hello Robert Gleason, thank you for reaching out. I appreciate your response. Could you please provide more information about what you mean by \"done legally\" and how it relates to the ethics of financial laws? I'm interested in learning more about this topic.\n\nBest wishes,\nBillye"
+    },
+    {
+        "from": "baiter_805",
+        "to": "scammer_805",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.8637152777777777,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "20",
+        "subject": "Re: FROM: FEDERAL RESERVE BANK.",
+        "body": "Hello Gleason,\n\nThank you for reaching out to me. I appreciate the information you have provided. Can you please tell me more about the activation fee? What is it for and how much is it?\n\nAlso, could you clarify which fund exactly are you referring to? I want to make sure I have a clear understanding of the situation.\n\nLooking forward to your response.\n\nBest wishes,\nBillye"
+    },
+    {
+        "from": "baiter_805",
+        "to": "scammer_805",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.153796296296297,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "21",
+        "subject": "Re: FROM: FEDERAL RESERVE BANK.",
+        "body": "Hello Mr. Robert Gleason,\n\nThank you for providing me with this information. I appreciate your response. Can you please tell me more about the process of receiving funds through a Cashier's Check? How does it work exactly? And what are the courier delivery charges that need to be paid?\n\nI'm also curious about the transfer of funds into my bank account. Could you explain how the cost of transfer charges is determined? Is it a fixed amount or does it vary depending on the amount being transferred?\n\nThank you once again for taking the time to answer my questions. I look forward to hearing from you.\n\nBest wishes,\nBillye"
+    },
+    {
+        "from": "scammer_805",
+        "to": "baiter_805",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.792731481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "22",
+        "subject": "FROM: FEDERAL RESERVE BANK...",
+        "body": "Sir, activation fee is paid to put your transaction active\r\nLegally means to process it without any delay. Hopefully this is cleared\r\n Regards, Robert Gleason."
+    },
+    {
+        "from": "baiter_805",
+        "to": "scammer_805",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.799722222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "23",
+        "subject": "Re: FROM: FEDERAL RESERVE BANK...",
+        "body": "Hello Robert,\n\nThank you for reaching out to me. I appreciate your response. Can you please provide me with more information about the activation fee? What exactly does it cover and how much is the fee?\n\nI just want to make sure I have a clear understanding of what I would be paying for. Thank you in advance for your assistance.\n\nBest wishes,\nBillye"
+    },
+    {
+        "from": "scammer_805",
+        "to": "baiter_805",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.802685185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "24",
+        "subject": "FROM: FEDERAL RESERVE BANK",
+        "body": "Activation fee is USD800.00 and it is the amount paid to put the\r\ntransaction in place and ready for delivery or transfer. Thanks"
+    },
+    {
+        "from": "baiter_805",
+        "to": "scammer_805",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.820763888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "25",
+        "subject": "Re: FROM: FEDERAL RESERVE BANK",
+        "body": "Hello! Thank you for sharing that information. I'm curious, could you please tell me more about what the activation fee is specifically for?\n\nBest wishes,\nBillye"
+    },
+    {
+        "from": "scammer_805",
+        "to": "baiter_805",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.830104166666667,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "26",
+        "subject": "FROM: FEDERAL RESERVE BANK...",
+        "body": "The process by which the fund is processed by us to be ready for transfer\r\nto you is called activation. Thanks"
+    },
+    {
+        "from": "baiter_805",
+        "to": "scammer_805",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.840636574074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "27",
+        "subject": "Re: FROM: FEDERAL RESERVE BANK...",
+        "body": "Hello! Thank you for reaching out. I'm interested to learn more about the process you mentioned. Could you please provide me with some details on how exactly the fund is processed and transferred? I'd appreciate any additional information you can share.\n\nBest wishes,\nBillye"
+    },
+    {
+        "from": "scammer_805",
+        "to": "baiter_805",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.846631944444445,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "28",
+        "subject": "FROM: FEDERAL RESERVE BANK......",
+        "body": "Send your requested details,your full name, address, phone number and we\r\nshall start the process for your better understanding. Thanks."
+    },
+    {
+        "from": "baiter_805",
+        "to": "scammer_805",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.862418981481482,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "29",
+        "subject": "Re: FROM: FEDERAL RESERVE BANK......",
+        "body": "Hello there! Thank you for reaching out. I appreciate your willingness to help me, but I'm a bit hesitant to share my personal information right away. Could you please provide me with more details about the process you mentioned? I'd like to understand it better before proceeding.\n\nBest wishes,\nBillye"
+    },
+    {
+        "from": "scammer_805",
+        "to": "baiter_805",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.660694444444444,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "30",
+        "subject": "FROM: FEDERAL RESERVE BANK.",
+        "body": "Send the required details such as your full name, address with your banking\r\naccount information details and you will understand better as we proceed.\r\nThanks, Mr Robert Gleason."
+    },
+    {
+        "from": "baiter_805",
+        "to": "scammer_805",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.673877314814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "31",
+        "subject": "Re: FROM: FEDERAL RESERVE BANK.",
+        "body": "Hello Mr. Robert Gleason,\n\nThank you for reaching out to me. I appreciate your willingness to share information with me. However, before I provide any personal details, I would like to understand more about the purpose of sharing my full name, address, and banking account details. Could you please explain how this information will be used and why it is necessary?\n\nI look forward to hearing from you.\n\nBest wishes,\nBillye"
+    },
+    {
+        "from": "scammer_805",
+        "to": "baiter_805",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.695023148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "32",
+        "subject": "FROM: FEDERAL RESERVE BANK..",
+        "body": "It is to be used to process the fund in your name and favor into your bank\r\naccount. Thanks"
+    },
+    {
+        "from": "baiter_805",
+        "to": "scammer_805",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.6957407407407405,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "33",
+        "subject": "Re: FROM: FEDERAL RESERVE BANK..",
+        "body": "Hello! Thank you for reaching out to me. I'm interested in learning more about this fund processing. Could you please provide me with some additional details?\n\nBest wishes,\nBillye"
+    },
+    {
+        "from": "scammer_805",
+        "to": "baiter_805",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.714548611111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "34",
+        "subject": "RFROM: FEDERAL RESERVE BANK",
+        "body": "Firstly, you have to comply with my directives before we can proceed\r\nfurther for your better understanding. Thanks"
+    },
+    {
+        "from": "baiter_805",
+        "to": "scammer_805",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.715740740740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "35",
+        "subject": "Re: RFROM: FEDERAL RESERVE BANK",
+        "body": "Hello there! Thank you for reaching out. I'm always open to learning new things and sharing information. How can I assist you today?\n\nBest wishes,\nBillye"
+    }
+]

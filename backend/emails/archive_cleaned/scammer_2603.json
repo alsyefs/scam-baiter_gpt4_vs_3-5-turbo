@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2603",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "We, Wells Fargo Bank, has conf",
+        "body": "We, Wells Fargo Bank, has confirm this deposit $6,700,000, United\nStates dollars and it has be made available in ATM Visa for beneficial\nto receive,\n incas you found this later in your inbox or Spam Reply\nImmediately for immediately delaying, We found your email, in this\nfund list that is why we contacted you, we could not be able to\nidentify your full details so please provide us your full details\n to\nsend your fund visa card to your address, This letter puts no\nfinancialobligation on said funds, These funds are clear of any holds,\nliens or encumbrances."
+    },
+    {
+        "from": "baiter_2603",
+        "to": "scammer_2603",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: We, Wells Fargo Bank, has conf",
+        "body": "Thank you for reaching out to me. I appreciate the information about the deposit and the availability of funds in my ATM Visa. However, before I provide any personal details, could you please clarify a few things for me?\n\n1. How did Wells Fargo Bank come across my email address and include it in the fund list?\n2. Can you provide more details about the source of these funds? Where are they coming from?\n3. What is the purpose of sending me a fund visa card? How does it work?\n\nI look forward to your response.\n\nBest wishes,\nMary"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_851",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "UNICEF/LOTERIA/INTERNATIONAL  ",
+        "body": "UNICEF/LOTERIA/INTERNATIONAL                                                               \nFROM THE DESK OF THE DIRECTOR INTERNATIONAL\nPROMRTION PRIZE UNICEF LOTERIA ESPAÑA                                                                                                             \n                                                    AWARD FINAL NOTIFICATION\nAttention Beneficiary,\nWe are delighted to inform you of the released results of UNICEF International Lottery Promotion Program held on Friday December 22nd 2023. We try to reach you again on this same address as our previous notification to you returned undelivered. Due to a mix up of names, all the undelivered mails were released on January 19th 2024 for final notification; do endeavor to respond to this urgent and final notification so that we will not be held liable at the end.\nOur records indicate your name attached to the winning number (10989) won the second category of the UNICEF International Lottery Promotion Program held on Friday December 22nd 2023. Therefore, you have been approved for a lump Sum of (€1,095.810.20) One Million and Ninety-Five Thousand Eight Hundred and Ten Euros Twenty Cent Only, Congratulations! Your unclaimed winning Prize is still outstanding, secured, insured and available for claim.\nYour Name; .............................................\nAge; ..........................................................\nGender; ...................................................\nAddress; ...................................................\nEmail; .......................................................\nContact Telephone; ……………………….\nOccupation; ...............................................\nAmount Won...............................................\nTo begin your claim, Contact our foreign operational manager below for the processing and remittance of your prize-winning money to a destination of your choice.\nMr. Alfred Henz\nEmail: \nfinancedeposite@gmail.com\nNOTE: We look forward to your urgent acknowledgment as we assure you of our assistance and guidance. CONGRATULATIONS!!!!!!\nYours Faithfully,   \nEdward Santiago\nDirector of department UNICEF\nC\\ San Vicente Paul 1 EOD 50.\n001 Zaragoza (ESPAÑA)"
+    },
+    {
+        "from": "baiter_851",
+        "to": "scammer_851",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: UNICEF/LOTERIA/INTERNATIONAL  ",
+        "body": "Hello there,\n\nWow, this is such exciting news! I can't believe my luck. I'm curious though, how did you come across my name for this lottery? I don't remember entering any contests recently.\n\nAlso, could you please tell me more about the UNICEF Lottery Promotion Program? It sounds like a wonderful initiative. How does it work and how are the funds used?\n\nLooking forward to hearing from you soon!\n\nP.S. Please note that due to privacy concerns, I won't be able to share personal details over email. I hope you understand.\n\nBest wishes,\nThelma"
+    }
+]

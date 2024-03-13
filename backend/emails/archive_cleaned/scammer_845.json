@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_845",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "INTERNATIONAL FUNDS TRANSFER /",
+        "body": "INTERNATIONAL FUNDS TRANSFER / AUDIT\nUNIT UNITED NATION(WORLD BANK ASSISTED PROGRAMMER)\nDIRECTORATE OF INTERNATIONAL PAYMENT\nAND TRANSFERS.Ref: WB/NF/UN/XX027\nDEBT SETTLEMENT PANEL\nATTN: BENEFICIARY: ,\nRE: VERIFICATION AND APPROVAL OF YOUR PAYMENT FILE.\nFROM THE RECORDS OF OUTSTANDING FUNDS DUE FOR IMMEDIATE PAYMENT, YOUR\nNAME/PARTICULARS WAS DISCOVERED AS NEXT ON THE APPROVED LIST.\nI WISH TO INFORM YOU THAT YOUR PAYMENT IS BEING PROCESSED AND FROM THE\nRECORD IN MY FILE, THE TOTAL SUM OF US $12.5M HAVE BEEN APPROVED ON\nYOUR BEHALF FOR THE HALF QUARTER OF THE FISCAL YEAR 2022.\nFOR YOUR INFORMATION, WE HAVE ASSIGNED THE US-BANK,TO HANDLE ALL\nRELATED TRANSACTIONS TO AVOID FURTHER COMPLAIN FROM BENEFICIARIES\nABOUT INCESSANT TAXES, FEES AND LEVIES.\nKINDLY RE-CONFIRM THE FOLLOWING INFORMATION IMMEDIATELY TO FACILITATE\nTHE ISSUANCE OF AN INTERNATIONAL PAYMENT JUSTIFICATION ORDER DOCUMENT\nON YOUR BEHALF WHICH WILL BE SUBMITTED TO THE US-BANK FOR THE\nIMMEDIATE RELEASE OF YOUR FUNDS.\n1) YOUR FULL NAME:\n2) CONTACT ADDRESS:\n3) NATIONALITY:\n4) OCCUPATION:\n5) PHONE, FAX AND MOBILE:\n6) GENDER:\n7) AGE:\nAS SOON AS THIS INFORMATION IS RECEIVED, YOUR PAYMENT WILL BE MADE TO\nYOUR NOMINATED BANK ACCOUNT DIRECTLY FROM THE US-BANK.\nYOUR PAYMENT APPROVAL IS MADE UNDER THE AUSPICES OF THE WORLD BANK AND\nWE INTEND TO SUCCESSFULLY COMPLETE YOUR FUNDS TRANSFER. YOU ARE\nTHEREFORE STRONGLY ADVISE TO STOP FURTHER COMMUNICATION WITH ANY OTHER\nBANK OR INSTITUTION REGARDING THIS MATTER, FOR THE OVERALL SAFETY OF\nYOU AND YOUR FUND.\nBEST REGARDS,\nMR. BEMARD LAUWERS\nDIRECTOR OF FINANCE,\nINTERNATIONAL MONETARY FUND"
+    },
+    {
+        "from": "baiter_845",
+        "to": "scammer_845",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: INTERNATIONAL FUNDS TRANSFER /",
+        "body": "Hello Mr. Bemard Lauwers,\n\nThank you for your message. It's quite exciting to hear about this approved payment! I must say, it's not every day that one receives such news.\n\nI'm curious though, how did my name end up on the approved list? And could you please explain a bit more about this World Bank Assisted Programmer of Payment and WB NF UN Debt Settlement Panel? It sounds very official and important.\n\nAlso, I'd like to know more about the process of transferring these funds. How does it work exactly? And what is an immediate release of funds?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nFloyd"
+    }
+]

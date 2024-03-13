@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2590",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  FEDERAL REPUBLIC OF NIGERIA",
+        "body": "  FEDERAL REPUBLIC OF NIGERIA\n                                MINISTER BOARD OF EXTERNAL PAYMENT\n                                    PLOT 6 SATELLITE BUILDING\n                                    P.M.B 342 KUBUA DISTRICT\n                                         ABUJA-NIGERIA\n \nFROM: DR, CHRIS JAJA                                                3RD JAN, 2024\nTHE DIRECTOR, APPROVAL AND PAYMENT DEPT.\nMINISTER BOARD OF EXTERNAL PAYMENT\nATTENTION: \nI RECEIVED YOUR MAIL. YOUR REQUEST FOR THE CANCELLATION OF YOUR FUNDS PAYMENT IS VERY WELL NOTED, AND THIS PAYMENT MINISTRY WILL ACT ACCORDINGLY.\nYOURS SINCERELY\nDR. CHRIS JAJA\nDIRECTOR, APPROVAL AND PAYMENT DEPT. (MBEP).   "
+    },
+    {
+        "from": "baiter_2590",
+        "to": "scammer_2590",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   FEDERAL REPUBLIC OF NIGERIA",
+        "body": "Hello Dr. Chris Jaja,\n\nThank you for reaching out to me. I appreciate your prompt response. I'm interested in learning more about the funds payment you mentioned. Could you please provide me with some additional details?\n\nBest wishes,\nRoland"
+    }
+]

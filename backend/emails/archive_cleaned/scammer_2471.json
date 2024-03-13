@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2471",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear friend",
+        "body": "Dear friend\nI have only about a few months to live and I want you to Distribute my\nfunds to charities\nif you will help reply me\nyours truly\ntsuneo takahashi"
+    },
+    {
+        "from": "baiter_2471",
+        "to": "scammer_2471",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear friend",
+        "body": "Hello Tsuneo Takahashi,\n\nI'm really sorry to hear about your situation. It's truly admirable that you're thinking of others and wanting to help charities in such a difficult time. \n\nCould you please tell me more about the charities you have in mind? I'd love to know more about them and how they've touched your life.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMary"
+    }
+]

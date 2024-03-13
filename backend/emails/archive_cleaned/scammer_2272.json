@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2272",
+        "to": "baiter_2272",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "ABANDONED FUNDS SHIPMENT.",
+        "body": "Attn: Sir,\r\n\r\nWe received your mail and based on your questions.\r\n\r\nYour Consignment Box (Fund) was abandoned due to unidentified content and\r\nlack of clearance. Currently we have many packages at the storage. Then the\r\nold packages needed to be emptied, all the Beneficiaries of these packages\r\nhave been written to and they are complying on evacuating the packages.\r\n\r\nTherefore, you can come to the airport by yourself to pick up the\r\nConsignment box or It will be Registered with a courier service company to\r\nbe delivered to you. If you wish it will be delivered to you via Courier\r\nServices, Then you have to choose the best courier service below with their\r\ndelivery cost.\r\n\r\nDHL courier service $150\r\nUPS courier Service $175\r\nFedEx courier $200\r\n\r\nReconfirm the Below information accurate to avoid wrong delivery;\r\n\r\n(1)Your Full Name=============\r\n(2)Mobile Phone Number======\n(3)Current Home Address========\r\n(4)Fax Number================\r\n(5)Country====================\r\n(6)City======================\r\n(7)Nearest Airport ==============\r\n\r\n\r\nAIRPORT INFO;\r\nMr. Richard Silver\r\nAirport Management\r\nsacramentoi@usa.com\r\n+1(916)400-0692\r\n6900 Airport Blvd. Sacramento, CA, 95837"
+    },
+    {
+        "from": "baiter_2272",
+        "to": "scammer_2272",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: ABANDONED FUNDS SHIPMENT.",
+        "body": "Hello Mr. Richard Silver,\n\nThank you for your prompt response and the detailed information about my Box Fund. It's quite interesting to know that there are many packages at the storage. I can only imagine how busy it must be at the airport!\n\nI'm curious, why was my Box Fund abandoned due to content and lack of clearance? Also, could you please explain a bit more about the process of evacuating the packages?\n\nAs for picking up the box, I think I would prefer it to be delivered via courier service as it would be more convenient for me. Could you provide me with more details about each courier service option? Like their delivery time frames, any additional services they offer etc.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nScott"
+    },
+    {
+        "from": "scammer_2272",
+        "to": "baiter_2272",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.018078703703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "ABANDONED FUNDS SHIPMENT.",
+        "body": "Attn: Sir,\r\n\r\nReconfirm the Below information accurate to avoid wrong delivery;\r\n\r\n(1)Your Full Name=============\r\n(2)Mobile Phone Number======\r\n(3)Current Home Address========\r\n(4)Fax Number================\r\n(5)Country====================\r\n(6)City======================\r\n(7)Nearest Airport ==============\r\n\r\nConfirm the above Details accurately to avoid wrong delivery, with this we\r\ncan confirm Courier delivery details.\r\n\r\n\nAIRPORT INFO;\r\nMr. Richard Silver\r\nAirport Management\r\nsacramentoi@usa.com\r\n+1(916)400-0692\r\n6900 Airport Blvd. Sacramento, CA, 95837"
+    },
+    {
+        "from": "baiter_2272",
+        "to": "scammer_2272",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.021527777777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: ABANDONED FUNDS SHIPMENT.",
+        "body": "Hello Mr. Richard Silver,\n\nThank you for reaching out to me! I'm really excited about this delivery, but I must admit, I'm a bit confused. Could you please explain more about what's being delivered? And why do you need all these details from me? \n\nI'm also curious about the process of courier delivery. How does it work exactly? Is there any way to track the package?\n\nLooking forward to hearing from you soon!\n\nBest regards.\n\nBest wishes,\nScott"
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "from": "scammer_1321",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn, mr xxx",
+        "body": "Attn, mr xxx\nThis is to officially inform you that Mr Zodik Mohammed and Mr Rasheed\nAbdul visited my office this Morning with a Sworn Affidavit requesting\nfor a change of an account that belong to you and divert your total\namount $2.5M to another account.\nNow we want to confirm from you if you authorize such changes hence we\nwant to hear from you before embark on the change of account as\ndirected by the two Men because we are not comfortable to divert your\nfund to another account without your permission.\nOther valuable information will be revealed to you as soon as you respond to this message \nThis letter does not mean to cause any embarrassment but diligent and\n due process must be adhered to avoid any form of litigation.\nRegards,\nMr John Terry.\n(Director.Legal Department United Community Bank)"
+    },
+    {
+        "from": "baiter_1321",
+        "to": "scammer_1321",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attn, mr xxx",
+        "body": "Dear Mr. John Terry,\n\nThank you for reaching out to me regarding the visit from Mr. Zodik Mohammed and Mr. Rasheed Abdul. I appreciate your diligence in informing me about this matter.\n\nI must admit that I am a bit confused about the purpose of their visit and the request for a change of account. Could you please provide more details on why they want to divert my funds to another account? It is important for me to understand the situation fully before making any decisions.\n\nAdditionally, I would like to know how you came across this information and what steps are being taken to ensure the security of my funds. As a customer, it is crucial for me to have confidence in the bank's processes and procedures.\n\nI look forward to your prompt response with further clarification on this matter.\n\nBest wishes,\nDolores"
+    },
+    {
+        "from": "scammer_1321",
+        "to": "baiter_1321",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "MR JOHN TERRY",
+        "body": "ATTN, Mrs Dolores\r\n\r\nWe are very sorry for late reply but it was due to the fact that we want\r\nevery assurance double sure that the fund belong to you before we can start\r\nthe process. Now we have gathered every needed information and discovered\r\nthat those people are impostors and scammers and must be treated as\r\ncriminals. Now you are as a matter of urgency required to provide the below\r\ninformation to enable us start the process of your fund transfer through\r\nour paying bank in USA United Community Bank. (1) Your full name and\r\naddress (2) phone numbers (3) Scan Copt of your National ID (4) Nationality\r\n(5) Martial statue (6) Citizenship (7) Date of Birth (8) Next of kin (9)\r\nCopies of your passport photos (2) (10) Your mother Maiden name (11)\r\nOccupation (12) Your WhatsApp contact. All these information is needed for\r\nthe smooth process of your fund transfer. We look forward to receive the\r\nneeded information to enable us start the process without further delay\r\n\nRegards.\r\n\r\n Mr John Terry."
+    },
+    {
+        "from": "baiter_1321",
+        "to": "scammer_1321",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0005902777777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: MR JOHN TERRY",
+        "body": "Hello Mr. John Terry,\n\nThank you for reaching out to me regarding the fund transfer. I appreciate your diligence in ensuring that the process is secure and legitimate. I understand the need for verification before proceeding.\n\nBefore I provide any personal information, could you please clarify a few things for me? Firstly, how did you come to discover that the previous individuals were impostors and scammers? It would be helpful to know more about the background of this situation.\n\nAdditionally, could you please explain why all of the listed information is necessary for the smooth process of the fund transfer? I want to make sure that I understand the purpose behind each requirement.\n\nThank you again for your assistance. I look forward to your response.\n\nBest wishes,\nDolores"
+    },
+    {
+        "from": "scammer_1321",
+        "to": "baiter_1321",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.014409722222222223,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "MR JOHN TERRY",
+        "body": "We discover that they are impostors through our intelligent gathering.The\r\nlisted information will be used to create an online account with your name\r\nthrough our paying Bank United Community Bank in Atlanta Georgia USA"
+    },
+    {
+        "from": "baiter_1321",
+        "to": "scammer_1321",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.014953703703703703,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: MR JOHN TERRY",
+        "body": "Hello there! Thank you for reaching out to me. I'm interested in learning more about this opportunity. Could you please provide me with some additional details? How exactly does creating an online account with my name through your paying Bank United Community Bank work?\n\nBest wishes,\nDolores"
+    },
+    {
+        "from": "scammer_1321",
+        "to": "baiter_1321",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.022430555555555554,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "MR JOHN TERRY",
+        "body": "It will work perfectly. All you need to do is to simply forward the listed\r\ninformation so that we can forward it to the paying bank for the official\r\nprocess to commence. The bank will also contact you for more information\r\neither to invite you to come down to the bank headquarter in Atlanta\r\nGeorgia USA for the signing of your fund release documents or options\r\nsuitable for you so go ahead and send the needed information so as to start\r\nthe process without delay"
+    },
+    {
+        "from": "baiter_1321",
+        "to": "scammer_1321",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.02267361111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: MR JOHN TERRY",
+        "body": "Hello! Thank you for reaching out to me. I'm interested in learning more about this opportunity. Could you please provide me with some additional details? What exactly do I need to forward and to whom? And what is the purpose of forwarding it to the paying bank?\n\nBest wishes,\nDolores"
+    },
+    {
+        "from": "scammer_1321",
+        "to": "baiter_1321",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.032824074074074075,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "MR JOHN TERRY",
+        "body": "All you need to do is forward the required information to me as requested.\r\n\r\n>\r\n> Wishing you best of luck"
+    },
+    {
+        "from": "scammer_1321",
+        "to": "baiter_1321",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.035474537037037034,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "MR JOHN TERRY",
+        "body": "The purpose is for the process of your fund transfer."
+    },
+    {
+        "from": "baiter_1321",
+        "to": "scammer_1321",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0358912037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: MR JOHN TERRY",
+        "body": "Hello there! Thank you for reaching out to me. I'm interested in learning more about the process of fund transfer you mentioned. Could you please provide me with some additional details? How does it work exactly?\n\nBest wishes,\nDolores"
+    },
+    {
+        "from": "scammer_1321",
+        "to": "baiter_1321",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0378125,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "MR JOHN TERRY",
+        "body": "Do as we have said and if you’re not ready to provide your information then\r\nit’s up to you.. and stop all this questioning!!!\r\n\r\n>\r\n>"
+    },
+    {
+        "from": "baiter_1321",
+        "to": "scammer_1321",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.038599537037037036,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: MR JOHN TERRY",
+        "body": "Hello there! I hope you're doing well. I understand that you have some concerns, but I'm just looking to share information and have a conversation. Can you please clarify what you mean by \"do as we have said\"? What exactly are you referring to?\n\nBest wishes,\nDolores"
+    },
+    {
+        "from": "scammer_1321",
+        "to": "baiter_1321",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.04065972222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "MR JOHN TERRY",
+        "body": "I told you everything and I’ve nothing to tell you again now. It’s up to\r\nyou to provide the listed information and if you’re not don’t bother to\r\nemail me again"
+    },
+    {
+        "from": "baiter_1321",
+        "to": "scammer_1321",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.041435185185185186,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: MR JOHN TERRY",
+        "body": "Hello there! I hope you're having a great day. I understand that you've already shared some information with me, but I'm still curious to learn more. Could you please provide me with some additional details about the listed items? I'm really interested in hearing more from you.\n\nBest wishes,\nDolores"
+    },
+    {
+        "from": "scammer_1321",
+        "to": "baiter_1321",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.04434027777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "MR JOHN TERRY",
+        "body": "The purpose of the information listed is for the process of your fund\r\ntransfer."
+    },
+    {
+        "from": "baiter_1321",
+        "to": "scammer_1321",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.04480324074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: MR JOHN TERRY",
+        "body": "Hello! Thank you for reaching out. I'm interested to learn more about the process of fund transfer you mentioned. Could you please provide me with some additional details? How does it work and what are the steps involved?\n\nBest wishes,\nDolores"
+    },
+    {
+        "from": "baiter_1321",
+        "to": "scammer_1321",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0637962962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: MR JOHN TERRY",
+        "body": "Hello! Thank you for reaching out to me. I'm interested in learning more about what you need from me. Could you please provide some additional details about the required information? I want to make sure I understand everything correctly before proceeding.\n\nBest wishes,\nDolores"
+    },
+    {
+        "from": "scammer_1321",
+        "to": "baiter_1321",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.07155092592592592,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "MR JOHN TERRY",
+        "body": "When you are ready you send your details to me"
+    },
+    {
+        "from": "baiter_1321",
+        "to": "scammer_1321",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.07188657407407407,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "19",
+        "subject": "Re: MR JOHN TERRY",
+        "body": "Hello! Thank you for reaching out. I'm interested in learning more about what you have to share. Could you please provide me with some details or information about what it is that you would like to discuss?\n\nBest wishes,\nDolores"
+    }
+]

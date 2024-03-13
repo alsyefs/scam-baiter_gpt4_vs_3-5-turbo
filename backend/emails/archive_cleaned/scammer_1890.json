@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1890",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  ATTENTION  Attention :Sir/Ma",
+        "body": "  ATTENTION  Attention :Sir/Madam\nThis is to bring to your notice that i have approved your payment via\nATM CARD and we are  going to deliver the ATM card to your address .\nYou are advise to reconfirm your address and telephone number  because\ni am already in United States of America already , you can\ncontact me  via direct number +1-8189628711\nYOU ARE ADVISE TO SEND ME TEXT ON THIS NUMBER +1-8189628711  WITH\nYOUR ADDRESS SO THAT I WILL DELIVER TODAY\nMY name is DR PAUL GARRY\nEmail: \ngarrypaul1972@gmail.com\nPhone: +1-8189628711\nEndeavor to indicate the ATM parcel registration number  which\nis ( ATM-087RZ ) when contacting them.\nSincerely yours,\nDR PAUL GARRY   "
+    },
+    {
+        "from": "baiter_1890",
+        "to": "scammer_1890",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   ATTENTION  Attention :Sir/Ma",
+        "body": "Hello DR PAUL GARRY,\n\nThank you for reaching out to me. I appreciate the update regarding the approval of my payment via ATM card. It's great to hear that it will be delivered to my address soon.\n\nBefore I provide you with my address and telephone number, could you please clarify a few things for me? Firstly, which company or organization is responsible for delivering the ATM card? Secondly, what is the purpose of indicating the ATM parcel number when contacting them?\n\nI want to make sure that everything is in order before proceeding further. Thank you for your understanding.\n\nBest wishes,\nWilliam"
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "from": "scammer_1543",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings,",
+        "body": "Greetings,\nI'm writing to you on behalf of James Smith, whose information you are included in. This letter is to formally inform you about the demise of James Smith. You are mentioned in the deceased's previous trust document. Please get in touch with me for further information. Please give this situation your prompt consideration.\nBest regards,\nMark Schaeber\nMarkSchaeber@outlook.com"
+    },
+    {
+        "from": "baiter_1543",
+        "to": "scammer_1543",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings,",
+        "body": "Hello Mark,\n\nI'm sorry to hear about the passing of James Smith. It's always sad when someone leaves us. I appreciate you reaching out to me regarding this matter.\n\nCould you please provide more details about the trust document? How am I related to it? And what are the next steps that need to be taken?\n\nLooking forward to your response.\n\nBest wishes,\nJessica"
+    },
+    {
+        "from": "scammer_1543",
+        "to": "baiter_1543",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Greetings,",
+        "body": "Dear Jessica,\r\n\r\nThanks for your response to my email. My apologies for the inadvertent delay in response to your email. I’m deeply saddened to inform you about the demise of James Smith. James Smith was a Successful Realtor and a Philanthropist before he died. He’s also a co-owner of James Smith Fencing in London. Prior to my mail it was written as a matter of last resort due to the circumstances surrounding James Smith's legacy who left an estate. James Smith died without having received his contract funds, His funds is been deposited with the bank. Having mentioned you as his beneficiary you’re hereby required to make a claim on the estate as the deceased surviving beneficiary.\r\n\r\nFor your perusal, the deceased died leaving valuable properties (moveable and unmovable properties), cars, houses and funds in bank account. The deceased contract funds are worth the sum of $14,845,780.00 (Fourteen Million Eight Hundred and Forty-Five Thousand United States Dollars) in a deposit certificate account."
+    },
+    {
+        "from": "baiter_1543",
+        "to": "scammer_1543",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.5053472222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Greetings,",
+        "body": "Hello Jessica,\n\nI'm sorry to hear about the passing of James Smith. It's always a sad moment when we lose someone, especially someone as successful and influential as Mr. Smith. I appreciate you reaching out to me regarding this matter.\n\nYou mentioned that Mr. Smith left an estate and some funds in a bank account. That's quite a substantial amount! Could you please provide more details about this? How did he come to mention me in relation to his estate?\n\nAlso, could you tell me more about the process of claiming these assets? I'm not very familiar with these procedures, so any information would be greatly appreciated.\n\nLooking forward to your response.\n\nBest wishes,\nJessica"
+    },
+    {
+        "from": "baiter_1543",
+        "to": "scammer_1543",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.569236111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Greetings,",
+        "body": "Hello Jessica,\n\nI'm sorry to hear about the passing of James Smith. It's always sad when someone leaves us, especially when they've made such a significant impact in their field. I had no idea that he was involved in real estate and fencing, that's quite impressive.\n\nYou mentioned that he left an estate and some funds. That's a substantial amount you've mentioned there. Could you please provide more details about this? How did he come to mention me in relation to his assets?\n\nAlso, could you tell me more about the process of claiming these assets? I'm not very familiar with these procedures.\n\nLooking forward to your response.\n\nBest wishes,\nJessica"
+    },
+    {
+        "from": "scammer_1543",
+        "to": "baiter_1543",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.2727430555555554,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Greetings,",
+        "body": "Dear Jessica,\r\n\r\nThanks for your email. First and foremost, in order to begin the process, we’re to approach the authorized court for the execution of claim. Please be informed, the deceased was a resident of New York at the time of death. Hence, I’ll be approaching the New York Court for the legal proceedings and also for the purpose of bequeathing his legacy to you under court jurisdiction and also obtaining the legal documents in order to certify the transfer of possession to you (such as affidavits and other related documents attesting the process to be valid).\r\n\r\nBelow are the procedures involved in order to have the court give you possession to the deceased estate.\r\n\r\n-           Procurement of Affidavits and Relevant Documents Affirming the process.\r\n\r\n-           Approaching the deceased Financial Institution (for the release of funds Deposited in the decedent’s bank Account).\r\n\r\n-           Transfer of Title (Deeds, Transfer Certificate of Title (TCT).\r\n\r\nAs I indicated, I'm the attorney for the deceased. Consequently, I’m your legal representative. Hence, it is my duty to guide you and represent you in the court all through the legal process so as to have the court give you possession the deceased's estate in accordance with the law of the state.\r\n\r\nIn an effort to achieve this, your mobile phone number, present residential address and a copy of your ID or valid means of identification of you such as water or electricity bills will be required which will be presented to the court for execution of claim. I shall also be complementing the process with regular telephone discussion when necessary. I look forward to your response at your earliest convenience.\r\n\r\n\r\n\nSincerely,\r\n\r\nMark Schaeber\r\n\r\nTel: (315) 869-5602."
+    },
+    {
+        "from": "scammer_1543",
+        "to": "baiter_1543",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.273159722222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Greetings,",
+        "body": "Dear Jessica,\r\n\r\nThanks for your email. First and foremost, in order to begin the process, we’re to approach the authorized court for the execution of claim. Please be informed, the deceased was a resident of New York at the time of death. Hence, I’ll be approaching the New York Court for the legal proceedings and also for the purpose of bequeathing his legacy to you under court jurisdiction and also obtaining the legal documents in order to certify the transfer of possession to you (such as affidavits and other related documents attesting the process to be valid).\r\n\r\nBelow are the procedures involved in order to have the court give you possession to the deceased estate.\r\n\r\n-           Procurement of Affidavits and Relevant Documents Affirming the process.\r\n\r\n-           Approaching the deceased Financial Institution (for the release of funds Deposited in the decedent’s bank Account).\r\n\r\n-           Transfer of Title (Deeds, Transfer Certificate of Title (TCT).\r\n\r\nAs I indicated, I'm the attorney for the deceased. Consequently, I’m your legal representative. Hence, it is my duty to guide you and represent you in the court all through the legal process so as to have the court give you possession the deceased's estate in accordance with the law of the state. In an effort to achieve this, your mobile phone number, present residential address and a copy of your ID or valid means of identification of you such as water or electricity bills will be required which will be presented to the court for execution of claim. I shall also be complementing the process with regular telephone discussion when necessary. I look forward to your response at your earliest convenience.\r\n\r\n\r\n\nSincerely,\r\n\r\nMark Schaeber\r\n\r\nTel: (315) 869-5602."
+    },
+    {
+        "from": "baiter_1543",
+        "to": "scammer_1543",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.2768402777777776,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Greetings,",
+        "body": "Hi Mark,\n\nThank you for your detailed email. It's quite a surprise to hear about this deceased relative and their estate in New York. I must admit, I'm not very familiar with legal procedures, so your guidance is much appreciated.\n\nCould you please explain more about the process? What exactly does execution of claim mean? And what are these affidavits and other related documents you mentioned?\n\nI understand that you need some information from me. However, I'm a bit hesitant to share my personal details like my address and ID over email. Is there another way we can verify my identity that doesn't involve sharing such sensitive information?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJessica"
+    },
+    {
+        "from": "baiter_1543",
+        "to": "scammer_1543",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.2769675925925927,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Greetings,",
+        "body": "Hi Mark,\n\nThank you for your detailed explanation. It's really helpful to understand the process better. I'm curious, how long does this whole process usually take? And what kind of responsibilities will I have during this time?\n\nAlso, you mentioned that you need my mobile phone number, present address and a copy of my ID or valid means of identification. However, I am not comfortable sharing these details over email due to privacy concerns. Is there any other way we can proceed without me having to share these details?\n\nLooking forward to hearing from you.\n\nBest wishes,\nJessica"
+    },
+    {
+        "from": "scammer_1543",
+        "to": "baiter_1543",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.15943287037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Greetings,",
+        "body": "Dear Jessica,\r\n\r\nThanks for your email. As I said, you do not need to worry about the legal procedures on this matter. I’m the attorney for the deceased and also your legal representative. It is my duty to guide you and represent you in the court all through the legal process so as to have the court give you possession of the deceased's estate in accordance with the law of the state. Execution of claim means, to process of making a claim as the deceased beneficiary. We'll be approaching the court to acquire this listed legal paperwork in order to affirm and certify the transfer of possession to you under the court jurisdiction; such as, Affidavit of Domicile, Change of Ownership (Title transfer and Property Mutation), Succession Certificate, Statutory Declaration, and Affidavit of Death and Heirship to legally affirm and certify the process of transferring the deceased possession to you. I understand it's important to keep your information safe. Consider your information and ID safe and protected from theft in accordance with the provision of the Data protection Act. Please note, the information provided by you will only be used for the execution of claim at the court. I can assure you that your personal details are safe enclosing them with me. I look forward to your response at your earliest convenience.\r\n\r\n\r\n\nSincerely,\r\n\r\nMark Schaeber\r\n\r\nTel: (315) 869-5602."
+    },
+    {
+        "from": "scammer_1543",
+        "to": "baiter_1543",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.165775462962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Greetings,",
+        "body": "Jessica,\r\n\r\nNo need for curiosity. It takes about 90 days or 30 days depending on how we expedite the process at the court. Consider your information and ID safe and protected enclosing them with me for the legal process. I await your response.\r\n\r\n\r\n\nSincerely,\r\n\r\nMark Schaeber\r\n\r\nTel: (315) 869-5602."
+    },
+    {
+        "from": "baiter_1543",
+        "to": "scammer_1543",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.172256944444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: Greetings,",
+        "body": "Hello Mark,\n\nThank you for your detailed explanation. It's really helpful to understand the process better. I'm glad to know that you'll be guiding me through this.\n\nI have a few questions though, if you don't mind. Could you please explain more about the Affidavit of Domicile and Change of Ownership Title transfer? How does these processes work exactly?\n\nAlso, I'm curious about the Property Mutation Succession Statutory and Affidavit of Death and Heirship. What are they and how do they relate to my situation?\n\nLastly, I appreciate your assurance about keeping my personal details safe. However, could you clarify what specific information will be needed for the execution of claim at the court?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJessica"
+    },
+    {
+        "from": "baiter_1543",
+        "to": "scammer_1543",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.172430555555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: Greetings,",
+        "body": "Hi Mark,\n\nThanks for getting back to me so quickly! I'm really interested in learning more about this process. Could you maybe explain a bit more about how it works? And what kind of court are we talking about here?\n\nLooking forward to hearing from you!\n\nBest wishes,\nJessica"
+    },
+    {
+        "from": "scammer_1543",
+        "to": "baiter_1543",
+        "direction": "Inbound",
+        "days_from_first_conversation": 8.060208333333334,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: Greetings,",
+        "body": "Jessica,\r\n\r\nThanks for your email. I sincerely apologize for the inadvertent delay in response to your email. How was your weekend? As i indicated, in an effort to achieve this your mobile phone number, present residential address and a copy of your ID or valid means of identification of you such as water or electricity bills will be required which will be presented to the court for execution of claim.  This is the only information required in order to transfer the deceased estate to you.\r\n\r\nBut before we move forward, I need you to be aware of the formalities required in order for the court to certify and affirm the transfer of possession to you. Please be guided, in executing an estate there is a standard requirement. Executing an estate requires certain legal formalities to validate the likelihood of testament. These steps are designed to ensure the capacity, intent and authenticity of the documents purporting to be legally certified.\r\n\r\nAs communicated, there is some legal paperwork that you will be compelled to obtain in order to certify and affirm to the transfer of possession to you under the court jurisdiction; such as Change of Ownership (Title transfer and Property Mutation), Affidavit of Domicile, Succession Certificate, Statutory Declaration, and Affidavit of Death and Heirship to legally certify the process. All these documents will be presented to the deceased bank in order to release the deceased funds to you.\r\n\r\nThese documents will be executed and affirmed under the court jurisdiction. Please be informed, in order to obtain the stipulated paperwork for this matter, the process of procurement will cost a small amount of money which I would like to inform you of before we move forward in approaching the court for the acquisition and transition of documents. Please be aware, to obtain the documents stipulated, the process of procurement will cost you the sum of US$375 which is very important for you to take cognizant of before we take further actions. You’re expected to bear the cost incurred in procuring the legal documents as to be given possession to the deceased estate. We are obliged to execute the process in accordance with the provision of the law of the state.\r\n\r\nPlease be advised, in order to have the deceased financial institution release the deceased Estate Funds to you, you will be required to provide these stipulated listed documents in order to validly certify the instruments so as to enable the bank to proceed with the directives from the court in processing/remitting the deceased funds to you Payable on Death Account. Without these documents, we won’t be granted access to the decedent estate. I look forward to hearing from you.\r\n\r\n\r\n\nSincerely,\r\n\r\nMark Schaeber\r\n\r\nTel: (315) 869-5602."
+    },
+    {
+        "from": "scammer_1543",
+        "to": "baiter_1543",
+        "direction": "Inbound",
+        "days_from_first_conversation": 8.06167824074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: Greetings,",
+        "body": "Jessica,\r\n\nI'm talking about the New York City Surrogate's Courts.\r\n\r\n\r\n\r\nKind regards,\r\n\r\nMark Schaeber\r\n\r\nTel: (315) 869-5602."
+    },
+    {
+        "from": "baiter_1543",
+        "to": "scammer_1543",
+        "direction": "Outbound",
+        "days_from_first_conversation": 8.068449074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: Greetings,",
+        "body": "Hi Jessica,\n\nI hope this message finds you well. I was just thinking about the New York City Courts and wanted to share some information with you. Isn't it fascinating how they operate? Do you have any particular thoughts or insights on this topic?\n\nLooking forward to hearing from you.\n\nBest wishes,\nJessica"
+    },
+    {
+        "from": "baiter_1543",
+        "to": "scammer_1543",
+        "direction": "Outbound",
+        "days_from_first_conversation": 8.068680555555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: Greetings,",
+        "body": "Hi Mark,\n\nThank you for your detailed response. I hope you had a great weekend too!\n\nI understand the need for these documents and the legal process involved in transferring the deceased estate to me. However, I'm not very familiar with some of these terms like Property Mutation Affidavit of Domicile, Succession Statutory and Affidavit of Death and Heirship. Could you please explain them a bit more? \n\nAlso, could you clarify what exactly is meant by \"the process of will cost small amount of money\"? How much are we talking about here? And how would this payment be made?\n\nLooking forward to your response.\n\nBest wishes,\nJessica"
+    },
+    {
+        "from": "scammer_1543",
+        "to": "baiter_1543",
+        "direction": "Inbound",
+        "days_from_first_conversation": 8.092326388888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: Greetings,",
+        "body": "Jessica,\r\n\r\nThanks for your swift response. What’s fascinating about how they operate? Because I do not understand what you mean by that.\r\n\r\n\r\n\nKind regards,\r\n\r\nMark Schaeber\r\n\r\nTel: (315) 869-5602."
+    },
+    {
+        "from": "scammer_1543",
+        "to": "baiter_1543",
+        "direction": "Inbound",
+        "days_from_first_conversation": 8.096134259259259,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: Greetings,",
+        "body": "Dear Jessica,\r\n\r\nYes, I had a pleasant weekend. You can make research on the terms of the documents mentioned. The amount is clearly stated in my previous email. Kindly read carefully to find the statement “the process of procurement will cost you the sum of US$375”. What is your convenient method of payment? I await your prompt response.\r\n\r\n\r\n\nThank you,\r\n\r\nMark Schaeber\r\n\r\nTel: (315) 869-5602."
+    },
+    {
+        "from": "baiter_1543",
+        "to": "scammer_1543",
+        "direction": "Outbound",
+        "days_from_first_conversation": 8.110231481481481,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: Greetings,",
+        "body": "Hi Mark,\n\nI hope this message finds you well. I'm glad to hear that you had a pleasant weekend. Regarding the documents, I did go through them but I must admit, some of the terms were a bit complex for me to understand. Could you perhaps simplify it for me? \n\nAs for the payment method, could you provide me with more options? I usually use PayPal or direct bank transfer but I'm open to other methods if they are safe and convenient.\n\nLooking forward to your response.\n\nBest wishes,\nJessica"
+    },
+    {
+        "from": "baiter_1543",
+        "to": "scammer_1543",
+        "direction": "Outbound",
+        "days_from_first_conversation": 8.110532407407407,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Re: Greetings,",
+        "body": "Hi Jessica,\n\nThanks for getting back to me so quickly! I'm a bit confused about how they operate. Could you please explain it in more detail?\n\nBest wishes,\nJessica"
+    },
+    {
+        "from": "scammer_1543",
+        "to": "baiter_1543",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.04980324074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: Greetings,",
+        "body": "Dear Jessica,\r\n\r\nThanks for your response. For your information, property mutation means transfer or change of title in the records of the local municipal body for the concerned property.\r\n\r\nAffidavit of Domicile is a legal document that you can use to verify the home address of a person who has died.\r\n\r\nSuccession Statutory is the transmission of property or property interests of a decedent as provided by statute as distinguished from the transfer in accordance with the law of inheritance.\r\n\r\nAn Affidavit of Heirship is a document used to give property to the heirs of a person who has died.\r\n\r\nAs for the payment method, it’s okay we make use of PayPal or direct bank transfer method of payment but as we move forward, we'll establish other methods of payment if needed. I look forward to your response in order to begin the process.\r\n\r\n\r\n\nSincerely,\r\n\r\nMark Schaeber\r\n\r\nTel: (315) 869-5602."
+    },
+    {
+        "from": "scammer_1543",
+        "to": "baiter_1543",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.050277777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "22",
+        "subject": "Re: Greetings,",
+        "body": "I already did"
+    },
+    {
+        "from": "baiter_1543",
+        "to": "scammer_1543",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.068402777777777,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "23",
+        "subject": "Re: Greetings,",
+        "body": "Dear Mark,\n\nThank you for your detailed explanation. I appreciate the time you took to clarify these terms for me. It's all starting to make more sense now.\n\nI'm curious about the property mutation process. How long does it usually take? And are there any specific documents that need to be prepared in advance?\n\nAs for the payment method, a direct bank transfer sounds fine to me. However, could you please explain how this process works? I've never done a bank transfer before and would like to understand it better.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJessica"
+    },
+    {
+        "from": "baiter_1543",
+        "to": "scammer_1543",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.068460648148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "24",
+        "subject": "Re: Greetings,",
+        "body": "Hello there! \n\nOh, you've already done it? That's great! Can you tell me more about what exactly you did? I'm always eager to learn from others' experiences.\n\nBest wishes,\nJessica"
+    }
+]

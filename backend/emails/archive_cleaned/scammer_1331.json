@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1331",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings to you and your hous",
+        "body": "Greetings to you and your household From the bottom of my heart.\nMy name is Mrs. Ella H Jonathan, a citizen of the United States of America and working with the United nation Resource Management in Burkina Faso. I't is my pleasure to meet with you here on the internet. I know we have not met before but my instincts led me to discuss a very important project with you that will change lives for good and I promised you will never regret this offer trust me. I’m currently hospitalized in a private hospital here in Texas as a result of brain cancer. My purpose for writing to you is for a charity project with your help, the fund that I have in my private account in Burkina Faso.\nIt is clear that I’m approaching the last days of my life according to the doctor. I’m offering the sum of $4.2 Million to anybody that will invest the fund wisely into profitable business ventures and donate part of the profit earned from the investment to charity work worldwide; I am helpless to do so as a result of my health, I urge you to help me fulfill my wish.\nAs soon as I receive your positive response, I will detail and also direct you on what to do.\nRegards,\nMs. Ella H Jonathan"
+    },
+    {
+        "from": "baiter_1331",
+        "to": "scammer_1331",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings to you and your hous",
+        "body": "Hello Ms. Ella Jonathan,\n\nThank you for reaching out to me and sharing your story. I'm sorry to hear about your health condition, and I hope you're receiving the best possible care in the hospital.\n\nI'm interested in learning more about the charity project you mentioned. Could you please provide some additional details about how the funds will be used for charitable purposes? It's important for me to understand the impact this project will have on people's lives.\n\nAdditionally, could you explain how my involvement would be beneficial? What role would I play in this project, and what are the expected outcomes?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLinda"
+    }
+]

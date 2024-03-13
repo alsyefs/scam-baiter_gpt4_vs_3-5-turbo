@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2091",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn:Please",
+        "body": "Attn:Please\nIts our pleasure to inform you that we the management of This bank has decided to release your funds through our online banking system after our brief meeting with the board of directors, This will enable you create an online account with this bank and transfer your funds to any account of your choice ,\nSo please kindly respond back to us to enable us direct you on how to create an online account with this bank to enable you make your transfer by yourself ,\nYou are required to respond back to us with the below details\nFull Name:;\nCountry:;\nCity:::\nAddress::\nPhone:::\nCopy Of Id\nOccupation ::\nThanks as we wait for your response\nSigned Management of International Bank\npcharle243@gmail.com\nReceive Your Funds Through Online Banking"
+    },
+    {
+        "from": "baiter_2091",
+        "to": "scammer_2091",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attn:Please",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate the opportunity to receive my funds through your online banking system. However, before proceeding, I have a few questions.\n\n1. Can you please provide more information about your bank? What is the name of the bank and where is it located?\n\n2. How secure is your online banking system? What measures do you have in place to protect customers' personal and financial information?\n\n3. Are there any fees or charges associated with creating an online account and transferring funds?\n\n4. Could you explain the process of creating an online account with your bank? Is it a simple and straightforward process?\n\nI look forward to hearing back from you with the requested information.\n\nBest wishes,\nStephen"
+    }
+]

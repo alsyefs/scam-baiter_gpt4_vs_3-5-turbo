@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2644",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " THIS IS LAST ORDER FROM IMF C",
+        "body": " THIS IS LAST ORDER FROM IMF COMPANY.\nAttention Beneficiary, this is to bring to your notice that international monetary funds  (imf) has finalized all the investigation carried out regarding your funds .\nDuring the investigation,we noticed that your funds has been in federal reserve bank (FRB) for 1 years . You had suffered a lot to get this fund, but internet fraudsters keep on scamming which made you to lose your trust and alot of thousands of dollars.\nGet back to me as soon a possible for more information about your fund and the right office with your fund.\nHow do you wish to receive this fund, \nATM card delivery fee: $20\nCash Delivery fee :$75\nBank Transfer fee:$50\nYou are to choose a way you want to receive your fund and reply back to me along with your full address \n(FROM IMF)    "
+    },
+    {
+        "from": "baiter_2644",
+        "to": "scammer_2644",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  THIS IS LAST ORDER FROM IMF C",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate the information regarding my funds. It's unfortunate that there have been scams in the past, but I'm glad to hear that the IMF has finalized everything regarding my funds.\n\nCould you please provide more details about the right office and how I can proceed to receive my funds? I would like to make sure that everything is done correctly and securely.\n\nAlso, could you clarify the different ways in which I can receive my funds? It would be helpful to know what options are available.\n\nThank you again for your assistance. I look forward to your response.\n\nBest wishes,\nMarjorie"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_454",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "IRREVOCABLE COMPENSATION/INHER",
+        "body": "IRREVOCABLE COMPENSATION/INHERITANCE PAYMENT FROM IMF OFFICE.\nGood Day\nHave you received Your Approved International Monetary Funds\ncompensation/ inheritance unclaimed funds payment of\nUS$1,880,000.00?.\nYou have been contacted several times no response to enable receive\nyour funds  beneficiary/ inheritance funds years back before now.If\nyou have received your total funds as approved by IMF kindly indicate\nfor directives to contact your approved paying bank immediately.\nGet back to us immediately for more details.Payment has a time limit on\nphase 1 and Phase 2 payments as directed by the IMF Office.\nCongratulations.\nThank you.\nMrs Zenia Smith\nPayment International Monetary Fund Department,"
+    },
+    {
+        "from": "baiter_454",
+        "to": "scammer_454",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: IRREVOCABLE COMPENSATION/INHER",
+        "body": "Hello Mrs. Zenia Smith,\n\nThank you for reaching out to me. I must admit, this is quite a surprise! I wasn't aware that there were any funds waiting for me. Could you please provide more details about these funds? How did they come to be approved by the IMF? \n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nCathy"
+    }
+]

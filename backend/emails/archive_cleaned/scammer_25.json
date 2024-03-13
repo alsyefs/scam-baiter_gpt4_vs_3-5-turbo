@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_25",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  From: Mrs, Eunice Katuche   ",
+        "body": "  From: Mrs, Eunice Katuche                                                                 4th March, 2024\nThe Director, Debt Reconciliation Committee\nYour attention\nThis Committee on Debt Reconciliation Committee has been instructed to communicate to you in regards to the debt owed to you by the Federal Government of Nigeria. Record proof that your funds $9.8m were placed on hold by the previous administration.\nHowever, This present administration has come up with modalities for the sake of pacification to settle all legitimate debt owed to foreign companies and individuals, which you are among. and Scotia bank has been nominated to pay all the beneficiaries their legitimate entitlements.\nTherefore, contact Mrs Eunice Katuche the Director, Debt Reconciliation Committee on this email address  \naccessintltrans@gmail.com\n  on how to contact Scotia bank for proceeding toward payment of your funds entitlement.\nYours Sincerely\nMrs. Eunice Katuche\nDirector, Debt Reconciliation Committee.   "
+    },
+    {
+        "from": "baiter_25",
+        "to": "scammer_25",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   From: Mrs, Eunice Katuche   ",
+        "body": "Hello Mrs. Eunice Katuche,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I wasn't aware that the Federal Government of Nigeria owed me any debt. Could you please provide more details about this? How did my name come up in your records?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nGerald"
+    }
+]

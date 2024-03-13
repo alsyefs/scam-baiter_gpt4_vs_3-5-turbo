@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1266",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir/Madam,",
+        "body": "  Dear Sir/Madam,\n        I am Mr Bob Amadi from the Ministry of Finance, Nigeria. This\nis to inform you that the newly Executive President of Nigeria,\nPresident Ahmed Bola Tinubu has directed my office to pay you a\ncompensation fund of $65.5 Million to you because of all the money you\nlost to Nigerian criminals/fraudsters.\nYou are hereby advice to send the following information to enable us\nprocess your file and subsequently release your $5.5 Million\ncompensation to you.\n1: Your full name\n2: Address\n3: Telephone number\n4: A scanned copy of your International passport/drivers license.\n5: Your Company name and your position in your company.\nI will give you more details as soon as i receive your prompt response.\nRegards,\nBob Amadi.\nMinistry of Finance.   "
+    },
+    {
+        "from": "baiter_1266",
+        "to": "scammer_1266",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir/Madam,",
+        "body": "Hello Bob Adi,\n\nThank you for your message. It's quite surprising to hear about this fund from President Ahmed Bola Tinubu. I must admit, I wasn't expecting such news.\n\nCould you please provide more details about this situation? How did the president come to know about my case? And why has he decided to compensate me with such a large sum?\n\nI'm also curious about the process of releasing these funds. Could you explain it a bit more?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nSergio"
+    }
+]

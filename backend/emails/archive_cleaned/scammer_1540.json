@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1540",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "St. Mark Matters $ Partners.",
+        "body": "St. Mark Matters $ Partners.\nEmail: \nattorneymark066@gmail.com\nTel/Fax: +1 (856)499-4242\nDate: 14th Nov, 2023.\nDear,\nThis is to inform you that after our several petitions against the paying bank over the delay in releasing your already approved fund with its accumulated interest, we have today\nbeing 14th Nov, 2023, received an official Re-approval notification and unconditional  fund release signal in your favor, \nso please \nurgently reconfirm your bank details\n for immediate submission to the paying bank and your data for re-validation.\nFull Name:\nAddress:\nDirect Mobile No:\nScan copy of your Identity\n:\nDOB:\nHave a great day while waiting to hear from you soonest.\nYours in service\nBarrister Mark H. Safar.\nPrincipal Partners/ Owner, St. Mark Matters & Partners.\nTel/Fax: +1 (856)499-4242. Email: \nattorneymark066@gmail.com"
+    },
+    {
+        "from": "baiter_1540",
+        "to": "scammer_1540",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: St. Mark Matters $ Partners.",
+        "body": "Hello Barrister Mark H. Safar,\n\nThank you for your message and the work you've been doing on my behalf. It's great to hear that there has been progress with the fund release.\n\nBefore we proceed, could you please provide me with more details about this process? I'm interested in understanding how it works and what steps are involved. \n\nAlso, could you clarify what exactly the \"official and fund release signal\" means? Is there any documentation or reference number related to this?\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nWayne"
+    }
+]

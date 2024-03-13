@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_833",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello,dearest,",
+        "body": "  Hello,dearest,\nGold for sale\nMy name is Nora Fernandez  I'm a pretty single 24 years old  girl\nlooking for love  and  seeking to sale Gold and Diamond weighing\n2.98kg with JC ROYAL GOLD COMPANY Corporation in LIBERIA and to our\naffiliated branches in Senegal and Ghana\nProduct specification as follows:\nRaw Gold:\nFOB\nOrigin: LIBERIA, Africa\nFINENESS: 22Karats\nForm: Gold Bars (AU Concentrate), Gold Dust And Gold BARS\nPURITY: 97.95%\nPRICE:  $ 38,000 USD per Kg\nCIF\nMandate/Broker Commission: $2000 Per Kg\nOur operational mining sites from different parts in Liberia provides\nthe large scale minerals production on a weekly basis, upto 40\nkilograms of gold per week and up to 500 carats of rough diamonds of\ndifferent sizes per week also.\nUpon your response we will send you our full cooperate offer (FCO)\nwhich will state our terms and conditions for the transaction.\nThank you and we hope for your long term cooperation with our company.\nMiss Nora Fernandez..   "
+    },
+    {
+        "from": "baiter_833",
+        "to": "scammer_833",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello,dearest,",
+        "body": "Hello Miss Nora,\n\nThank you for reaching out to me. I'm interested in learning more about the gold and diamond sales you mentioned. Could you please provide me with some additional information?\n\n1. What is the current price per kilogram of gold and carat of rough diamonds?\n2. Can you tell me more about JC ROYAL GOLD COMPANY? How long have they been in operation?\n3. Are there any certifications or licenses that your company holds to ensure the authenticity and legality of the gold and diamonds?\n4. Could you explain what FOB and CIF mean in terms of pricing and shipping?\n\nI appreciate your time and look forward to hearing back from you.\n\nBest wishes,\nMarian"
+    }
+]

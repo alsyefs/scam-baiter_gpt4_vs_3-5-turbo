@@ -1,0 +1,182 @@
+[
+    {
+        "from": "scammer_1936",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention Dear Customer,",
+        "body": "Attention Dear Customer,\n \nThis is to bring to your notice that your long awaited fund of USD$ 4,800.000.00) Four Million Eight Hundred Thousand United State Dollars has been deposited with MoneyGram Global Money Transfer Services. \nNew Delhi, INDIA\n. After cross-checking your record last week Friday, we noted that your record is clear and you are free to receive your long awaited fund without delay. Be advised to contact MoneyGram Global Money Transfer Services Manager NEW DELHI INDIA immediately for urgent access to your payment file so that you will start receiving your daily amount today.\n \nFind their contact email below:\n \nMR HASSANAND MASAND/ Manager MoneyGram\nAddress: 13&14 OLD MARKET TILAK NAGAR NEW DELHI\nE-mail: \nofficedesk2@gmx.us\n \nPlease you have to contact the MoneyGram Office immediately you receive this message because your payment files are on their desk right now. They are waiting to hear from you to give you more details on how you will receive your daily payment.\n \nThanks for your time and patience.\nMr Louis Holland.\nMoney-Gram Payment Notification!"
+    },
+    {
+        "from": "baiter_1936",
+        "to": "scammer_1936",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attention Dear Customer,",
+        "body": "Hello Mr. Louis Holland,\n\nThank you for reaching out to me regarding my long-awaited fund. I appreciate the update and would like to know more about the Global Money Transfer Services in New Delhi, India. Could you please provide me with some additional information about how they operate and what steps I need to take to access my payment file?\n\nI look forward to your response.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1936",
+        "to": "baiter_1936",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Re: Attention Dear Customer,",
+        "body": "\"Notification Of Your Long Awaited Fund Of USD$ 4,800.000.00\"\r\n\r\nDear Beneficiary Corey,\r\n\r\nThanks for your quick response, we appreciated your action towards your transaction. We have received the needed data to install and approve your total fund of US$ 4,800.000.00 to Central System for payout.\r\n\r\nYour daily amount will be $3,600, $900 per each reference number x 4 = $3,600.\r\n\r\nInstallation of your total fund to Central System will cost you $115.00. This will enable you receive your fund in any country of your choice once the installation to central system takes place.\r\n\r\n2) Whereby you don't have time to be visiting MoneyGram Office everyday to pickup your payment, we can make direct transfer to your account or MoneyGram CARD will be given to you to enable you withdraw your cash whenever you need. All it will cost you is $ 350.00 and you will receive the Cash or Card instantly.\r\n\r\nYou have to make your choice and get back to us with the payment for immediate workout of your transaction to avoid more delay.\r\n\r\nPlease your urgent message will be appreciated.\r\n\r\nMR HASSANAND MASAND\r\nManager MoneyGram NEW DELHI"
+    },
+    {
+        "from": "scammer_1936",
+        "to": "baiter_1936",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0012268518518518518,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Re: Attention Dear Customer,",
+        "body": "\"Notification Of Your Long Awaited Fund Of USD$ 4,800.000.00\"\r\n\r\nDear Beneficiary,\r\n\r\nThanks for your quick response, we appreciated your action towards your transaction. We have received the needed data to install and approve your total fund of US$ 4,800.000.00 to Central System for payout.\r\n\r\nYour daily amount will be $3,600, $900 per each reference number x 4 = $3,600.\r\n\r\nInstallation of your total fund to Central System will cost you $115.00. This will enable you receive your fund in any country of your choice once the installation to central system takes place.\r\n\r\n2) Whereby you don't have time to be visiting MoneyGram Office everyday to pickup your payment, we can make direct transfer to your account or MoneyGram CARD will be given to you to enable you withdraw your cash whenever you need. All it will cost you is $ 350.00 and you will receive the Cash or Card instantly.\r\n\r\nYou have to make your choice and get back to us with the payment for immediate workout of your transaction to avoid more delay.\r\n\r\nPlease your urgent message will be appreciated.\r\n\r\nMR HASSANAND MASAND\r\nManager MoneyGram NEW DELHI"
+    },
+    {
+        "from": "baiter_1936",
+        "to": "scammer_1936",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03509259259259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Re: Attention Dear Customer,",
+        "body": "Hello,\n\nThank you for reaching out with this information. I appreciate your efforts in assisting with the installation and approval of my fund. Could you please provide more details about the process and how the payment for the central system works? I would like to understand the next steps before proceeding further.\n\nLooking forward to your response.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "baiter_1936",
+        "to": "scammer_1936",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.035138888888888886,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Re: Attention Dear Customer,",
+        "body": "Hello,\n\nThank you for reaching out to me regarding my long-awaited fund of USD. I appreciate the update on the installation and approval process. Could you please provide more details on how the payment process works? I would like to understand the steps involved before proceeding further.\n\nLooking forward to your response.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "baiter_1936",
+        "to": "scammer_1936",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.035173611111111114,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Re: Attention Dear Customer,",
+        "body": "Hello,\n\nThank you for reaching out with this information about my long-awaited fund. I appreciate your assistance in getting this sorted out. Could you please provide more details on how the payment process works and what steps I need to take next to proceed with receiving my funds? Your guidance on this matter would be greatly appreciated.\n\nLooking forward to your response.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1936",
+        "to": "baiter_1936",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.190162037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Re: Re: Attention Dear Customer,",
+        "body": "Thanks for your message. Bank transfer will cost you $350 while receiving it through MoneyGram will cost you $115, so choose one of the two payment and send it by Apple Card or Steam Wallet Card. I will wait for your response.\r\n\r\nHassan"
+    },
+    {
+        "from": "baiter_1936",
+        "to": "scammer_1936",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2024305555555554,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Re: Re: Attention Dear Customer,",
+        "body": "Hello! Thank you for reaching out. Could you please provide more details about the payment options you mentioned? I'm interested to learn more about how they work.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1936",
+        "to": "baiter_1936",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.2412152777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Re: Re: Re: Attention Dear Customer,",
+        "body": "Go to any supermarket or store then ask for Apple Gift Card or Steam Wallet Card. They will give it to you."
+    },
+    {
+        "from": "baiter_1936",
+        "to": "scammer_1936",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.243587962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Re: Re: Re: Attention Dear Customer,",
+        "body": "Oh, interesting! How does getting those cards benefit me? What can I use them for?\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "baiter_1936",
+        "to": "scammer_1936",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2449189814814814,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Re: Re: Attention Dear Customer,",
+        "body": "Hello Hassan, thank you for reaching out. I appreciate the information about the payment options. Can you please provide more details on how the bank transfer works compared to using an Apple Card or Steam Wallet Card? I want to make sure I understand all my options before making a decision.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "baiter_1936",
+        "to": "scammer_1936",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2859606481481483,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Re: Re: Attention Dear Customer,",
+        "body": "Hello Hassan, thank you for reaching out. Can you please provide more details about the payment options you mentioned? I'm not familiar with using Apple Card or Steam Wallet Card for transfers. How do they work exactly?\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "baiter_1936",
+        "to": "scammer_1936",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.369398148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Re: Re: Attention Dear Customer,",
+        "body": "Hello Hassan, thank you for reaching out. Can you please provide more details about the payment options you mentioned? I'm not familiar with using Apple Card or Steam Wallet Card for transfers. How does that work exactly?\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1936",
+        "to": "baiter_1936",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.6838425925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: Re: Re: Re: Attention Dear Customer,",
+        "body": "Go to any close store or supermarket and ask for Apple Card or Steam Wallet Card. Okay"
+    },
+    {
+        "from": "baiter_1936",
+        "to": "scammer_1936",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.701712962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: Re: Re: Re: Attention Dear Customer,",
+        "body": "Hello! Thank you for the information. Can you tell me more about how these cards work and what they can be used for?\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1936",
+        "to": "baiter_1936",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.8085300925925927,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: Re: Re: Re: Re: Attention Dear Customer,",
+        "body": "Contact us only when you are ready to receive your fund and as soon as you send the required fee. Don't ask silly question again."
+    },
+    {
+        "from": "baiter_1936",
+        "to": "scammer_1936",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.8268402777777777,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: Re: Re: Re: Re: Attention Dear Customer,",
+        "body": "Hello! I'm interested in receiving my fund. Could you please provide me with more details about the required fee and how to proceed with the payment?\n\nBest wishes,\nJames"
+    }
+]

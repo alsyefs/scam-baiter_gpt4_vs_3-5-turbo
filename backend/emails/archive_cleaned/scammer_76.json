@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_76",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "From Miss. Agartha Mensah",
+        "body": "From Miss. Agartha Mensah\nManager UBA Bank\nKaneshie Branch,\nGhana.\nAttn: Sir,\nGreetings to you.\nI got your contact during my search for a reliable, honest and a trust\nworthy person to entrust this huge transfer project with. My name is\nMiss.Agartha Mensah. I am the manager of the United Bank for Africa\nGhana, Kaneshie Branch. I am a Ghanaian.\nI am writing to solicit your assistance in the transfer of\nUs$3,300.000.00.\nThis fund is the excess of what my branch in which I am the manger made\nas\nprofit during the last year. I have already submitted an approved end\nof the year report for the year 2021 to my head office here in Accra and\nthey will\nnever know of this excess. I have since then, placed this amount of\nus$3,300.000.00 on an\nescrow account Without a beneficiary.\nAs an officer of the bank, I cannot be directly connected to this\nfund; thus I am impelled to request for your assistance to receive this\nmoney into\nyour bank account. I intend to part 40% of this fund to you while 60%\nshall be for me.\nThe transaction(scheme) is risk free \nand the money will be transferred\nto your designated\naccount through bank-to-bank transfer via telegraphic wire transfer.\nAll I need from you is to stand as the original depositor of this fund.\nIf you accept this offer, I will appreciate your timely response.\nWith regards,\nMiss.Agartha Mensah."
+    },
+    {
+        "from": "baiter_76",
+        "to": "scammer_76",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: From Miss. Agartha Mensah",
+        "body": "Hello Miss. Agartha Mensah,\n\nI hope this message finds you well. I'm intrigued by your proposal and would like to understand more about it. \n\nYou mentioned that the money is currently in an escrow account, could you please explain a bit more about how this works? Also, what exactly do you mean when you say that I need to stand as the original depositor of this fund?\n\nLooking forward to hearing from you.\n\nBest wishes,\nEmma"
+    }
+]

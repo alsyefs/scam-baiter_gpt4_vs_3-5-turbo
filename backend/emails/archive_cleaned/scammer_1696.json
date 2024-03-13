@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1696",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir, We have been waiti",
+        "body": "  Dear Sir, We have been waiting for your Reply regarding the loan of US$10,000 which will be crediting to your Cash App account or your bitcoin Wallet Address, which you will use to cover the fee to receive your US$950,000.00\nHere is the information to contact the Bitcoin company\nBITGO COMPANYAddress:  1447 Ash St, Palo Alto New York USA\nEmail address:  \nJames_adams01@outlook.com\nName: Mr James Adams\nI will advise you to contact them with your Cash App account  bitcoin Wallet Address immediately to enable them credit you\ntoday inform him that you are from our bank Mr Ibrahim Hassan the chairman of Guaranty Trust Bank GTBank\nI will be waiting for your confirmation of your WhatsAp number and home address\nRegards\nMr Ibrahim Hassan\nChairman of Guarantee\nTrust Bank GTBank   "
+    },
+    {
+        "from": "baiter_1696",
+        "to": "scammer_1696",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir, We have been waiti",
+        "body": "Dear Mr. Ibrahim Hassan,\n\nThank you for reaching out to me regarding the loan. I appreciate your assistance in providing the necessary information. However, before proceeding further, I have a few questions that I would like to clarify.\n\n1. Could you please provide more details about the loan? What is the interest rate and repayment terms?\n\n2. How long will it take for the loan amount to be credited to my Cash App account or bitcoin wallet address?\n\n3. Is there any documentation or paperwork that needs to be completed before receiving the loan?\n\n4. Can you please explain why I need to contact the Bitcoin company? What role do they play in this process?\n\nI look forward to your response and further guidance on how to proceed with obtaining the loan.\n\nBest wishes,\nDiana"
+    }
+]

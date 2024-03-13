@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_988",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Prof Hameed Olagunju",
+        "body": "  Prof Hameed Olagunju\nOffice of the Presidency,\nAso Rock, Villa FCT,\nAbuja Nigeria.\nOur Ref:                                                                                                                                                 Your Ref:\nAttn:    \nThe Office of the Presidency has directed that I should contact you prior to your unpaid funds with the Nigerian Government. Note that at the recent world leaders G-20 Summit that was held in India, Mr President federal republic of Nigeria was mandated by his colleagues to pay all outstanding funds to the foreign Beneficiary which you are privileged to be among, so in due course everything concerning your funds has been perfectly put in place and will be waiting for your swift response. The amount that was mapped out to pay each beneficiary is the sum of US$10M only. Considering what Beneficiaries suffered in the hands of scammers it might interest you to know that the little amount that will be given as an upfront payment, 3/4 of it will be paid by your country's President while you being the beneficiary will pay 1/4 of the amount..\nThanks and God bless.\nProf Hameed Olagunju,\nEconomic Adviser to the President.   \nFederal Republic of Nigeria.   "
+    },
+    {
+        "from": "baiter_988",
+        "to": "scammer_988",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Prof Hameed Olagunju",
+        "body": "Hello Prof Hameed Olagunju,\n\nThank you for reaching out to me. I'm honored to be considered for this opportunity. It's not every day that one gets a message from the Economic Adviser to the President of the Federal Republic of Nigeria!\n\nI must admit, I'm a bit confused about some parts of your message. Could you please clarify what exactly these unpaid funds are? And how did my name come up in this context?\n\nAlso, could you provide more details about this upfront payment? What is it for and why is it necessary?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nHelen"
+    }
+]

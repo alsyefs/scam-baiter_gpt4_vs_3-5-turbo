@@ -1,0 +1,52 @@
+[
+    {
+        "from": "scammer_2706",
+        "to": "baiter_2706",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Investment trust",
+        "body": "Greetings,\r\n\r\nI am Mr. Ammar Hussain Finance and Account, Qatar Petroleum. I have one hundred million dollars for Investment.\r\n\r\nContact me if you are interested, I have all what it will take to move the fund to you as a contract fund to avoid every query. I will give you more details upon the receipt of your response on :mr.ammarhussain0@gmail.com<mailto:mr.ammarhussain0@gmail.com>\r\n\r\nRegards,\r\n\r\nAmmar Hussain\r\nFinance and Account.\r\nQatar Petroleum\r\nEmail: mr.ammarhussain0@gmail.com<mailto:mr.ammarhussain0@gmail.com>"
+    },
+    {
+        "from": "baiter_2706",
+        "to": "scammer_2706",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Investment trust",
+        "body": "Hello Mr. Ammar Hussain,\n\nI hope this message finds you well. Your proposal sounds quite interesting, although I must admit, it's a bit overwhelming to think about such a large sum of money! \n\nCould you please provide more details about this? For instance, what exactly does it mean to move the fund as a contract fund? And what would be required from my end?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nJerome"
+    },
+    {
+        "from": "baiter_2706",
+        "to": "scammer_2706",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.787037037037037e-05,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Investment trust",
+        "body": "Hello Mr. Ammar Hussain,\n\nI hope this message finds you well. Your proposal sounds quite interesting, and I would love to learn more about it. Could you please provide me with more details? For instance, what exactly does the process involve? And how did you come across my contact information?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJerome"
+    },
+    {
+        "from": "baiter_2706",
+        "to": "scammer_2706",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0020486111111111113,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Investment trust",
+        "body": "Hello Mr. Ammar Hussain,\n\nI hope this message finds you well. Your proposal sounds very interesting, although I must admit, it's a bit overwhelming to think about such a large sum of money! \n\nCould you please provide more details about this? For instance, what exactly does it mean to move the fund as a contract fund? And what would be required from my end?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nJerome"
+    },
+    {
+        "from": "baiter_2706",
+        "to": "scammer_2706",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0021180555555555558,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Investment trust",
+        "body": "Hello Mr. Ammar Hussain,\n\nI hope this message finds you well. Your proposal sounds very interesting, although I must admit, it's a bit overwhelming to think about such a large sum of money! Could you please provide more details about this process? How exactly would the fund be moved?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJerome"
+    }
+]

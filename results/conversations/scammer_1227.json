@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_1227",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello,",
+        "body": "Hello,\nWe are a U.S Base Investment Company offering Corporate and Personal Investment Funding at a 2~7% ROI for a duration of   10 Years. Kindly have our membership card at 40 dollars only and also sign our Agreement / MOU Clearance you will be  guaranteed to have a non collateral loan of 100  to 10million dollars with credit union loan investment company, we  \nalso offer 1%  to individuals who introduce  project owners for finance or other opportunities.\nPlease get back to me if you are interested in more details.\nYours faithfully,\nMR. MATTHEW JAMES CRUZ\nDIRECTOR LOAN FEDERAL SERVICE CREDIT UNION\nInvestment Analyst\nDirect Phone: +13018249216\nFax number;   +13015907872\nEmail:  \ncruzmatthew1980@gmail.com\nOffice Email. \nadmindept@servicecrd.com"
+    },
+    {
+        "from": "baiter_1227",
+        "to": "scammer_1227",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello,",
+        "body": "Hello Mr. Matthew James Cruz,\n\nThank you for reaching out and providing such detailed information about your investment company. It sounds like a great opportunity! I'm intrigued by the idea of personal investment funding.\n\nCould you please elaborate more on how the ROI works over the years? Also, I'm curious about the membership card. What are its benefits and what does it entail?\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nGene"
+    },
+    {
+        "from": "scammer_1227",
+        "to": "baiter_1227",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Hello,",
+        "body": "Hello Gene\r\n\r\nI am glad to hear from you, as you can see,   The ROI formula is: (profit\r\nminus cost) / cost. If you made $10,000 from a $1,000 effort, your return\r\non investment (ROI) would be 0.9,\r\n\r\nAlso the membership ID CARD, can guarantee your NEXT OF KIN to get loan in\r\nour company without any collateral\r\n\r\nPlease have your time and indicate the exact amount you will required from\r\nus for your Project investment plans\nThanks\r\n\r\nMR. MATTHEW JAMES CRUZ\r\nDIRECTOR LOAN FEDERAL SERVICE CREDIT UNION\r\nInvestment Analyst\r\nDirect Phone: +13018249216\r\nFax number;   +13015907872\r\nEmail:  cruzmatthew1980@gmail.com\r\nOffice Email. admindept@servicecrd.com"
+    },
+    {
+        "from": "baiter_1227",
+        "to": "scammer_1227",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.017002314814814814,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Hello,",
+        "body": "Hello Mr. Matthew James Cruz,\n\nIt's a pleasure to hear from you! I'm intrigued by the ROI formula you've mentioned, it sounds like a great way to measure the success of an investment. Could you perhaps explain it in more detail? \n\nThe membership ID CARD also sounds interesting. How does it work exactly? And how can my next of kin benefit from it?\n\nAs for the loan amount, I'm still in the process of finalizing my project investment plans. Could you tell me more about the range of loan amounts your company offers?\n\nLooking forward to hearing from you.\n\nBest wishes,\nGene"
+    },
+    {
+        "from": "scammer_1227",
+        "to": "baiter_1227",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.3306365740740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Hello,",
+        "body": "Hello Gene\r\n\r\nWe offer portfolios worth between USD$1M to USD$1B\nThanks"
+    },
+    {
+        "from": "baiter_1227",
+        "to": "scammer_1227",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.35032407407407407,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Hello,",
+        "body": "Hello Gene,\n\nThat sounds interesting! Could you please provide more details about these portfolios? What kind of investments do they include? And how does the process work?\n\nThanks for your time.\n\nBest wishes,\nGene"
+    }
+]

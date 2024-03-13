@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1172",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Good day.",
+        "body": "   Good day.\nThis is to inform you that your e-mail address found among the list of\npeople that has been scammed by Togo imposters, it’s might interest\nyou to know that a total sum of 5.5million had been set aside for\ncompensation which will be delivered to you in a consignment box. It’s\nwas endorsed by the Presidency Federal Republic of Togo in\nConjunctions with the homeland security during our first meeting this\nyear.\nMeanwhile, you are to contact the chamber in charge in respect of\nBarrister Thompson Miller with the details below.\nName: Barrister Thompson Miller\nE-mail: \ninfo_lawyers_firm@qualityservice.com\nFor further progressive information on how to make sure your funds is\ndelivered to you kindly fill the below requirement/delivery address to\ncomplete the shipment\nNames in full:............\nContact address:..........\nResidential address:......\nZip code:.................\nCountry:..................\nOccupation:...............\nTelephone number:.........\nAge:......................\nMarital Status:...........\nSex:......................\nNationality:..............\nCopy of your international passport/drivers license:..................\nBe aware that all beneficiary will be responsible for shipping charges\nwhich cannot be deducted from the fund because there is a bond holding\nthe consignment that stated that only the sole beneficiary of the fund\nis permitted to open it, the shipping charges is only $250usd.Also\nnote that the federal high Court here will alert the United State\nBureau and also your state police immediately your shipment leave the\nshore of Togo, so as to avoid any restriction and problem before the\nfund get to it port of destination.\nThanks\nBest Regards\nFederal High Court of Togo  "
+    },
+    {
+        "from": "baiter_1172",
+        "to": "scammer_1172",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Good day.",
+        "body": "Hello,\n\nThank you for reaching out and sharing this information. It's quite surprising to hear about the situation in Togo. I'm curious, how did my address end up on this list? \n\nAlso, could you please provide more details about Barrister Thompson Miller? What is his role in this process?\n\nI understand that there are shipping charges involved. Could you clarify how much these charges would be?\n\nI appreciate your help and look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMary"
+    }
+]

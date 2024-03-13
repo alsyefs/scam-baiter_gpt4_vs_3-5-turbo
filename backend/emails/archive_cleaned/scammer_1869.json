@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1869",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello,",
+        "body": "  Hello,\nHope you had a good day.\nPlease If you have time, write to me so i can sent you a detailed message.\nThank you,   "
+    },
+    {
+        "from": "baiter_1869",
+        "to": "scammer_1869",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello,",
+        "body": "Hello there,\n\nI hope you're doing well. I'm glad to hear from you and I'd be happy to receive more information. Could you please tell me a bit more about what this is regarding? \n\nLooking forward to your response. Thank you!\n\nBest wishes,\nMaureen"
+    }
+]

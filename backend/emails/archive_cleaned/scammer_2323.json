@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2323",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello My Dear.",
+        "body": "  Hello My Dear.\nMy Greetings and compliments\nI sent you a letter a day ago, but I did not hear from you, I'm not sure if you got it, And that is why I am contacting you again\nGet back to me for more details is about your fund of Ten Million Five Hundred Thousand United states Dollars which has been approved in your favor  I am ready to help you release your fund into your account\nOlayemi Cardoso\nHead of operation   "
+    },
+    {
+        "from": "baiter_2323",
+        "to": "scammer_2323",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello My Dear.",
+        "body": "Hello Olayemi Cardoso,\n\nThank you for reaching out to me. I'm quite surprised to hear about this fund. Could you please provide more details about it? How was it approved in my favor? I'm really curious to know more.\n\nLooking forward to your response.\n\nBest wishes,\nLinda"
+    }
+]

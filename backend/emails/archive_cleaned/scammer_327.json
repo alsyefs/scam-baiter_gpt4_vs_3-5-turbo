@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_327",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings to you",
+        "body": "Greetings to you\nMy name is Brian Perez I work with a very reputable financial institution in Uk I have a very profitable business I want to share with you for our mutual benefit \nkindly get back to me with your private email and WhatsApp telephone for more details\nKindly reply me on my confidential email account: \nbrianperezes773@gmail.com\nI look forward to your response.\nRespectful\nMr Brian Perez"
+    },
+    {
+        "from": "baiter_327",
+        "to": "scammer_327",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings to you",
+        "body": "Hello Mr. Brian Perez,\n\nIt's a pleasure to meet you! I'm always interested in hearing about new business opportunities. Could you please provide me with more details about this venture? What kind of business is it and how can we mutually benefit from it?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nThelma"
+    }
+]

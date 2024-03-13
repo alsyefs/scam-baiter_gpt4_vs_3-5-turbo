@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1713",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  My name is Mr.Gui Anvanith, ",
+        "body": "  My name is Mr.Gui Anvanith, very sorry for the informal manner in which this letter is reaching you as it was necessitated by my urgent need to get your response.\nI came across your Email from my personal search and I decided to contact you believing you will be honest to fulfill my business proposal which I believe that will be a very good opportunity for both of us.\nIf this business proposal offends your moral and ethic values do accept my apology. kindly contact me at once if you are interested.\nBest Regards\nMr Gui Anvanith.   "
+    },
+    {
+        "from": "baiter_1713",
+        "to": "scammer_1713",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   My name is Mr.Gui Anvanith, ",
+        "body": "Hello Mr. Gui Anvanith,\n\nThank you for reaching out to me with your business proposal. I appreciate your honesty and I'm open to hearing more about it. Could you please provide me with some details regarding the nature of this proposal? I would like to understand how it could benefit both of us.\n\nLooking forward to your response.\n\nBest wishes,\nMia"
+    }
+]

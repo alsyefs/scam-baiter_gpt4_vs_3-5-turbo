@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_2629",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "This's Mr William J. Burns The",
+        "body": "This's Mr William J. Burns The Central Intelligence Agency (CIA) I'm contacting you regarding your package and also consignment box worth of $18.8Million usd,Motor Car and Television which was handed over to me by the federal government, this package has been here with me for a long time now and a man named Mr Mark Edward come to my office yesterday afternoon and complain that you’re died in a car accident and you give him the power in the hospital bed to clam this funds as your next of kin and he wanting to pay for the delivery of the package which is $50  Itune card and I told him to come back tomorrow for me to verify if this is true or not so kindly get back to me if you’re still alive,\nBest regards M.,William J. Burns\nNOTE:\nIf you cannot pay the $50 Itune gift card please don't reply back\n,"
+    },
+    {
+        "from": "baiter_2629",
+        "to": "scammer_2629",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: This's Mr William J. Burns The",
+        "body": "Hello Mr. Burns,\n\nThank you for reaching out to me regarding this package and the items inside. I must say, I am quite surprised by the news of my supposed demise in a car accident. Rest assured, I am very much alive and well.\n\nI find it concerning that someone named Mr. Mark Edward has approached you claiming to be my next of kin and wanting to pay for the delivery of the package with an iTunes gift card. That seems rather unusual, don't you think?\n\nCould you please provide me with more details about this situation? How did Mr. Edward come to know about this package and why would he need an iTunes gift card for its delivery? I want to make sure everything is legitimate before proceeding any further.\n\nLooking forward to your response.\n\nBest wishes,\nGoldie"
+    },
+    {
+        "from": "scammer_2629",
+        "to": "baiter_2629",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: This's Mr William J. Burns The",
+        "body": "Like I said before that your next of kin Mr Edwards already want to pay the\r\ndelivery charge and claimed your package and other items,  so the question\r\nhere is that if you didn't interested to pay and receive your things here\r\nlet him go on and pay it and also claimed all belongs to you"
+    }
+]

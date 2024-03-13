@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1959",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir",
+        "body": "  Dear Sir\nFrom my finding i discovered  that you do not have the resources to pursue the claim of the $18,000,000 Eighteen Million United States Dollars  in this institution Barclays Bank PLC London UK based on that,  I am advising you to stay clear there are some investors from China who need those funds to execute bigger project in the middle east United Arab Emirate they contacted us , henceforth, you should not bring in any form of confusion because  we the Barclays Bank executives have already agreed with  the Chinese Investment Company  financial accountant Mr CHIN YUN HIN that those funds has been abandoned by you long ago, we presented  him the  legitimate documents inside the bank when he visited us to confirm the  existence of those funds, however, I will may give you the email address of the Company accountant if you so desire so that you can hear from you\nthis message is to brief you so that it will not come to you as a surprise when those funds would be moved to the company bank  Account in the Middle east once they pay the necessary processing fee which they have agreed to pay any moment\nOne more thing, they are not to claim the accrued interest money which $475,000 yu ca apply ti claim that only is you can be able to fulfil the obligations , but for the principal inheritance amount $18,000,000 the investment company are claiming it \nThanks\nRuth Karome\nOnline Credit Control Director\nBarclays Bank PLC London   "
+    },
+    {
+        "from": "baiter_1959",
+        "to": "scammer_1959",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir",
+        "body": "Dear Ruth Karome,\n\nThank you for reaching out to me with this information. I must admit, it does come as a surprise to hear about these funds and the involvement of the Chinese Investment Company. Can you please provide me with more details about how this situation came about? How did the Chinese Investment Company become aware of these funds and why are they interested in pursuing them?\n\nAdditionally, I would appreciate it if you could share the email address of Mr. CHIN YUN HIN, the company accountant, so that I can communicate directly with him and learn more about their intentions regarding these funds.\n\nThank you again for bringing this to my attention. I look forward to hearing from you soon.\n\nBest wishes,\nDaniel"
+    }
+]

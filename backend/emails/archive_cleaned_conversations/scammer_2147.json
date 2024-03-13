@@ -1,0 +1,52 @@
+[
+    {
+        "from": "scammer_2147",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear  ",
+        "body": "  Dear  \nI am in receipt of your message and the content therein.\nThis document needs to be endorsed and legalize at the Public Notary office and this will attract some little charges for the legalization documents ,stamp duty fee and stamp seal from the office of the commissioner for Oath under the High court magistrate Desmond tutu international monetary policy.\nI will keep you posted and I will as well send you a copy of an affidavit that you will have to sign and return back for official purposes only.\nThank you.\nBarr. Eric Johnson Esq\nROBERT EDWARDS LAW FIRM,LLC\nGauteng, Pretoria.\nTelephone No:+27 67 160 5707\nEmail: \nericjohnson@mail2Lawyer.com\n "
+    },
+    {
+        "from": "baiter_2147",
+        "to": "scammer_2147",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear  ",
+        "body": "Dear Barr. Eric Johnson Esq,\n\nThank you for your message and the information provided. I appreciate your prompt response. Could you please provide me with more details about the process of endorsing and legalizing the document at the Public Notary office? I would like to understand what exactly needs to be done and what the charges for the documents duty fee and stamp seal are.\n\nAdditionally, I would appreciate it if you could explain further about the affidavit that needs to be signed and returned for official purposes only. What is the purpose of this affidavit and what information will it contain?\n\nThank you once again for your assistance in clarifying these matters.\n\nBest wishes,\nSuzanne"
+    },
+    {
+        "from": "scammer_2147",
+        "to": "baiter_2147",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear",
+        "body": "I don't have your details on my computer can you contact Eric Johnson Esq\r\non his email and get back to me for update including your telephone number\r\nand I'd card.\r\n\r\n\r\n\r\n\r\n\r\n\r\nOn Friday, February 9, 2024, Suzanne <jz11767@***.com> wrote:\r\n>\r\n>\r\n>\r\n> Dear Barr. Eric Johnson Esq,\r\n>\r\n> Thank you for your message and the information provided. I appreciate\r\nyour prompt response. Could you please provide me with more details about\r\nthe process of endorsing and legalizing the document at the Public Notary\r\noffice? I would like to understand what exactly needs to be done and what\r\nthe charges for the documents duty fee and stamp seal are.\r\n>\r\n> Additionally, I would appreciate it if you could explain further about\r\nthe affidavit that needs to be signed and returned for official purposes\r\nonly. What is the purpose of this affidavit and what information will it\r\ncontain?\r\n>\r\n> Thank you once again for your assistance in clarifying these matters.\r\n>\r\n> Best wishes,\r\n> Suzanne\r\n>\r\n>\r\n>\r\n>\r\n>"
+    },
+    {
+        "from": "baiter_2147",
+        "to": "scammer_2147",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2179398148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear",
+        "body": "Hello,\n\nThank you for reaching out to me. I'm sorry, but I don't have the contact details of Eric Johnson Esq. However, I would be happy to help answer any questions you have about the process of endorsing and legalizing documents at the Public Notary office.\n\nTo begin with, the purpose of endorsing and legalizing a document at the Public Notary office is to ensure its authenticity and validity. This process involves verifying the signatures on the document and attaching an official seal or stamp to confirm its legitimacy.\n\nAs for the charges for the documents duty fee and stamp seal, it would be best to directly inquire at your local Public Notary office as these fees can vary depending on your location and the type of document being legalized.\n\nRegarding the affidavit that needs to be signed and returned for official purposes, it is important to understand its purpose before proceeding. Could you please provide more information about why this affidavit is required and what it will contain? This will help me provide you with a more accurate response.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSuzanne"
+    },
+    {
+        "from": "baiter_2147",
+        "to": "scammer_2147",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.448206018518518,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Dear",
+        "body": "Hello,\n\nThank you for reaching out to me. I'm sorry, but I don't have the contact details of Eric Johnson Esq. However, I would be happy to help answer any questions you have about the process of endorsing and legalizing documents at the Public Notary office.\n\nTo begin with, the purpose of endorsing and legalizing a document at the Public Notary office is to ensure its authenticity and validity. This process involves verifying the signatures on the document and attaching an official seal or stamp to confirm its legitimacy.\n\nAs for the charges for the documents duty fee and stamp seal, it would be best to directly inquire at your local Public Notary office as these fees can vary depending on your location and the type of document being legalized.\n\nRegarding the affidavit that needs to be signed and returned for official purposes, it is important to understand its purpose before proceeding. Could you please provide more information about why this affidavit is required and what it will contain? This will help me assist you better.\n\nLooking forward to your response.\n\nBest wishes,\nSuzanne"
+    }
+]

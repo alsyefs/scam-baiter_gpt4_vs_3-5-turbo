@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1965",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "This is to let you know that w",
+        "body": "This is to let you know that we recovered your package in our office here Hamburg Germany and the package is carrying your name address and phone number that is why I decided to contact you and let you know that all the money you have been sending since is going to the wrong office and that is why you haven't received your funds since then, so please I will like you to get back to this message as soon as you can so that we can make every arrangement on How to pay you, your sacm victim compensation funds okay,\nPlease kindly reconfirm your information.\n1. Full name: ============================== ========\n2. Phone number: ============================== =====\n3. Home address for the Delivery====================\n4. Date of Birth========================= ===========\n5. Your Occupation==================== ==============\n6. \nA copy of your driving license\n. =================\nPlease, I will be waiting to hear from you soon."
+    },
+    {
+        "from": "baiter_1965",
+        "to": "scammer_1965",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: This is to let you know that w",
+        "body": "Hello there,\n\nThank you for reaching out to me and informing me about the package. I'm glad to hear that it's been recovered. However, I'm a bit confused as I don't recall sending any money or expecting any funds. Could you please provide more details about this situation? \n\nWhat is the nature of these funds? How did my name and address end up on this package? And why was it going to the wrong office?\n\nI appreciate your assistance in clearing up this confusion.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nNancy"
+    }
+]

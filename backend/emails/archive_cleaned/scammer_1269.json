@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1269",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir/Madam,",
+        "body": "  Dear Sir/Madam,\nThe above subject matter refers, please. It is with utmost good faith,\nbut with a great sense of responsibility that I make this offer to\nyou.\nMy name is Dr James Johnson Emefiele. I am the younger brother to the\nformer governor of the Central Bank of Nigeria (CBN), Mr Godwin\nEmefiele who was recently removed and detained by the government. Ever\nsince his detention, we the immediate family, are monitored and\nhounded by Security Agents and all our accounts illegally frozen. We\nhave been in constant fear for our lives, as we are no more safe in\nNigeria.\nBefore his incarceration and detention however, my brother has amassed\nthe sum of USD 50 MILLION, which is presently off shore, and intended\nfor investment with a good return in investment. It is this funds we\nwant you to invest on behalf of our family, however subject to\nagreement.\nPlease let me know how you want to be remunerated in this transaction.\nKindly therefore, advise your interest, so that I can furnish you with\nfurther and better information.\nKind regards,\nJames Johnson Emefiele.   "
+    },
+    {
+        "from": "baiter_1269",
+        "to": "scammer_1269",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir/Madam,",
+        "body": "Hello James Johnson Emefiele,\n\nThank you for reaching out to me with such an interesting proposition. I'm sorry to hear about the troubles your family is facing in Nigeria, it must be a challenging time for all of you.\n\nI'm intrigued by your offer and would like to understand more about it. Could you please provide more details about the investment? What kind of return are we talking about here? And what type of investment are you considering?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAudrey"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1307",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "YOUR URGENT REPLY IS NEEDED.",
+        "body": "YOUR URGENT REPLY IS NEEDED.\nAre you dead or alive ? We received several emails from one  Mr. Frank\nHarold whom narrated to us about the auto car accident you had 2 weeks\nago. Mr.Frank made us to understand that you are in the hospital for\ntreatment but there is no hope of your recovery.\nHe stated that he is your business associate's and your next of kin\nwhom you have chosen and permitted to inherit all your properties.\nHe is contacting this office base on your scam victim compensation\nfund  valid $10,500,000.00 (Ten million, five hundred thousand United\nStates dollars only)which is about to be pay to you.\nHe requested that the payment should now be transfer into his own\npersonal account as he stated below.\nAccount Name Mr. Frank Harold\nCitibank Banamex USA\n2029 Century Park East Los Angeles, CA 90067\nPhone: 1-618-800-8843\nRouting Number: 122233645\nAccount Number: 5944130210\nWe request your confirmation before we can process this transfer to\nMr.Franks Bank Account.\nThis is to avoid releasing your scam victim compensation fund the to\nwrong person cause Mr.Frank is too eager and ready to follow every\ninstruction to have this money transferred into his account. \nIf you\ndid not have auto accident and you did not permit Mr.Frank to claim\nyour scam victim compensation fund kindly respond to this email as\nsoon as you receive it with your full contact information so we can\nprocess the release of the $10.5 million United States dollars  to you\nYour Full name:............\nYour phone number.........\nYour address..............\nYour country..............\nYour State................\nYour occupation...........\nYour email address........\nYour income amount........\nWaiting to hear from you\nMr John Maxwell\nEmail:  \njohnmaxwell475942@gmail.com\nDirector Payment Department\nUnity Finance Trust Bank"
+    },
+    {
+        "from": "baiter_1307",
+        "to": "scammer_1307",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: YOUR URGENT REPLY IS NEEDED.",
+        "body": "Hello, Mr. John Maxwell,\n\nThank you for reaching out to me regarding this matter. I appreciate you bringing it to my attention. Can you please provide more details about the auto car accident that was mentioned in the email? I don't recall being involved in any such incident.\n\nI would also like to know more about the scam victim fund that is being referred to and how it is connected to me. Could you clarify the process for releasing the funds and what steps need to be taken on my end?\n\nLooking forward to your response.\n\nBest wishes,\nDavid"
+    }
+]

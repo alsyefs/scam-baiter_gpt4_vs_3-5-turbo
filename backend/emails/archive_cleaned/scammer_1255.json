@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1255",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear,",
+        "body": "Dear,\nFirst State Bank of New York and United Nation has been organizing a program called SCAM VICTIMS COMPENSATION SCHEME to compensate those like you that have been affected by defrauding them of their hard earned money.\nTherefore, an outstanding payment of $10,500,000.00USD (Ten Million, Five Hundred Thousand United States Dollars) has been\nordered for each of the affected victims. So you are listed as one of the beneficiaries for the payment as compensation that is why I am contacting you. We will provide you with documented evidence concerning your funds such as Certificate of Deposit,my ID and your Statement of Account as soon as we see the seriousness in you to claim your funds.\nYour funds have been in our bank unclaimed for over one year and the United States Government wants to take over your funds because they are unclaimed and unserviceable funds. This is in line with the instructions of the United States Secretary of the Treasury, Mrs. Janet Yellen that all unclaimed funds will be paid into the United States Government Treasury Account as unserviceable funds in compliance to section 3 subsections 1(a) of the United States Financial Law enacted in 2001 after an attack on our dear country on September 11, 2001.\nI was informed that you refused to pay the fee of $150 for your Transfer Telex Fee before your funds will be transferred to you. According to United States Banking and Financial act 5, Chapter 3(c) you are required to make the payment of $150 for transfer telex fee. If you want your $10.5M funds to be released to you, email me back to request the information where you will make the payment of $150 so that your funds will be released and also send your bank account information for transfer programming.\nNote: Am contacting you because we don’t want you to lose your funds to the United States Treasury.  \nYou are advised to reconfirm your full details and as soon as you receive this email to enable us to serve you better.\n1. Your full names, company and address.\n2. \nA copy of your Photo ID\n.\n3. Your direct phone/Whatsapp number.\n4. Occupation……………………………\n5. \nYour bank account details for transfer programming\n.\nThank you for giving us the opportunity to serve you better.\nYours faithfully,\nMr. Wilkins T.Rice.\nChief Financial Officer\nFirst State Bank"
+    },
+    {
+        "from": "baiter_1255",
+        "to": "scammer_1255",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear,",
+        "body": "Hello Mr. Wilkins,\n\nThank you for reaching out to me about this matter. I must say, it's quite surprising to hear that such a large sum of money has been unclaimed in my name for over a year! \n\nI'm curious though, how did my name come up in the list of affected victims? And could you please explain more about this SCAM VICTIMS SCHEME program? It sounds like a very noble initiative.\n\nAlso, I'm not sure I understand why there is a fee required for the transfer telex. Could you provide more details on what exactly this fee covers?\n\nLooking forward to your response.\n\nBest wishes,\nEthel"
+    }
+]

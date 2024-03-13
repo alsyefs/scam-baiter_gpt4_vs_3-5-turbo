@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_926",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  My name is Ricky Moore . I a",
+        "body": "  My name is Ricky Moore . I am a finance consultant with the Debt Management Office , Abuja - Nigeria . Your payment is ready . Reply for details .\nYours faithfully ,\nRicky Moore   "
+    },
+    {
+        "from": "baiter_926",
+        "to": "scammer_926",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   My name is Ricky Moore . I a",
+        "body": "Hello Ricky Moore,\n\nThank you for reaching out to me. I'm interested in learning more about the payment you mentioned. Could you please provide me with some details? What is the payment for and how can I receive it?\n\nLooking forward to your response.\n\nBest wishes,\nJoseph"
+    }
+]

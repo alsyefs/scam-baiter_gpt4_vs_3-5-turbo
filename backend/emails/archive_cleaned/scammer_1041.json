@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1041",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear  Beneficiary",
+        "body": "  Dear  Beneficiary\n  Listen and Listen carefully. We find out that you are wasting our\ntime here  and the message already passed to you regarding the\ntermination of your funds . Our Bank will not grant you any extension\nagain . If you fail to send down the fees today Wednesday and tomorrow\nThursday 5th of September 2023 , that means your funds will be\nterminated finally .\n   If you really want our bank to release the funds into your account\nthen proceed and send down the fees 750 POUNDS  today and tomorrow\nmorning before our closing hrs.\nSend it and forward the transfer copy to us immediately.\nYours faithfully,\nSir.Jonathan Taylor\nHSBC BANK UK LONDON   "
+    },
+    {
+        "from": "baiter_1041",
+        "to": "scammer_1041",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear  Beneficiary",
+        "body": "Hello Taylor,\n\nThank you for your message. I'm really interested in understanding more about this situation. Could you please explain to me why there is a fee involved? And what exactly is this fee for?\n\nI'm also curious about the process of transferring funds. How does it work? \n\nLooking forward to hearing from you.\n\nBest wishes,\nEdward"
+    }
+]

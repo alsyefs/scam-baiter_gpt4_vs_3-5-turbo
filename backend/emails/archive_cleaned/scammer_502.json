@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_502",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Dear  Sir,",
+        "body": "   Dear  Sir,\nThank  you for the  email. We  have  Gold  bars  for  sale   in Zambia  , the purity  of the gold  99.96  and  the  price  per  kilo gram is $48,000.\nWe  can  meet face  to  face  to finalize  the  transaction.Looking  further  to  receiving  your response.\nWe   look  forward  to   receiving  your immediate response to enable us to proceed  further  on the  details  of the transaction.\n \nNote  We will ensure  that we secure  your commission as  our agent, if  you find  buyers for the  above  products.\nYou  can reach  me  on the  attached  whatsapp number  for further  communication\nRegards\nTele:+27845030217   "
+    },
+    {
+        "from": "baiter_502",
+        "to": "scammer_502",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Dear  Sir,",
+        "body": "Hello,\n\nThank you for reaching out and sharing this exciting opportunity. I'm quite intrigued by the prospect of gold bars for sale in Zambia. Could you please provide more details about the purity of the gold and the price per kilogram? \n\nI appreciate your offer to meet face-to-face, but due to current circumstances, I would prefer to continue our discussions online if that's okay with you.\n\nAlso, could you elaborate on how the commission structure works if I were able to find buyers for these products? It sounds like an interesting proposition.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRuth"
+    }
+]

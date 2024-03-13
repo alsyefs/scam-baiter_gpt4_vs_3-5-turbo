@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2130",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "UPS Customer Center",
+        "body": "UPS Customer Center\nAddress: 601 W 43rd St, New York, \nNY 10036, United States\nUPS Customer Service \nYour ATM Visa Card Was Discovered In my Office.\nTue, 17 Oct at 2:27 pm\nAttention:Customer.\nWe hope this notification arrives meeting your good health and mind. I'm Dr. Prince Andrew, the new appointed Manager of our courier service Office at New York,United States of America.  I assumed this office on Tue, 17 Oct 2023. On going through the files of the previous records of this office, I discovered that there are 12 parcels containing ATM cards each one attached with an email address of the owner on it.\nThe former appointee of this office (Mr.Eugene Meyer) failed to carry out the delivery as it was instructed and programmed. Probably, one of his reasons for not carrying out the delivery was because the address you sent is not correct. \nAccording to the content recorded in each file, the ATM card was\ndeposited by Mr. Paul A. Volcker Former Federal Reserve Bank presidents who died 8 years back. On the statement he wrote on the list, he stated that each of the aforementioned ATM cards contains the sum of US$8,500,000.00 (Eight Million Five Hundred Thousand United States Dollars) \nThis US$8,500,000.00 was supposed to transfer to you through his bank but due to you being unable to finish the process he uploaded the money to their ATM Visa card and registered with his office before he died.\nMeanwhile, I've made the arrangement of posting the 12 parcels through our fast delivery to the 12 of you to your respective mailing addresses.\nAm also sending the same message of the same content to 12 of you that own the 12 abandoned ATM CARDS each at the same time. I went to our head office at Washington, D.C. and reported the issue of the discovered 12 ATM cards in my office and they verified it and gave me the veto order to carry out the delivery immediately you reconfirm your mailing address to this office in order for us to mail the ATM CARD directly to you. \nWe are advising you to send us $50 our postal charge fee, As soon as we receive the $50 postal charge fee, The UPS OFFICER in your city will receive it first, drive down to your house and deliver the Envelope to you home 's Address first thing tomorrow, Morning. \nPlease kindly be informed that the Post Office in your city will receive the Envelope On Your Behalf and drive down to your residential address tomorrow Morning without wasting any more time.\n \nWe are advising you to send us the $50 postal charge fee with iTunes Gift Card or Steam Wallet Card immediately you receive this message. Note, below information is officially needed for\nthe sending of the ATM Package.\nFull name:\nFull mailing info:\nYour cell phone line:\nCountry:\nI Wish You Good Luck\nRespectfully yours,\nDr. Prince Andrew\nManager of ups\ncourier service Office.  "
+    },
+    {
+        "from": "baiter_2130",
+        "to": "scammer_2130",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: UPS Customer Center",
+        "body": "Hello Dr. Prince Andrew,\n\nThank you for reaching out and informing me about this situation. I must say, it's quite surprising to hear about an ATM card in my name containing such a large sum of money. \n\nI'm curious though, how did Mr. Paul A. Volcker come to deposit this money on my behalf? And why was the delivery not carried out by your predecessor, Mr. Meyer?\n\nAlso, could you please provide more details about the postal charge fee? How much is it and why is it necessary? \n\nLooking forward to your response.\n\nBest wishes,\nFred"
+    }
+]

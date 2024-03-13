@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2609",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention Dear Happy New Year,",
+        "body": "Attention Dear Happy New Year,\nI write to inform you that we have already sent you First Payment of$5000 and  Here is the MTCN #0473512961\nthrough our Western Union Money Transfer Office as we have been given the mandate to transfer\nyour full compensation payment total sum via western\nUnion by THE UNITED STATE GOVERNMENT.My WhatsApp +13239170628. Email (\nwesternu380@gmail.com\nThanks\nMr Larry Gold"
+    },
+    {
+        "from": "baiter_2609",
+        "to": "scammer_2609",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attention Dear Happy New Year,",
+        "body": "Hello Mr. Larry Gold,\n\nThank you for reaching out and wishing me a Happy New Year. I appreciate it! I'm glad to hear that you have sent me a payment through Western Union Money Transfer Office. Could you please provide me with more details about the payment? What is the purpose of this payment and why was I chosen to receive it?\n\nI look forward to your response.\n\nBest wishes,\nRaymond"
+    }
+]

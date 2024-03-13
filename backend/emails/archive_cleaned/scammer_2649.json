@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_2649",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention: Sir,",
+        "body": "Attention: Sir,\nThis is to bring to your notice that your fund $4.5M is now with our affiliate bank in United States Of America for onward transfer into your nominated bank account.As soon as you confirm the receipt of this message,we shall provide you with the contact information of the affiliate bank so you can open communication concerning your payment.\nYours Sincerely,\nLucas Cole."
+    },
+    {
+        "from": "baiter_2649",
+        "to": "scammer_2649",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attention: Sir,",
+        "body": "Hello Lucas Cole,\n\nThank you for reaching out to me. I appreciate the information you have shared regarding my fund. Could you please provide me with more details about the affiliate bank in the United States? I would like to know how I can proceed with opening an account and initiating the transfer.\n\nAdditionally, could you clarify how my fund ended up with the affiliate bank? I want to make sure that everything is legitimate and secure before proceeding further.\n\nThank you once again for your assistance. I look forward to hearing back from you soon.\n\nBest wishes,\nJorge"
+    },
+    {
+        "from": "scammer_2649",
+        "to": "baiter_2649",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Attention: Sir,",
+        "body": "Attention: Sir,\r\n\r\nWe write to acknowledge the receipt of your email. Like we indicated  before, your fund$4.5M is now with our affiliate bank in the United States Of America as they are our oversea paying bank which is responsible of handling all our oversea transactions, hence the  payment will be made to you  through the affiliate bank.\r\n\r\nHowever, be rest assured that everything about the transfer in order and the affiliate is ready and able to carry out the transfer of the fund into your nominated bank when you open communication with them. It might interest you to know that all procedures we shall adopt in facilitating the transfer shall be LEGITIMATE.\r\n\r\nOn way forward, you are advised to contact our affiliate bank immediately through the understated details so you can open communication with them concerning the payment:\r\n\r\nBank's Name: California Agric Bank.\r\n\r\nContact Person: Kerry Joanna.\r\n\r\nEmail Contact: info@calagricu.com\r\n\r\nYou will do very well also to update us once you open communication with the affiliate bank concerning the transfer.\r\n\r\nYours Sincerely,\r\n\r\nLucas Cole."
+    },
+    {
+        "from": "baiter_2649",
+        "to": "scammer_2649",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0002314814814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Attention: Sir,",
+        "body": "Hello Lucas Cole,\n\nThank you for your email and for providing me with an update regarding my fund. I appreciate your assistance in this matter.\n\nI understand that the payment will be made through your affiliate bank, California Agric Bank. Could you please provide me with more information about how to open an account with them? What documents or information will they require from me?\n\nAdditionally, once I have opened an account with the affiliate bank, how long does it usually take for the transfer of funds to be completed? Are there any fees or charges associated with the transfer that I should be aware of?\n\nI look forward to hearing back from you and proceeding with the necessary steps to receive my funds.\n\nBest wishes,\nJorge"
+    },
+    {
+        "from": "scammer_2649",
+        "to": "baiter_2649",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.013032407407407407,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Attention: Sir,",
+        "body": "Attention:Sir,\r\n\r\nYour message has been received.Your duty is to contact the affiliate bank immediately and ask them what you have to do to enable you receive the fund.They are now in charge of your fund and they are in the position of providing you with all the information you may need as regards the transfer.\r\n\r\nBased on the above,do not delay to reach them as soon as possible and ask them to guide you on what you need do to successfully receive your fund.\r\n\r\nWe are in anticipation of your update as you progress with them.\r\n\r\nYours Sincerely,\r\n\r\nLucas Cole."
+    },
+    {
+        "from": "baiter_2649",
+        "to": "scammer_2649",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.013391203703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Attention: Sir,",
+        "body": "Hello Lucas Cole,\n\nThank you for reaching out to me. I appreciate your message and the information you have provided. It seems like you are suggesting that I contact the affiliate bank to enable me to receive some funds. Can you please provide me with more details about this opportunity? What is the purpose of these funds and how did I become eligible for them?\n\nI would also like to know more about the affiliate bank. Which bank is it, and what is their role in this process? How can I be sure that they are legitimate and trustworthy?\n\nI look forward to your response.\n\nBest wishes,\nJorge"
+    },
+    {
+        "from": "scammer_2649",
+        "to": "baiter_2649",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.043159722222222224,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Attention: Sir,",
+        "body": "Attention: Sir,\r\n\r\nThe fund in question is a compensation fund $4.5M from United Nations/West Africa Fund Monitoring Unit and it a means of compensating all that were previously scammed here in West Africa which is your EMAIL ID is among,hence we contacted you.\r\n\r\nThe affiliate bank is (CALIFORNIA AGRIC BANK).It is a credit union bank which is based in California, United States Of America are our oversea paying bank which is responsible of handling all our offshore transactions.\r\n\r\nThe affiliate bank is very legitimate and trustworthy and they have been in banking industry for quite a long time.\r\n\r\nYours Sincerely,\r\n\r\nLucas Cole."
+    },
+    {
+        "from": "baiter_2649",
+        "to": "scammer_2649",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.04386574074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Attention: Sir,",
+        "body": "Hello Lucas Cole,\n\nThank you for reaching out to me and providing this information about the United Nations West Africa Fund Monitoring Unit. I appreciate your efforts in contacting me regarding this matter.\n\nI would like to know more about how this fund is distributed and what the purpose of it is. Can you please explain further? Additionally, could you provide some more details about CALIFORNIA AGRIC BANK? I would like to understand their role in handling the offshore transactions.\n\nLooking forward to your response.\n\nBest wishes,\nJorge"
+    }
+]

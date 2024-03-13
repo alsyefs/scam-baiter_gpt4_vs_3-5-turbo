@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1213",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "BMW AUTOMOBILE COMPANY.",
+        "body": "BMW AUTOMOBILE COMPANY.\nDear Online Lottery Winner\nThe Board of Directors, members of staff and the International Awareness\nPromotion Department of the BMW AUTOMOBILE PROMOTION congratulate you\nyour success as one of our TEN(10) STAR PRIZE WINNER in last year'\nInternational Awareness Promotion (IAP) 2022 held in USA.\nYour email address was randomly selected along with nine others from a\ndatabase of over 1,000,000 email addresses drawn from the WORLD-WIDE-WEB.\nThis makes you the proud owner cash prize of ($5,000,000.00) five\nmillion United State dollar and BMW 6XCar.\nAgents in charge :William Rogers\nemail:williamrogers4759@gmail.com\nWinning Parameters:\nTICKET NO: 8603657824738\nREF NO: 220-86957\nBATCH NO: 2011MTL-03\nAlso provide listed information below for the payment of this Winning prize\nNames==================\nAddress=================\nAge=====================\nSex=====================\nOccupation===============\nPhone no================\nCountry=================\nCopy of your valid ID\n =======\nPlease you are to provide him with the above listed details as soon as possible\nso he can begin with the processing of your prize winnings.\nCongratulations once\nagain from all our staffs and the director of BMW AUTOMOBILE lottery\nYours Sincerely\nDr. William Rogers\nAward Notification Team."
+    },
+    {
+        "from": "baiter_1213",
+        "to": "scammer_1213",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: BMW AUTOMOBILE COMPANY.",
+        "body": "Hello Dr. William Rogers,\n\nWow, this is such exciting news! I can't believe I'm one of the lucky winners. I've always admired BMW cars and now to think that I might own one is just incredible.\n\nI do have a few questions though, if you don't mind. Could you please explain a bit more about how my email was selected? And what exactly does the Awareness Promotion Department do? \n\nAlso, could you tell me more about this BMW car that's part of the prize? What model is it? Is it new or used?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nRaymond"
+    }
+]

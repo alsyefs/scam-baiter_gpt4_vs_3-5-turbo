@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1609",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention pls,",
+        "body": "Attention pls,\nMy name is Mr, Michael Adams an oil contractor and also a consultant with Atlantic Petroleum United Kingdom. Please I want to use this opportunity to introduce a business with great opportunity which will benefit both of us.As an oil contractor with Atlantic Petroleum United Kingdom, we did contract of tanking and rebuilding oil pipe lines worth of $86.2m (Eighty Six Million Two Hundred Thousand Dollars) Myself and my partners deliberately over invoiced the contract to the tune of US$18.2M. The over-invoiced is an agreement deal by my committee to benefit from the project and to enable us go into future oil business project and also partner with you.\nPlease with all honesty and sincerity, I want to know if you are capable of handling this transaction because I want to present you or your company as one of the peoples that supplied the equipment worth US$18.2M but has not been paid so that the money we over invoiced will be paid into your account because we cannot claim the money without presenting a foreigner as the supplier. However Atlantic Petroleum has been dully paid completely. The balance US$18.2M is for our future oil business and Investment.\nFor presenting you as one of the suppliers, you will be entitled to 30% of US$18.2M, while the balance 70% will be for me and my partners. It does not matter the type of business you are into. The assumption is that you or your company took part in the supply of the contract but has not been paid.\nWe have strong reliable connections and contacts, because of that we will perfect ALL the documents on your name or company to suit the claim and make your stand 100% legal and authentic. Please contact me immediately if you are interested and capable of handling this deal for more details."
+    },
+    {
+        "from": "baiter_1609",
+        "to": "scammer_1609",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attention pls,",
+        "body": "Hello,\n\nThank you for reaching out to me with this opportunity. I appreciate your introduction and the details you have provided about the business deal. It sounds like a potentially lucrative venture.\n\nI would like to know more about the specific equipment that was supplied and how it relates to the tanking and rebuilding of oil pipelines. Could you please provide more information on that?\n\nAdditionally, I am curious about the timeline for this project and when the payment is expected to be made. It's important for me to understand the logistics involved before moving forward.\n\nLastly, could you clarify how my involvement as a supplier would work? What kind of documentation or proof would be required from me? I want to ensure that everything is legal and authentic, as you mentioned.\n\nThank you again for considering me for this opportunity. I look forward to hearing back from you with more details.\n\nBest wishes,\nMollie"
+    }
+]

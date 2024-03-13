@@ -1,0 +1,152 @@
+[
+    {
+        "from": "scammer_739",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello, my name is Emily Port",
+        "body": "  Hello, my name is Emily Portney, and I'm here to have a conversation\nwith you about an amazing opportunity that will be extremely\nbeneficial to us. Please reply to me if you're interested in figuring\nout more about the details of the transaction.\nRegards\nEmily Portney\nAttention   "
+    },
+    {
+        "from": "baiter_739",
+        "to": "scammer_739",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello, my name is Emily Port",
+        "body": "Hello Emily, \n\nIt's nice to meet you! I'm always interested in hearing about new opportunities. Could you please provide more details about what you're offering?\n\nBest wishes,\nAnnie"
+    },
+    {
+        "from": "scammer_739",
+        "to": "baiter_739",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Hello, my name is Emily Port",
+        "body": "My name is Emily Portney, CEO of BNY Mellon's Asset Servicing. I was very\r\nclose friends with the late American citizen engineer Richard D. Petrelli.\r\nOn July 7, 2013, he died in an automobile accident that took place right\r\nhere in New York. On July 20, 2014, an oil consultant for American\r\nPetroleum Corporation made a numbered time (Fixed) Deposit for\r\nUS$155,000,000 for a period of twelve calendar months. (In US dollars, one\r\nhundred and fifty-five million) After these many futile attempts, I made\r\nthe decision to hunt and find his relatives online, but to no success. I\r\nfound your email in a business guestbook, and I have a strong intuition\r\nthat you are a trustworthy individual. I can rely on you to complete this\r\ndeal without raising the American Government's concerns about the sizable\r\nsum of money that Late Engineer Richard D. Petrelli fought hard for and\r\ndeservedly owned. (He was a good man who, unaware that he would soon die,\r\nthought he could build the largest chemical firm in the United States right\r\nhere in New York.)\r\n\r\nI reached out to you so that we might work together to repatriate the\r\ndeceased's funds, which were held in an account at my bank with a balance\r\nof about US$155,000,000, before they were seized or declared in this\r\nlocation. (In US dollars, one hundred and fifty-five million) As a result,\r\nI received a notification from the bank advising me to provide the next of\r\nkin or else his account might be frozen. I need your permission to name you\r\nas the deceased's last remaining next of kin (you don't have to share the\r\nsame last name with him to do this), so that the account's\r\nUS$155,000,000.00 value can be paid to you and we can split it equally,\r\nwith 50% going to you and 50% for me, since I have been unable to contact\r\nthe relatives for more than a year. With your participation and assistance,\r\nwe will get the legal records necessary to establish the claim that is in\r\nyour favor. You only need to participate sincerely and honestly if you want\r\nto help me with my business. I guarantee that this will be done in\r\naccordance with a written agreement that will protect you from any legal\r\ninfringements. Please provide the information requested below so that we\r\ncan continue our conversation. I appreciate your consideration of my advice.\r\nFull name:\r\nAddress:\r\nPhone:\r\nOccupation:\r\n\r\nThanks for your kind cooperation\nRegards\r\nEmily Portney"
+    },
+    {
+        "from": "baiter_739",
+        "to": "scammer_739",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0008912037037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Hello, my name is Emily Port",
+        "body": "Hello Emily Portney,\n\nThank you for reaching out and sharing this information with me. I'm sorry to hear about the unfortunate demise of Richard D. Petrelli. It's always sad when someone passes away unexpectedly.\n\nI must say, your proposal is quite intriguing and it's not every day that one gets an opportunity like this. However, I have a few questions before we proceed further.\n\nFirstly, how did you come across my email in the business guestbook? Secondly, could you provide more details about the legal procedures involved in claiming these funds? Lastly, what kind of written agreement are we talking about here?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAnnie"
+    },
+    {
+        "from": "scammer_739",
+        "to": "baiter_739",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6049305555555555,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Hello, my name is Emily Port",
+        "body": "This is to formally acknowledge receipt of your email and the content\r\ntherein. To be completely honest with you, I have been looking for the\r\ndeceased relatives for the past six years, but to no avail. The government\r\nhas already given me some months to find or notify the next of kin of the\r\ndeceased's funds; if I fail to do so, the funds will be confiscated and\r\nclaimed by the government. I do not want his laboriously earned money to be\r\ntransferred to the government's holding account. Since there is no next of\r\nkin listed on the account where the money is located, it makes it difficult\r\nfor me to allow the government to claim his hard-earned money. He was a\r\ngood friend of mine when he was alive and is an honorable man whom any\r\nright-thinking person will look up to with trust and dignity.\r\n\r\nWhen he was alive, he always had the best interests of Americans in mind\r\nand would always support initiatives that would benefit all American\r\npeople. Because of this, I prefer that we spend the remaining money to aid\r\nthe underprivileged Americans rather than letting the government take it.\r\nI'm the CEO of BNY Mellon's Asset Servicing, as I mentioned in my earlier\r\nemail, and with your help and cooperation, along with my position within\r\nthe bank, I'll be able to obtain the crucial legal records that may be used\r\nto support the claim in your favor. To make this arrangement happen, all I\r\nneed is your real and sincere collaboration. I promise that this will be\r\ncarried out in accordance with legal agreements that will safeguard you\r\nfrom any legal violations.\r\n\r\nI can guarantee you that this is not a con, and we will split any fees\r\nnecessary to complete this transaction equally (you pay half while I pay\r\nthe other half). I guarantee you with my life that you won't regret helping\r\nus do this. Please see my ID below, along with a few more documents that\r\nwill be delivered to you for review when you agree to do this transaction\r\nwith me. Print the Memorandum of Understanding, fill it out, and email it\r\nback to me so that we may go on to the next stage of this transaction. To\r\nenable us to continue our conversation, kindly enter the details provided\r\nbelow.\r\n\r\nFull Name,\r\nAddress,\r\nPhone,\r\nOccupation.\r\nI appreciate your thoughtful assistance.\nRegards\r\nCEO of Asset Servicing\r\nEmily Portney"
+    },
+    {
+        "from": "baiter_739",
+        "to": "scammer_739",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6280092592592592,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Hello, my name is Emily Port",
+        "body": "Hello Emily,\n\nThank you for reaching out and sharing this information with me. I must say, it's quite a unique situation you've found yourself in. It's admirable that you're trying to honor your friend's memory by ensuring his hard-earned money is used for the benefit of the people rather than being claimed by the government.\n\nI'm curious about a few things though. How did you come across my contact information? And why do you believe I would be the right person to help with this matter?\n\nAlso, could you please provide more details about what exactly would be required of me in this process? You mentioned some legal agreements - could you elaborate on what these might entail?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAnnie"
+    },
+    {
+        "from": "baiter_739",
+        "to": "scammer_739",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6281828703703703,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Hello, my name is Emily Port",
+        "body": "Hello Emily,\n\nThank you for reaching out and sharing this information with me. I must say, it's quite a unique situation you've found yourself in. It's admirable that you're trying to honor your friend's memory by ensuring his hard-earned money is used for the benefit of the people rather than being claimed by the government.\n\nI'm curious about how you plan to use these funds to aid people? Also, could you please explain more about the legal agreements that will safeguard me from any legal issues?\n\nI appreciate your assurance that this isn't a con, but I would like to understand more about the process before making any commitments. Could you provide more details on what exactly my role would be in this?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAnnie"
+    },
+    {
+        "from": "scammer_739",
+        "to": "baiter_739",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.4839236111111112,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Hello, my name is Emily Port",
+        "body": "Thank you for responding. As I mentioned in my last email, I obtained your\r\nemail address from a business guestbook, so there's no big deal here. You\r\nshould feel secure knowing that you're in my capable hands. The legal\r\nprocedure I refer to is the one we will utilize to obtain the necessary\r\nlegal paperwork from the bank; you don't need to worry because I will\r\nsupply them personally when requested by the bank.\r\n\r\nI hope you understand what I'm trying to accomplish, which is to present\r\nyou as the next of kin so that we can claim the fund. Please note that you\r\ndon't have to be physically present in the bank to get this done. If you\r\nread my previous email, I provided you with some details about what you're\r\nto do in this transaction.\nRegards"
+    },
+    {
+        "from": "baiter_739",
+        "to": "scammer_739",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.794490740740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Hello, my name is Emily Port",
+        "body": "Hello,\n\nThank you for your email and the detailed explanation. I appreciate your efforts in this matter. However, I'm a bit confused about the process. Could you please elaborate on how exactly we will obtain the necessary legal paperwork from the bank? And what kind of documents are we talking about here?\n\nAlso, could you please explain more about presenting me as the next of kin? How does that work exactly? \n\nI'm sorry for all these questions but I just want to make sure I understand everything correctly.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAnnie"
+    },
+    {
+        "from": "scammer_739",
+        "to": "baiter_739",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.548495370370371,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Hello, my name is Emily Port",
+        "body": "I'll tell you to get in touch with the bank, and if they ask for any\r\ndocumentation, I'll make sure I obtain it legally. As the next of kin, you\r\nwill inform the bank that you are Richard's surviving family member and\r\nthat they should provide you instructions on how to collect the money. I\r\nhope this has made more sense to you.\nRegards"
+    },
+    {
+        "from": "baiter_739",
+        "to": "scammer_739",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.711273148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Hello, my name is Emily Port",
+        "body": "Hello there,\n\nThank you for your message. I appreciate the information you've shared with me about being Richard's surviving family member and the process of collecting money from the bank. \n\nI'm a bit curious though, how did you come to know about Richard? And could you please elaborate more on the process of obtaining this legally? I'm not very familiar with these things, so any additional details would be really helpful.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAnnie"
+    },
+    {
+        "from": "scammer_739",
+        "to": "baiter_739",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.985358796296296,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: Hello, my name is Emily Port",
+        "body": "Thanks for your email, from the look of things it's becoming obvious that\r\nyou have not been reading my email, please go through our conversation for\r\nproper understanding. Thanks\nRegards"
+    },
+    {
+        "from": "baiter_739",
+        "to": "scammer_739",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.002986111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: Hello, my name is Emily Port",
+        "body": "Hello there,\n\nThank you for your response. I must apologize if it seems like I haven't been fully understanding your emails. I assure you, I've been reading them thoroughly.\n\nCould you please clarify which part of our previous correspondence you feel I may have misunderstood? This will help me to better grasp the information and respond more accurately.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAnnie"
+    },
+    {
+        "from": "scammer_739",
+        "to": "baiter_739",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.040092592592592,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: Hello, my name is Emily Port",
+        "body": "Read this email"
+    },
+    {
+        "from": "baiter_739",
+        "to": "scammer_739",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.044907407407408,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: Hello, my name is Emily Port",
+        "body": "Hello there,\n\nI hope this message finds you well. I've read your email and found it quite interesting. Could you please provide more details about the topic? I'm eager to learn more.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAnnie"
+    }
+]

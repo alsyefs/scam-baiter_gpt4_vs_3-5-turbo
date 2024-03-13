@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_186",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "United Nation Foreign Debt Com",
+        "body": "United Nation Foreign Debt Committee\nPresidential Complex\nCotonou, Benin Republic.\nAttn: Beneficiary.\nDear: Sir / Madam.\nConsequent to financial investigation reports of the United Nations World Bank and the International Monetary Fund regarding your unclaimed Inheritance / Contract Funds Re-Deposited into the Federal Suspense Account few days ago.\nI will like to introduce myself officially,my name is Mr.Lamar Allards, Head of Foreign Debts Payment Committee setup by Mr.David Robert Malpass World Bank President, Ms. Kristalina Director (IMF) Mr. António Guterres UN Secretary General and the Economic Community of West African States (ECWAS) to fight and eradicate fraudulent activities in the banking and Courier Delivery sectors in Africa and worldwide.\nYou have been officially contacted today due to the ongoing Financial Investigation Summit under the supervision of World Bank / United Nation to receive your Funds Re-Deposited with the Federal Suspense Account through online account transfer in order to eradicate fraudulent activities and extortion of fees or changes from beneficiaries which lead to the arrest of 7 person(s) including sacked officials who impersonate themselves as Banks and Courier Delivery Directors to extort money from beneficiaries\nLast week, Mr. Henderson Powell, visited my Office ( Foreign Debts Payment Committee )unexpectedly with copy of your Death Certificate in connection with your inheritance/contract claim without an official notice or letter authorization from you authorizing or permitting the Federal Suspense Account Department with the legal release of your claim to him officially as your representative which the documents he\ntendered stating that you are dead.\nAt the moment, the Federal Suspense Account Department is currently working on perfecting all legal documentations in releasing your funds to Mr. Henderson Powell, through online account transfer as your representative which we deem legal to contact you for verification and authorization before final crediting.\nKindly clarify us on this issue before final Payment to Mr. Henderson Powell, with confirmation of the following.\n1.Your full names\n2.Mailing address.\n3.Your direct phone .\n4.Your confidential private e-mail address.\nI await your immediate reply.\nBest Regards.\nMr. Mr.Lamar Allards.\nHead Foreign Debts Payment Committee.\nCc: UN Secretary General\nCC: World Bank"
+    },
+    {
+        "from": "baiter_186",
+        "to": "scammer_186",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: United Nation Foreign Debt Com",
+        "body": "Hello there! Thank you for reaching out to me regarding the United Nation Foreign Debt Committee. I appreciate the information you have shared with me. Can you please provide more details about the ongoing Financial Summit under the World Bank and United Nations? I am interested in learning more about how this initiative aims to eradicate fraudulent activities in the banking and courier delivery sectors.\n\nBest wishes,\nCharles"
+    }
+]

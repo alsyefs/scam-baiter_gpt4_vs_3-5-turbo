@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_945",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention ",
+        "body": "  Attention \nSir,\nThe bank account giving to you is very much okey.What did your bank say is the problems that curse it not go through.Get back to me urgently.  "
+    },
+    {
+        "from": "baiter_945",
+        "to": "scammer_945",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention ",
+        "body": "Hello,\n\nThank you for reaching out to me. I'm sorry, but I'm not sure I understand your message clearly. Could you please provide more details about the bank account and the problems you mentioned? I want to make sure I can assist you properly.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLori"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_365",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  It was automatic created to ",
+        "body": "  It was automatic created to enable you Login with your email and password.  "
+    },
+    {
+        "from": "baiter_365",
+        "to": "scammer_365",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   It was automatic created to ",
+        "body": "Hello there,\n\nThank you for your message. I understand that this was automatically created to enable me to login with my email and password. Could you please provide more details about the platform or service this is related to? I'm always eager to learn more.\n\nRemember, I can't share any personal information, but I'm happy to discuss general topics!\n\nBest wishes,\nJohn"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1014",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  From Herbert Smith (For Trus",
+        "body": "  From Herbert Smith (For Trustees)\nManaging Partner (Herbert Smith Chambers)\nLondon - United Kingdom.\nNotification of Bequest\nOn behalf of Herbert Smith Chambers, Trustees and Executors of the estate of late Schwarz Neumann; Once again, I try to notify you of the bequest as my previous email was returned undelivered. I hereby attempt to reach you again by this same email address.\nPlease if I reach you, as I am hopeful; endeavour to get back to me as soon as possible for further details.\nI look forward to your prompt response.\nRegards,\nHerbert Smith   "
+    },
+    {
+        "from": "baiter_1014",
+        "to": "scammer_1014",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   From Herbert Smith (For Trus",
+        "body": "Hello Herbert Smith,\n\nThank you for reaching out to me regarding the bequest from the estate of late Schwarz Neumann. I appreciate your effort in trying to notify me again.\n\nI'm definitely interested in learning more about this opportunity. Could you please provide me with some additional details? Specifically, I would like to know how I am connected to the late Schwarz Neumann and what steps I need to take in order to proceed with this bequest.\n\nLooking forward to your prompt response.\n\nBest wishes,\nTiffany"
+    }
+]

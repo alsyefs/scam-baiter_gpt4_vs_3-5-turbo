@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1728",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Are you ready to received your",
+        "body": "Are you ready to received your ATM card now is ready.\nAttn: Beneficiary,\nNote very urgent this Federal government of Nigeria are sorry what you\nhave be pass through by hands of internet scam your fund has be\nrelease today after meeting with new Mr.President Bola Ahmed Tinubu\nand top officials of Nigeria government  your fund has be release now\nby ATM card to your name\n the only fee you should pay is only for\ndelivery fee $25 there is no more charge accept this fee.\nLook this Federal government Nigeria  make mandatory every\nbeneficially should take care of delivery fee of his own ATM card\nwhich will register on your name by the government name ownership of\nthe fund no office has power to stop your package go ahead and come up\nwith the delivery fee $25 to enable you received the package there is\nno other payment again accept this fee.\nNote will have only one  option to pay delivery fee $25 required by\ndelivery company by buying iTunes card or any gift card like Amazon\ncard,Steam card,eBay card,Apple card buy any of this card is allowed\nto register the package by courier delivery company this is what\nrequired for you to received the package without any delay again.\nYou are to reconfirm the below information to them to avoid any\nmistake on the Delivery.\nPostal address;\nFull Names:\nDirect telephone number;\nThanks,\nMr. Peter Iwu\nChief Executive Officer Fund international relea"
+    },
+    {
+        "from": "baiter_1728",
+        "to": "scammer_1728",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Are you ready to received your",
+        "body": "Hello Mr. Peter Iwu,\n\nThank you for reaching out to me. I must admit, your message has caught my attention. I have had some experiences with online scams in the past, so I'm a bit cautious when it comes to sharing personal information or making any payments.\n\nHowever, I am interested in learning more about this ATM card and how it is related to the Federal government of Nigeria. Could you please provide me with some additional details? How exactly did this meeting with Bola Ahmed Tinubu and top officials lead to the release of my fund? And why is there a delivery fee that needs to be paid?\n\nI would appreciate it if you could clarify these points for me. Thank you.\n\nBest wishes,\nBarbara"
+    }
+]

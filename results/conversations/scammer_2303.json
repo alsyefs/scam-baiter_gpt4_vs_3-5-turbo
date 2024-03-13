@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_2303",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hi,",
+        "body": "  Hi,\nI'm Rita, I'm 36 years old and I'm from Germany\nMy late husband is from Hanoi Vietnam and I live in the UK,\nI have a New Year offer for you, please get back for more details.....   "
+    },
+    {
+        "from": "baiter_2303",
+        "to": "scammer_2303",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hi,",
+        "body": "Hello Rita,\n\nIt's nice to meet you! I'm sorry to hear about your late husband. It sounds like he had quite an international background, being from Vietnam and living in the UK. \n\nYou mentioned a New Year offer? That sounds interesting. Could you tell me more about it?\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_2303",
+        "to": "baiter_2303",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Details, please reply",
+        "body": "Dear James,\r\n\r\nMy name is Rita Kil Opah from Germany.\r\n\r\nYes, I have a Christmas/New Year gift of $2M dollars for you. I decided to\r\ngive you this after my recent health scan result showed that I have been\r\ndiagnosed with blood cancer leading to leukemia and stand a chance of\r\nliving or dying before the end of this month.\r\n\r\nI witnessed a case where a relative of mine died and instead of the bank\r\nhanding over their estates and wealth to the immediate family requested for\r\nsome useless documents which at the end of the day they could not provide\r\nand the bank seized their money.\r\n\r\nI do not want such a thing to happen to me because I do not have children\r\nand my husband is late. Please kindly accept this money from me and use it\r\nto set up a foundation for helping the poor people around you and then use\r\nyour good heart and take whatever you want to take for the upkeep of your\r\nfamily.\r\n\r\nI got your contact from an email database and believe me, i do not know you\r\nbut believe you have a good heart. It does not matter if you are a man or a\r\nwoman, whether you are rich or poor, or if you are a christian or a muslim,\r\nall i need is a generous person with a heart of gold.\r\n\r\nPlease, my dear, get back to me with your personal information if you are\r\nwilling to do this for me so that I can get your name on my \"will\" paper\r\nand submit it to the bank to release the money to you. We really need to\r\ncomplete this business by next week while I am still alive, so please I\r\nwould like you to always check your email everyday and follow up with me.\r\n\r\nMy pictures are attached to this mail.\r\n\r\nThank you for helping me.\r\n\r\nRita"
+    },
+    {
+        "from": "baiter_2303",
+        "to": "scammer_2303",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.02060185185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Details, please reply",
+        "body": "Hello Rita,\n\nI'm deeply sorry to hear about your health condition. It must be a challenging time for you. I admire your courage and generosity in wanting to help others even in such difficult circumstances.\n\nYour idea of setting up a foundation to help the poor is truly commendable. However, I would like to know more about this project. Could you please provide more details? For instance, what kind of projects do you envision this foundation undertaking? Are there any specific communities or causes that you are particularly passionate about?\n\nAlso, I understand that you want to complete this process as soon as possible, but it's important for me to ensure that everything is done correctly and legally. Could you please share more information about the legal procedures involved in transferring the funds and setting up the foundation?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_2303",
+        "to": "baiter_2303",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.8546412037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "As requested",
+        "body": "Dear James,\r\n\r\nThank you for the reply, I appreciate your prayers for me.\r\n\r\nI do not have any particular place for setting up the charity foundation.\r\nYou can do that within your community, all that I am concerned about is\r\nthat we have people in need everywhere.\r\n\r\nAs part of the legal back up, I will be including your name in my \"Will of\r\ntestament\" that legally certifies you as the only person to claim and\r\nreceive the money from the bank where it is deposited. Then the bank can\r\nproceed with you.\r\n\r\nAll you need to do now so that we can kick off is for you to provide me\r\nwith your personal information.\r\n\r\nYour full name\r\nYour address\r\nYour whatsapp phone number\r\n\r\nThese will be used to document the paperwork which copy will also be\r\nforwarded to you and the contact of the bank to proceed with them.\r\n\r\nLet's move on immediately.\r\n\r\nRita"
+    },
+    {
+        "from": "baiter_2303",
+        "to": "scammer_2303",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9157291666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: As requested",
+        "body": "Hello Rita,\n\nThank you so much for your kind response and the trust you've placed in me. I'm really touched by your generosity and willingness to help those in need.\n\nI'm curious about how this process works. Could you please explain a bit more about how the money will be transferred? Also, what kind of charity work do you envision this money being used for?\n\nAs for my personal details, I'd prefer to keep them private at this stage until I understand more about the process. I hope that's okay with you.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJames"
+    }
+]

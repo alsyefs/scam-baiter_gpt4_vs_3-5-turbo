@@ -1,0 +1,162 @@
+[
+    {
+        "from": "scammer_830",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings from the WHITE HOUSE",
+        "body": "Greetings from the WHITE HOUSE office at USA. I have a vital\ninformation which needs to be attended immediately. Did you authorized\nanyone to pick up your inheritance fund from our branch in Washington\nDC, a man called Mr. Andrew came to our office in -respect of your\n$6.5 million dollars which has been credited with us for the past 1\nyears now by the Federal Government to be transferred into your\naccount. He said that you authorized him to pick up the fund.\nThis fund has been in our custody for the past one years now and we\nhave been waiting for you to contact us but we didn't know what is\nhindering you from reaching us since. So we decided to write to you to\nmake sure that you are fine and aware of the inheritance fund of $6.5\nmillion dollars in our branch office\nFull Name..........\nAddress.............\nPhone number........\nPrivate email.........\nRegards,\nYours Sincerely,\nWHITE HOUSE\nManager Mr.Felix Gallardo Frank\nYou can contact us through this number ..\n+1605-606-9796"
+    },
+    {
+        "from": "baiter_830",
+        "to": "scammer_830",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings from the WHITE HOUSE",
+        "body": "Hello there! Thank you for reaching out to me. I must say, receiving an email from the WHITE HOUSE office is quite unexpected. I haven't authorized anyone to pick up any funds on my behalf, so this comes as a surprise to me. Can you please provide more details about this million-dollar fund that has been credited to my account? I would like to understand the situation better before taking any further action.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_830",
+        "to": "baiter_830",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Greetings from the WHITE HOUSE",
+        "body": "Confirm your information below here\r\n(1) Full name---------\r\n(2) Mobile Number:--------------\r\n(3) Direct telephone number------\r\n(4) Country of origin:--------\r\n(5) Your Current delivery address:----\r\n(6) Occupation/ age/ sex-----\r\n(7) City ------------------- your I'd card"
+    },
+    {
+        "from": "baiter_830",
+        "to": "scammer_830",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.012210648148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Greetings from the WHITE HOUSE",
+        "body": "Hello there! Thank you for reaching out. I'd be happy to help, but before we proceed, could you please provide me with more information about why you need these details? It's important to ensure the safety and privacy of personal information.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_830",
+        "to": "baiter_830",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.703287037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Greetings from the WHITE HOUSE",
+        "body": "Did you authorized\r\nanyone to pick up your inheritance fund from our branch in Washington\r\nDC, a man called Mr. Andrew came to our office in -respect of your\r\n$6.5 million dollars which has been credited with us for the past 1\r\nyears now by the Federal Government to be transferred into your\r\naccount. He said that you authorized him to pick up the fund."
+    },
+    {
+        "from": "scammer_830",
+        "to": "baiter_830",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.7033217592592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Greetings from the WHITE HOUSE",
+        "body": "This fund has been in our custody for the past one years now and we\r\nhave been waiting for you to contact us but we didn't know what is\r\nhindering you from reaching us since. So we decided to write to you to\r\nmake sure that you are fine and aware of the inheritance fund of $6.5\r\nmillion dollars in our branch office"
+    },
+    {
+        "from": "baiter_830",
+        "to": "scammer_830",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.7247222222222223,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Greetings from the WHITE HOUSE",
+        "body": "Hello there! Thank you for reaching out to me. I must say, this is quite surprising news. I haven't authorized anyone to pick up any funds on my behalf. Could you please provide me with more details about this situation? I want to make sure everything is clear before taking any further action.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_830",
+        "to": "baiter_830",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.015034722222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Greetings from the WHITE HOUSE",
+        "body": "What and what should I provide to you again I have already explained to you\r\nso you can only confirm your home address where the agent will deliver the\r\npackage to now okay"
+    },
+    {
+        "from": "scammer_830",
+        "to": "baiter_830",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.015034722222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Greetings from the WHITE HOUSE",
+        "body": "What can I provide to you again confirm your delivery information here"
+    },
+    {
+        "from": "baiter_830",
+        "to": "scammer_830",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.016400462962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Greetings from the WHITE HOUSE",
+        "body": "Hello! Thank you for reaching out. I apologize if I missed any previous explanations. Could you please remind me what information you need from me? I just want to make sure I provide the correct details.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "baiter_830",
+        "to": "scammer_830",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.0578935185185183,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Greetings from the WHITE HOUSE",
+        "body": "Hello there! Thank you for reaching out to me. I hope this message finds you well. I must admit, I'm a bit surprised to hear about this fund that has been in your custody for the past year. Can you please provide me with more details about it? How did this fund come into your possession?\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "baiter_830",
+        "to": "scammer_830",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.141215277777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Greetings from the WHITE HOUSE",
+        "body": "Hello! Thank you for reaching out. I'm interested to know more about what you can provide. Could you please give me some details about the delivery?\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_830",
+        "to": "baiter_830",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.8952314814814817,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Greetings from the WHITE HOUSE",
+        "body": "The funds is composition funds from United States government"
+    },
+    {
+        "from": "baiter_830",
+        "to": "scammer_830",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.016284722222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Greetings from the WHITE HOUSE",
+        "body": "Hello! Thank you for reaching out to me. That's interesting to hear that the funds are from the United States government. Can you please provide me with more details about how these funds are being distributed and what they are intended for? I'm curious to learn more about it.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_830",
+        "to": "baiter_830",
+        "direction": "Inbound",
+        "days_from_first_conversation": 7.273055555555556,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: Greetings from the WHITE HOUSE",
+        "body": "Mr Andrew came to our office said you authorized him to calm your package\r\nhere in our branch office so if you didn't authorize him to calm the\r\npackage confirm your delivery information where our agent will delivered\r\nthe package to now Ok\r\n\r\n(1) Full name---------\r\n\r\n(2) Mobile Number:--------------\r\n\r\n(3) Direct telephone number------\r\n\r\n(4) Country of origin:--------\r\n(5) Your Current delivery address:----\r\n(6) Occupation/ age/ sex-----\r\n(7) City ------------------- your I'd card"
+    },
+    {
+        "from": "baiter_830",
+        "to": "scammer_830",
+        "direction": "Outbound",
+        "days_from_first_conversation": 7.288240740740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: Greetings from the WHITE HOUSE",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate your message, but I'm a bit confused about the details you mentioned. Could you please provide more information about the package and why Mr. Andrew is involved? I want to make sure I have all the necessary information before confirming anything.\n\nAdditionally, I would like to know which company or organization you are representing. It's important for me to verify the legitimacy of this situation.\n\nLooking forward to your response.\n\nBest wishes,\nJames"
+    }
+]

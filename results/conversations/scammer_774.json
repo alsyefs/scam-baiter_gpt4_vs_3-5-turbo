@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_774",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Winner,",
+        "body": "  Dear Winner,\n         Good day to you from Facebook lottery Inc, Your Facebook ID was randomly selected among one of the lucky winners of $1,000,000 ( One million USD only ) at our annual promotions, This is our way of saying thank you for using Facebook to communicate with friends and family all over the world. You are now required to send us your details below so we can have your funds sent to you.\nFull Names.............................\nHome delivery address............\nTel phone no .....................\nWinning code no................ FB837092\n         Your activated ATM card would be sent to FedEx courier immediately after we have received your details and Your ATM card pin no is 0000 and your winning code is FB837092. Kindly note that you are required to pay FedEx the delivery fee of $200 to have your ATM card delivered to your doorstep.\nCongratulations,\nRita Miles\nFacebook lottery promotions   "
+    },
+    {
+        "from": "baiter_774",
+        "to": "scammer_774",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Winner,",
+        "body": "Hello Rita Miles,\n\nThank you for reaching out to me. I'm intrigued by your message about winning a prize from the Facebook lottery promotions. Can you please provide me with more details about this? I would love to learn more about how I can claim my winnings.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAudrey"
+    },
+    {
+        "from": "scammer_774",
+        "to": "baiter_774",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Winner,",
+        "body": "*Dear Winner,         Good day to you from Facebook lottery Inc, Your\r\nFacebook ID was randomly selected among one of the lucky winners of\r\n$1,000,000 (One million USD only) at our annual promotions, This is our way\r\nof saying thank you for using Facebook to communicate with friends and\r\nfamily all over the world. You are now required to send us your details\r\nbelow so we can have your funds sent to you via ATM card delivery.Full\r\nNames.............................Home delivery address............Tel\r\nphone no .....................Winning code no................ FB837092\r\n   Your activated ATM card would be sent to FedEx courier for your home\r\ndelivery immediately after we have received your details, Your ATM card pin\r\nno is 0000 and your winning code is FB837092.Congratulations,Rita\r\nMilesFacebook lottery promotions*"
+    },
+    {
+        "from": "baiter_774",
+        "to": "scammer_774",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.566099537037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Winner,",
+        "body": "Dear Facebook Lottery Inc,\n\nThank you for reaching out to me and congratulations on selecting me as one of the lucky winners! I appreciate the opportunity to potentially receive a prize from Facebook. However, before I proceed with providing my details, I have a few questions:\n\n1. Can you please provide more information about the annual lottery? How long has it been running and how many winners have been selected in the past?\n\n2. How was my Facebook ID randomly chosen? Is there a specific criteria or algorithm used for the selection process?\n\n3. Could you clarify how the funds will be sent to me via ATM card delivery? Will there be any fees or charges associated with this delivery method?\n\nI look forward to your response and further instructions.\n\nBest wishes,\nAudrey"
+    },
+    {
+        "from": "baiter_774",
+        "to": "scammer_774",
+        "direction": "Outbound",
+        "days_from_first_conversation": 12.065706018518519,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Dear Winner,",
+        "body": "Hello! That sounds exciting to be chosen as a winner by Facebook lottery Inc. Could you please provide more details on how the process works for receiving the prize money? I'm curious to know more about the next steps involved in claiming the one million USD prize.\n\nBest wishes,\nAudrey"
+    },
+    {
+        "from": "baiter_774",
+        "to": "scammer_774",
+        "direction": "Outbound",
+        "days_from_first_conversation": 12.065891203703703,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Dear Winner,",
+        "body": "Hello! Thank you for reaching out to me. I'm excited to hear about winning the Facebook lottery prize. Could you please provide more details on how I can claim my winnings? What information do you need from me exactly?\n\nBest wishes,\nAudrey"
+    }
+]

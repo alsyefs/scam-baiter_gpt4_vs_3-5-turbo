@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_1521",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attn:",
+        "body": "  Attn:\nWe are in charge of Releasing payment of contractors from Africa/Asia\nand Middle East including USA and Americas based on UN and World Bank\nDirectives.\nApproval has been given for immediate Release of your long overdue contract sum.\nYou are hereby,directed to forward to us your details especially\nbanking details,contact telephone number(s) and any valid I.D. for\nidentification claims.\nOn receipt of the above,you will be invited to the United Kingdom or Amsterdam (Holland) to go and sign Release Order Documents and monitor transfers into your nominated bank account before departure.\nLooking forward to your anticipated response.\nMr.Marc Hickson\nSIRF GB GH .CORPORATION\nSwitzerland   "
+    },
+    {
+        "from": "baiter_1521",
+        "to": "scammer_1521",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attn:",
+        "body": "Hello! Thank you for reaching out. I'm interested in learning more about the process. Can you provide me with additional details on how the payment will be processed and what steps I need to take next?\n\nBest wishes,\nAlana"
+    },
+    {
+        "from": "scammer_1521",
+        "to": "baiter_1521",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Mr.Alana",
+        "body": "Your mail noted.confirm your full details,your banking details,contact\r\ntelephone number(s),your occupation and home or office address.\r\nWith the above requirements,your payment will be processed for immediate\r\ntransfer.\nRegards,\r\nMarc Hickson"
+    },
+    {
+        "from": "baiter_1521",
+        "to": "scammer_1521",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.013888888888888888,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Mr.Alana",
+        "body": "Hello Marc, thank you for reaching out. Could you please provide more details about the payment process and why this information is needed? I want to make sure everything is clear before proceeding.\n\nBest wishes,\nAlana"
+    },
+    {
+        "from": "scammer_1521",
+        "to": "baiter_1521",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.948564814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Dear Mr.Alana",
+        "body": "Attn Mr.Alana,\r\n\r\nYou are welcomed by your enquiries.As soon as you provide the\r\nrequirements,our payment office will forward their office address and\r\ncontact telephone number(s) for immediate contact and subsequent invitation\r\nto sign Release documents and monitor transfers before your departure.\r\nThe major issue is your willingness to embrace the appointment with the\r\noffice.\r\nLet us have the requirements as earlier requested.\nRegards,\r\nMarc Hickson."
+    },
+    {
+        "from": "baiter_1521",
+        "to": "scammer_1521",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.988888888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Dear Mr.Alana",
+        "body": "Hello Marc, thank you for reaching out. I'm interested in learning more about the process. Could you please provide me with some details on how to proceed with the payment and what steps are involved in signing the Release documents? Looking forward to your response.\n\nBest wishes,\nAlana"
+    }
+]

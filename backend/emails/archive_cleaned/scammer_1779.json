@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1779",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello my beloved good friend,",
+        "body": "Hello my beloved good friend,\nMy name is Mrs. Rebecca Douglas Hermina Sies; I am a dying woman who has\ndecided to donate what I have to you/church. I am 57 years old and I was\ndiagnosed with cancer for about 2 years now. This started immediately\nafter the death of my husband, who has left me everything he worked for\nand because the doctors told me I will not live longer than some weeks\ndue to my health. I decided to donate the sum of US$27,400,000.00\n(Twenty Seven Million Four Hundred Thousand United States Dollar) to you\nfor the good work of humanity, and also to help the motherless and less\nprivilege and also for the assistance of the widows.\nI wish you all the best and may the good Lord bless you abundantly, and\nplease use the funds well and always extend the good work to others.\nPlease if you would be able to use the funds for the work as my heart\ndesires, kindly let me know by replying me through my private email\naddress { \nmrsrebeccadhsies@gmail.com\n }, so i can direct you to my lawyer\nwho will assist you in making the claim\nfrom the bank where the funds is deposited, so you can retrieve the\nfunds.\nMay God bless you and your family as i wait for your kind reply.\nNB: I will appreciate your utmost confidentiality in this matter until\nthe task is accomplished as I don't want anything that will jeopardize\nmy last wish.\nBest regards.\n From Your Loving Friend and Sister Mrs. Rebecca Douglas Hermina Sies."
+    },
+    {
+        "from": "baiter_1779",
+        "to": "scammer_1779",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello my beloved good friend,",
+        "body": "Hello Mrs. Rebecca Douglas Hermina Sies,\n\nThank you for reaching out to me with your generous offer. I appreciate your desire to help those in need and make a positive impact on society. However, before proceeding further, I have a few questions regarding the donation.\n\n1. Could you please provide more details about the bank where the funds are currently deposited? It would be helpful to know which bank it is and how the transfer process works.\n\n2. You mentioned involving your lawyer in making the claim. Could you share their contact information so that I can get in touch with them directly?\n\n3. Are there any specific guidelines or requirements for using the funds? I want to ensure that I follow your wishes accurately and use the money for its intended purpose.\n\nThank you once again for considering me for this opportunity. I look forward to hearing back from you soon.\n\nBest wishes,\nBeverly"
+    }
+]

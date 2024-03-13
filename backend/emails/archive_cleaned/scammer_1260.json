@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1260",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Unit 2 Tolpits Lane Watford",
+        "body": "Unit 2 Tolpits Lane Watford\nWD18 9RN United Kingdom\nAttention: Beneficiary.\nWelcome to the 2023 World Bank/Paris Club & British CFP Global Financial SET-UP. The\nCamelot National Lottery Group has noted the wide spread of fraud activities that are\nbeing committed by charlatans & impostures within the United Kingdom, Africa & the\nWorld in general.\nBecause of this reason, the World Bank/Paris Club & British CFP in collaboration with\nthe Camelot National Lottery has set up \na welfare program to compensate all those that\nhave fallen victims and lost their money in transactions of this nature\n within Europe,\nAsia, America, Africa and Worldwide.\nYou have been approved to receive a compensation fund of £2,100,000.00 British\nPounds as one of the scam victims who qualified for 2023 annual program, your\nreference number is: XVX189298.\nAn arrangement has been made to pay your funds through (ATM Credit Card or Bank\nTransfer) to enable you receive your compensation fund without any interference.\nSend your details as stated below to Mr.Henry Jackson\nContact person: James Fletcher(Mr.)\nContact email: \njf756966@gmail.com\n1) Full Name:\n2) Physical Address:\n3) Mobile Number:\n4) Your reference number:\n5) Occupation:\n6) Age:\nYours Faithfully,\nAndrew Caswell(Mr.)\nGeneral Manager"
+    },
+    {
+        "from": "baiter_1260",
+        "to": "scammer_1260",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Unit 2 Tolpits Lane Watford",
+        "body": "Hello there,\n\nThank you for reaching out and sharing this information. It's quite interesting to hear about the welfare program set up by the World Bank Paris Club British CFP in conjunction with the Camelot National Lottery. I'm sure it's a great relief for many who have been affected.\n\nCould you please tell me more about how this program works? How are victims identified and approved to receive funds? And what is the process of receiving these funds through ATM Credit Card or Bank Transfer?\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nEthel"
+    }
+]

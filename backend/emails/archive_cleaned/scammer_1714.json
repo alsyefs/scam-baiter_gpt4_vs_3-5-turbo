@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1714",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  FedEx ATM card Delivery Noti",
+        "body": "  FedEx ATM card Delivery Notice\nFedEx Nigeria Head Office\n70 International Airport Road\nMafoluku, Lagos.\nOrder: SH-5468-482485468\nCustomers Service Hours--Monday to Saturday: Office Hours Monday to Sunday:\nDear\nThis is FedEx courier Delivery Company of Nigeria the management of this company wishes to inform you that we received a parcel containing an ATM Card valued $5 million USD with some vital documents attached on it for safety delivery to your residential address in your country.\nThis parcel was brought to us this morning by the ATM Card payment office Nigeria with the below information, please reconfirm the below information to avoid delivery of your ATM Card to the wrong hand.\nFull names............\nParcel owner address and Zip code......\nCountry/State........\nOccupation...........\nPassport/Driving License\nCell/Tel...........\nWe will register your package and send you the tracking numbers before we proceed for safety delivery of your package as soon as you reconfirm the required information for safety delivery.\nFedEx is one of the world's great success stories, the start-up that revolutionized the delivery of packages and information. In the past 33 years we've grown up and grown into a diverse family of companies as FedEx that's bigger stronger better than ever.\nYours affectionately.\nMr. Tom West.\nDispatch Manager FedEx Courier\nfor the Ikeja branch manager\nFedEx Express Service Lagos -Nigeria.   "
+    },
+    {
+        "from": "baiter_1714",
+        "to": "scammer_1714",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   FedEx ATM card Delivery Noti",
+        "body": "Dear Mr. Tom West,\n\nThank you for reaching out to me regarding the delivery of an ATM card. I appreciate your efforts in ensuring the safe delivery of my package. However, before I proceed, I have a few questions.\n\n1. Can you please provide more information about the sender of this parcel? How did they obtain my address and why are they sending me an ATM card?\n\n2. Is there any specific reason why the sender chose your courier company for this delivery? Are you affiliated with the ATM Card payment office in Nigeria?\n\n3. Could you explain the process of registering my package and how I will receive the tracking numbers? Will it be through email or any other means?\n\nI apologize for these inquiries, but I want to ensure that everything is legitimate and secure before proceeding with any further steps.\n\nBest wishes,\nChristian"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_211",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Thanks for your respond. This ",
+        "body": "Thanks for your respond. This man needed to be arrest once is back here. \nThank God you reply on time I wanted to credit his account on Monday. \nThank God you are fine and ok. Please you have to be careful with people and hacker scammers. \nHow do you want your payment. Can you come over and receive your payment. Or do you want your payment through bank to bank transfer. \nSend your bank details so that I can transfer to your account and send you slip of payment. \nOr do you want a universal Atm you can use in your country and any where in the world. Send your address of delivery. \nWaiting for your details so that I can pay you off immediately. \nThanks once again for your urgent respond. You are a very lucky person. \nGod bless. \nMrs. Edna Melvin. "
+    },
+    {
+        "from": "baiter_211",
+        "to": "scammer_211",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Thanks for your respond. This ",
+        "body": "Hello Mrs. Edna Melvin,\n\nThank you for reaching out to me. I appreciate your concern about scammers and hackers, it's definitely important to be cautious when dealing with financial matters online.\n\nRegarding the payment, I think it would be best if we proceed with a bank-to-bank transfer. It seems like a secure and reliable option. However, before I provide you with my bank details, could you please clarify what this payment is for? I want to make sure I have all the necessary information before proceeding.\n\nAlso, if we go ahead with the bank transfer, how long do you think it will take for the funds to be credited to my account? And are there any fees or charges associated with this transaction that I should be aware of?\n\nThank you once again for your prompt response and assistance. Looking forward to hearing back from you soon.\n\nBest wishes,\nHelen"
+    }
+]

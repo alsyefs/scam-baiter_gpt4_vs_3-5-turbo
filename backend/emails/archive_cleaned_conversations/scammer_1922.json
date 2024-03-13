@@ -1,0 +1,142 @@
+[
+    {
+        "from": "scammer_1922",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hi my good friend",
+        "body": "Hi my good friend\nAre you doing today with your family I hope you all are doing good, and I also hope that this message meet you will, This is Mr. Tony Moore the FedEx delivery company Agent, I was going through to all the documents that is in my office and saw your document that you have been able to receive your funds till date upon the money you have been spending over years back, Dear friend the reason why you haven't received your funds since then is because all the money you have been sending is going to the wrong offices, but today i believe that the God almighty who made it possible for me to saw your document is about to remember you because I will tey my best possible to make sure you receive your funds by ending of this week okay, all I want you to do is to follow my instructions before\n it will cost you the same of $70 to get this transaction done without paying any more fee again, and fee must be paid via bitcoin wallet address or any kindly of Gift cards and immediately you get the Gift card just scratch it and send the picture here okay, I promise you that once we confirm the fee from you i will proceed with your delivery immediately\n,\nPlease kindly respond back to this message with your full address and your phone okay..\nThank you and God bless you\nMr. Tony Moore..."
+    },
+    {
+        "from": "baiter_1922",
+        "to": "scammer_1922",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hi my good friend",
+        "body": "Hi Mr. Tony Moore,\n\nThank you for reaching out to me. I hope you and your family are doing well too. I'm sorry to hear that there have been some issues with receiving my funds in the past. Can you please provide me with more details about what went wrong and how we can rectify the situation? I would appreciate any assistance you can offer.\n\nAlso, could you please explain why the fee needs to be paid via bitcoin wallet address or gift cards? Is there a specific reason for this method of payment?\n\nLooking forward to your response.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1922",
+        "to": "baiter_1922",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Hi my good friend",
+        "body": "Hello sir Thank you very much for your message okay,so How are you doing\r\ntoday with your family I hope you all are doing well over there today, This\r\nis to let you know that DHL delivery company return your ATM card back to\r\noffice and ask me to cancel the transaction that you have refused to pay\r\nthe delivery fee of your ATM card, and I decided to hear from you first\r\nbefore I will take any action,\r\n\r\nbut  I am very to hear from you and i can see that you are ready to receive\r\nyour ATM card, so please kindly respond back to this message as soon as\r\npossible so that i will give information where to send the delivery fee of\r\nyour ATM card today and immediately we confirm the fee from you i will\r\ndrive to DHL office and deposited your ATM card with the company again and\r\nyou will receive it on Sunday evening,\r\n\r\nPlease I will be looking forward to hear from you soon so that we can\r\nproceed immediately okay\r\n\r\nThank you and God bless you\r\nMr. Tony Moore"
+    },
+    {
+        "from": "baiter_1922",
+        "to": "scammer_1922",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.001261574074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Hi my good friend",
+        "body": "Hello Mr. Tony Moore, thank you for reaching out to me. I hope you are doing well too. I'm a bit confused about the situation with my ATM card. Could you please provide me with more details? What is the delivery fee that needs to be paid? And why was my card returned to the office?\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1922",
+        "to": "baiter_1922",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.009930555555555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Hi my good friend",
+        "body": "Thank you once again for your email, the reason why they return back your\r\nATM card to me is that you have refused to pay they delivery fee, and the\r\nfee is £220 only and immediately we confirm the fee from you today your\r\ntransaction will be proceed immediately okay\r\n\r\nSo please I will be looking forward to hear from you soon\r\n\r\nThank you and God bless you\nMr. Tony Moore.."
+    },
+    {
+        "from": "baiter_1922",
+        "to": "scammer_1922",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.020891203703703703,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Hi my good friend",
+        "body": "Hello Mr. Tony Moore,\n\nThank you for reaching out to me again. I apologize if there was any confusion regarding the delivery fee for my ATM card. Could you please provide me with more details about the fee? I want to make sure I understand everything correctly before proceeding.\n\nAlso, could you please confirm the total amount of the fee and the payment method that is accepted? I just want to be sure that everything is legitimate and secure.\n\nThank you for your assistance, and I look forward to hearing back from you soon.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1922",
+        "to": "baiter_1922",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.05140046296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Hi my good friend",
+        "body": "Hello Mr. James\r\n\r\nThanks once again sir, the delivery of your ATM card is the sum of £220\r\nonye and immediately we confirm the fee DHL delivery company will proceed\r\nwith your delivery today"
+    },
+    {
+        "from": "baiter_1922",
+        "to": "scammer_1922",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.5428356481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Hi my good friend",
+        "body": "Hello Mr. James,\n\nThank you for reaching out to me again. I appreciate your assistance in delivering my ATM card. Could you please provide me with more details about the fee? How can I make the payment for the DHL delivery company?\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1922",
+        "to": "baiter_1922",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0125694444444444,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Hi my good friend",
+        "body": "Hello Mr, james good day to you sir\r\n\r\nThanks very much for message, sir the fee will be sent via Gift Card or\r\nbitcoin okay,\r\n\r\nso kindly get back to me once you receive message,"
+    },
+    {
+        "from": "baiter_1922",
+        "to": "scammer_1922",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0208217592592592,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Hi my good friend",
+        "body": "Hello Mr. James, good day to you too! Thank you for reaching out to me. I appreciate your message. Just to clarify, are you saying that the fee can only be sent through a Gift Card or Bitcoin? Could you please explain why these methods are necessary?\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1922",
+        "to": "baiter_1922",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0852893518518518,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Hi my good friend",
+        "body": "Hello sir thank you very much for your message, sir the reason why I ask\r\nyou to send the fee through bitcoin or other card, is to receive the fee\r\nvery fast and deposited your ATM card same day that's the okay\r\n\r\nPlease I will be looking forward to hear from you soon\r\n\r\nThank you and God bless you sir\r\n\nMr. Tony Moore"
+    },
+    {
+        "from": "baiter_1922",
+        "to": "scammer_1922",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.1047337962962962,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Hi my good friend",
+        "body": "Hello Mr. Tony Moore, thank you for your response. I understand that you want the fee to be sent through bitcoin or another card for a faster process. Can you please explain how this method ensures a quicker deposit of the ATM card? I just want to make sure I understand the process correctly. Thank you and God bless you too.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1922",
+        "to": "baiter_1922",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.1259837962962962,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Hi my good friend",
+        "body": "Hey James please do not message me again okay, do you think i am for child\r\nplay"
+    },
+    {
+        "from": "baiter_1922",
+        "to": "scammer_1922",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.1459375,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Hi my good friend",
+        "body": "Hey James! Thanks for reaching out. What's on your mind? How can I help you today?\n\nBest wishes,\nJames"
+    }
+]

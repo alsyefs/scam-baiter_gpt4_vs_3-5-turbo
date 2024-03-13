@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2000",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Season Greetings, Esteem Ben",
+        "body": "  Season Greetings, Esteem Beneficiary,\nYou are advise to re-confirm your preferred choice of receiving payment to the U.S. Bank E-mail: \nwww.usbnkfiletx001@outlook.com\n , and get your US$12,800,000.00 release to you through your choice of receiving payment on or before 30th December 2023, as advised by the Financial Services Director for International Settlements Authority for Covid-19 donation relief Fund from the United Nation/IMF financial support due to the COVID-19 pandemic.\nYour preferred choice of receiving payment\n(A) Bank to Bank wire transfer:\n(B) ATM Cash Card:\n(C) Cashier Check\nYours in service\nDr. Anyim Pius\nForeign Affairs Minister   "
+    },
+    {
+        "from": "baiter_2000",
+        "to": "scammer_2000",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Season Greetings, Esteem Ben",
+        "body": "Hello Dr. Anyim Pius,\n\nThank you for your message and the options you've provided for receiving payment. It's really kind of the United Nation IMF to provide financial support during these challenging times.\n\nCould you please explain a bit more about this donation relief fund? How was I selected for this? And could you also clarify what information would be needed from me to proceed with any of these payment methods?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMarcos"
+    }
+]

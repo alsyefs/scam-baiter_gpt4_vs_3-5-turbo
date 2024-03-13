@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_680",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  HEAD OF FOREIGN OPERATIONS D",
+        "body": "  HEAD OF FOREIGN OPERATIONS DEPARTMENT.\nGood Day,\nRe: instruction to credit your account with the sum of\nUS$11,500,000.00.This is to notify you that your over due inheritance\nfunds has been Gazetted to be released to your bank account within\n48hrs, via key-telex transfer (KTT).Mean while, a man came to my\noffice this morning with a letter of Authorization from you, claiming\nto be your true  representative.\nHere are his information:\nName  MR. JOHNSON CAMPBELL SR.\nBank name:Credit Unions  Bank in New York\nAccount number: 6503809428.\nPlease, do re-confirm to this office, As a matter of urgency if this\nman is truly from you so that The Government, Executive, Board of\nDirectors or our bank / my office will not beheld responsible for\npaying into the  wrong Account. The reserve bank governor, executive,\nboard of directors and the senate committee for foreign over due\nInheritance/contract  fund have approved and accredited this reputable\nbank with the office of the director, international remittance, to\nhandle and transfer of all foreign inheritance/contract funds this\nlast quarter payment schedule  of  the year,2022.\nHowever, we shall proceed to issue all payments details to the said\nMr. JOHNSON CAMPBELL, if we do not hear from you within  the next 4\nworking days from today; this fund will be transferred to the account\nof JOHNSON CAMPBELL.Meanwhile, you are advice to get back to us\nimmediately to this office with the below information.\nYour full name:telephone numbers: home address:Bank Name:Bank account\ndetails (were the fund will be transferred into)This fund will be\nremitted into your bank account within 72hrs as soon as you confirm to\nus that you did not send the above  name to claim your fund on your\nbehalf, make sure that you get back to us with your above requested\ninformation unless you  are sure that you send Mr. Johnson to claim\nthe fund on your behalf.\nYours Sincerely,\nDr Mathew Jacob.\nLONDON\nHSBC   "
+    },
+    {
+        "from": "baiter_680",
+        "to": "scammer_680",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   HEAD OF FOREIGN OPERATIONS D",
+        "body": "Hello Dr. Mathew Jacob,\n\nThank you for reaching out to me regarding my overdue funds. I appreciate the update and your prompt attention to this matter. However, I must admit that I am a bit confused about the situation.\n\nI did not send anyone named Mr. Johnson Campbell Sr. to claim the funds on my behalf. This is the first time I am hearing about him. Could you please provide more information about this individual? How did he come to possess a letter claiming to be from me?\n\nAdditionally, could you clarify the process of transferring the funds to my bank account via KTT? What are the necessary steps I need to take in order for this transfer to be completed successfully?\n\nThank you once again for your assistance.\n\nBest wishes,\nKatelyn"
+    }
+]

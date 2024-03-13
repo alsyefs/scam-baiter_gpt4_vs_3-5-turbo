@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2535",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "It's my pleasure to inform you",
+        "body": "It's my pleasure to inform you that your Customized Consignment Box valued\n$40.9M USD was successful registered with (FedEx Company]\nfor shipment and the\nBox was scheduled for delivery directly to your door step and \nyou will\nsend $50 for delivery and insurance coverage paper to ensure successful\ndelivery. Do reconfirm your below info;\nName: -----------------------------\nAddress:--------------------------\nCountry/City:--------------------\nPhone:-----------------------------\nSo i will therefore advise you to use below information and send the\nmailing and insurance coverage fee of $50 for immediate dispatching\nand release of your tracking\nnumber.\nAlternatively, you can send\niTunes Card,\nSteam Card,\nAmazon for easy and fast payment"
+    },
+    {
+        "from": "baiter_2535",
+        "to": "scammer_2535",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: It's my pleasure to inform you",
+        "body": "Hello there,\n\nThank you for your message. It's great to hear that my Customized Box has been successfully registered with the company and is scheduled for delivery. I'm really looking forward to receiving it.\n\nI understand that there are some fees associated with mailing and insurance coverage. Could you please provide more details about these costs? How much exactly do I need to pay? And could you explain why these specific cards are preferred for payment?\n\nAs for the information you asked me to confirm, I'm sorry but I can't share personal details online due to privacy concerns. Is there another way we can proceed without sharing this information?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nSteven"
+    }
+]

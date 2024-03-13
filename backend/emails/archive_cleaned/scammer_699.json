@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_699",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "For The Attention Of xxx,",
+        "body": "For The Attention Of xxx,\nI have received your response to my previous email which I quite appreciate. It is my great pleasure to be in contact with you once again. As I stated in my previous email, I am a private Adviser/procurement agent with instructions to secure a capable person who can handle an investment to the tune of US$150M and above. This fund will be transferred to your custody and you will be charged with the sole responsibility of investing the funds in businesses of your choice with an Annual Return on Investment (AROI) of 5-10% per year.\nThe fund belongs to high profile individual who are highly placed in government and wish to invest anonymously by providing fund to set up new business of good return or inject funds to companies seeking for fund to increase productivity in an already established business for a percentage share in the Annual Return on Investment (AROI).  \nAt this juncture, you are required to provide your full details which will include your full names and address, your personal telephone number WhatsApp line and \na copy of your id or passport\n, this is to be sure of the person we are dealing with. \nAgain, I would like to know if you are the owner of the company you work with or you work under someone.\nAs soon as I receive the above requested details from you, then I will go ahead and give you the contact of the personal assistant to the investor, for further discussion and to arrange a face to face meeting between you and the investor.\nWe look forward to your co-operation and wealth creation through partnership as I await your urgent response. \nThanks,\nEdward F. Kimani"
+    },
+    {
+        "from": "baiter_699",
+        "to": "scammer_699",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: For The Attention Of xxx,",
+        "body": "Hello Edward,\n\nThank you for reaching out to me again. I appreciate the opportunity to be involved in such an investment venture. Before we proceed, I would like to clarify a few things.\n\nFirstly, could you please provide more information about the high-profile individuals who own the funds? It would be helpful to know their background and the source of these funds.\n\nSecondly, I am curious about the types of businesses that are suitable for this investment. Are there any specific industries or sectors that the investors prefer? And what is the expected timeframe for seeing returns on these investments?\n\nLastly, regarding my personal details, I understand the need for verification. However, I am hesitant to share my full address and a copy of my ID or passport at this stage. Is there any alternative way we can establish trust without disclosing such sensitive information?\n\nI look forward to your response and further discussion with the personal assistant to the investor.\n\nBest wishes,\nPeter"
+    }
+]

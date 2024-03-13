@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1012",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Chosen One,",
+        "body": "  Dear Chosen One,\nI hope this email correspondence meets you well and graciously.\nWe need your cooperation to invest  in your country in real estate and buying stocks in your country for investment purposes.\nKindly provide us with your full details including your WhatsApp number, mailing address so we can forward same to the financial facility for prompt action.\nI wait your prompt response.Pls respond via my secured email: \nhenryadjei1999@yahoo.com\nSincerely yours,\nHenry Adjei.\nAbidjan, Republic du Cote D'Ivoire \n "
+    },
+    {
+        "from": "baiter_1012",
+        "to": "scammer_1012",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Chosen One,",
+        "body": "Dear Henry Adjei,\n\nThank you for reaching out to me. I hope this email finds you well too. I appreciate your interest in investing in my country's real estate and stocks. It sounds like an exciting opportunity.\n\nBefore we proceed, could you please provide me with more information about the specific investment opportunities available? I would like to know more about the potential returns, risks involved, and any legal requirements or regulations that need to be considered.\n\nAdditionally, it would be helpful if you could share some background information about your company or organization. This will help me better understand the credibility and legitimacy of the investment proposal.\n\nI look forward to hearing back from you soon with the requested details.\n\nBest wishes,\nPhillip"
+    }
+]

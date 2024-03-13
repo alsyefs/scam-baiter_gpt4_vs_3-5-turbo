@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1526",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "My names are Maria Zakharov I’",
+        "body": "My names are Maria Zakharov I’m from Moscow’, the State of Russia.\nI’m interested in investing in any good profitable yielding business\nand I would appreciate any viable ideas you could come up with. I’m\nproposing to invest the sum of Twenty Five Million British Pounds\n(£25,000,000,00 BPS).\n I don’t know if you can be of help to me and trusted\nfor this, In recent times Russian and Ukrainian government been\nhaving issues and as a result i will need your assistance to receive\nand secure the fund for me.I will give you more details once I receive\nyour response.\nEmail...Mariazakharov@mail.com\nRegards,\nMs. Maria Zakharov."
+    },
+    {
+        "from": "baiter_1526",
+        "to": "scammer_1526",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: My names are Maria Zakharov I’",
+        "body": "Hello Maria Zakharov,\n\nThank you for reaching out to me. I'm always interested in exploring investment opportunities. Could you please provide more details about the business you are looking to invest in? What kind of returns are you expecting?\n\nAlso, I understand that there have been some issues between the Russian and Ukrainian governments. How does this affect your investment plans? Can you explain how my assistance would be required to receive and secure the funds?\n\nLooking forward to hearing from you.\n\nBest wishes,\nCasey"
+    }
+]

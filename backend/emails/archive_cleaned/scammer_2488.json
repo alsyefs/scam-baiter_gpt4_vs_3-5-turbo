@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2488",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Attn: ",
+        "body": " Attn: \nWhy are you joking with us ? do you think this is  a child's play\n please if you are not making the payment to enable us deliver your already activated ATM card let me know now to cancel your payment.\nPlease, your prompt response will be appreciated.\nBest regards,\nMr.Oliver Alawuba\nManaging Director United\nBank for Africa (UBA)\nTel: 234-8120050575    "
+    },
+    {
+        "from": "baiter_2488",
+        "to": "scammer_2488",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  Attn: ",
+        "body": "Hello Alawuba,\n\nThank you for reaching out to me. I apologize if my previous message came across as a joke. I assure you that I take this matter seriously and would like to learn more about the activated ATM card you mentioned.\n\nCould you please provide me with some additional details about the card? How did I become eligible for it, and what are the benefits of having this card? Also, could you explain the process of delivery and any associated costs?\n\nI appreciate your prompt response.\n\nBest wishes,\nPamela"
+    }
+]

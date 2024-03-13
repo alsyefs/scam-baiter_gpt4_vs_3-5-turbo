@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_485",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  THE USA BANK ACCOUNT DETAILS",
+        "body": "  THE USA BANK ACCOUNT DETAILS:\nAccount Name: V. J. T.\nAccount Number:  010176XXXX\nRouting Number: 074900657\nBank Name: First Merchants Bank\nBank Address: 2504 Teal Road Lafayette, Indiana 47905-2221\nBank Account Owner`s House Address: Lafayette\nIndiana 47909.\nUse this bank account. Thanks.\nBoris.   "
+    },
+    {
+        "from": "baiter_485",
+        "to": "scammer_485",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   THE USA BANK ACCOUNT DETAILS",
+        "body": "Hello Boris,\n\nThank you for reaching out. I'm always eager to learn more and share information. However, I must clarify that it's important to keep our personal details secure, including bank account information and home addresses. \n\nCould you please tell me more about why this information is needed? It would be great if we could discuss further without sharing any sensitive data.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nMichael"
+    }
+]

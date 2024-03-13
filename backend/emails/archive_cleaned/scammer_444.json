@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_444",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "The United nation organization",
+        "body": "The United nation organization is compensating all the scam victims and your email address and phone number was found in the list of the scammed lose and others unpaid salaries. So you are go to receive a compensating funds worth the sum of $10.5 million USD\nI will deliver your money right now okay but before I will deliver your money now \nsend me ID card\n and address and information right now okay"
+    },
+    {
+        "from": "baiter_444",
+        "to": "scammer_444",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: The United nation organization",
+        "body": "Hello there! Thank you for reaching out to me. I appreciate the information you shared about the United Nations and the scam victims. It's quite concerning to hear that my email address and phone number were found on a list of scammed individuals.\n\nI'm definitely interested in learning more about receiving funds worth millions of USD, but I have a few questions before proceeding. Could you please provide me with some additional details? For instance, what is the source of these funds? How exactly will they be delivered to me? And are there any fees or charges involved in this process?\n\nAlso, I understand that you mentioned sending you my ID card and address. Can you please explain why that information is necessary for receiving these funds? I just want to make sure everything is legitimate and secure.\n\nThank you again for reaching out, and I look forward to your response!\n\nBest wishes,\nPhilip"
+    }
+]

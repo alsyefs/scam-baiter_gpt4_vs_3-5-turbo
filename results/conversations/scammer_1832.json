@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_1832",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " The ball is in your court. If",
+        "body": " The ball is in your court. If you decide to make the payment today better so that it  won't  take long you receive it..    "
+    },
+    {
+        "from": "baiter_1832",
+        "to": "scammer_1832",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  The ball is in your court. If",
+        "body": "Hello there! \n\nThank you for your message. I'm really interested in what you're offering. Could you please provide me with more details about the payment process? Like, how does it work and what are the steps involved? I'd also like to know more about what exactly I'll be receiving once the payment is made. Looking forward to hearing from you soon!\n\nBest wishes,\nAllen"
+    },
+    {
+        "from": "scammer_1832",
+        "to": "baiter_1832",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: The ball is in your court. If",
+        "body": "Dear Sir,\r\n\r\nMr. *Allen.*\r\n\r\nGood morning from here, please I don't know if you are referring to our\r\nproposal about our gold business? IF yes, here is the content of our\r\nproposal below.\r\n\r\n\r\n\r\nWe are highly interested to deal in a long terms business with you, if only\r\nyou can understand our primary problems.\r\n\r\nWe are facing a lot of problems in our mining concessions, because we lack\r\nmodern mining equipment and machines, We are using manpower to mine, I mean\r\nwe use local methods to mine gold, such has been resulting in losing the\r\nlives of some of our workers in the site for lack of machines.\r\n\r\nFor now we are in the position of 179 Kilograms of gold bar,23 karat,96%\r\npurity.\r\n\r\nIf you are ready to buy or you have someone who can buy, please let us\r\nknow. Our prize is cheap,\r\n\r\nI am looking forward to hearing from you.\nRegards,\r\n\r\n*Mr. Steven Gay  Nana Jr**. *"
+    },
+    {
+        "from": "baiter_1832",
+        "to": "scammer_1832",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0007407407407407407,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: The ball is in your court. If",
+        "body": "Hello Mr. Steven Gay Nana Jr.,\n\nGood day to you! I hope this message finds you well. I must say, your proposal about the gold business is quite intriguing. It's unfortunate to hear about the difficulties you're facing in your mining operations due to lack of modern equipment and machines.\n\nI'm curious, how do you manage safety measures for your workers given these circumstances? Also, could you please provide more details about the purity of the gold that you currently have? \n\nAs for purchasing or finding someone who can buy, I might be able to help. However, I would need more information about the pricing and other related details.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAllen"
+    },
+    {
+        "from": "scammer_1832",
+        "to": "baiter_1832",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.07591435185185186,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: The ball is in your court. If",
+        "body": "Dear Sir,\r\n\r\nMr. *Allen.*\r\n\r\n*Thank you for your message,  There is lots of equipment required for this\r\ngold mining process but I guess we only need the vital ones for now. *\r\n\r\n\r\n\r\n*1. Trommels: Trommels are used for recovering gold and other precious\r\nmetals from placer mining operations. Sizes vary but common sizes are 18\r\ninch, 30 inch, 48 inch, 60 inch, & 7 foot Trommels. Many miners buy new but\r\nit is becoming more and more common for buyers to purchase used mining\r\nequipment including, trommel with refurbished parts that will be fully\r\nrepaired or replaced as required/if necessary.  We can get the used one.*\r\n\r\n\r\n\r\n*2. Sluice Boxes: Placer mining operations, sluice boxes, are for\r\nrecovering of gold, other precious metals, and stones. Sluice boxes are\r\nspecifically used in gold mining paydirt and sluicing creek beds to recover\r\ngold. Gold dredge sluice boxes can also be supplied in various sizes upon\r\nrequest and depend on how much material you need to process.*\r\n\r\n\r\n\r\n*3. Derockers: Derockers are ideal for alluvial mining of gold and other\r\nprecious metals in areas that have large boulders. Derockers, such as the\r\nRMS-Ross Derocker, delivers a -2\" product to downstream recovery, and it\r\ndischarges clean washed +2\" rock and boulder separately. To optimize your\r\nplacer mining operations your derockers should be a unit that is automatic,\r\nself cleaning, and efficient.*\r\n\r\n\r\n\r\n*4. Gold Wash Plants: Gold wash plants are offered in a variety of\r\ndifferent options, for whatever your mining needs, including full\r\nproduction gold trommels, gold placer plants, and mining wash plants, which\r\nare all for gold mining. They also include testing plants which are often\r\nportable trommel wash plants which include top brands, such as MSI Wash\r\nPlants. You are also able to have the choice between Diesels or Gas Powered\r\nGold Trommel Wash Plants, to fit whatever your needs are.*\r\n\r\n\r\n\r\n*5. Hammer Crusher: There are various types of hammer crushers, the most\r\ncommonly used are single rotor hammer crushers and ring hammer crushers.*\r\n\r\n*Several materials are applied for hammerhead for rocks with different\r\nhardness. The high manganese steel hammerheads are used to break hard\r\nquartz.*\r\n* The grate of the small hammer crusher is made of alloy steel material\r\nwith high hardness and good wear resistance, prolonging the service life.*\r\n\r\n\r\n\r\n*6. Shaking Table: Shaking table, also called gold recovery table or gold\r\nseparation table, is the best fine gold recovery equipment.*\r\n\r\n\r\n\r\n*It can process both gold ore in quartz rock, gold stones, and placer gold.\r\nThe feeding particle size range of the shaking table is generally between\r\n3mm-0.019mm. The gold beneficiation is stable and reliable, and the\r\ndistribution of the ore belt is clearly visible.*\r\n\r\n\r\n\r\n*7. Spiral Chutes: It utilizes the specific gravity difference between gold\r\nand other minerals to separate gold. It works better when processing placer\r\ngold.*\r\n\r\n\r\n*It is also used to separate the iron, tin, wolframite, tantalum, niobium,\r\nchromite, rutile, monazite, etc. The material size ranges from 0.6-0.03mm.*\r\n\r\n\r\n\r\n*It's not compulsory to buy everything. We have been mining locally for\r\nmany years now So the equipment can be bought one after the other and\r\ngradually we could have all equipment for efficient work.*\r\n\r\n\r\n\r\n*Kindly get back to me on your thoughts and suggestions. *\r\n\r\n\r\n\r\n*Thank You *\nRegards,\r\n\r\n*Mr. Steven Gay  Nana Jr**. *"
+    },
+    {
+        "from": "baiter_1832",
+        "to": "scammer_1832",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.07618055555555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: The ball is in your court. If",
+        "body": "Hello Mr. Steven Gay Nana Jr,\n\nThank you for your detailed explanation about the equipment needed for gold mining. It's fascinating to learn about all these different tools and their specific uses in the process.\n\nI'm curious, how do you decide which piece of equipment to purchase first? Is it based on the type of mining operation or perhaps the location?\n\nAlso, I was wondering if there are any safety measures or precautions that need to be taken while using these machines? \n\nLooking forward to hearing from you soon.\n\nBest regards,\nMr.\n\nBest wishes,\nAllen"
+    }
+]

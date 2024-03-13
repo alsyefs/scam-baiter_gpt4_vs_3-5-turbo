@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_834",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dr. Shamim Abdallah",
+        "body": "  Dr. Shamim Abdallah\nThe Director\nContract Payment Compliance Committee\nFederal Republic of Nigeria\nAttention: Beneficiary,\nWe have today authorized to you through a facilitator (Diplomat) who left this country yesterday to your country with 2 boxes.\nThe Diplomat is providing indirect assistance,\nWith his guidance and supervision, your consignment will have an unobtrusive delivery (Immunity Coverage)\nProvide me with the information stated below so that the keys to\nthe consignment will be sent to you without delay.\n1 Home Address\n2 Your Direct Telephone Number\n3 Copy of your Id.\nContact the Diplomat via his email below for an update and also provide him your address and telephone number:\nNAME: Dipl. FREDERICKS TONY.\nEmail: \nferristoni13@gmail.com\nI shall be looking forward to your prompt response.\nRegards,\nDr. Shamim Abdallah.   "
+    },
+    {
+        "from": "baiter_834",
+        "to": "scammer_834",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dr. Shamim Abdallah",
+        "body": "Hello Dr. Shamim Abdallah,\n\nThank you for reaching out to me. I appreciate your prompt response and willingness to provide assistance. However, before I proceed, I would like to know more about the purpose of this delivery and the nature of the Immunity Coverage you mentioned. Could you please provide me with some additional information?\n\nAlso, I would like to understand why my home address and a copy of my ID are required for this process. Can you explain how these details are relevant to the delivery? \n\nI look forward to your response.\n\nBest wishes,\nSteven"
+    }
+]

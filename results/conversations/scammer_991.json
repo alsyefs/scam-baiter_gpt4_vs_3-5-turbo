@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_991",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Dear Sir,",
+        "body": "   Dear Sir,\nTo ensure direct access to your Diplomatic sum of $10.5M in the\nOngoing Payment Program of the First Fiscal Quarter of 2024,you are\nrequired to forward the following urgently.\n(1) The total sum of $50.00 for Handling Charges.\n(2) Current Personal and Banking Coordinates for Final Update of your\nPayment Account, for maximum efficiency.\n(3) A handwritten and endorsed \"Letter of Claims\",requesting direct\naccess to your legitimate sum of $10.5M via your updated Payment\nAccount within 72 hrs.\nWe await your compliance,to enable us fulfill our Official mandate to\nyou by the World Bank Group,who are the official sponsors of this\npayment program,initiated by the International Human Rights Legal Aid\nCouncil for the interest of Justice.\nThank you,for your understanding and cooperation.\nRespectfully yours,\nMr Aliyu Bagudu Abubakar\nDirector-General of the Legal Aid Council  "
+    },
+    {
+        "from": "baiter_991",
+        "to": "scammer_991",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Dear Sir,",
+        "body": "Hello Mr. Aliyu Bagudu Abubakar,\n\nThank you for reaching out to me. I'm quite intrigued by this Diplomatic sum and the Ongoing Payment Program of the First Fiscal Quarter. Could you please provide more details about this program? How does it work exactly?\n\nAlso, I'm curious about the total sum for Handling Charges. What does it cover? \n\nI understand that you need some information for the Final Update of my Payment Account, but could you clarify what kind of information is needed? \n\nLastly, it's great to hear that World Bank and Human Rights Legal Aid Council are involved in this process. Could you tell me more about their role in this payment program?\n\nLooking forward to your response.\n\nBest wishes,\nJon"
+    },
+    {
+        "from": "scammer_991",
+        "to": "baiter_991",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "The only payment",
+        "body": "Dear Sir,\r\n\r\nKindly note that your pathetic experiences lent credence to the payment initiative of the International Human Rights Legal Aid Council that was approved by the World Bank Group for the interest of Justice.\r\n\r\nConsequently,we urge you to be firm and committed to this process,as this was painstakingly perfected for success,considering other stalemates and investments of no significant dividend.\r\n\r\nSir,as earlier stated the total sum of $50 is required as Handling Charges.\r\n\r\nThe $50 is just to Open a Payment File that will correspond with your Details and  Payment Slot for the facilitation of your payment.\r\n\r\nThat is to say that you are required to forward the total sum of $50.00.\r\n\r\n$50.00 for Handling Charges .\r\n\r\nConsequently,we implore you to restore your confidence and comply accordingly to confirm the funds in your authorized Payment Account.\r\n\r\nKindly forward the endorsed Hand Written Letter of Claims and the required sums of $50.00 for the facilitation of your payment.\r\n\r\nWe await your prompt compliance now to utilize your payment slot in your favor.\r\nThank you for your understanding and cooperation.\r\nRespectfully,\r\nMr Aliyu Bagudu Abubakar\r\nDirector-General of the Legal Aid Council"
+    },
+    {
+        "from": "baiter_991",
+        "to": "scammer_991",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.018784722222222223,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: The only payment",
+        "body": "Hello Mr. Aliyu Bagudu Abubakar,\n\nThank you for your message and the information provided. It's interesting to learn about the payment initiative of the Human Rights Legal Aid Council approved by the World Bank Group.\n\nI'm curious, could you please explain more about how this process works? How does the payment file correspond with my details and payment slot?\n\nAlso, I'd like to understand better what the handling charges cover. Could you provide a breakdown of these costs?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJon"
+    }
+]

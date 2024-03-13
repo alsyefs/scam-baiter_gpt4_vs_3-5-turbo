@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2046",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings ,",
+        "body": "Greetings ,\nI am officially writing this email to inform you that your Email address appeared as one of the approved fund beneficiaries who has not received even part payment of huge amount of money owed to you.\n \nTherefore your fund was Successfully cleared recently from Terrorists and Money Laundry and resolved to be Released to you through Bank to Bank Wire Transfer on your contact to this office. \nOn this process you are advised to provide your direct telephone numbers,complete names and full contact address for immediate\nprocessing and release of your funds to you.\nOn the receipt of your response with above mentioned requirements we shall not hesitate to forward copies of your fund approved documents to you for your perusal.\n \nYours truly,\nDavid Philip."
+    },
+    {
+        "from": "baiter_2046",
+        "to": "scammer_2046",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings ,",
+        "body": "Hello David Philip,\n\nThank you for your email. It's quite surprising to hear that my email address has appeared as one of the approved funds. I'm curious, how did this happen? Could you please provide more details about this process?\n\nAlso, could you explain a bit more about what you mean by \"Terrorists and Money Laundry\"? It sounds quite serious.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nKimberly"
+    }
+]

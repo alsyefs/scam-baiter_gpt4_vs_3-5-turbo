@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_551",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention All,",
+        "body": "  Attention All,\nConclusion was made yesterday that all victims must be paid through their country branch offices, but before that all victims must be identified with their valid obtained ID cards before any victims can be compensated.\nPlease re-confirm to me the following details below;\nApplication Process:\n(a) Name :\n(b) Residential address :\n(c) Direct telephone number :\n(d) Your means of Identification or passport :\n(e) Email address :\n(f) Occupation\nThose who are not yet with their ID cards should hurry up and do so, because without your ID card you will never participate in the compensation exercise.\nFinance Disbursement Unit\nDirector.\nNick Beresford\ndepartmentfundsrecoveryagency@gmail.com\n "
+    },
+    {
+        "from": "baiter_551",
+        "to": "scammer_551",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention All,",
+        "body": "Hello Nick Beresford,\n\nThank you for your message. It's great to hear that victims will be compensated. I'm sure this will bring a lot of relief to those affected.\n\nCould you please provide more information about the process? For instance, how are the victims identified and what is the role of the ID cards in this process? Also, could you clarify what you mean by \"those who are not yet with their ID cards should hurry up and do so\"?\n\nI'm also curious about how the payment will be made through country branch offices. Could you elaborate on that?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDerek"
+    }
+]

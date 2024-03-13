@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_1192",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Dear  Sir",
+        "body": " Dear  Sir\nI am Irene Ihuoma,  former Secretary to the suspended Central Bank of Nigeria Governor (CBN) Mr. Godwin Emefiele, but now a clerical officer under the Directorate of Foreign Payments, Central Bank of Nigeria.\nI was demoted when they found out that I have never been in support of their deals and was helping beneficiaries with information on how to get their funds.\nMy past boss, and some other top banking official with their colleagues in government were involved in the delay of your payment through imposition of unnecessary bills when it is on record that you have done what is required to have your fund released to you but the greed  will not let them do that Because they use your fund to trade on the International Market and make huge percentage profits on the fund regularly. they will never let you know what to do to get your funds delivered to you.\nAs I still have access to payment files, I have information about your outstanding payment which they have hidden from you to  know in order for them to be using your fund.\nYou can receive your funds within 48 hours as soon as you act on this information.\nPlease assure me that no one will know the source of your information until you have received your funds. I will give you details as soon as I hear from you.\nThank you,\nBest Regards,\nIrene Ihuoma    "
+    },
+    {
+        "from": "baiter_1192",
+        "to": "scammer_1192",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  Dear  Sir",
+        "body": "Hello Irene Ihuoma,\n\nThank you for reaching out to me. Your message is quite intriguing and it's interesting to hear about the situation at the Central Bank of Nigeria. \n\nI'm curious, how did you come across my information? And why have you chosen to share this with me specifically? \n\nLooking forward to hearing from you.\n\nBest wishes,\nSharon"
+    },
+    {
+        "from": "scammer_1192",
+        "to": "baiter_1192",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Thank you for your appreciation.",
+        "body": "Dear Sharon\r\n\r\nThank you for your appreciation.\r\nI got your information because in my position I still have access to\r\npayment files, I have been giving this information to beneficiaries before\r\nthey found out and demoted me, I do not like what they are doing, They use\r\nus and still use beneficiaries' funds to make personal gains.\r\nTo have your funds paid to you immediately, you must contact the attorney\r\nappointed by the Nigerian President to handle delayed payments. who will\r\nsecure the required document for you, file the document directly with the\r\nOffice of the President and a copy will be sent to Central Bank of Nigeria\r\nand other paying banks, as soon as the document is received, you will be\r\ncontacted for payment/remittance of your fund. With this document, no\r\nagency can stop your fund transfer.\r\nThe bank will transfer the fund to your local Bank account or through any\r\nother means you want to receive the funds within 48 hours.\r\nName of the document: Presidential Irreversible Payment Mandate (PIPM)\r\n\r\nThank you,\nBest Regards,\r\nIrene Ihuoma"
+    },
+    {
+        "from": "baiter_1192",
+        "to": "scammer_1192",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0009143518518518518,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Thank you for your appreciation.",
+        "body": "Hello Irene,\n\nThank you for your message. It's quite interesting to hear about the situation you're in. I'm curious, how did you come across my contact information? \n\nAlso, could you please provide more details about this attorney appointed by the Nigerian President? What is their name and how can I get in touch with them?\n\nI'm also wondering about the document that needs to be secured. Could you tell me more about what it entails and why it's necessary for the fund transfer?\n\nLooking forward to hearing from you.\n\nBest wishes,\nSharon"
+    },
+    {
+        "from": "scammer_1192",
+        "to": "baiter_1192",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.1487152777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Like I told you earlier",
+        "body": "Dear Sharon\r\n\r\nLike I told you earlier,  I still have access to payment files that is how\r\nI got your information.\r\nThe document Presidential Irreversible Payment Mandate (PIPM) is introduced\r\nby the president in order to check the excesses of these corrupt officials.\r\nAny beneficiary who obtains it and  presents a copy  to the bank must have\r\nhis/her funds transferred within 48 hours.\r\nHowever the appointed attorney will process that. I am trying to get his\r\ncontact information as I doot have it readily.\r\nThank you,\nBest Regards,\r\nIrene Ihuoma"
+    },
+    {
+        "from": "baiter_1192",
+        "to": "scammer_1192",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.1502546296296297,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Like I told you earlier",
+        "body": "Hello Sharon,\n\nI hope this message finds you well. I'm reaching out to you because I've recently come across some interesting information that I thought might be of interest to you.\n\nYou see, I still have access to certain payment files, and it's through these files that your name came up. Now, don't worry, everything is perfectly legal and above board.\n\nThere's a new document called the Payment Mandate PIPM that has been introduced by the president. The purpose of this document is to keep a check on corrupt officials and their activities. It's quite an effective tool in ensuring transparency and fairness.\n\nIf someone obtains this document and presents a copy to the bank, they can have their funds within hours. It's really quite remarkable how efficient it is!\n\nHowever, there's an appointed attorney who handles the processing of this document. Unfortunately, I don't currently have his contact details readily available but I'm working on getting them.\n\nCould you tell me more about your interest in such matters? Are you familiar with these types of documents or is this all new information for you?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nSharon"
+    }
+]

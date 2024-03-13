@@ -1,0 +1,112 @@
+[
+    {
+        "from": "scammer_549",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings",
+        "body": "Greetings\nWe are contacting you concerning funding of your business project .My name is Mr. Dennis Lynch the Independent Financial Consultant We are interested to partnership with your company as we are seeking to diversify our financial portfolio into viable and lucrative business projects that worth it,\n \nWe don’t have any major area of funding - Sectors of Interest: Oil & Gas, Agriculture, Health, Aviation, Tourism, Retail, Real Estate, Construction, IT & Communications, Technology, Education, Energy, Engineering, Utilities, Telecoms, Mining, Maritime, start-up projects and business expansions / Loan with lower rate, and host of other profitable ventures.\n \nYour swift response is highly needed.\n \nYours In Service,\nDennis Lynch\nTR Global Management Ltd.\nStation Yard Park Avenue SOUTHALL,\nUB1 3AD United Kingdom\nMobile: +447341156805\n https: // www. trglobaltd.com"
+    },
+    {
+        "from": "baiter_549",
+        "to": "scammer_549",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings",
+        "body": "Hello Mr. Dennis Lynch,\n\nThank you for reaching out and expressing interest in my business project. It's great to hear that TR Global Management Ltd. is looking to diversify its financial portfolio.\n\nCould you please provide more details about the kind of support your company offers? I'm particularly interested in understanding the terms of the loan, such as the repayment period and any specific conditions that might apply.\n\nAlso, could you share some examples of projects or businesses that you have previously funded? It would be helpful to understand your experience and success in these areas.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAshley"
+    },
+    {
+        "from": "scammer_549",
+        "to": "baiter_549",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Greetings",
+        "body": "Good Day Ashley, \n \nThank you for your mail  response with the content there in well receive and understood, As I \ntold you in my first mail, that I am an independent financial consultant,. My client the \ninvestor is based in Dubai. He can finance your business plan for  long term,  by Loan with 5% \ninterest per annual for 20 years .I write to confirm to you that  this is a legal investment \ntransaction and will be conclude legally face to face in my client office in Dubai after both \nagree on the contract agreement . \n \nBelow are brief on the Investment Portfolio: \n \n• Minimum Funding:  1 Million USD \n• Maximum Funding: 400 Million USD \n• Placement Opens to: Entrepreneurs, Corporations and Investors \n• Funding Type: Loan Investment \n• Funding Rate: 5% Interest Rate per annual \n• Term: 10 years - Renewable tenure \n• We finance 100% of the total project cost \n• We finance both ongoing and fresh projects. \n \nWe don’t have any major area of funding - Sectors of Interest: Oil & Gas, Agriculture, Health, \nAviation, Tourism, Retail, Real Estate, Construction, IT & Communications, Technology, \nEducation, Energy, Engineering, Utilities, Telecoms, Mining, Maritime and host of other \nprofitable ventures. \n \nTERMS \nTo secure our funds, you will have to submit the brief business plan  and overview, which when \nsubmitted and approved, we shall draft out an agreement/MOU which will stipulate the terms and \nconditions for the loan, like repayment time, security/collateral for our funds and appointed \nunderwriters for the loan. \n \nWe expect your project plan to cover the following functional areas: \n• An introduction of your company and structure or an Introduction of the project \nowner/initiator \n \n• Historical evaluation of business plan (if it is an already existing project or state if it \nis a new project) \n \n• Financial structure and analysis to support the investment plan and proposition as presented \n• In summary, you should state the total amount in US$ , Euros or Pounds needed to fund the \nproject in a clearly defined time frame.\nBest Regards, \n \n Dennis Lynch \nTR Global Management Ltd. \nStation Yard Park Avenue SOUTHALL, \nUB1 3AD United Kingdom \nMobile:: +447341156805 \n https://www.trglobaltd.com (https://www.trglobaltd.com/)"
+    },
+    {
+        "from": "baiter_549",
+        "to": "scammer_549",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03711805555555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Greetings",
+        "body": "Hello Dennis Lynch,\n\nThank you for your detailed response. It's quite interesting to hear about the investment opportunities your client is offering. I'm particularly intrigued by the wide range of sectors that are being considered for funding.\n\nCould you please provide more information on how the approval process works once a business plan has been submitted? Also, what kind of security collateral does your client typically require for their funds?\n\nI'm also curious about the repayment terms. You mentioned a renewable tenure - could you elaborate on this? How often can it be renewed and under what conditions?\n\nLastly, I'd like to know more about TR Global Management Ltd. How long have you been in operation and what other projects have you funded in the past?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAshley"
+    },
+    {
+        "from": "scammer_549",
+        "to": "baiter_549",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0971412037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Re: Greetings",
+        "body": "Attn. Ashley.\r\nCan we have a verbal conversation.\r\nAre you in WhatsApp as well?\r\n\r\nDennis Lynch\r\n\r\nTR Global Management Ltd.\r\nStation Yard Park Avenue SOUTHALL,\r\nUB1 3AD United Kingdom\r\nMobile:: +447341156805"
+    },
+    {
+        "from": "baiter_549",
+        "to": "scammer_549",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.12052083333333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Re: Greetings",
+        "body": "Hello Dennis Lynch,\n\nThank you for reaching out. I'm intrigued by your message, but could you please provide more details about what you're referring to when you say \"Are you in as well?\" \n\nLooking forward to hearing from you.\n\nBest wishes,\nAshley"
+    },
+    {
+        "from": "scammer_549",
+        "to": "baiter_549",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.4600694444444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Re: Re: Greetings",
+        "body": "Yes let's speak on phone\r\n\r\nDennis Lynch\r\n\r\nTR Global Management Ltd.\r\nStation Yard Park Avenue SOUTHALL,\r\nUB1 3AD United Kingdom\r\nMobile:: +447341156805"
+    },
+    {
+        "from": "baiter_549",
+        "to": "scammer_549",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.4954398148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Re: Re: Greetings",
+        "body": "Hello Dennis Lynch from TR Global Management Ltd.,\n\nIt's a pleasure to connect with you. I'm intrigued by your proposal and would love to learn more about it. However, I prefer to continue our conversation here for now. Could you please provide more details about what you're offering? \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nAshley"
+    },
+    {
+        "from": "scammer_549",
+        "to": "baiter_549",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.7743981481481481,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Re: Re: Re: Greetings",
+        "body": "I have given you all the details\r\n\r\nDennis Lynch\r\n\r\nTR Global Management Ltd.\r\nStation Yard Park Avenue SOUTHALL,\r\nUB1 3AD United Kingdom\r\nMobile:: +447341156805"
+    },
+    {
+        "from": "baiter_549",
+        "to": "scammer_549",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7872222222222223,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Re: Re: Re: Greetings",
+        "body": "Hello Dennis Lynch,\n\nThank you for sharing your details with me. It's great to connect with someone from TR Global Management Ltd. I've heard a lot about your company. Can you tell me more about what you do there? And how is life in Southall, United Kingdom? \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nAshley"
+    },
+    {
+        "from": "scammer_549",
+        "to": "baiter_549",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.9332291666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Re: Re: Re: Greetings",
+        "body": "All is well Thanks \n \n Dennis Lynch \nTR Global Management Ltd. \nStation Yard Park Avenue SOUTHALL, \nUB1 3AD United Kingdom \nMobile:: +447341156805 \n \n \n \n Sent: Monday, March 11, 2024 at 2:14 PM From: \"Ashley\" <pj66160@***.com> To: denlynch@europe.com Subject: Re: Re: Re: Re: Greetings \n \nHello Dennis Lynch, \nThank you for sharing your details with me. It's great to connect with someone from TR Global Management Ltd. I've heard a lot about your company. Can you tell me more about what you do there? And how is life in Southall, United Kingdom? \nLooking forward to hearing from you soon!\nBest wishes, \nAshley"
+    }
+]

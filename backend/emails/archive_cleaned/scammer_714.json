@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_714",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   From Mrs. Elizabeth Charles",
+        "body": "   From Mrs. Elizabeth Charles\nTenness, United States\nPersonal email:  \nelizabethcharles3042@gmail.com\nDated: 30th November 2023\nHello,\nI know it will be a great surprise reading from me today but consider this a divine intervention. My name is Mrs. Elizabeth Charles, a widow from Tennessee, United States. I am presently writing to you from my sickbed because I have been fighting cancer for over 5 years and the doctor says I have a few months left.\nI want to entrust my money $15.8 Million dollars to your care for charity purposes and crave your indulgence as a concerned individual to help use my money for charity and also assist the poor with less privileged in the society, so reply for more information as I'm not always online due to my health and my late husband's brother wants me dead so that he will claim all my late husband and I worked for.\nI will tell you more about myself and what you need to do with the money once you receive it. Give me your word that you will not betray my trust, so that I will furnish you with more details about the Funds. Please reply now as my health is pretty bad, it’s urgent and very important you keep this email confidential.\nHenceforth kindly reply to my personal email: \nelizabethcharles3042@gmail.com\nHave a blessed day and do not forget to pray for me.\nRemain Blessed\nMrs. Elizabeth Charles\nFrom Tennessee, United States. \nPersonal email: \nelizabethcharles3042@gmail.com\n "
+    },
+    {
+        "from": "baiter_714",
+        "to": "scammer_714",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    From Mrs. Elizabeth Charles",
+        "body": "Hello Mrs. Elizabeth Charles,\n\nI'm deeply moved by your message and I'm sorry to hear about your health condition. It's really kind of you to think about helping others in such a difficult time. \n\nCould you please share more details about the charity work you want me to carry out? I would also like to know how I can access these funds for the said purpose.\n\nPlease rest assured that I will do my best to honor your trust and use the funds for the betterment of those in need.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSusan"
+    }
+]

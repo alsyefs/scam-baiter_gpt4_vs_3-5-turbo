@@ -1,0 +1,242 @@
+[
+    {
+        "from": "scammer_1219",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  My name is James Ladner, I l",
+        "body": "  My name is James Ladner, I live in Austria, I am looking to invest an\nasset valued at $25 Million USD, in Real Estate and any other\nprofitable\nbusiness project in your country that can generate our expected return\non investment.\nLet me know if you are interested so we can discuss more in detail.\nRegards,\nJames Ladner.   "
+    },
+    {
+        "from": "baiter_1219",
+        "to": "scammer_1219",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   My name is James Ladner, I l",
+        "body": "Hello James Ladner,\n\nIt's a pleasure to meet you! Your investment plans sound quite interesting. I'm curious, what kind of return on investment are you expecting? And do you have any specific areas or types of real estate in mind?\n\nLooking forward to hearing more about your ideas.\n\nBest regards.\n\nBest wishes,\nRuben"
+    },
+    {
+        "from": "scammer_1219",
+        "to": "baiter_1219",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Reminder Reminder Reminder,",
+        "body": "Dear Ruben, \n\nThis is to remind you to check my last email regarding sending me your contact info and the time you will be ready for me to call.\nBest Regards, \nJames Ladner."
+    },
+    {
+        "from": "baiter_1219",
+        "to": "scammer_1219",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2210300925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Reminder Reminder Reminder,",
+        "body": "Hello James Ladner,\n\nThank you for your email. I hope this message finds you well. I must have missed your previous email, my apologies for that.\n\nCould you please provide me with more details about the call? What will be the main topic of our conversation? It would be great if we could set a general agenda so I can prepare myself accordingly.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRuben"
+    },
+    {
+        "from": "scammer_1219",
+        "to": "baiter_1219",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.2669675925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Re: Reminder Reminder Reminder,",
+        "body": "Hello Ruben , \n\nWe are strictly discussing about the investment and the terms. \n\nI hope to hear from you soon.\nBest Regards, \nJames Ladner."
+    },
+    {
+        "from": "baiter_1219",
+        "to": "scammer_1219",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.407662037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Re: Reminder Reminder Reminder,",
+        "body": "Hello James Ladner,\n\nThank you for reaching out to me. I'm quite interested in learning more about this investment opportunity and the terms associated with it. Could you please provide some more details? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRuben"
+    },
+    {
+        "from": "scammer_1219",
+        "to": "baiter_1219",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.8927430555555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "For Your Kind Attention,",
+        "body": "My proposal is basically personal as I am interested in a credible fruitful business relationship with you and I hope you would acknowledge this business cooperation with the best of your understanding. I am contacting you with the intentions of interest to invest in your region through collaborative partnership, either in Real Estate, farming, oil and so on. \nI will need us to have a very comprehensive discussion regarding my investment plan. The Upon the receipt of your next response, I will need your full details such as listed below for easy and confidential communication: \nI.\tYour Name \nII.\tYour Address \nIII.\tDate of Birth \nIV.\tTelephone/Fax \nV.\tCompany Name/ Address \nVI.\tOccupational Position \nI will be willing to send you all relating documents patterning myself and the invested funds in quote upon the receipt of your response. And after that, we will discuss full on the ROI i.e the profit I will be getting every year from our partnership gains. \nI solemnly need a trust worthy, reliable and capable hand who can handle this investment project. Arrangement for one-on-one meeting is very essential and should be part of our utmost next discussion. \n\nThank you, I look forward for your utmost response.\nBest Regards, \nJames Ladner."
+    },
+    {
+        "from": "baiter_1219",
+        "to": "scammer_1219",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9078703703703703,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: For Your Kind Attention,",
+        "body": "Hello James Ladner,\n\nThank you for reaching out and considering me for this exciting opportunity. I'm always open to new ventures and your proposal sounds very interesting indeed.\n\nI'd love to learn more about the investment plan you have in mind. Could you please provide more details? For instance, what kind of real estate or farming projects are we talking about? And how would the oil industry fit into this?\n\nAs for the ROI, could you give me a rough estimate of what kind of returns we might expect? It would be helpful to know this before we proceed further.\n\nI understand that trust is crucial in such matters. Rest assured, I am committed to maintaining a high level of integrity in all my dealings.\n\nHowever, I hope you understand that sharing personal information like name, address, date of birth etc., over email isn't safe due to privacy concerns. Perhaps we could discuss these details later once we've established a solid foundation for our potential partnership?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nRuben"
+    },
+    {
+        "from": "scammer_1219",
+        "to": "baiter_1219",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.9316666666666666,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Re: For Your Kind Attention,",
+        "body": "Hello  Ruben, \n\nI write to inform you that I will like to invest in either of the following. \n\nReal estate \nMining \nAgriculture \n\nWe cannot type only emails , at least you can send your mobile number for easy communication. \n\nI await your response.\nRegards, \nJames Ladner."
+    },
+    {
+        "from": "baiter_1219",
+        "to": "scammer_1219",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9496412037037038,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Re: For Your Kind Attention,",
+        "body": "Hello James,\n\nThank you for reaching out and considering me for this exciting opportunity. I'm quite interested in both real estate and mining, but I would love to learn more about these investments. Could you please provide more details? For instance, what kind of properties are we talking about in real estate? And as for mining, what minerals or resources are we focusing on?\n\nI prefer to communicate via email at the moment. It's easier for me to keep track of all the information that way.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRuben"
+    },
+    {
+        "from": "scammer_1219",
+        "to": "baiter_1219",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0238425925925927,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: For Your Kind Attention,",
+        "body": "Hello Ruben, \n\nI don’t live in your country and will not know more about how lucrative those investment are. \n\nI will advise you to make proper research in your country to know how lucrative those investments are, then report back to me before my lawyer will prepare MOU agreement between us. \n\nI await your response.\nRegards, \nJames Ladner."
+    },
+    {
+        "from": "baiter_1219",
+        "to": "scammer_1219",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0331481481481481,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: For Your Kind Attention,",
+        "body": "Hello James Ladner,\n\nThank you for your response. I appreciate your advice about doing proper research in my country regarding the investment opportunities. I'm not very knowledgeable about these things, but I'll try to find out more.\n\nCould you perhaps give me some pointers on what exactly I should be looking into? What kind of information would be useful for your lawyer to prepare the MOU agreement?\n\nLooking forward to hearing from you.\n\nBest wishes,\nRuben"
+    },
+    {
+        "from": "scammer_1219",
+        "to": "baiter_1219",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0730324074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: Re: For Your Kind Attention,",
+        "body": "Hello Ruben, \n\nThanks for your quick response . \nThe required information to prepare the MOU agreement are as follows . \n\nFull name \nContact address \nMobile number \n\nThose are the required information. \n\nTreat as urgent.\nRegards, \nJames Ladner."
+    },
+    {
+        "from": "baiter_1219",
+        "to": "scammer_1219",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0742824074074073,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: Re: For Your Kind Attention,",
+        "body": "Hello James,\n\nThank you for getting back to me so quickly! I'm really excited about this opportunity. \n\nCould you please tell me more about the MOU agreement? What exactly does it entail and how will it benefit our collaboration?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRuben"
+    },
+    {
+        "from": "scammer_1219",
+        "to": "baiter_1219",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.939791666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: Re: Re: For Your Kind Attention,",
+        "body": "I'm yet to receive any information from you. I am presenting a proposal not pressuring you to accept, it very simple, if you don’t have interest then decline. I know my proposal will be of a great benefit to both of us, if only you are capable of handling such tune of investment. I believe in sharing great ideas, I believe in innovation, and I am creative, so I will apologize if my contact with you is offensive. \n\nThanks for your time.\nRegards \nJames Ladner."
+    },
+    {
+        "from": "baiter_1219",
+        "to": "scammer_1219",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.9494907407407407,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: Re: Re: For Your Kind Attention,",
+        "body": "Hello James Ladner,\n\nThank you for reaching out and taking the time to share your proposal. I'm always open to hearing new ideas and opportunities, so I appreciate your initiative.\n\nCould you please provide more details about this proposal? What exactly does it entail and how would it be beneficial for both of us? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRuben"
+    },
+    {
+        "from": "baiter_1219",
+        "to": "scammer_1219",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.949826388888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: Re: Re: For Your Kind Attention,",
+        "body": "Hello James Ladner,\n\nThank you for reaching out and taking the time to share your proposal. I'm always open to hearing new ideas and opportunities, especially ones that could be mutually beneficial.\n\nCould you please provide more details about this proposal? What exactly does it entail and how would it benefit both of us?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRuben"
+    },
+    {
+        "from": "scammer_1219",
+        "to": "baiter_1219",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.0340625,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: Re: Re: Re: For Your Kind Attention,",
+        "body": "Dear Ruben, \n\nTo clarify you further, your incredible ideas, management capability and uprightness is only what will be essential in this partnership. In agreement for partnership, 30% of any investment return from the partnership. \n\nIf you are interested in the partnership and have any other business ideas that will yield a high return, kindly send us your executive summary/business plan for investment review. while a legal practitioner will use these details to get a legal permit and MOU (Memorandum of Understanding) and it is optional but we may sign a Non-Disclosure agreement for your protection through the transaction. \n\nI look forward to hearing back from you soon. \n\nYour Sincerely, \nJames Ladner."
+    },
+    {
+        "from": "baiter_1219",
+        "to": "scammer_1219",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.0527546296296295,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: Re: Re: Re: For Your Kind Attention,",
+        "body": "Hello James Ladner,\n\nThank you for your email and the opportunity to discuss potential business ideas. I'm intrigued by the prospect of working together, especially given your impressive management capabilities.\n\nCould you please provide more details about the kind of business ideas you're interested in? Are there any specific sectors or industries that you're particularly keen on?\n\nAlso, could you elaborate on the process of obtaining a legal permit and MOU Memorandum? I'm not very familiar with these terms, so any additional information would be greatly appreciated.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRuben"
+    },
+    {
+        "from": "baiter_1219",
+        "to": "scammer_1219",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.0528935185185184,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: Re: Re: Re: For Your Kind Attention,",
+        "body": "Hello James Ladner,\n\nThank you for your message and the opportunity to discuss potential business ideas. I'm always excited about new ventures and possibilities.\n\nCould you please provide more details about the kind of business ideas you are interested in? Are there any specific sectors or industries that you prefer?\n\nAlso, could you explain a bit more about the process of investment review? How does it work and what factors do you consider when reviewing a business plan?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nRuben"
+    },
+    {
+        "from": "scammer_1219",
+        "to": "baiter_1219",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.695,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Hello",
+        "body": "Dear Ruben, \n\nI've given you all the details so far. If you want us to proceed with the investment partnership please kindly provide your contact information so my attorney will proceed with the MOU agreement or if you are not satisfied with my proposal please kindly decline the offer. \n\nHave a wonderful week. \nJames Ladner."
+    },
+    {
+        "from": "baiter_1219",
+        "to": "scammer_1219",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.699398148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: Hello",
+        "body": "Dear James Ladner,\n\nThank you for your message and the information you've provided. It's really interesting to hear about this investment opportunity. I'm just a bit curious, could you please tell me more about how this investment works? And what would be my role in it?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRuben"
+    },
+    {
+        "from": "scammer_1219",
+        "to": "baiter_1219",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.726736111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "22",
+        "subject": "Re: Re: Hello",
+        "body": "Attn : \n\nI received your message , and I believe it’s better we deal together with the real estate investor when the money is already in your account , so I will direct you to my lawyer so both of you will work together to ensure the money is moved legally to your nominated bank account . \n\nYou intake is 30 percent of the income and also you will receive 2 percent of the total money when it gets to your account before the investment partnership. \n\nWe have to follow the first step . \n\nI await your response.\nRegards"
+    },
+    {
+        "from": "baiter_1219",
+        "to": "scammer_1219",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.741365740740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "23",
+        "subject": "Re: Re: Hello",
+        "body": "Hello,\n\nThank you for your message. It sounds like an interesting opportunity. I'm not very familiar with these types of transactions, so could you please explain a bit more about how this process works? \n\nAlso, what kind of investment are we talking about here? And what would be my role in all of this?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nRuben"
+    }
+]

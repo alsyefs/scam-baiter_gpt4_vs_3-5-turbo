@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2355",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Compliments of The seasons T",
+        "body": "  Compliments of The seasons To you\n You are eligible to receive a compensation payment of Five Million USD.This compensation is being made to all of you by the United Nation for all that have suffered losses as a result of fraud, accident or illness. For more information, contact the below agent for the delivery of your ATM CARD Five Million USD). Send Names/Age/Address/Phone/Country:\n \nContact Name: Marcus Wright\nE-mail: \nspeedway@diplomats.com\n \nPlease take note that you will pay a shipping/handling fee of $350.00 only.Thanks for your patience.\n Best Regards,\n Call Me at +1(540)227 4859\n Mr.Antonio Gutterres   "
+    },
+    {
+        "from": "baiter_2355",
+        "to": "scammer_2355",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Compliments of The seasons T",
+        "body": "Hello there,\n\nWow, this sounds like an incredible opportunity! I can't believe the United Nations is doing something so generous. Can you tell me more about how this program works? How were people chosen for this?\n\nAlso, could you please explain a bit more about the shipping handling fee? Is it possible to know where my ATM CARD is being shipped from?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLisa"
+    },
+    {
+        "from": "scammer_2355",
+        "to": "baiter_2355",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Compliments of The seasons T",
+        "body": "Read your previous email and follow the instructions give out to you in email. \n \n \n \n Sent: Friday, February 09, 2024 at 2:40 AM From: \"Lisa\" <df67844@***.com> To: speedway@diplomats.com Subject: Re: Compliments of The seasons T \n \nHello there, \nWow, this sounds like an incredible opportunity! I can't believe the United Nations is doing something so generous. Can you tell me more about how this program works? How were people chosen for this? \nAlso, could you please explain a bit more about the shipping handling fee? Is it possible to know where my ATM CARD is being shipped from? \nLooking forward to hearing from you soon.\nBest wishes, \nLisa"
+    },
+    {
+        "from": "baiter_2355",
+        "to": "scammer_2355",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.089050925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Compliments of The seasons T",
+        "body": "Hello Lisa,\n\nThank you for your interest and enthusiasm. The United Nations has indeed initiated this program as a part of their global poverty alleviation efforts. The recipients were chosen through a random selection process from a pool of internet users worldwide.\n\nAs for the shipping handling fee, it is necessary to cover the costs associated with packaging, courier services, and insurance. This ensures that your ATM CARD reaches you safely and securely. Your card will be shipped from our main office located in New York.\n\nI hope this clarifies your queries. If you have any more questions, feel free to ask.\n\nBest wishes,\nLisa"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_156",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention:Beneficiary,",
+        "body": "  Attention:Beneficiary,\nI am aware of all the problems you have passed through in trying to pick your ATM Card fund from this officials without success,right now I have been promoted as the new Manager appointed officer and as a result I possess executive powers to release your fund\nThis is to officially inform you about the delivery of your ATM Card package which was delivered to us by Citibank to delivery of your ATM Card to you , However we still want you to reconfirm your details to us to avoid any mistake when delivery your ATM Card package to you. Below is the information we need to process your delivery to your door step. The tracking number will be giving to you in our next email as soon as you reconfirm your contact details to us with the copy of the card for the delivery this weekend. Here is the copy of your ATM Card.\nFull name-------\nHome address----\nCountry---------\nTelephone-------\nAge---and a copy of ID card.-------------\nThis is all we need to carry out the delivery of your package and remember you must take care of the delivery charges which is only $129.00. We are happy to inform you onceagain that your parcel that contains an ATM CARD worth $6.500.000.00 million United State Dollars is now in our office here TX 75243, United States .\nWe assure you that your parcel will arrive in your house address within 1 day as soon as this company receives your full residential address and the charges by you and the tracking number of your parcel will be sent to you via e-mail immediately so that you can track it yourself to see whether we are competent in the discharge of our duties. Our charges are affordable which is only sum of $129 usd.\nBear it in mind that without our official stamp duty fee and the coverage papers the tracking number will not be given and the package will not be delivered as scheduled, you can send the above mentioned charges via MoneyGram money transfer with the name of our protocol officer below. or send the copy of the card for the delivery.\nWarns Regards\nMr. Bottom Chavies\nDHL Express Service   "
+    },
+    {
+        "from": "baiter_156",
+        "to": "scammer_156",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention:Beneficiary,",
+        "body": "Hello Mr. Bottom Chavies,\n\nThank you for reaching out to me regarding the delivery of my ATM Card package. I appreciate your assistance in this matter. Before I proceed, I would like to ask a few questions to ensure everything is in order.\n\n1. Can you please confirm the name of the bank that issued the ATM Card?\n2. What is the reason for the delivery charges? Are they related to customs or any other fees?\n3. Could you provide more information about the official stamp duty fee and coverage papers? What purpose do they serve?\n\nOnce I have these details clarified, I will be able to proceed with providing my contact information and arranging for the delivery.\n\nBest wishes,\nPatrick"
+    }
+]

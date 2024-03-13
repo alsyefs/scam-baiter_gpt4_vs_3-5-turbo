@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1648",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  My name is Rose Davison from",
+        "body": "  My name is Rose Davison from Trinidad and Tobago,  Am  15 years old\nOrphan because my parents are late but I am the only child of my\nparents,  My late father was a Civil Engineer who worked for many\ncompanies before he died, he sold all his properties and deposited the\nmoney to a financial Institute and used my name as the next of kin,\nRight now I am suffering so much because I am living with my late\nfather's friend who is not taking care of me at all but they choose to\nMaltreat me for no reason since they are not my biological parents.\nThey drop me out from school and I only eat once a day.  The suffering\nis so much on me.\nToday I have contact the Financial Institute where my father deposited\nthe sum of $9,500.000.00 (Nine Million Five Hundred Thousand Dollars)\nto release it to me so that I can start up a new life,  The Financial\nInstitute insisted that my late father signed an agreement with them\nthat I can only access the money at the age of 30 years or they should\nrelease the money to anyone I present to them who is above 29 years.\nPlease I am appealing you with heavy tears on my eyes now, I want you\nto contact Financial Institute on my behalf and tell them to release\nthe $9,500.000.00 (Nine Million Five Hundred Thousand Dollars) to you\nwhile you take your own percentage and send the balance to me so that\ni can help my life instead of suffering this way.\nI am waiting for your response so that i will send you the Bank Contact details.\nThank You so Much.\nRose   "
+    },
+    {
+        "from": "baiter_1648",
+        "to": "scammer_1648",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   My name is Rose Davison from",
+        "body": "Hello Rose,\n\nI'm really sorry to hear about your situation. It sounds like you're going through a tough time. I appreciate your trust in reaching out to me with this matter.\n\nHowever, I have a few questions that I hope you won't mind answering. You mentioned that the financial institute will release the funds to anyone who is above a certain age. May I know what age that is? \n\nAlso, could you provide more details about this financial institute? What's their name and where are they located?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJennifer"
+    }
+]

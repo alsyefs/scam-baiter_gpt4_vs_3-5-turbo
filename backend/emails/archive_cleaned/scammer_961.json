@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_961",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good Lucky To You.",
+        "body": "Good Lucky To You.\nI am a Diplomatic Agent from United Nation Organization named Diplomat\nMr. John , I'm mandated to deliver your inheritance to you in your\ncity of residence. The funds total is ($35, Million dollars) and you\nwere made the beneficiary of these funds by United Nation Organization\nfor scam lost and other unpaid salaries, because after several\ninvestigations and research at the internet database we find you among\nthose that have been defrauded. I am presently in the airport and\nbefore i can deliver the funds you have to reconfirm the following\ninformation so as to ensure that i am dealing with the right person.\n1.Full Name\n2.Address/City\n3. \nId card\n.\nPlease text or call to receive your delivery package now.\nText or call at +1(202) 703-5004\nMr. JOHN"
+    },
+    {
+        "from": "baiter_961",
+        "to": "scammer_961",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Good Lucky To You.",
+        "body": "Hello Mr. John,\n\nThank you for reaching out to me. I appreciate your efforts in delivering the funds to me. However, I have a few questions before we proceed. Can you please provide more details about the United Nations' involvement in this matter? How exactly did they determine that I am eligible for these funds?\n\nAdditionally, could you clarify what you mean by \"scam lost and other unpaid salaries\"? I'm not aware of any such incidents or outstanding payments related to me.\n\nRegarding the information you requested, may I ask why my ID card is needed? Is there any way we can verify my identity through alternative means?\n\nI look forward to your response.\n\nBest wishes,\nScott"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1248",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "HELLO DEAR SCAMS VICTIM  ",
+        "body": "HELLO DEAR SCAMS VICTIM  \n \nHello Dear\n \nGood Day to you and how are you doing today hope fine? For your notice the new government of UK London has decided to compensate every scam victim each with a large sum of 3 million British pounds. Your name was listed among scams victims and duly approved for this payment.\n \nBased on these faithful recommendations, note that during the last U.N meetings held IN AFRICA and UK London, it was alarmed by the world on the loss of funds by various individuals to those scams artists operating in syndicates all over the world today, most especially African. In order to compensate scams victims, the Africans Bodies in conjunction with the U.K Government now pay a total 3 million British pounds each in accordance with the UK recommendations.\n \nDue to corrupt and inefficient Banking Systems, your payments are supervised by the United Nations Officials. For claiming your compensation of 3 millions British pounds, kindly feel free to contact our approved private payment officer Name: Madam Mrs. Jenn Germany Email: (\njennifergermany03@gmail.com\n) She will instruct what you will do in order to successfully receive your compensation amount immediately.\nWaiting for your response and to instruct how your funds will be transferred to you.\n \nSincerely Yours\nMrs Elizbeth Borrison\nContact My Private email address here (\nnuixeia@gmail.com\n) should you have any questions."
+    },
+    {
+        "from": "baiter_1248",
+        "to": "scammer_1248",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: HELLO DEAR SCAMS VICTIM  ",
+        "body": "Hello Mrs. Elizabeth Borrison,\n\nThank you for reaching out to me with this information. I hope you are doing well too. I must admit, I find it quite surprising that the UK government has decided to compensate scam victims with such a large sum of money. Can you please provide me with more details about how this compensation program works? How did my name get listed as a scam victim?\n\nAlso, you mentioned that the payments are supervised by United Nations officials. Could you please explain their role in this process? And what steps do I need to take in order to claim my millions of British pounds? I want to make sure everything is done correctly and securely.\n\nLooking forward to your response.\n\nBest wishes,\nJoseph"
+    }
+]

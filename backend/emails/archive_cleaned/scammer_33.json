@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_33",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Hi how are you today and your",
+        "body": " Hi how are you today and your family? Please i got another person that will help to give you a loan so that we can use the money to pay the charges.He will send a check to you so that as soon as you receive it you will deposit it into your bank account as soon as it clear i will give you the details you will use to send the money so that i will use it to pay all the charges.Please let me know the  remit of your bank account.Can your bank account take up to $20,000 to $30,000 to $50,000? If so send your house address and your phone number to me again.I am waiting for your reply.   "
+    },
+    {
+        "from": "baiter_33",
+        "to": "scammer_33",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  Hi how are you today and your",
+        "body": "Hello there! I hope you're having a wonderful day. It's great to hear about this opportunity, it sounds very interesting. Could you please provide more details about the loan process? How does it work exactly? And what are the terms and conditions? I'm really curious to know more about it.\n\nBest wishes,\nWilliam"
+    }
+]

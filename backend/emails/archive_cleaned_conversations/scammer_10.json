@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_10",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Attn: Beneficiary .",
+        "body": "   Attn: Beneficiary .\nRE; YOUR FUND DELIVERY $10.5M USD .\nThis is to inform you that plans have been concluded for our agent to deliver your\nlong awaited fund to you . My office decided to us this procedure because we\nfound out that every effort you made previously for your fund to be transferred\ndid not work out.\nWe decided to deliver your fund directly to you to avoid any stories from\nbank or any organization .\nTo proceed you need to send the following details so our delivery agent\ncan quickly contact you once he arrives at your location.\nDETAILS NEEDED .\n1) Your complete and sex\n2) Your current address\n3) Your direct mobile number\n4) The nearest airport to you\n5) Your passport or Driver's License .\nWaiting for your urgent reply so we can proceed .\nThank you.\nMichael Goodrich.\nIMF HEAD OFFICE LONDON ENGLAND .   "
+    },
+    {
+        "from": "baiter_10",
+        "to": "scammer_10",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Attn: Beneficiary .",
+        "body": "Hello Michael Goodrich,\n\nThank you for your email. It's quite exciting to hear about the delivery of my long-awaited fund. I appreciate the effort your office has made to ensure this process is successful.\n\nI'm curious, though, could you please provide more details about this fund? For instance, how was it accrued and why has it been designated for me? Also, could you explain a bit more about the delivery process?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMonica"
+    },
+    {
+        "from": "scammer_10",
+        "to": "baiter_10",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Attn: Beneficiary .",
+        "body": "Attn: Monica .\r\n\r\nThanks for your response about your long awaited fund . Well to answer your\r\nquestion the fund we are talking about is your covid-19 American Government\r\nIntervention Fund. During the covid-19 intervention fund was made\r\navailable but we later found out that its not everybody that was able to\r\naccess it that's why we are reaching out now to individuals and\r\norganizations .\r\n\r\nSo the process of delivery is that we would send our agent who will deliver\r\nthe fund to you in your location .So all you need to do now is to provide\r\nus with your address . Age and occupation . Passport . Direct mobile number\r\n.\r\n\r\nOnce we receives the needed details our agent will proceed and deliver the\r\nfund to you .\r\n\r\n\r\nThank you .\r\n\r\nMr M Goodrich"
+    },
+    {
+        "from": "baiter_10",
+        "to": "scammer_10",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00018518518518518518,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Attn: Beneficiary .",
+        "body": "Hello Mr. Goodrich,\n\nThank you for your quick response and the detailed explanation about the fund. It's really interesting to know that such a fund exists and I'm being considered for it.\n\nCould you please tell me more about how this fund was made available? And why was it not accessible to everyone initially? Also, I'm curious about the role of your agent in this process. How will they ensure the safe delivery of the fund?\n\nI appreciate your time and look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMonica"
+    },
+    {
+        "from": "scammer_10",
+        "to": "baiter_10",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.004907407407407407,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Attn: Beneficiary .",
+        "body": "The fund was made available to everyone one to alleviate the effects covid\r\n- 19 pandemic had on individuals and business owners . Emails were\r\nrandomly selected and you fall in this category.\r\n\r\nOur agent will deliver directly to your location ."
+    },
+    {
+        "from": "baiter_10",
+        "to": "scammer_10",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.13447916666666668,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Attn: Beneficiary .",
+        "body": "Hello there,\n\nWow, that sounds like a wonderful initiative! It's great to hear about efforts being made to help people during these challenging times. Could you please tell me more about how this fund works? How was it established and who are the people behind it? \n\nAlso, I'm curious about the selection process. How were the emails chosen randomly? And what criteria was used to determine who falls into this category?\n\nI'm looking forward to hearing more about this. Thanks for reaching out!\n\nBest wishes,\nMonica"
+    }
+]

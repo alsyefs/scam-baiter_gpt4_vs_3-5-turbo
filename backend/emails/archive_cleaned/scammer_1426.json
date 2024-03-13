@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1426",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear  ",
+        "body": "  Dear  \nThanks for your email and i had a meeting with my banker and  he advise to open online banking in your name in absa bank and he will give you the login site and password, so that you can login and have access to  the $30.5M and you can also transfer the fund it bit by bit or once-off  to your account to avoid any eye brow from your government or Tax fee.\nPlease send my banker the requested information like a copy of your passport or ID , your full address, phone number and occupation to enable him to proceed with an online banking  account set-up in your name.\nWaiting to hear from you\nMrs Kim   "
+    },
+    {
+        "from": "baiter_1426",
+        "to": "scammer_1426",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear  ",
+        "body": "Hello Mrs Kim,\n\nThank you for your prompt response and the detailed information. It's really kind of you to consider opening an online banking account in my name at Absa Bank. That sounds like a convenient way to manage the funds.\n\nHowever, I'm a bit curious about how this process works. Could you please explain more about it? How does the bank ensure the security of such transactions? And what measures are taken to maintain privacy?\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRamona"
+    }
+]

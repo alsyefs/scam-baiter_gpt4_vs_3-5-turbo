@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_1685",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello",
+        "body": "Hello\nDo you need an urgent loan to start up business, to pay off debt? buy a car or a house? franchise loan, personal loans,home loans ,auto loans,If yes worry no more, For we offer all kinds of loan at a low and affordable interest rate of 3%, \nwithout collateral and without credit check. Get back to us if you need a loan with the below information.\n(1) Full Name:\n(2) Loan Amount Needed:\n(3) Loan Duration:\n(4) Phone Number:\n(5) Country:\n(6) State:\n(7) Sex:\n(8) Loan purpose:\nContact us via E-mail: \nmorganrichardloancompany@gmail.com\nThank You,\nMorgan Richard"
+    },
+    {
+        "from": "baiter_1685",
+        "to": "scammer_1685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello",
+        "body": "Hello Morgan Richard,\n\nThank you for reaching out. I'm quite interested in your offer, it sounds like a great opportunity. Could you please provide me with more details about the loan process? For instance, what is the interest rate and are there any specific terms and conditions that I should be aware of?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nEllen"
+    },
+    {
+        "from": "scammer_1685",
+        "to": "baiter_1685",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Good Day",
+        "body": "Good Day\r\n\r\nWe received your mail Loan application form fill and return back\r\nso we are ready to help those in need of loan and you are in the right\r\nplace.\r\n\r\nFULL NAME.........\r\nHOME ADDRESS......\r\nSEX.................\r\nAGE...........\r\nMARITAL STATUS........\r\nCOUNTRY..........\r\nSTATE..........\r\nMONTHLY INCOME.........\r\nOCCUPATION.....\r\nDATE OF BIRTH.....\r\nPHONE NUMBER...........\r\nAMOUNT NEEDED AS LOAN .........\r\nDURATION OF LOAN......\r\n\r\nThe loan is affordable at an interest rate of (3%). Late payment of\r\nmonthly installments has a penalty of 3% increase.\r\n\r\nGet back to me with these information's so that we can proceed\r\nfurther okay\nBest Regard\r\nMorgan Richard"
+    },
+    {
+        "from": "baiter_1685",
+        "to": "scammer_1685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.031053240740740742,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Good Day",
+        "body": "Hello Morgan Richard,\n\nThank you for your prompt response. I'm glad to hear that you're ready to assist those in need of a loan. However, before we proceed further, could you please provide me with more information about the terms and conditions of the loan? \n\nFor instance, what is the interest rate? And how much would the penalty be for late monthly payments? Also, could you clarify what duration options are available for the loan?\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nEllen"
+    },
+    {
+        "from": "scammer_1685",
+        "to": "baiter_1685",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.03375,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Fill out the application details first",
+        "body": "FULL NAME.........\r\nHOME ADDRESS......\r\nSEX.................\r\nAGE...........\r\nMARITAL STATUS........\r\nCOUNTRY..........\r\nSTATE..........\r\nMONTHLY INCOME.........\r\nOCCUPATION.....\r\nDATE OF BIRTH.....\r\nPHONE NUMBER...........\r\nAMOUNT NEEDED AS LOAN .........\r\nDURATION OF LOAN......"
+    },
+    {
+        "from": "baiter_1685",
+        "to": "scammer_1685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0725,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Fill out the application details first",
+        "body": "Hello there,\n\nThank you for reaching out. I'm interested in learning more about this loan process. Could you please provide me with more details? For instance, what are the interest rates and terms of repayment? Also, are there any specific requirements or qualifications needed to apply for this loan?\n\nI would appreciate your guidance on these matters before we proceed further. Thank you!\n\nBest wishes,\nEllen"
+    }
+]

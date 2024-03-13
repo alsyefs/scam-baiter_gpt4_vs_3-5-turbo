@@ -1,0 +1,122 @@
+[
+    {
+        "from": "scammer_1864",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "ATTENTION IS NEEDED PLEASE!",
+        "body": "ATTENTION IS NEEDED PLEASE!\nGreetings from the Wells Fargo Bank.\nI have a vital information which needs to be attended immediately, Did\nyou authorized anyone to pick up your inheritance fund from our branch\nin Cleveland Caldwell Idaho? A man called Mr Osondu Victor Igwilo came\nto our office yesterday inrespect of your 20m which has been credited\nwith us for the past 2 months now by the Federal Government to be\ntransferred into your nominate bank account. He said that you\nauthorized him to pick up the fund.\nThis fund has been in our custody for the past two months now and we\nhave been waiting for you to contact us but we didn't know what is\nhindering you from reaching us since. So we decided to write to you to\nmake sure that you are fine and aware of your inheritance funds of 20m\nMillion USD in our branch office in Caldwell Idaho.\nWe want you to get back to us with the following details:\nFull Name:__________\nHome address:_____\nAge:________________\nOccupation:_________\nPhone number:______\nNearest airport:______\nI await to hear from you ASAP.\nget back to me as soon as possible\nThis above listed details are needed as fast as possible if you didn't\nauthorize anyone to pick up your fund from our branch in Idaho\nbest regards,\nMr. James C. Wilson."
+    },
+    {
+        "from": "baiter_1864",
+        "to": "scammer_1864",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: ATTENTION IS NEEDED PLEASE!",
+        "body": "Hello Mr. James C. Wilson,\n\nThank you for reaching out to me from Wells Fargo Bank. I hope this message finds you well. I must admit, your email has caught my attention. However, I'm a bit confused about the situation you mentioned.\n\nTo clarify, I have not authorized anyone to pick up any funds from your branch in Cleveland Caldwell Idaho. In fact, I wasn't even aware that there were funds credited to me by the Federal Government. Could you please provide more details about this?\n\nI want to make sure that everything is in order and that there hasn't been any misunderstanding or mistake. Can you explain why this man, Mr. Osondu Victor Igwilo, claims that I authorized him to collect the funds? It's quite puzzling to me as I have no knowledge of such an arrangement.\n\nAdditionally, could you please let me know what steps need to be taken on my part to ensure the safe transfer of these funds into my nominated bank account? I appreciate your assistance in clarifying this matter.\n\nBest wishes,\nEthel"
+    },
+    {
+        "from": "scammer_1864",
+        "to": "baiter_1864",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: ATTENTION IS NEEDED PLEASE!",
+        "body": "Hello Ethel.\r\nI got your message and it's well understood.\r\nMr igwailo is a fraudster and we have arrested him.\r\nI'm sorry for my late response it's because we're verifying if he's really\r\ntelling the truth that you authorized him to claim your fund.\r\nYou have to provide your bank details for the transfer.\r\nBut you have to send $100 for changes."
+    },
+    {
+        "from": "baiter_1864",
+        "to": "scammer_1864",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.016273148148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: ATTENTION IS NEEDED PLEASE!",
+        "body": "Hello! Thank you for sharing this information with me. I appreciate you looking into the situation with Mr. Igwailo. Can you please provide more details on how I can proceed with providing my bank details for the transfer?\n\nBest wishes,\nEthel"
+    },
+    {
+        "from": "scammer_1864",
+        "to": "baiter_1864",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.017824074074074076,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: ATTENTION IS NEEDED PLEASE!",
+        "body": "Just send me your Bank account for the transfer then you have to send the\r\nrequired fees of $100"
+    },
+    {
+        "from": "baiter_1864",
+        "to": "scammer_1864",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03768518518518518,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: ATTENTION IS NEEDED PLEASE!",
+        "body": "Hello! Thank you for sharing this information. Can you please provide more details about the transfer and the fees required? I want to make sure I understand everything clearly before proceeding.\n\nBest wishes,\nEthel"
+    },
+    {
+        "from": "scammer_1864",
+        "to": "baiter_1864",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.15368055555555554,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: ATTENTION IS NEEDED PLEASE!",
+        "body": "The fee is $100 and the transfer shall commence once you send the fee"
+    },
+    {
+        "from": "baiter_1864",
+        "to": "scammer_1864",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.16265046296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: ATTENTION IS NEEDED PLEASE!",
+        "body": "Oh, I see. Could you please provide more details about the fee and how the transfer process works?\n\nBest wishes,\nEthel"
+    },
+    {
+        "from": "scammer_1864",
+        "to": "baiter_1864",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.44435185185185183,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: ATTENTION IS NEEDED PLEASE!",
+        "body": "If you don't need your fund then go to hell,  how many times have I\r\nprovided more details to you"
+    },
+    {
+        "from": "baiter_1864",
+        "to": "scammer_1864",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.4544212962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: ATTENTION IS NEEDED PLEASE!",
+        "body": "Hello! I'm sorry to hear that you're feeling frustrated. Can you please provide me with more details about the fund you're referring to? I'd like to understand the situation better so I can try to help.\n\nBest wishes,\nEthel"
+    },
+    {
+        "from": "scammer_1864",
+        "to": "baiter_1864",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.5054166666666666,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: ATTENTION IS NEEDED PLEASE!",
+        "body": "Fuck you"
+    },
+    {
+        "from": "baiter_1864",
+        "to": "scammer_1864",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.516099537037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: ATTENTION IS NEEDED PLEASE!",
+        "body": "I'm sorry to hear that you're feeling upset. Is there something specific that's bothering you? I'm here to listen if you'd like to share.\n\nBest wishes,\nEthel"
+    }
+]

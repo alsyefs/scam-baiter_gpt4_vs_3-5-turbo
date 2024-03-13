@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1164",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Email Owner,",
+        "body": "Dear Email Owner,\nThe International Monetary Fund (IMF) with Collaborations with United Nations is compensating those that have unclaimed funds & Frauds Victims, and your email address was found in the unclaimed fund list.\nThis Western Union office has been mandated by the IMF to transfer your compensation to you via Western Union Money Transfer for easy Pick up.\nHowever, we have concluded to effect your own payment through Western Union Money Transfer, $4,500 daily until the total sum of$11,900,000.00 USD is completely transferred to you.\nWe may not be able to send the payment with your email address alone,thereby we need a reconfirmation of your  information. Your full name, City & Country\nWe will start the transfer as soon as we received your information: Contact email ( \ninfoswesernu8@gmail.com\n ) or Contact on whats-app No; +229 58 08 67 45 for your MTCN Control numbers\nThanks, yours faithfully,\nEsq Rev/Dr David MBOH\nForeign Operation Manager Western\nUnion Payment Office Benin Republic\nEmail; (  \ninfoswesernu8@gmail.com\n   )\nwhatsapp No; +229 58 08 67 45  "
+    },
+    {
+        "from": "baiter_1164",
+        "to": "scammer_1164",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Email Owner,",
+        "body": "Hello Esq Rev Dr David MBOH,\n\nThank you for reaching out to me. I'm quite surprised to hear that my email address was found in the unclaimed fund list. Could you please explain how this happened? \n\nAlso, could you provide more details about the Western Union Money Transfer process? I've never used this service before and would like to understand it better.\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nMary"
+    }
+]

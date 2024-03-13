@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1481",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  From: Barrister/Lawyer Larry",
+        "body": "  From: Barrister/Lawyer Larry Lewandowski <llewandowski445@aol.com>\nDate: 19.12.23 \nWhom:\nSubject: Payment of $1.7 million USD\nAttention Please,\nThanks for your email, if you want us to transfer your fund to your account right now, Please comply immediately,  I will use my power to transfer your fund into your account. Please reconfirm us your full account details and your Passport Or Id Card/ Home address. Note that the fee for the transfer is $125USD and that will cover up everything's/ All Document. Remember only fee you will pay to receive payment of $1.7 million USD United States Dollars We do accept ITUNES GIFT CARD Or GOOGLE PLAY CARD Or STEAM GIFT CARD OR AMAZON GIFT CARD, you can send it via email. You can send us fee $125 USD to our BITCOIN WALLET BELOW: 1D1wUo3hzFerXgbrFtX471EBa16Knx3j3c\nYOU ARE ADVICE TO SEND US THE FEE BY WESTERN UNION OR MONEYGRAM OR RIA WITH THE BELOW DETAILS:\n \nReceives Name:-  U. E.\nReceivers Address:-  \nCountry:-Benin Republic \nCity/state:-Cotonou. \nQuestion:- How long? \nAnswer:-Now \nAmount:-$125USD\nSenders Name:_______________\nMtcn(Money Control Number):_______________\nFull banking details to avoid wrong transfer:\nNAME AND ADDRESS OF BANK:_______________\nACCOUNT NAME:_______________\nACCOUNT NO.:_______________\nSWIFT CODE:_______________\nBANK ADDRESS:_______________\nYour full information needed\nFull Name:_______________\nTele. Mobile/ WhatsApp Number:_______________\nState:_______________\nCountry;_______________\nOccupation:_______________\nAge:._______________\nPlease note that as soon as this fee is sent, please do send us the MTCN/payment slip to enable us to confirm that you have sent the fee for the transfer.\nWaiting to hear from you soon.\nBest Regards,\nLawyer Larry Lewandowski\nAddress: C/33 Rau De daze Road.\nEmail: \nllewandowski445@aol.com\n "
+    },
+    {
+        "from": "baiter_1481",
+        "to": "scammer_1481",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   From: Barrister/Lawyer Larry",
+        "body": "Hello Lawyer Larry,\n\nThank you for reaching out to me. I appreciate your offer to transfer the funds into my account. However, before proceeding, I have a few questions regarding the process.\n\n1. Could you please provide more information about the fee for the transfer? What does it cover exactly?\n\n2. You mentioned accepting ITUNES GIFT CARD, GOOGLE PLAY CARD, STEAM GIFT CARD, or AZON GIFT CARD as payment. Is there a specific reason why these gift cards are preferred over other forms of payment?\n\n3. Can you explain how sending the fee via email works? Is there a specific email address I should use?\n\n4. In regards to the Bitcoin wallet you mentioned, could you provide more details on how to send the fee using this method?\n\nI look forward to your response and further clarification on these matters.\n\nBest wishes,\nFrank"
+    }
+]

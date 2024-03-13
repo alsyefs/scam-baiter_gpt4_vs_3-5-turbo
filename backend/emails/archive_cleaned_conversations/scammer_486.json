@@ -1,0 +1,52 @@
+[
+    {
+        "from": "scammer_486",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention",
+        "body": "Attention\nAttention\n \nThis is to notify you that your funds valued Seven Million Five\nHundred Thousand united states dollars (U.S. $7,500,000.00) has been released today to the UBA BANK.\n \nFor your convenience, You will have to start transferring your fund within 24hrs online by yourself to your local account. By Online Banking with this method you will monitor the movement of the local funds online till your account is duly credited.\n \nSo Contact the UBA BANK to receive the login details of your Online account so you can commence the transfer by yourself.\n \nCONTACT PERSON:\nMR. JAMES CLINTON\nUBA BANK CORPORATION\nEMAIL: \ncustomercare@unibafri.com"
+    },
+    {
+        "from": "baiter_486",
+        "to": "scammer_486",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attention",
+        "body": "Hello! Thank you for sharing this information with me. Could you please provide more details about how I can contact UBA BANK to receive the login details for my online account?\n\nBest wishes,\nElizabeth"
+    },
+    {
+        "from": "scammer_486",
+        "to": "baiter_486",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: From United Bank for Africa",
+        "body": "Welcome to United Bank for Africa Lagos.\r\nUnited Bank for Africa\r\nAddress: Head Office: 57 Marina, Lagos Island, Lagos\r\nForeign Reserve Escrow Account Officer\r\nTel/Whats-app: +(234)901-619-3435\r\n\r\nI am glad to announce to you today that a new payment policy has been \r\nadopted and you have been shortlisted for payment via Online Banking \r\nUnited Bank for Africa, We hereby inform you that United Bank for Africa \r\nMarina, Lagos Island, have instructed to open online account on your \r\nbehalf to credit your account with the approved amount of \r\nUS$7,500,000.00 Million United States Dollars only deposited from World \r\nBank Group of Berlin In Europe as instructed by United Nation \r\norganization, Further more Endeavor to email us the following \r\ninformation for immediate processing.\r\n\r\nFull Names:\r\nAddress:\r\nState of Origin:\r\nNationality:\r\nSocial Security Number:\r\nMarital Status:\r\nBirthday:\r\nResidential Address:\r\nOffice Address:\r\nAge:\r\nCountry:\r\nPhone no:\r\nID:\r\n\r\nThese are the requirements that you need to be aware of before you \r\ncontact us. You will fill the online account opening information's, in \r\nregards to your funds $7.5 Million that has been approved by the Federal \r\nGovernment of Germany also Federal Government of United State and United \r\nNation Organization. Note that you pay $150 for crediting and processing \r\nfee.\r\n\r\nThank you\nRegards,\r\nMr. James Clinton\r\nForeign Reserve Escrow Account Officer\r\nUnited Bank for Africa"
+    },
+    {
+        "from": "baiter_486",
+        "to": "scammer_486",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.022789351851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: From United Bank for Africa",
+        "body": "Hello! Thank you for sharing this information with me. I'm interested to learn more about the new payment policy and how it works. Could you please explain how the online banking system at United Bank for Africa functions? Additionally, what are the steps involved in opening an online account to receive the approved amount of US Million Dollars from the World Bank Group?\n\nBest wishes,\nElizabeth"
+    },
+    {
+        "from": "scammer_486",
+        "to": "baiter_486",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.10788194444444445,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: From United Bank for Africa",
+        "body": "As it stated in my previous email, the Online Banking process will Open \r\nwith your full details information along with your ID card, they the \r\nlogin details will send to which you will use to access your account \r\nprivately, you will be at liberty to make transfer of your choice any \r\nday anytime you want both international and local transfer, but before \r\nwe start the process you have to confirm your full details information \r\nalong with the required fee.\r\n\r\nThank you"
+    }
+]

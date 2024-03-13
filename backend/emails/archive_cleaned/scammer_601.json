@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_601",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  ATTENTION PLEASE!!!",
+        "body": "  ATTENTION PLEASE!!!\nGOOD DAY AND COMPLIMENTS TO YOU, I AM HERE TO INFORM YOU THAT THIS\nDELIVER COURIER COMPANY, IT HAVE BEEN A VERY LONG TIME WE ARE WAITING\nFOR YOU TO PROCEED ON YOUR PACKAGE DELIVERING, REGISTERED WITH US TO\nDELIVERY TO YOU WITH REGISTRATION CODE IS (DCJKT00678G) SO WHAT IS\nGOING ON?\nBECAUSE OUR AGREEMENT IS TO DELIVERY YOUR PACKAGE TO YOUR DOOR STEP\nWITHIN THE NEXT PERIOD OF 48HRS AS SOON AS WE RECEIVED OUR SECURITY\nFEE OF $200.00.\nI ADVICE YOU TO RE-CONFIRM YOUR INFORMATION'S AS BELLOW.\nYOUR NAME:____\nYOUR ADDRESS:____\nYOUR TELEPHONE:____\nWHATSAPP NUMBER:____\nYOUR COUNTRY:____\nWE ARE WAITING FOR YOUR URGENT RESPONSE FOR FINALIZATION.\nBEST REGARDS,\nCONTACT PERSON: MR PETER SAM\nTelephone: (+229) 91129233  Also WhatsApp\nE-MAIL: \ndiplrosec@gmail.com\n "
+    },
+    {
+        "from": "baiter_601",
+        "to": "scammer_601",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   ATTENTION PLEASE!!!",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate the update regarding my package with the code DCJKT. I apologize for any delay in proceeding with the delivery.\n\nCould you please provide me with more information about the security fee that needs to be paid? What is the purpose of this fee and how much is it?\n\nI want to ensure that everything is in order before proceeding further. Looking forward to your prompt response.\n\nBest wishes,\nWesley"
+    }
+]

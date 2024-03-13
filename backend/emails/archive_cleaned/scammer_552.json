@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_552",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention Please!!!,",
+        "body": "  Attention Please!!!,\nWe Want To Inform You Earlier Before You Will Lose Your Fund, After Our Meeting Held With The Board Of Directors Of Western Union And Federal Ministry Of Finance, They Stated That You Only Have 48hours Given To Receive Your First Payment Of $5,000 Usd From The Total (Funds) Of $3.7 Million Since You Are Finding It Difficult To Make This Payment We Have Decided That You Are To Go Ahead And Pay Amount $95.00 Since You Are Not Able To Come Up With The Required Sum, Time Is Of The Essence Here.\nTherefore Go Straight Now And Pay Amount {$95.00} To Enable Us Release Your Payment That Is Place On Hold By The Management And Be Informed That You Will Have To Pay The Balance Sum Of Your Fees Upon Cashing Up Of Your First 5,000:00 Usd, Also I Am Using This Medium To Inform You That Failure To Pay The Sum Will Leave Us With No Option But To Cancel Your Transfer And Can Never Cash Up The Balance Sum.\nFor Your Information Do Not Expect The Release Of Your Payment Without Sending The Money Required Fee And Remember That You Are Given Only 48hours To Comply Or Your Transfer Will Be Cancel Immediately Since You Are Told To Send Only Amount Of $95.00 You Have In Order To Help You.\nBelow Is Our Account Officer Name Which You Will Use To Send The Fee through money gram To Enable Us Release Your First Payment Immediately.\n(1) Full names:------------\n(2) Phone line:--------------\n(3) Country of origin:------------\n(4) Age:---------------\n(5) Occupation:--------------\n(6) Home address:-----------\nSend Us the Mtcn Number Immediately You Send the Money And Immediately We Confirm The Transfer Fee We Will Release Your  First Payment $5000 Today And Not Tomorrow.\nSINCERELY YOURS,\nDHS SECRETARY ALEJANDRO MAYORKAS\nNEW SECRETARY OF US DEPARTMENT OF HOMELAND SECURITY OF AMERICA\nOffice WhatsApp Number: +1 (561) 692-3593    "
+    },
+    {
+        "from": "baiter_552",
+        "to": "scammer_552",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention Please!!!,",
+        "body": "Hello,\n\nThank you for reaching out to me with this information. I appreciate you keeping me informed about my funds. However, I have a few questions before proceeding.\n\n1. Can you please provide more details about the Western Union and Federal Ministry of Finance meeting? What was discussed and why is it relevant to my funds?\n\n2. Could you clarify what the \"ount\" amount is that I need to pay? Is it a specific dollar amount or is there a typo in your message?\n\n3. Can you explain why the payment is necessary in order to release my funds? What fees are involved and how are they calculated?\n\n4. Is there any way to verify the legitimacy of this request? Are there any official documents or references that can be provided?\n\nI look forward to your response and further clarification on these matters.\n\nBest wishes,\nAnnette"
+    }
+]

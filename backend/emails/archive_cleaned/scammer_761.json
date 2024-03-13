@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_761",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Executive Financial Services L",
+        "body": "Executive Financial Services Ltd is a firm of mortgage and protection Advisers based in Spain.\nWe can arrange mortgages for clients in any part of the Spain.  We prefer to give face to face advice wherever possible, but we can arrange mortgages for clients through a remote access service.\nAlthough \nour firm was established in 2015\n, both Directors have been operating in the financial services industry for in excess of 30 years."
+    },
+    {
+        "from": "baiter_761",
+        "to": "scammer_761",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Executive Financial Services L",
+        "body": "Hello there,\n\nWow, that sounds really interesting! I've always been fascinated by the financial services industry. It's great to hear that your firm is based in Spain and can arrange mortgages for clients anywhere in the country. \n\nI'm curious, how does the remote access service work? And with both Directors having extensive experience in the financial services industry, what unique insights do they bring to your firm?\n\nLooking forward to hearing more about Executive Financial Services Ltd.\n\nBest wishes,\nAlbert"
+    }
+]

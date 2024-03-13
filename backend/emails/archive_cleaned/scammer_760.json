@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_760",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear sir,",
+        "body": "  Dear sir,\nMy name is Exa Ommo, from Republic of Sudan , I escaped death few weeks ago in my country, and I lost my father during the last killing .Please, I just arrived from Republic of Sudan few weeks ago to Accra Ghana , West Africa with consignment of (US$6.5 Million clean and spendable money.\nRight now, I am at a hotel with this money, please advise me on how to send the trunk box containing the money to you in your country, to enable you assist me invest the money wisely in a viable business in your country or any country of your choice.\nIt is very risk to keep such huge amount of money in a hotel since I am a foreigner. I need your urgent call+233-504-188-725\nRegards,\nExa Ommo   "
+    },
+    {
+        "from": "baiter_760",
+        "to": "scammer_760",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear sir,",
+        "body": "Dear Exa Ommo,\n\nThank you for reaching out to me. I'm sorry to hear about the difficult situation you've been through. It must have been quite challenging for you. \n\nRegarding your request, I understand that you are looking for assistance in sending a trunk box containing a large sum of money to my country or any country of my choice. While I appreciate your trust in me, I would like to know more details about the situation before proceeding.\n\nCould you please provide me with some additional information? How did you come across this money? Are there any legal implications or requirements that need to be considered when transferring such a large amount of money? It's important to ensure that everything is done legally and transparently.\n\nAdditionally, could you clarify why you specifically chose me to assist you with this matter? There might be other individuals or organizations better equipped to handle such transactions.\n\nI look forward to hearing from you soon.\n\nBest wishes,\nJames"
+    }
+]

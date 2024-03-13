@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1979",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "From the office of:",
+        "body": "From the office of:\nSENATOR GODSWILL AKPABIO FGN)\nSenate President(FRN)\nGovernment of the Federal Republic of Nigeria\nAttn:Beneficiary.....................,\nRE:PAYMENT APPROVED ENTITLEMENT FUND\nThis is to notify you that your over due entitlement fund has been gazetted to be released to you after the summit meeting by  Federal Government with the G20 Summit meeting held in New Delhi, India on 10, September 2023.\nYour fund now will be paid to you through any of our liason paying banks in America, Asia,Europe e.t.c\nWe advise that forward to us your full name, address,Phone number \nand any of your passport\n.\nTruly yours,\nSENATOR GODSWILL AKPABIO FGN)\nSenate President(FRN)"
+    },
+    {
+        "from": "baiter_1979",
+        "to": "scammer_1979",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: From the office of:",
+        "body": "Hello Senator Godswill Akpabio,\n\nThank you for reaching out to me. It's quite a surprise to hear about this overdue fund. I'm curious, how did my name come up in relation to this fund? And could you please provide more details about the summit meeting held in New Delhi, India?\n\nI'm also interested in understanding more about the process of receiving these funds through your liaison paying banks. Could you explain how that works?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nEddie"
+    }
+]

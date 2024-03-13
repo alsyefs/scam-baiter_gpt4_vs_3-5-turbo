@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_1848",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   We write to enquire if you ",
+        "body": "   We write to enquire if you have instructed one Mr. Alan Garnett of (53 Shenley Fields Road, Selly Oak, Birmingham B29 5AL, United Kingdom.)to receive your funds valued $11.5 Million Dollars on your behalf? Mr. Alan contacted us claiming to be your partner and that you have instructed him to act on your behalf henceforth. He also claimed that you gave him power to receive your funds as your partner.\nWe have instructed him to check back with us to enable us to get in touch with you before taking any action.\nWe advise you as a matter of urgency to get back to us immediately on the receipt of this email for confirmation.\nWe also wish to inform you that your payment has been scheduled to be released to him through bank to bank transfer or our online payment method if we do not hear from you meaning he is right.\nLooking forward to your prompt response and cooperation..\nSincerely,\nKori L. Ogrosky  "
+    },
+    {
+        "from": "baiter_1848",
+        "to": "scammer_1848",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    We write to enquire if you ",
+        "body": "Hello Kori,\n\nThank you for reaching out to me. I must say, I am a bit surprised by this email. I have never heard of Mr. Alan Garnett before, and I certainly haven't instructed anyone to receive any funds on my behalf. Could you please provide me with more details about this situation? How did Mr. Alan Garnett claim to be my partner? And what exactly is the purpose of these funds?\n\nI appreciate your urgency in contacting me, and I assure you that I will respond promptly once I have a better understanding of the situation.\n\nBest wishes,\nMary"
+    },
+    {
+        "from": "scammer_1848",
+        "to": "baiter_1848",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: We write to enquire if you",
+        "body": "Dear Beneficiary,\r\n\r\nWe acknowledge the receipt of your email, Be advised that your funds are\r\nintact and we want to assure you that the impostor will be arrested for an\r\nattempted fraud. In the same hand, we are supposed to have completed this\r\ntransaction before the death of Mrs. Anna Nguyen who bequeathed these funds\r\nto you. We have also concluded an arrangement to complete this transaction\r\nwithin 24 hours and we urge for your cooperation and be advised to maintain\r\nconstant communication with us henceforth. We have also had many people\r\ncontacting us to have these funds released to them but considering that we\r\ndon't have any dealings or instructions from Mrs. Anna to release the funds\r\nto such individuals while she was alive, we have decided to decline their\r\nrequest. I also wish to acknowledge that your total fund is $11.5 Million\r\nDollars.\r\n\r\nYou are to choose between the payment option below and get back to us\r\nimmediately with your contact number where you can be reached:\r\n\r\n1) Bank to bank transfer.\r\n\r\n2) ATM CARD.\r\n\r\nThanking you in anticipation.\r\n\r\nSincerely,\r\nKori L. Ogrosky\r\nCORPORATE SECRETARY/INTERNET BANKING\r\nPacific Western Bank.\r\n800.654.7962\r\n800.236.2442\r\nAvailable 24/7 for general inquiries\r\n---------------------------------------------------------------------------------------------------------------------------\r\n2023 Pacific Western Bank All Rights Reserved.\r\n****DISCLAIMER: If you are NOT the intended recipient and you receive this\r\nmessage by mistake either electronically or mechanically, kindly delete it\r\nfrom your list or notify the Pacific Western Bank by Email:\nkori.ogrosky@pacificwest.com"
+    },
+    {
+        "from": "baiter_1848",
+        "to": "scammer_1848",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3759837962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: We write to enquire if you",
+        "body": "Dear Kori L. Ogrosky,\n\nThank you for your email. I appreciate the update regarding my funds and I'm glad to hear that the impostor will be dealt with accordingly. It's a relief to know that my funds are still intact.\n\nI understand that there were some complications due to the unfortunate passing of Mrs. Anna Nguyen. Could you please provide more details about how we can proceed with completing the process within hours? I want to ensure that everything is done correctly and legally.\n\nRegarding the payment options, could you please explain the difference between bank-to-bank transfer and an ATM card? Which option would be more secure and convenient for me?\n\nThank you for your assistance in this matter.\n\nBest wishes,\nMary"
+    },
+    {
+        "from": "scammer_1848",
+        "to": "baiter_1848",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.9149421296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: We write to enquire if you",
+        "body": "Dear Beneficiary,\r\n\r\nThis is to acknowledge the receipt of your email once again.\r\n\r\nBe advised that both bank to bank transfer and ATM CARD payment are\r\nsecured. We will need you to provide us with your banking details such as\r\nfollows to be able to transfer the funds directly to your bank account:\r\n\r\nBank Name:\r\nAddress:\r\nAccount Name:\r\nAccount Number:\r\nIban:\r\nSwift:\r\nYour Address:\r\n\r\nWhile ATM CARD payment option we need only your address where the ATM Card\r\nwill be delivered and contact number where you can be reached.\r\n\r\nProvide us with the details of any of the above payment option you prefer\r\nin order to proceed and ensure this transaction is concluded as scheduled.\r\n\r\nThanking you in anticipation.\r\n\r\nSincerely,\r\nKori L. Ogrosky\r\nCORPORATE SECRETARY/INTERNET BANKING\r\nPacific Western Bank.\r\n800.654.7962\r\n800.236.2442\r\nAvailable 24/7 for general inquiries\r\n---------------------------------------------------------------------------------------------------------------------------\r\n2024 Pacific Western Bank All Rights Reserved.\r\n****DISCLAIMER: If you are NOT the intended recipient and you receive this\r\nmessage by mistake either electronically or mechanically, kindly delete it\r\nfrom your list or notify the Pacific Western Bank by Email:\nkori.ogrosky@pacificwest.com"
+    },
+    {
+        "from": "baiter_1848",
+        "to": "scammer_1848",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9174189814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: We write to enquire if you",
+        "body": "Dear Kori L. Ogrosky,\n\nThank you for your email. I appreciate your response and the information you provided about the payment options. I understand that both bank to bank transfer and ATM CARD payment are secure methods.\n\nRegarding the bank to bank transfer, could you please clarify what specific banking details you require? Is it just the account number and routing number?\n\nAs for the ATM CARD payment option, I would like to know more about how the card will be delivered. Will it be sent through regular mail or a courier service? Also, is there any cost associated with the delivery?\n\nI look forward to your prompt reply so that we can proceed with the payment as scheduled.\n\nBest wishes,\nMary"
+    },
+    {
+        "from": "scammer_1848",
+        "to": "baiter_1848",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.9278240740740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: We write to enquire if you",
+        "body": "We will need you to provide us with your banking details such as follows to\r\nbe able to transfer the funds directly to your bank account:\r\n\r\nBank Name:\r\nAddress:\r\nAccount Name:\r\nAccount Number:\r\nIban:\r\nSwift:\r\nYour Address:\r\n\r\nThe ATM CARD will be sent to you through Courier company and the delivery\r\ncost will be deducted from the funds."
+    },
+    {
+        "from": "baiter_1848",
+        "to": "scammer_1848",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.814849537037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: We write to enquire if you",
+        "body": "Hello! Thank you for reaching out to me. I appreciate your willingness to share information. Could you please provide me with more details about the ATM card and how it works? I'm curious to learn more about the delivery process and any fees involved.\n\nBest wishes,\nMary"
+    }
+]

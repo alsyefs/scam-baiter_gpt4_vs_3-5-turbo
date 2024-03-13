@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_1972",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello,",
+        "body": "Hello,\nWe specialize in lending Funds for residential and commercial\nproperties in the UK and all over the world.\nDo you need a loan (credit) as soon as possible. Are you in search of\nfinancial to solve your personal needs or finance your business\nventure/ project then get Your desired loan today! Contact us\nimmediately.\n* We offer personal loan & huge capital loan at 2% interest rate to\nboth locally and internationally.\n* Credit amount range from $5,000.00 -- $500,000.000.00 and above.\n* Special $10,000,000.00 Loan offer for huge project also available.\n* Loan period of 6 months -- 10 years.\n* Loan is granted 24 hours after approval and accredited directly in\nhand or bank account.\nPlease note that you are advised to contact us for more details if you\nare interested."
+    },
+    {
+        "from": "baiter_1972",
+        "to": "scammer_1972",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello,",
+        "body": "Hello,\n\nThank you for reaching out to me. I'm interested in learning more about the loan options you mentioned. Can you please provide me with some additional information? Specifically, I would like to know:\n\n1. What are the interest rates for personal loans and commercial properties?\n2. Are there any specific requirements or qualifications that need to be met in order to be eligible for a loan?\n3. How long does the approval process usually take?\n4. What is the maximum loan amount that can be borrowed?\n5. Are there any fees or charges associated with obtaining a loan?\n\nI appreciate your assistance in providing these details.\n\nBest wishes,\nSarah"
+    },
+    {
+        "from": "scammer_1972",
+        "to": "baiter_1972",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Fwd: Hello,",
+        "body": "Dear,\r\n\r\nThank you for your mail. and your interest in our loan services. We are\r\npleased to provide you with a comprehensive explanation of our loan terms\r\nand conditions, associated fees, expenses, and the loan application\r\nprocedure.\r\n\r\nLoan Terms and Conditions:\r\nOur loan terms are designed to be flexible and cater to individual needs.\r\nThey include the loan amount, interest rate (2%), repayment period (25\r\nyears maximum), and any specific conditions that may be applicable based on\r\nyour unique financial situation and the purpose of the loan.\r\n\r\nFees and Expenses:\r\nWhile we strive to keep our loan process transparent, certain fees and\r\nexpenses may be involved, which could include processing fees, appraisal\r\nfees, credit check fees, and other relevant costs. These afore mentioned\r\nfees are paid solely by us. However the insurance fee is the only fee the\r\nborrower will pay. The specific fees will be outlined clearly in your loan\r\nagreement and offer letter.\r\n\r\nLoan Procedure:\r\nTo initiate the loan application process, please follow these steps:\r\n\r\nApplication Submission: Complete our loan application form, providing\r\naccurate and up-to-date information about yourself and your financial\r\nrequirements.\r\n\r\nDocumentation: We will require some supporting documents, such as proof of\r\nincome, identification documents, and any additional documents specific to\r\nyour loan request.\r\n\r\nLoan Evaluation: Our team of experts will assess your application and\r\nsupporting documents to determine the loan amount and terms that best suit\r\nyour needs.\r\n\r\nLoan Offer: Once your application is approved, we will present you with a\r\nloan offer, detailing the loan amount, interest rate, repayment schedule,\r\nand any applicable fees.\r\n\r\nLoan Acceptance: If you find the loan offer satisfactory, you can accept it\r\nby signing the agreement.\r\n\r\nFunds Disbursement: After accepting the loan offer, the funds will be\r\ndisbursed to you through the agreed-upon method.\r\n\r\nTo gain a more precise understanding of the terms, fees, and procedure\r\napplicable to your specific loan request, kindly provide us with more\r\ndetails about your financial needs, including the loan amount, purpose, and\r\nany specific preferences you may have.\r\n\r\nPlease feel free to reach out to us if you have any further questions or\r\nrequire additional clarification. We are here to guide you through the\r\nentire loan application process and ensure your experience with us is\r\nsmooth and transparent.\r\n\r\nThank you for considering Capital funding one ltd for your financial needs.\r\nWe look forward to the opportunity to assist you.\nBest regards,\r\n\r\nPaul McCann\r\nLoan Officer\r\nCapital Funding One Limited."
+    },
+    {
+        "from": "baiter_1972",
+        "to": "scammer_1972",
+        "direction": "Outbound",
+        "days_from_first_conversation": 8.101851851851852e-05,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Fwd: Hello,",
+        "body": "Dear Paul,\n\nThank you for reaching out to me and providing information about your loan services. I appreciate your willingness to share the loan terms and associated fees with me.\n\nI have a few questions regarding the loan process. Could you please provide more details about the interest rate? Is it fixed or variable? Additionally, what is the minimum and maximum loan amount that you offer?\n\nFurthermore, I would like to know more about the specific conditions that may be applicable based on my financial situation and the purpose of the loan. Could you please elaborate on that?\n\nThank you for clarifying the fees involved in the loan process. However, I would like to understand more about the insurance fee that the borrower needs to pay. What does this fee cover?\n\nIn order to proceed with initiating the loan process, could you please let me know what documents are required from my end? It would be helpful if you could provide a list of supporting documents needed for determining the loan amount and terms.\n\nLastly, I would appreciate it if you could provide me with an estimated timeline for receiving a loan offer once I submit all the necessary documents.\n\nThank you again for your assistance. I look forward to hearing back from you soon.\n\nBest wishes,\nSarah"
+    },
+    {
+        "from": "scammer_1972",
+        "to": "baiter_1972",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.00625,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Loan Application form",
+        "body": "Hello,\r\n\r\nThanks for your prompt response to our mail.\r\n\r\nPlease proceed further and fill out the loan application form sent to you\r\nin our previous mail. So we can take it from there, and provide you with\r\nall the necessary details you need for the loan procedures.\nThanks\r\n\r\nMr Paul"
+    },
+    {
+        "from": "baiter_1972",
+        "to": "scammer_1972",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.007210648148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Loan Application form",
+        "body": "Hello Mr. Paul,\n\nThank you for reaching out to me. I appreciate your prompt response as well. I'm interested in learning more about the loan you mentioned. Could you please provide me with some additional details? What are the terms and conditions of the loan? Is there a specific interest rate? And what is the repayment period like?\n\nI want to make sure I have all the necessary information before proceeding further. Thank you for your assistance.\n\nBest wishes,\nSarah"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_895",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  FROM BMW Dealership!!!",
+        "body": "  FROM BMW Dealership!!!\nMy name is Mr Franklin Benz, the BMW Delivery Agent.\nI am writing to inform you about your BMW winning car and package that brought by the\nUnited Embassy from the government, the white house Washington DC.\nThe BMW X7 car and package that worth sum of $2.7 million dollars so your phone was submitted and it needs to be well delivered to you as soon as possible.Therefore you are required to provide your full details to avoid any wrong delivery ok.\nYour full name__\nYour home address__\nYour Country's name__\nYour nearest airport___\nYour ID card___\nYour email address__\nYour next of kin__\nYour age___\nYour occupation___\nI'm looking forward to hear from you once you received this\ntext\nmessage.\nYours sincerely\nMr Franklin Benz.   "
+    },
+    {
+        "from": "baiter_895",
+        "to": "scammer_895",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   FROM BMW Dealership!!!",
+        "body": "Hello Mr. Franklin Benz,\n\nWow, this is such exciting news! I can't believe my luck. A BMW car and a package worth millions of dollars? That's more than I could have ever dreamed of.\n\nI'm curious though, how did my phone number get submitted? And what exactly is in the package that's worth so much money? \n\nAlso, could you tell me more about this process? How will the delivery work and when can I expect to receive it?\n\nLooking forward to hearing from you soon!\n\nBest regards.\n\nBest wishes,\nHeidi"
+    },
+    {
+        "from": "scammer_895",
+        "to": "baiter_895",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: FROM BMW Dealership!!!",
+        "body": "I. Acknowledge the receipt of your Mail and it contents well noted there\r\nin, you are to provide your information details as below.\r\n\r\nYour full name__\r\nYour home address__\r\nYour Country's name__\r\nYour nearest airport___\r\nYour ID card___\r\nYour email address__\r\nYour next of kin__\r\nYour age___\r\nYour occupation___\r\n\r\nI'm looking forward to hear from you once you received this\r\ntext\r\nmessage.\r\n\nYours sincerely\r\nFranklin  Benz."
+    },
+    {
+        "from": "baiter_895",
+        "to": "scammer_895",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0002777777777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: FROM BMW Dealership!!!",
+        "body": "Hello Franklin Benz,\n\nThank you for your message. I'm glad to hear from you and appreciate your interest in getting to know me better. However, I feel more comfortable sharing general information about myself rather than specific details.\n\nI can tell you that I live in a beautiful country with rich culture and history. My occupation involves interacting with people from different walks of life, which is something I truly enjoy. As for my age, let's just say I'm old enough to have some interesting stories to share!\n\nCould you please tell me more about why you need this information? It would be great if we could continue our conversation based on shared interests or experiences.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nHeidi"
+    },
+    {
+        "from": "scammer_895",
+        "to": "baiter_895",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0040625,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: FROM BMW Dealership!!!",
+        "body": "Okay. Your mail was drafted among the lucky winning team that was awarded a\r\nprize from my company BMW, you have won a BMW X7 car and package worth\r\n2.7 million united state dollars so are to provide your information\r\ndetails, so that we can proceed. Thanks\r\n\nYours  sincerely\r\nFranklin  Benz."
+    },
+    {
+        "from": "baiter_895",
+        "to": "scammer_895",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.004398148148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: FROM BMW Dealership!!!",
+        "body": "Hello Franklin Benz,\n\nWow, that's amazing news! I can't believe I've won a BMW car and a package worth million dollars. This is truly unbelievable. Could you please tell me more about this? How was I selected for this prize? And what are the next steps in this process?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nHeidi"
+    }
+]

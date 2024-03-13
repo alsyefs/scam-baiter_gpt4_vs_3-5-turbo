@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2567",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   WARNING; WARNING;DO NOT FOR",
+        "body": "   WARNING; WARNING;DO NOT FORWARD THIS EMAIL TO ANYONE\n[cid:43a89a9f-93e7-4ef3-bae9-d9499204760e]\nScam investigation of the year 2023.\nAttention,\nSir/Madam\nThis office is contacting you based on your long overdue funds debts\nfindings in this year 2023. Verification's so far proved that you have\nspent a lot of money into the hands of many crooks/scammers. Till date\nour office after thorough investigations conformed  that all the\npromises to you by those scammers that funds will be transferred was\nnot possible.\nOur office is making all our possible efforts to arrest and recover\nall the spend money that was collected from you by the\nfraudster/crooks. Once the funds are recovered, the funds will be\nreturned to you. Once you received this email, do kindly reply to\nenable our office ask some few questions before proceeding more\nfurther.\nThanks, and do confirm the receipt of this email once you received it.\nRegards.\nMr Himamauli Das.\nActing Director US FinCEN.\nEmail:usficnofce@outlook.com\nOR:usfincen2024@gmail.com  "
+    },
+    {
+        "from": "baiter_2567",
+        "to": "scammer_2567",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    WARNING; WARNING;DO NOT FOR",
+        "body": "Hello Mr. Himamauli Das,\n\nThank you for reaching out and bringing this matter to my attention. I must admit, it's quite alarming to hear about these findings. \n\nCould you please provide more details about the situation? For instance, how did your office come across my name in relation to these overdue funds debts? Also, could you elaborate on the process of recovering the money that was allegedly taken from me?\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nChristopher"
+    },
+    {
+        "from": "scammer_2567",
+        "to": "baiter_2567",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Attention; Mr Christopher.",
+        "body": "Attention; Mr Christopher.\r\n\r\nSir,\r\n\r\nYour email response is well noted, all your information about our overdue\r\nfunds payment transaction was gathered through our Global Internet\r\nmonitoring security gazettes.To receive the total funds of $14,500.000.00.\r\nTo enable proceed on the funds payment processing, kindly fill the\r\nfollowing details as stated below.\r\n\r\nFull names..................................................\r\n\r\nAddress.........................................................\r\n\r\nCountry of origin...........................................\r\n\r\nAge.............................................................\r\n\r\nGender.......................................................\r\n\r\nOccupation.................................................\r\n\r\nYour telephone Whatsapp number....................................\r\n\r\nThanks and do follow up as advised.\r\n\r\n*Mr Himamauli Das*\r\n*Acting Director US FinCEN.*"
+    },
+    {
+        "from": "baiter_2567",
+        "to": "scammer_2567",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0002199074074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Attention; Mr Christopher.",
+        "body": "Hello Mr. Himamauli Das,\n\nThank you for your prompt response. I'm glad to hear about the overdue funds payment, it's quite a surprise! \n\nHowever, before we proceed further, could you please provide me with more information? For instance, how was my name selected for this? And what is the process of receiving these funds?\n\nI'm looking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nChristopher"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2297",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Pine Trust Continental  ",
+        "body": "  Pine Trust Continental  \n11923 NE Sumner St,\nSTE 820629 Portland,\nOregon, 97220 USA\nTel: 1-503-568-1586\nAttention  ,    \nWeare waiting on you to obtain the documents.\nSincerely\nMr. Roy Lipman\nOperation Manager   "
+    },
+    {
+        "from": "baiter_2297",
+        "to": "scammer_2297",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Pine Trust Continental  ",
+        "body": "Hello Mr. Roy Lipman,\n\nThank you for reaching out to me! I'm intrigued by your message, but I must admit, I'm a bit confused. Could you please clarify what documents you're referring to? And how exactly am I supposed to obtain them?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nConnie"
+    }
+]

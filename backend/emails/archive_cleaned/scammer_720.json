@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_720",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  International Court of Justi",
+        "body": "  International Court of Justice\nPeace Place\nCarnegieplien\n2517 KJ\nThe Hague, Netherlands\nAttention: Beneficiary\nSir/Madam,\n      Re: Secure the release of your fund now under this initiative\nYou are listed as one of those whose fund has been trapped in Nigeria\ndue to bureaucratic bottleneck.\nPlease note that the International Court of Justice in collaboration\nwith the United Nations Organization and the Governments of most\nAfrican countries have signed an agreement under an “initiative” for\nus to help determine all eligible clients whose funds have been stuck\ndue to various issues and ensure they are paid without further let or\nhindrance.\nThis program was initiated to help people like you who genuinely earn\ntheir fund to finally secure the release and payment of such fund\nafter complying with our procedures. This initiative is covered with\nour “ICJ Protection Certificate” which confirms eligibility status to\nevery eligible client and keeps the client from all forms of\ninvestigation after payment and during investment.\nWith your consent and declaration of intention to receive your fund,\nwe will instruct our legal representative to process all documents of\ninterest including the ICJ Protection Certificate. This documents will\ntransfer the right of ownership of the fund to you and enable the Debt\nManagement Office to issue approval under gazette for your immediate\npayment.\nThe United Nations Organization is rendering this service in the whole\nof Africa with the sole aim of ensuring that all foreigners whose\neligibility have been ascertained are paid and on time.\nPlease be guided accordingly.\nYours faithfully\nJudge Joan Donoghue\nPresident of International Court of Justice\nThe Hague Netherlands   "
+    },
+    {
+        "from": "baiter_720",
+        "to": "scammer_720",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   International Court of Justi",
+        "body": "Dear Judge Joan Donoghue,\n\nThank you for reaching out to me regarding the issue of my trapped funds in Nigeria. I appreciate your efforts in helping individuals like myself who have been facing difficulties in accessing their funds.\n\nI would like to know more about the initiative you mentioned, particularly how it works and what steps need to be taken to secure the release and payment of my funds. Could you please provide me with more details on the process?\n\nAdditionally, I am curious about the ICJ Protection that you mentioned. How does it work exactly? What kind of protection does it offer, and how will it ensure that I won't face any issues after receiving the payment?\n\nLastly, I would like to understand the role of the United Nations in this program. How are they involved, and what measures do they take to ensure that all foreigners who are owed funds receive them in a timely manner?\n\nThank you once again for your assistance. I look forward to hearing back from you soon.\n\nBest wishes,\nKim"
+    }
+]

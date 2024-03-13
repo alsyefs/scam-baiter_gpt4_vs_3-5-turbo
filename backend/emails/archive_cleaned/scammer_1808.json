@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1808",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Greetings and Prosperous New",
+        "body": "  Greetings and Prosperous New Year to you and your entire family, I hope this message meets you in  good condition.\nI write to inform you that you have been compensated with USD$1M, this compensation is a program organized by the European Union in collaboration with Standard Chartered Bank.\nYou happen to be selected for this program of funds compensation scheme that is why you are receiving this message.\nKindly contact Standard Chartered Bank, Mr. S.G,on this email (  \nstandardchartredstev@firemail.at\n )\nKindly send him your full name, home or office address, and phone number, and your winning code ( YYP2023) with this code he will identity its you\nBest Regards\nMadam Lee   "
+    },
+    {
+        "from": "baiter_1808",
+        "to": "scammer_1808",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Greetings and Prosperous New",
+        "body": "Hello Madam Lee,\n\nThank you for your kind wishes and I hope the New Year brings prosperity to you as well. It's quite exciting to hear about this program organized by the European Union in collaboration with Standard Chartered Bank. \n\nCould you please provide more details about this program? How was I selected and what is the purpose of these funds? Also, could you tell me more about Mr. who I am supposed to contact?\n\nI appreciate your help and look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nPaulette"
+    }
+]

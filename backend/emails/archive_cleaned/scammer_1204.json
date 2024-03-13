@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1204",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Greetings!",
+        "body": "   Greetings!\nWe are offering quick, collateral-free financing for economically viable projects and/or businesses of all sizes, including startup projects and existing businesses.\nIf you are seeking funding for a specific shovel-ready project, you will be funded at 3% principal annual interest.\nIf you would like to collaborate with us as a middleman/facilitator, you will earn a one-time 2% (\"Success Fee\") of the value of every successful loan or project financing deal facilitated by you.\nOur loan is special in case you want to receive money. Please get in touch if this is of interest to you for further details.\nRegards,\nCFO  "
+    },
+    {
+        "from": "baiter_1204",
+        "to": "scammer_1204",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Greetings!",
+        "body": "Hello there,\n\nThank you for reaching out and sharing this interesting opportunity. It sounds like a unique offer that could potentially benefit many businesses and projects.\n\nCould you please provide more details about the nature of these loans? For instance, what are the terms and conditions attached to them? Also, I'm curious about the success fee for middlemen - how is it calculated?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nTimothy"
+    }
+]

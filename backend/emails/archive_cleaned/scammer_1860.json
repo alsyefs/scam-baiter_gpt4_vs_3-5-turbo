@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1860",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  I am Mrs.Suzanne Mubarak.Ple",
+        "body": "  I am Mrs.Suzanne Mubarak.Please can you help me look for house I can buy?I will send you money to pay if you can help me get the house.My price range is between $500,000 to $5,000,000.Pls reply to my alternative email: \nmubaraksuzanne1914@gmail.com\n "
+    },
+    {
+        "from": "baiter_1860",
+        "to": "scammer_1860",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   I am Mrs.Suzanne Mubarak.Ple",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm more than happy to assist you in your search for a house. However, I must clarify that it's not necessary for you to send me any money. All the information and assistance I can provide will be completely free of charge.\n\nCould you please provide more details about what exactly you're looking for? For instance, what location are you interested in? How many bedrooms do you need? Do you have any specific requirements like a garden, garage, etc.? \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nRobert"
+    }
+]

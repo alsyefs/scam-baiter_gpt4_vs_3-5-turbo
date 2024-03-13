@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2117",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention .",
+        "body": "Attention .\nThis is Mr Ken Maxine From International Monetary Funds( IMF) .We are\ncalling on you now, based on pending Funds left under the care of the\nWorld Bank, reported to us to have overstayed remittance, which to\nlarge extent violates International Law. The report of this Funds\nstatus came to us from United States International Police command,\nreporting that the investigations show that you contacted the wrong\npeople entrusted with this Funds release and were misled by scammers.\nInternational police say, you were once a victim of scam and\nunscrupulous criminals who misled you to the wrong Bank. They now gave\nan order that you should contact them now with immediate effect for\ndirectives on what to do and how to receive your Funds at value\n(22,500,000.00 UD) without stress, and warned that you should stop\nhenceforth contacting anybody who might claim he has Money for you.\nThe International police says, the email to contact them is\n(\npolicecommand1989@outlook.com\n).\nTherefore, I was mandated to send this message to you so that you will\ndo the needful and contact the Interpol as directed, with a view to\ndirecting you on the right person and Institutions to contact over the\nrelease of your Funds. Again, their email\nis(\npolicecommand1989@outlook.com\n) the Inspector name is Vincent\nTalucci. Feel free to contact them now for the release of your long\nawaited pending funds.\nThank you for your understanding.\nKen Maxine\nDirector"
+    },
+    {
+        "from": "baiter_2117",
+        "to": "scammer_2117",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attention .",
+        "body": "Hello Mr. Ken Maxine,\n\nThank you for reaching out to me regarding the pending funds under the care of the World Bank. I appreciate you bringing this matter to my attention. However, I have a few questions before I proceed.\n\nCould you please provide more details about the funds? How much money is involved and what is the reason for its delay? Also, why did the United States Police command contact you instead of directly contacting me?\n\nI want to ensure that everything is legitimate and in order before taking any further steps. Your assistance in providing additional information would be greatly appreciated.\n\nBest wishes,\nChristopher"
+    }
+]

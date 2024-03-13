@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1277",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello My Dear.",
+        "body": "  Hello My Dear.\nMy Greetings and compliments,\n \nThis mail is in respect over due transaction payments of GBP11,500,Million which were processed half way as a result of deaths from Covid-19,pending tax settlements, deaths from other natural disasters, and some which have no Next-of-kin and have been ON-HOLD at HSBC Bank Plc for some time now.\nAt this point, the funds which are presently in a suspense security account for confiscation if the conditions are not met, and will be released to you once the conditions for their release are met through our strategized Online Access Account means.\n \nThis process enables us to set up an account for you with any bank of our choice here, and then provide you with the full login details so you can log in from any part of the World and carry out successful transfers to any other bank account of your choice and we can share the proceeds 50-50. You can also provide existing account for the payment.\n \nThis settlement remains urgent so we can set up the account in your name and provide you with the full login details. Please feel free to contact me back for further clarifications regarding this matter.\nThank you.\n \nGreg Guyett\nDirector hsbc transfer unit   "
+    },
+    {
+        "from": "baiter_1277",
+        "to": "scammer_1277",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello My Dear.",
+        "body": "Hello Greg Guyett,\n\nThank you for reaching out to me. I must say, your message is quite intriguing. It's not every day that one receives an email about overdue payments from a bank director.\n\nI'm curious, though, how did my name come up in relation to these funds? And could you please explain more about the conditions that need to be met for their release? \n\nAlso, I'd like to understand better how this Online Access Account works. Is it different from regular online banking?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nPamela"
+    }
+]

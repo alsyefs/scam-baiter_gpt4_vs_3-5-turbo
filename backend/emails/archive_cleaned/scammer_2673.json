@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2673",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "This is to inform you that we ",
+        "body": "This is to inform you that we have sent your first payment of\n$10,000.00 (Ten Thousand dollars) through Western Union as we have been\ngiven the mandate to transfer your full Scam victim compensation fund (SVCF) of\n$10.5Million Dollars via Western Union by the United Nations Government.I\ncalled to give you the information through phone or email.\nplease try to forward your full information to this\nemail address:: \nwu5125109@gmail.com\n \nYour Full Name:....................\n Your Home Address:............\n State name …...............\n Your Age:..........................\n Your gender:..........................\nAnd phone number.......................\n to enable us proceed with\nour transfer for the Mtcn number to be activated okay\nReference MTCN::::::::::::::\nAmount Sent: $10,000.00USD"
+    },
+    {
+        "from": "baiter_2673",
+        "to": "scammer_2673",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: This is to inform you that we ",
+        "body": "Hello there,\n\nThank you so much for your message. It's really exciting to hear about the payment! I'm a bit confused though, could you please explain more about this Scam Victim Fund? How was it established by the United Nations?\n\nAlso, you mentioned something about forwarding my full details. Could you clarify what specific information you need? I just want to make sure everything is clear before we proceed.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJames"
+    }
+]

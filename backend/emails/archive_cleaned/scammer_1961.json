@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1961",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir/Ma,",
+        "body": "  Dear Sir/Ma,\nI am Mr. Collins Udemma and a Personal Accountant and member of the Board of Directors with Ecobank Benin Plc. It is a great pleasure and with a good spirit of heart that I opened up this great opportunity to you.  A deceased client of mine (Franklin David) from your country that shares almost the same name as yours died as a result of heart-related condition in March 2015. His heart condition was due to the death of the members of his family in the tsunami disaster on the 26 December 2004 in Sumatra Indonesia when his family went for tourism/holiday and they all lost their lives.\nHe has a draft account opened in my bank in 2015, as a long-time client of our bank and a national of your country. He was a businessman/tycoon and a CEO of a textile company here. Before his death on 12th March 2020 leaving nobody as the next of kin of his account after his death. He has the amount in this account as $32,100,000 (Thirty Two Million One Hundred Thousand United States Dollars) only. The current account balance with interest it had yielded  for the years amounted to $32,640,000.00 (Thirty Two Million Six Hundred and Forty Thousand United States Dollars) only.\nI want to present you as a relative to the beneficiary, I will use my position and influence in our bank to make the release of this money to you as a relative of the deceased for us to share the money $32,640,000.00 only. I will perfect the release of the money to any approved bank account you may provide. I will wait for your response and as a matter of urgency.\nKindly get back to me for more details and sharing modality with your name, address and telephone number for communication.\nI wait your urgent response today.\nYours sincerely,\nMr. Collins Udemma\nPayment Supervisor\nEcobank Benin Plc.   "
+    },
+    {
+        "from": "baiter_1961",
+        "to": "scammer_1961",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir/Ma,",
+        "body": "Dear Mr. Collins Udemma,\n\nThank you for reaching out to me with this opportunity. I am sorry to hear about the unfortunate circumstances surrounding your deceased client, Franklin David. It must have been a difficult time for him and his family.\n\nI appreciate your offer to present me as a relative and help release the funds from his account. However, I have a few questions before we proceed. Could you please provide more details about the process and what my role would be in this? How long do you think it will take to complete the necessary procedures?\n\nAlso, I would like to know more about the sharing modality you mentioned. How would we divide the money once it is released? And are there any legal implications or fees involved that I should be aware of?\n\nI look forward to your response and further guidance on how we can move forward with this opportunity.\n\nBest wishes,\nWilliam"
+    }
+]

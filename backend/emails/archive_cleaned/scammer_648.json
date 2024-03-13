@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_648",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  DEAR SIR,",
+        "body": "  DEAR SIR,\nFOLLOWING A MEETING HELD TODAY BY ALL THE RELEVANT AUTHORITIES CONCERNED FOR THE RELEASE/TRANSFER OF YOUR OUTSTANDING PAYMENT, IT HAS BEEN RESOLVED TO PAY YOU THROUGH OUR CORRESPONDENT BANK IN UK OR HONGKONG TO CHECKMATE FRAUD AS WE HAVE WITNESSED IN THE PAST.\nYOU ARE HEREBY REQUIRED TO RECONFIRM ALL YOUR DETAILS TO AVOID WRONG RELEASE/TRANSFER OF THE FUND TO A WRONG BENEFICIARY.   BE ASSURED THIS TIME, A SMOOTH RELEASE/TRANSFER OF THE FUND INTO YOUR NOMINATED BANK ACCOUNT OR THROUGH ATM CARD.\nWE HEREBY WAIT TO HEAR FROM YOU TO ENABLE US TO DO THE NEEDFUL.\nYOURS SINCERELY,\nDR MARY DUKE   "
+    },
+    {
+        "from": "baiter_648",
+        "to": "scammer_648",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   DEAR SIR,",
+        "body": "Dear Dr. Mary Duke,\n\nThank you for reaching out to me regarding the release transfer of my payment. I appreciate your efforts in ensuring that the process is secure and free from any fraudulent activities. \n\nI understand the need to reconfirm my details to avoid any mistakes in the transfer. Could you please let me know which specific details you require from me? Additionally, could you provide more information about the options available for receiving the payment, such as the benefits and procedures involved in both the bank transfer in UK or Hong Kong and the ATM card option?\n\nI look forward to your response so that we can proceed with the necessary steps.\n\nBest wishes,\nTravis"
+    },
+    {
+        "from": "scammer_648",
+        "to": "baiter_648",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: DEAR SIR,",
+        "body": "Dear sir,\r\nThank you for your reply.\r\n\r\nFor your information, you are required to reconfirm the below details :-\r\n\r\n1.  YOUR FULL NAMES AND ADDRESS\r\n\r\n2.  YOUR AGE\r\n\r\n3.  YOUR OCCUPATION\r\n\r\n4.  YOUR WORK ID OR INTERNATIONAL PASSPORT PHOTOPAGE\r\n\r\n5.  YOUR DIRECT PHONE NUMBER/WHATSAPP\r\n\r\n6.  YOUR BANK DETAILS IF YOU DECIDE TO RECEIVE THE FUND THROUGH DIRECT WIRE\r\nTRANSFER\r\n\r\nUpon receipt of the above details, we will verify and forward them to the\r\nrespective Paying Officer for action.\r\n\r\nFinally, as soon as you receive the fund, we will like you to invest it in\r\nOIL BUSINESS either in NIGERIA or elsewhile.\r\n\r\nWe await to hear from you.\r\n\nYours sincerely,\r\n\r\n\r\nDR MARY DUKE"
+    },
+    {
+        "from": "baiter_648",
+        "to": "scammer_648",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0002546296296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: DEAR SIR,",
+        "body": "Dear Dr. Mary Duke,\n\nThank you for your response. I appreciate your willingness to share information with me. However, before I provide any personal details, I would like to know more about the purpose of this verification process and how it relates to the fund you mentioned.\n\nCould you please explain why my full name, address, age, occupation, work ID or passport photopage, direct phone number (WhatsApp), and bank details are required? How will these details be used in the verification process?\n\nAdditionally, I am curious about the nature of the fund you mentioned. Could you please provide more information about its origin and how it is connected to me?\n\nThank you for your understanding. I look forward to hearing from you soon.\n\nBest wishes,\nTravis"
+    }
+]

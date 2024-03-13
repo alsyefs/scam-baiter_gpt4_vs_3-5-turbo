@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_947",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "From The Desk Of Dr Tedros Adh",
+        "body": "From The Desk Of Dr Tedros Adhanom Ghebreyesus\nDirector-general and head of World Health Organization\nGlobal Pandemic Damage Compensation\nGreetings dear\nDue to the recent Covid-19 currently ravaging the world, the World\nHealth Organization has launched a public compensation fund program to\nthe people mostly affected by the\nCoronavirus across the globe.\nThe director-general of the World Health Organization, Dr Tedros\nAdhanom Ghebreyesus launched this program, through the support of the\nUnited states and the Chinese government\nto pay the total of 1.5M USD (One Million Five hundred United states\ndollars ) directly to an individual mostly affected by the virus.\nThe Chinese government, through the president Xi Jinping, apologizes\nto the citizens of the world for the damages the virus caused, which\nofficially started from Wuhan, and\nspread across the world. \nThe Victims affected are enjoined to provide\nproof and evidence of how the virus affected you, or your direct\nfamily, or cause loss of your work and\nbusiness.\nKindly forward the above required information, together with your\nDirect Phone number, amount you lost, address to the officer in charge\nof this program. As soon as we receive\nthis information, we shall inform you on the next step to process your\ncovid-19 global compensation payment.\nBest Regards\nDr Tedros Adhanom Ghebreyesus\nDirector-general and head of World Health Organization Global Pandemic\nDamage Compensation\nWHOFPA W.H.O Population Fund, Global Compact\nTelephone: +19178109060"
+    },
+    {
+        "from": "baiter_947",
+        "to": "scammer_947",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: From The Desk Of Dr Tedros Adh",
+        "body": "Hello Dr. Tedros Adhanom,\n\nThank you for reaching out and for the efforts of the World Health Organization in these challenging times. It's heartening to hear about this public fund program.\n\nI'm curious, how does the process work? How do you determine who is most affected by the virus? And what kind of proof or evidence is required?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMargaret"
+    }
+]

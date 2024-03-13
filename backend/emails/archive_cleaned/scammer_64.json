@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_64",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  A-1 Courier Service Ltd",
+        "body": "  A-1 Courier Service Ltd\nMulia Business Park,\nBuilding F, MT Haryono Jakarta Indonesia\nTel:+62 857 56 35 9245\nORDER NO.562725\nDear Esteem Customer,\nSequel to your email we received, Payment should be made with the below bank account details for the option you have chosen, to our account officer whose details are stated below.\naccount details\nBank name: BCA\nAcct.name: R. R. L.\nAcct. No: 229013XXXX\nSwift code: CENAIDJA\nBank Address : Jl. Daan Mogot, West Jakarta , Indonesia\nBeneficially Address : West Jakarta, Indonesia\nNOTE: Immediately our account officer confirms your payment receipt, the delivery of your winning parcel will commence.\nDo endeavor to immediately make the payment. And send a copy of the transfer or deposit slip via email for confirmation.\nAwaiting your payment details.\n---\nWe are glad to be of service to you.\nMr. Eas Banyu\nCustomer Service\nTelephone/Whats app + 62 8 570 623 3942\nA-1 Courier service\nCan be contacted 24 hours a day and 365 days a year.  "
+    },
+    {
+        "from": "baiter_64",
+        "to": "scammer_64",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   A-1 Courier Service Ltd",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate your prompt response. I have a few questions regarding the payment process. Could you please provide me with more information about the different payment options available? Additionally, are there any specific instructions or reference numbers that I need to include when making the payment?\n\nI want to ensure that I follow the correct procedure and provide all the necessary details. Thank you for your assistance.\n\nBest wishes,\nKristin"
+    }
+]

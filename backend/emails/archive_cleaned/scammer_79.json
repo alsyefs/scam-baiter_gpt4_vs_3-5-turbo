@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_79",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   National Cooperative Bank N",
+        "body": "   National Cooperative Bank NA\nADDRESS. 139 South High Street Hillsboro,\nOH 45133 United States\nDear beneficiary,\nRe: Release of your inheritance sum of US$3,500,000 as approved by our Bank.\nBelow are attached copies of the Death Certificate of your relative, Late Henry N Parker who was until his death a good customer of our bank. A copy of Deposit Certificate of the fund, my ID, NCB Form \"A\" and Next of Kin Forms is expected to be sent across to you upon receipt of your reply. You would need to carefully fill, sign and return back for immediate processing and release of your inherited fund to you.\nFurther details / instructions would be communicated upon receipt of the completed copy for a successful and final release of this fund to you without delay.\nSincerely yours,\nRico A. Williams\nFor: Wakefield Jarit Jr.\n( Customer's Care Service Dept. )\nCC: To Me ( Wakefied Jarit  Jr. \nalandmanpb6@gmail.com\nNB: THIS EMAIL IS CREATED TO AVOID INTERCEPTION AND DIVERSION OF PAYMENTS GOING ON IN THE TIME PAST. STRICTLY REPLY VIA SAME EMAIL.\nDISCLAIMER:  The information contained in this transmission may contain privileged and confidential information.  It is intended only for the use of the person(s) named above.  If you are not the intended recipient, you are hereby notified that any review, dissemination, distribution or duplication of this communication is strictly prohibited.  If you are not the intended recipient, please contact the sender by reply by email and destroy all copies of the original message  "
+    },
+    {
+        "from": "baiter_79",
+        "to": "scammer_79",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    National Cooperative Bank N",
+        "body": "Dear Rico A. Williams,\n\nThank you for reaching out to me regarding the death of my relative, Late Henry Parker. I appreciate your assistance in this matter. I would like to know more about the process of releasing the inherited fund.\n\nCould you please provide me with some additional information? Specifically, I would like to know what documents are required from me and how long it typically takes for the funds to be released. Additionally, are there any fees or charges associated with this process?\n\nI look forward to your prompt response.\n\nBest wishes,\nKristina"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2078",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Your payment approval has be",
+        "body": "  Your payment approval has been confirmed by the United Nation,kindly get back to me so that your money can be transferred to you within days of your response.Thanks.   "
+    },
+    {
+        "from": "baiter_2078",
+        "to": "scammer_2078",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Your payment approval has be",
+        "body": "Hello there,\n\nThank you for your message. I'm glad to hear that my payment approval has been confirmed. Could you please provide more details about this? For instance, what is the exact amount and how will it be transferred to me? Also, could you clarify what you mean by \"United\"? I look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMarcus"
+    }
+]

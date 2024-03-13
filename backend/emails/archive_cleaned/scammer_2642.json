@@ -1,0 +1,422 @@
+[
+    {
+        "from": "scammer_2642",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Sir/ Madam,",
+        "body": "Dear Sir/ Madam,\nHow are you doing today?  I want to use this medium to inform you about another project which I so much believed that you will welcome this Great opportunity because presently you will not spend any money to this very transaction. I believe that you will not betray me. and I was pushed to contact you and see how best we can assist each other. I believe that it’s the work of God that we must work together, we will work with honesty and trust that is the most important thing in business.\nTrust is like blood pressure. It's silent, vital to good health, and if abused it can be deadly. He who does not trust enough, will not be trusted. Trust yourself, you will start to trust others. Trust thyself: every heart vibrates to that iron string. Honesty is the best policy. The amount involved is Fifty Million United State of American dollars only ($50,000,000.00 USD) and you will not spend any money until the transaction is done.\nI need your urgent reply for more details."
+    },
+    {
+        "from": "baiter_2642",
+        "to": "scammer_2642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Hello,\nThank you for reaching out and sharing this opportunity with me. I appreciate your trust and belief in working together. Could you please provide more information about the project and how we can assist each other? I am interested in learning more about the details before moving forward. Looking forward to your response.\n\nBest wishes,\nRonald"
+    },
+    {
+        "from": "scammer_2642",
+        "to": "baiter_2642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Hello Ronald\r\nMany thanks for your prompt response to my email.\r\nLike I said, the money has been successfully moved from the vault company\r\nwhere it was originally deposited to a safe haven, with the Barclays Bank\r\nin Dubai.\r\n\r\nSo, once we comply with the financial regulations of the Emirati\r\nkingdom(UAE) then the money will be wired to your nominated account as\r\ninvestment funds.\r\nI will also visit your country for a face to face discussion on how to\r\ninvest the money in any profitable business in your country.\r\nThanks again for now until I hear from you\r\nCheers and best regards"
+    },
+    {
+        "from": "baiter_2642",
+        "to": "scammer_2642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.005358796296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Hello! Thank you for the update on the money transfer to Barclays Bank in Dubai. I'm glad to hear that progress is being made. Could you provide more details about the financial requirements of the Emirati kingdom UAE that need to be complied with? I'm interested in learning more about the investment opportunities you mentioned. Looking forward to hearing from you soon. Cheers!\n\nBest wishes,\nRonald"
+    },
+    {
+        "from": "scammer_2642",
+        "to": "baiter_2642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.6968055555555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Please, do you have a bank that can take such huge amount of money"
+    },
+    {
+        "from": "baiter_2642",
+        "to": "scammer_2642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.7136342592592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Hello! Yes, there are banks that can handle large amounts of money. What specific information are you looking for regarding this?\n\nBest wishes,\nRonald"
+    },
+    {
+        "from": "scammer_2642",
+        "to": "baiter_2642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.734050925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "I really don't want to be seen as giving half information or anyone\r\naccusing me of having been arm-twisted.\r\nThe dead accurate truth is that the Dubai Financial Services Authority,\r\nDFSA will definitely demand the anti money laundering documents as well as\r\nthe drug clearance certificate before we can have access to the money.\r\n\r\nWhat to do now\r\nI am seeking your agreement and cooperation to pool resources together to\r\npay for these documents at the Emirati government agency, DFSA who will\r\nthen issue the documents to the Barclays Bank in Dubai\r\n\r\nSir, permit me to respectfully ask if you are willing to share the cost\r\nwith me and then I will tell you the next step to take. The 2 documents\r\nwill cost about 14,000$ and I'm ready to give you 35% of the entire money\r\nwhen it is transferred to your account.\r\nThanks for your anticipated prompt response"
+    },
+    {
+        "from": "baiter_2642",
+        "to": "scammer_2642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.7552430555555556,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Hello! It sounds like you're dealing with some important financial matters in Dubai. Could you please provide more details about the process of obtaining these documents from the DFSA and how they are related to accessing the money? I'm interested in learning more about this situation.\n\nBest wishes,\nRonald"
+    },
+    {
+        "from": "scammer_2642",
+        "to": "baiter_2642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.7695370370370371,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Ronald\r\nIt may interest you to know that the UAE and the other West Asian/Middle\r\nEast countries have very strict monetary and fiscal policies.\r\nAnd the money in question is in a bank in Dubai, Barclays Bank\r\n\r\nSo, the expectation is that the DFSA will issue the documents for onward\r\ndelivery to Barclays Bank before the bank will execute the transfer to your\r\ndesignated bank account.\r\n\r\nI have just confirmed from a financial advisor in Dubai that the documents\r\nwill cost about $3050\r\n\r\nSo, why not we pool resources together and send to the financial advisor to\r\nprocure the documents on your behalf.\r\nThen send your bank account to the financial advisor to forward to Barclays\r\nBank to wire the money latest Monday next week"
+    },
+    {
+        "from": "baiter_2642",
+        "to": "scammer_2642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.7753472222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Hello Ronald, thank you for sharing this information with me. Could you please provide more details about the process of obtaining the documents and how the transfer will be facilitated? I want to make sure everything is clear before proceeding.\n\nBest wishes,\nRonald"
+    },
+    {
+        "from": "baiter_2642",
+        "to": "scammer_2642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.775462962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Hello Ronald, thank you for sharing this information with me. It's interesting to learn about the strict monetary and fiscal policies in the UAE and other West Asian Middle East countries. Could you provide more details on how the process works for obtaining the necessary documents from the DFSA? I'd like to understand better before considering pooling resources together.\n\nBest wishes,\nRonald"
+    },
+    {
+        "from": "scammer_2642",
+        "to": "baiter_2642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.7889699074074075,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Would you mind if I forward the email address of the financial advisor in\r\nDubai\r\nHis name is David Kuo Rabba and email address is dufinant@aol.com\r\nKindly get in touch with me and seek further information on how to proceed\r\nwith acquiring the documents. He knows better than me\r\nThanks Ronald"
+    },
+    {
+        "from": "baiter_2642",
+        "to": "scammer_2642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.797199074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Hello! Thank you for sharing this information. Could you tell me more about the services that David Kuo Rabba offers as a financial advisor in Dubai? I'm interested in learning about the process of acquiring the documents through him.\n\nBest wishes,\nRonald"
+    },
+    {
+        "from": "scammer_2642",
+        "to": "baiter_2642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.840439814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "David Kuo Rabba offers a range of financial advisory in Dubai, including\r\ninvestment, retirement planning, wealth management, financial institutions\r\ninterface and estate planning.\r\n\r\nHe helps clients create personalized financial strategies to meet their\r\ngoals and secure their financial future.\r\n\r\nWhen it comes to acquiring documents through David Kuo Rabba, the process\r\ntypically involves providing him with relevant information about your\r\nfinancial situation and goals. Then the cost of acquiring such documents\r\nfrom clients is evaluated.\r\n\r\nHe will then work with you to gather any necessary documentation, such as\r\nincome statements, asset statements, and tax returns. From there, he will\r\nanalyze your financial situation and develop a customized plan to help you\r\nachieve your goals.\r\n\r\nThese and many more were the things he shared with me after I sought\r\nfurther clarification of services that he provides"
+    },
+    {
+        "from": "baiter_2642",
+        "to": "scammer_2642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.8589583333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "That sounds like a comprehensive range of financial services that David Kuo Rabba offers in Dubai. It's important to have a solid financial plan in place for the future. Can you tell me more about how he tailors his strategies to meet individual client goals?\n\nBest wishes,\nRonald"
+    },
+    {
+        "from": "scammer_2642",
+        "to": "baiter_2642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.8683912037037036,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "We don't need all such comprehensive thesis.\r\nDavid Kuo Rabba is only expected to visit the offices of DFSA, pay and\r\ncollect the documents.\r\nThereafter, send the documents to the bank. And there ends his job.\r\nSo, all the other explanations that you are requesting are not just\r\nnecessary\nThanks"
+    },
+    {
+        "from": "baiter_2642",
+        "to": "scammer_2642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.880486111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Hello! I understand your perspective. Could you please clarify what specific documents are required to be sent to the bank? I want to make sure we have all the necessary information for a smooth process. Thank you for your cooperation.\n\nBest wishes,\nRonald"
+    },
+    {
+        "from": "scammer_2642",
+        "to": "baiter_2642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.8845717592592592,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Drug clearance certificate and anti money laundering documents\nThanks"
+    },
+    {
+        "from": "baiter_2642",
+        "to": "scammer_2642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.9005439814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Hello! That sounds important. Can you tell me more about the drug clearance and anti-money laundering documents you mentioned?\n\nBest wishes,\nRonald"
+    },
+    {
+        "from": "scammer_2642",
+        "to": "baiter_2642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.904826388888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "19",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "I don't know beyond what the names suggest"
+    },
+    {
+        "from": "baiter_2642",
+        "to": "scammer_2642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.9222222222222223,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "20",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Hello! Can you tell me more about what the names suggest? I'm curious to learn more.\n\nBest wishes,\nRonald"
+    },
+    {
+        "from": "scammer_2642",
+        "to": "baiter_2642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.9230555555555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "21",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Ronald\r\nPls use your Google search for more details.\nThanks"
+    },
+    {
+        "from": "baiter_2642",
+        "to": "scammer_2642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.9421643518518519,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "22",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Hello Ronald, thank you for sharing that information. I appreciate your suggestion to use Google for more details. Can you tell me a bit more about what specifically I should be looking up?\n\nBest wishes,\nRonald"
+    },
+    {
+        "from": "scammer_2642",
+        "to": "baiter_2642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.9453935185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "23",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "No"
+    },
+    {
+        "from": "baiter_2642",
+        "to": "scammer_2642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.9635532407407408,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "24",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Hello! I have some exciting information to share with you. Would you be interested in hearing more about it?\n\nBest wishes,\nRonald"
+    },
+    {
+        "from": "scammer_2642",
+        "to": "baiter_2642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.058784722222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "25",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Not yet"
+    },
+    {
+        "from": "baiter_2642",
+        "to": "scammer_2642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.0670023148148147,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "26",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Not yet what? What are you referring to?\n\nBest wishes,\nRonald"
+    },
+    {
+        "from": "baiter_2642",
+        "to": "scammer_2642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.067083333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "27",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Hi there! That's totally fine. Can you tell me more about what you're waiting for?\n\nBest wishes,\nRonald"
+    },
+    {
+        "from": "scammer_2642",
+        "to": "baiter_2642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.317928240740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "28",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Going forward, make Google your partner and stop 🚏 forthwith asking me any\r\nverbose and nebulous questions."
+    },
+    {
+        "from": "baiter_2642",
+        "to": "scammer_2642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.3386805555555554,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "29",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Hello! I appreciate your advice. Can you tell me more about how Google can be a helpful partner?\n\nBest wishes,\nRonald"
+    },
+    {
+        "from": "scammer_2642",
+        "to": "baiter_2642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.3665625,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "30",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Google will do that for you.\r\nI have admonished that you should never ask me my hazy question(s), instead\r\nask Google.\r\nSo, Google will be handy for the last question you asked\r\n\r\nI noticed that you are not a serious minded individual, but all out to feel\r\ngood....."
+    },
+    {
+        "from": "baiter_2642",
+        "to": "scammer_2642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.3802199074074073,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "31",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Hello! Thank you for the advice. I appreciate your suggestion to use Google for questions. Can you tell me more about how Google can help with the last question I asked?\n\nBest wishes,\nRonald"
+    },
+    {
+        "from": "scammer_2642",
+        "to": "baiter_2642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.402604166666667,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "32",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Only Google can. So, ask Google"
+    },
+    {
+        "from": "baiter_2642",
+        "to": "scammer_2642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.4221180555555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "33",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Hello! I'm curious, what specifically were you looking to find out from Google? Let me know so I can try to help!\n\nBest wishes,\nRonald"
+    },
+    {
+        "from": "scammer_2642",
+        "to": "baiter_2642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.7225,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "34",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "I guess you have been graciously entertained with your comedies"
+    },
+    {
+        "from": "baiter_2642",
+        "to": "scammer_2642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.733865740740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "35",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Thank you! I'm glad you enjoyed them. Did you have a favorite joke or skit?\n\nBest wishes,\nRonald"
+    },
+    {
+        "from": "scammer_2642",
+        "to": "baiter_2642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.9062384259259257,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "36",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Lacking interest and drearily dull"
+    },
+    {
+        "from": "baiter_2642",
+        "to": "scammer_2642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.9221180555555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "37",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Hello! I have some exciting information to share with you. Have you heard about this amazing opportunity to invest in a new venture that promises high returns? It's truly a game-changer! Would you be interested in learning more about it?\n\nBest wishes,\nRonald"
+    },
+    {
+        "from": "scammer_2642",
+        "to": "baiter_2642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.2838310185185184,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "38",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "I am not interested at this time."
+    },
+    {
+        "from": "baiter_2642",
+        "to": "scammer_2642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.2969097222222223,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "39",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Hello! I completely understand. Just wanted to share some information with you - did you know that there are great opportunities available for investing in the stock market right now? It's a fantastic way to potentially grow your wealth over time. Have you ever considered investing in stocks before?\n\nBest wishes,\nRonald"
+    },
+    {
+        "from": "scammer_2642",
+        "to": "baiter_2642",
+        "direction": "Inbound",
+        "days_from_first_conversation": 14.909490740740742,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "40",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "No, I have not."
+    },
+    {
+        "from": "baiter_2642",
+        "to": "scammer_2642",
+        "direction": "Outbound",
+        "days_from_first_conversation": 14.924768518518519,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "41",
+        "subject": "Re: Dear Sir/ Madam,",
+        "body": "Hey there! That's totally fine. Just wanted to share some interesting information with you. Did you know that investing in the stock market can potentially help grow your wealth over time? Have you ever considered looking into it?\n\nBest wishes,\nRonald"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1025",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good day , Dear Benefiary.",
+        "body": "Good day , Dear Benefiary.\nGreetings from the homeland security. I have a viral information which\nneeds to be attended immediately. Did you authorized anyone to pick up\nyour inheritance fund from our branch in Cleveland Caldwell Idaho? One\nMr Andrew Cox came to our office yesterday in-respect of your\n$2 millions USD dollars which has been credited with us for the\npast 2 years now by the Federal Government to be transferred into your\naccount. He said that you authorized him to pick up the fund.\nThis fund has been in our custody for the past two years now and we\nhave been waiting for you to contact us but we didn't know what is\nhindering you from reaching us since. So we decided to write to you to\nmake sure that you are fine and aware of the inheritance fund of\n$2 millions USD dollars in our branch office in Caldwell Idaho.\nWe want you to get back to us with the following details:\nFull Name:\nAddress:\nPhone number\n:"
+    },
+    {
+        "from": "baiter_1025",
+        "to": "scammer_1025",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Good day , Dear Benefiary.",
+        "body": "Hello there,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I don't recall authorizing anyone named Mr. Andrew Cox to pick up any funds on my behalf. Could you please provide more details about this situation? \n\nAlso, could you clarify what you mean by \"viral\" that needs to be attended? I'm not sure I understand that part.\n\nI appreciate your patience and look forward to hearing from you soon.\n\nBest wishes,\nCarlos"
+    },
+    {
+        "from": "scammer_1025",
+        "to": "baiter_1025",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Good day , Dear Benefiary.",
+        "body": "All right am understand what you mean nothing else what I prefer is to\r\ndepend on it"
+    },
+    {
+        "from": "baiter_1025",
+        "to": "scammer_1025",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.02369212962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Good day , Dear Benefiary.",
+        "body": "Hello there! I'm glad you reached out. Could you please elaborate a bit more on what you mean? I'd love to understand better and continue our conversation.\n\nBest wishes,\nCarlos"
+    }
+]

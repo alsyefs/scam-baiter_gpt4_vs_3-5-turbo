@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_348",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Scam Investigation Unit S.I.",
+        "body": "  Scam Investigation Unit S.I.U\n2255 Carlinesd Ave., Suite 500\nlgn,island K2B 7Z5\nHon.Pr.Ramond Steve\nHead, Planning, Research\n \nAttn: Beneficiary,  \n \nThis is to inform you that the United State Government authority (USA) in collaboration with most top country governments and the SCAM INVESTIGATION UNIT (S I U) has been alleged to monitor all transactions. I am here by instructing you to stop whatever transactions you are having in regards to your fund.\n \nThis information is reaching you because from our investigation we discovered you have been involved in a transaction with an internet fraudster. Note we have a  Certified Cashier Check of (Eight hundred thousand united state dollars) for compensation as a scam victim. The Central Bank Governor is compensating all the scam  victims to avoid giving our country bad names.\n \nNow contact the office of remittance department with all your information and apply for the release/delivery of your Certified Cashier Check of ( USD $800,000.00)  through the office of( Mr. STEVE  Jude) of Remittance Department (\ncbnmonitoringunitcenter@gmail.com\n) and ask him to release the Certified Cashier Check to you as the beneficiary of Eight hundred thousand united state dollars (US$800,000.00) for your compensation.\n \nAll that is required from you is\nyour current home address,-----------\nyour full name, -------------\nyour age / occupation---------------\nand your phone number---------------\nfor effective communication.---------------\n \nScam Investigation Unit S.I.U\n2255 Carlinesd Ave., Suite 500\nlgn,island K2B 7Z5\nHon.Pr.Ramond Steve\nHead, Planning, Research   "
+    },
+    {
+        "from": "baiter_348",
+        "to": "scammer_348",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Scam Investigation Unit S.I.",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding the alleged monitoring of my activities by the SCAM UNIT. However, I would like to clarify a few things before proceeding.\n\nCould you please provide more details about the internet fraudster I am allegedly involved with? I want to make sure that there is no misunderstanding or mistaken identity.\n\nAdditionally, could you explain how the Certified Cashier Check of Eight hundred thousand United States dollars is related to this situation? I'm curious to know why it has been designated for me as a scam victim.\n\nLastly, before sharing any personal information, could you please verify your position and authority within the Scam Unit? It's important for me to ensure that I am communicating with a legitimate representative.\n\nThank you in advance for your cooperation and clarification.\n\nBest wishes,\nLarry"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_790",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello Dear Friend",
+        "body": "Hello Dear Friend\nThis is from FBI Head office we have found out that you are sending money to some people for online transfer others transaction stop everything you are doing with them please we need more information this transaction or we got you arrest\nThanks\nDavid Peters"
+    },
+    {
+        "from": "baiter_790",
+        "to": "scammer_790",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello Dear Friend",
+        "body": "Hello David Peters,\n\nWow, that's quite surprising! I had no idea about this. Could you please tell me more about these people I'm supposedly sending money to? And how did you find out about it? \n\nI'm really curious to know more details. Please enlighten me.\n\nThank you for your help!\n\nBest wishes,\nKari"
+    }
+]

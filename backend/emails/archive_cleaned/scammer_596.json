@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_596",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello dear,",
+        "body": "Hello dear,\nOnce again and for the very last time, I am Diplomat John Paul, I am mandated to deliver a parcel containing an ATM CARD{$1.2 M} to you by the WORLD HEALTH ORGANIZATION {W.H.O.}\nI want to use the Post office medium to send you your parcel and to register and post your parcel to your given address, \nwill cost you the sum of $50\n, I therefore suggests that you send the $50 us through an iTunes card or an y other Gift card to enable me send you your parcel through the post office.  But if you can send the money through,\n    1. Western Union, Money gram, RIA, World Remit\n    2. Gift card\n    3. Bank transfer\nyou should let me know so that I will give you the information to pay in.\nI also want you to reconfirm your full delivery address to me once again to avoid wrong delivery.\n1. Your Name  \n2. House/delivery address/country\n3. Phone number  \n4. Age\n5. \nAny identification\n6. Nearest Airport  \nKindly do this immediately you receive this message so that I can proceed to the post office immediately and send your parcel to you as soon as possible.\nI await your urgent response but if you are not interested in receiving the parcel, please do not reply back.\nYoursa\nDiplomat John Paul.\n+234-906-7795-854\nURGENT RESPONSE NEEDED. Reply to this e-mail( \ndiplomatjohnpaul30@outlook.com\n )Call / WhatsApp ( (+234-906-7795-854 )"
+    },
+    {
+        "from": "baiter_596",
+        "to": "scammer_596",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello dear,",
+        "body": "Hello Diplomat John Paul,\n\nThank you for reaching out to me. I'm thrilled to hear about the parcel and your efforts to deliver it to me. However, I have a few questions before we proceed.\n\nFirstly, could you please provide more details about the contents of this ATM CARD? What is its purpose and how did it come into my possession?\n\nSecondly, you mentioned several methods of payment for the delivery fee. Could you explain why there's a need for me to pay for the delivery? Isn't it usually covered by the sender?\n\nLastly, could you clarify what you mean by \"Any Nearest Airport\"? Are you suggesting that I pick up the parcel from an airport?\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nSharlene"
+    }
+]

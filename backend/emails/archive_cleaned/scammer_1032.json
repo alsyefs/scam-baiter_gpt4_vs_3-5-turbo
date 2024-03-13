@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1032",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings,",
+        "body": "Greetings,\nMy name is Mrs Houri Khorrsheed\nI am an Iranian, once a diplomat with the United Nations Development Program (UNDP) in Tehran, Iran.\nMy husband was assassinated in a car bomb by the Iranian government on flimsy suspicion that my husband was a spy to the western government.\nMy late husband was a nuclear physicist and has about Twelve Million Eight Hundred Thousand United States Dollars ($12.8m) stored away in a finance company in Turkey.\nI am under house arrest at the moment and my late husband's brothers are trying all means to take possession of this fund as I have no kid for my husband but they cannot as they don't have the necessary information required for it.\nMy contacting you is to beg you to help me take possession of this fund.\nThis money will be wire transferred to any nominated account of your choice.\nI will send you the contact details of the person you will contact in the finance company in Turkey for the money after I must have informed them about you. \nIf you can help me and do this, I will allow you to take 50% of the money for your help while you keep the other 50% for me or you invest it in any profitable business of your choice for me till I come to meet you.\nRgds,\nMrs Houri Khorrsheed\nTehran, Iran"
+    },
+    {
+        "from": "baiter_1032",
+        "to": "scammer_1032",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings,",
+        "body": "Hello Mrs. Houri Khorrsheed,\n\nThank you for sharing your story with me. It sounds like you are going through a difficult time, and I appreciate you reaching out for help. Can you provide more details about how I can assist you in taking possession of the fund stored in the finance company in Turkey? How did you come across my contact information?\n\nLooking forward to hearing from you.\n\nBest wishes,\nJoan"
+    }
+]

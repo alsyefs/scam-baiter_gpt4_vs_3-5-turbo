@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_536",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Beneficiary",
+        "body": "  Dear Beneficiary\nThe Management of the World Bank Headquarters here in Washington D.C\nwishes to inform you that after a brief meeting held by the Co-Chief\nOperating Officers of the World Bank on the 6th day of Sept 2023,we\nagreed to remit your overdue funds directly to your resident account\nthrough bank transfer.\n According to the recent record we got from your payment file, we\nobserved that your inability to complete the transaction and your\nfailure to meet up with payment obligations has kept your funds\nhere.We have also noticed unkept promises on the part of the bank\nofficial previously mandated to carry out the transfer. It is on this\nnote that the world bank decided to solve the problem by having the\ntotal funds remitted directly to your resident bank account through\nbank to bank wire transfer.\n Note that the total of US$25,500,000.00  will be remitted directly to\nyour nominated bank account but the previous bank officials have\nfailed in the past because they didn't do the right thing. United\nStates Policy makes it mandatory to obtain a Transfer Certificate of\nApproval before you carry out such hoge transfer. Failure to follow up\nthe rules is the reason why they failed woefully but be rest assured\nthat we are going to get it right this time around since we have also\ncalled for the Transfer Certificate of Approval and it will be\nobtained at the cost of US$225 only and this $225 is the only penny\nyou will spend to get this done.\nYou are therefore required to get back to us with the following\ndetails to proceed :\nYour Full Name:.....\nCurrent Resident Address:...\nYour Nationality:....\nYour phone or whatsApp number....\nBank Name:.....\nBank Address:....\nYour Account Number:......\nYour Routing Number:.......\nBank Swift Code:.......\nYour age and current occupation...\n A copy of your identity card or passport...\nI will advise you to send the required details as requested above and\nget back to us so that we can start processing the transfer.\nMeanwhile, I will send you the details on how to end the required fee\nas soon as I hear from you.\nI am now waiting for your urgent response.\nYours faithfully,\nAxel van Trotsenburg\nDirector of Operations\nWorld Bank Washington DC, New York.   "
+    },
+    {
+        "from": "baiter_536",
+        "to": "scammer_536",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Beneficiary",
+        "body": "Dear Axel van,\n\nThank you for reaching out to me regarding the remittance of my overdue funds. I appreciate the World Bank's efforts in resolving this matter. However, I have a few questions before proceeding with the transfer.\n\n1. Can you please provide more details about the previous bank officials who failed to carry out the transfer? What were their roles and responsibilities?\n\n2. Could you explain what the Transfer of Approval is and why it is necessary for this transaction? How does it ensure that the transfer will be successful this time?\n\n3. I understand that there is a cost associated with obtaining the Transfer of Approval. Can you clarify what this fee covers and how it will be paid?\n\n4. Is there a specific timeline for completing this transfer? When can I expect to receive the funds in my nominated bank account?\n\nI look forward to your prompt response so that we can proceed with processing the transfer.\n\nBest wishes,\nAngelina"
+    }
+]

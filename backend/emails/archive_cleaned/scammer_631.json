@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_631",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  HSBC LONDON UK BANK PLC.",
+        "body": "  HSBC LONDON UK BANK PLC.\nAddress: 28 Borough High St,\nLondon SE1 1YB, United Kingdom\nPhone: +44 345 740 4404\nHello.?\nQ\nI am Dr Andrew Makinson. The Managing Director of HSBC bank of London UK and i am contacting you regarding to the  insertion we received\nfrom the World Bank  to release your Compassion / Inheritance  funds sum 10.5 Million United State Dollars to you through ATM Visa Card  immediately\nSo you are advice to resend your information below to enable our delivery agent delivery it across to your doorstep without any delay because this transaction is 100% guarantee real\nFULL NAMES: _______________\nCITY: ________________\nSTATE: ______________\nZIP: __________\nCOUNTRY_______________\nAGE: _____\nTELEPHONE NUMBER: _________\nWaiting for your urgent reply.\nWe bank in your response.\nYours in service,\nRegards,\nBEST REGARDS,\nManaging Director/HSBC UK\nDr Andrew Makinson   "
+    },
+    {
+        "from": "baiter_631",
+        "to": "scammer_631",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   HSBC LONDON UK BANK PLC.",
+        "body": "Hello Dr. Andrew Makinson,\n\nThank you for reaching out to me. It's quite a surprise to hear about this Compassion funds sum Million United States Dollars. I must say, it sounds like an incredible opportunity.\n\nCould you please provide more information about these funds? How did the World Bank come to select me for this? And what exactly is an ATM Visa Card?\n\nI'm looking forward to hearing from you soon.\n\nBest wishes,\nLesley"
+    }
+]

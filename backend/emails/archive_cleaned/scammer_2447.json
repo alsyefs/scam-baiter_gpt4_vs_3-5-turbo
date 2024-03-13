@@ -1,0 +1,152 @@
+[
+    {
+        "from": "scammer_2447",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello  ",
+        "body": "  Hello  \nSince you are not aware of this person before, we urge you to send us the listed information below for the immediate processing/release of the approved Fund to you.\n1) Full name\n2) Address \n3) Phone, fax, and mobile phone line\n4) A copy of Your identification Card or passport\nWaiting to hear from you immediately.\nRegards \nTom Healan    "
+    },
+    {
+        "from": "baiter_2447",
+        "to": "scammer_2447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello  ",
+        "body": "Hello Tom Healan,\n\nThank you for reaching out to me. I'm really excited about this opportunity! Could you please tell me more about the fund? How was it approved and what is it intended for? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "scammer_2447",
+        "to": "baiter_2447",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Hello David",
+        "body": "Hello David\r\n\r\nSince you are not aware of this person before, we urge you to send us the\r\nlisted information for the immediate release of the approved Fund to you.\r\n\r\n1) Full name\r\n2) Address\r\n3) Phone, fax, and mobile phone line\r\n4) A copy of Your identification Card or passport\r\n\r\nWaiting to hear from you immediately.\nRegards\r\nTom Healan"
+    },
+    {
+        "from": "baiter_2447",
+        "to": "scammer_2447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0043055555555555555,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Hello David",
+        "body": "Hello Tom,\n\nThank you for reaching out to me. I'm quite intrigued by this approved fund you mentioned. Could you please provide more details about it? How did it come about and why has it been approved for me?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "scammer_2447",
+        "to": "baiter_2447",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.058506944444444445,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Hello David",
+        "body": "Hello David\r\n\r\nThank you for your email response and content well noted. Sir, during every\r\nend of the first quarter the United Nations Organization in collaboration\r\nwith International Monitory Fund do organize a promo in the form of a grant\r\nwith active email users with Yahoo and Microsoft.  For the year 2023, and\r\nyour email address is among the winners in a random World Wide Web\r\ncomputerized draw system, extracted from over a million companies and\r\nindividual email addresses of the people that are active online and your\r\nemail came out victorious.\r\n\r\nSir, the sum of US$7.5MILLION was approved by the IMF to be paid to you as\r\none of the lucky winners but to our surprise, we received a claim\r\nnotification from one Mr. Smith Joseph who said he is your family Lawyer\r\nfrom the United Kingdom that you instructed /directed him for file a claim\r\nof the Fund in his own name as your next of kin for the release of the Fund\r\nto him, this made us get in contact with you in confirming if really you\r\nare the one that instructed him to claim the Fund on your behalf, which\r\nfrom your email it shows you never hard knowledge of knowing this so-called\r\nMr. Smith Joseph.\r\n\r\nSir, in order to release the approved Fund to you as the rightful\r\nbeneficiary as listed on our payment dossier from the IMF, we urge you to\r\nsend us the listed information for the immediate release of the approved\r\nFund to you.\r\n\r\n1) Full Name-\r\n2) Home Address-\r\n3) Phone, fax, and mobile phone line-\r\n4) A copy of your identification Card or passport\r\n\r\n I do hope my explanation has cleared the content of the email you received\r\nfrom us and If you have any objection do immediate Contact:\r\n\r\nWaiting to hear from you immediately.\nRegards\r\nTom Healan"
+    },
+    {
+        "from": "baiter_2447",
+        "to": "scammer_2447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.06762731481481482,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Hello David",
+        "body": "Hello Tom,\n\nThank you for your detailed response. It's quite surprising to hear about this grant and the claim from Mr. Smith Joseph. I must admit, I don't recall instructing anyone to claim any funds on my behalf.\n\nCould you please provide more information about this grant? How was it decided that my email would be among the winners? And how did Mr. Smith Joseph come into the picture?\n\nI'm also curious about the process of releasing these funds. What steps are involved and how long does it usually take?\n\nLooking forward to hearing from you.\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "baiter_2447",
+        "to": "scammer_2447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.06780092592592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Hello David",
+        "body": "Hello Tom,\n\nThank you for your detailed response. It's quite surprising to hear about this Mr. Smith Joseph claiming to be my family lawyer. I can assure you that I have no knowledge of him or any instructions given to claim the fund on my behalf.\n\nI'm curious, how was my email address selected in this random World Wide Web draw system? And could you please provide more information about this grant organized by the United Nations and Monitory Fund?\n\nAlso, I would like to know more about the process involved in releasing the approved fund. What are the steps I need to take?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "scammer_2447",
+        "to": "baiter_2447",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.9076388888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Hello David",
+        "body": "Hello David\r\n\r\nSir, don’t be curious how your email address was selected in this random\r\nWorld Wide Web draw system. Your email came out victorious and for us to\r\nprovide more evidence about this grant organized by the United Nations and\r\nMonetary Fund. you need to re-confirm your details to us to issue your\r\nWinning Certificate with our Organization.\r\n\r\nWaiting to hear from you immediately.\nRegards\r\nTom Healan"
+    },
+    {
+        "from": "baiter_2447",
+        "to": "scammer_2447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9209837962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Hello David",
+        "body": "Hello Tom,\n\nWow, that's really exciting news! I can't believe my email was selected. Can you tell me more about this grant? How does the selection process work? And what is the purpose of this grant?\n\nLooking forward to hearing from you.\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "scammer_2447",
+        "to": "baiter_2447",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0292708333333334,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Hello David",
+        "body": "Hello David\r\n\r\nSir, There is nothing else I can explain about this transaction, If you\r\ncan't provide your details to us to issue your Winning Certificate with our\r\nOrganization. Then forget about it.\r\n\r\nWaiting to hear from you immediately.\nRegards\r\nTom Healan"
+    },
+    {
+        "from": "baiter_2447",
+        "to": "scammer_2447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0460069444444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Hello David",
+        "body": "Hello Tom,\n\nThank you for your quick response. I'm really excited about this winning! Could you please tell me more about it? Like, how was I chosen and what exactly have I won? \n\nLooking forward to hearing from you.\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "scammer_2447",
+        "to": "baiter_2447",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0473032407407408,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Hello David",
+        "body": "Your not serious..."
+    },
+    {
+        "from": "baiter_2447",
+        "to": "scammer_2447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0675810185185186,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: Hello David",
+        "body": "Oh, I assure you, I am quite serious! Could you please elaborate on why you might think otherwise?\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "scammer_2447",
+        "to": "baiter_2447",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0707175925925927,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: Hello David",
+        "body": "I have answered your questions and if your really serious to claim your\r\nWinning Fund provide your details or your name will removed from our file."
+    },
+    {
+        "from": "baiter_2447",
+        "to": "scammer_2447",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0879166666666666,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: Hello David",
+        "body": "Hello there,\n\nThank you for your message. I'm really excited about this winning fund! Could you please tell me more about it? How was I chosen and what is the process to claim it? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDavid"
+    }
+]

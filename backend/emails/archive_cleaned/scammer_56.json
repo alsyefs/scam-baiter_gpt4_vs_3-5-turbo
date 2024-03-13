@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_56",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attn : Beneficiary.",
+        "body": "  Attn : Beneficiary.\nWe received your Covid-19 Stimulus payment files of $1.7Million dollars with your funds release code numbers UN6MMCOVID022 from the covid-19 coordinating manager Mrs. Carman L. Lapointe, that we should release the sum of $1.7Million dollars to you with immediate effect and we encounter a little problem while releasing your $1.7million dollars.\nWe discovered that the Financial Action Task Force (FATF) placed your funds on hold because of the Clearance Permit Certificate of the funds and this is the reason why you have not been able to receive your $1.7million dollars from us.\n \nPlease contact the Financial Action Task Force (FATF) office for the required permit papers to enable us release your funds to you by any payment options of your choice, as soon as you obtain the required permit paper from the Financial Action Task Force, your fund $1.7million will be released to you with immediate effect.\n \nContact Person: Agent Marcus W. Billy\nPosition: FATF due processing Senior officer.\nAddress: 1632 1st Ave., New York, NY 10028.\nDirect Email: \nagentbillywilly@zohomail.com\nOffice Cell + 1 678-599-7241\n \nYou should contact the officer now and get the required permit paper on your behalf and your funds will be free for transfer to you..\nWe look forward to hearing from you.\n \nYours Sincere\n--------------------\nYours sincerely\nMrs. Kristalina Georgieva\nDirector of the Centers for Disease control.   "
+    },
+    {
+        "from": "baiter_56",
+        "to": "scammer_56",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attn : Beneficiary.",
+        "body": "Hello Mrs. Kristalina Georgieva,\n\nThank you for reaching out to me about this matter. I'm a bit confused though, as I wasn't aware that my funds were on hold. Could you please explain more about the Financial Action Task Force and why they would have placed my funds on hold? \n\nAlso, could you clarify what exactly the Clearance Permit is? Is there a specific process or steps I need to follow to obtain this permit?\n\nI appreciate your help in understanding this situation better.\n\nBest regards.\n\nBest wishes,\nLouise"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "from": "scammer_2219",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello",
+        "body": "Hello\nI am Mrs.Rosmary Rio LACAIXA BANK ESPAA Foreign payment directorI saw a file in respect of your Fund amounting the sum of US10.5 Million United Stated Dollars. After going through the file i discovered that you abandoned your fund here in the process of transfer to your bank account due to demands from banks and other financial institution.\nI write to know the reason why you choose to abandon your fund here because it is my first point of action to offset every payment that is pending in the LACAIXA BANK ESPAA transfer statutory disc. I assure you that the LACAIXA BANK ESPAA Management and the World Banking financial regulatory authorities will look into your matter properly and process your fund transfer to you as soon as you indicate your interest in receiving your approved fund.\nGet back to us immediately via email so that we can know how to look into your matter urgently and make sure you receive your fund immediately without any delay. Meanwhile\n for security reasons you have to fill out below information so that we will know who we are dealing with\n1. Full Names: 2. Residential Address: 3. Mobile Number: 4.Occupation:\n5. Sex: 6. Date Of Birth: 7.\n Your legal identification such as international passport copy or Drivers license or any form of official I D card bearing your name \nAlso fill out bank data as following which you want to use receive your funds\n1Bank Name: 2 Bank Address: 3Account No: 4Routing No: 5Swift Code:\n6Account Name:\nOnce we receive listed details from you then we will proceed on your transaction as soon as possible Thanks for banking with LACAIXA BANK\nESPAA while we looking forward to serving you with the best of our service.\nFrom LACAIXA BANK Spain\nSincerely Mrs.Rosmary Rio."
+    },
+    {
+        "from": "baiter_2219",
+        "to": "scammer_2219",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello",
+        "body": "Hello Rio,\n\nThank you for reaching out to me regarding my fund at LAC\n\nBest wishes,\nVictor"
+    },
+    {
+        "from": "scammer_2219",
+        "to": "baiter_2219",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Hello",
+        "body": "I will need to have your full details for immediate process of transfer to\r\nyou nominated bank account."
+    },
+    {
+        "from": "baiter_2219",
+        "to": "scammer_2219",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0988657407407407,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Hello",
+        "body": "Hello there! Thank you for reaching out to me. I'm definitely interested in learning more about this transfer process. Could you please provide me with some additional information? Specifically, I would like to know what kind of transfer we are talking about and how it works. Also, could you explain why my full details are needed for the process? Looking forward to your response!\n\nBest wishes,\nVictor"
+    },
+    {
+        "from": "scammer_2219",
+        "to": "baiter_2219",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.993136574074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Hello",
+        "body": "Hello\r\n\r\nI am Mrs.Rosmary Rio LACAIXA BANK ESPAA Foreign payment directorI saw a\r\nfile in respect of your Fund amounting the sum of US10.5 Million United\r\nStated Dollars. After going through the file i discovered that you\r\nabandoned your fund here in the process of transfer to your bank account\r\ndue to demands from banks and other financial institution.\r\n\r\nI write to know the reason why you choose to abandon your fund here because\r\nit is my first point of action to offset every payment that is pending in\r\nthe LACAIXA BANK ESPAA transfer statutory disc. I assure you that the\r\nLACAIXA BANK ESPAA Management and the World Banking financial regulatory\r\nauthorities will look into your matter properly and process your fund\r\ntransfer to you as soon as you indicate your interest in receiving your\r\napproved fund.\r\n\r\nGet back to us immediately via email so that we can know how to look into\r\nyour matter urgently and make sure you receive your fund immediately\r\nwithout any delay. Meanwhile for security reasons you have to fill out\r\nbelow information so that we will know who we are dealing with\r\n\r\n1. Full Names: 2. Residential Address: 3. Mobile Number: 4.Occupation:\r\n5. Sex: 6. Date Of Birth: 7. Your legal identification such as\r\ninternational passport copy or Drivers license or any form of official\r\nI D card bearing your name Also fill out bank data as following which\r\nyou want to use receive your funds\r\n\r\n\r\nOnce we receive listed details from you then we will proceed on your\r\ntransaction as soon as possible Thanks for banking with LACAIXA BANK ESPAA\r\n\r\nwhile we looking forward to serving you with the best of our service.\r\n\r\nFrom LACAIXA BANK Spain\r\nSincerely Mrs.Rosmary Rio."
+    },
+    {
+        "from": "baiter_2219",
+        "to": "scammer_2219",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.008194444444444,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Hello",
+        "body": "Hello Rio,\n\nThank you for reaching out to me regarding the foreign payment file at LAC\n\nBest wishes,\nVictor"
+    },
+    {
+        "from": "scammer_2219",
+        "to": "baiter_2219",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.485717592592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Hello",
+        "body": "Your full details is needed such as your full name and address and phone\r\nnumber and a copy your ID."
+    },
+    {
+        "from": "baiter_2219",
+        "to": "scammer_2219",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.4865509259259255,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Hello",
+        "body": "Hello! Thank you for reaching out. Can you please provide more information about why my full details are needed? I just want to understand the purpose behind it.\n\nBest wishes,\nVictor"
+    },
+    {
+        "from": "scammer_2219",
+        "to": "baiter_2219",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.349432870370371,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Hello",
+        "body": "Send me your phone number so that I can call you to discuss at lent with\r\nyou on phone in full details."
+    },
+    {
+        "from": "baiter_2219",
+        "to": "scammer_2219",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.361435185185186,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Hello",
+        "body": "Hello! I appreciate your interest in discussing things further over the phone. Before I share my phone number, could you please provide me with more details about what you'd like to discuss?\n\nBest wishes,\nVictor"
+    }
+]

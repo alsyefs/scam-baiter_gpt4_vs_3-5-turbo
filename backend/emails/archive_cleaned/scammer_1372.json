@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1372",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "greetings my beloved,",
+        "body": "greetings my beloved,\nMy name is Mrs.Julianna Lambert,I am a 59 years old widow a deaf woman and also a cancer patient I Have no child so I decided to donate whatI have to you for charity works.I want to donate $12.5 million to you so that you will use part of this fund to help the poor ones,while you use the rest for your family this is my last wish.Respond now for more detailsMrs.Julianna Lambert,"
+    },
+    {
+        "from": "baiter_1372",
+        "to": "scammer_1372",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: greetings my beloved,",
+        "body": "Hello there,\n\nThank you for reaching out to me. I appreciate your kind intentions to donate a significant amount of money for charity. It's truly heartwarming to see people like you who want to make a positive impact on the lives of others.\n\nI would love to learn more about this opportunity and how we can proceed with the donation. Could you please provide me with some additional details? For instance, could you let me know more about yourself and how you came across my contact information? Also, it would be helpful if you could explain the process involved in making this donation.\n\nI look forward to hearing back from you soon.\n\nBest wishes,\nAnnie"
+    }
+]

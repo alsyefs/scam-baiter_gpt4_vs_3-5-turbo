@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1001",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "ATTN",
+        "body": "ATTN\nI hope this message finds you in good health and high spirits. I write to you with the utmost respect and sincerity. This is to officially inform you that the total sum of $10Million USD has been approved in your favor after a brief meeting with the Organization for Economic Co-operation and Development (OECD), Debt Relief Service Commission. The outcome of the meeting was to resolve the issue of unpaid funds, such as Compensation payments, Inheritance Funds, Next-of-kin, Lottery Funds, Contract Payments owed to Companies or Individuals. The sum of US$10,000,000.00 has been allotted to you, and it is due for payment to you. So, you are receiving this email to be informed. Be advised to get in touch with Mr Harry, the general superintendent of your funds via email: ( \nmichaelharryofficial52@gmail.com\n ) to guide you on how you will receive your funds.\n \nFunds extorted from the victims of the scam are to be refunded back to the beneficiary. So, \nkindly contact the email above with your full information to receive your Overdue payment.\n \nPlease include your receiving information.\n \nYour Full Name\nPhone Number\nAddress\n \nWarm Regards\nMr Guy MOLS\nDirectorate-General for Security and Safety."
+    },
+    {
+        "from": "baiter_1001",
+        "to": "scammer_1001",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: ATTN",
+        "body": "Hello Mr. Guy MOLS,\n\nI hope this message finds you well. I am quite surprised and intrigued by your email. It's not every day that one receives news of such a significant sum being allotted to them.\n\nCould you please provide more details about this? How was my name selected for this allotment? And what was the purpose of the meeting where this decision was made?\n\nAlso, could you tell me more about Mr. Harry, the general of my funds? What is his role in all of this?\n\nI'm looking forward to hearing from you soon.\n\nBest wishes,\nRobert"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1512",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn:",
+        "body": "Attn:\nThis is to inform you that i am in charge of the entire payment and I came\nacross your file which was marked X\nand your released disk painted RED, I took time to study it\nand found out that you have paid VIRTUALLY all fees and but\nthe fund was not released to you.\nThe most annoying thing is that they won't tell you the truth\nthat on no account will they ever release the fund to\nyou,instead they allow you spend money unnecessarily,I do\nnot intend to work here all the days of my life, I can\nrelease this fund to you if you can comply with me.\nI needed to do this because you need to know the status of your Funds and\ncause for the delay,\nThe only thing needed to release this fund is The Original Copy of\nyour signed FUND RELEASE CLASSIFIED DOCUMENT which will be tendered to\nthe paying officer to transfer your fund amount into your bank\naccount.\nOnce the needed certificate is signed and obtained funds will\nimmediately reflect in your bank within 10 Minutes,the\ncertificate is all that is needed to complete this\ntransaction.\nReconfirm your information below\nFull NAME\nAddress\n International passport\nYour WHATSAPP Phone Number is needed for further communication.\nFinally, we are expecting to hear from you today unfailingly to enable\nus serve you better\nThank you very much for your anticipated co-operation and understanding.\nBest Regards\nI await your Immediate response\nMr Johnson Clerk"
+    },
+    {
+        "from": "baiter_1512",
+        "to": "scammer_1512",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attn:",
+        "body": "Hello Mr. Johnson Clerk,\n\nThank you for reaching out to me with this information. I appreciate you taking the time to study my file and provide me with an update on the status of my funds. It's frustrating to hear that the fund has not been released despite having paid virtually all fees.\n\nI understand that you are willing to help release the funds to me if I comply with certain requirements. Could you please provide more details about the Original Copy of the Fund Release Classified Document? What exactly does it entail, and how can I obtain it?\n\nAdditionally, could you clarify which paying officer will be responsible for transferring the funds into my bank account? It would be helpful to have their contact information or any other relevant details.\n\nHere is my information as requested:\nFull Name: \nAddress: \nPassport: \nWhatsApp Phone Number: \n\nI look forward to your response and appreciate your assistance in resolving this matter.\n\nBest wishes,\nFrances"
+    }
+]

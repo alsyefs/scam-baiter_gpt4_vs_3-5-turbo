@@ -1,0 +1,522 @@
+[
+    {
+        "from": "scammer_1381",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  CONGRATULATIONS to you today",
+        "body": "  CONGRATULATIONS to you today, you were chosen as one of the enlisted benefactors for this Grant $2M whom I contacted via private messages, you get a Giveaway from us & additional Grant from our attractive sponsor's.\n   How to get the Grant, register a bitcoin Account yourself in us via Link below.\nHere  https:/ /specprofit.com/assot/BB-register.php\n    Follow the steps and if you have (DONE) that please send me your proof of registration or screenshot, Congratulations and Thank You\nYours In Service,\nMr. Jussi Ahonen \nManger    "
+    },
+    {
+        "from": "baiter_1381",
+        "to": "scammer_1381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   CONGRATULATIONS to you today",
+        "body": "Hello! Thank you for reaching out. Can you tell me more about the grant and how it works? I'm interested in learning more about the process.\n\nBest wishes,\nTerry"
+    },
+    {
+        "from": "scammer_1381",
+        "to": "baiter_1381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Dear Terry,\r\n\r\n     Thanks for your response, this Email is to inform you about the Grant\r\nCash Awarded for you as one of the enlisted Beneficiarys helping Refugee\r\nCamp in the World.\r\n\r\n     Kindly follow the instructions to create/ register an Account with our\r\nlink to enable us proceed to transfer the Grant Cash to your account\r\nregistered with us without further delay.\r\n\r\n  Looking forward to hear from you soon.\nBest Regards,\r\nMr. Jussi Ahonen\r\nManger."
+    },
+    {
+        "from": "baiter_1381",
+        "to": "scammer_1381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0032291666666666666,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Hello Mr. Jussi Ahonen,\nThank you for reaching out to me about the cash award for helping refugees. I'm interested in learning more about this opportunity. Could you please provide me with more details on how the transfer process works? I look forward to hearing from you soon.\n\nBest wishes,\nTerry"
+    },
+    {
+        "from": "scammer_1381",
+        "to": "baiter_1381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.02228009259259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Dear Terry,\r\n\r\n   Our goal is to utilize our Client's to metup their Standard Access\r\nWithdrawal Funds.\r\n\r\n   Kindly click on our Link below to create/ register an Account so we can\r\ntransfer the Grant Cash to you and immediately after you can start withdraw\r\ntransfer to any Wallet or Bank Account of your choice.\r\n\r\n   Link below to create an account:\r\n  Here👉  https://specprofit.com/assot/BB-register.php\r\n\r\n   Once you done with the registration process Account please let me know\r\nto verify it for you.\r\n\r\n  Looking towards your response.\nBest Regards,\r\nMr Jussi Ahonen"
+    },
+    {
+        "from": "baiter_1381",
+        "to": "scammer_1381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.02351851851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Hello Terry,\n\nThank you for reaching out to me. I appreciate the information you provided about accessing withdrawal funds. Could you please share more details about how the process works and what steps are involved in creating and verifying the account?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nTerry"
+    },
+    {
+        "from": "scammer_1381",
+        "to": "baiter_1381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.03234953703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Dear Terry,\r\n\r\n      Our aim is to provide best quality to our Clients requirements, and\r\nas soon as you are done with the registration process Account Activation\r\nrequest set-up processing charges $200 only one-time payment for the Funds\r\ntransfer Approved.\nBest Regards,\r\nMr. Jussi Ahonen\r\nManger."
+    },
+    {
+        "from": "baiter_1381",
+        "to": "scammer_1381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.045,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Hello Mr. Jussi Ahonen,\nThank you for the information. Could you please provide more details about the account activation process and the payment for funds transfer approval? I would like to understand how it works before proceeding.\n\nBest wishes,\nTerry"
+    },
+    {
+        "from": "scammer_1381",
+        "to": "baiter_1381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.05189814814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Dear Terry,\r\n\r\n     Kindly click our Link to create an account and once you done please\r\ninform me so I can verify your account to enable you login successfully.\r\n\r\n     Once you are done with the registration process, you will receive OPT\r\ncode in your Email to login into the Account.\r\n\r\n     After the process transfer Grant Cash to you, the Account Activate\r\nprocessing request charges $200 only to Approved your withdraw transfer\r\nCash to others accounts.\r\n\r\n  Looking towards your positive response.\nBest Regards,\r\nMr. Jussi Ahonen\r\nManger."
+    },
+    {
+        "from": "baiter_1381",
+        "to": "scammer_1381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.06508101851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Hello Mr. Jussi Ahonen,\n\nThank you for reaching out. I would like to know more about the verification process for my account. Could you provide me with some details on how to proceed with verifying my account? \n\nLooking forward to your response.\n\nBest wishes,\nTerry"
+    },
+    {
+        "from": "scammer_1381",
+        "to": "baiter_1381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.06739583333333334,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Dear Terry,\r\n\r\n   Once you are done with the registration Account kindly inform me so I\r\ncan verify the account to enable you login.\r\n\r\n Waiting for your response to proceed.\nBest Regards,\r\nMr. Jussi Ahonen\r\nManger."
+    },
+    {
+        "from": "baiter_1381",
+        "to": "scammer_1381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.08657407407407407,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Hello Mr. Jussi Ahonen,\nThank you for reaching out. I would like to know more about the account verification process. Can you provide me with some details on how it works? Looking forward to your response.\n\nBest wishes,\nTerry"
+    },
+    {
+        "from": "scammer_1381",
+        "to": "baiter_1381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.08888888888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Dear Terry,\r\n\r\n  Kindly click our Link below to register an account and once you done\r\nplease inform me so I can verify your account.\nBest Regards,\r\nMr. Jussi Ahonen\r\nManger."
+    },
+    {
+        "from": "baiter_1381",
+        "to": "scammer_1381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.10665509259259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Hello Mr. Jussi Ahonen,\nThank you for reaching out. I'm interested in registering an account. Could you please provide me with more information about the account and the verification process?\n\nBest wishes,\nTerry"
+    },
+    {
+        "from": "scammer_1381",
+        "to": "baiter_1381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.11577546296296297,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Dear Terry,\r\n\r\n      Kindly follow the instructions by clicking on our Link below to\r\nregister an account, and please inform me once you register the account so\r\nI can verified your account to login.\r\n\r\nHere👉  https://specprofit.com/assot/BB-register.php\r\n\r\n  Soon as you are done with the registration immediately the Grant Cash\r\nwill be credited to your account.\r\n\r\n Looking towards your response.\nBest Regards,"
+    },
+    {
+        "from": "baiter_1381",
+        "to": "scammer_1381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.12841435185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Hello! Thank you for sharing this information with me. Could you please provide more details about the account registration process and how the Grant Cash works? I'm interested in learning more.\n\nBest wishes,\nTerry"
+    },
+    {
+        "from": "scammer_1381",
+        "to": "baiter_1381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.134375,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Dear Terry,\r\n\r\n      Once you are done with the Account registration process please inform\r\nme to verify it, and also the required fee $200 for the Account Activate\r\nwithdraw Cash transfer.\nBest Regards,\r\nMr. Jussi Ahonen\r\nManger."
+    },
+    {
+        "from": "baiter_1381",
+        "to": "scammer_1381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.14850694444444446,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Hello Terry, thank you for reaching out. Could you please provide more details about the account activation process and the fee required for the cash transfer? I'd like to understand how everything works before proceeding. Looking forward to your response.\n\nBest wishes,\nTerry"
+    },
+    {
+        "from": "scammer_1381",
+        "to": "baiter_1381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.15648148148148147,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Dear Terry,\r\n\r\n      I wish to put to your notice that the Account Activate process\r\ncharged $200 only must be paid to our Bitcoin Address provide to allow us\r\nproceed completely Access to Withdrawal the Grant Cash successfully.\r\n\r\n Bitcoin Transfer Address:\r\n bc1q7a6zn2e50hng0kr0pvjuh9yttjvf3sz4mshj6g\r\n\r\n   Looking towards your positive response to proceed.\nBest Regards,\r\nMr. Jussi Ahonen\r\nManger."
+    },
+    {
+        "from": "baiter_1381",
+        "to": "scammer_1381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.17010416666666667,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "19",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Hello Mr. Jussi Ahonen,\nThank you for reaching out. Could you please provide more details about the grant cash withdrawal process? I would like to understand how everything works before proceeding. Looking forward to your response.\n\nBest wishes,\nTerry"
+    },
+    {
+        "from": "scammer_1381",
+        "to": "baiter_1381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.17658564814814814,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "20",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Dear Terry,\r\n\r\n     The Withdrawal Activation process Access Funds charged you $200 one-time\r\npayment to Approved your withdraw Grant Cash successfully.\r\n\r\n  Waiting for your response.\nBest Regards,\r\nMr Jussi Ahonen\r\nManger."
+    },
+    {
+        "from": "scammer_1381",
+        "to": "baiter_1381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.18105324074074075,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "21",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Dear Terry,\r\n\r\n   First step to get the Grant Cash, register a bitcoin Account yourself in\r\nus via Link below.\r\n\r\n  Here👉  https://specprofit.com/assot/BB-register.php\r\n\r\nFollow the steps and if you have (DONE) please send me proof of\r\nregistration.\nBest Regards,\r\nMr. Jussi Ahonen\r\nManger."
+    },
+    {
+        "from": "baiter_1381",
+        "to": "scammer_1381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.19011574074074075,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "22",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Hello Mr. Jussi Ahonen,\nThank you for sharing this information with me. Could you please provide more details on how registering a bitcoin account will help in getting the Grant Cash? I am interested to learn more about the process.\n\nBest wishes,\nTerry"
+    },
+    {
+        "from": "baiter_1381",
+        "to": "scammer_1381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.1902199074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "23",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Hello Mr. Jussi Ahonen,\nThank you for reaching out to me about the approved grant cash withdrawal. I appreciate the update. Can you please provide more details on how the process works and what steps I need to take next? Looking forward to your response.\n\nBest wishes,\nTerry"
+    },
+    {
+        "from": "scammer_1381",
+        "to": "baiter_1381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.19273148148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "24",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Dear Terry,\r\n\r\n    Kindly click our Link below provided and follow the steps to register\r\nan account so we can proceed immediately to transfer the Grant Cash to your\r\naccount.\nBest Regards,\r\nMr. Jussi Ahonen\r\nManger."
+    },
+    {
+        "from": "scammer_1381",
+        "to": "baiter_1381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.19490740740740742,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "25",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Dear Terry,\r\n\r\n   Click on our Link below to register a bitcoin Account yourself to enable\r\nyou receive the Grant Cash.\r\n\r\n Here👉  https://specprofit.com/assot/BB-register.php\r\n\r\n Please keep us posted.\nBest Regards,\r\nMr. Jussi Ahonen\r\nManger."
+    },
+    {
+        "from": "baiter_1381",
+        "to": "scammer_1381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.21210648148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "26",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Hello Mr. Jussi Ahonen,\nThank you for reaching out. I'm interested in learning more about the grant cash transfer process. Could you please provide me with more details on how to register an account and proceed with the transfer?\nLooking forward to your response.\n\nBest wishes,\nTerry"
+    },
+    {
+        "from": "baiter_1381",
+        "to": "scammer_1381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.21234953703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "27",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Hello Mr. Jussi Ahonen,\nThank you for sharing the link with me. Can you provide more details about the grant cash and how the bitcoin account registration is connected to it? I'm interested in learning more about this opportunity.\nLooking forward to your response.\n\nBest wishes,\nTerry"
+    },
+    {
+        "from": "scammer_1381",
+        "to": "baiter_1381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.2484375,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "28",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Dear Tracy,\r\n\r\n   First step to withdraw the Grant Cash, kindly register a bitcoin Account\r\nyourself with our Company Link below.\r\n\r\n\r\nHere👉  https://specprofit.com/assot/BB-register.php\r\n\r\n Waiting your response once you register Account.\nBest Regards,"
+    },
+    {
+        "from": "baiter_1381",
+        "to": "scammer_1381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.25355324074074076,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "29",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Hello! Thank you for reaching out. Can you please provide more information about the grant cash and how registering a bitcoin account is related to it? I'm interested in learning more.\n\nBest wishes,\nTerry"
+    },
+    {
+        "from": "scammer_1381",
+        "to": "baiter_1381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.2592476851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "30",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Dear Terry,\r\n\r\n    I have already provided our below details link to register a bitcoin\r\nAccount to enable us credit you the Grant Cash.\r\n\r\n Best regards,"
+    },
+    {
+        "from": "baiter_1381",
+        "to": "scammer_1381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2733101851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "31",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Hello Terry,\nThank you for sharing the link to register the Bitcoin account. I'm interested in learning more about how this process works. Could you please provide me with some more information on how to proceed?\n\nBest wishes,\nTerry"
+    },
+    {
+        "from": "scammer_1381",
+        "to": "baiter_1381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.46394675925925927,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "32",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Dear Terry,\r\n\r\n     Kindly register the account and let me know once you done so we can\r\nproceed.\nBest Regards,"
+    },
+    {
+        "from": "baiter_1381",
+        "to": "scammer_1381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.48159722222222223,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "33",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Hello Terry, thank you for reaching out. What information would you like to share with me?\n\nBest wishes,\nTerry"
+    },
+    {
+        "from": "scammer_1381",
+        "to": "baiter_1381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.7010763888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "34",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Dear Terry,\r\n\r\n   Please follow instructions and register an Account via to enable us\r\nproceed.\nBest Regards,"
+    },
+    {
+        "from": "baiter_1381",
+        "to": "scammer_1381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7118402777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "35",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Hello! Thank you for reaching out. I'm interested in learning more about registering an account. Can you please provide me with some details on how to proceed?\n\nBest wishes,\nTerry"
+    },
+    {
+        "from": "scammer_1381",
+        "to": "baiter_1381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.7193518518518518,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "36",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Dear Terry,\r\n\r\n   Follow up with the process to create your account.\r\n\r\nHere👉  https://specprofit.com/assot/BB-register.php\r\n\r\n Best Regards,"
+    },
+    {
+        "from": "baiter_1381",
+        "to": "scammer_1381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.731712962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "37",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Hello! Thank you for reaching out. I'm interested in learning more about the account creation process. Can you provide me with some details on how to get started?\n\nBest wishes,\nTerry"
+    },
+    {
+        "from": "scammer_1381",
+        "to": "baiter_1381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.9480787037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "38",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Yes, of course you can."
+    },
+    {
+        "from": "baiter_1381",
+        "to": "scammer_1381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9615972222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "39",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Hello! That's great to hear. Can you tell me more about how it works?\n\nBest wishes,\nTerry"
+    },
+    {
+        "from": "scammer_1381",
+        "to": "baiter_1381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.9777893518518519,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "40",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Dear Terry,\r\n\r\n     I have already told you how it works by registered an account with our\r\nCompany Link.\nBest Regards,"
+    },
+    {
+        "from": "baiter_1381",
+        "to": "scammer_1381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9817476851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "41",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Hello Terry,\nThank you for reaching out. Could you please provide more information about Company Link and what services or products it offers?\n\nBest wishes,\nTerry"
+    },
+    {
+        "from": "scammer_1381",
+        "to": "baiter_1381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.9944097222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "42",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Dear Terry,\r\n\r\n   We have already provided you details to register an account and here is\r\nour website link below to know more about us.\r\n\r\n  Company Link:  website link https://specprofit.com\nBest Regards,"
+    },
+    {
+        "from": "baiter_1381",
+        "to": "scammer_1381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0031712962962962,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "43",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Hello Terry,\nThank you for providing the details to register an account. I appreciate it. Could you please share more information about your website and the services you offer? I would like to learn more about what you do.\nLooking forward to hearing from you soon.\n\nBest wishes,\nTerry"
+    },
+    {
+        "from": "scammer_1381",
+        "to": "baiter_1381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.114976851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "44",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "I would be happy to speak with you."
+    },
+    {
+        "from": "baiter_1381",
+        "to": "scammer_1381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.128449074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "45",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Hello! I'm glad you're interested in speaking with me. What information would you like to share?\n\nBest wishes,\nTerry"
+    },
+    {
+        "from": "scammer_1381",
+        "to": "baiter_1381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.2547916666666667,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "46",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Dear Terry,\r\n\r\n   Provide us your whatspp number for further discussion.\nBest Regards,"
+    },
+    {
+        "from": "baiter_1381",
+        "to": "scammer_1381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.273275462962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "47",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Hello! Thank you for reaching out. May I ask why you need my WhatsApp number?\n\nBest wishes,\nTerry"
+    },
+    {
+        "from": "scammer_1381",
+        "to": "baiter_1381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.2861805555555557,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "48",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Dear Terry,\r\n\r\n   I need your whatspp number so we can talk further."
+    },
+    {
+        "from": "baiter_1381",
+        "to": "scammer_1381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2949305555555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "49",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Hello! I'm happy to chat here. What do you need to discuss further?\n\nBest wishes,\nTerry"
+    },
+    {
+        "from": "scammer_1381",
+        "to": "baiter_1381",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.296712962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "50",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Dear Terry,\r\n\r\n      Kindly follow instructions to register an account to enable us\r\nproceed transfer the Grant Cash to you.\nBest Regards,"
+    },
+    {
+        "from": "baiter_1381",
+        "to": "scammer_1381",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.3149305555555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "51",
+        "subject": "Re: CONGRATULATIONS to you today",
+        "body": "Hello! That sounds interesting. Can you please provide more details about the grant cash transfer? I'd like to know more about how it works.\n\nBest wishes,\nTerry"
+    }
+]

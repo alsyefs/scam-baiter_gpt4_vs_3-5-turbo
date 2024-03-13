@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1930",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Customer,",
+        "body": "  Dear Customer,\nI have some questions to you,  please have you received your fund? You have suffered for nothing without receiving your fund due to over greediness of our bank Director that led for his sacking. You would have received your fund since your last payment but your problem is over greediness of your representative that cost you a lot of money and still yet, you have never received $1 into your account.\nYour total money, US$10,500 000.00, has been deposited with the bank department, this is very secret information and I’m expecting your urgent response before I can give you more details and the direct contact information of the bank. There are two directors that wanted to divert your payment to another bank, you are just paying all the money as charges for nothing.\nListen very carefully, I’m giving you this information secretly and I want you to keep it very secret. If you have received your money US$10,500 000.00, let me know but if you did not receive your fund, reply me through email urgently.\nI am waiting for your response to this email address: \ninfo.zenithdirect01@gmail.com\nThanks!\nJoseph Miller   "
+    },
+    {
+        "from": "baiter_1930",
+        "to": "scammer_1930",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Customer,",
+        "body": "Dear Joseph Miller,\n\nThank you for reaching out to me. I appreciate your concern regarding my fund. However, I have a few questions before we proceed further.\n\nFirstly, could you please provide more details about the bank and its directors? It would be helpful to know their names and positions within the bank.\n\nSecondly, what exactly do you mean by \"diverting\" my payment to another bank? Could you explain why they would want to do that?\n\nLastly, I understand that there have been charges involved in the process so far. Could you clarify what these charges are for and why they have been necessary?\n\nI look forward to your response and appreciate your assistance in this matter.\n\nBest wishes,\nChristina"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2448",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention Sir,",
+        "body": "  Attention Sir,\nMy name is Olawale Edun, the Finance Minister to the Government of the Federation, Federal Republic of Nigeria. I wish to notify you that instruction has been given to me by the President of Nigeria His Excellency Bola Ahmed Tinubu to make sure that all pending foreign beneficiaries funds are paid within twenty one (21) days from today.\nSo if you are yet to receive your payment, this is an opportunity for you to do so because we have just 21 days to effect all pending transfers as before the expiration of the mandate given by the president.\nOn this note, this development came on based on the complaints from some foreign beneficiaries that the commercial banks assigned by the government to pay them were unable to do that, instead, they keep asking for payments after payment without results.\nHowever, you are advised to forward your receiving bank information and every relevant document issued to you in regards to your payment, and this needs to be done urgently as I will personally contact your bank to notify them of the transfer.\nIf you are dealing with anyone in this regard, I will advise you to stop immediately because they are your problem.\nI await your response for further proceedings.\nThanks,\nYours Sincerely,\nOlawale Edun\nMinister of Finance, Budget and National Planning\nFederal Republic of Nigeria   "
+    },
+    {
+        "from": "baiter_2448",
+        "to": "scammer_2448",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention Sir,",
+        "body": "Hello Mr. Olawale Edun,\n\nThank you for reaching out to me. I'm quite surprised to hear about this pending payment, as I wasn't aware of any such transaction. However, your message has certainly piqued my interest.\n\nCould you please provide more details about this payment? For instance, what is the exact amount that is supposed to be transferred? And why was it not transferred earlier?\n\nAlso, could you clarify what documents are needed from my side? You mentioned \"every relevant document\", but I'm not sure what exactly these would be.\n\nI look forward to hearing back from you with more information.\n\nBest wishes,\nGary"
+    }
+]

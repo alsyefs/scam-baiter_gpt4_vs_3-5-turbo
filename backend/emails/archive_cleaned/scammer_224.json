@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_224",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello Beneficiary,",
+        "body": "Hello Beneficiary,\nYour payment file came to our office with authorized approval from the\nAfrica Development Bank to pay your fund via Bitcoin wallet account.\nAs a result of failures from bank international wire transfers,\ndiplomatic system delivery, online banking transfer etc. they mandated\nthat all the affected scam victims  who have not received their funds\nshall be compensated. The total sum US$1,450,000.00 has been approved\nto your name and you shall receive it through a Bitcoin Wallet\naccount.  You will receive your fund without any problem or blockage.\nWe advise you to re-confirm your information to verify it properly.\n1. \nA copy of your passport\n2. Your current home address\n3. Your private telephone number\n4. Forward to us the previous payment receipts you made to the scammers.\nRe-confirm your information to the Payment Unit\nemail:bank_africa12@yahoo.com\nWe await your response with your information to enable us to submit it\nto the reimbursement officer.\nYOURS IN SERVICE!\nThomas White\nIMF Representative\nBenin Republic"
+    },
+    {
+        "from": "baiter_224",
+        "to": "scammer_224",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello Beneficiary,",
+        "body": "Hello Thomas White,\n\nThank you for reaching out to me. It's quite surprising to hear about this payment file from the Africa Bank. I must admit, I'm not very familiar with Bitcoin wallet accounts. Could you please explain how it works? \n\nAlso, could you provide more details about these \"affected scam victims\"? How did the bank determine who was affected? \n\nI'm a bit confused about the information you're asking for. You mentioned needing a copy of my passport, my home address, and my private telephone number. However, I've been advised not to share personal information online for security reasons.\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nTimothy"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "from": "scammer_1270",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Customers Service Hours--Monda",
+        "body": "Customers Service Hours--Monday to Saturday:\n    Dear Customer,\n    This is FedEx courier Delivery Company of Nigeria, the management of this\n    company, wishes to inform you that, we received a parcel containing an ATM\n    Master Card valued $2.5million USD with some vital documents attached on it,\n    for safety delivery to your residential address in your country.\n    This parcel was brought to us this morning by the ATM Card payment office\n    Nigeria, with the below information’s, \nplease reconfirm the below\n    information, to avoid delivery of your ATM Master Card to wrong hand.\n    Full names............\n    Parcel owner address......\n    Country/State........\n    Occupation...........\n \n Passport/Driving License\n    Tel...........\n    We will register your package and send you the tracking numbers before we\n    proceed for safety delivery of your package as soon as you reconfirm the\n    required information for safety delivery.\n    FedEx is one of the world's great success stories, the start-up that\n    revolutionized the delivery of packages and information. In the past 33\n    years, we've grown up and grown into a diverse family of companies as FedEx\n    that's bigger, stronger, better than ever.\n    Waiting to read your\ne-mail  \njjfff4522@gmail.com\n     Yours affectionately.\n    Mr. Onyx perry.\n    Dispatch Manager FedEx Courier\n    for the Ikeja branch manager\n    FedEx Express Service Lagos -Nigeria."
+    },
+    {
+        "from": "baiter_1270",
+        "to": "scammer_1270",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Customers Service Hours--Monda",
+        "body": "Hello! Thank you for reaching out to me. I appreciate the information about the delivery of the ATM Master Card. Could you please provide more details on how I can confirm my information for the safe delivery of the parcel?\n\nBest wishes,\nMaryann"
+    },
+    {
+        "from": "scammer_1270",
+        "to": "baiter_1270",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "MESSAGE Maryann",
+        "body": "thanks for your message, send your details\r\nto enable me start process the atm card.\r\ni need your details as soon as possible.\r\n\r\nyour name..........................\r\n\r\nyour address.............................\r\n\r\ncell phone..................................\r\n\r\nJEFFY."
+    },
+    {
+        "from": "scammer_1270",
+        "to": "baiter_1270",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0010185185185185184,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "DEAR Maryann",
+        "body": "DEAR  Maryann\r\n\r\nthanks for your message, send your details\r\nto enable me start process the atm card.\r\ni need your details as soon as possible.\r\n\r\nyour name..........................\r\n\r\nyour address.............................\r\n\r\ncell phone..................................\r\n\r\nJEFFY."
+    },
+    {
+        "from": "baiter_1270",
+        "to": "scammer_1270",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.012303240740740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: DEAR Maryann",
+        "body": "Hello Jeffy, thank you for reaching out. I would be happy to provide my details for the ATM card process. Could you please let me know what information you need specifically? Looking forward to your response.\n\nBest wishes,\nMaryann"
+    },
+    {
+        "from": "baiter_1270",
+        "to": "scammer_1270",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.012326388888888888,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: MESSAGE Maryann",
+        "body": "Hello Jeffy, thank you for reaching out. I'd be happy to provide my details for the ATM card process. Could you please let me know what specific information you need from me? Feel free to ask any questions you may have.\n\nBest wishes,\nMaryann"
+    },
+    {
+        "from": "scammer_1270",
+        "to": "baiter_1270",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.7314583333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: MESSAGE Maryann",
+        "body": "thanks the message ,i looking fwior your information\r\nto proceed the atm card.\r\n you will  not pay any money\r\non this process, but only  money you will  pay is postage fee\r\nof the atm card.\r\n\r\n\r\n\r\nsend your address and your full name......."
+    },
+    {
+        "from": "baiter_1270",
+        "to": "scammer_1270",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.742349537037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: MESSAGE Maryann",
+        "body": "Hello! Thank you for the information about the ATM card. Could you please provide more details about how I can proceed with receiving it? What is the next step after providing my address and full name?\n\nBest wishes,\nMaryann"
+    },
+    {
+        "from": "baiter_1270",
+        "to": "scammer_1270",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.742511574074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: MESSAGE Maryann",
+        "body": "Hello! Thank you for reaching out. I appreciate the information about the ATM card process. Could you please provide more details on how to proceed and what the next steps are? I'm interested in learning more about the postage fee for the card delivery.\n\nBest wishes,\nMaryann"
+    },
+    {
+        "from": "scammer_1270",
+        "to": "baiter_1270",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.2983564814814814,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: MESSAGE Maryann",
+        "body": "THE ATM CARD PAYMENT CENTER HAS BEEN MANDATED TO ISSUE OUT YOUR\r\n    PAYMENT AND YOU HAVE TO STOP ANY FURTHER COMMINUCATION WITH ANY OTHER\r\n    PERSON(S)OROFFICE(s) TO AVOID ANY HITCHES IN RECEIVING YOUR\r\n    PAYMENT.NOTE THAT BECAUSE OF IMPOSTORS, WE HEREBY ISSUED YOU OUR CODE\r\n    OF CONDUCT,WHICH IS (ATM-0411) SO YOU HAVETO INDICATE THIS CODE WHEN\r\n    CONTACTING THE CARD CENTER BY USING IT AS YOUR SUBJECT.\r\n\r\n\r\n    you will receive atm card worth of $3.5m only.\r\n\r\n\r\n\r\n    WE HAVE ARRANGED YOUR PAYMENT THROUGH SWIFT CARD PAYMENT CENTER ASIA\r\n    PACIFIC,THIS CARD CENTER WILL SEND YOU AN ATM CARD WHICH YOU WILL USE\r\n    TO WITHDRAW YOUR MONEY IN ANY ATM MACHINE IN ANY PART OF THE WORLD, BUT\r\n    THE MAXIMUM IS ONE THOUSAND, FIVE HUNDRED UNITED STATES DOLLARS PER\r\n    DAY.\r\n    KINDLY CONTACT THE BELOW PERSON WHO IS IN POSSITION TO RELEASE YOUR ATM\r\n    PAYMENT CARD WITH YOUR FOLLOWING INFORMATIONS:\r\n\r\n    1.YOUR MOBILE NUMBER, HOME PHONE AND FAX NUMBER,\r\n    2.YOUR ADDRESS WERE YOU WANT THEM TO SEND THE ATM CARD\r\n    TO (P.O BOX NOT ACCEPTABLE)\r\n    3. YOUR AGE AND CURRENT OCCUPATION\r\n    4.YOUR Home Equity {YES OR NO}."
+    },
+    {
+        "from": "baiter_1270",
+        "to": "scammer_1270",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.3040046296296297,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: MESSAGE Maryann",
+        "body": "Hello! Thank you for sharing this information with me. Could you please provide more details about how the ATM card payment process works? How secure is it to withdraw money from any ATM machine worldwide using the card provided?\n\nBest wishes,\nMaryann"
+    },
+    {
+        "from": "baiter_1270",
+        "to": "scammer_1270",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.304050925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: MESSAGE Maryann",
+        "body": "Hello! Thank you for sharing this information with me. Could you please provide more details about how the ATM card payment process works? How secure is it to withdraw money from any ATM machine worldwide using this card?\n\nBest wishes,\nMaryann"
+    },
+    {
+        "from": "scammer_1270",
+        "to": "baiter_1270",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.8598958333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: MESSAGE Maryann",
+        "body": "i said you should send me the details\r\nlet me start  the job"
+    },
+    {
+        "from": "baiter_1270",
+        "to": "scammer_1270",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.8675462962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: MESSAGE Maryann",
+        "body": "Hello! I'd be happy to share more details with you. Could you please let me know what specific information you are looking for regarding the job?\n\nBest wishes,\nMaryann"
+    },
+    {
+        "from": "scammer_1270",
+        "to": "baiter_1270",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.9078125,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: MESSAGE Maryann",
+        "body": "I NEED YOUR FULL NAME ............................\r\n\r\nYOUR ADDRESS...................................\r\n\r\nYOUR PHONE NUMBER................................\r\n\r\nTHIS IS ONLY DETAILS I NEED."
+    },
+    {
+        "from": "baiter_1270",
+        "to": "scammer_1270",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.908888888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: MESSAGE Maryann",
+        "body": "Hello! I'm happy to help. Can you please provide more information about why you need my full name and phone number?\n\nBest wishes,\nMaryann"
+    }
+]

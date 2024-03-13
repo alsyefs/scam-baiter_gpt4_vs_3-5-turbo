@@ -1,0 +1,142 @@
+[
+    {
+        "from": "scammer_2340",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Just dropping you a note as a ",
+        "body": "Just dropping you a note as a financial professional.\nWe were the inventor of Small Caps and we are still the best!\nAs you  know genuine Small Caps are hard to find,  and most are only on offer to institutional investors.   \nWe have a proven track record,  have many happy clients and are ready to accept more applications.\nThe details of our offer at present is as follows.\n      40-40 program      $40,000 invested earns 40% per month for 12 month\n      30-30 program      $30,000 invested earns 30% per month for 12 month\n      20-20 program      $20,000 invested earns 20% per month for 12 month\nApplicants do not need the KYC documents as we consolidate a number of investors into one portfolio that is then traded by one of the largest trading organisations in the world.\nFor introducers we have a generous referral program.\nJim Holley\nPromoter"
+    },
+    {
+        "from": "baiter_2340",
+        "to": "scammer_2340",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Just dropping you a note as a ",
+        "body": "Hello Jim Holley,\n\nThank you for reaching out and sharing this information about Small Caps. It's fascinating to hear that you were the inventors of it! I'm curious, how did you come up with such an innovative idea?\n\nYou mentioned that most Small Caps are only on offer to investors. Could you elaborate more on why that is? Also, could you provide some examples of the happy clients you've worked with? \n\nI'm intrigued by your referral program as well. Could you tell me more about it? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nGretchen"
+    },
+    {
+        "from": "scammer_2340",
+        "to": "baiter_2340",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Just dropping you a note as a",
+        "body": "Yes,  i will provide you the IM for you to use and forward as you desire.\r\n\r\nWe pay you 10% of what your clients earn,   pretty generous I am sure you\r\nwould agree.\r\n\r\nBut please,   a lot of broker say they want to be registered as\r\nintroducers,  but the only clients they have is other brokers who then\r\nrefer them to me... I don't have time for that,  if you have real clients,\r\nlet me know and I will register you as an intermediary.\r\n\r\n\nJim Holley"
+    },
+    {
+        "from": "baiter_2340",
+        "to": "scammer_2340",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0024537037037037036,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Just dropping you a note as a",
+        "body": "Hello Jim Holley,\n\nThank you for your message. It sounds like an interesting opportunity! I'm curious to know more about it. Could you please explain a bit more about how the process works? And what kind of clients are you looking for exactly?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nGretchen"
+    },
+    {
+        "from": "scammer_2340",
+        "to": "baiter_2340",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.583287037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Just dropping you a note as a",
+        "body": "Sir\r\nAs the IM sets out,   this is a small cap,  the participants pool their\r\nfunds and we have an internal trader that trades them.\r\n\r\nTo qualify we all send our funds to a paymaster and then he opens the\r\ntrading account.\r\n\r\nWe have been doing this since 2006.    I can provide referees for genuine\r\npeople.\r\n\r\nWe can combine up to 50k for 50% per month.\r\n\r\nYou earn 10% on top of what the clients earn.\r\n\r\nThe applications must be on the form I have attached.\nRegards\r\nJim\r\n\r\nJim Holley"
+    },
+    {
+        "from": "baiter_2340",
+        "to": "scammer_2340",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.585787037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Just dropping you a note as a",
+        "body": "Hello Jim,\n\nThank you for your detailed explanation. It sounds like an interesting system. I'm curious, how does the internal trader decide on which trades to make? And could you please elaborate more on the role of the paymaster in this process?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nGretchen"
+    },
+    {
+        "from": "scammer_2340",
+        "to": "baiter_2340",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.7152083333333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Just dropping you a note as a",
+        "body": "The trader is one of the largest in the world. They do a lot of trades and\r\nhave an 83% win to loss ratio.\r\nA lot of it is auto trading these days,  as well as trading between\r\ncurrencies and metals and cfds.\r\n\r\nThe paymaster receives the funds,  puts them together into a parcel big\r\nenough for the trader to accept as traders cannot accept 20-50k/.\r\n\nJim\r\n\r\nJim Holley"
+    },
+    {
+        "from": "baiter_2340",
+        "to": "scammer_2340",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7309143518518518,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Just dropping you a note as a",
+        "body": "Hello Jim,\n\nWow, that sounds really interesting! I didn't know that traders could be so versatile in their dealings. It's fascinating to learn about the different types of trading they engage in. \n\nYou mentioned auto trading, could you tell me more about how that works? And what exactly are cfds? \n\nAlso, I'm curious about the role of a paymaster. How do they gather funds and why can't traders accept smaller parcels?\n\nLooking forward to your response!\n\nBest wishes,\nGretchen"
+    },
+    {
+        "from": "scammer_2340",
+        "to": "baiter_2340",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.7720949074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Just dropping you a note as a",
+        "body": "To have a trading account,  anywhere,  you must demonstrate some experience\r\nin trading.. that is the law.   So most people cannot open one.   You need\r\nat least 2 years trading experience.\r\n\r\nSo,  what we do is used the International Offshore Paymaster,   who has a\r\ntrading account.\r\n\r\nIf you put in 50k tomorrow,   for example,   you would pay it to them.\r\nThey hold it into trust and then put them together into a trading\r\nfacility.\r\n\r\nCFDs are a trading Certificate for Difference,    common for trading,  as\r\nmuch as currencies and metals.\r\n\r\nDo you have any real clients who would be interested?\r\n\nJim Holley"
+    },
+    {
+        "from": "baiter_2340",
+        "to": "scammer_2340",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7725694444444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Just dropping you a note as a",
+        "body": "Hello Jim Holley,\n\nThank you for your detailed explanation. It's interesting to learn about the role of an Offshore Paymaster and how they facilitate trading. I'm curious, though, how does this process ensure the security of the funds? And could you please elaborate more on what you mean by \"trading facility\"?\n\nAlso, it's fascinating that common goods are traded as much as currencies and metals. Could you provide some examples of these common goods?\n\nLastly, regarding your question about real clients, I'm afraid I don't have any at the moment. However, I'm always eager to learn more about different industries and processes.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nGretchen"
+    },
+    {
+        "from": "scammer_2340",
+        "to": "baiter_2340",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.9856134259259259,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Just dropping you a note as a",
+        "body": "I am spending a lot of time if you dont have any clients...\r\n\r\nIt is not my job to educate you in these matters.\r\n\r\nIt was addressed to you as a financial professional.   Are you?\r\n\nJim Holley"
+    },
+    {
+        "from": "baiter_2340",
+        "to": "scammer_2340",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0029050925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: Just dropping you a note as a",
+        "body": "Hello Jim Holley,\n\nThank you for reaching out. I'm not a financial expert, but I do enjoy learning about different topics. Could you please elaborate more on what you mean by \"spending a lot of time if you don't have any clients\"? I'm interested to know more about this. \n\nAlso, when you mentioned \"it is not my job to educate you in these matters\", were you referring to a specific subject? I'd love to hear more about your expertise and learn from it.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nGretchen"
+    },
+    {
+        "from": "scammer_2340",
+        "to": "baiter_2340",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.1218171296296295,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: Just dropping you a note as a",
+        "body": "go to college and get a degree in finance.\r\n\r\nBye\r\n\nJim Holley"
+    },
+    {
+        "from": "baiter_2340",
+        "to": "scammer_2340",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.128252314814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: Just dropping you a note as a",
+        "body": "Hello Jim Holley,\n\nThank you for your advice. I've always thought about going to college and studying finance, it seems like a fascinating field. Can you tell me more about what studying finance involves? What kind of subjects would I be learning?\n\nLooking forward to hearing from you!\n\nBest wishes,\nGretchen"
+    }
+]

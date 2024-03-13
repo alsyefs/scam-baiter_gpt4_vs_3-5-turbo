@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1871",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Friend,",
+        "body": "  Dear Friend,\nGood Day and compliment of the season. I hope this message meets you in\ngood health. It has been a very long time. I'm happy to inform you about my\nsuccess in getting the fund transferred under the cooperation of a new\npartner from London . Presently I’m in London for investment projects with\nmy own share of the total sum.\nMeanwhile, I didn't forget your past efforts and attempts to assist us in\ntransferring those funds despite the fact that it failed us somehow. Now contact my\nsecretary, her name is Mrs. Nancy Henshew ask her to send you the total US\n$1,500.000.00, which I kept for your compensation for all the past efforts\nand attempts to assist me in this matter. I appreciated your efforts at\nthat time very much. So feel free and get in touch with my secretary Mrs.\nNancy Henshew with your information and instruct her where to send the\namount to you. Below is her email address contact:\nName: Mrs. Nancy Henshew\nEmail Address:  \nnancy_henshew@yahoo.com\nPlease do let me know immediately you receive it so that we can share the\njoy after all the suffering at that time. At the moment, I am very busy\nhere because of the investment projects which I and the new partner are\nhaving at hand. Finally, remember that I had forwarded instruction to my\nsecretary on your behalf to receive that money, so feel free to get in\ntouch with Mrs. Nancy Henshew and she will send the amount to you without\nany delay. I wait to hear from you ASAP notifying me if you have received\nyour draft from her.\nWith best regards\nMr. James Eke.   "
+    },
+    {
+        "from": "baiter_1871",
+        "to": "scammer_1871",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Friend,",
+        "body": "Hello Mr. James Eke,\n\nI hope this message finds you well. It's been a while indeed! I'm glad to hear about your success with the fund and your new investment projects in London. That sounds very exciting!\n\nIt's very kind of you to remember my past efforts, even though they didn't quite pan out as we had hoped. I appreciate your thoughtfulness.\n\nI will get in touch with Mrs. Nancy Henshew as per your instructions. Just to clarify, is there any specific information she might need from me? Also, could you please tell me more about the draft that she will be sending?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMalcolm"
+    }
+]

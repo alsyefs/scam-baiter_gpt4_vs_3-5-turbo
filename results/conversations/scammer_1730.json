@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_1730",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Your long awaited part payment",
+        "body": "Your long awaited part payment of $I5,500,000.00 USD (FIFTEEN MILLION FIVE Hundred Thousand United State Dollars) is ready for immediate release to you, and it was electronically credited into an ATM Visa Card for easy delivery. EMAIL: REPLY TO: \nmrjimgeorge9@gmail.com\nYour new Payment Reference No.- 6363836,\nPassword No: 006786,\nPin Code No: 1787\nYour Certificate of Merit Payment No: 05872,\nReleased Code No: 1134;\nImmediate Telex confirmation No:- 043612;\nSecret Code No: TBKTA28\nRe-Confirm;\nYour Names: |Address: |Cell Phone: |Fax: | Home Address:\n | Your immediate response is needed\nPerson to Contact: Mr.Jim George the Director of the International Audit unit ATM Payment Center,\nEMAIL: REPLY TO: \nmrjimgeorge9@gmail.com\nYour swift response will enhance our service, thanks for your co-operation;\nRegards.\nMr.Jim George"
+    },
+    {
+        "from": "baiter_1730",
+        "to": "scammer_1730",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Your long awaited part payment",
+        "body": "Hello George,\n\nThank you for reaching out to me. I'm glad to hear that my part payment of USD FIFTEEN MILLION FIVE Hundred Thousand United State Dollars is ready for release. That's quite a significant amount!\n\nI would appreciate it if you could provide me with more details about the process of receiving this payment. How does the ATM Visa Card delivery work? Are there any fees or charges associated with it? Also, could you please clarify what my new Payment Reference No. is?\n\nI look forward to your prompt response.\n\nBest wishes,\nIrma"
+    },
+    {
+        "from": "scammer_1730",
+        "to": "baiter_1730",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Your long awaited part payment",
+        "body": "*Dear   Irma *\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*, Thanks for your responses 2/9/2023. Please reconfirm the following\r\ndetails . 1. NAMES IN FULL: 2. ADDRESS: 3. NATIONALITY: 4. AGE: 5.\r\nOCCUPATION: 6. PHONE/FAX: 7. PRESENT COUNTRY: 8. Copy of your international\r\n passport or driver's  license, Upon  your compliance , we shall proceed\r\nquickly. Your swift response will enhance our service, thanks for your\r\nco-operation; *\r\n*Regards.*\r\n\r\n\r\n\r\n* Mr.Jim George , ATM Philippine processing Unit. 24 hours of service.*"
+    },
+    {
+        "from": "baiter_1730",
+        "to": "scammer_1730",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00030092592592592595,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Your long awaited part payment",
+        "body": "Dear George ATM Philippine processing Unit,\n\nThank you for reaching out to me. I appreciate your willingness to assist me. However, before I provide any personal information, I would like to know more about the purpose of this request.\n\nCould you please explain why you need my full name, address, age, and passport or driver's license? What is the purpose of this processing unit and how does it relate to ATM services?\n\nI look forward to your response.\n\nBest wishes,\nIrma"
+    },
+    {
+        "from": "scammer_1730",
+        "to": "baiter_1730",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.0083101851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Your long awaited part payment",
+        "body": "*Dear   Irma *\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*, Thanks for your responses 2/12/2024. Please reconfirm the following\r\ndetails . 1. NAMES IN FULL: 2. ADDRESS: 3. NATIONALITY: 4. AGE: 5.\r\nOCCUPATION: 6. PHONE/FAX: 7. PRESENT COUNTRY: 8. Copy of your international\r\n passport or driver's  license, Upon  your compliance , we shall proceed\r\nquickly. Your swift response will enhance our service, thanks for your\r\nco-operation; *\r\n*Regards.*\r\n\r\n\r\n\r\n* Mr.Jim George , ATM Philippine processing Unit. 24 hours of service.*"
+    },
+    {
+        "from": "baiter_1730",
+        "to": "scammer_1730",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.673819444444445,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Your long awaited part payment",
+        "body": "Dear George ATM Philippine processing Unit,\n\nThank you for reaching out to me. I appreciate your prompt response. Before I proceed, could you please provide me with more information about the purpose of this request? What exactly do you need my full name, address, age, and passport or driver's license for? \n\nI just want to make sure that I understand the purpose and ensure that my personal information is being handled securely. Once I have a better understanding, I will be able to provide you with the necessary details.\n\nLooking forward to your reply.\n\nBest wishes,\nIrma"
+    }
+]

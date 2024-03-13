@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1600",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear friend,",
+        "body": "  Dear friend,\nDon't bother about any expenses whatsoever, i will absolutely take\ncare of any upfront fees for this project because I don't want\nanything suspicious from you.\nOn enquiry, I was told by the handling Agency that I will cost me the\nsum of $1000 as the only \"handling-Charges\" for the sum of $1.5Million\nto be brought successfully to your city for my investment in property.\nActually, I have concluded my plans beforehand to forward you the sum\nof $1000 in cash via usps courier service to you before anything\nstarts. Upon receipt of the $1000 cash, you will keep it till the\nagency will direct you on where to send it for settlement of all\nrequirements before bringing in the main sum of $1.5Million to you.\nMy compensation goes like this, once the $1.5Million gets to your\naddress, you'll be required to take $300k as my appreciation for a job\nwell done when you  keep $1.2Million aside for me,  - Actually, my\nwife and I will make a trip to meet you this Christmas for buying a\nproperty in your city where we'll retire. We've worked in Europe for\n35 years where this $1.5Million savings came from and we want to use\nit properly as our retirement fund.  Can I trust you on this?\nI remain obidient while waiting to hear back from you soon,\nRgds,\nPhillips Williams.   "
+    },
+    {
+        "from": "baiter_1600",
+        "to": "scammer_1600",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear friend,",
+        "body": "Hello Phillips Williams,\n\nThank you for reaching out and sharing your plans with me. It sounds like you have a well-thought-out plan for your retirement, which is admirable. I'm glad to hear that you're considering my city as a potential place to settle down.\n\nHowever, I do have a few questions about the process you've outlined. You mentioned sending me cash via USPS courier service - could you explain why this method was chosen? Also, could you provide more details about the agency that will be directing me on where to send the money?\n\nI'm also curious about the property market in my city that has caught your interest. Have you already identified some potential properties or are you still in the early stages of research?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDiana"
+    }
+]

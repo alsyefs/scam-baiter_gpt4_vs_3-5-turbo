@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1036",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  DRC Congo Project (Kindly vi",
+        "body": "  DRC Congo Project (Kindly view attached file and get back me)  "
+    },
+    {
+        "from": "baiter_1036",
+        "to": "scammer_1036",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   DRC Congo Project (Kindly vi",
+        "body": "Hello there,\n\nThank you for reaching out and sharing this information about the DRC Congo Project. I've taken a look at the attached file, it's quite interesting indeed.\n\nCould you please provide more details about this project? What is its main objective and how does it aim to achieve it? Also, I'm curious to know who are the key people involved in this project?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLarry"
+    }
+]

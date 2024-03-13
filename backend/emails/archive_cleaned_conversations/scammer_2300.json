@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_2300",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  FROM MR. Alban Sumana Kingsf",
+        "body": "  FROM MR. Alban Sumana Kingsford Bagbin\nHouse Of Parliament Speaker and\nScam Victim Funds Settlement Committee\nChairman and Supervisor.\nAttention: Mr.Beneficiary,\nThis is to congratulate you for scaling through the hurdles of screening by the board of directors of this payment task\nforce. Your payment file was approved and the instruction was given to us to release your payment and activate your ATM\nMaster card for use.\nThe first batch of your card which contains US$950,000.00 Thousand United States Dollars has been activated and is the\ntotal fund loaded inside the card. Your fund which is in total UUS$950,000.00 Thousand United States Dollars. will come to\nyou.\nYour payment would be sent to you via DHL Because we have signed a contract with them which should expire by 2026. Below\nare a few lists of tracking numbers you can track from (DHL EXPRESS DELIVERY COMPANY) to confirm people like you who have\nreceived their payment successfully.\n(1) DHL Delivery Company cost fee is US$159 USD\nName: Marianne Oxener========7516821200\nName: Mary Garcia============7516821362\nName: Bianca Antunes ========7516821373\nName: Cathy Agnew ===========1666191660\nName: Sharon Gregg ==========1155804856\nName: Thanapha Johnson=======7516821373\nName: Edmond Fali ===========7516821373\nGood news, We wish to let you know that everything concerning your ATM MASTER CARD payment dispatch is ready in this office\nand we have a meeting with the house (Ghanaian Parliament house) we informed them That your fund should cost you only the\ndelivery fee of US$199 delivery and insurance of (Your Mastercard) Moreover, we have an agreement with them that you\nshould pay only for delivery of your Master card which is only $199 by DHL Delivering Company.\nPlease confirm your full information as stated below as these vital information will be sent to the Bank of Ghana for them\nto load your Universal Master card and then return back to this office for further delivery to the residential address you\nwill eventually provide this office.\n1) Your Name:.................\n2) Your Address:.................\n3) Your Telephone:..................\n4) Your Identification:.............\n5) Your Age:........................\n6) Your Occupation:.................\n7) Your Copy Of Scan Id:..........\nWe wait to hear from you very quickly as this office will go on break by the 20th of December and will only resume office\nby the new year 2024.So responding to this email very quickly will be well appreciated by this office.\nThank you and have a wonderful day.\nBest Regards\nMrs Victoria Nanaama Abbabio\nPersonal Secretary to\nThe House Speaker\nGhanaian Parliament House.\nNB.Every vital documentations including personal Identification cards will be sent to you as soon as we hear from you.   "
+    },
+    {
+        "from": "baiter_2300",
+        "to": "scammer_2300",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   FROM MR. Alban Sumana Kingsf",
+        "body": "Hello Mr. Alban Sumana Kingsford Bagbin,\n\nThank you for reaching out to me regarding the payment task force and the activation of my ATM Master card. I appreciate the update on the status of my funds.\n\nI am interested in proceeding with the delivery of my Master card via DHL Express Delivery Company. Could you please provide more details on how I can confirm and track the delivery using the tracking numbers you mentioned?\n\nAdditionally, I would like to know more about the process for providing my information for loading the Universal Master card. Could you clarify what specific details are required and how they will be used for this purpose?\n\nLooking forward to your prompt response so we can proceed accordingly.\n\nBest wishes,\nMax"
+    },
+    {
+        "from": "scammer_2300",
+        "to": "baiter_2300",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: FROM MR. Alban Sumana Kingsf",
+        "body": "Dear Mr.Max\r\nThanks for the email but we will still need you to send the following\r\ninformation below.\r\n1.Full names\r\n2.Residential address\r\n3,Telephone number\nRegards,"
+    },
+    {
+        "from": "baiter_2300",
+        "to": "scammer_2300",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.012152777777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: FROM MR. Alban Sumana Kingsf",
+        "body": "Hello! Thank you for reaching out. I'd be happy to provide that information. Before I do, could you please clarify why you need my names, address, and number? Just want to make sure I understand the purpose. Thanks!\n\nBest wishes,\nMax"
+    },
+    {
+        "from": "scammer_2300",
+        "to": "baiter_2300",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.02837962962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: FROM MR. Alban Sumana Kingsf",
+        "body": "Dear Max,\r\nThanks once again,the information needed from you will be sent to the\r\ncorrespondent bank were the compensation funds are presently deposited for\r\nthem to be able to contact you for the possible transfer of the funds to\r\nyour chosen nominated account."
+    },
+    {
+        "from": "baiter_2300",
+        "to": "scammer_2300",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.05357638888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: FROM MR. Alban Sumana Kingsf",
+        "body": "Hello! That sounds interesting. Can you tell me more about how the funds ended up being deposited in the bank? How did you come across this opportunity?\n\nBest wishes,\nMax"
+    }
+]

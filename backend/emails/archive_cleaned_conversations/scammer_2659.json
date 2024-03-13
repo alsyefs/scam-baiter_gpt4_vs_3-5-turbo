@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_2659",
+        "to": "baiter_2659",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "UPDATE FROM MRS. NATTA MILLER.",
+        "body": "*WORLD BANK HEADQUARTERS1818 H. ST NW # WASHINGTON D.C,DC 20433, UNITED\r\nSTATES/Attn: Brandon,*\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*During the course of our investigation, we have been able to recover so\r\nmuch money from these scam artists. The United Nations Anti-Crime\r\nCommission and the World Bank Auditors in conjunction with the\r\nInternational Monetary Fund (IMF) have ordered that the money recovered\r\nfrom the Scammers be shared among 100 Lucky people around the World for\r\ncompensation. You are therefore being compensated with the sum of\r\nUS$1,020,000.00 (One Million and Twenty Thousand United State\r\nDollars).Contact him now and forward the below details to him:1. Your Full\r\nName:2. Your Age:3. Occupation:4. Cell/Mobile Number:5. Complete\r\nAddress:Yours in Service.MRS. NATTA MILLER,(World Bank Compensation\r\nSettlement Department).*"
+    },
+    {
+        "from": "baiter_2659",
+        "to": "scammer_2659",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: UPDATE FROM MRS. NATTA MILLER.",
+        "body": "Hello there,\n\nWow, this is such an unexpected surprise! I can't believe I'm one of the lucky people chosen for this. It's really amazing what you all are doing, recovering money from those who don't use it rightfully and distributing it to others around the world.\n\nI'm curious though, how was I selected for this? And could you tell me more about how this process works? I'd love to understand more about it before proceeding further.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nBrandon"
+    },
+    {
+        "from": "scammer_2659",
+        "to": "baiter_2659",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0015625,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: UPDATE FROM MRS. NATTA MILLER.",
+        "body": "*Contact him now and forward the below details to him:1. Your Full Name:2.\r\nYour Age:3. Occupation:4. Cell/Mobile Number:5. Complete Address:*"
+    },
+    {
+        "from": "baiter_2659",
+        "to": "scammer_2659",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.021238425925925924,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: UPDATE FROM MRS. NATTA MILLER.",
+        "body": "Hello there! I'm so glad to hear from you. Could you please tell me more about why I need to contact this person? What is the purpose of sharing my full name with them?\n\nBest wishes,\nBrandon"
+    },
+    {
+        "from": "scammer_2659",
+        "to": "baiter_2659",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.2038310185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: UPDATE FROM MRS. NATTA MILLER.",
+        "body": "*YOUR DETAILS ARE NEEDED TO ENABLE US PROCESS YOUR COMPENSATION FUNDS AND\r\nRELEASE THE FUNDS TO YOU. FORWARD YOUR DETAILS IMMEDIATELY.*"
+    },
+    {
+        "from": "baiter_2659",
+        "to": "scammer_2659",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.20805555555555555,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: UPDATE FROM MRS. NATTA MILLER.",
+        "body": "Oh, hello there! I'm so excited to hear from you. Can you tell me more about these funds? How did I come to have them?\n\nBest wishes,\nBrandon"
+    }
+]

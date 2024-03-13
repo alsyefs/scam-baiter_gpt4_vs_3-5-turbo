@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_544",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention: Beneficiary,",
+        "body": "Attention: Beneficiary,\nI Am Mr. Tory Nixon. It is with great pleasure that i contact you today concerning your  benefits and compensation payment funds.\nAfter all payment resolution with United Nations(UN) officials,Federal Reserve Bank(FRB),CitBank,Bank Of America (BOA) and office of the Attorney General(AG), World Bank Organization (WB). it was discovered that your payment was among the approved disbursements,therefore,we at CALIFORNIA BANK AND TRUST(CB&T), has been given full clearance and authority to credit your bank account with your payment via; Cashier's Check, Swift Transfer,Debit Card or Online Banking System, depending on your choice to receive your payment, this will be done immediately your documents are verified.\nWe are therefore saddled with the obligation to convey your payment to your destination via any of the above mentioned payment option.\nKindly revert with speed for details to complete this payment process within a 72 banking hour time frame. E-mail: \ndellpacker01@gmail.com\nYours sincerely,\nMr. Tory Nixon."
+    },
+    {
+        "from": "baiter_544",
+        "to": "scammer_544",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attention: Beneficiary,",
+        "body": "Hello Mr. Tory Nixon,\n\nThank you for reaching out to me. I'm delighted to hear about the benefits and payment funds. It's quite a surprise! \n\nI'm curious, how was my name selected for this? And could you please provide more details about these benefits and payment funds? Also, I would like to know more about the process involved in receiving the payment.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nKenneth"
+    }
+]

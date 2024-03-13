@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1653",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  BARCLAYS BANK LONDON (UK)",
+        "body": "  BARCLAYS BANK LONDON (UK)\n1,CHURCHILL PLACE,\nLONDON E14 5HP.\nUNITED KINGDOM\nAttn Sir,\nRe: Your payment from Barclays Bank London\nBased on the disbursement agreement existing between our bank and the Central Bank of Nigeria, we have the privilege to inform you of existing US$3.5M accrued Interest payment from your fund credit on-hold with Barclays Bank London.\nIt is this amount therefore that we plan to release to you by Draft. The aim of the draft payment is to eliminate excess charges associated with transfer mode of payments.\nThe Draft is approved for Payment under two (2) Standard Collection Basis;\n(1) We have the honor to invite you to Our Bank Information Center at the bank premises in London to enable you pick the Draft with prove of ownership. Representatives not honored.\n(2) We can alternatively arrange to deposit your Draft with our Bank upon your intention to operate a Domiciliary Account Balance with us to enable us deposit your Draft in your own account name. On this particular arrangement, we shall forward to you our Account Registration Form to enable you fill the necessary information for the registration of your account with our bank.\nAfter your accounts approval and registration, you will be required to activate your Account Balance with a Minimum Cash Deposit to make your account operational to accommodate the volume of Draft since the Draft cannot be deposited on a Zero Account.\nThe Barclays Bank has a standing tradition of recognizing and protecting the privacy of its customers. The Bank maintains strict privacy policies to reasonably safeguard customer information from unauthorized intrusions. In other words, your account with us is safe and convenient as Deposit of cash and cheques are allowed.\nYou will receive a monthly statement from our bank regularly. All your Account information including an Barclays ATM Swift Card will be forwarded to you after the account registration to enable you access your Account from your location.\nWe will dispatch to you our Account Registration Form as soon as you make your intentions known to us in this option to enable you fill and return to us the FORM for proper documentation and approvals.\nWe shall decline to further communications with you on your failure or inability to respond positively to our instructions which may precipitate the expiration of your Draft, thereby making it prone to cancellation.\nIt is our sincere obligations to offer you our satisfactory services.\nFaithfully,\nMr. Andrew Morgan\nRemittance/Foreign Operation Manager.\nBarclays Bank London (UK)   "
+    },
+    {
+        "from": "baiter_1653",
+        "to": "scammer_1653",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   BARCLAYS BANK LONDON (UK)",
+        "body": "Hello Mr. Andrew Morgan,\n\nThank you for reaching out to me and providing such detailed information about the accrued interest payment from my fund credit with Barclays Bank London. I must say, this is quite a surprise!\n\nI'm curious about a few things though. Could you please explain more about the two Standard Collection Basis that the Draft is approved for? Also, how does the process of activating my Account Balance work?\n\nI appreciate your assurance regarding the privacy and safety of customer accounts at Barclays Bank. It's comforting to know that cash and cheque deposits are allowed.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nGraig"
+    },
+    {
+        "from": "scammer_1653",
+        "to": "baiter_1653",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: BARCLAYS BANK LONDON (UK)",
+        "body": "BARCLAYS BANK LONDON (UK)\r\n1,CHURCHILL PLACE,\r\nLONDON E14 5HP.\r\nUNITED KINGDOM\r\n\r\nAttn Sir,\r\n\r\n*Re: Your payment from Barclays Bank London*\r\nWe are in receipt of your message and questions on the two Standard\r\nCollection Basis that the Draft is approved.\r\n(1) We have the honor to invite you to Our Bank Information Center at the\r\nbank premises in London to enable you pick the Draft with yourself with\r\n prove of ownership. Representatives not honored. In this particular\r\nmethod, you will have to come to our office to pick up your payment draft\r\nin person.\r\n\r\n(2) We can alternatively arrange to deposit your Draft with our Bank upon\r\nyour intention to operate a Domiciliary Account Balance with us to enable\r\nus deposit your Draft in your own account name. On this particular\r\narrangement, we shall forward to you our Account registration Form to\r\nenable you fill the necessary information for the registration of your\r\naccount with our bank. In this, if you can not come down to our office to\r\npick up your payment draft, we can open an online account with us and we\r\nshall lodge your draft into your new online account\r\n\r\nAfter your accounts approval and registration, you will be required to\r\nactivate your new account with a minimum balance of £1,500.00 to make your\r\naccount operational to accommodate the volume of funds to be deposited in\r\nit since the Draft cannot be deposited in a Zero/non-operational account.\r\n\r\nHowever, the minimum deposit of £1,500.00 you will be required to deposit\r\nfor the activation of your new online account is also your money and will\r\nreflect in your new account soon the account is set up and activated and\r\nyou can withdraw this money (£1,500.00) from your new online account\r\nimmediately after the activation of your online account.\r\n\r\nYou will receive a monthly statement of your account from our bank\r\nregularly. All your Account information including an Barclays ATM Swift\r\nCard will be forwarded to you after the account registration to enable you\r\nto have full access to your Account from your location.\r\n\r\nPlease fill and return the form for us to be able to set up the new online\r\naccount for your payment and we shall direct you on how to send the\r\nactivation fee of £1,500.00 to activate your new account before we can\r\ndeposit your payment draft into your new online account.\r\n\r\nOnce your account is set up and activated and your payment draft deposited\r\nfor clearance, we shall give you our online access instruction for you to\r\nbe able to access your online account from the comfort of your house using\r\nyour computers, you can also withdraw money or transfer the funds in your\r\nonline account to any other account of your choice around the world via our\r\nonline banking system.\r\n\r\nIt is our sincere obligation to offer you our satisfactory services.\r\n\r\nFaithfully,\r\n\nMr.Andrew Morgan\r\nRemittance/Foreign Operation Manager.\r\nBarclays Bank London (UK)"
+    },
+    {
+        "from": "baiter_1653",
+        "to": "scammer_1653",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.171273148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: BARCLAYS BANK LONDON (UK)",
+        "body": "Hello Morgan,\n\nThank you for your detailed message. It's quite an interesting proposition you've presented here. I must admit, I'm not very familiar with banking procedures, especially when it comes to online accounts and drafts.\n\nCould you please explain a bit more about the process of setting up an online account? Also, what exactly does activating an account entail? \n\nYou mentioned a minimum deposit for activation. Is this a standard procedure for all new accounts or is it specific to my case?\n\nI'm also curious about the Barclays ATM Swift Card. How does that work and what are its benefits?\n\nI appreciate your patience in answering my questions.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nGraig"
+    }
+]

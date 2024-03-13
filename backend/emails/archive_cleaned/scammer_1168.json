@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1168",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Good Day",
+        "body": "  Good Day\nThis is to bring to your notifications that after a meeting with the board and management of the central bank , IMF, ministry of finance which has agreed on releasing your fund through ATM CARD which the above mentioned offices has given a green light for the release of your fund by ATM CARD through the NIGERIAN POST OFFICE in respect of the dispatch manager MR CHRIS OBI whom has been verified to carry out this task to effect the delivery of your ATM CARD to your home address, so you are herby advise to contact MR CHRIS OBI for the delivery of your card.\nNote... that after the meeting, all the above body agrees that you are to pay only the sum of $50 for the delivery expenses without any further delays or interceptions.\nCONTACT INFORMATION......\nNames:...Mr Chris Obi\nEmail......infousbas@gmail.com\nYours truly,\nMr Oliver Alawuba\nManaging Director\nUnited bank for Africa. (U.B.A)   "
+    },
+    {
+        "from": "baiter_1168",
+        "to": "scammer_1168",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Good Day",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding the release of my fund through an ATM card. It's good to know that the central bank, IMF, and ministry of finance have given their approval for this process.\n\nCould you please provide me with more details about how I can contact Mr. Chris Obi? I would like to ensure that everything is in order before proceeding with the delivery of the ATM card.\n\nAdditionally, could you clarify what expenses are involved in this process? I want to make sure I have a clear understanding of any costs associated with the delivery.\n\nBest wishes,\nMichael"
+    }
+]

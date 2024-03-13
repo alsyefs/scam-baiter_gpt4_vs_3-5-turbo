@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2030",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear  Beneficiary Of Funds",
+        "body": "Dear  Beneficiary Of Funds\nThis is to inform you that your unpaid inheritance money and the United Nation (UN) compensation funds which have stood in the balance $15.5Million for so many years has been directed to be released to you without further delay.\nYou were contacted because your name was shortlisted as one of those yet to be paid off. We were mandated to carry out this duty, due to various complains/petitions received  from beneficiaries concerning delays in receiving their payment\nBefore we proceed, you are advised to respond to this email with your details that will enable speedy release of your fund. Meanwhile, we will be opening an offshore Non-Resident online bank account here in this bank in your name where the fund will be deposited and all the information for you to be able to access your newly offshore online bank account will be forwarded to you to enable you login and start making transfer from your offshore online account to any bank account of your choice. Also you can personally transfer your funds from your online bank account to your Bitcoin Account as easy as possible.\nBut you must send the following information which is to be used to start the process immediately when you receive this message.\n1). Your Full Names\n2). Your Address\n3). Your Telephone numbers/Mobile\n4). Your Occupations\n5). Your date of birth. Day, Month and Year\n6). Your Photo Passport \nYour Quick Response Will be appreciated \nSincerely Yours\nMs. April Talintyre\nFinancial Officer"
+    },
+    {
+        "from": "baiter_2030",
+        "to": "scammer_2030",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear  Beneficiary Of Funds",
+        "body": "Hello Ms. April Talintyre,\n\nThank you for reaching out to me about this matter. I must say, it's quite a surprise to hear that there are funds waiting for me! I'm curious though, how did my name come up as one of those yet to be paid off? \n\nAlso, could you please explain more about the offshore online bank account? It sounds interesting but I'm not very familiar with these things. How does it work exactly?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nThomas"
+    }
+]

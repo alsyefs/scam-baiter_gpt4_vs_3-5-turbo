@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1926",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "NATWEST BANK PLC LONDON",
+        "body": "NATWEST BANK PLC LONDON\n10 Southwark Street ,\nLondon Bridge , London - UK\nSE1 1TT\nRC: 121878\nOur Ref: NTB/WESTMIN/INTER-2023\nYour Ref: Affidavit: AFX 076GD7B24\nDear Customer,\nThis is to notify you that Central Bank in collaboration with Bank Of England had contracted NatWest Bank Plc for a (Commercial Restructuring) to release your immediate part payment sum of US$15,000,000.00 for this quarter of the fiscal year 2023 without further delay.\nWith the information on my desk, I was made to understand that you have been going through hard ways by paying a lot of charges to see to the release of your funds which has been delayed. Please, from now hence forth stop further communication with any person(s) from any part of Africa , Europe or Asia .You are not to pay any charges to receive your payment anymore as you have meet up with the whole requirements. Your representatives will tell you to still go ahead with them but on your own risk. Please be warned!\nThe only thing required from you is to forward your Non-Resident Clearance Certificate/Receipt to this office, so that this office can file the document with our WIRE DEPARTMENT for the urgent release of your part payment sum of US$15Million.The Central Bank and Bank Of England had paid our bank for handling/processing of your part payment for this fiscal year. As soon as we receive the above document, we shall effect your part payment immediately and wire transfer your fund without any other delay.Will you follow our directives, your funds will reflect in your bank account within 24hours from the date we receive the document. Do not respond to any correspondence again from any person(s) but only to this Bank.\nTo facilitate the release of your part payment sum of US$15Million, you are required as a matter of urgency to forward your Non Resident Clearance Certificate as requested above through my email address\nI guarantee that this will be executed under a legitimate arrangement that will protect you from any breach of the law. Please get in touch with me VIA this my confidential email\nCongratulations!\nDr.Joshua Larry.\nPayment Coordinator.\nNatwest Bank Plc London"
+    },
+    {
+        "from": "baiter_1926",
+        "to": "scammer_1926",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: NATWEST BANK PLC LONDON",
+        "body": "Hello Larry,\n\nThank you for reaching out to me. I must say, this is quite an unexpected piece of news. Could you please provide more details about this part payment sum? How did it come about and why was it assigned to me?\n\nAlso, could you explain what a Non Resident Clearance is? I'm not familiar with that term.\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nGerald"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1767",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Good Day My Beloved.",
+        "body": "  Good Day My Beloved.\nGreeting to you in the name of our Lord Amen.\nMy name is Afia Akwate. I pray this mail will meet you and your family in good health. I know you don't know me and this message might come to you as a surprise but Because of the Good Reputable Information I gathered about you I want you to help me to fulfill a promise I made with God.\nDon't be surprised to read this letter, but the summary of my message is that I want you to receive the funds of my deceased Husband. He left some money in a non-resident account. You receive the money and invest 70% in your company for the betterment of my only Son and donate some of the fund to a charity of your choice. People Suffering from COVID 19 around the whole world. This is because I suffer from life-threatening illnesses (breast cancer and throat cancer).  So the doctor told me last week that I wouldn't live for more than two months. I would like to take this opportunity to donate my heritage to investment. I decided to do this because there is a lot of suffering around the world, especially among underprivileged children. I have been involved in this crisis for seven years. My doctor declared my death within two months because my throat and breast cancer were chronically reported. I need your help to receive these funds. My deceased husband left for me before he died. My dream is to use the money to help charities and poor orphans. Try to spend 70% in your company for investment. And 30% for yourself.\nReply me through my private email address:  \nmrsafiaakwate1@gmail.com\nYours in Christ\nMrs. Afia Akwate and Son.   "
+    },
+    {
+        "from": "baiter_1767",
+        "to": "scammer_1767",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Good Day My Beloved.",
+        "body": "Hello Mrs. Afia Akwate and Son,\n\nI'm deeply touched by your message and I'm sorry to hear about your health condition. It's truly admirable that you're thinking of others in such difficult times. \n\nYou mentioned a fund left by your deceased husband, could you please provide more details about it? How can I assist in this noble cause without compromising my personal information?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nTara"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1971",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "James Williams  & CO. LAW CHAM",
+        "body": "James Williams  & CO. LAW CHAMBERS\nLEGAL PRACTITIONER & NOTARY PUBLIC\nHIGH COURT REPRESENTATIVE\nSUITE 202 OMEGA PLAZA\nAttention\nThis is James Williams \n CIA Special Agent, I order you to stop\ncooperating with scammers I have investigated your phone text messages\nand email as I where able to break into it and find out that you have\nbeing dealing with fake delivery agent scammers also fake Bank which\nyou believe some are real but they’re not, I therefore order you to\nstop dealing with them failing to do so means you will face a jail\nterm of 3 years,\n All those emails and numbers you have on your phone\nwhich claimed to have some money for you are all scammers and I order\nyou to quit chatting with them immediately as your compensation fund\nworth $15 million have being in our custody which will proceed to be\ndelivered to your address through FedEx or DHL, Reconfirm your full\naddress below to avoid wrong delivery\nl’ll be waiting to hear from you"
+    },
+    {
+        "from": "baiter_1971",
+        "to": "scammer_1971",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: James Williams  & CO. LAW CHAM",
+        "body": "Hello! Thank you for reaching out. Can you provide more details about the funds that are supposedly in your custody? How did they end up there?\n\nBest wishes,\nDigna"
+    }
+]

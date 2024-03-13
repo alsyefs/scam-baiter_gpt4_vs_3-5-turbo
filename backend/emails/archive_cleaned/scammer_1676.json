@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1676",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention Beneficiary,",
+        "body": "Attention Beneficiary,\nWe have deposited the check of your fund ($5,300,000.00 USD) through\nMoneyGram after our final meeting regarding your funds. All you will\ndo is to contact Money Gram secretary Ms. Alice Robert via E-mail\nmoneygram@secretary.net\n or \nmoneygrammoney175@gmail.com\n She will give\nyou more direction on how you will be receiving the funds daily.\nRemember to send her your Full information to avoid wrong transfer such as:\n Your Receiver's: _______\n Your Country:__________\n Your Telephone No:_______\n Your Address: _________\n Your aged__________\n Your occupation________\n Your Passport Id\n: ________\nThough, Mr. James Spader have sent $8000 in your name today So contact\nthe Secretary Ms. Alice Robert as soon as you receive this email or\nher WhatsApp number +229 6814 5425 and tell her to give you the\nreference number, sender name and question/answer to pick the $8000.\nPlease let us know as soon as you receive all your fund.\nBest regards,\nMrs. Nancy Johnson\nMinistry of Finance."
+    },
+    {
+        "from": "baiter_1676",
+        "to": "scammer_1676",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attention Beneficiary,",
+        "body": "Hello,\n\nThank you for reaching out to me regarding the deposit of my fund. I appreciate your assistance in this matter. Could you please provide me with more information about the process of receiving the funds daily? How does it work exactly?\n\nAlso, I noticed that you mentioned Mr. James Spader has sent something in my name today. Could you clarify what he has sent and how it is related to the funds?\n\nI look forward to your response.\n\nBest wishes,\nJeannette"
+    }
+]

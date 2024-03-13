@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2390",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Friend.",
+        "body": "Dear Friend.\nGreetings and best compliments of the season to you.\nI hope this email finds you well.\nFollowing your contact connection on google, I am interested to share a contract opportunity with you for partnership consideration towards earning legitimate brokers fees or commission.\nCan you handle international contract supply of raw materials to an end user company? Or can you be able to bring a trustworthy competent person to handle such a contract for you to earn 10% on net profit share commission benefit fee?\nI shall provide you with further details if you are interested in receiving such a proposal to study further to take appropriate action to benefit from the contract opportunity.\nI look forward to your response.\nRegards\nThanks\nSupervisor."
+    },
+    {
+        "from": "baiter_2390",
+        "to": "scammer_2390",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Friend.",
+        "body": "Dear Friend,\n\nThank you for reaching out to me. I appreciate your offer and would like to learn more about the contract you mentioned. Could you please provide me with further details regarding the supply of raw materials and the end user company? \n\nI am interested in understanding how this opportunity can benefit both parties involved. Once I have a better understanding of the specifics, I will be able to determine if I can handle this contract or if I know someone who would be suitable for it.\n\nI look forward to hearing back from you with more information.\n\nBest wishes,\nElla"
+    }
+]

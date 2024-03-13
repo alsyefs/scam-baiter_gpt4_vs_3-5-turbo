@@ -1,0 +1,182 @@
+[
+    {
+        "from": "scammer_1495",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good Day,",
+        "body": "Good Day,\nI'd like to know if you have any initiatives that need financing. We are willing to sponsor such ideas or enterprises. Please provide your email address for further information.\nBest Weshes\nSupport team"
+    },
+    {
+        "from": "baiter_1495",
+        "to": "scammer_1495",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Good Day,",
+        "body": "Hello,\n\nThank you for reaching out. I'm interested to learn more about the financing opportunities you mentioned. Could you please provide me with some details on the types of ideas or projects that your organization is willing to sponsor? Additionally, could you share any specific criteria or requirements that need to be met in order to qualify for this financing?\n\nLooking forward to hearing from you.\n\nBest wishes,\nShalanda"
+    },
+    {
+        "from": "scammer_1495",
+        "to": "baiter_1495",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Good Day,",
+        "body": "Greetings Shalanda,\r\nThanks for your prompt reply and interest in using our services. My name \r\nis Mr. Louis Ramgoolam from the United Kingdom, London UK, an investment \r\nPortfolio manager from Global angel investments for Asian countries, Sub \r\nAfrican Regions and Saudi Arabia. We represent the interests of very \r\nwealthy top-end individuals but very private investors.\r\n\r\nPlease give us an exclusive business summary plan of your \r\nproject/business (OR) simply let me know the type of business/projects \r\nyou need these funds for and how much you think it will cost to enable \r\nus to secure a perfect investor for your project.\r\n\r\nNote that our investors whom we manage their portfolios are capable of \r\nfinancing any type of project/ business as far as its profitable and \r\nlegal.\r\n\r\nSee below investor’s interests.\r\n\r\nINVESTORS INTEREST AREAS:-\r\nMy principal is interested in any profitable investment venture e.g. oil \r\nand gas, Technology, Agriculture, Mining in minerals, hospitality \r\nbusiness, Real Estate, Renewable Energy, Industrial Production or in the \r\nHealth Care Sector of Pharmaceuticals and Devices as well as for other \r\nbusiness ventures. My investor is not a shrewd business man, only a \r\npragmatist, who likes to deal in fact and figures without sugar-coating \r\nso he is open to any kind of other profitable business ideas. My client \r\nportfolio carries deal size from $USD1 Million to $USD 20Billion ++, \r\nearmarked for investment after risk analysis and the tenure of the \r\ninvestment is 10 years and can be renewed.\r\n\r\nRETURNS:-\r\nIf agreed, the investment will be managed by you and the investor will \r\nbe getting returns of 3-4% profit after tax and expenses which may be \r\nnegotiable.\r\n\r\nPLANS PRESENTATION, PERUSAL & APPROVAL:-\r\nPlease provide us with your summary of your investment plan which could \r\nbe a one page document and also your personal profile. After this is \r\nreceived, I will study it and present it to the investor for final \r\napproval, an approval is a precursor for a meeting.\r\n\r\nMEETING, AGREEMENTS & FINANCIAL DISCLOSURE:-\r\nA meeting shall be scheduled for both parties to meet physically and \r\ndiscuss all modalities in person;\r\n\r\nThe sole objective of this meeting shall be as follows:\r\n• To endorse a Memorandum of Understanding (MOU).\r\n• Sign a Profit Sharing Agreement.\r\n• Thirdly and most importantly sign all documents relating to the \r\ndisbursement of funds at which point asset/funds shall be made known and \r\ntransferred to you respectively.\r\n\r\nPlease note that my principal, the investor, insists on the need for a \r\nphysical meeting between both parties. But in case there is a condition \r\nthat will make it impossible for you to travel, it is not something that \r\nyou should worry about. Just let me know and we can find a solution for \r\nthat. If the above basic criteria are met and our offer is suitable to \r\nyour project/business venture requirements, kindly present to me with \r\nyour business summary/project and how much will be needed,\r\n\r\nAs i mentioned above: please note my investor is not a shrewd business \r\nman, only a pragmatist, who likes to deal in fact and figures without \r\nsugar coating so he is open to any kind of other profitable business \r\nideas. If the above basic criteria are met and our offer is suitable to \r\nyour funding requirements, Please get back to me at your earliest \r\nconvenience so I can proceed to the next stage.\nRegards,\r\nMr. Louis Ramgoolam\r\nGlobal Angel Investors\r\nwww.globangelsinvestment.com"
+    },
+    {
+        "from": "baiter_1495",
+        "to": "scammer_1495",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0002777777777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Good Day,",
+        "body": "Hello Mr. Louis Ramgoolam,\n\nThank you for reaching out to me and providing all the information about your services. I appreciate your interest in my project business. Before I proceed, I would like to know more about the process and how it works.\n\n1. How do you secure perfect investors for projects? What is your approach in finding suitable investors?\n\n2. Could you please provide some examples of successful projects that you have helped finance in the past? It would be great to see some real-life case studies.\n\n3. What are the terms and conditions for managing the investment? Are there any specific requirements or expectations from the investor's side?\n\n4. Can you explain more about the risk analysis process? How do you assess the potential risks associated with a project before investing?\n\n5. Is there any specific timeline for the investment? How long does it usually take from initial approval to receiving funds?\n\nI look forward to hearing back from you with more details. Thank you.\n\nBest wishes,\nShalanda"
+    },
+    {
+        "from": "scammer_1495",
+        "to": "baiter_1495",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.012222222222222223,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Good Day,",
+        "body": "Greetings Shalanda,\r\nI write to acknowledge the receipt of your email, with regard to your \r\nquestions, please find answers below:-\r\n\r\n1. How do you secure perfect investors for projects? What is your \r\napproach in finding suitable investors? Answer:- we do that by you \r\nproviding us with your exclusive business plan and exactly how much you \r\nwill be seeking for. The rest we do through our business network to \r\nsecure a perfect investor that will finance your project.\r\n\r\n2. Could you please provide some examples of successful projects that \r\nyou have helped finance in the past? It would be great to see some \r\nreal-life case studies. Answer:- we have done a lot from Africa to \r\nEurope to Asia but unfortunately, we are not allowed to share our \r\nclient’s information to any third party.\r\n\r\n3. What are the terms and conditions for managing the investment? Are \r\nthere any specific requirements or expectations from the investor's \r\nside? Answer:- first of all, a face to face meeting will be required \r\nbefore the money can be released, which you as the borrower will have to \r\nbook your flight ticket and pay for your accommodation for the face to \r\nface meeting when the time arrives. our loan period time goes up to 20 \r\nyears with 2 years grace period for repayment. Further terms and \r\ncondition will be on the contract agreement.\r\n\r\n4. Can you explain more about the risk analysis process? How do you \r\nassess the potential risks associated with a project before investing? \r\nAnswer:- we will be coming for site inspection regularly if your loan is \r\napproved to make sure that the money is used accordingly and also to \r\navoid to avoid any mismanagement of funds.\r\n\r\n5. Is there any specific timeline for the investment? How long does it \r\nusually take from initial approval to receiving funds? Answer:- we are \r\nprivate agent, we facilitate faster, it can be done within a week or two \r\ndepending on the project.\r\n\r\nI hope this answers your questions as I look forward to receiving your \r\nbusiness plan if you have any.\nRegards,\r\nMr. Louis Ramgoolam\r\nGlobal Angel Investors\r\nwww.globangelsinvestment.com"
+    },
+    {
+        "from": "baiter_1495",
+        "to": "scammer_1495",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.012789351851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Good Day,",
+        "body": "Hello Mr. Louis Ramgoolam,\n\nThank you for your response and for providing answers to my questions. I appreciate your willingness to share information.\n\nRegarding securing perfect investors for projects, it seems that you rely on the business plan provided by the client. Could you please explain how you evaluate the suitability of a business plan? What factors do you consider?\n\nI understand that you are not able to share specific examples of successful projects due to confidentiality reasons. However, could you provide some general information about the types of industries or sectors in which you have helped finance projects? It would be helpful to get an idea of your expertise.\n\nIn terms of managing the funds, I noticed that a face-to-face meeting is required before the money can be released. Is this meeting held at your office or at a different location? Additionally, are there any fees associated with this meeting?\n\nRegarding the risk analysis process, could you elaborate on how you assess potential risks associated with a project? What measures do you take to ensure that the funds are used appropriately and efficiently?\n\nLastly, I'm curious about the timeline from initial approval to receiving funds. You mentioned that it can be done within a week or two depending on the project. Are there any factors that may cause delays in this process?\n\nThank you once again for your time and assistance. I look forward to hearing back from you.\n\nBest wishes,\nShalanda"
+    },
+    {
+        "from": "scammer_1495",
+        "to": "baiter_1495",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.976273148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Good Day,",
+        "body": "Greetings Shalanda,\r\nI write to acknowledge the receipt of your email. With regard to your \r\nquestions, to proceed I will exclusive business plan as I have told you \r\nbefore to avoid any much repetition of comments. Once this is achieved I \r\nwill then forward it to all our investors to see who will be interested \r\nto finance the project. The face to face meeting will be done where the \r\ninvestor will invite you, not in our office because we are not the one \r\ngiving you the loan, we are only agents and facilitators. We don’t ask  \r\nfor any upfront payment, the only financial input from your side is for \r\nyou to purchase your flight ticket and book your accommodation for the \r\nface to face meeting when the time arrives. I hope this answers your \r\nquestions and I will be waiting for your business plan if indeed you \r\nstill need our service.\nRegards,\r\nMr. Louis Ramgoolam\r\nGlobal Angel Investors\r\nwww.globangelsinvestment.com"
+    },
+    {
+        "from": "baiter_1495",
+        "to": "scammer_1495",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.990601851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Good Day,",
+        "body": "Hello Mr. Louis Ramgoolam,\n\nThank you for your response. I appreciate the information you have provided so far. I understand that you are an agent and not directly providing the loan. Could you please explain a bit more about how this process works? How do you connect entrepreneurs with potential investors? And what kind of business plan would be required?\n\nAlso, regarding the face-to-face meeting, how does that usually take place? Will it be in my country or will I need to travel to a different location? And if I need to purchase a flight ticket, how much would that typically cost?\n\nI look forward to hearing back from you.\n\nBest wishes,\nShalanda"
+    },
+    {
+        "from": "scammer_1495",
+        "to": "baiter_1495",
+        "direction": "Inbound",
+        "days_from_first_conversation": 7.002303240740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Good Day,",
+        "body": "Greetings Shalanda,\r\nI write to acknowledge the receipt of your email. Dear madam, I am \r\nreally sorry due to my busy schedule I won’t be having too much time to \r\nbe entertaining your email as you keep repeating the same question every \r\ntime. I have detailed you everything you need to know about this \r\nprocess. If indeed you still need our service, read my previous email \r\nand follow a common instruction. If not, I will suggest you look for \r\nother investors in your region to assist you and also to avoid any \r\nrepetition of comments and unnecessary delays."
+    },
+    {
+        "from": "baiter_1495",
+        "to": "scammer_1495",
+        "direction": "Outbound",
+        "days_from_first_conversation": 7.010613425925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Good Day,",
+        "body": "Hello Shalanda,\n\nI hope this email finds you well. I apologize for any confusion caused by my previous emails. I understand that you may have some questions or concerns, and I'm here to help clarify any information you need.\n\nCould you please let me know specifically which part of the process you would like more details on? I want to make sure I address your inquiries accurately and provide you with the necessary information.\n\nAdditionally, if there are any specific terms or conditions that you would like further clarification on, please don't hesitate to ask. It's important to me that you feel fully informed and comfortable moving forward.\n\nThank you for considering our service. We value your interest and look forward to assisting you in any way we can.\n\nBest wishes,\nShalanda"
+    },
+    {
+        "from": "scammer_1495",
+        "to": "baiter_1495",
+        "direction": "Inbound",
+        "days_from_first_conversation": 7.036423611111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Good Day,",
+        "body": "Greetings Shalanda,\r\nThank you once again for your quick response. Once again, do you have a \r\nproject or business that needs funding? If yes please give us an \r\nexclusive business summary plan of your project/business (OR) simply let \r\nme know the type of business/projects you need these funds for and how \r\nmuch you think it will cost to enable us to secure a perfect investor \r\nfor your project.\nRegards,\r\nMr. Louis Ramgoolam\r\nGlobal Angel Investors\r\nwww.globangelsinvestment.com"
+    },
+    {
+        "from": "baiter_1495",
+        "to": "scammer_1495",
+        "direction": "Outbound",
+        "days_from_first_conversation": 7.052395833333334,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Good Day,",
+        "body": "Hello Mr. Louis Ramgoolam,\n\nThank you for reaching out to me again. I appreciate your interest in funding projects or businesses. While I don't currently have a specific project in mind, I am curious about the types of projects that your investors are interested in.\n\nCould you please provide more information about the industries or sectors that your investors typically focus on? Additionally, what is the range of investment amounts that they usually consider?\n\nI look forward to learning more about the opportunities you have available.\n\nBest wishes,\nShalanda"
+    },
+    {
+        "from": "scammer_1495",
+        "to": "baiter_1495",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.996226851851851,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Good Day,",
+        "body": "Greetings Shalanda,\r\nI hope this mail finds you in a good health? Dear Shalanda, with all due \r\nrespect, do you have reading or understanding problem. Which part of my \r\nexplanations that I have been giving you from day that you don’t \r\nunderstand? Do you mind to go back to our previous emails where I \r\nmentioned about the type of project that our investors are interested in \r\nfunding? I even went further by explaining to you that our investors can \r\ninvest in any project as far as it is legal and profitable. Please let’s \r\navoid all this repetition of comments. If you have a project that need \r\nfinding, let me know. If you don’t then let’s stop wasting each other’s \r\ntime until you have one.  Thank you."
+    },
+    {
+        "from": "baiter_1495",
+        "to": "scammer_1495",
+        "direction": "Outbound",
+        "days_from_first_conversation": 11.010497685185186,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Good Day,",
+        "body": "Hello,\n\nI hope you are doing well. I appreciate your message. Could you please provide more details about the type of projects your investors are interested in funding? I would like to learn more about the opportunities available. Thank you for reaching out.\n\nBest wishes,\nShalanda"
+    },
+    {
+        "from": "scammer_1495",
+        "to": "baiter_1495",
+        "direction": "Inbound",
+        "days_from_first_conversation": 12.042407407407408,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: Good Day,",
+        "body": "Greetings Shalanda,\r\nI hope this mail finds you in good health? Please with all due respect, \r\nI am very busy to be entertaining such games that you are playing. If \r\nyou cannot read or understand English, why don’t you ask someone to \r\nassist you? Once again for the last time, go back to our previous \r\nconversation, read my 1st and 2nd email I sent to you carefully. You \r\nwill find all the answers to your questions, including the ones you \r\nmight ask tomorrow. Also it will help you to stop asking the same \r\nquestions over and over again. Thank you."
+    },
+    {
+        "from": "baiter_1495",
+        "to": "scammer_1495",
+        "direction": "Outbound",
+        "days_from_first_conversation": 12.052511574074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: Good Day,",
+        "body": "Hello,\n\nI appreciate your message. I understand you're busy, but I'm here to help. Could you please provide more details about the previous email you mentioned? I want to make sure I have all the information needed to assist you effectively. Thank you.\n\nBest wishes,\nShalanda"
+    },
+    {
+        "from": "scammer_1495",
+        "to": "baiter_1495",
+        "direction": "Inbound",
+        "days_from_first_conversation": 12.106041666666666,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Fwd: Re: Good Day,",
+        "body": ""
+    },
+    {
+        "from": "baiter_1495",
+        "to": "scammer_1495",
+        "direction": "Outbound",
+        "days_from_first_conversation": 12.115613425925925,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: Fwd: Re: Good Day,",
+        "body": "Hello! How can I help you today?\n\nBest wishes,\nShalanda"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_586",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Att.ention Benefi.ciary,",
+        "body": "Att.ention Benefi.ciary,\nBTC p.a.y.m.e.n.t solution, is the only solu.tion for your over delayed f.u.n.d.\nThank you,\nTedros .Adhanom .Ghebreyesus\nD.I.R.E.C.T.O.R-G.E.N.E.R.A.L\nWhats.up T.e.l:   4.4. 7.4.5.2.1.7.8.4.5.3"
+    },
+    {
+        "from": "baiter_586",
+        "to": "scammer_586",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Att.ention Benefi.ciary,",
+        "body": "Hello Tedros,\n\nThank you for your message. I'm intrigued by this BTC solution you mentioned. Could you please provide more details about it? How does it work and how can it help with my over delayed situation? \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJohn"
+    }
+]

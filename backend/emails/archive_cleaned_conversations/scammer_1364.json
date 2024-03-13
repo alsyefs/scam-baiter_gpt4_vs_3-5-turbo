@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_1364",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello,",
+        "body": "Hello,\nI am contacting you concerning a business deal to move funds out of Russia to a safe foreign account. Your participation will be useful and compensated due to your location.\nThere are no illegalities involved. Send me a reply and I will send you full details.\nI look forward to your response.\nSincerely,\nMr. Juan Perez\njuanperezeciece@gmail.com"
+    },
+    {
+        "from": "baiter_1364",
+        "to": "scammer_1364",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello,",
+        "body": "Hello Mr. Juan Perez,\n\nThank you for reaching out to me. I'm intrigued by your proposal, but I would like to understand more about it. Could you please provide more details about this business deal? How exactly can I be of help in moving funds out of Russia?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRobert"
+    },
+    {
+        "from": "scammer_1364",
+        "to": "baiter_1364",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Hello,",
+        "body": "Dear Robert ,\r\nThank you for your reply. I will go straight to the point and give you the\r\ndetails.\r\n\r\nFirst, we will have an agreement that will give clear details of your role\r\nin this project and show what you are entitled to, which is 7% of the total\r\nfunds of $187,000,000usd\r\n\r\nUpon signing the agreement, you will be required to open a bank account in\r\nHong kong where the payment from the sales of my client's assets will be\r\npaid. The payment from the sales will be sent locally, within Hong Kong ,\r\nand to the new bank account and the reason you are asked to open an account\r\nin HK is because the buyer can only pay in local and the buyer is in HK\r\n. The second option -- the said fund can also be delivered via cash through\r\na financial agency.\r\n\r\nPlease note that your name and address will be required for the agreement\r\nand for your perusal and approval. If there is any part of this process\r\nthat you do not understand or need further clarification, let me know in\r\nyour next reply.\r\nThere is absolutely nothing to worry about; all information regarding this\r\ntransaction shall be strictly confidential.\r\nI look forward to hearing from you soon.\r\nWarm regard\nJuan"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_2209",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  YOUR FUND HAS BEEN SENT TO T",
+        "body": "  YOUR FUND HAS BEEN SENT TO THE AMERICA FIRST CREDIT UNION.\nI NEED YOUR URGENT RESPONSE   "
+    },
+    {
+        "from": "baiter_2209",
+        "to": "scammer_2209",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   YOUR FUND HAS BEEN SENT TO T",
+        "body": "Hello there,\n\nThank you for your message. I'm curious, could you please provide more details about this fund? How did it end up at the Erica First Credit Union? And what is the purpose of this fund?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nWalter"
+    },
+    {
+        "from": "scammer_2209",
+        "to": "baiter_2209",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "DO YOU KNOW Ms TATYANA COLE Re: YOUR FUND HAS BEEN SENT TO T",
+        "body": "America First Credit Union USA \n\nAttention; Sir/Madam, \n\nHow are you and your families today? I hope all is well. \n\nI'm obliged to inform you that we received a fax notification from one Ms. Tatyana Cole,  who claimed to be your representative, stating you have been sick, and for that reason you have not been responding to emails messages. Furthermore, she stated you have authorized her to receive the ($10,500,000.00) Ten Million Five Hundred Thousand Dollars on your behalf, and the funds should be transferred to her direct bank account as follows; \n\nBank Name; Wells Fargo Bank \nAccount number; 6338102886 \nRouting number; 021000658 \nAccount name; Tatyana Cole, \n\nHowever, she is ready to pay the required statutory fee for the fund to be transferred to her bank account now. \nSo please we wish to confirm if truly the woman was your representative or not before we proceed in releasing the $10.5m fund to her bank account mentioned above. \nFailure to hear from you within the next 48 hours, we shall assume she is right with her claims. \nAwaiting your urgent response to this message.( officialmail6789@gmail.com)PLEASE RESPOND THROUGH THIS EMAIL TO ENABLE US ACT FAST. (mailto:officialmail6789@gmail.com) \nYours sincerely, \n\nPresident Chief Financial Officer"
+    },
+    {
+        "from": "baiter_2209",
+        "to": "scammer_2209",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0006365740740740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: DO YOU KNOW Ms TATYANA COLE Re: YOUR FUND HAS BEEN SENT TO T",
+        "body": "Hello,\n\nI hope this message finds you well. I appreciate your concern and the information you've shared with me. However, I must clarify that I don't know any Ms. Tatyana Cole and have not authorized anyone to receive any funds on my behalf.\n\nCould you please provide more details about this situation? How did Ms. Cole claim to know me? And what is the origin of these funds she's trying to claim?\n\nThank you for your time and assistance in this matter.\n\nBest wishes,\nWalter"
+    },
+    {
+        "from": "scammer_2209",
+        "to": "baiter_2209",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.23756944444444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: DO YOU KNOW Ms TATYANA COLE Re: YOUR FUND HAS BEEN SENT TO T",
+        "body": "Walter\r\nThanks for your mail, this fund was approved by the World bank\r\nassisted program in your name.\r\nWhat we have is your email because the said people have applied to receive\r\nthis fund in your favour.\r\nWe asked if you sent them but since you said you don't know them we will\r\narrest them.\r\nRight now if you are interested in pursuing this fund you have to contact\r\nour paying official bank president\r\nJohn Lund on this email for further information.\r\njohnlund.usa@americanfirstcreditun.com\r\nBear in mind that you will have little cost to make to execute this\r\ntransaction.\nThanks"
+    },
+    {
+        "from": "baiter_2209",
+        "to": "scammer_2209",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.23851851851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: DO YOU KNOW Ms TATYANA COLE Re: YOUR FUND HAS BEEN SENT TO T",
+        "body": "Hello,\n\nThank you for your email. It's quite surprising to hear that someone has applied to receive a fund in my name. I'm glad you're taking steps to address this issue.\n\nI'm interested in pursuing this fund as you mentioned. However, could you please provide more details about it? What is the purpose of this fund and how was it approved by the World Bank assisted program?\n\nAlso, could you clarify what costs I might need to cover in order to execute this? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nWalter"
+    },
+    {
+        "from": "scammer_2209",
+        "to": "baiter_2209",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.24255787037037038,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: DO YOU KNOW Ms TATYANA COLE Re: YOUR FUND HAS BEEN SENT TO T",
+        "body": "This was a compensation  fund in which your name was approved.\r\nPlease forward your details, full name and address telephone number.\r\nDo that now"
+    },
+    {
+        "from": "baiter_2209",
+        "to": "scammer_2209",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.243125,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: DO YOU KNOW Ms TATYANA COLE Re: YOUR FUND HAS BEEN SENT TO T",
+        "body": "Oh, wow! That sounds really exciting. Can you tell me more about this fund? How did my name get approved?\n\nBest wishes,\nWalter"
+    }
+]

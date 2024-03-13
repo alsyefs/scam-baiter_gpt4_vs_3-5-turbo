@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1614",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Financial Reconciliation",
+        "body": "  Financial Reconciliation\nDepartment, ECOWAS Bank for\nInvestment And Development\n(EBID)\nAccra Ghana\nDear Beneficiary\nMy name is Mr. Michael Chuks, am a Financial Reconciliation Officer to ECOWAS Bank for Investment and Development (EBID) Association, Our unit known as (Wealth Management Team) was set up by the ECOWAS Chancellor of Exchequer \"Eco movement\" to reunite missing funds/Estates with their respective beneficiaries, Next of Kin or relatives. From the information's gathered here, you are entitled to $10.5 Millions USA Dollars which you may not be aware of.\nPlease get back to me now for further clarification on this material directly to my official email contact at ::\nEmail:: \nMichaelchuks224@financier.com\nTEL:: +233 23850 39860\nYours Sincerely,\nMichael Chuks - Wealth Management Team Leader\nEcowas Bank For Investment And Development\n(EBID)\nAccra Ghana.   "
+    },
+    {
+        "from": "baiter_1614",
+        "to": "scammer_1614",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Financial Reconciliation",
+        "body": "Hello Mr. Michael Chuks,\n\nWow, this is quite surprising! I had no idea about these millions of USA dollars that I'm entitled to. Could you please tell me more about this? How did you come across my name and why am I being considered for this?\n\nI'm really curious to know more about the Wealth Management Team and its operations. Also, could you explain a bit more about what ECOWAS Bank for Investment and EBID does?\n\nLooking forward to hearing from you.\n\nBest wishes,\nSusan"
+    }
+]

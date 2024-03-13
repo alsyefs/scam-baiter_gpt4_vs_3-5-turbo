@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2545",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attn The Beneficiary,",
+        "body": "  Attn The Beneficiary,\nKindly confirm If you're still using this email address? We are legal personnel attached to a prime bank in the United State by the name ABNB Federal Credit Union NY USA.\nKindly be notified that there has been due approval for reimbursement of your long outstanding payment via ABNB Federal Credit Union NY USA. The funds have been securely allocated through a transitory account with ABNB Federal Credit Union NY USA. However, Mr. Stephen McGregor, your former partner has again presented a Canadian bank account requesting that the funds Value, $11.500.000.00 should be remitted to him the second time, He claims to be your next of kin. Kindly confirm this information to us as your silence may suggest that Mr. McGregor’s claims are genuine.\nI'll be honest with you and i have to let you know this now before anything this process will cost you $250.00 only and you are not going to be ask to pay any kind of fee again in the near future the good part of it the fee is refundable if you did not receive your funds as promise be rest assured please don't look down on this process I'm not here to mislead you my WORLDS IS MY BOND. Your urgent response would make this payment process swift with your contact details indicating how you wish to receive your funds $11,500,000.00 only.\nFor further clarification, call Mr. Leander Tempongko Bautista anytime between 9am to 5pm, Monday to Friday on my Tel +1 (315) 572-4468, call or email your reply to: \nuoffice1534098@gmail.com\nSincerely\nMr. Leander Tempongko Bautista\nHead, Corporate Banking and e-Payments   "
+    },
+    {
+        "from": "baiter_2545",
+        "to": "scammer_2545",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attn The Beneficiary,",
+        "body": "Hello Mr. Leander Tempongko Bautista,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I wasn't expecting any kind of payment, so your email has certainly piqued my interest.\n\nRegarding Mr. Stephen, I'm not sure who that might be. Could you provide more details about him? How did he claim to be my next of kin?\n\nAlso, could you please elaborate on the process and the fee involved? You mentioned it's refundable if I don't receive the funds as promised - how does that work exactly?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMaureen"
+    }
+]

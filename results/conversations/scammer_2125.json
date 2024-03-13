@@ -1,0 +1,172 @@
+[
+    {
+        "from": "scammer_2125",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "You have won a prize money of ",
+        "body": "You have won a prize money of £7 000.000.00 (Seven Million Pounds) for\nthe 2024 Edition Powerball Lottery Compensation. \ncontact your claims\nmanager with details below to expedite the processing on your winning\npayment.\nNAME: COUNTRY: OCCUPATION: Gender: AGE:PHONE:EMAIL: ADDRESS:\nMr.Robert Lewis\nClaims Manager"
+    },
+    {
+        "from": "baiter_2125",
+        "to": "scammer_2125",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: You have won a prize money of ",
+        "body": "Hello Lewis,\n\nThank you for reaching out to me. I'm thrilled to hear that I have won a prize in the Edition Powerball Lottery! Can you please provide me with more information on how to claim my winnings? I want to make sure everything is done correctly and efficiently.\n\nLooking forward to your response.\n\nBest wishes,\nRichard"
+    },
+    {
+        "from": "scammer_2125",
+        "to": "baiter_2125",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: You have won a prize money of",
+        "body": "Dear Richard,\r\n\r\n\r\nYou are welcome to the Powerball Lottery. We Must congratulate you to be so\r\nlucky to have this Assistance. We are pleased to be at your service.\r\n\r\nYou have in our possession your sum as received. All verification process\r\nhas just been concluded and we are making all necessary arrangement to\r\nschedule your payment this\r\nweek, The mother-office will release the fund since the information by the\r\nsender was accurate.\r\n\r\nBefore we can commerce with the transfer of your fund, you are requested\r\nwithout delay to Pick the option of transfer you want us to use and take\r\nnote of the associated charge.\r\nYou are hereby advised to regularize the said transfer by choosing one of\r\nthe options below.\r\n\r\n\r\nOPTION (1) BANK WIRE TRANSFER DOWN TO DESIGNATED BANK ACCOUNT IN YOUR\r\nCOUNTRY (FEE OF CHARGES : 1,300 GBP Equivalent to 1,600 USD )\r\n\r\n\r\nOPTION (2) COURIER CHEQUE DELIVERY VIA FAST COURIER SERVICE DOWN TO YOUR\r\nCONTACT\r\nADDRESS IN YOUR COUNTRY (FEE OF CHARGES £850 POUNDS  EQUIVALENT TO 1,100\r\nUSD )\r\n\r\n\r\nSelect one of the above options and get back to us. Note that your winning\r\namount is protected by a hard-cover insurance policy which makes it\r\nimpossible for us to deduct any amount from it before it is remitted\r\nto you.This is in accordance with article 34b sub-sections 132 of the\r\nInternational Lottery Regulations as amended in the 1996 constitution, this\r\nis to protect the Prime winners of his /her claims.\r\n\r\nPlease send your response within the next 48 hrs so that we can proceed\r\nwith the transfer/delivery process of your claims winning funds.\r\n\r\nWe look forward to serving you better. Once again, Congratulations.\r\n\nMr.Robert Lewis\r\nClaims Manager"
+    },
+    {
+        "from": "scammer_2125",
+        "to": "baiter_2125",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.00045138888888888887,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: You have won a prize money of",
+        "body": "Dear Richard,\r\n\r\n\r\nYou are welcome to the Powerball Lottery. We Must congratulate you for\r\nbeing so lucky to have this Assistance. We are pleased to be at your\r\nservice.\r\n\r\nYou have in our possession your sum as received. All verification process\r\nhas just been concluded and we are making all necessary arrangements to\r\nschedule your payment this\r\nweek, The mother-office will release the fund since the information by the\r\nsender was accurate.\r\n\r\nBefore we can commerce with the transfer of your fund, you are requested\r\nwithout delay to Pick the option of transfer you want us to use and take\r\nnote of the associated charge.\r\nYou are hereby advised to regularize the said transfer by choosing one of\r\nthe options below.\r\n\r\n\r\nOPTION (1) BANK WIRE TRANSFER DOWN TO DESIGNATED BANK ACCOUNT IN YOUR\r\nCOUNTRY (FEE OF CHARGES : 1,300 GBP Equivalent to 1,600 USD )\r\n\r\n\r\nOPTION (2) COURIER CHEQUE DELIVERY VIA FAST COURIER SERVICE DOWN TO YOUR\r\nCONTACT\r\nADDRESS IN YOUR COUNTRY (FEE OF CHARGES £850 POUNDS  EQUIVALENT TO 1,100\r\nUSD )\r\n\r\n\r\nSelect one of the above options and get back to us. Note that your winning\r\namount is protected by a hard-cover insurance policy which makes it\r\nimpossible for us to deduct any amount from it before it is remitted\r\nto you.This is in accordance with article 34b sub-sections 132 of the\r\nInternational Lottery Regulations as amended in the 1996 constitution, this\r\nis to protect the Prime winners of his /her claims.\r\n\r\nPlease send your response within the next 48 hrs so that we can proceed\r\nwith the transfer/delivery process of your claims winning funds.\r\n\r\nWe look forward to serving you better. Once again, Congratulations.\r\n\nMr.Robert Lewis\r\nClaims Manager"
+    },
+    {
+        "from": "baiter_2125",
+        "to": "scammer_2125",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.11125,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: You have won a prize money of",
+        "body": "Dear Lewis,\n\nThank you for reaching out to me regarding the Powerball Lottery. I appreciate your assistance in helping me claim my winnings. I have a few questions before I proceed with selecting an option for the transfer.\n\n1. Can you please provide more details about the bank wire transfer option? How long does it usually take for the funds to be transferred into my designated bank account?\n\n2. For the courier cheque delivery option, how secure is this method? Are there any risks involved in having a physical cheque delivered to my address?\n\n3. Could you also clarify the associated charges for each option? I want to make sure I understand the costs involved before making a decision.\n\nI look forward to your response and appreciate your help in guiding me through this process.\n\nBest wishes,\nRichard"
+    },
+    {
+        "from": "scammer_2125",
+        "to": "baiter_2125",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.17960648148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: You have won a prize money of",
+        "body": "Dear: Richard,\r\n\r\nThanks for your email message, I have gone through your email and I quite\r\nunderstand you, as regards to your question, the bank in question that's\r\nhandling all online winners of powerball lottery payment is reliance bank\r\nlimited london uk.\r\n\r\nthe winning payment is due to be release into your account in 72 hours\r\nafter you complete all their necessary requirement, the bank will set up an\r\nonline account for you in your names and have the funds lodged into the\r\naccount and forward the details that will enable you have access to your\r\nwinning funds, e.g your pin code, account number and bank card all will be\r\nforwarded to you to enable you have access to your winning funds.\r\n\r\nSir, for the courier service, this will take just two working days, and the\r\ncourier is special courier services, under fedex courier but very secured\r\nbecause the parcel is usually insured, should the parcel got missing the\r\ncourier company will be held responsible for the cheque, liable to pay the\r\nvalue of the cheque to the receiver whose name appear to be on the cheque,\r\nat the point of the receiver it is signed and deliver to the claimer.\r\n\r\nSir, regards to your last question to me,i wll advise you to read my\r\nparagraph four and five, in my last email to you.\r\n\r\nyou are therefore advised to choose which option is best for you to enable\r\nus to proceed with the release of your winning funds.\r\n\r\nWe look forward to serving you better. Once again Congratulations.\r\n\nMr.Robert Lewis\r\nClaims Manager"
+    },
+    {
+        "from": "baiter_2125",
+        "to": "scammer_2125",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.40292824074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: You have won a prize money of",
+        "body": "Hello Lewis,\n\nThank you for your prompt response. I appreciate the information you have provided regarding the bank handling the online winners of the Powerball lottery payment. Reliance Bank Limited in London, UK, sounds like a reputable institution.\n\nI understand that once I complete all the necessary requirements, the bank will set up an online account in my name and transfer the funds into it. Could you please provide more details on what these necessary requirements are? I want to make sure I have a clear understanding of the process.\n\nRegarding the courier service, it's good to know that it is a special courier service under FedEx and that the parcel will be insured. Can you explain how this insurance works? What happens if there is any issue with the delivery or if the parcel goes missing?\n\nLastly, could you please clarify what options I have to proceed with the release of my winning funds? It would be helpful to know what choices are available so that I can make an informed decision.\n\nThank you again for your assistance. I look forward to hearing back from you soon.\n\nBest wishes,\nRichard"
+    },
+    {
+        "from": "scammer_2125",
+        "to": "baiter_2125",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0246296296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: You have won a prize money of",
+        "body": "Dear.  Richard,\r\n\r\nThanks for your urgent response.\r\n\r\nSir, regards to your question, yes the bank will open an online account for\r\nyou in your name and send you the details that will enable you access to\r\nthe account including the bank card, that will be shipped to your mailing\r\naddress you will provide for the bank.\r\n\r\nThe necessary requirement I told you the bank will demand from you is as\r\nfollows.\r\n\r\n1) batch number and your winning reference number.\r\n2) any id carrying your full name. e.g drivers license or data page of your\r\ninternational passport.\r\n3) your full mailing address.\r\n4) any utility bills carrying your full names as it stands on your id that\r\nwill be provided by you.\r\n\r\nyou should bear in mind that your batch number and your winning reference\r\nnumber are presently with us that will be sent to you prior to the time\r\nbank will demand it for security reasons.\r\n\r\nSecond option, for the courier shipment, the insurance covers the loss of\r\nthe cheque should the cheque get missing prior to the delivery the courier\r\ncompany will be held responsible for the winning funds, that is why it is\r\nnecessary for the cheque to be insured.\r\n\r\nI hope all this helps you to understand the proceeds of the banking\r\ninstitute and the courier services, you are very free to ask any more if\r\nyou feel you are still not cleared. looking forward to your urgent response.\r\n\nMr.Robert Lewis\r\nClaims Manager"
+    },
+    {
+        "from": "baiter_2125",
+        "to": "scammer_2125",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0275231481481482,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: You have won a prize money of",
+        "body": "Dear Lewis,\n\nThank you for your prompt response. I appreciate the information you have provided so far. I just have a few more questions to clarify things.\n\n1. Could you please explain what exactly is a batch number and a winning reference number? How are they related to my account?\n\n2. Regarding the identification documents, would a photocopy of my driver's license or passport be sufficient, or do I need to provide the original documents?\n\n3. Can you please confirm if there are any fees or charges associated with opening this online account? If so, what are they and how can I make the payment?\n\n4. You mentioned that the bank card will be shipped to my mailing address. How long does it usually take for the card to arrive once the account is set up?\n\nI apologize for asking so many questions, but I want to make sure I fully understand the process before proceeding. Thank you for your patience.\n\nBest wishes,\nRichard"
+    },
+    {
+        "from": "scammer_2125",
+        "to": "baiter_2125",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.2988657407407407,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: You have won a prize money of",
+        "body": "Dear: richard,\r\n\r\nThe batch number and reference numbers are designated to you  online the\r\nday the computer picks your email as a lucky winner of the powerball\r\nlottery.\r\n\r\nThe identification documents needed from you are photocopy not original,\r\nthat has to be scanned to us.\r\n\r\nThe payment of the online account opening fees is  1,300 GBP Equivalent to\r\n1,600 USD and we shall let you know on how to send it upon your next email.\r\n\r\nyou should bear in mind that a bank card usually takes 10 working days to\r\narrive at your mailing address, excluding weekends.\r\n\r\nSir, as soon as the payment is made we shall immediately forward those\r\ndetails to the bank, so that the bank will open up communication with you,\r\nand they will demand for the reconfirmation of those details we have\r\nforwarded to them from you for them to be sure you are the beneficiary for\r\nthem to set up the account immediately and have your funds lodge in the\r\naccount and send to you the details that will enable you have access to the\r\nfunds.\r\n\r\nlooking forward to hearing from you.\r\n\nMr.Robert Lewis\r\nClaims Manager"
+    },
+    {
+        "from": "baiter_2125",
+        "to": "scammer_2125",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.6325462962962962,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: You have won a prize money of",
+        "body": "Hello Lewis,\n\nThank you for reaching out to me. I'm glad to hear that I have been designated as a lucky winner of the Powerball lottery. Can you please provide me with more information about the batch number and reference numbers? I want to make sure everything is in order.\n\nYou mentioned that the documents needed from me are photocopies, not originals. Could you clarify what specific documents you require? And once I have scanned and sent them to you, what will be the next steps?\n\nI understand that there will be an online account opening fee. Can you please let me know the exact amount in GBP equivalent to USD? Also, could you explain how I can make this payment?\n\nLastly, regarding the bank card, how long does it usually take for it to arrive at my mailing address? And once it arrives, what should I do next?\n\nI appreciate your assistance and look forward to hearing back from you soon.\n\nBest wishes,\nRichard"
+    },
+    {
+        "from": "baiter_2125",
+        "to": "scammer_2125",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.6942824074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: You have won a prize money of",
+        "body": "Hello Lewis,\n\nThank you for reaching out to me. I'm glad to hear that I have been designated as a lucky winner of the Powerball lottery. Can you please provide me with more information about the batch number and reference numbers? I want to make sure everything is in order.\n\nYou mentioned that you need photocopies of certain documents from me. Could you please clarify which documents specifically? And once I scan and send them to you, what will be the next steps?\n\nI understand that there are some fees involved in opening the online account. Could you let me know how much it would be in GBP equivalent to USD? Also, can you provide me with the payment instructions so that I can proceed accordingly?\n\nLastly, could you explain a bit more about the bank card and its arrival time? How long does it usually take for it to reach my mailing address?\n\nI appreciate your assistance and look forward to hearing back from you soon.\n\nBest wishes,\nRichard"
+    },
+    {
+        "from": "scammer_2125",
+        "to": "baiter_2125",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.9124652777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: You have won a prize money of",
+        "body": "1)Any id carrying your full name. e.g drivers license or data page of your\r\ninternational passport.\r\n2) Your full mailing address.\r\n3) Any utility bills carrying your full names as it stands on your id that\r\nwill be provided by you\r\n\r\nThe payment of the online account opening fees is  1,300 GBP Equivalent to\r\n1,600 USD and we shall let you know on how to send it upon your next email.\r\n\r\nyou should bear in mind that a bank card usually takes 10 working days to\r\narrive at your mailing address, excluding weekends.\r\n\r\nSir, as soon as the payment is made we shall immediately forward those\r\ndetails to the bank, so that the bank will open up communication with you,\r\nand they will demand for the reconfirmation of those details we have\r\nforwarded to them from you for them to be sure you are the beneficiary for\r\nthem to set up the account immediately and have your funds lodge in the\r\naccount and send to you the details that will enable you have access to the\r\nfunds.\r\n\r\nNote that we shall let you know how to effect the payment  after providing\r\nthe requested details.\r\n\r\nlooking forward to hearing from you.\r\n\nMr.Robert Lewis\r\nClaims Manager"
+    },
+    {
+        "from": "baiter_2125",
+        "to": "scammer_2125",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.9243518518518519,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: You have won a prize money of",
+        "body": "Hello Lewis,\n\nThank you for reaching out to me. I appreciate your willingness to share information with me. However, I have a few questions before proceeding.\n\n1. Can you please provide more details about the online account opening fees? How much is the GBP equivalent in USD?\n\n2. Could you explain why my full mailing address and utility bills are required? How will they be used in the account opening process?\n\n3. Is there a specific reason why a bank card is necessary for this account? Are there any alternative options available?\n\nI look forward to your response and further guidance on how to proceed.\n\nBest wishes,\nRichard"
+    },
+    {
+        "from": "scammer_2125",
+        "to": "baiter_2125",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.0893865740740742,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: You have won a prize money of",
+        "body": "Dear valued winner,\r\n\r\nYour details are vital for the establishment of the Premium account. Upon\r\nits creation, you will receive the account login details, granting you\r\naccess to your winnings.\r\n\r\nPlease note that the account opening fee of 1,300 Gbp Equivalent to 1,600\r\nusd.\r\n\r\nFurthermore, you have the option to opt for the courier service, “express\r\ndelivery option” which typically takes 5 to 7 working days for delivery.\nThe fee for this service is £1100, equivalent to $1380.\r\n\r\nThe decision is entirely yours.\r\n\r\nThank you for your cooperation.\r\n\r\nWarm regards,\r\nRobert Lewis"
+    },
+    {
+        "from": "baiter_2125",
+        "to": "scammer_2125",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.0911458333333335,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: You have won a prize money of",
+        "body": "Dear Robert Lewis,\n\nThank you for reaching out to me. I appreciate your message regarding the Premium account and the opportunity to access my winnings. Could you please provide me with more information about the account opening fee? I would like to understand how it is calculated and what it covers.\n\nAdditionally, I am interested in learning more about the courier service option for delivery. Could you please explain how it works and what the additional fee covers? How can I be sure that my winnings will be delivered safely and securely?\n\nThank you again for your assistance.\n\nBest wishes,\nRichard"
+    },
+    {
+        "from": "baiter_2125",
+        "to": "scammer_2125",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.091226851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: You have won a prize money of",
+        "body": "Dear Robert Lewis,\n\nThank you for reaching out to me. I appreciate your message regarding the Premium account and the opportunity to access my winnings. Could you please provide me with more information about the account opening fee? I would like to understand how it is calculated and what it covers.\n\nAdditionally, I am interested in learning more about the courier service option for delivery. Could you please explain how it works and what the benefits are compared to regular mail delivery?\n\nThank you again for your assistance.\n\nBest wishes,\nRichard"
+    }
+]

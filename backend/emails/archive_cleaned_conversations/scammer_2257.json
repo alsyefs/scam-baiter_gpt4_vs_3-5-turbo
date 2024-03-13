@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2257",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Headquarters 1 (HQ1): Intern",
+        "body": "  Headquarters 1 (HQ1): International Monetary Fund,\n700 19th Street, N.W., Washington, D.C. 20431\n \n Attention\n The UN and IMF have finalized the means by which you will receive your overdue funds worth Eight Million Five Hundred Thousand United States Dollars ($8.5million) via ATM by an affiliated Federal Republic Bank In the United States within 48 hours. we ask that you provide us with the information below for an easy process. you are advised not to contact companies or anyone claiming to be in charge of your funds as the UN/IMF is now in charge of the immediate release of your funds.\n1) Full Names\n2)Home Address\n3) Occupation\n4)Age/Nationality\n5) Valid ID Card .\n6) Bank Details\n \nYour urgent response is very necessary today\nThank you\n \n.\n    IMF Director\n  Richard Tyler   "
+    },
+    {
+        "from": "baiter_2257",
+        "to": "scammer_2257",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Headquarters 1 (HQ1): Intern",
+        "body": "Hello Richard Tyler,\n\nThank you for reaching out to me regarding the release of my overdue funds. I appreciate your assistance in this matter. However, before proceeding, I have a few questions that I would like to clarify.\n\n1. Can you please provide more information about the UN and IMF's involvement in this process? How did they determine that I am eligible for these funds?\n\n2. Could you explain why it is necessary for me to provide my full name, home address, occupation, age, valid ID card, and bank details? How will this information be used?\n\n3. Is there any specific reason why I should not contact any other companies or individuals claiming to be in charge of my funds? What measures have been taken by the UN and IMF to ensure the legitimacy of this transaction?\n\nI look forward to your prompt response.\n\nBest wishes,\nBarbara"
+    },
+    {
+        "from": "scammer_2257",
+        "to": "baiter_2257",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Headquarters 1 (HQ1): Intern",
+        "body": "Dear sir,\r\nWe acknowledge the content of your message, be assured that you are dealing\r\nwith the UN/IMF once you provide the required information below  the UN/IMF\r\nwill forward your information to the United Federal Trade Commission for\r\nimmediate transfer of your funds within 24 hours after confirmation.\r\n\r\n\r\n\r\n1) Full Names\r\n2)Home Address\r\n3) Occupation\r\n4)Age/Nationality\r\n5) Valid ID Card .\r\n6) Bank Details"
+    },
+    {
+        "from": "baiter_2257",
+        "to": "scammer_2257",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.011828703703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Headquarters 1 (HQ1): Intern",
+        "body": "Hello! Thank you for reaching out. Could you please provide more information about how the UN IMF and the United Federal Trade Commission are connected in this process? I'm curious to learn more about how this transfer of funds works.\n\nBest wishes,\nBarbara"
+    }
+]

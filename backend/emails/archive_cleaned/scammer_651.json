@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_651",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greeting,",
+        "body": "Greeting,\nWe refer to the letter we posted to your address but did not hear from\nyou and decided to email once again, We the AL-MUHARRAQ GROUP LTD\ninvite you to partner with us and benefit in our new Loan and\nPartnership Project funding program for earlier 2024.We offer flexible\nloans and funding for various projects bypassing the usual rigorous\nprocedures. This Funding program allows a client to enjoy low interest\npayback for as low as 3% per annum for a period of 5-10 years or more.\nWe can approve a loan/funding as per your direct financial need for\nthe proposed investment depending on the nature of business.\nWe are currently funding for:\n* Starting up a Franchise\n* Business Acquisition\n* Business Expansion\n* Commercial Real Estate purchase\n* Contract Execution\nWe will be willing to finance your lucrative projects with long term\nloan, Are you in request for funding get back to us with your project\nplan at: \ndrmickorooney@gmail.com\nWith Best Regards,\nLooking forward to hearing from you.\nSincerely Yours,\nDr.Micko Rooney\nInternational Project Coordinator\nAL-MUHARRAQ GROUP LTD\ne-Mail: \ndrmickorooney@gmail.com\nWeb: www. almuharraqgroup.ae"
+    },
+    {
+        "from": "baiter_651",
+        "to": "scammer_651",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Greeting,",
+        "body": "Hello Rooney,\n\nThank you for reaching out to me with this intriguing offer. I must say, it sounds like a fantastic opportunity. However, I do have a few questions that I'd like to clarify before we proceed further.\n\nFirstly, could you please provide more details about the nature of these projects? What kind of projects are usually funded under this program?\n\nSecondly, you mentioned low interest rates and flexible payback periods. Could you elaborate on these terms? How is the interest rate determined and what flexibility is offered in terms of repayment?\n\nLastly, could you explain the process involved in applying for this funding? What kind of documentation or information would be required from my end?\n\nI look forward to your response.\n\nBest wishes,\nLisa"
+    }
+]

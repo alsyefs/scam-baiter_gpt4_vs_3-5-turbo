@@ -1,0 +1,112 @@
+[
+    {
+        "from": "scammer_1947",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Customer",
+        "body": "Dear Customer\nBank of America have started New Year bonanza today been 27th January 2024, this bonanza will last only three working days, this is to help all our customers to receive their inheritance funds in our bank, the transfer charges which is in higher prize has cut down to only $25, now y\nou are advise to purchase Razer Gold Card or Apple iTunes Card $25 and send, again\n reconfirm your bank account details\n for the transfer of your funds\n $5,5 Million USD, again bear it in mind that this bonaza will last only three working day, after three working days this bonanza will not be valid again.\nThanks and remain bless\nBrian Moynihan\nEmail.......officefiles516@gmail.com"
+    },
+    {
+        "from": "baiter_1947",
+        "to": "scammer_1947",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Customer",
+        "body": "Hello Brian Moynihan,\n\nThank you for your email. It's great to hear about the New Year bonanza! I'm sure many customers will appreciate this initiative from Bank of Erica.\n\nI have a few questions though, if you don't mind. Could you please explain more about the Razer Gold Card or Apple Card? How do they work in relation to the transfer charges?\n\nAlso, could you provide more details about how the funds transfer process will take place? I'm not quite clear on that part.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nDoris"
+    },
+    {
+        "from": "scammer_1947",
+        "to": "baiter_1947",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Customer",
+        "body": "Dear Customer\r\n\r\nBank of America have started New Year bonanza today been 27th January 2024,\r\nthis bonanza will last only three working days, this is to help all our\r\ncustomers to receive their inheritance funds in our bank, the transfer\r\ncharges which is in higher prize has cut down to only $25, now you are\r\nadvise to purchase Razer Gold Card or Apple iTunes Card $25 and send, again\r\nreconfirm your bank account details for the transfer of your funds $5,5\r\nMillion USD, again bear it in mind that this bonaza will last only three\r\nworking day, after three working days this bonanza will not be valid again.\r\n\r\nThanks and remain bless\r\nBrian Moynihan"
+    },
+    {
+        "from": "baiter_1947",
+        "to": "scammer_1947",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0011574074074074073,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Customer",
+        "body": "Hello Brian Moynihan,\n\nThank you for your email. It's exciting to hear about the New Year bonanza! I'm always thrilled when there are opportunities like this.\n\nCould you please provide more details about how this bonanza works? How does purchasing a Razer Gold Card or Apple Card contribute to it? \n\nAlso, could you clarify what you mean by \"transfer charges\"? Is that a fee for transferring funds?\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDoris"
+    },
+    {
+        "from": "scammer_1947",
+        "to": "baiter_1947",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.00431712962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Dear Customer",
+        "body": "Yes what we need from you is your account number so that your $5.5m will be\r\ntransfer into your account number once you pay the so to Apple store and\r\nbuy the card $25 immediately"
+    },
+    {
+        "from": "baiter_1947",
+        "to": "scammer_1947",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.004722222222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Dear Customer",
+        "body": "Oh, hello there! I'm so glad you reached out. It's always exciting to hear about new opportunities. \n\nI must admit, I'm not very familiar with this process. Could you please explain a bit more about how it works? Why do I need to buy an Apple store card? And what is the purpose of transferring something into my account number?\n\nBest wishes,\nDoris"
+    },
+    {
+        "from": "baiter_1947",
+        "to": "scammer_1947",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.004780092592592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Dear Customer",
+        "body": "Hello there! I appreciate your message. It's interesting to hear about this process. Could you please explain a bit more about how it works? Why do I need to buy an Apple store card?\n\nBest wishes,\nDoris"
+    },
+    {
+        "from": "scammer_1947",
+        "to": "baiter_1947",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.008402777777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Dear Customer",
+        "body": "The bonanza will last only three working days,  I told you to go to Apple\r\nstore and buy the card and send me the card so the card is fee $25 for the\r\nBonanza"
+    },
+    {
+        "from": "baiter_1947",
+        "to": "scammer_1947",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.008773148148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Dear Customer",
+        "body": "Hello there,\n\nWow, that sounds like an interesting opportunity! I'm curious to know more about this bonanza. Can you tell me what it's all about? And why specifically an Apple store card? Is there a particular reason for this choice?\n\nLooking forward to hearing more from you.\n\nBest wishes,\nDoris"
+    },
+    {
+        "from": "scammer_1947",
+        "to": "baiter_1947",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.014039351851851851,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Dear Customer",
+        "body": "I have sent you the email before about the Bonanza I told you before to go\r\nto Apple store office and buy the card $25 immediately and send the the\r\npicture of the card"
+    },
+    {
+        "from": "baiter_1947",
+        "to": "scammer_1947",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.014212962962962964,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Dear Customer",
+        "body": "Hello there,\n\nThank you for your message. I remember you mentioning something about a Bonanza and going to the Apple store to buy a card. Could you please elaborate more on this? What kind of card am I supposed to buy and how is it related to the Bonanza? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDoris"
+    }
+]

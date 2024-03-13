@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_590",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  We Happy to announce to you ",
+        "body": "  We Happy to announce to you that upon conclusion of the Lotto Program,\nyour E-mail address has emerge as one of the newly introduced Digital\nLottery Program winner which was conducted via your registered email\nat our Lotto Draw Headquarters USA, organized by US l Inc on which\nyour E-mail address has emerge as one of the newly introduced Digital\nLottery Program winner which involves the use of email addresses\n Lottery offer this winning every year to promote the use of Internet\nand EMAIL, Your e-mail address has won Five Million United States\nDollars ( $5,000,000 USD) in the 2nd category and in this category\n(50) your E-mail address came out as winners and your E-mail is one of\nthem. Congratulation,\nYOUR WINNING NOTIFICATION:\nTicket number: 00545 188 564756,\nPrize #77801209/N,\nWINNING NUMBER: FB/575061725.\nSerial number 5368/02\nLucky numbers: 17 98 09 67 46\nKindly forward details for your won amount payment Processing today:\n=========================================================\n(1) Your Full names:\n(2) Your Mobile Number:\n(3) Your Contact address:\n(4) Your Occupation:\n(5) Your Country:\n(6) Your Age & Sex:\n(7) Marital Status:\nTHANKS, Digital Lottery:\nE-mail:  \ndigitaltteryProgram@gmail.com\n "
+    },
+    {
+        "from": "baiter_590",
+        "to": "scammer_590",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   We Happy to announce to you ",
+        "body": "Hello there! Thank you for reaching out and sharing this exciting news with me. I must say, winning a lottery sounds quite intriguing. Could you please provide me with some more information about the Digital Lottery Program? How does it work exactly? And what are the next steps for claiming the prize?\n\nBest wishes,\nTravis"
+    }
+]

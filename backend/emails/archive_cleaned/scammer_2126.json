@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2126",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello,",
+        "body": "  Hello,\nMy name is Mrs. Poyjairapee Teriyapirom, A Thailand citizen. I am the wife of Bonsoong Teriyapirom the former Minister of Commerce of Thailand, who has been locked up for a Rice Business Deal with China. I just got your contact today during my web search for a competent individual in your country who can assist me with my Inheritance money left for me by my husband. This money was deposited by my husband in a bank here in Thailand and I seek a foreign assistant to have this money transferred out of Thailand for our mutual benefit. We will share this money equally, If you agreed to help me achieve this aim. Let me know your decision for more details on how to proceed.\nI am not fluent in English. I use translator for communication. Email communication is preferable.\nYou can read about my husband here if you need clarity:\nhttps:/ /www.reuters.com/article/thailand-politics-rice/thailand-files-charges-against-former-commerce-minister-idINKBN0MD0QB20150317/\nI am not fluent in English. I use translator for communication. Email communication is preferable.\nI wait your reply.\nBest Regards.\nPoyjairapee Teriyapirom.   "
+    },
+    {
+        "from": "baiter_2126",
+        "to": "scammer_2126",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello,",
+        "body": "Hello,\n\nThank you for reaching out and sharing your situation with me. I'm sorry to hear about the predicament you're in. It must be really tough for you.\n\nI'm interested in learning more about this situation. Could you please provide more details? For instance, how did your husband manage to deposit the money in a bank while he was locked up? Also, could you explain why it's necessary to move the money out of Thailand?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDorothy"
+    }
+]

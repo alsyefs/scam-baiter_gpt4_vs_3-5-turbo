@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_966",
+        "to": "baiter_966",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "OFFRE TRÈS URGENT",
+        "body": "Mes salutations\r\n\r\nQue les bénédictions et la paix soient avec vous. Je m'appelle GEORGE BRUMLEY, ingénieur né le 31 mai 1938.\r\n\r\nJe vous contacte suite à une recherche via Internet car c'est le seul moyen dont je dispose pour le moment et je vous présente mes excuses pour cette intrusion.\r\n\r\nJe viens avec ce message pour vous apporter de bonnes nouvelles et de la joie dans votre vie.\r\nJe vous serais reconnaissante de vous faire un don de 500 000 € qui pourrait vous aider dans votre entreprise et vos projets et je vous demande de l'accepter car c'est un cadeau que je vous fais sans rien demander en retour seulement de prier pour moi.\r\n\r\nEn effet, je souffre d'un cancer du cerveau qui est en phase terminale et mon médecin traitant m'a informé que mes jours sont comptés.\r\n\r\nAttention :\r\nCeci est un message automatique. Si vous recevez ce message, veuillez contacter mon conseiller financier à l'adresse suivante :\r\n\r\nNom : Moi Pablo De Doncker\r\nRue du Vieux Marché aux Grains 51, 1000\r\nE-mail : pablodedoncker20@outlook.fr\r\n\r\nAfin qu'il puisse vous assister dans les démarches.\r\n\r\n\r\nM. GEORGE BRUMLEY"
+    },
+    {
+        "from": "baiter_966",
+        "to": "scammer_966",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: OFFRE TRÈS URGENT",
+        "body": "Bonjour M. Brumley,\n\nJe suis vraiment désolé d'entendre parler de votre situation. C'est très généreux de votre part de penser à aider les autres dans ces moments difficiles.\n\nCependant, j'ai quelques questions pour mieux comprendre. Pourquoi avez-vous choisi de me contacter spécifiquement? Et comment avez-vous trouvé mes coordonnées?\n\nDe plus, pouvez-vous me donner plus d'informations sur ce don? Comment cela fonctionnerait-il exactement?\n\nMerci beaucoup pour votre temps et j'attends avec impatience votre réponse.\n\nBest wishes,\nMike"
+    }
+]

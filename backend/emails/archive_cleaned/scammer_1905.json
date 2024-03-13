@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1905",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "POST OFFICE COURIER  COMPANY",
+        "body": "POST OFFICE COURIER  COMPANY\n Mobolaji  Bank Anthony Way, Ikeja.\nLagos Nigeria.\nAttention: Beneficiary, ATM Master Card /Bank Draft\nThis is Post Office Courier Delivery Company of Nigeria, the\nManagement of this company, wishes to inform you that, we received a\nParcel containing a Bank Draft/an ATM Master Card valued $10.5 million\nUnited State Dollars, with some vital documents attached on it, for\nsafety delivery to Your home address in your country, within’ the next\n72 hours as soon as we Hear from you. This is (payment office) I am\ndirected to inform you that \nyour payment verification and\nconfirmations is OK.\nFull names.....\nParcel owner address.....\nTel.....\nSex.....\nOccupation.....\nAge ....\nWaiting for your urgent responds as expected:\nYours sincere .\nMr. Johnson Uzo .\n+234-814-445-6438.\nDispatch Manager Post Office Company.\nContact Email: \npostofficecourierservice4@gmail.com"
+    },
+    {
+        "from": "baiter_1905",
+        "to": "scammer_1905",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: POST OFFICE COURIER  COMPANY",
+        "body": "Hello Mr. Johnson Uzo,\n\nThank you for reaching out to me. I appreciate the information regarding the parcel containing a Bank Draft and an ATM Master Card. It sounds like an important delivery.\n\nCould you please provide me with more details about this parcel? Specifically, I would like to know who sent it and what it is for. Additionally, how did you obtain my contact information?\n\nI look forward to your response.\n\nBest wishes,\nBarbara"
+    }
+]

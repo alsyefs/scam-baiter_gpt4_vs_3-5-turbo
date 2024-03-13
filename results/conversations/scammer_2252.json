@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2252",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir/Madam",
+        "body": "  Dear Sir/Madam\n \nRe: Scam/Fraud compensation Claim Update\nWe refer to the above referenced subject.\n \nGood Day. The undersigned have an urgent message for you in regard to the above subject matter.\nIt would be appreciated, if you would kindly confirm the receipt of this email.\n \nRespectfully yours,\n--\nRespectfully yours,\nRoger Pratt Esq.   "
+    },
+    {
+        "from": "baiter_2252",
+        "to": "scammer_2252",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir/Madam",
+        "body": "Hello Roger Pratt Esq.,\n\nThank you for reaching out. I have received your email regarding the urgent message related to the subject matter. Could you please provide more details about what this message entails? I would appreciate any additional information you can share.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAndrew"
+    },
+    {
+        "from": "scammer_2252",
+        "to": "baiter_2252",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Sir/Madam",
+        "body": "Attention: Andrew\r\n\r\nRe: Scam/Fraud Compensation Claim Update\r\n\r\nWe refer to the above referenced subject.\r\n\r\nBE IT KNOWN, that the undersigned hereby acknowledges receipt of your\r\nresponse to my email in regards to your approved compensation fund GB£\r\n870,000.00. This compensation fund was allocated to you by our government\r\nbecause a UK establishment was used for the scam attempt on your person\r\nthat might have caused you so much pain in the past according to the\r\nrecords available to us. On behalf of the UK government, we sincerely\r\napologize for all the inconveniences this might have caused you.\r\n\r\nBecause of the bottleneck associated with your transaction in the past,\r\nthis is to inform you that I have made a special arrangement with a\r\nfinancier consultant who specializes in financial transactions. I have\r\ndiscussed with him very well and he is going to make this transaction very\r\nsuccessful.\r\n\r\nI will like you to contact him directly and follow all the instruction from\r\nhim so that you will receive this money\r\n\r\nWe recommend you contact the nominated Financial Consultant below, who has\r\nyears of experience in financial matters.\r\n\r\nFinancial Consultant’s details;-\r\n\r\nAttention; Dr. Mack Wilson\r\n\r\nEmail: info@financials-consultant.com\r\n\r\nPlease email to the consultant a copy of our correspondence for his perusal.\r\n\r\nAs stated earlier, because of the bottlenecks experienced by you in the\r\npast as a result of the Bank procedures and processes in transferring your\r\nfunds thereby defrauding you in the process, we had extensive discussion\r\nwith a reputable forex company in the USA called Fab Trades Broker to\r\nfacilitate the release of your funds.\r\n\r\nThere are no legal ramifications with your involvement in the claim\r\nprocess, just you know.\r\n\r\nRespectfully yours,\r\n\nRoger Pratt"
+    },
+    {
+        "from": "baiter_2252",
+        "to": "scammer_2252",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0005208333333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Sir/Madam",
+        "body": "Hello! Thank you for sharing this information with me. It's interesting to hear about the fund allocated by the government of the UK due to a scam attempt. Can you provide more details about how this process works and what steps need to be taken to receive the funds?\n\nBest wishes,\nAndrew"
+    }
+]

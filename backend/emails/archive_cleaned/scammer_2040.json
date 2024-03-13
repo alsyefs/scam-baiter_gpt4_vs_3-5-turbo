@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2040",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Wema Bank Plc ;Head Office,",
+        "body": "Wema Bank Plc ;Head Office,\nWema Towers,54, Marina,\nTinubu Square, Lagos.\nNigeria .\nAlternative email:owengilbert01@yahoo.com\nDear beneficiary,\nCHANGE OF BENEFICIARY\nThis is very urgent and urgent attention is needed.\nIn our office today, was the presence of one Mr. John T. Kehoe of 1200 Fitch Way, Sacramento, Ca. 95864 filing application contrary to your pending fund transfer. The above-mentioned people visited this Bank yesterday with a power of attorney given in his favor by your good self, granting him the benefit to process and claim your US$5,000,000.00(Five Million United States Dollars Only) for personal reasons.\nHe further Stated that the online account be Terminated while the fund should be wired to his Bank account with Bank Of America, Routing Number 121000358. Our office has asked Mr. John T. Kehoe to return back within 48 hours to enable us to have a personal confirmation from you being hitherto the beneficiary.\n1. Did you instruct Mr. John T. Kehoe of 1200 Fitch Way, Sacramento, Ca. 95864, to claim and receive the payment on your behalf?\n2. Did you sign any 'Deed of Assignment' in his favor thereby making him the current beneficiary?\nIf you did, well, we are sorry to have delayed your instruction in giving out this fund since we must adhere to the procedures of this honorable bank by making sure this request is verified and confirmed by the beneficiary.\nYour quick reply via this alternative email will be appreciated:owengilbert01@yahoo.com :\nYours Faithfully,\nMr Owen F, Gilbert\nExecutive."
+    },
+    {
+        "from": "baiter_2040",
+        "to": "scammer_2040",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Wema Bank Plc ;Head Office,",
+        "body": "Dear Mr. Owen F. Gilbert,\n\nThank you for reaching out to me regarding this matter. I must admit, I am a bit confused about the situation you have described. I do not recall instructing anyone named Mr. John T. Kehoe to claim or receive any payment on my behalf.\n\nCould you please provide me with more details about this transaction? How did Mr. Kehoe obtain the power of attorney in his favor? Is there any documentation or proof that he is acting on my behalf?\n\nI want to ensure that everything is handled correctly and according to the procedures of your bank. Can you please explain what steps need to be taken to verify and confirm this request?\n\nThank you for your assistance.\n\nBest wishes,\nBrandi"
+    }
+]

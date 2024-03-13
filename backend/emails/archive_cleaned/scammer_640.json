@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_640",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "My Dear,",
+        "body": "My Dear,\nI have a substantial concealed capital, honorably inherited  which I intend investing in any lucrative business venture of our choice, for the mutual benefits of both of us.\n \nI shall be glad to reserve this respect and opportunity for you, if you so desire while I continue my education there. The amount will be made known to you and back up with the legal papers as soon as I receive your positive response regarding the investment plans.\n \nThank you so much for your understanding and May almighty God bless you and your Family to the Glory of God Almighty,\nSincere regards,\nPeter John"
+    },
+    {
+        "from": "baiter_640",
+        "to": "scammer_640",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: My Dear,",
+        "body": "Hello Peter John,\n\nThank you for reaching out to me with this opportunity. I'm interested in learning more about the investment plans you have in mind. Could you please provide me with some additional details? What kind of business venture are you considering? How much capital are you looking to invest?\n\nI appreciate your willingness to share the legal papers once we proceed further. It's important to ensure everything is done properly and legally.\n\nLooking forward to hearing back from you soon.\n\nBest wishes,\nJerald"
+    }
+]

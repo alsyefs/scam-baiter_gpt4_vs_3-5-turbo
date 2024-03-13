@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2470",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "loyds TSB Bank Securities,",
+        "body": "loyds TSB Bank Securities,\nLloyds Tsb Customer,  2023 Security\nWalthamstow(309908) Branch, 180-182  \nHigh street,Walthamstow,\nLondon E17 7JH Uk.\nAttention Sir\nHow are you, hope fine?\nThis is to confirm the receipt of a fund transfer in your name and the said has been deposited in the escrow account of this bank for onward clearance and transfer to you.\nWe know your good effort, your sincerity, honesty and the pains you are going through. It is our desire to see you come out of this difficult times and have your everlasting peace and financial stability.\nBased on this sir, we expect you to put everything behind you and  solve this challenge and permanently solve it so that you will have your financial rest and freedom forever.\nWe wait to receive your response urgently.\nThank you for your good understanding as we look forward to hearing back from you sir.\nYours faithfully,\nMrs Helen Anderson,\nLloyds Tsb Bank Uk.\nThis email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager. This message contains confidential information and is intended only for the individual named. If you are not the named addressee, you should not disseminate, distribute or copy this email. Please notify the sender immediately by email if you have received this email by mistake and delete this email from your system. If you are not the intended recipient, you are notified that disclosing, copying, distributing or taking any action in reliance on the contents of this information is strictly prohibited."
+    },
+    {
+        "from": "baiter_2470",
+        "to": "scammer_2470",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: loyds TSB Bank Securities,",
+        "body": "Hello,\n\nThank you for reaching out to me. I hope you are doing well too. I received your email regarding the fund transfer in my name. Could you please provide me with more details about this transfer? I want to make sure that everything is in order before proceeding.\n\nAlso, could you clarify what you mean by \"putting everything behind me and solving this challenge\"? I would appreciate some more information on that matter.\n\nLooking forward to your response.\n\nBest wishes,\nJulie"
+    }
+]

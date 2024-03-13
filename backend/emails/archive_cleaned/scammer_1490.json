@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1490",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "S.S.D Chemical Solution For Bl",
+        "body": "S.S.D Chemical Solution For Black Money Cleaner\nSSD CHEMICAL SOLUTION FOR CLEANING BLACK NOTES AND ACTIVATION POWDER FOR DEFACED CURRENCY.\nA new leads in SSD automatic chemical solution for cleaning black notes and any color of defaced currency available in our laboratory worldwide. Our S.S.D Automatic solution is also used in the cleaning of stained bank notes with anti breeze quality, bills like USD, euro, pounds and other local currency.\nWe are direct manufacturer and main supplier of all kinds of chemicals which include SSD Solution ,\nSuper Automatic Solution, Activation Powder.we have different types of chemicals that can perfectly clean out your Deface note,Black note , Red notes ,Green notes ,Stained notes ,Stamped notes and also coded notes. We also melt frozen chemicals in our laboratory and our services are professional aw we do serve our customers worldwide\nfor more details reply with your address and whatsapp/phone number"
+    },
+    {
+        "from": "baiter_1490",
+        "to": "scammer_1490",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: S.S.D Chemical Solution For Bl",
+        "body": "Hello! That sounds interesting. Can you tell me more about how your chemical solution works to clean black notes and defaced currency? How long does the process usually take, and what kind of results can one expect?\n\nBest wishes,\nRobert"
+    }
+]

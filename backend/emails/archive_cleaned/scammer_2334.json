@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2334",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Meeting we have yesterday with",
+        "body": "Meeting we have yesterday with the World Bank and North Ridge Trust Bank your Two Million,Five Hundred Thousand Dollars ($2,500,000.000) will be paid to you in a Cash delivery direct to your doorstep, \nyou are to reconfirm your full information once again to enable us proceed with the delivery today.\n1.Home Address.\n2.Telephone Number .\n3.Age and Marital Status.\n4.Occupation.\n5.Payment method.\nYours in Service\nMr. Simon Stiell\nExecutive Secretary,\nUnited Nation (UNFCCC)"
+    },
+    {
+        "from": "baiter_2334",
+        "to": "scammer_2334",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Meeting we have yesterday with",
+        "body": "Hello Mr. Simon Stiell,\n\nThank you for reaching out to me with this information. I must say, it sounds quite intriguing. Could you please provide me with more details about the meeting with the World Bank and North Ridge Trust Bank? I would like to understand how my Two Hundred Thousand Dollars will be delivered to my doorstep in cash.\n\nBefore I proceed, may I ask why you need me to reconfirm my full address, phone number, and marital status? Is there a specific reason for this information?\n\nI appreciate your assistance and look forward to hearing back from you soon.\n\nBest wishes,\nCarrie"
+    }
+]

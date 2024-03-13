@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1541",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  I am counsel to Late Brad  W",
+        "body": "  I am counsel to Late Brad  Wilson, who died on the 20th of February 2020 with his immediate family in a car accident. Before his death, he had a deposit of over $24,500,000.00 in a bank, which by law would revert to an established next of kin in the event of his death.\nI seek your consent to present you as the deceased's next of kin, as you both bear the same surname. This gives you the right to claim this account's proceeds, and then we can both share it on agreed terms.\nReply if you wish to continue, and also kindly send your number so we can discuss this privately for further deliberation.\nRespectfully,\nMarko Steivic\nEamil:  \nmarkosteivic97@gmail.com\n "
+    },
+    {
+        "from": "baiter_1541",
+        "to": "scammer_1541",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   I am counsel to Late Brad  W",
+        "body": "Hello Marko Steivic,\n\nWow, that's quite a story! I'm sorry to hear about the tragic accident involving Brad Wilson. It must have been a terrible shock for everyone who knew him.\n\nI'm intrigued by your proposal, but I have a few questions before we proceed. How did you come across my name and why do you think I could be related to Mr. Wilson? Also, what would be the process of claiming this account's proceeds?\n\nLooking forward to hearing from you soon.\n\nP.S: I prefer to keep our conversation here for now until we understand each other better.\n\nBest wishes,\nEric"
+    }
+]

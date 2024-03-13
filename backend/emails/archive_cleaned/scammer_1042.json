@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1042",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Verified Beneficiary,",
+        "body": "  Dear Verified Beneficiary,\nThe management of HSBC and Federal Reserve controlling department wish to inform you date Monday 25th day of Sept 2023 that we had concluded every necessary arrangement to move your funds which was successfully credited into your HSBC  Account number 6021253365 with routing number 239936957 established with \"HSBC Bank\" in favor of you\" into  our Security Suspense Account as an unclaimed fund along with your HSBC Checking Account Booklet and Platinum MasterCard next week due to your delay in sending the required fee to complete the final crediting and transfer of funds into your nominated account number.\nThanks for your understanding as we guarantee to serve you better with co-operation and understanding.\nFor further instruction reply to this Email:    \nYours Sincerely,\n \nMR George W. Madison.\nFOREIGN OPERATIONS OFFICER HSBC BANK DEPARTMENT.\nhttp:/ /www.us.hsbc.com\nTel:(978) 928 9527   "
+    },
+    {
+        "from": "baiter_1042",
+        "to": "scammer_1042",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Verified Beneficiary,",
+        "body": "Hello Mr. George W. Madison,\n\nThank you for reaching out and informing me about the status of my funds. I must say, this is quite unexpected as I wasn't aware of any pending transactions or unclaimed funds in my name.\n\nCould you please provide more details about this? For instance, how did these funds come to be associated with my account? Also, could you clarify what the required fee is for?\n\nI appreciate your assistance and look forward to your response.\n\nBest regards.\n\nBest wishes,\nPauline"
+    }
+]

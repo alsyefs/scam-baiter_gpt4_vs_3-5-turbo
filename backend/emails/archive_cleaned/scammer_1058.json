@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1058",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello  ",
+        "body": "  Hello  \n       Congratulations, As you have been confirmed for a donation of $850,000.00 towards The International Development Relief Fund. According to WHO / USAID / IDA and World Bank, 2024:\nPlease note: this is not an application for funding. This is a donation. With 100% government approved financing. 2024\nThe donation is for individuals/companies who have been laid off due to the incidents and also for retired, semi-retired, workers etc. So congratulations and hope you make good use of your payment to eradicate poverty and create jobs for the less privileged layers of the population.\nFor efficient, secure and easy bank transfer, please provide the above information for EFT Direct Bank Transfer. Instant reflection.\nBANK TRANSFER\n====================\nBANK'S NAME:\nACCOUNT NAME:\nACCOUNT NUMBERS:\nADDRESS OF THE BANK:\nBRANCH CODE:\nA COUNTRY:\nTHE CITY IS LOCATED:\nYOUR ID or driver's license:\nSAVINGS or CHECK:\nPlease provide the required information as ID or Driver's License is 100% required to verify ownership.\nThank you, congratulations again,\nIDA\nFunded by: World Bank,\nCredit Card Support: 00 1 314-275-6779.\nHeadquarters: USA/AUSTRALIA/UKRAINE/UK//CANADA/RUSSIA/SWITZERLAND\nSubsidiaries: World-Bank, HSBC Bank\nAdministrator position: Payment specialist:\nActivist: Credit Card Support\nEmail: \ninfo.idan2023@hotmail.com\nState accreditation: 2024   "
+    },
+    {
+        "from": "baiter_1058",
+        "to": "scammer_1058",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello  ",
+        "body": "Hello IDA,\n\nThank you for reaching out and sharing this information about the donation. It sounds like a great initiative to support those who have been affected by recent incidents and to help create opportunities for the less privileged.\n\nI appreciate your concern for efficient and secure bank transfers. However, I would like to know more about the organization or company behind this donation. Can you please provide me with some additional details? Such as the name of the organization, its mission, and any other relevant information that can help me understand better?\n\nAlso, could you clarify what you mean by \"less privileged layers\"? Are there specific criteria or qualifications for individuals or companies to be eligible for this donation?\n\nThank you again for sharing this opportunity with me. I look forward to learning more.\n\nBest wishes,\nDee"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2048",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello, Did you receive my la",
+        "body": "  Hello, Did you receive my last email about your funds the sum of $10.5M which you authorize Mr. Camil Zettl to receive on your behalf?\nAs soon as I hear back I will work out the finer details.\nMr. Paul   "
+    },
+    {
+        "from": "baiter_2048",
+        "to": "scammer_2048",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello, Did you receive my la",
+        "body": "Hello Mr. Paul, thank you for reaching out. I believe I may have missed your previous email regarding the funds. Could you please provide me with more information about the process and how I can proceed?\n\nBest wishes,\nKimberly"
+    }
+]

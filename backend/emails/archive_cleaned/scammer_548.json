@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_548",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  I want to use this opportuni",
+        "body": "  I want to use this opportunity to inform you that the Commission is\npaying the sum of TWENTY SEVEN MILLION, NINE HUNDRED AND SIXTY\nTHOUSAND UNITED STATES DOLLARS (USD27,960,000) to individuals who are\nyet to receive their fund.\nKINDLY CONTACT ME FOR MY EMAIL ( \ndenismiller615@gmail.com\n )\nGet back to me for more details and better understanding .\nBest Regards,\nDenis Miller.   "
+    },
+    {
+        "from": "baiter_548",
+        "to": "scammer_548",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   I want to use this opportuni",
+        "body": "Hello! Thank you for sharing this information with me. I'm interested in learning more about how to claim the funds. Could you please provide me with further details on the process?\n\nBest wishes,\nStanley"
+    },
+    {
+        "from": "scammer_548",
+        "to": "baiter_548",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: I want to use this opportuni",
+        "body": "Thanks for your response. Like I said earlier, I wanted to use this\r\nopportunity to let you know that the United Nations Compensation Commission\r\nfollowing the conclusion of claims processing, the Commission awarded $69.9\r\nTrillion to approximately 2.5 million successful claims from individuals,\r\ncorporations, governments and international organizations. With the final\r\npayment of compensation made on December 27,  2023, all compensation\r\nawarded by the Commission has now been paid in full.\r\n\r\nThe Commission is paying the sum of TWENTY SEVEN MILLION, NINE HUNDRED AND\r\nSIXTY THOUSAND UNITED STATES DOLLARS (USD27,960,000) to individuals who are\r\nyet to receive their fund. The Panel of Commissioners reviewed and\r\nevaluated the claims submitted by governments, international organizations,\r\ncompanies, and individuals. This claim is for production and financial\r\nlosses as a result of damages caused by the COVID-19 PANDEMIC, overdue\r\ncontract payment, Lottery awards, Next-of-kin, etc.\r\n\r\nKindly get back to us and tell us where your payment falls in and also\r\nindicate if you have received yours (i.e USD27,960,000) Twenty Seven\r\nMillion, Nine and Sixty thousand United States Dollars. Please indicate but\r\nif you have received your fund, also indicate if you have not. Note, you\r\nmust stop all further communication/transactions with any Agents, Payment\r\nCenter, Diplomatic Agent, and Financial institution as discussed and\r\nconcluded in the United Nations Compensation Commission (UNCC) committee\r\nsummit/meeting. Therefore, if you have not received your fund respond to\r\nthis message with the following details;\r\n\r\n1) Your Name:\r\n2) Address:\r\n3) Phone Number:\r\n\r\nGet back to us as soon as possible so that we will articulate the way\r\nforward.\nBest Regards,\r\n\r\nDenis Miller."
+    },
+    {
+        "from": "baiter_548",
+        "to": "scammer_548",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.012256944444444445,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: I want to use this opportuni",
+        "body": "Thank you for sharing this information with me. It's interesting to hear about the United Nations Commission's actions regarding successful claims. Can you provide more details on how the process works for receiving the awarded funds? I'm curious to learn more about the evaluation of claims and how individuals are contacted for payment.\n\nBest wishes,\nStanley"
+    },
+    {
+        "from": "baiter_548",
+        "to": "scammer_548",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.34739583333333335,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: I want to use this opportuni",
+        "body": "Thank you for sharing this information. Can you provide more details about how the United Nations Commission is distributing these funds? How can individuals verify the authenticity of this process?\n\nBest wishes,\nStanley"
+    },
+    {
+        "from": "baiter_548",
+        "to": "scammer_548",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.43082175925925925,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: I want to use this opportuni",
+        "body": "Thank you for sharing this information with me. It's interesting to hear about the United Nations Commission's actions regarding successful claims and payments. Can you provide more details on how individuals can verify their eligibility for the payment? I'm curious to learn more about the process involved in receiving the funds.\n\nBest wishes,\nStanley"
+    },
+    {
+        "from": "baiter_548",
+        "to": "scammer_548",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.43149305555555556,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: I want to use this opportuni",
+        "body": "Thank you for sharing this information with me. It's interesting to hear about the United Nations Commission's actions regarding successful claims and payments. Can you provide more details on how individuals can verify their eligibility for the payment? How does one ensure that they are communicating directly with the Commission to receive their funds?\n\nBest wishes,\nStanley"
+    },
+    {
+        "from": "baiter_548",
+        "to": "scammer_548",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.47215277777777775,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: I want to use this opportuni",
+        "body": "Thank you for sharing this information with me. It's interesting to hear about the United Nations Commission's actions regarding successful claims. Can you provide more details on how individuals can verify their eligibility for the payment? I'm curious to learn more about the process and how it all works.\n\nBest wishes,\nStanley"
+    }
+]

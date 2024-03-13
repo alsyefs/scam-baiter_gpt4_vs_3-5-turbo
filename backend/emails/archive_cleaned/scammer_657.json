@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_657",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention:Beneficiary,",
+        "body": "Attention:Beneficiary,\nThis is to be kindly inform you that the President of Nigeria Mr.Bola Ahmed Tinubu,is now have concluded approved release of your abandon FUND US30.5M,\nfor immediate your FUND release to you this new year 2024 January and will are have program your FUND via ATM Card for delivery to your home address,\nso because of delay\n if you are the one been the real beneficiary of this FUND Do not be delay and kindly send your address details information requested below,\nYour Full Name\nYour Country\nYour Age\nYour telephone number\n[color=#FF0000]Copy Of your ID Card passport\nYour Occupation[/color]\nwas i received your details i will proceed ON how you are going to be receive  your ATM Card in your name for delivery to your home address destination,\nRegards,\nDr.Olayemi Michael Cardoso,\nCBN)Governor Nigeria"
+    },
+    {
+        "from": "baiter_657",
+        "to": "scammer_657",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attention:Beneficiary,",
+        "body": "Hello Michael Cardoso,\n\nThank you for reaching out to me. I appreciate the information regarding the release of my abandoned fund. However, before I proceed, I have a few questions that I would like to clarify.\n\n1. Can you please provide more details about the origin and nature of this fund?\n2. How did you come across my information and determine that I am the rightful recipient?\n3. Is there any documentation or proof that can be provided to validate this transaction?\n\nI look forward to your response.\n\nBest wishes,\nBillye"
+    }
+]

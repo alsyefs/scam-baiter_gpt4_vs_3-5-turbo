@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1519",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  EUROMILLONES LOTERIA INTERNA",
+        "body": "  EUROMILLONES LOTERIA INTERNATIONAL\nSPANISH SWEEPSTAKE LOTTERY INT.                                                                                                                     20TH FEBRUARY, 2024\nAv. De La Reina Victoria 43\n28003 Madrid Spain.\nINTERNATIONAL PROMOTIONS/ PRIZE AWARD DEPT.\nATTN: REF: MCC/64370/\nBATCH: MCC/64370 /EU/23\nAWARD NOTIFICATION/FINAL NOTICE\nWe are pleased to inform you of the released results of the EUROMILLONES LOTERIA INTERNATIONAL SPANISH SWEEPSTAKE PROMOTION PROGRAM, held on 12th February, 2024. Your name attached to the Ticket number 016 –01461571 – 146 with Serial number MCC – 64370 drew the lucky numbers 07 – 12 – 19 – 33 – 43 which consequently won the lottery in the 1ST Category.\n You have therefore been approved for a lump Sum payout of Ђ66,081,021.00 (SIXTY-SIX MILLION EIGHTY-ONE THOUSAND ONE AND TWENTY-ONE EURO) in cash credited to File Nє: MCC/64370/.\nYour Fund is now deposited with a Security Company insured to your name. Due to the mix up of numbers and names, we ask you to keep this Award top secret from public notice until your claim has been processed and your money remitted to your account as this is a part of our security Protocol to avoid double claiming or unwarranted taking advantage of this program by participants.\nAll our Beneficiaries were selected through a Computer Ballot System drawn from 50,000 names from Europe, Australia, Asia, and America as part of our INTERNATIONAL PROMOTION PROGRAM which we conducted once every year. We hope with a part of your prize you will take part in our 2024 Christmas high Stake of Ђ1.5 billion International Lottery.\nTo begin your claims please contact our Lawyer Barr. Haverkorn Thomas Foreign Services Lawyer of MAPFRE SEGUROS S.A..on Tel: +34 613 387 878, Email:mapfresegurossalaw@gmail.com for processing and remittance of your prize money either to a designated account of your choice or by a certified cheque. Remember that all prize money must be claimed no later than 30th March, 2024. After this date, all funds will be returned to the Ministerial de Economнa y Hacienda as unclaimed.\nNOTE: In order to avoid unnecessary delays and complications, please remember to quote your Reference and Batch Number in every of your Correspondence with us or your Agent. And remember you have to pay 5% of your winning fund to your claims agent after the fund gets to you. Furthermore, should there be any change of your Address, do inform your claim Agent as soon as possible. Congratulations from all Members of our Department and thank you for being a part of our PROMOTION PROGRAM.\nSINCERELY,\nFRAN MARTINEZ                                                      PRIZE CLAIM TRACK\nVICE PRESIDENT                                                      ? MCC64370   "
+    },
+    {
+        "from": "baiter_1519",
+        "to": "scammer_1519",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   EUROMILLONES LOTERIA INTERNA",
+        "body": "Hello there,\n\nWow, this is such exciting news! I can't believe my luck. I've never won anything before, so this is a pleasant surprise. \n\nI do have a few questions though, if you don't mind. How was my name selected for this lottery? And could you please explain more about the process of claiming the prize money? Also, what does MCC stand for?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRyan"
+    },
+    {
+        "from": "scammer_1519",
+        "to": "baiter_1519",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re:   EUROMILLONES LOTERIA INTERNA",
+        "body": "Congratulations!\r\n\r\nI acknowledge your mail, kindly send us the following details as it is necessary to process your winning coupon from the security company.\r\n\r\nReference number:\r\nTicket numbers:\r\nName:\r\nSurname:\r\nAddress:\r\nPhone/WhatsApp\r\n\r\nPlease note that it is also very important that you attach your valid identity document as it is necessary for proper identification.\r\n\n⁣Best Regards,\r\nBARR. Haverkorn Thomas\r\nMapfre Seguros SA​"
+    },
+    {
+        "from": "baiter_1519",
+        "to": "scammer_1519",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.01787037037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re:   EUROMILLONES LOTERIA INTERNA",
+        "body": "Hello BARR. Haverkorn Thomas,\n\nThank you for your email and the exciting news about the winning coupon! I'm thrilled to hear about this opportunity.\n\nHowever, before we proceed, could you please provide me with more information? For instance, how was I selected for this winning coupon? Also, what is the process of claiming it?\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRyan"
+    }
+]

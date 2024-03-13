@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_916",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention to the DHL diplomati",
+        "body": "Attention to the DHL diplomatic agent of United state of America.. i\nwas sent by CEO of FedEx office to deliver your compensated package\nbox to your address right now, And your package worth $30,000,000.00\nmillions dollars and \nI will like you to verify me your home address so\nthat I can forward your delivery package to your address right now\nhope you are ready to receive it?\nYour Full Name\nYour Address\nPhone number\nYour email\nthank you.\nMrs. SANDRA C, ACRES\nText me at--  +1(220) 247-2426\nEmail.... \nfundscompensation243@gmail.com"
+    },
+    {
+        "from": "baiter_916",
+        "to": "scammer_916",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attention to the DHL diplomati",
+        "body": "Hello Mrs. Sandra C, Acres,\n\nThank you for reaching out to me. I'm thrilled to hear about this package! It's not every day that one gets a delivery worth millions of dollars.\n\nCould you please tell me more about the contents of this package? And how did it come to be that I am the lucky recipient of such a valuable delivery?\n\nLooking forward to hearing from you soon!\n\nBest regards.\n\nBest wishes,\nEdwin"
+    }
+]

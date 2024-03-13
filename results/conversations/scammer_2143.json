@@ -1,0 +1,122 @@
+[
+    {
+        "from": "scammer_2143",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Beneficiary,",
+        "body": "  Dear Beneficiary,\nyour payment fund have approved to be paid to you so please reconfirmed your bank details information where you want to fund to be credited and let me know if you send anybody to come and represent to you and claim the fund on your behalf,and reconfirm your info to alternative email: \nproofpayment615@gmail.com\nThank God\nMr Mara Baro   "
+    },
+    {
+        "from": "baiter_2143",
+        "to": "scammer_2143",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Beneficiary,",
+        "body": "Dear Mr. Mara Baro,\n\nThank you for reaching out to me regarding the approval of my payment fund. I appreciate your assistance in this matter. However, before I provide you with my bank details, I would like to clarify a few things.\n\nCould you please provide me with more information about the payment fund? What is the source of the funds and why have they been approved for me specifically? Additionally, what is the total amount of the fund that will be credited to my account?\n\nFurthermore, I would like to know more about the process of sending someone to represent me and claim the fund on my behalf. How does that work exactly? Are there any fees or charges associated with this service?\n\nI look forward to your response and thank you again for your help.\n\nBest wishes,\nJohn"
+    },
+    {
+        "from": "scammer_2143",
+        "to": "baiter_2143",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "Dear Sir\r\n\r\n\r\nI receive your email Mr John there is no time to be wasting here since the\r\ninheritance fund payment of $10.5m has been recovered from the hand of the\r\ncriminals and available to be paid to you without any delay as soon as you\r\nprovide your information where the fund will be credited\r\n\r\n\r\nThank you\r\n\r\n\r\nMr Mara Baro"
+    },
+    {
+        "from": "baiter_2143",
+        "to": "scammer_2143",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.058576388888888886,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "Dear Mr. Mara Baro,\n\nThank you for reaching out to me. I appreciate your prompt response regarding the fund payment. However, before I provide any information, could you please clarify a few things for me? I want to make sure that everything is in order.\n\n1. Could you please confirm the source of this fund payment? How was it recovered from the criminals?\n\n2. What is the total amount of the fund that will be credited to me?\n\n3. Are there any fees or charges associated with this transaction? If so, could you please provide details about them?\n\nI look forward to your response and further guidance on how to proceed.\n\nBest wishes,\nJohn"
+    },
+    {
+        "from": "scammer_2143",
+        "to": "baiter_2143",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.32471064814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "Dear John Sir\r\n\r\nnow you have to be serious to obtain opening file which is 1,500 to obtain\r\nit so that I can be able to clarify you on the question you ask regarding\r\nthe recovering clarify you on the question you ask regarding the recovering\r\n10.5 million dollars that is available to remade into your destination bank\r\naccount as soon as you are live\r\n\r\n\r\nThank you\r\n\r\n\r\nMr Mara Baro"
+    },
+    {
+        "from": "scammer_2143",
+        "to": "baiter_2143",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.282939814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "looking forward to hear from you today"
+    },
+    {
+        "from": "baiter_2143",
+        "to": "scammer_2143",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.592349537037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "Dear Mr. Mara Baro,\n\nThank you for reaching out to me. I'm interested in learning more about this opportunity to recover a million dollars. Could you please provide me with some additional details? How exactly does the process work? Is there any cost involved on my end?\n\nI appreciate your time and look forward to hearing from you soon.\n\nBest wishes,\nJohn"
+    },
+    {
+        "from": "baiter_2143",
+        "to": "scammer_2143",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.36275462962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "Hello there! I hope you're having a great day. I'm always open to hearing new information and sharing ideas. What's on your mind?\n\nBest wishes,\nJohn"
+    },
+    {
+        "from": "scammer_2143",
+        "to": "baiter_2143",
+        "direction": "Inbound",
+        "days_from_first_conversation": 8.24101851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "inheritance fund available to pay to you is 10,5 million"
+    },
+    {
+        "from": "scammer_2143",
+        "to": "baiter_2143",
+        "direction": "Inbound",
+        "days_from_first_conversation": 8.241805555555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "Dear Beneficiary,\r\n\r\nI am contacting you in the regards of your fund payment of 10.5 million\r\nthat have been approved to be credited so please reconfirm  bank\r\ninformation to the email mrmarabaro@gmail.com\r\n\r\n\r\nThank you\r\n\r\n\r\nMr.Mara Baro"
+    },
+    {
+        "from": "baiter_2143",
+        "to": "scammer_2143",
+        "direction": "Outbound",
+        "days_from_first_conversation": 8.258530092592592,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "Hello Baro, thank you for reaching out about the fund payment. I would like to know more details about the approval process. Can you provide me with information on how the funds will be transferred?\n\nBest wishes,\nJohn"
+    },
+    {
+        "from": "baiter_2143",
+        "to": "scammer_2143",
+        "direction": "Outbound",
+        "days_from_first_conversation": 8.258715277777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "That sounds great! Can you please provide more details about how I can access the funds?\n\nBest wishes,\nJohn"
+    }
+]

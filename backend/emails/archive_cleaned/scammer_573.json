@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_573",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "DHL Express Shipping in Washin",
+        "body": "DHL Express Shipping in Washington, DC\n3130 V St NE, Washington, DC 20018\nUnited States.\nDear  Customer,\nThis is to bring to your notice once again that your ATM CARD Package deposited to the Courier Company, is still in our custody and we are waiting for you to provide the required fee and reconfirm your address once again to enable us to deliver it to you so that you can make use of the ATM CARD before the expiring date.\nWe have a new arrangement to deliver it to you this weekend since the insurance fee has been paid. The ATM CARD was insured because of the $3.5 million involved according to the Documents packaged together with your ATM CARD.\nIt cost the sum of $480 to get it insured by Mr. George Ted. You will have to provide the sum of $390 for the Fund delivery Order Certificate.\nYou are therefore required to make available the $390 required for the Fund Delivery Order Certificate to enable us to obtain it from the International Monetary Fund and get your fund delivered to you without any further delay.\nReconfirm your address and make available the required fee to enable us to get it delivered to you now that it is ready for delivery.\nPlease reply urgently to enable us to do the needful and deliver your fund to you without any further delays.\nMr. George Ted\nDispatch Manager DHL Company"
+    },
+    {
+        "from": "baiter_573",
+        "to": "scammer_573",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: DHL Express Shipping in Washin",
+        "body": "Hello Mr. George Ted,\n\nThank you for your message and the information about my ATM CARD Package. I'm really excited to receive it! \n\nI just want to clarify a few things before we proceed. Could you please explain why there is a fee for the Fund Delivery Order? Also, could you provide more details about this insurance that Mr. George Ted paid for? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nCharles"
+    }
+]

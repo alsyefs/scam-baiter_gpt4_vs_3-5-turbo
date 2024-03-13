@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_212",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Habib Bank AG Zurich",
+        "body": "Habib Bank AG Zurich\nWeinbergstrasse 59\nP.O.Box 303\nCH 8035 Zurich\nSwitzerland.\nHB/ZSW/GH/FMF/BOG/TFP/23\nSir,\nWe hereby confirm the receipt of Bank of Ghana remittance advice by order of Government of Ghana to transfer the sum of Twenty Seven Million Five Hundred Thousand United State Dollars (US$27.5 Million Dollars) into your bank account. Following this therefore, we want to bring to your notice that the above stated amount has been programmed for transfer into your bank account but could not be completed today as scheduled as we are still waiting for you to re-confirm to us your Security Payment Code Number (SPCN) issued to you by the Bank of Ghana that will enable us complete this transfer.\nHowever, in order to facilitate speedy transfer of this fund into your bank account, you are strongly advised to re-confirm to us your Security Payment Code Number (SPCN) which is the sole security on this fund and without which this fund cannot be credited into your bank account or contact Mr. Ernest Addison, Governor of the Bank of Ghana on telephone #: 233- 551953218 or email: \ngovbogghana1@gmail.com\n for the issuance of your Security Payment Code Number (SPCN).\nMeanwhile, your payment of Twenty Seven Million Five Hundred Thousand United State Dollars (US$27.5 Million Dollars) has been placed on hold by our telex department until you re-confirm to us your Security Payment Code Number (SPCN) issued to you by the Bank of Ghana for this payment.\nBe informed that after seven (7) working days from the day of receipt of this message and you still hasn’t re-confirmed to us your Security Payment Code Number (SPCN), your payment will be cancelled\nAlso, it important to let you know that re-confirming a wrong Security Payment Code Number (SPCN) to us will also result in the cancellation of your payment. Therefore, the Security Payment Code Number (SPCN) which you are to re-confirm to us “MUST” TALLY/CORRESPOND with the one already provided to us by the bank of Ghana.\nWe shall continue with the transfer of your fund as soon as you re-confirm your Security Payment Code Number (SPCN) to us.\nWe count on your co-operation and understanding.\nYours faithfully,\nSandy Oritz, Jr.\nSenior Executive Officer (SEO)\nHabib Bank AG Zurich"
+    },
+    {
+        "from": "baiter_212",
+        "to": "scammer_212",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Habib Bank AG Zurich",
+        "body": "Hello Sandy Oritz, Jr.,\n\nThank you for your message. I'm thrilled to hear about the transfer of such a large sum into my bank account. However, I must admit that I'm a bit confused about this Security Payment Code Number (SPCN) you mentioned.\n\nCould you please explain more about what this SPCN is? How does it work and why is it so important for the transfer? Also, could you provide me with some guidance on how to contact Mr. Ernest Addison at the Bank of Ghana?\n\nI appreciate your patience and assistance in this matter.\n\nBest regards.\n\nBest wishes,\nLuis"
+    }
+]

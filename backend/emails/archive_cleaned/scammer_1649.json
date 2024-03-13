@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1649",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Job Offer,",
+        "body": "  Job Offer,\nWe want to inquire about your availability for a lucrative stay at home job offer, we are a large scale Canadian steel company and we forged our reputation on adapting to customer needs. We are looking for company reps in your region for a remote position that will not affect your current job.\nKindly reply to this email if interested for more details.\nRegards,\nSuit Sanyal\nChief Operating officer\nStelco Inc Canada   "
+    },
+    {
+        "from": "baiter_1649",
+        "to": "scammer_1649",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Job Offer,",
+        "body": "Hello Suit Sanyal,\n\nThank you for reaching out to me with this job offer. I'm definitely interested in learning more about the opportunity. Could you please provide me with some additional details regarding the position and its requirements? I would like to know more about the responsibilities, working hours, and compensation.\n\nAlso, could you clarify how this remote position will not affect my current job? It's important for me to understand how I can manage both effectively without any conflicts.\n\nLooking forward to hearing back from you soon.\n\nBest wishes,\nCandy"
+    }
+]

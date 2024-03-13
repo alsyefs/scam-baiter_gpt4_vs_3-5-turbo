@@ -1,0 +1,192 @@
+[
+    {
+        "from": "scammer_2123",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   My Dear",
+        "body": "   My Dear\nHow are you today? I got your mail in respect of your payment, let me\ngive you more details about the source of the funds and myself . I’m\nRev Timothy Johnson, director of the Cash Processing unit. I was delegated by IMF World Economic Outlook (WEO) International Monetary\ntogether with World Bank Financial Support to compensate you with the\nsum of $1.5M US from the Reserve Account (RA) as Relief Fund to\nalleviate poverty caused by Covid-19 pandemic.We were on round table\nand decided to deduct the sum of $5000 from your $1.5M US for handling\n cost. Therefore you will receive the sum of $1,495.000. I want you to\nhandle this transaction with care considering how much is involved. I\nwant you to carefully fill required information as listed below to\navoid paying to the wrong person.\nAs soon as you confirm the accuracy of information, we will comply\nwith more information to enable you to receive your fund within three\ndays.\nFull name:\nAddress:\nPhone #\nOccupation :\nWe have made all the necessary arrangements to complete your delivery\nwithin 3 official working days, therefore, you should check your email\nfrom time to time to reply at the right time to enable us to meet with\nthe three days delivery time frame.\nWe wait to hear from you shortly\nRev Timothy Johnson cash processing Unite.   "
+    },
+    {
+        "from": "baiter_2123",
+        "to": "scammer_2123",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    My Dear",
+        "body": "Dear Rev Timothy Johnson,\n\nThank you for your email. I hope this message finds you well. I appreciate you providing me with more details about the source of the funds and yourself. It's good to know that you are the director of the Cash Processing unit and have been delegated by IMF World Economic Outlook WEO Monetary and World Bank Financial Support.\n\nI understand that the funds are being compensated to me as a Relief Fund to alleviate poverty, which is a noble cause. However, I would like to know more about how this process works and what steps I need to take to ensure everything is handled correctly. Could you please explain in more detail how the handling cost deduction works? Also, could you clarify how much is involved in this transaction?\n\nAdditionally, I would appreciate it if you could provide me with more information on the required forms that need to be filled out. What kind of information do these forms require? I want to make sure that I fill them out accurately so that there are no mistakes or delays in receiving my funds.\n\nLastly, could you please confirm the delivery method for the funds? How will they be delivered to me within three days? I want to ensure that everything is done securely and efficiently.\n\nThank you once again for reaching out to me with this opportunity. I look forward to your response and further instructions.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_2123",
+        "to": "baiter_2123",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "SORRY FOR LATE RESPONSE",
+        "body": "Your email is well received and noted.\r\nPlease submit your bank details to enable us transfer your funds to your\r\npersonal account.\r\n\r\nSecondly, if you don’t wish to receive your funds through bank transfer you\r\nare free to select below payment methods and let me know how you would like\r\nto receive your funds.\r\n\r\n1 ATM card\r\n\r\n2 Bank to Bank transfer\r\nThirdly please kindly provide us your information, such as\r\n; as listed below\r\n\r\nFull Name\r\nHome Address\r\nMobile phone number\r\nAge and occupation.\r\nAnd identification card\r\n\r\nThank you"
+    },
+    {
+        "from": "baiter_2123",
+        "to": "scammer_2123",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.21974537037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: SORRY FOR LATE RESPONSE",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate your offer to transfer funds to my personal account. However, before proceeding, I would like to gather some more information about the process.\n\n1. Could you please provide me with more details about the source of these funds? How did I become eligible for this transfer?\n\n2. What is the total amount of funds that will be transferred?\n\n3. Can you explain the different payment methods in more detail? How do they work and what are the associated fees, if any?\n\n4. Is there a specific reason why you require my full name, home address, mobile phone number, age, and card details? How will this information be used and protected?\n\nI look forward to your response.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_2123",
+        "to": "baiter_2123",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.25766203703703705,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Good day Mr Williams",
+        "body": "This is to inform you that The International Monetary Fund\r\ntogether with World Bank Financial Support to compensate you with the\r\nsum of $1.5M US from the Reserve Account (RA) as Relief Fund to\r\nalleviate poverty caused by Covid-19 pandemic.We were on round table, The\r\nFund was given since 2019 but due the the delay of the past administration\r\nthe could not be able to distribute to much people , Honestly your\r\ninformation is protected and can not be shared to any one , secondly the\r\nfund are not by force if you choose not to proceed no problems, what is\r\nneeded is your details and then you will choose the method you want to\r\nreceive the money , We will forward your details to our legal department\r\nwhich the will grant  to you the certificate of ownership , which will\r\nenable the bank to release the money to you ,\r\nThank you and God bless you"
+    },
+    {
+        "from": "baiter_2123",
+        "to": "scammer_2123",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2612037037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Good day Mr Williams",
+        "body": "Hello,\n\nThank you for reaching out to me with this information. I appreciate your efforts in trying to alleviate poverty through the Monetary Fund and World Bank Financial Support. Can you please provide me with more details about how this relief fund works? How exactly will it help those in need?\n\nAlso, I would like to know more about the Reserve Account RA and how it is being utilized for this purpose. Is there a specific reason why the distribution of funds has been delayed in the past? \n\nFurthermore, could you clarify what you mean by saying that my information is protected and cannot be shared with anyone? How can I be assured of the confidentiality of my personal details?\n\nLastly, I would like to understand the process of receiving the money. What are the different methods available for me to choose from? And what kind of legal ownership documentation will be provided by your legal department?\n\nThank you for your time and assistance.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_2123",
+        "to": "baiter_2123",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.32864583333333336,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Greetings",
+        "body": "Mr Williams , all necessary information you need to know have already been\r\nprovided to you from the beginning , the first step is for you to provide\r\nyour details such\r\nFull Name\r\nHome Address\r\nMobile phone number\r\nAge and occupation.\r\n\r\nSecondly,\r\n\r\n You will obtain funds ownership certificate which will back up your funds\r\n, the certificate will be signed by judge .\nThanks"
+    },
+    {
+        "from": "baiter_2123",
+        "to": "scammer_2123",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9922337962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Greetings",
+        "body": "Hello Mr. Williams, thank you for reaching out to me. I appreciate your willingness to provide information. However, before I proceed, could you please clarify what exactly the funds ownership entails? How does it work and what is the purpose of having a judge sign it? I just want to make sure I understand everything correctly. Thank you!\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "baiter_2123",
+        "to": "scammer_2123",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0121875,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Good day Mr Williams",
+        "body": "Hello,\n\nThank you for reaching out to me with this information. I appreciate your efforts in trying to alleviate poverty through the Monetary Fund and World Bank Financial Support. Can you please provide me with more details about how this relief fund works? How exactly will it help those in need?\n\nAlso, I would like to know more about the Reserve Account RA and how it is being utilized for this purpose. Is there a specific reason why the distribution of funds has been delayed in the past? \n\nFurthermore, I am curious about the legal process involved in claiming ownership of the funds. Could you explain what steps need to be taken and how long it usually takes for the bank to release the money once ownership is granted?\n\nThank you for your time and assistance.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_2123",
+        "to": "baiter_2123",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0435416666666666,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Good morning",
+        "body": "The IMF is a global organization that works to achieve sustainable growth\r\nand prosperity for all of its 190 member countries. It does so by\r\nsupporting economic policies that promote financial stability and monetary\r\ncooperation, which are essential to increase productivity, job creation,\r\nand economic well-being.honestly I have given you much attention by making\r\nsure you receive the basic information needed,\r\n\r\nPlease note this is not by force , if you are not comfortable with sending\r\nthe necessary information needed to start up the process so that  you will\r\nreceive the funds without delay ,\r\n\r\n\r\nThank you and have a blessed day ."
+    },
+    {
+        "from": "scammer_2123",
+        "to": "baiter_2123",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0441550925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: My Dear",
+        "body": ""
+    },
+    {
+        "from": "baiter_2123",
+        "to": "scammer_2123",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0529745370370371,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Good morning",
+        "body": "Hello! Thank you for reaching out and sharing information about the IMF. It's interesting to learn about their efforts to promote growth and prosperity for member countries. Can you tell me more about how they support economic policies that promote financial stability and job creation? I'm curious to know what specific measures they take in order to achieve these goals.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "baiter_2123",
+        "to": "scammer_2123",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0534027777777777,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: My Dear",
+        "body": "Hello! How can I help you today?\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_2123",
+        "to": "baiter_2123",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0999189814814814,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Good morning",
+        "body": "I think your questions have been answered ,\r\nAnd I have told the requesit need to proceed .\r\n\r\nLastly the offer is not by force , you can decline if you are not\r\ninterested\nBest regards\r\nRev Timothy"
+    },
+    {
+        "from": "baiter_2123",
+        "to": "scammer_2123",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.1162037037037038,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: Good morning",
+        "body": "Hello Rev Timothy,\n\nThank you for your response. I appreciate that you have answered my questions and provided the necessary information to proceed. I understand that the offer is not mandatory and I have the option to decline if I'm not interested.\n\nCould you please provide me with more details about the offer? What exactly is it about and how does it work? I would like to have a better understanding before making any decisions.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_2123",
+        "to": "baiter_2123",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.137013888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Mr Williams",
+        "body": "Dear William\r\n This is the first stage of providing your information   , we will comply\r\nwith more information to enable you to receive your fund within three\r\ndays.\r\n\r\nFull name:\r\n\r\nAddress:\r\n\r\nPhone #\r\n\r\nOccupation :\r\n\r\n\r\nSecondly,\r\nThe information will be forwarded to the IMF Legal department that will\r\nprovide the Certificate of Ownership that will enable the bank to release\r\nthe money to your account,\r\n\r\n\r\n\r\n\r\nif you don’t wish to receive your funds through bank transfer you are free\r\nto select below payment methods and let me know how you would like to\r\nreceive your funds.\r\n\r\n1 ATM card\r\n\r\n2 Bank to Bank transfer\r\nThank you and God bless you ."
+    },
+    {
+        "from": "baiter_2123",
+        "to": "scammer_2123",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.1578819444444444,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: Mr Williams",
+        "body": "Dear William,\n\nThank you for reaching out to me. I appreciate your willingness to provide more information about this opportunity. I'm interested in learning more about how I can receive the funds within three days.\n\nCould you please explain further what the next steps would be after this initial stage? How does the process work with the IMF Legal department? And what kind of documentation will be required from me?\n\nRegarding the payment methods, I would like to know more about each option. Could you please provide some details about how the ATM card option works and how secure it is? Similarly, if I choose bank transfer, what are the necessary details that I need to provide?\n\nI look forward to your response and thank you for your assistance.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_2123",
+        "to": "baiter_2123",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.1723611111111112,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: Mr Williams",
+        "body": "Thank you for your response ,\r\nThe legal department provide the document that states that  you are the\r\nrightful  beneficiary, it will bears your name and your address , then the\r\nlegal department will forward it to the bank ,the Bank  will forward the\r\nmoney in your account account .\r\n\r\n\r\nSecondly ,\r\nIf you don't wish to receive the money through bank transfer,\r\nThe bank will send you ATM Card through delivery company FedEx or DHL you\r\ncan withdraw it in your country through ATM ,\r\nThank you for your understanding."
+    },
+    {
+        "from": "baiter_2123",
+        "to": "scammer_2123",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.6781018518518518,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re: Mr Williams",
+        "body": "Thank you for reaching out to me. I appreciate the information you provided. Can you please clarify a few things for me? \n\n1. Could you explain more about the document that the legal department will provide? What kind of document is it and what purpose does it serve?\n\n2. If I choose to receive the money through bank transfer, how long does it usually take for the funds to be transferred into my account?\n\n3. In case I opt for receiving an ATM card, how secure is the delivery process? Are there any additional fees or charges associated with it?\n\nI look forward to your response. Thank you again for your assistance.\n\nBest wishes,\nWilliam"
+    }
+]

@@ -1,0 +1,172 @@
+[
+    {
+        "from": "scammer_375",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Greetings!",
+        "body": "  Greetings!\nIs this your private email address?\nShould you be interested in working with me on a financial related project?\nPlease reply back via my personal email:\nThanks, and have a nice day,\nThom Chann\nDirector, Advanced Bank of Asia.   "
+    },
+    {
+        "from": "baiter_375",
+        "to": "scammer_375",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Greetings!",
+        "body": "Hello Thom Chann,\n\nThank you for reaching out to me. I'm always open to new opportunities and would love to hear more about this financial related project you mentioned. Could you please provide some more details about it?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nKerry"
+    },
+    {
+        "from": "scammer_375",
+        "to": "baiter_375",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: REPLY!",
+        "body": "Hello friend,\r\n\r\nThanks for the quick response.\r\n\r\nYour mail is well understood and I will appreciate it if you will work with\r\nme in this transaction with a good understanding and sincere heart.\r\n\r\nDuring the reporting process, I discovered in 2016 that my branch made\r\n($21,537,000.00) this money which the head office is not aware of.  This\r\namount is currently placed in what we call SUSPENSE ACCOUNT without any\r\nbeneficiary. As an officer of the Advanced Bank of Asia Ltd. (ABA Bank) in\r\nPhnom Penh, Cambodia, I cannot be directly connected to this money, so this\r\nis why I have to contact you for us to work so that you can assist receive\r\nthis money. I need you to stand as the original depositor of the money to\r\nenable my Head office grant approval for the release of this fund.\r\n\r\nThe said amount is acrued interest undocumented within the bank which has\r\nbeen placed in a suspense account. This amount will be registered under\r\nyour name as the beneficiary if you agree to work with me in this\r\ntransaction. This is a legal transaction in which we shall follow due\r\nprocess whilst claiming the fund with no retribution to all the parties\r\ninvolved whatsoever.\r\n\r\nAs a banker, I understand transferring such a huge amount directly from\r\nbank to bank will lead to paying huge fees as a result of international\r\nbanking regulation before receiving the funds over there in your country.\r\nHence, for us to avoid this as impediment, I will bring this idea of the\r\nfund being released via an ATM card which will be sent to your address. The\r\nprocess bears no hindrance from the authority as it will be a very direct\r\nrelease process with no impediment.\r\n\r\nImmediately you receive the ATM card, you will start making withdrawals\r\nfrom it before my arrival to meet with you. I would like us to reach an\r\nagreement before we proceed further.\r\n\r\nkindly send to me your full information such as:\r\nyour full name\r\nyour address\r\ntelephone number\r\ncopy of any identification of you\r\n\r\nAs soon as I receive the above information from you, I will then draft an\r\nMOU agreement which will contain each persons share for both of us to sign\r\nbefore we complete the fund release process through an ATM card.\r\n\r\nI can assure you that whatever questions you would need to ask or any other\r\nthing you will need to know regarding this transaction will be adequately\r\nanswered to give you a clearer understanding of it all, so as to arrive at\r\na successful conclusion.\r\n\r\nAt the end of this transaction, we shall divide the amount in a 50-50 share\r\nratio of which I plan to invest a good part of my share in your country\r\nunder your supervision. All I require from you is your maximum cooperation.\r\n\r\nI look forward to hearing from you. Do call or send me a message on my\nwhatsApp for further clarification: +855967405973\r\n\r\nThanks and have a nice day,\r\nThom Chann"
+    },
+    {
+        "from": "baiter_375",
+        "to": "scammer_375",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.05009259259259259,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: REPLY!",
+        "body": "Hello Thom Chann,\n\nThank you for your detailed explanation. It's quite an interesting proposition you've put forth. I must admit, I'm not very familiar with banking procedures and regulations, but your plan seems to be well thought out.\n\nI do have a few questions though. Could you please explain more about this 'suspense account'? How does it work exactly? And why is the head office not aware of this money?\n\nAlso, could you clarify what you mean by 'stand as the original depositor of the money'? What would that entail on my part?\n\nRegarding the ATM card process, how secure is it? And how would I go about making withdrawals from it?\n\nLastly, I'm curious about the MOU agreement. What exactly will it contain and how binding is it legally?\n\nI look forward to your answers to these questions so that I can better understand this whole process.\n\nBest wishes,\nKerry"
+    },
+    {
+        "from": "scammer_375",
+        "to": "baiter_375",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.6197916666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: REPLY!",
+        "body": "Hello friend,\r\n\r\nHow are you doing today?\r\n\r\nThe complication in releasing huge sums via bank to bank is enormous and\r\nthat is why I prefer the ATM card release which is discrete and less\r\nproblematic. The ATM card comes with a special higher than normal\r\nwithdrawal limit which allows you to withdraw big amounts. This ATM card\r\nwill be linked to a special online account which upon activation will grant\r\nyou access for online transfer usage which also solves our problem of huge\r\nmoney transfers.\r\nkindly send to me your full information such as:\r\n\r\nyour full name\r\nyour address\r\ntelephone number\r\ncopy of any identification of you\r\n\r\nThe said funds do not come under the control of the government at the\r\nmoment within which your bank operates. We can rightly lay claim to the\r\nfund as it is eligible for redistribution. I assure you the bank will not\r\nask you any questions or documents because I have all the documents\r\nrelating to this transaction. I have all the documents relating to this\r\nfund deposited with the bank. I am a PEACE-loving, HONEST and simple man.\r\n\r\nI assure that if we join hands together trusting each other's judgement,\r\nthis transaction will be successful.\r\n\nThanks and have a nice day,\r\nThom Chann"
+    },
+    {
+        "from": "baiter_375",
+        "to": "scammer_375",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.7583680555555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: REPLY!",
+        "body": "Hello Thom Chann,\n\nIt's a pleasure to hear from you. I hope you're doing well too. Your message is quite intriguing, and I must say it piqued my interest.\n\nThe concept of an ATM card with higher withdrawal limits sounds very appealing. However, I'm curious about the security measures in place for such a system. Could you please elaborate on how this special online account works? And what kind of safety protocols are in place to ensure the security of transactions?\n\nAlso, could you provide more details about the funds that don't come under government control? How does this work exactly? \n\nI appreciate your assurance regarding the bank not asking any questions or requiring documents. But just out of curiosity, what kind of documents are usually required for such transactions?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKerry"
+    },
+    {
+        "from": "baiter_375",
+        "to": "scammer_375",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.7589467592592594,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: REPLY!",
+        "body": "Hello Thom Chann,\n\nI hope you're having a great day! Your message is quite interesting, and I must say, it's not something I come across every day. The idea of an ATM card with a higher withdrawal limit sounds intriguing.\n\nHowever, I'm curious about a few things. How does this process work exactly? And why would the funds not be under the control of the government? \n\nAlso, you mentioned that there are documents related to this fund deposited with the bank. Could you elaborate on what these documents are?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nKerry"
+    },
+    {
+        "from": "baiter_375",
+        "to": "scammer_375",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.759375,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: REPLY!",
+        "body": "Hello Thom Chann,\n\nI hope this message finds you well. Your proposal sounds very interesting, and I must admit, it's not something I come across every day. \n\nThe ATM card release method you mentioned seems quite unique. Could you please elaborate more on how it works? And what makes it discrete and less cumbersome compared to the traditional bank-to-bank transfer?\n\nAlso, you mentioned a special online account linked to the ATM card. How does the activation process work for this account? And how does it enable online transfer usage?\n\nI'm curious about the funds as well. You said they don't come under the control of my government or bank. How is that possible? And how can we lay claim to these funds without raising any questions or needing any documents?\n\nLastly, I appreciate your assurance of honesty and simplicity in this matter. It's refreshing to see such transparency.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKerry"
+    },
+    {
+        "from": "baiter_375",
+        "to": "scammer_375",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.8407986111111112,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: REPLY!",
+        "body": "Hello Thom Chann,\n\nI hope you're having a great day! Your message is quite interesting, and I must say, it's not something I come across every day. The idea of an ATM card with a higher withdrawal limit sounds intriguing.\n\nHowever, I'm curious about a few things. How does this process work exactly? And why would the funds not be under the control of the government? Also, how can we ensure that this transaction is safe and secure?\n\nLooking forward to hearing from you soon!\n\nBest regards.\n\nBest wishes,\nKerry"
+    },
+    {
+        "from": "scammer_375",
+        "to": "baiter_375",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.8592476851851851,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: REPLY!",
+        "body": "Hello friend,\r\n\r\nI hope this letter finds you well.\r\n\r\nI am writing to provide you with an update regarding the funds we have\r\ndiscussed, which is currently in a suspense account under my supervision.\r\nThis account contains accumulated interest that was not recorded initially\r\ndue to an error in the imputation of interest and financial data within the\r\nbank's system.\r\n\r\nTo ensure transparency and clarity in our transaction, formalising our\r\nagreement through a Memorandum of Understanding (MOU) will outline the\r\nspecifics of our arrangement, including each person's share of the funds.\r\nOnce drafted, both parties will be required to sign the MOU before we\r\nproceed with the process for the release of the funds through an ATM card.\r\n\r\nIt is imperative to emphasize the confidentiality of all information\r\nrelated to this matter. Given the sensitive nature of our transaction, it\r\nis crucial that we maintain strict confidentiality and refrain from sharing\r\nany details with third parties.\r\n\r\nI look forward to your prompt response.\r\n\nThanks and have a nice day,\r\nThom Chann\r\nReplyForward\r\nAdd reaction"
+    },
+    {
+        "from": "baiter_375",
+        "to": "scammer_375",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.8823032407407407,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: REPLY!",
+        "body": "Hello Thom Chann,\n\nThank you for your detailed message. I'm glad to hear from you and appreciate the information about the funds in suspense account. It's interesting to know that such errors can occur in a bank's system.\n\nI understand the importance of confidentiality in this matter, rest assured, I will not share any details with third parties. However, could you please elaborate more on the Memorandum of Understanding (MOU)? What exactly does it entail? And how does the process for releasing funds through an ATM card work?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKerry"
+    },
+    {
+        "from": "baiter_375",
+        "to": "scammer_375",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.8832407407407408,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: REPLY!",
+        "body": "Hello Thom,\n\nThank you for your letter. I hope you're doing well too. It's interesting to hear about the funds in the suspense account and the error that occurred. I'm a bit confused though, could you please explain more about how this error happened? \n\nAlso, could you provide more details about the Memorandum of Understanding (MOU)? What exactly will it outline and why is it necessary for both parties to sign it?\n\nI understand the need for confidentiality and assure you that I won't share any information with third parties. Looking forward to hearing from you soon.\n\nHave a great day!\n\nBest wishes,\nKerry"
+    },
+    {
+        "from": "baiter_375",
+        "to": "scammer_375",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.923113425925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: REPLY!",
+        "body": "Hello Thom,\n\nThank you for your letter. I hope you're doing well too. It's interesting to hear about the funds in the suspense account and the error that occurred within the bank's system. \n\nI'm curious, how did this error happen? And how was it discovered? Also, could you please explain more about this Memorandum of Understanding (MOU)? What exactly will it outline?\n\nI understand the importance of confidentiality in this matter and assure you that I won't share any details with third parties.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKerry"
+    },
+    {
+        "from": "baiter_375",
+        "to": "scammer_375",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.9239930555555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: REPLY!",
+        "body": "Hello Thom Chann,\n\nThank you for your detailed message. I hope you're doing well too. It's interesting to hear about the funds in the suspense account and the error that occurred within the bank's system. \n\nI'm curious, how did this error happen? And what measures are being taken to prevent such errors in the future? \n\nAlso, could you please elaborate more on the Memorandum of Understanding (MOU)? What exactly will it entail and how will it protect both parties involved?\n\nLastly, I understand and respect the need for confidentiality in this matter. Rest assured, I won't be sharing any details with third parties.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKerry"
+    },
+    {
+        "from": "baiter_375",
+        "to": "scammer_375",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.9250810185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: REPLY!",
+        "body": "Hello Thom,\n\nThank you for your letter. I hope you're doing well too. It's interesting to hear about the funds in the suspense account and the error that occurred. I'm a bit confused though, could you explain more about how this error happened? \n\nAlso, I'm curious about the Memorandum of Understanding (MOU) you mentioned. Could you provide more details on what it will entail? And why is an ATM card necessary for the release of funds?\n\nI understand the need for confidentiality and assure you that I won't share any information with third parties.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKerry"
+    },
+    {
+        "from": "baiter_375",
+        "to": "scammer_375",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.9651273148148147,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: REPLY!",
+        "body": "Hello Thom Chann,\n\nI hope you're having a great day! Your message is quite interesting, and I must say, it's not something I come across every day. The idea of an ATM card with a higher withdrawal limit sounds intriguing.\n\nHowever, I'm curious about the process. How does this special online account work? And how can we ensure that this process is secure and safe?\n\nAlso, you mentioned that the funds do not come under the control of the government within which my bank operates. Could you please elaborate on this? How does this affect the transaction?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nKerry"
+    },
+    {
+        "from": "baiter_375",
+        "to": "scammer_375",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.9655671296296295,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: REPLY!",
+        "body": "Hello Thom Chann,\n\nI hope you're having a great day! Your message is quite interesting, and I must say, it's not something I come across every day. The idea of an ATM card with a higher withdrawal limit sounds intriguing.\n\nHowever, I'm curious about a few things. How does this process work exactly? And why would the funds not be under the control of the government? \n\nAlso, you mentioned that the bank won't ask any questions or require any documents because you have all the necessary paperwork. Could you elaborate on what these documents are?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nKerry"
+    }
+]

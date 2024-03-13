@@ -1,0 +1,112 @@
+[
+    {
+        "from": "scammer_1701",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear  xxx ,",
+        "body": "Dear  xxx ,\nThanks for your email, kindly proceed with the below account and make\nsure you complete the payment and send me the transfer confirmation copy\nonce it is done.\n$585\nBank details:\nReceiver : M. R.\nIBAN: LT84 3250 0040 06xx xxxx\nBIC: REVOLT21B\nbank Name Revolt\nAddress: xxx 7655 Verdal Norway\nBank Address WESTFERRY CIRCUS, 7 THE COLUMBUS BUILDING FLOOR 4, LONDON.\nSend me the bank transfer confirmation copy, it is very important."
+    },
+    {
+        "from": "baiter_1701",
+        "to": "scammer_1701",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear  xxx ,",
+        "body": "Dear xxx,\n\nThank you for reaching out to me. I appreciate your prompt response. However, before proceeding with the payment, I have a few questions regarding the transaction.\n\n1. Could you please provide me with more details about the purpose of this payment? It would be helpful to understand why it is important and how it will benefit both parties involved.\n\n2. Can you confirm if Revolt Bank is a well-established and reputable financial institution? I want to ensure that my funds are being transferred through a secure and reliable channel.\n\n3. Is there any specific deadline or timeline for completing the payment? It would be useful for me to know so that I can plan accordingly.\n\nI look forward to your response and further clarification on these matters. Thank you again for your cooperation.\n\nBest wishes,\nStella"
+    },
+    {
+        "from": "scammer_1701",
+        "to": "baiter_1701",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear xxx ,",
+        "body": "Dear\r\n\r\nMany thanks for the quick response. As you already know, you need to\r\ncontact the processing bank and request details about receiving your\r\npayment. Also, note that you only have to pay the Notarization fee of $585\r\nto complete the transfer process. Make no mistake, you can find the bank's\r\ncontact details below.\r\n\r\nContact the processing bank at the email below for quick and further action:\r\ninfo.ubs@ubswiss.com\r\nBank: UBS Bank\r\n\r\nContact them now and make sure you get back to me for more directives to\r\nfollow, you need to be guided.\r\n\r\n\r\nSincerely yours,\r\nMr. Ben Swanson, Assistant Secretary-General\r\nThe United Nations Office of Internal Oversight Services\r\nUnited Nations Headquarters, New York City\r\nResponsible for Internal Audits, Investigations, and Program Evaluation ,"
+    },
+    {
+        "from": "baiter_1701",
+        "to": "scammer_1701",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.018020833333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear xxx ,",
+        "body": "Dear Mr. Ben Swanson,\n\nThank you for your prompt response. I appreciate the information you have provided regarding contacting the processing bank to receive my payment. However, I would like to clarify a few things before proceeding.\n\n1. Could you please provide me with more details about the fee that needs to be paid? What is it for and how can I ensure its legitimacy?\n\n2. Can you confirm if the contact details you mentioned are for the official bank associated with the United Nations? I want to make sure I am reaching out to the correct institution.\n\n3. Are there any specific instructions or documents that I need to prepare before contacting the bank? It would be helpful to know what information they might require from me.\n\nI look forward to your guidance on these matters so that I can proceed accordingly.\n\nBest wishes,\nStella"
+    },
+    {
+        "from": "scammer_1701",
+        "to": "baiter_1701",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.24671296296296297,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Dear xxx ,",
+        "body": "Thank you for your mail. I’m here to assure you that everything is 100%\r\nlegitimate. The 585$\r\nis for the naturalization fee document for the bank to register your name\r\nand complete the transfer to any of your choice you want to receive this\r\nfunds?\r\n\r\ncontact the bank now and receive your funds follow the instruction to\r\nenable you to receive this fund successfully waiting for your kind response.\r\n\r\n\r\nContact the processing bank at the email below for quick and further action:\r\ninfo.ubs@ubswiss.com\r\nBank: UBS Bank\r\n\r\nContact them now and make sure you get back to me for more directives to\r\nfollow, you need to be guided."
+    },
+    {
+        "from": "baiter_1701",
+        "to": "scammer_1701",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.43497685185185186,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Dear xxx ,",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate your message and the information you have provided. It sounds like there is a fee document required by the bank to register my name and complete the transfer of funds. Could you please provide more details about this fee document? What is it for exactly?\n\nI am interested in receiving the funds, but I would like to understand the process better before proceeding. Can you explain how contacting the bank will help me receive the funds? Are there any specific instructions or documents that I need to provide to them?\n\nI look forward to your response and further guidance.\n\nBest wishes,\nStella"
+    },
+    {
+        "from": "baiter_1701",
+        "to": "scammer_1701",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.2487615740740745,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Dear xxx ,",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate your message and the information you have provided. It sounds like there is a process in place to transfer funds to me, which is interesting.\n\nCould you please provide more details about the fee document that needs to be paid to the bank? What is the purpose of this fee? How much is it? And how can I be sure that once I pay this fee, the transfer will be completed successfully?\n\nI look forward to hearing back from you with more information.\n\nBest wishes,\nStella"
+    },
+    {
+        "from": "scammer_1701",
+        "to": "baiter_1701",
+        "direction": "Inbound",
+        "days_from_first_conversation": 7.364409722222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Dear xxx ,",
+        "body": "Thank you for your kind response I'm here to guarantee you that once you\r\nmake the payment of 585$ you will receive your 10.5 million compensation\r\npayment successful without any problem kindly go ahead and make the payment\r\n\r\nAnd also the reason why you are paying for the fee is for the approval\r\ndocument and for the ownership document in your name so that you have the\r\noriginal document before the funds transfer directly to your position.\r\n\r\n waiting for your urgent response so that I can send you the payment\r\ndetails.\r\n\r\n\r\nSincerely yours,\r\nMr. Ben Swanson, Assistant Secretary-General\r\nThe United Nations Office of Internal Oversight Services\r\nUnited Nations Headquarters, New York City\r\nResponsible for Internal Audits, Investigations, and Program Evaluation ,"
+    },
+    {
+        "from": "baiter_1701",
+        "to": "scammer_1701",
+        "direction": "Outbound",
+        "days_from_first_conversation": 7.373414351851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Dear xxx ,",
+        "body": "Hello! Thank you for reaching out. Could you please provide more details about the payment process and how it ensures a smooth transfer of funds? I want to make sure everything is clear before proceeding.\n\nBest wishes,\nStella"
+    },
+    {
+        "from": "scammer_1701",
+        "to": "baiter_1701",
+        "direction": "Inbound",
+        "days_from_first_conversation": 7.390347222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Dear xxx ,",
+        "body": "You are f**** joker please stop disturbing my life. You are not a serious\r\nperson. I will cancel this phone in your name thank you.\r\n\r\n\r\nWhat do you mean explain explain your life there"
+    },
+    {
+        "from": "baiter_1701",
+        "to": "scammer_1701",
+        "direction": "Outbound",
+        "days_from_first_conversation": 7.3934375,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Dear xxx ,",
+        "body": "I'm sorry if I came across as a joker, that was not my intention. I just wanted to share some information with you. Can you tell me more about why you feel this way?\n\nBest wishes,\nStella"
+    }
+]

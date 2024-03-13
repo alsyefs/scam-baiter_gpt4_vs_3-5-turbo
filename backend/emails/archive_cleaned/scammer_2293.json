@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2293",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "US SANTANDER BANK HEAD OFFICE",
+        "body": "US SANTANDER BANK HEAD OFFICE\n1350 BROADWAY IN NEW YORK, NY, USA\n Quick Notice regarding your funds transfer $3,500.000.00 in our office US santander bank, We have today being 23 Dec 2023 to wire the funds $3,500.000.00 on your account because after tomorrow the funds will goes back to the Government Treasure account as 2023 Unclaimed fund, \nYou advised to send only $25 Itune card Or Steam wallet for the urgent transfer and the re-activaion\n, And you advised to send it through Itune Card Or Steam wallet gift card so we can immediately transfer funds into your account bank. \nURGENT RESPONSE\nREGARDS\nUS SANTANDER BANK \nSANDRA JEAN WRIGHT\n+1(208)298 9868"
+    },
+    {
+        "from": "baiter_2293",
+        "to": "scammer_2293",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: US SANTANDER BANK HEAD OFFICE",
+        "body": "Hello,\n\nThank you for reaching out to me from the US Santander Bank Head Office. I appreciate the quick notice regarding my funds transfer. However, I have a few questions before proceeding.\n\nCould you please provide more details about why the funds will go back to the Government Treasure account as unclaimed? Is there a specific deadline that I need to meet in order to prevent this from happening?\n\nAdditionally, I'm curious about why you are requesting payment through iTunes cards or Steam wallet gift cards. Is there a particular reason for this method of payment? How does it ensure a secure and efficient transfer of funds into my bank account?\n\nI look forward to your response.\n\nBest wishes,\nDouglas"
+    }
+]

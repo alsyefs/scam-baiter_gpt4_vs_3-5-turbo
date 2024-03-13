@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1140",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Commercial Bank of New York",
+        "body": "  Commercial Bank of New York\nHead Office\nADDRESS:320 Park Avenue\nNew York, NY 10022 United States\nAttn:Sir/Ma\nCommercial bank of New York,wish to find out if your inheritance\nfund/next of kins/contractor fund e.g has been credited to your\naccount as reported in our database? Confirm the status to me by this\nmy e-mail  \ninfocomuus@aol.com\n immediately\nif I did not receive any response from you within the next 48hrs, we\nshall assume your part payment of $10,500,000.00 Million has been\nsuccessfully received by you.\nBest Regards,\nDr/Mrs.Albina Abbey James\n(Branch Manager)     "
+    },
+    {
+        "from": "baiter_1140",
+        "to": "scammer_1140",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Commercial Bank of New York",
+        "body": "Hello Dr. Abbey James,\n\nThank you for reaching out to me from the Commercial Bank of New York. I hope this message finds you well. I appreciate your efforts in keeping me informed about my account and funds.\n\nI would like to confirm the status of my account and the reported credit of funds. Could you please provide me with more details regarding the specific fund you mentioned? I want to ensure that everything is in order.\n\nAdditionally, could you kindly clarify what you mean by \"part payment of Million\"? I want to make sure I understand the information correctly.\n\nThank you again for your assistance, Dr. Abbey James. I look forward to hearing back from you soon.\n\nBest wishes,\nDaniel"
+    }
+]

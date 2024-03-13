@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1151",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "ATTENTION!!!!!",
+        "body": "ATTENTION!!!!!\nFEDEX EXPRESS DELIVERY COMPANY, WASHINGTON, DC.\nThe FedEx Delivery company Was On A Scam Investigation For the  Past One Week  And We Caught The Importer Claiming To Be An Agent With Your Fund. He Confessed That He Scammed You Of All Your Hard Earned Money And He Scammed Three Other Citizens, Which The United States Government Has Volunteered To Help Get Their Money Back By Offering Them A Scam's Victim  Compensation Fund (S.V.C.F) Of \\$17.5 Million U.S.D Which Your Email Address/Tel No Was Found Among The Victims The Government Is Offering This Fund To You And Three Other Victims To Help You Regain Your Hard Earned Money Back.\nThe FedEx Agency Has Been Ordered To Deliver Your S.C.V.F Package Of \\$17.5 Million USD Themselves.\nYOU ARE ADVISED TO PROVIDE YOUR FULL INFORMATION SO AS TO AVOID WRONG DELIVERY OF YOUR FUND SUCH AS:\nYOUR FULL NAME.............\nHOME ADDRESS..........\nNEAREST AIRPORT............\nIDENTIFICATION CARD\n.............\nEmail Address.........\nNOTE: The FedEx Agency  Will Get Your Fund To Your Home Address Themselves, Any Other Messages To You About Any Other Fund Except From The FedEx  is Probably A Scam. \nDelivery Fee is \\$25 Only and we would advice you should send the fee through STEAM WALLET CARD OR ITUNES CARD okay. \nWaiting for your urgent response back.\nBEST REGARDS\nPAUL J. LARRY\nFEDEX EXPRESS DELIVERY COMPANY."
+    },
+    {
+        "from": "baiter_1151",
+        "to": "scammer_1151",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: ATTENTION!!!!!",
+        "body": "Hello Paul J. Larry,\n\nWow, that's quite a story! I can't believe someone would do such a thing. It's really kind of the United States Government to help us victims out like this.\n\nI'm curious though, how did you guys catch the scammer? And how did my email and telephone number end up among the victims?\n\nAlso, could you please explain more about this STEAM WALLET CARD OR ITUNES CARD payment method? I'm not very familiar with it.\n\nLooking forward to your response!\n\nBest wishes,\nBarbara"
+    }
+]

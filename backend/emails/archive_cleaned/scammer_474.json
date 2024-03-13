@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_474",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  TNT Express Worldwide ",
+        "body": "  TNT Express Worldwide \nNEW YORK\nContact Person:\nLarry Wayne Ellis\nDirector  Parcel Procurement\nDepartment\n                    Dear Customer: \nTNT Management hereby wish to congratulate today that your ATM CARD was successfully posted to your new address presented to us last week by Mrs. Lucia Sausa who claimed that you died few weeks ago in Hospital by Corona Virus and presented us a new address below and also paid the Out-standing Euro 370 balance of your fees\n    Here is the Delivery Postal address presented to us by your family member Mrs. Lucia Sausa in Roma Italy\n  Receivers Name: Mrs.Lucia Sausa\n  Address:Via Del Campidogilo 1\n  00100 Roma Italia\n  Now we want to know if you are aware of this notice, If we did not hear from you today, We will confirm that you are dead and handover the ATM CARD parcel to her by tomorrow.  since we have not heard from you for the past 3 Months ago till today\nWe request for your prompt response \nKindly get back to us now\nTNT Express Worldwide    "
+    },
+    {
+        "from": "baiter_474",
+        "to": "scammer_474",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   TNT Express Worldwide ",
+        "body": "Hello,\n\nThank you for reaching out to me. I must say, this message has caught me by surprise. I am indeed alive and well, and I have not been in contact with anyone named Mrs. Lucia Sausa or provided any new address.\n\nCould you please provide more information about this ATM card? I'm curious to know how it is related to me and why it was sent to the address mentioned in your message.\n\nLooking forward to your response.\n\nBest wishes,\nFrancis"
+    }
+]

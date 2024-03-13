@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2110",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir,",
+        "body": "  Dear Sir,\nI am writing to inform you that your compensation payment of US$1,750,000,00 has been approved by the Board and Directors of ECOWAS Committee on Rewards and Compensation.\nYou are therefore advised to reconfirm your details,( contact address/telephone number )   to enable the financial department release your payment to you without any delay.\nWe look forward for your prompt response.\nThank you.\nPhillip Chukwu   "
+    },
+    {
+        "from": "baiter_2110",
+        "to": "scammer_2110",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir,",
+        "body": "Hello Phillip Chukwu,\n\nThank you for your message. It's great to hear about the approval of my payment by the ECOWAS Committee on Rewards and Directors Board. \n\nCould you please provide more details about this payment? I'm curious to know how this came about as it was quite unexpected.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAlbina"
+    }
+]

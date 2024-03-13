@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_173",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Friend,",
+        "body": "  Dear Friend,\n \nI trust you are doing good today, I am Samuel Barcliff, an auditor with one of the top rated banks in the United Kingdom. I seek your consent to discuss a very confidential business opportunity with you.\n \nThere is a dormant account that belongs to my late client who died in an auto-crash with his wife and daughter while in exile here in the UK since 2012 (May their soul rest in peace). \n \nI have all the particulars concerning the fixed deposit my portfolio, and I wish to close down the fixed deposit account and repatriate the funds to your country for investment. If you are interested, get back to me for more details.\n \nRegards,\nSamuel Barcliff.   "
+    },
+    {
+        "from": "baiter_173",
+        "to": "scammer_173",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Friend,",
+        "body": "Dear Samuel Barcliff,\n\nThank you for reaching out to me. I hope this email finds you well. I am interested in learning more about the business opportunity you mentioned regarding the dormant account of your late client.\n\nCould you please provide me with some additional details about the fixed deposit account? Specifically, I would like to know the approximate amount of funds involved and any legal requirements or procedures that need to be followed in order to repatriate the funds.\n\nI appreciate your time and look forward to hearing from you soon.\n\nBest wishes,\nJasmine"
+    }
+]

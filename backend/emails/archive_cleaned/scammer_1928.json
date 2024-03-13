@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1928",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Friend,",
+        "body": "Dear Friend,\n \n \nRe: An-unspent US$58.9 Million IMF Investment Fund:\n \n \nI am the Chief Budget Management Officer and a senior Economic Strategist of OFFICE OF BUDGET AND PLANNING (OBP), International Monetary Fund, IMF. However, I am reaching you on this mail not in that capacity, but in my individual self as you will find out reading below.\nTo start with, the amount above is a left over/or unspent approved and budgeted FUNDS for various IMF administrative and capital budgets under the purview of my office in 2020. However, due to heavy global financial red tape brought about by the covid-19 pandemic last year, and restrictions on release of non-institutional lump sums, the left over amount was carefully \"KEPT APART\" in a [BANK SECURITY VAULT] where it would be moved/transferred into the custody/bank account of an interested partner (since I am unable to receive it directly in my name) for a possible Private Investment Contract (PIC) Boost Fund (between us) under your steer-ship and management. But if you are not disposed to our joint investment partnership, of course we can decide on a 50/50 split of the money which allows each of us to take our shares accordingly.\nIn the light of this, please reply urgently and feel at ease to request for any additional information/clarification regarding your involvement.\n \n \nOwing to self protection and sensitivity of my present position, I will appreciate your “WORD” that this transaction shall remain very confidential between the two of us.\n \n \nYours truly,\n \nLuuk Bram Guus\nEmail: \noffficee1@gmail.com"
+    },
+    {
+        "from": "baiter_1928",
+        "to": "scammer_1928",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Friend,",
+        "body": "Dear Luuk Bram Guus,\n\nThank you for reaching out to me with this opportunity. I must say, it sounds quite intriguing. I'm interested in learning more about this unspent approved funds and the potential for a private investment contract. Could you please provide me with some additional details?\n\nAlso, I appreciate your emphasis on confidentiality. Rest assured that any information shared between us will remain strictly confidential.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRichard"
+    }
+]

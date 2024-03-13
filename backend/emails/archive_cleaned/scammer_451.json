@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_451",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  GREETING, MY NAME IS Mr. OSC",
+        "body": "  GREETING, MY NAME IS Mr. OSCAR WILLIAMS, THE ASSISTANT MANAGER, DHL COURIER COMPANY\nVery Urgent:\nPlease This is to inform you that we have received a package containing an ATM card from Mr.Raphael W. Bostic: the Chairman Federal Reserve Board Atlanta Georgian and we have been instructed to deliver the package to you without any further delay as the International Monetary Fund IMF have instructed. ATM Card Number: (5267 3700 02658619) Security Pin Code: (Cannot Be Listed On Internet for Security Reason)ATM Card value is: $10.5Million US Dollars, Withdrawal per day: $5000 US DOLLARS\nNote that you can Withdraw Money from your international ATM Debit/Master Card from any ATM Machine Location or Center of your Choice/Nearest to you in any part of the world. Please kindly Reconfirm the following details Below to avoid any wrong delivery over this Transaction,\n1. Your full name:\n2. Delivery address:\n3. Your direct tel, cell:\n4. A copy of your id:\n5. Nearest airport:\nUrgently get back to me with your full address where your ATM card will be delivered to because i will not be in the office next week:\nEmail: \ndhlcouriercommpany@outlook.com\nBest regards,\nMr.Oscar Williams,\nAssistant Manager   "
+    },
+    {
+        "from": "baiter_451",
+        "to": "scammer_451",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   GREETING, MY NAME IS Mr. OSC",
+        "body": "Hello Mr. Williams, thank you for reaching out to me. I appreciate the information about the ATM card from W. Bostic and the delivery process. Could you please provide more details on how I can confirm my information securely with you?\n\nBest wishes,\nLesley"
+    }
+]

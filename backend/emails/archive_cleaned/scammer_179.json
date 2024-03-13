@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_179",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Our Ref CODE:CBN/SB46/00852",
+        "body": "   Our Ref CODE:CBN/SB46/00852\nTo. Beneficiary.\nI am Special FBI Agent Bryan A. Vorndran, and am here in Nigeria as an\nFBI delegate that has been delegated to investigate this fraudsters\nwho are in the\nbusiness of swindling Foreigners that came for transaction in Nigeria .\nPlease be informed that during my investigation, I got to find out\nthat,there is a huge sum of US$12.5million that has been assigned in\nyour name( As\nBeneficiary),and this fraudsters are busy swindling you without any hope\nof receiving your fund.\nNOTE: We have commenced fully in releasing these funds to the\nowners.We have to inform you that we have made some arrest in respect\nof this delayed over your\ndue fund. I have a very limited time to stay in Nigeria here, and  so\nI advise you urgently respond to this message .\nI shall be expecting your response as soon as you receive this\nemail.Note that I have attached my Identification to this email for\nyour perusal. Do not inform any of these people that collected money\nfrom you  about this new development to avoid jeopardizing our\ninvestigation.\nBest Regard,\nFBI Agent Bryan A.Vorndran  "
+    },
+    {
+        "from": "baiter_179",
+        "to": "scammer_179",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    Our Ref CODE:CBN/SB46/00852",
+        "body": "Dear Special FBI Agent Bryan A. Vorndran,\n\nThank you for reaching out to me regarding the fraudsters in Nigeria. I appreciate your efforts in investigating this matter and ensuring that justice is served. I understand that there is a significant sum of money assigned to my name, and it is disheartening to hear that these fraudsters have been swindling foreigners without any hope of receiving their funds.\n\nI am glad to hear that some arrests have been made in relation to this issue. It must be challenging for you to work under such circumstances, especially with limited time in Nigeria. I assure you that I will respond to your message promptly.\n\nCould you please provide me with more details about the arrests made? How many individuals have been apprehended so far? Are they part of a larger criminal network? Additionally, what steps are being taken to ensure the safe return of the funds to their rightful owners?\n\nThank you once again for your dedication and commitment in combating these fraudulent activities. I look forward to hearing from you soon.\n\nBest wishes,\nEdward"
+    }
+]

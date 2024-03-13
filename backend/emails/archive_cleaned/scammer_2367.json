@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2367",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "United States Reconciliation C",
+        "body": "United States Reconciliation Committee\n1114 6th Ave #17thW.\nR. Grace Building, New York,\nNY 10110, USA\nDirect no: +1 (912) 5811433\nEmail address: \nreconciliationcommittee87@gmail.com\nAttn: Sir/ Madam..\nDo you know that by now you should have concluded everything concerning your transaction and receive your long overdue payment. I will give you every detail the reasons and why all the efforts you have made were to no avail.If you ignore this message then, I will still keep watching you as you waste more of your time and money. For your information there is NO WAY that transaction can be concluded without my concept because the foundation of that transaction was never perfected and you were not aware.\nNO body else can assist you conclude that transaction without my involvement so STOP wasting your time because they can NOT help you rather cause you more harm by giving you more empty promises that will NOT come through.\nYours in Service\nMr.Steve Hamza     "
+    },
+    {
+        "from": "baiter_2367",
+        "to": "scammer_2367",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: United States Reconciliation C",
+        "body": "Hello Hamza,\n\nThank you for reaching out and sharing this information with me. I must admit, it's a bit confusing. Could you please elaborate on what exactly should have been concluded by now? And what is this long overdue payment you're referring to?\n\nI'm also curious about the foundation that was never perfected. Could you provide more details about that? \n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nJohn"
+    }
+]

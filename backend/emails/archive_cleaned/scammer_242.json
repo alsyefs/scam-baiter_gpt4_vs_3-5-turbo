@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_242",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  I'm Jerry Oliver an American",
+        "body": "  I'm Jerry Oliver an American citizen\nI represent top company executives in Saudi Arabia and I need business partnership to re-profile funds over $800- 1 Billion Dollars investment.\nRespond back for more details\nRegard's\nBarr. J Oliver   "
+    },
+    {
+        "from": "baiter_242",
+        "to": "scammer_242",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   I'm Jerry Oliver an American",
+        "body": "Hello Barr. Oliver,\n\nIt's a pleasure to meet you! Your message certainly piqued my interest. I'm always open to learning about new opportunities, especially ones that involve such significant figures.\n\nCould you please provide more information about the nature of this business? What kind of involvement would be required from my end?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nPaula"
+    }
+]

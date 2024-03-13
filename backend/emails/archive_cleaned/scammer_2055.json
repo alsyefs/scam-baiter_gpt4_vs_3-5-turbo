@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2055",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Good day to you beloved ,",
+        "body": "   Good day to you beloved ,\n I am pastor Donald Richardson , A Pastor with Faith Baptist Church | Queens New York, (Address 10501 37th Ave, Queens, NY 11368, United States\nPhone: +1 718-457-5651)\n I am writing to you with a confidential business proposal that presents a unique opportunity for partnership in the transfer of a significant fund.\n I wish to seek your honorable assistance in transferring a sum of money (Eighteen Million, three Hundred Thousand United States Dollars) belonging to my deceased congregant, whom I operated/managed and guided on the operation of the account in which he deposited the huge sum of money with Bank of America New York but unfortunately, he was diagnosed with COVID 19 CORONA VIRUS which took his life afterwards on 25 August 2020.\n Are you in any way related to the deceased Surgeon ? I am contacting you particularly because you bear the same surname with the deceased.\n Kindly get back to me even though you are not related to the deceased so we can discuss .\n Get back to me to enable me to provide you with more information regarding this matter .\n May the Good Lord continue to bless and keep you and the Family.\n Sincerely\n Pastor Donald Richardson    "
+    },
+    {
+        "from": "baiter_2055",
+        "to": "scammer_2055",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    Good day to you beloved ,",
+        "body": "Hello Pastor Donald Richardson,\n\nThank you for reaching out to me with your business proposal. I'm sorry to hear about the passing of your deceased relative due to COVID-19. While I am not related to the deceased surgeon, I am interested in learning more about this opportunity. Could you please provide me with further details regarding the transfer of funds? How exactly would my assistance be required?\n\nI appreciate your time and look forward to hearing back from you.\n\nBest wishes,\nDerek"
+    }
+]

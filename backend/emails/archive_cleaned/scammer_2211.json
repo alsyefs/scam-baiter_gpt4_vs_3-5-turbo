@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2211",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Beneficiary,",
+        "body": "Dear Beneficiary,\nHow are you today?\nPlease bear with us for making this initial contact through email, it\nis due to the urgency of this notification, since we are unable to\nreach your telephone line and to officially bring to your notice about\nyour payment file in which \nyou are listed as a beneficiary to the\nUnited Nations Compensation Program. This Compensation Program is an\norganized a Season program for victims of war, earthquakes, hurricane,\nfire disaster, internet scams, elderly ones, families of victims of\nCOVID-19 and fund payments delayed.\nA total sum of $3.8.Million United States Dollars only has been\napproved to you for compensation payment which will be released to you\nvia ATM CARD to avoid paying excess charges through bank transfer. You\nare strongly advised not to go through anybody or office for your fund\npayment but through this organization/commission that has been given\nthe authority and legal power for your fund payment through an ATM\nCARD.\nBe informed that as soon as the payment verification is completed, a\ntracking number will be sent to you to enable you to know the exact\ntime your ATM CARD Parcel including the vital documents backing up\nyour payment will be delivered to your contact address.\nOn this note, \nyou are to re-confirm to us the following below\nrequested information\n to this email address ( \nricharddutton137@aol.com\n) to enable us process your payment.\n1. Your Full Name.....\n2. Your Address where you would like to receive your ATM CARD:.............\n3. Occupation:……………………..\n4. Contact Telephone Number............\n5. Age..............\n6. Nationality/Country...........\nCongratulations\nMr. MARK ROBINSON\nFor United Nations Compensation Payment Unit."
+    },
+    {
+        "from": "baiter_2211",
+        "to": "scammer_2211",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "Dear Mr. Mark Robinson,\n\nThank you for reaching out to me regarding my payment file. I appreciate the urgency in contacting me through email. I hope you are doing well today.\n\nI understand that this program is organized by the United Nations for victims of various unfortunate circumstances. It's good to know that there are initiatives like this to support those in need.\n\nYou mentioned that a total sum of United States Dollars has been approved for me, which will be released through an ATM card to avoid excess charges. That sounds convenient and secure.\n\nBefore proceeding further, I would like to ask a few questions to ensure clarity and understanding:\n\n1. Could you please provide more details about the specific program or fund that I am being considered for? How was I selected as a recipient?\n\n2. What are the vital documents backing up my payment? Are they related to my eligibility or any legal requirements?\n\n3. Can you explain how the tracking number works? Will it allow me to track the delivery progress of my ATM card parcel?\n\n4. Is there any specific reason why I should not go through anybody else or an office for my fund payment, but only through your commission?\n\nOnce I have a better understanding of these details, I will be able to provide you with the requested information such as my full name, address, occupation, and contact telephone number.\n\nThank you again for reaching out to me and providing this opportunity. I look forward to your response.\n\nBest wishes,\nHolly"
+    }
+]

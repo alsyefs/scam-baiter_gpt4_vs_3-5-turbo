@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1699",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  GOOD DAY TO YOU THIS MORNING",
+        "body": "  GOOD DAY TO YOU THIS MORNING.\nTHE TRUTH WILL ALWAYS SET YOU FREE AND PLEASE TELL ME WHY YOU ARE TELLING ME A LIE?\nYOUR'S TRULY\nBARRISTER DEAN WESTWOOD   "
+    },
+    {
+        "from": "baiter_1699",
+        "to": "scammer_1699",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   GOOD DAY TO YOU THIS MORNING",
+        "body": "Hello Barrister Dean Westwood,\n\nGood day to you too! I hope this message finds you well. I'm not sure what you're referring to when you mention a lie. Could you please elaborate on that? I'm always open to discussions and clarifications.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJames"
+    }
+]

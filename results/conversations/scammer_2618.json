@@ -1,0 +1,92 @@
+[
+    {
+        "from": "scammer_2618",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "It’s my pleasure to inform you",
+        "body": "It’s my pleasure to inform you that your Customized Consignment Box valued\n$3.5 million dollars USD dollar was successful registered with DHL Company for shipment and the\nBox was scheduled for delivery directly to your door step and \nyou will\nsend $180 for delivery and insurance coverage paper to ensure successful\ndelivery. Do reconfirm your below info;\nYour full name........\nHome address..........\nAge......\nAnd\nGender. .........\nWhite-House Agent"
+    },
+    {
+        "from": "baiter_2618",
+        "to": "scammer_2618",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: It’s my pleasure to inform you",
+        "body": "Hello there! Thank you for reaching out to me. I appreciate the information you've shared about the customized box valued at a million dollars. It sounds quite exciting! \n\nBefore I proceed, could you please clarify a few things for me? Firstly, what is the purpose of the delivery and insurance coverage paper? Secondly, why do you need my full home address, age, and gender? I just want to make sure I have all the necessary details before proceeding further.\n\nBest wishes,\nGail"
+    },
+    {
+        "from": "scammer_2618",
+        "to": "baiter_2618",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: It’s my pleasure to inform you",
+        "body": "Reconfirm your full details below to avoid wrong delivery\n\n[White-House Agent - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gk9kz)\t[2gk9kz]"
+    },
+    {
+        "from": "scammer_2618",
+        "to": "baiter_2618",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.259259259259259e-05,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: It’s my pleasure to inform you",
+        "body": "This is scam victims compensation\n\n[White-House Agent - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gk9l3)\t[2gk9l3]"
+    },
+    {
+        "from": "baiter_2618",
+        "to": "scammer_2618",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0006481481481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: It’s my pleasure to inform you",
+        "body": "Hello! How can I help you today?\n\nBest wishes,\nGail"
+    },
+    {
+        "from": "baiter_2618",
+        "to": "scammer_2618",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0006828703703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: It’s my pleasure to inform you",
+        "body": "Hello! Thank you for reaching out. I would be happy to help you with any information you need. Could you please provide me with more details about what you would like to confirm?\n\nBest wishes,\nGail"
+    },
+    {
+        "from": "scammer_2618",
+        "to": "baiter_2618",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0029976851851851853,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: It’s my pleasure to inform you",
+        "body": "Full name …….\nHome address…….\nPhone……..\nOccupation……\nI’d card……\n\n[White-House Agent - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gk9s6)\t[2gk9s6]"
+    },
+    {
+        "from": "scammer_2618",
+        "to": "baiter_2618",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.20613425925925927,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: It’s my pleasure to inform you",
+        "body": "Urgent reply needed\n\n[White-House Agent - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gknbu)\t[2gknbu]"
+    },
+    {
+        "from": "baiter_2618",
+        "to": "scammer_2618",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.40221064814814816,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: It’s my pleasure to inform you",
+        "body": "Hello! I'm here to help. What seems to be the urgency?\n\nBest wishes,\nGail"
+    }
+]

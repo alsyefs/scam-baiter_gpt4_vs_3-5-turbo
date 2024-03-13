@@ -1,0 +1,302 @@
+[
+    {
+        "from": "scammer_676",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Sir,",
+        "body": "  Sir,\nMy name is Michael Mensah Baah, I am the Deputy Chief Executive Officer, Development Bank Ghana. We have made several efforts to contact you since two days but to no avail. We authorized our delivering agent to deliver an accrued interest payment of $840,00 USD to your residential address, remember we don't disclose contents of the box to the agents for security reasons, but the information reaching us this morning is that he is at New York JFK John F. Kennedy International Airport and was interrupted by the customs and immigration due to misplacement of your contact information on transit, his name is Danso Duku, you can check up on him to know what his problem is all about. Please contact him on Email: \ndukudanso0@gmail.com\nfor more details on how to get to your home for safety.\nPlease reconfirm the following information to him quickly.\n* Full Name\n* Residential Address\n* Mobile Phone Number\n* Any government Id\nRegards,\nMichael Mensah Baah.   "
+    },
+    {
+        "from": "baiter_676",
+        "to": "scammer_676",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Sir,",
+        "body": "Dear Michael Mensah Baah,\n\nThank you for reaching out to me. I apologize for not being available when you tried to contact me earlier. I appreciate your efforts in trying to deliver the accrued interest payment to my address.\n\nI understand that your delivering agent, Danso Duku, is currently facing some issues at the New York JFK John F. Kennedy Airport customs. Could you please provide me with more details about his situation? I would like to know what exactly is causing the delay and how we can resolve it.\n\nBefore I proceed, could you kindly clarify why my government ID is required? Is it necessary for the delivery process or for any other specific reason?\n\nLooking forward to your prompt response.\n\nBest wishes,\nHelen"
+    },
+    {
+        "from": "scammer_676",
+        "to": "baiter_676",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Sir,",
+        "body": "Helen.\r\n\r\nI have been held up without any help for one month plus and they could not\r\nallow me at access my email message,till this morning when I reported to\r\nSalvatore Ingrassia - Port Director JFK Airport - U.S. Customs and Border\r\nProtection ans he issued instruction to release my mobile so that I can\r\ncontact my people.\r\nMichael has been doing his best, still the authorities of the New York JFK\r\nJohn F. Kennedy Airport customs are very strict.\r\n\r\nI lost some of your document on transits and they said I must provide it\r\nbefore they can look into my case. One of the officers is asking for some\r\nmoney to stop the inspection of the box. If you can send me your full name,\r\ncontact address, your mobile phone number, you can provide any ID if not\r\ngovernment Id, driver's license will fine.\r\n\r\nSo that I can do the submission today and see what next they will ask me to\r\ndo.\r\n\r\nKindly do the needful.\r\n\nDanso Duku.\r\nNew York JFK John F. Kennedy Airport.\r\nMobile +1 332 209 2425 whatsapp"
+    },
+    {
+        "from": "baiter_676",
+        "to": "scammer_676",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.010231481481481482,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Sir,",
+        "body": "Hello Helen, thank you for sharing this information with me. It sounds like you are going through a challenging situation at the JFK Airport. Can you tell me more about what happened with your documents and why they are asking for money to stop the inspection of the box? I want to understand the full picture before offering any advice or assistance.\n\nBest wishes,\nHelen"
+    },
+    {
+        "from": "scammer_676",
+        "to": "baiter_676",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.01885416666666667,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Sir,",
+        "body": "Can you tell me more about what happened with your documents?\r\nI said I lost my documents while on transit to New York here.\r\n\r\nWhy are they asking for money to stop the inspection of the box?\r\nNormally they inspect boxes that are fragile and  sealed to know the\r\ncontent, without them having access into the content of the box, they will\r\ninspect and scan it as their usual process, if there are harmful objects,\r\nor anything related to drugs or money laundering."
+    },
+    {
+        "from": "baiter_676",
+        "to": "scammer_676",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.050243055555555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Sir,",
+        "body": "Oh, I see. It sounds like a standard procedure for them to inspect packages to ensure safety and security. It's common for authorities to take precautions when they come across packages without proper documentation or that raise any concerns. Have they given you any specific reasons why they are asking for money to stop the inspection of your box?\n\nBest wishes,\nHelen"
+    },
+    {
+        "from": "scammer_676",
+        "to": "baiter_676",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.09719907407407408,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Sir,",
+        "body": "They call it a non inspection fee based on the nature of the box package.\r\nThat is even preferable because if they inspect it, they will definitely\r\ndiscover something, so the most secure way is for them to charge for a non\r\ninspection fee and pass you or release your package, that is how others did\r\ntheirs and they left long time, but in my case nobody has come up to help\r\nme clear the box.Because I could not communicate you due the seizure of my\r\nphone and Michael could not reach me because same communication issue."
+    },
+    {
+        "from": "scammer_676",
+        "to": "baiter_676",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.09863425925925925,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Sir,",
+        "body": "They have freed a lot of people, when they charge you and you pay their\r\nfees, they will allow you to continue your journey."
+    },
+    {
+        "from": "baiter_676",
+        "to": "scammer_676",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.13344907407407408,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Sir,",
+        "body": "That's interesting. How exactly do they determine the fees?\n\nBest wishes,\nHelen"
+    },
+    {
+        "from": "baiter_676",
+        "to": "scammer_676",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.1335185185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Sir,",
+        "body": "That's interesting. Can you tell me more about how this non-inspection fee works? How did you come across this information?\n\nBest wishes,\nHelen"
+    },
+    {
+        "from": "scammer_676",
+        "to": "baiter_676",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.28372685185185187,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Sir,",
+        "body": "Please don't be scared, send me your information, there is no problem about\r\nthat, other people apprehended, their people sent their information and\r\nthey will just cross check with the luggages or boxes before they can start\r\ntheir process for release, it's for checking only, it is not for anything\r\nstrange.\r\n\r\nYour full name\r\nYour contact address\r\nYour mobile phone number\r\nAny form of ID is OK."
+    },
+    {
+        "from": "scammer_676",
+        "to": "baiter_676",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.28372685185185187,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Sir,",
+        "body": "The Cargo Manager - Airport Cargo Service determines the amount to pay for\r\neach language or box or package, I have to go to their section to find out\r\nhow much they will charge for your package and how they will receive their\r\nmoney, and I will revert to you.\r\n\r\nImmediately you pay the non inspection fee they will release your box. But\r\nwhat they need first is your information to make sure that the package is\r\nnot diverted, and it belongs to you. Send me your full name, contact\r\naddress and cell phone number, they want to make sure that your information\r\ncorresponds with the one on the box. Kindly do the needful, let's follow\r\ntheir process."
+    },
+    {
+        "from": "scammer_676",
+        "to": "baiter_676",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.28372685185185187,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Sir,",
+        "body": "I have made the inquiry and they are asking for $4,500.00 USD for the non\r\ninspection fees."
+    },
+    {
+        "from": "baiter_676",
+        "to": "scammer_676",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.30005787037037035,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Sir,",
+        "body": "Hello! Thank you for sharing this information about the Cargo Manager Airport Cargo Service. Could you tell me more about how they determine the amount to pay for each package? I'm curious to learn about their pricing structure and payment methods.\n\nBest wishes,\nHelen"
+    },
+    {
+        "from": "baiter_676",
+        "to": "scammer_676",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3002662037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: Sir,",
+        "body": "Hello! Thank you for sharing this information. Can you tell me more about the process for release that you mentioned? I'm curious to learn how it works.\n\nBest wishes,\nHelen"
+    },
+    {
+        "from": "baiter_676",
+        "to": "scammer_676",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3006828703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: Sir,",
+        "body": "Oh, I see. Could you tell me more about what the non-inspection fees are for? How did you come across this opportunity?\n\nBest wishes,\nHelen"
+    },
+    {
+        "from": "baiter_676",
+        "to": "scammer_676",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3015277777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: Sir,",
+        "body": "Hello! That's interesting. Could you tell me more about what the non-inspection fees are for?\n\nBest wishes,\nHelen"
+    },
+    {
+        "from": "baiter_676",
+        "to": "scammer_676",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.30171296296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: Sir,",
+        "body": "Hello! Thank you for sharing this information about the Cargo Manager Airport Cargo Service. Could you tell me more about how they determine the amount to pay for each package? I'm curious to learn about their process.\n\nBest wishes,\nHelen"
+    },
+    {
+        "from": "baiter_676",
+        "to": "scammer_676",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3017708333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re: Sir,",
+        "body": "Hello! Thank you for sharing that information. Can you tell me more about why they need my personal details and ID for checking purposes? I just want to understand the process better.\n\nBest wishes,\nHelen"
+    },
+    {
+        "from": "scammer_676",
+        "to": "baiter_676",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.33769675925925924,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "19",
+        "subject": "Re: Sir,",
+        "body": "Question 1.  Hello! Thank you for sharing this information about the Cargo\r\nManager Airport Cargo Service. Could you tell me more about how they\r\ndetermine the amount to pay for each package? I'm curious to learn about\r\ntheir process.\r\n\r\nAnswer: Cargo Manager Airport Cargo Service said they charge per Weight and\r\nSize and excess of the lagage and the dumerage of your box which is 1 month\r\nwith them, he said they have calculated everything and it came out to\r\n$4,500.00\r\n\r\nTheir weight limitation is typically 5kg/11lbs (free carrier), and anything\r\nabove that will be charged as an excess weight and the box is 28kg/61.6\r\nlbs. I asked him how much did they charge for the excess weight of 23kg and\r\n30 days demurrage, he said they charge $100 per day on demurrage multiply\r\nby 30 days which is $3,000.00 only, then the excess weight of 23kg is $65\r\nper 1kg which is $1,495.00 so approximately the total is $4,495.00\r\n\r\n\r\nQuestion 2. Hello! Thank you for sharing that information. Can you tell me\r\nmore about why they need my personal details and ID for checking purposes?\r\nI just want to understand the process better.\r\n\r\nAnswer. I have answered this question before, they are using it to cross\r\ncheck if the information pasted on the box matches with your information.\r\nThere is nothing bad about it, a lot of people are doing reconfirmation of\r\ntheir information to cross check and to make sure you are the real owner.\r\nFeel free about your information, it will hasten the process."
+    },
+    {
+        "from": "baiter_676",
+        "to": "scammer_676",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3419097222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "20",
+        "subject": "Re: Sir,",
+        "body": "Hello! Thank you for sharing information about the Cargo Manager Airport Cargo Service. I appreciate your insights. Could you elaborate on how they determine the amount to pay for each package? I'm interested in understanding their process better.\n\nAdditionally, I noticed that they require personal details and ID for checking purposes. Can you provide more details on why this information is needed? I'm curious to learn more about their verification process.\n\nBest wishes,\nHelen"
+    },
+    {
+        "from": "scammer_676",
+        "to": "baiter_676",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.3574189814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "21",
+        "subject": "Re: Sir,",
+        "body": "I have answered all these questions, so stop repeating them."
+    },
+    {
+        "from": "baiter_676",
+        "to": "scammer_676",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3833449074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "22",
+        "subject": "Re: Sir,",
+        "body": "Hello! Thank you for sharing this information. Can you tell me more about why my full name, contact address, mobile phone number, and ID are needed for the process? I just want to understand better before providing any personal details.\n\nBest wishes,\nHelen"
+    },
+    {
+        "from": "baiter_676",
+        "to": "scammer_676",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.38340277777777776,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "23",
+        "subject": "Re: Sir,",
+        "body": "I understand your frustration. Can you please clarify which specific questions you're referring to? I want to make sure I address your concerns accurately.\n\nBest wishes,\nHelen"
+    },
+    {
+        "from": "scammer_676",
+        "to": "baiter_676",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.39769675925925924,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "24",
+        "subject": "Re: Sir,",
+        "body": "Please I have answered all your questions, check my messages with you\r\nthroughout today, so there's no reason to repeat them, it's childish. I\r\nhave explained to you why they needed your personal information, I have\r\ndone that more than once. Your personal information is needed for\r\nverification process in making sure you are the real owner of the box,\r\nsecondly to cross check your information to the one attached to the body of\r\nthe box and to prove there's no difference. I have done this elaboration\r\nmore than once."
+    },
+    {
+        "from": "baiter_676",
+        "to": "scammer_676",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.42518518518518517,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "25",
+        "subject": "Re: Sir,",
+        "body": "Hello! I understand your concerns. Can you please clarify how my personal information is being used to ensure the security of the process? I just want to make sure everything is clear before proceeding.\n\nBest wishes,\nHelen"
+    },
+    {
+        "from": "scammer_676",
+        "to": "baiter_676",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.4305671296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "26",
+        "subject": "Re: Sir,",
+        "body": "Not interested in more of your questions because I have done it all. You\r\nare just making fool of me and I can't take it anymore. Please it's enough\r\nand I don't need more of your questions."
+    },
+    {
+        "from": "baiter_676",
+        "to": "scammer_676",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.46677083333333336,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "27",
+        "subject": "Re: Sir,",
+        "body": "I'm sorry to hear that you feel that way. I understand your concerns. Can you please share with me what specifically made you feel like I was making a fool of you? I want to make sure I address any misunderstandings and provide you with the information you need.\n\nBest wishes,\nHelen"
+    },
+    {
+        "from": "scammer_676",
+        "to": "baiter_676",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.4713657407407407,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "28",
+        "subject": "Re: Sir,",
+        "body": "Repeating the same question made me feel that way. That's okay."
+    },
+    {
+        "from": "baiter_676",
+        "to": "scammer_676",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.5082986111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "29",
+        "subject": "Re: Sir,",
+        "body": "I understand, sometimes it can be frustrating when things are repeated. Is there anything else you would like to talk about or ask?\n\nBest wishes,\nHelen"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_813",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Your funds Worth ( $15.5 Milli",
+        "body": "Your funds Worth ( $15.5 Million USD) has been deposited through Federal Reserve Bank after our final meeting today,\n \nContact him directly Mr. Jerome Powell (\nfederalreservebankplc201@gmail.com\n)\n \nReconfirm your information to avoid wrong delivery such as\n \nReceiver's Name\nAddress:\nCountry:\nPhone Number:\n \nFrom US Treasury Department\nYour Funds Worths $15.5 Million USD\n \nYours Sincerely\nMrs. Kelly Harris."
+    },
+    {
+        "from": "baiter_813",
+        "to": "scammer_813",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Your funds Worth ( $15.5 Milli",
+        "body": "Hello Mrs. Kelly Harris,\n\nWow, that's quite a surprise! I'm not sure how this happened, but it sounds like an interesting situation. Could you please tell me more about how these funds ended up being deposited in my name? And who is Mr. Jerome Powell?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMary"
+    }
+]

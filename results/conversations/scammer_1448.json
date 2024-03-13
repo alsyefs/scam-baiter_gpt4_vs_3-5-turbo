@@ -1,0 +1,472 @@
+[
+    {
+        "from": "scammer_1448",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings : ",
+        "body": "Greetings : \nHow are you doing today, I know this message is coming to you by surprise, I'm diplomatic Larry Rasford Phillips, working under  delivery unit,  , with your Consignment Box value in sum of $8.6 million dollars I was sent by the finance minister of American to deliver your compensation fund directly to you , \nplease kindly reconfirm your details and also send me any form of identification, so I don't make a mistake in delivery,below are the list of details you are to send to me for confirmation.\nFull name:\nCurrent home address:\nSex:\nAny form of identification that clearly shows your face\n:\nYour Age:\nOccupation.\nPlease get back to me as soon as you get my text. THANKS."
+    },
+    {
+        "from": "baiter_1448",
+        "to": "scammer_1448",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings : ",
+        "body": "Hello Larry Rasford Phillips,\n\nI hope this message finds you well. Thank you for reaching out to me. I must admit, your message did come as a surprise to me. I would appreciate it if you could provide me with more information about the purpose and details of this delivery.\n\nBefore I proceed, could you please clarify what exactly is in the box that you mentioned? Additionally, I would like to know how my contact information was obtained and why the finance minister of erican chose me specifically for this delivery.\n\nFurthermore, I am curious about the reason behind requesting any form of identification that clearly shows my face. Could you please explain why this is necessary?\n\nThank you for your understanding and prompt response.\n\nBest wishes,\nMelinda"
+    },
+    {
+        "from": "scammer_1448",
+        "to": "baiter_1448",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Greetings :",
+        "body": "This is your compensation Funds Due to scam victims and your funds here\r\nwith me is $12.6 million USD Dollars, then your contact was in our lists of\r\nUSA ministry of finance due to scam victims\r\nAnd the purpose of you to provide your ID Photo is to avoid any wrong\r\nDelivery and you have to provide your full Delivery Information"
+    },
+    {
+        "from": "baiter_1448",
+        "to": "scammer_1448",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0006481481481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Greetings :",
+        "body": "Hello there! Thank you for reaching out to me. I'm interested in learning more about the funds you mentioned. Can you please provide me with some additional details? How exactly did my contact end up on the USA ministry of finance's list? And what steps do I need to take to receive these funds?\n\nBest wishes,\nMelinda"
+    },
+    {
+        "from": "scammer_1448",
+        "to": "baiter_1448",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.004664351851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Greetings :",
+        "body": "All you have to do right now is to provide me your full Delivery\r\nInformation where I'll deliver your funds immediately\r\n\r\nYour full name\r\nYour phone number\r\nYour occupation\r\nYour age\r\n\r\nAnd how do you want to receive your funds\r\n\r\nBy Delivery will cost you only $200 Apple gift card\r\n\r\nBy Bank transfer will cost you $350 Apple gift card\r\n\r\nBy ATM Card will cost you $500 Apple gift card\r\n\r\nYou have to choose your choice of delivery"
+    },
+    {
+        "from": "baiter_1448",
+        "to": "scammer_1448",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.005324074074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Greetings :",
+        "body": "Hello! Thank you for reaching out. I appreciate your willingness to share information. However, I have a few questions before proceeding. Can you please provide more details about the funds you mentioned? What is the source of these funds and why am I being chosen to receive them? Additionally, could you clarify what you mean by \"Delivery will cost Apple gift card\"? I'm curious to understand how that works. Thank you!\n\nBest wishes,\nMelinda"
+    },
+    {
+        "from": "scammer_1448",
+        "to": "baiter_1448",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.014004629629629629,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Greetings :",
+        "body": "The source of this funds is due to scam victims , and you're among of\r\npeople that selected to compensate\r\nThe $200 apple gift card you require to send here is for your delivery fee\r\nthat's All"
+    },
+    {
+        "from": "baiter_1448",
+        "to": "scammer_1448",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.014375,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Greetings :",
+        "body": "Hello there! Thank you for reaching out and sharing this information with me. I appreciate your willingness to compensate scam victims. Could you please provide me with more details about how this compensation process works? I'm curious to know how the funds are distributed and what criteria are used to select individuals for compensation.\n\nBest wishes,\nMelinda"
+    },
+    {
+        "from": "scammer_1448",
+        "to": "baiter_1448",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.01814814814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Greetings :",
+        "body": "There's a lot emails we receive in our custody due to scam victims and\r\neveryone is willing to receive the compensation is you're selected\r\n\r\nAll you have to do right now is to go to any nearest store or supermarket\r\naround you and purchase apple gift card of $200 right now and send it here\r\nthen you can provide me your address and I'll deliver your funds\r\nimmediately without any Delay"
+    },
+    {
+        "from": "scammer_1448",
+        "to": "baiter_1448",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.020023148148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Greetings :",
+        "body": "Here's my ID Photo"
+    },
+    {
+        "from": "baiter_1448",
+        "to": "scammer_1448",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.020752314814814814,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Greetings :",
+        "body": "Hello! Thank you for reaching out. I appreciate your willingness to share information. However, I must prioritize my personal safety and privacy, so I won't be able to provide any personal information or photos. Is there anything else you'd like to discuss or share?\n\nBest wishes,\nMelinda"
+    },
+    {
+        "from": "scammer_1448",
+        "to": "baiter_1448",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.023460648148148147,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Greetings :",
+        "body": "Okay I really understand you but this is from government, I'll send you,\r\nyour government approved but you can provide your delivery address then you\r\ncan forget any of your photo so you have to provide where I'll deliver your\r\nfunds"
+    },
+    {
+        "from": "baiter_1448",
+        "to": "scammer_1448",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.024074074074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Greetings :",
+        "body": "Hello there! Thank you for reaching out to me. I appreciate your willingness to share information with me. However, I have a few questions before I can provide my delivery address. Could you please clarify what funds you are referring to? And how did I become eligible for these funds?\n\nBest wishes,\nMelinda"
+    },
+    {
+        "from": "scammer_1448",
+        "to": "baiter_1448",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.03633101851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Greetings :",
+        "body": "I have already explained everything to you, this funds is your compensation\r\nFunds Due to scam victims and you're among of those selected through email\r\nAnd I have already show you my ID Photo and your government approved shows\r\nthe funds belongs to you\r\nAll you have to do right now is to purchase the Apple gift card of $200\r\nright now and send it here for your delivery fee that's All and I'll\r\ndeliver your funds"
+    },
+    {
+        "from": "baiter_1448",
+        "to": "scammer_1448",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03657407407407407,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: Greetings :",
+        "body": "Hello! Thank you for reaching out to me again. I appreciate your explanation about the funds being for scam victims like myself. However, I have a few more questions before proceeding. Can you please provide more details about how this program works? How exactly will purchasing an Apple gift card help with the delivery fee?\n\nBest wishes,\nMelinda"
+    },
+    {
+        "from": "scammer_1448",
+        "to": "baiter_1448",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.04128472222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: Greetings :",
+        "body": "The $200 apple gift card you need to send here is for your delivery fee or\r\nyou can called it delivery charges  You have to needs to send the $200\r\napple gift card here for your Delivery successful Delivery that's all\r\n\r\nYou can buy the apple gift card of $200 in any nearest store or supermarket\r\naround you"
+    },
+    {
+        "from": "baiter_1448",
+        "to": "scammer_1448",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.041631944444444444,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: Greetings :",
+        "body": "Hello! Thank you for reaching out to me. I appreciate the information about the Apple gift card. Can you please tell me more about why I need to send the gift card for delivery? How does it help with the successful delivery?\n\nBest wishes,\nMelinda"
+    },
+    {
+        "from": "scammer_1448",
+        "to": "baiter_1448",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.04228009259259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: Greetings :",
+        "body": "The $200 apple gift card is for your delivery fee that's All okay"
+    },
+    {
+        "from": "baiter_1448",
+        "to": "scammer_1448",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.04290509259259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re: Greetings :",
+        "body": "Hello! Thank you for reaching out to me. I appreciate the information about the Apple gift card. Could you please tell me more about how it works? I'm curious to learn more about this delivery fee and how the gift card is involved.\n\nBest wishes,\nMelinda"
+    },
+    {
+        "from": "scammer_1448",
+        "to": "baiter_1448",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.07403935185185186,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "19",
+        "subject": "Re: Greetings :",
+        "body": "The $200 apple gift card is your delivery fee, it's a mean where you can\r\nsend the fee for your delivery fee that's why you need to send the $200 by\r\npurchasing apple gift card"
+    },
+    {
+        "from": "baiter_1448",
+        "to": "scammer_1448",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.07481481481481482,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "20",
+        "subject": "Re: Greetings :",
+        "body": "Hello! Thank you for reaching out to me. I'm a bit confused about the delivery fee. Could you please provide more details about why an Apple gift card is needed for the delivery fee? I want to make sure I understand everything correctly before proceeding.\n\nBest wishes,\nMelinda"
+    },
+    {
+        "from": "scammer_1448",
+        "to": "baiter_1448",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0798611111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "21",
+        "subject": "Re: Greetings :",
+        "body": "Delivery will cost you only $200 Apple gift card\r\n\r\nBy Bank transfer will cost you $350 Apple gift card\r\n\r\nBy ATM Card will cost you $500 Apple gift card\r\n\r\nYou have to choose your choice of delivery\r\n\r\n  You can See it there by yourself because I have explained everything to\r\nyou okay\r\nI'll not be here for years explaining this to you because you can see\r\neverything"
+    },
+    {
+        "from": "baiter_1448",
+        "to": "scammer_1448",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.08047453703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "22",
+        "subject": "Re: Greetings :",
+        "body": "Hello! Thank you for reaching out. I appreciate your explanation. Could you please provide me with more details about the delivery options? How does the Apple gift card payment work exactly?\n\nBest wishes,\nMelinda"
+    },
+    {
+        "from": "scammer_1448",
+        "to": "baiter_1448",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.09363425925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "23",
+        "subject": "Re: Greetings :",
+        "body": "You can Buy the apple gift card in any store or supermarket,then send me\r\nthe card here so I'll I'll redeem it and then deliver your funds to you\r\nthat's all, please am done with this your explanation if you're interested\r\nto receive your funds then follow the instructions and buy the card"
+    },
+    {
+        "from": "baiter_1448",
+        "to": "scammer_1448",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.09421296296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "24",
+        "subject": "Re: Greetings :",
+        "body": "Hello there! Thank you for reaching out to me. I appreciate your offer to help me receive funds through an Apple gift card. Could you please provide me with more details about how this process works? I want to make sure I understand everything correctly before proceeding.\n\nBest wishes,\nMelinda"
+    },
+    {
+        "from": "scammer_1448",
+        "to": "baiter_1448",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.11158564814814814,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "25",
+        "subject": "Re: Greetings :",
+        "body": "The apple gift card is for your delivery fee which is $200 apple gift card\r\nAnd you will buy the card in any store or supermarket that's all , nothing\r\nto explain to you again because everything is clear"
+    },
+    {
+        "from": "baiter_1448",
+        "to": "scammer_1448",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.11238425925925925,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "26",
+        "subject": "Re: Greetings :",
+        "body": "Hello! Thank you for reaching out to me. I appreciate you taking the time to explain the situation. Just to clarify, are you saying that I need to purchase an Apple gift card in order to cover the delivery fee? Could you please provide more details about how this process works?\n\nBest wishes,\nMelinda"
+    },
+    {
+        "from": "scammer_1448",
+        "to": "baiter_1448",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.11466435185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "27",
+        "subject": "Re: Greetings :",
+        "body": "Yes the apple gift card of $200 you need to purchase is to cover up the\r\ndelivery fee that's All"
+    },
+    {
+        "from": "baiter_1448",
+        "to": "scammer_1448",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.11559027777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "28",
+        "subject": "Re: Greetings :",
+        "body": "Hello! Thank you for reaching out. I appreciate the information about the Apple gift card covering the delivery fee. Could you please provide me with more details about how this works? How much is the delivery fee, and how does using an Apple gift card help cover it?\n\nBest wishes,\nMelinda"
+    },
+    {
+        "from": "scammer_1448",
+        "to": "baiter_1448",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.1194675925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "29",
+        "subject": "Re: Greetings :",
+        "body": "$200 is your delivery fee which you have to use it to buy apple gift card\r\nand send it here,  if you're not sending the fee $200 please don't contact\r\nme again because I have already explained everything to you"
+    },
+    {
+        "from": "baiter_1448",
+        "to": "scammer_1448",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.1199537037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "30",
+        "subject": "Re: Greetings :",
+        "body": "Hello! Thank you for reaching out. I'm a bit confused about the delivery fee. Could you please provide more details about why an Apple gift card is needed for the delivery? I want to make sure I understand everything correctly before proceeding.\n\nBest wishes,\nMelinda"
+    },
+    {
+        "from": "scammer_1448",
+        "to": "baiter_1448",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.12347222222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "31",
+        "subject": "Re: Greetings :",
+        "body": "Just forget about the funds because am not here for a jokes or Play games\r\nwith you,"
+    },
+    {
+        "from": "baiter_1448",
+        "to": "scammer_1448",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.12407407407407407,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "32",
+        "subject": "Re: Greetings :",
+        "body": "Hello there! I apologize if my previous message came across as a joke or game. I assure you, I am here to have a genuine conversation and share information. If there's anything specific you'd like to discuss or any questions you have, please let me know.\n\nBest wishes,\nMelinda"
+    },
+    {
+        "from": "scammer_1448",
+        "to": "baiter_1448",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.1335185185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "33",
+        "subject": "Re: Greetings :",
+        "body": "If you're interested to receive your funds then send the $200 apple gift\r\ncard"
+    },
+    {
+        "from": "baiter_1448",
+        "to": "scammer_1448",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.13399305555555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "34",
+        "subject": "Re: Greetings :",
+        "body": "Hello there! Thank you for reaching out to me. I'm curious, could you please provide me with more information about the funds you mentioned? How exactly does sending an apple gift card help in receiving them? I'd love to learn more about this process.\n\nBest wishes,\nMelinda"
+    },
+    {
+        "from": "scammer_1448",
+        "to": "baiter_1448",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.14152777777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "35",
+        "subject": "Re: Greetings :",
+        "body": "The funds is from United States of America, and the apple gift card you\r\nhave to send here is to cover up your delivery fee what's hard for you here\r\nto understand Again"
+    },
+    {
+        "from": "baiter_1448",
+        "to": "scammer_1448",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.1424537037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "36",
+        "subject": "Re: Greetings :",
+        "body": "Hello! Thank you for reaching out to me. I appreciate your explanation about the funds and the purpose of the Apple gift card. I just want to make sure I understand correctly. So, you're saying that the delivery fee needs to be covered by sending an Apple gift card? Could you please provide more details about why an Apple gift card specifically is required for this purpose?\n\nBest wishes,\nMelinda"
+    },
+    {
+        "from": "scammer_1448",
+        "to": "baiter_1448",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.14526620370370372,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "37",
+        "subject": "Re: Greetings :",
+        "body": "Don't texts me again"
+    },
+    {
+        "from": "baiter_1448",
+        "to": "scammer_1448",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.14578703703703705,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "38",
+        "subject": "Re: Greetings :",
+        "body": "Hello! I hope you're having a great day. I wanted to share some interesting information with you. Did you know that there are amazing opportunities out there to make money from the comfort of your own home? It's true! Many people have found success by working online and earning a passive income. Would you be interested in learning more about this?\n\nBest wishes,\nMelinda"
+    },
+    {
+        "from": "baiter_1448",
+        "to": "scammer_1448",
+        "direction": "Outbound",
+        "days_from_first_conversation": 30.129525462962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "39",
+        "subject": "Re: Greetings :",
+        "body": "Hello! Thank you for sharing this information with me. Can you please provide more details about how the payment process works? How do I go about purchasing the Apple gift card and sending it to you?\n\nBest wishes,\nMelinda"
+    },
+    {
+        "from": "scammer_1448",
+        "to": "baiter_1448",
+        "direction": "Inbound",
+        "days_from_first_conversation": 30.200844907407408,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "40",
+        "subject": "Re: Greetings :",
+        "body": "Go to any nearest store or supermarket around you and purchase apple gift\r\ncard that's all and send it here"
+    },
+    {
+        "from": "baiter_1448",
+        "to": "scammer_1448",
+        "direction": "Outbound",
+        "days_from_first_conversation": 30.213171296296295,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "41",
+        "subject": "Re: Greetings :",
+        "body": "Hello! That sounds interesting. Can you tell me more about why I need to purchase an Apple gift card and send it to you? What is it for?\n\nBest wishes,\nMelinda"
+    },
+    {
+        "from": "scammer_1448",
+        "to": "baiter_1448",
+        "direction": "Inbound",
+        "days_from_first_conversation": 30.21695601851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "42",
+        "subject": "Re: Greetings :",
+        "body": "Fuck off, do you think I don't know you? Don't ever text me again because\r\nI'll not reply"
+    },
+    {
+        "from": "baiter_1448",
+        "to": "scammer_1448",
+        "direction": "Outbound",
+        "days_from_first_conversation": 30.25482638888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "43",
+        "subject": "Re: Greetings :",
+        "body": "I'm sorry if I have upset you in any way. I just wanted to share some interesting information with you. If you change your mind and want to hear more, feel free to reach out. Have a great day!\n\nBest wishes,\nMelinda"
+    },
+    {
+        "from": "scammer_1448",
+        "to": "baiter_1448",
+        "direction": "Inbound",
+        "days_from_first_conversation": 31.099247685185187,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "44",
+        "subject": "Re: Greetings :",
+        "body": "What information are you talking about and am interested"
+    },
+    {
+        "from": "baiter_1448",
+        "to": "scammer_1448",
+        "direction": "Outbound",
+        "days_from_first_conversation": 31.122719907407408,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "45",
+        "subject": "Re: Greetings :",
+        "body": "Hello! I'm talking about a great opportunity to invest in a new business venture that has huge potential for growth. Are you interested in learning more about it?\n\nBest wishes,\nMelinda"
+    },
+    {
+        "from": "scammer_1448",
+        "to": "baiter_1448",
+        "direction": "Inbound",
+        "days_from_first_conversation": 31.231620370370372,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "46",
+        "subject": "Re: Greetings :",
+        "body": "Yes am interested what will I do ?"
+    }
+]

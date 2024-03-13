@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2242",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Beloved,",
+        "body": "  Beloved,\nMy name is Mrs. Rosana Boetang, I have been battling with cancer for\n2 years and may die.  For this reason,  I want you to help me\ndistribute my wealth to Charity homes  and the poor before I die.  If\nyou are willing to do my wish, reach me back.\nGod Bless,\nRosana Boetang.\nEMIL:rora815@aol.com   "
+    },
+    {
+        "from": "baiter_2242",
+        "to": "scammer_2242",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Beloved,",
+        "body": "Dear Mrs. Rosana Boetang,\n\nThank you for reaching out to me. I'm sorry to hear about your battle with cancer, and I hope you're finding strength during this difficult time. It's admirable that you want to distribute your wealth to charity homes and the poor before you pass away.\n\nI would be interested in learning more about how I can assist you with your wish. Could you please provide me with some additional details? For example, what is the total amount of wealth you would like to distribute, and do you have any specific charities or organizations in mind?\n\nThank you for considering me for this important task.\n\nBest wishes,\nIssac"
+    }
+]

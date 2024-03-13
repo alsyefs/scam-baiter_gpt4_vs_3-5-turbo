@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1443",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attn : Honorable Beneficiary",
+        "body": "  Attn : Honorable Beneficiary .\nReference to the directives issued to this great financial agency, this agency wants to know if you have received your fund. If yes, can you as a matter of urgency confirm the transfer code to this agency for clarity and for further advice.\nThreat as a matter of urgency to avoid any costly mistake.\nBest Regards,\nMr. Canise Adams.    "
+    },
+    {
+        "from": "baiter_1443",
+        "to": "scammer_1443",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attn : Honorable Beneficiary",
+        "body": "Hello Mr. Canise Adams, thank you for reaching out. I appreciate your concern regarding the fund transfer. Could you please provide more details about the directives issued by the financial agency? I want to make sure everything is clear before confirming any transfer code. Thank you.\n\nBest wishes,\nDiane"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1190",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Hello,",
+        "body": " Hello,\nI am Dr. Stephen Harry Li, the managing director of Global Capital Funding based in the UK, working and funding projects with numerous investors worldwide. I would like to know if you have any project(s) that require funding. We are ready to fund Such projects or businesses. We also offer business loans, personal loans and home loans to finance new projects as well as expansion capital. Kindly revert back to me if you are in need of any type of loan as mentioned above so we can share the full details with you, and I want to assure you that we are a well-known registered loan agency here in the UK and we are transparent with our clients so you will not regret doing business with us.\nAnd our Official Website: /www.globalcapitalfunding.org\nCompany Address: Cheshire House, Gorsey Lane, Widnes,\nCheshire, England, WA8 0RP\nThank you!\nSincerely,\nStephen Harry Li\nManaging Director\nGlobal Capital Funding    "
+    },
+    {
+        "from": "baiter_1190",
+        "to": "scammer_1190",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  Hello,",
+        "body": "Hello Dr. Stephen Harry Li,\n\nThank you for reaching out and offering your services. It's great to hear about the various types of loans that Global Capital Funding provides. I'm curious, could you tell me more about the process involved in applying for these loans? Also, what are the typical interest rates and repayment terms?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nTerry"
+    }
+]

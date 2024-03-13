@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_496",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "    Dear Winner,",
+        "body": "    Dear Winner,\nCongratulations,\nI hope this message finds you well. I am writing to inform you that your email address has been awarded the sum of $3,500,000 USD in the ongoing African-American-Asian-European -Australian Sweepstake Intercontinental Email Lottery 2023 which was held in Amsterdam,Netherland.\nThis award has been granted with the intention of reducing starvation and poverty in our community, and we have great hope that you will use this generous Winning Prize to make a positive impact in your community.\nSuch a significant amount of funding can be a powerful tool for creating change and improving the lives of those in need.\nWe believe in your ability to shine a light on the issues of poverty and starvation that affect our community, and we trust that you will use these resources wisely and effectively to make a difference.\nPlease take the time to carefully consider how you can best utilize this award to address the pressing challenges our community faces. Whether it be through supporting local food programs, educational initiatives, or other community development projects, your efforts can help bring about positive change and provide hope to those who need it most.\nCongratulations once again.\nReply with the following details for claim:\nName: ________________\nDOB: _________________\nCountry:______________\nNationality:__________\nOccupation: __________\nMobile Number: _______\nHome Address: ________\nThank You,\nDr Daniel Morgan\nCoordinator,\nAfro-American-Asian-Euro-Aus\nSweepstake Intercontinental Lottery Org\nAmsterdam,Netherland   "
+    },
+    {
+        "from": "baiter_496",
+        "to": "scammer_496",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:     Dear Winner,",
+        "body": "Dear Dr. Daniel Morgan,\n\nThank you for reaching out to me and informing me about this sweepstake email lottery. I must say, it's quite unexpected but also exciting news! I appreciate the intention behind this award and the opportunity to make a positive impact in my community.\n\nCould you please provide me with more details about how this sweepstake email lottery works? How was the winner selected? And what are the next steps for claiming the prize?\n\nI want to ensure that everything is legitimate and that I can proceed accordingly. Also, I'm curious to know if there are any specific guidelines or restrictions on how the funds can be used to address poverty and starvation in our community.\n\nThank you once again for considering me as a recipient of this award. I look forward to your response.\n\nBest wishes,\nElizabeth"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1181",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Inspector General Of Police Al",
+        "body": "Inspector General Of Police Alagbo Lagos\nChief Inspector Frank Udoego. DCC/ ALAGBO DIV.\nEmail: \ninterlpoliceunit@hotmail.com\nGood Day To You Dear Beneficiary,\nThis message is coming to you from Inspector General of police\nB-Division Lagos Nigeria Dr. Frank E. Udoego, this is to inform you\nregarding some arrested hoodlums and internet scammers few days ago. I\nwrite to inform you that we have arrested some fake officials who\nclaimed to be bank managers and companies, including Western Union\noffice, my police men arrested 11 of them last week with some huge\namount of dollars.\nWe also discovered your email address and your address  with them, we\ndiscover the document of your fund with them which they are trying to\ndivert it into their own personal account.\n My policemen discovered the\ntotal sum of $25 M ( twenty Five million dollars) we discovered\nanother person which is paying money to those thieves. Out of this\nmoney discovered your own personal fund is $7.5M.\nI will like you to furnish me with your information and advise on how\nyou want to receive your fund while we proceed with our duty. You will\ntell me the way you will like to receive your fund and I will post it\nto you immediately.\nReply me back with your full address and office/home telephone for\neasy communication.\nI will be waiting for your reply soonest.\nEmail: \ninterlpoliceunit@hotmail.com\nBest Regard\nInspector Frank Udoego\nGeneral ICCC Lagos.\nB-Division Station Crime Fighter"
+    },
+    {
+        "from": "baiter_1181",
+        "to": "scammer_1181",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Inspector General Of Police Al",
+        "body": "Hello Inspector Frank Udoego,\n\nWow, that's quite a story! I'm amazed at the work you and your team are doing. It must be really challenging to deal with such situations. \n\nI'm curious about how you managed to find my email address among those scammers. Could you tell me more about how they had my information? Also, I'm surprised to hear about this fund you mentioned. How did it come to be associated with my name?\n\nLooking forward to hearing from you.\n\nBest wishes,\nNathan"
+    }
+]

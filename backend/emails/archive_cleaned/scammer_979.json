@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_979",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Good Day,",
+        "body": "  Good Day,\nInvestment Opportunity,\nI trust this message finds you well. I am Mr. Mohamed Aslam, a lawyer by profession; however this Correspondent is private. I am a financial consultant to an investor from a Mineral – Rich African Country with political background who wants to invest outside his country.\nAs stated above, my client had approached me with a mandate to seek For a firm or reputable well- established individual that has the Experience in investment management that can help him channel some funds into a profitable investment outside Africa, where he can get Good yield for his money.\nDue to the sensitive position he holds in his country and the unstable Investment environment, my client decided not to retain any of his Assets in the country.\nKindly let me know your acceptance of this offer and furnish me with a Comprehensive draft of your terms and conditions. To my private email address for immediate details.\ninfo.MohamedAslam@myself.com\nYours sincerely,\nMr. Mohamed Aslam.\ninfo.mohamedaslam57@yahoo.com\ninfo.MohamedAslam@myself.com\n "
+    },
+    {
+        "from": "baiter_979",
+        "to": "scammer_979",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Good Day,",
+        "body": "Hello Mr. Mohamed Aslam,\n\nI hope this message finds you in good health. I am intrigued by your proposal and appreciate the trust you have shown in reaching out to me for such a significant matter.\n\nHowever, I would like to understand more about this investment opportunity. Could you please provide more details about the type of investments your client is interested in? Is there any specific industry or sector he prefers?\n\nAlso, it would be helpful if you could share some information about the expected return on investment and the risk factors involved.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nEugene"
+    }
+]

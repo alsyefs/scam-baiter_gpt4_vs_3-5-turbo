@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2569",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Attention  Beneficiary",
+        "body": "   Attention  Beneficiary\n                                      PAYMENT APPROVED ON YOUR BEHALF\nBe informed that The Untied Nation and The International Committees\nhas approved THE AGO INVESTMENT BANK to transfer your APPROVED Fund\nworth $5.5 MILLION TO YOUR BANK ACCOUNT but the problem we are having\nnow is one Floyd M. Shealy told us that you are dead and he is the\nnext of Kim to clam the fund and he has present the documents together\nwith the new Bank account information for us  to transfer the $5.5\nmillion to his bank account  ...PLEASE WE  WILL LIKE TO HEAR FROM YOU\nIF YOU ARE STILL ALIVE TO ENABLE  US KNOW WHAT TO DO OK\nPLEASE HERE IS THE BANK ACCOUNT HE PRESENT TO US TO TRANSFER THE FUND\nBELOW,DO YOU KNOW ABOUT IT?\nBank of America\n6901 Northwest Expressway\nOklahoma City, Oklahoma 73132\nABA: 026009593 (International)\nACCT. #:003042656833\nACCT: Name: FMS Investments Inc.\nSignatory: Floyd M. Shealy\nI will be glad to hear from you fast\nThanks\nMr Usman Bello\nOperations Director AGO INVESTMENT BANK\nPhone:Fax : 02-6109772\nE-mail:- \nusmanbello10101@outlook.com\n "
+    },
+    {
+        "from": "baiter_2569",
+        "to": "scammer_2569",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Attention  Beneficiary",
+        "body": "Hello Mr. Usman Bello,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I can assure you that I am very much alive and well. As for this Floyd M. Shealy, I have no idea who he is.\n\nI'm curious about the fund you mentioned. Could you please provide more details about it? How was it approved and why was it assigned to me?\n\nLooking forward to your response.\n\nBest wishes,\nAnastacia"
+    }
+]

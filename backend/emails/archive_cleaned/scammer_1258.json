@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1258",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Hello,",
+        "body": " Hello,\nI must let you in on the real facts about your delayed payment. as the secretary to the foreign debt department of the World Bank Group office,I am very much aware of the ordeal you are passing through in order to actualize your long delayed payment.\nNot long after the World Bank completed the acquisition process of all pending payments, I discovered that my boss connived with some top officials to divert funds already approved to settle lottery winners, international contractors, inheritances and more.\nThe World Bank has already given approval for the payment of all pending funds while my boss deliberately delay all payments and continue to issue one fee or the other from different quarters. I wonder why you haven't noticed all this while.\nYour fund was authorized to be paid to you through the WB/IMF financial consultants in the USA with a Key Tested Reference/CLAIMS CODE Number,which was supposed to have been issued to you before now, Upon your response to this message, I shall give you all you need to contact the World Bank payment centers in the USA to facilitate the release of your payment.\nYours truly,\nMs.Jessica T. Sanson\nEmail: \njessisanson110@proton.me\n "
+    },
+    {
+        "from": "baiter_1258",
+        "to": "scammer_1258",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  Hello,",
+        "body": "Hello T. Sanson,\n\nThank you for reaching out and shedding light on this matter. I must admit, it's quite a surprise to hear about these developments. It's unfortunate that such things are happening.\n\nBest wishes,\nThomas"
+    }
+]

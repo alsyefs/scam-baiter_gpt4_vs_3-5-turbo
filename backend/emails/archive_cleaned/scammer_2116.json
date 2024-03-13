@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2116",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attn:Beneficiary,",
+        "body": "  Attn:Beneficiary,\nI am Mrs.Kristalina Georgieva,Managing Director(MD) of the International Monetary Fund (IMF).I am delighted to inform you that the contract/Inheritance Lottery panel of the UN/COVID19 Awarded Payment has been approved.All Governmental and Non-Governmental,NGO's,Finance Companies,Banks,Security Companies and Diplomat(s) which have been in contact with you of late have been instructed to back off from your transaction and you have been advised NOT to respond to them anymore since  the  International Monetary Fund(IMF) Head Office is now directly in  charge of your Covid-19/Contract/Lottery/Inheritance payment US$15,500,000.00(Fifteen Million, five  hundred thousand United States Dollars)\nYou are hereby advised NOT to remit further payment to any institution(s) with respect to your transaction as your fund will be transferred to you directly from our source.I hope this is clear.Any action contrary to this instruction is at your own risk.\nIn order for us to proceed you must get back to me with:\nYour Full Name:\nYour Address:\nYour Age:\nYour Direct Phone Numbers:\nYour Profession:\nDetailed information would be given to you immediately you respond.\nMrs Georgieva.   "
+    },
+    {
+        "from": "baiter_2116",
+        "to": "scammer_2116",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attn:Beneficiary,",
+        "body": "Hello Mrs. Georgieva,\n\nThank you for reaching out to me with this information. I must admit, I am a bit surprised by this news. Can you please provide me with more details about the contract lottery payment? How did I become eligible for such a large sum of money?\n\nI want to make sure that I understand everything correctly before taking any further action. Could you also explain why other companies and diplomats have been instructed to back off from contacting me? What is the reason behind this change in responsibility?\n\nI appreciate your assistance in clarifying these matters for me.\n\nBest wishes,\nToby"
+    }
+]

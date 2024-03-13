@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1816",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hi my dear,",
+        "body": "  Hi my dear,\nI am Mrs. Michele Nystrom from the USA.\nWhen my deceased husband was alive, we deposited $25.5 million in a bank in Turkey.\nI am currently hospitalized where I am being treated for esophageal cancer.\nPlease, I want you to get these funds from the bank. And use this money to support the poor, orphanages, widows and charities. Please reach me on my email address: \nmrsmichellenystrom@gmail.com\nSincerely ,\nMrs. Michelle Nystrom\nmrsmichellenystrom@gmail.com\n "
+    },
+    {
+        "from": "baiter_1816",
+        "to": "scammer_1816",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hi my dear,",
+        "body": "Hello Mrs. Michelle Nystrom,\n\nI'm really sorry to hear about your current health condition and the passing of your husband. It's truly admirable that you're thinking about helping others in such a difficult time.\n\nYou mentioned a substantial amount of money deposited in a bank in Turkey. That's quite interesting! Could you tell me more about how this process works? I mean, how can someone like me access these funds and distribute them to the needy?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMichael"
+    }
+]

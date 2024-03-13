@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2083",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good Day To you!!!",
+        "body": "Good Day To you!!!\nHow are you doing? What is really happening my friend? Are you abandoning your Fund which is your rightful & legal overdue inheritance payment just because of a $50 fee. \nWe want to remind you that we are awaiting to receive the security keeping fee of $50 to ship your parcel to your given information without further delay.\nPAY THE FEE THROUGH WESTERN UNION OR MONEY GRAM TRANSFER. BUT IF YOU CAN'T SEND THE NEEDED FEE THROUGH WESTERN UNION OR MONEY GRAM, THEN YOU ARE REQUIRED TO SEND THE FEE OF $50 BY AN ITUNES CARD OR GOOGLE PLAY CARD.\nAwaiting for your response to ASAP.\nSincerely Yours,\nMrs. Inga-Britt Ahlenius\nUnited Nations, Office of International Oversight Services,\n760 United Nations Plaza, New York, NY 10017."
+    },
+    {
+        "from": "baiter_2083",
+        "to": "scammer_2083",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Good Day To you!!!",
+        "body": "Hello Mrs. Ahlenius,\n\nI hope this message finds you well. It's a pleasure to hear from the United Nations, Office of Oversight Services. I must say, it's quite an honor.\n\nRegarding the fund you mentioned, could you please provide me with more details? I'm not entirely sure what this is about. You see, I don't recall having any overdue payment that needs to be settled.\n\nAlso, could you explain why there is a need for a security keeping fee? And why does it have to be paid through Western Union or Money Gram transfer? Or via iTunes card or Google Play card?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nJim"
+    }
+]

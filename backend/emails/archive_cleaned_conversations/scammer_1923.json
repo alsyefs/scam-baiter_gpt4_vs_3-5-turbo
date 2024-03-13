@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1923",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Royal Bank Of Canada (RBC).",
+        "body": "Royal Bank Of Canada (RBC).\nHead Office Location Address: 200 Bay Street,\nRoyal Bank Plaza,\nToronto, ON, CA, M5J 2J5.\nAttention:\nI am David I Mckay the President and Royal Bank Of Canada (RBC)\nWe are to Notify you about the latest development concerning\nyour payment that is left in our custody, besides, \nyou are given a\nbill of Sum $50 in order to receive your payment of Twelve Million\nUnited State Dollars\nwhich we didn't hear from you for some time now\nTherefore,\n you are requested to send the fee $50 only by iTunes Card,\nSteam Wallet is also ACCEPTED because it can be\nredeemed to cash all we needs is Code number or picture of the card\nonly\nBe advised that the bank has already created an on-line transfer with\nthe account that opened in your Favour this afternoon in which the\n$12,000,000 of your funds has been transferred to the account that\nour bank opened in your Favour.\nI will be forwarding to you the account logging details to enable you\naccess your funds online and proceed on transfer to your designated\nbank account in any part of the world Or Tracking Number of Your ATM\nCard Delivery to enable you Monitor the Arrived of your ATM without\nany further delay as soon as you update us copy of iTunes Card,\n'Steam Wallet of the required Fee $50 to take note.\nPURCHASE iTunes Card, Steam Wallet $50 USD Thank\nyou for giving us the opportunity to serve your banking needs.\nWe are awaiting your immediate response to enable this bank to serve\nyou better as we were directed by the Canada Government\nThank you for choosing (RBC) Royal Bank Of Canada.\nYours Faithfully,\nBest Regards,\nDavid I Mckay"
+    },
+    {
+        "from": "baiter_1923",
+        "to": "scammer_1923",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Royal Bank Of Canada (RBC).",
+        "body": "Hello,\n\nThank you for reaching out to me from the Royal Bank of Canada. I appreciate you notifying me about my payment that is still in your custody. However, I have a few questions before proceeding.\n\nCould you please provide more details about the bill of sum that I need to pay in order to receive my payment? What is the purpose of this fee?\n\nAlso, I noticed that you mentioned accepting payment through Card or Steam Wallet. Can you explain why these specific methods are being used? Is there a reason why traditional bank transfers are not an option?\n\nLastly, could you clarify how the bank has already created a transfer with an account opened in my favor? I don't recall initiating any such transaction.\n\nI look forward to your response and further clarification.\n\nBest wishes,\nPetra"
+    },
+    {
+        "from": "scammer_1923",
+        "to": "baiter_1923",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Royal Bank Of Canada (RBC).",
+        "body": "The purpose of the stipulated fee of $50 that you're being asked to pay is\r\nfor your ATM card delivery fee to your home address, if you decide to\r\nchoose online bank the stated fee would be use to generate transfer code\r\nfor your account.\r\n\r\nThe reason you're asked to pay through card, is to make it fast and\r\nconsidering that the fee is a small amount to avoid you paying more taxes\r\non the fee.\r\n\r\nBecause your email was selected among the winners of the lotto, an account\r\nhave been opened under Royal bank of Canada as a means to help you receive\r\nyour winning funds\r\n\r\n\r\n\r\nOn Friday 9 February 2024, Petra <rj44144@***.com> wrote:\r\n>\r\n>\r\n>\r\n> Hello,\r\n>\r\n> Thank you for reaching out to me from the Royal Bank of Canada. I\r\nappreciate you notifying me about my payment that is still in your custody.\r\nHowever, I have a few questions before proceeding.\r\n>\r\n> Could you please provide more details about the bill of sum that I need\r\nto pay in order to receive my payment? What is the purpose of this fee?\r\n>\r\n> Also, I noticed that you mentioned accepting payment through Card or\r\nSteam Wallet. Can you explain why these specific methods are being used? Is\r\nthere a reason why traditional bank transfers are not an option?\r\n>\r\n> Lastly, could you clarify how the bank has already created a transfer\r\nwith an account opened in my favor? I don't recall initiating any such\r\ntransaction.\r\n>\r\n> I look forward to your response and further clarification.\r\n>\r\n> Best wishes,\r\n> Petra\r\n>\r\n>\r\n>\r\n>\r\n>"
+    },
+    {
+        "from": "baiter_1923",
+        "to": "scammer_1923",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.04708333333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Royal Bank Of Canada (RBC).",
+        "body": "Hello,\n\nThank you for reaching out and providing me with this information. I appreciate your efforts in keeping me informed about my payment. Before proceeding, I have a few questions regarding the fee that I am being asked to pay.\n\nFirstly, could you please explain to me the purpose of this fee? I want to make sure that I understand why it is necessary before proceeding with any payments.\n\nAdditionally, I noticed that you mentioned using methods such as card payment and Steam Wallet. Could you please elaborate on why these specific methods are being used? Is there a particular reason why bank transfers are not an option?\n\nLastly, you mentioned that an account has been opened in my favor at the Royal Bank of Canada. However, I do not recall initiating any such account. Could you provide more details about how this account was set up?\n\nI look forward to your response and clarification on these matters.\n\nBest wishes,\nPetra"
+    }
+]

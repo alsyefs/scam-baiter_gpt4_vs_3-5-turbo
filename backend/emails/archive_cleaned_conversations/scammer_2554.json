@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2554",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "From Cross Keys Bank USA.",
+        "body": "From Cross Keys Bank USA.\nContact Person: Mr. Michael R. Vizard,\nAccountant Officer (Cross Keys Bank)\nCross Keys Bank 307 Plank Rd. Saint Joseph,\nLouisiana 71366 United States of America\n$8.5 Millions USD Payment notification from Cross Keys Bank USA\nDear Email Owner,\nI am Mr. Michael R. Vizard, the President and CEO Cross Keys Bank USA\nThis transaction is a lottery won by your e-mail address via an online\nactive email address selected from the sponsor of Coca Cola Company award.\nWith due respect and utmost courtesy, we write to officially regarding\nthe release of your award Winning fund valued sum of $8,500,000.00 USD\nfrom Coca Cola Company which was approved for release via Swift\nTelegraphic Wire Transfer into your nominated bank account.\nThe management of Cross Keys Bank USA department wish to notify you\nthat this honorable bank Cross Keys Bank USA was instructed by Coca\nCola Company in conjunction with the United States Treasury and\nCanadian Ambassador to U.S on Winning payment matters which they have\nempowered our bank Cross Keys Bank USA after much consultation and\nconsideration to handle all Winning payments and release them to their\nappropriate beneficiaries accordingly.\nMr. Thomas Baldassare is your appointed bank officer who is working on\nyour behalf for the actualization of fund crediting/transfer into your\npersonal bank account. Be well informed that our bank Cross Keys Bank\nUSA was successful opened Cross Keys Bank USA checking Account in your\nname which will helps us to have a smoothly transfer from Cross Keys\nBank USA to your Nominated bank account, and your Cross Keys Bank USA\nChecking Account Booklet and Cross Keys Bank USA Platinum MasterCard\nwill Delivered to your destination house within the stipulated time\nframe of 24 hours upon receipt of the Activation fee of $70.00 USD\nonly Steam Wallet Card. This means that as soon as we receive the\nactivation fee we will make the delivery of your Cross Keys Bank USA\nChecking Account Booklet and Cross Keys Bank USA Platinum MasterCard\nto your address between 24 hours\nYour Cross Keys Bank USA account details are as follow;\nAccount Number: 6021253365.\nSwift Code: 239936957\nRouting # 053904483\nI will advice you purchase Steam Wallet Card and send it i will be\nfaster but send only Steam Wallet Card or itunes card of $70 if you can send it today\nsend me the pictures so that i will redeem it to cash and you will get\nyour package\nYour immediate compliance will be in your very best interest. If at\nany time you have questions, concerns or comments, please contact us\nas we strive to ensure that you will always receive a prompt and\ncourteous attention.\nMr. Michael R. Vizard,\nChair Of the Cross Keys Bank USA.\nCo-chief Operating Officer,\nCross Keys Bank®\nCorporate Office, NY\nFederal Cross Keys Bank USA, N.A. Member FDIC"
+    },
+    {
+        "from": "baiter_2554",
+        "to": "scammer_2554",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: From Cross Keys Bank USA.",
+        "body": "Hello! Thank you for reaching out from Cross Keys Bank USA. I appreciate the information you've shared about the lottery win through an online email address selected by Coca Cola Company. Could you please provide more details about the process of receiving the award-winning fund via Swift Wire Transfer? I'm interested in learning more about how this works.\n\nBest wishes,\nJohn"
+    },
+    {
+        "from": "scammer_2554",
+        "to": "baiter_2554",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: From Cross Keys Bank USA.",
+        "body": "once you send the $70.00 we will give you the username and password for you to be trasnffferring your funds ok.Thank you and reply urgently \n \n \n \n Sent: Friday, March 08, 2024 at 11:49 AM From: \"John\" <cb90408@***.com> To: usabank@engineer.com Subject: Re: From Cross Keys Bank USA. \n \nHello! Thank you for reaching out from Cross Keys Bank USA. I appreciate the information you've shared about the lottery win through an online email address selected by Coca Cola Company. Could you please provide more details about the process of receiving the award-winning fund via Swift Wire Transfer? I'm interested in learning more about how this works.\nBest wishes, \nJohn"
+    },
+    {
+        "from": "baiter_2554",
+        "to": "scammer_2554",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.02771990740740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: From Cross Keys Bank USA.",
+        "body": "Hello John, thank you for your interest in the Swift Wire Transfer process. To proceed with receiving your funds, we will need some basic information from you. Could you please confirm your full name, address, and contact details? Once we have this information, we can provide you with the necessary instructions to facilitate the transfer. Looking forward to assisting you further.\n\nBest wishes,\nJohn"
+    }
+]

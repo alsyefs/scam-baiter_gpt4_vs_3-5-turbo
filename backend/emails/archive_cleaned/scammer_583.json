@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_583",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good day,",
+        "body": "Good day,\nI have recently become aware that your funds in the tune of $3,200,000.00 Million dollar are still being held by the United Kingdom Financial Authorities.\nI just concluded discussion with the appropriate authorities and resolved with them about the concerned funds on their custody totaling sum of $3,200,000.00 Million which will be released and delivered to you at your address as agreed upon.\nIn view of this, \nyour current home address and direct phone number is required at the moment\n, in order to enable us to deliver\nthis funds to you asap. Please ensure that all details are correctly supply to avoid wrong delivery.\nThe authorities take very seriously its responsibility to protect your information and ensure your privacy. We expect your urgent response to this mail so as to monitor this delivery effectively.\nRegard,\nRory Mackenzie\nBritish Prudential Regulation Authority."
+    },
+    {
+        "from": "baiter_583",
+        "to": "scammer_583",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Good day,",
+        "body": "Hello Rory Mackenzie,\n\nThank you for reaching out to me. I appreciate the information you have shared regarding my funds being held by the United Kingdom Financial. It's good to know that there has been a resolution and the funds will be released and delivered to me.\n\nHowever, before I provide any personal information, I would like to ask a few questions to ensure everything is in order. Could you please clarify how these funds came to be held by the United Kingdom Financial? Also, what is the process for delivering the funds to my address?\n\nI understand the importance of protecting my privacy, so I want to make sure all details are correctly supplied. Once I have more information, I will be able to proceed accordingly.\n\nLooking forward to your response.\n\nBest wishes,\nAlfredo"
+    }
+]

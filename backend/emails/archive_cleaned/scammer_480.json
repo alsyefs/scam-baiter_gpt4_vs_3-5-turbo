@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_480",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "CUSTOM AUTHORITY DECIDED TO RE",
+        "body": "CUSTOM AUTHORITY DECIDED TO RELEASE YOUR AGENT.\nTHIS MESSAGE SENT TO YOU FORM MR JAMES BEN ON BEHAVE OF CUSTOM SEIVER IM HERE TO INFORM YOU THAT IF HAVE ANY AGENT IN THE AIRPORT WITH YOUR CONSIGNMENT BOX, ATM MASTER CARD OR CHEQUE BOOK, AFTER OUR LAST MEETING YESTERDAY WE DECIDED TO RELEASE EACH AND EVERYONE OF THEM TO DELIVER YOUR FUNDS TO YOUR HOME ADDRESS, BUT WE HAVE DISCOUNT IN AMOUNT HE OR SHE TOLD YOU TO PAY AND \nONLY THING YOU HAVE TO DO RIGHT NOW IS TO SEND 79$ FOR CUSTOM DUTY AND STAMP, SO THAT YOUR AGENT WE BE ABLE TO DELIVERY YOUR FUND TODAY\n, AND YOU WILL HAVE NICE CELEBRATION THIS CHRISTMAS,YOUR URGENT RESPONSE IS NEEDED NOW.\nBEST REGARDS\nMR JAMES BEN "
+    },
+    {
+        "from": "baiter_480",
+        "to": "scammer_480",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: CUSTOM AUTHORITY DECIDED TO RE",
+        "body": "Hello Mr. James Ben,\n\nThank you for reaching out to me with this information. I appreciate your efforts in ensuring the safe delivery of my funds. Could you please provide me with more details about the custom duty and stamp that I need to send? How much is the required amount and how can I make the payment?\n\nI want to make sure that everything is done correctly and efficiently, so any additional information you can provide would be helpful. Looking forward to your prompt response.\n\nBest wishes,\nDamian"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1283",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  You will received your ATM c",
+        "body": "  You will received your ATM card package by next week you should understand that you will pay\nfor the activation of the card Mr. Peter   "
+    },
+    {
+        "from": "baiter_1283",
+        "to": "scammer_1283",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   You will received your ATM c",
+        "body": "Hello Mr. Peter,\n\nThank you for your message. I'm really excited to receive my ATM card package next week! Just to clarify, could you please explain more about the activation process? How much will it cost and how can I make the payment? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nTheresa"
+    }
+]

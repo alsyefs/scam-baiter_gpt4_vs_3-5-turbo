@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_587",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "USA DEPARTMENT OF HOMELAND SEC",
+        "body": "USA DEPARTMENT OF HOMELAND SECURITY\nANTI-TERRORIST AND MONETARY CRIMES DIVISION\nNEW YORK FIELD OFFICE\n26 Federal Plaza\n9th Floor, Suite 9-110\nNew York, NY 10278\nATTENTION BENEFICIARY\nYour package delivery was approved since the begining of this year we\n(DEPARTMENT OF HOMELAND SECURITY) has instructed you before to contact\nthe dhl for the delivery without knowing you didn't contact them, i\nwas surprised when i got call from dhl saying that you haven't reach\nthem for the delivery. You have to contact them now for the delivery\ndon't delay because that package of your has over stayed in their\ncustody. \nContact dhl now with your full address for the delivery the\nonly fee you will pay to them is $50 only.\nThis is how you will collect your package contact DHL on the\ninformation below and ask them about your package delivery tell them i\nsent you to them am sure they will understand. Remember you will have\nto pay them only $50 or you pay by Apple card to complete the delivery\nto your address contact them now on the info below. Don't forget you\nhave to send $50 or you pay with Apple card to them to complete the\ndelivery to you, contact the with your full information to enable them\ncontinue with your delivery.\nCONTACT DHL ON THIS INFORMATION BELOW FOR THE DELIVERY.\nCONTACT PERSON: Dhl Director Mr James Ben\nEMAIL ADDRESS: (\ndhlkoreacompany81@gmail.com\n)\nWE AWAIT YOUR URGENT REPLY\nBEST REGARDS\nSpecial Agent Danny Bray\nDEPARTMENT OF HOMELAND SECURITY\nANTI-TERRORIST AND MONETARY CRIMES DIVISION\nNEW YORK FIELD OFFICE\nNote: Disregard any email you get from any impostors or offices\nclaiming to be in possession of your ATM card, you are hereby advice\nonly to be in contact with Mr James Ben  who is the rightful person to\ndeal with in regards to your payment and forward any emails you get\nfrom impostors to this office so we could act upon it immediately.\nHelp stop cyber crime"
+    },
+    {
+        "from": "baiter_587",
+        "to": "scammer_587",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: USA DEPARTMENT OF HOMELAND SEC",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding my package delivery. I apologize for not contacting DHL earlier, as I was unaware that they were trying to reach me. Could you please provide me with more details about the package and why it has been in their custody for so long?\n\nAlso, I noticed that you mentioned a fee that needs to be paid to DHL. Could you please clarify what this fee is for? I want to make sure I understand all the necessary steps involved in receiving my package.\n\nThank you again for your assistance. I look forward to your prompt response.\n\nBest wishes,\nSara"
+    }
+]

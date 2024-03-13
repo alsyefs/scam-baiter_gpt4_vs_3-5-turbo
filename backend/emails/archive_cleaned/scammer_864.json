@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_864",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  MR. JAMES SMITH",
+        "body": "  MR. JAMES SMITH\nFUNDS-TRANSFER DIRECTOR\nFIRST FINANCIAL TRUST\nGood day,\nWe are pleased to inform you that the International Monetary Fund (IMF) in conjunction with the United Nations (UN) have successfully recovered 50% of funds belonging to various beneficiaries that are being held in Africa,Asia,and Europe due to some bogus fees and charges.\nAmong the funds recovered is $9,500,000.00(Nine Million Five Hundred Thousand United States Dollars) belonging to you as the beneficiary and it has been tagged Abandoned.\nWe sent a notification email to you a few days ago but unfortunately, no response has been received from you till this moment. We are sending you this email as a final notice and you are expected to respond back within three days of receiving this email to enable you to receive your funds.\nPlease note that you are to receive your funds ($9,500,000.00) through our online banking system which we believed is the safest way of making transfers in the modern banking system.\nTo enable us commence with the opening of your online banking account, you are requested to provide us the below required information.\nYour Name:...............................................................................................................................\nOccupation:..............................................................................................................................\nAddress....................................................................................................................................\nDate of birth:............................................................................................................................\nMarital status:...........................................................................................................................\nSex:.......................................................................................................................................\nNext of kin:.............................................................................................................................\nID Card...................................................................................................................................\nTelephone::.............................................................................................................................\nUpon the receipt of the above required information, we shall commence further with the opening of your online banking account and your funds will be credited into your online banking account.\nMR. JAMES SMITH\nFUNDS-TRANSFER DIRECTOR\nFIRST FINANCIAL TRUST   "
+    },
+    {
+        "from": "baiter_864",
+        "to": "scammer_864",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   MR. JAMES SMITH",
+        "body": "Hello Mr. James Smith,\n\nI hope this message finds you well. I must say, your email caught me by surprise! It's not every day that one hears about such a large sum of money.\n\nCould you please provide more details about how my name came up in connection with these funds? And could you also explain a bit more about the process of opening an online banking account?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nArthur"
+    }
+]

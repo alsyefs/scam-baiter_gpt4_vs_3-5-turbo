@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_117",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "I sincerely do not wish to inc",
+        "body": "I sincerely do not wish to inconvenience you with my letter, I have a business proposal I wish to discuss with you. I came across your email at Google and my spirit directed me to contact you for a partnership over Real Estate business I intend to establish in your country.\nI have about eleven million six hundred thousand Dollars and I would need your assistance to invest the funds under your care.\nI will give you more details once I receive your response.\n Best regards\nMrs. Amira Abdullah"
+    },
+    {
+        "from": "baiter_117",
+        "to": "scammer_117",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: I sincerely do not wish to inc",
+        "body": "Hello Mrs. Ira Abdullah,\n\nThank you for reaching out to me with your business proposal. I'm always open to hearing about new opportunities, especially in the real estate sector. Could you please provide me with more information about the specific details of this investment? How do you plan on establishing the real estate business in my country?\n\nAdditionally, I would like to know more about the source of the funds and what kind of assistance you require from me. It's important for me to have a clear understanding before moving forward.\n\nLooking forward to your response.\n\nBest wishes,\nKeith"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_769",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Dear Beneficiary Compliment",
+        "body": "   Dear Beneficiary Compliment of the season,\n How are you today, just call me to write  you  this  email and to notify you of my coming to your house any moment from now.  I know it might come to you as a surprise because we did not send you a primary notice, yes I am supposed to do that but I want to take you by surprise.\n Right now as I am writing to you this email  I am in the city of Leeds at the house of Mr Andrew Coding, with the mobile number +447031829803, who hosted-ed me for three days now because of the delivery I made  to him . I know you might be scammed because of that name delivery from many people who claim to be what they are not or you might not but I am here to tell you that it is over . Your time has come. God has remembered you .\n You name was chosen as one of the favorite for this mighty package by the united Nation  because of your generosity and help to mankind's which make  the whole assemblymen to honor you and decide to package this items for  you which i am here today to deliver to you\n  Please my dear, I would like you to do one thing that will bring success to this package . Send to me the following information below:\nYour Full Name........................ .......\nYour contact address....................... ......\nYour  cellphone number........................ ..\nYour pass copy.......................... ............\nThe nearest airport to your house.............\nYour delivery address....................... ..........\nSex.......................... ...........................\nYour Country....................... .............\nYour Occupation....................\nWith this i can locate you without delay, one more thing do  all the papers and documents that are due for this delivery is here with me all you need to do is forwards information a requested from you now so that immediately i leave this house of  Mr Andrew , i will proceed to meet you at your  airport you recommend to me\nThanks and God bless you, meet you soon \nThanks\nDiplomat Charles Thomas \n(Specialized Delivery Division)\nDiplomatic/Delivery Officer  "
+    },
+    {
+        "from": "baiter_769",
+        "to": "scammer_769",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Dear Beneficiary Compliment",
+        "body": "Hello Diplomat Charles Thomas,\n\nI hope this message finds you well. It's quite a surprise to hear from you, and I must say, your email has certainly piqued my interest. \n\nIt's wonderful to know that the United Nations has recognized my efforts towards mankind. However, I'm a bit confused about the package you mentioned. Could you please provide more details about it? What does it contain? Why was it sent to me specifically?\n\nAlso, I'm curious about your stay in Leeds with Mr Andrew Coding. How did you two meet? Is he also involved in this delivery process?\n\nI appreciate your effort and look forward to hearing more about this exciting opportunity.\n\nBest wishes,\nTimothy"
+    }
+]

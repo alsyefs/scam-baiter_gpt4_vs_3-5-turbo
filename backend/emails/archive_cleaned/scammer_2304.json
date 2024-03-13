@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2304",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Dear Sir",
+        "body": "   Dear Sir\nAlternative arrangement\nYour fund can be move to our correspondent bank in Madrid Spain through a fiduciary agency,you will be required to travel and meet with them to assist you open an account and deposit your funds, you can now stay and further transfer your funds to your local account before you fly back ..\nIf this okay by you ,please Contact me immediately so I will send you the information to meet with the officials in Madrid Spain.\nBest regards.\nMr. Tan Kerry.\n(United Nation Officer)   "
+    },
+    {
+        "from": "baiter_2304",
+        "to": "scammer_2304",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Dear Sir",
+        "body": "Hello Mr. Tan Kerry,\n\nThank you for your message and the information provided. It sounds like an interesting opportunity. However, I have a few questions before we proceed further.\n\nCould you please explain more about the process of moving funds to your bank in Madrid? Also, could you provide some details about the fiduciary who will assist me?\n\nI'm also curious about how long this process might take and if there are any costs involved that I should be aware of.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAmy"
+    }
+]

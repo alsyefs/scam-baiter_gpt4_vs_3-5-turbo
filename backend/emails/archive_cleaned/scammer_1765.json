@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1765",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello This is Mr Roland Kuma W",
+        "body": "Hello This is Mr Roland Kuma White House Agent Washington DC.\nAddress:700 19th st NW.Washington DC 20431.united States\nI wish to inform you that United States government are compensating all the\nscam victims and your email address and phone number was found in the scammed\nlose and other unpaid salaries you details was submitted. So you are going to\nreceive a compensation consignment box worth sum of $15 Million USD. So \nall\nyou have to do is to reconfirm to me your full information on where to deliver\n the consignment box to you.\ninformation such as\nYour Full Name:::::::::::::::::::::::::::\nYour Address:::::::::::::::::::::::::::::\nYour Number::::::::::::::::::::::::::::\nYour Direct Telephone number:::::::::\nThis is information is needed for successful claim of fund.\nThanks for being in serve with us and we promise to make the country better\nand you have to be by good citizen.\nBest regard\nMr Roland Kuma\nmrrolandkuma546@gmail.com"
+    },
+    {
+        "from": "baiter_1765",
+        "to": "scammer_1765",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello This is Mr Roland Kuma W",
+        "body": "Hello Mr. Roland Kuma,\n\nThank you for reaching out and sharing this information with me. It's quite surprising to hear about the situation you've described. I'm curious, how was my email address and phone number found in the scammed lose? Also, could you please provide more details about this box worth a sum of Million USD?\n\nI appreciate your service to our country and look forward to hearing more about this matter.\n\nBest wishes,\nRobert"
+    }
+]

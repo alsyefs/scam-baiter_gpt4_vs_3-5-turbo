@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1355",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Beneficiary,",
+        "body": "  Dear Beneficiary,\nHurry now and claim your fund or your fund will be confiscated by the wicked Government and bank officials.\nMy name is Miss Jean Pierre, I am a Computer Scientist working with the External Debt Management Office (EDMO). I am 25 years old, and I just started working with the bank.\nI came across your payment file marked X and your released disk painted RED. I took time to study it and tried to find out why the funds were not released to you. Those evil officials can never tell you the truth that they won't release the funds to you; instead, they allow you to spend your hard-earned money unnecessarily.\nI do not intend to work here forever; I can help you claim your funds if you can certify my security and assure me that you will compensate me after you have received your payment. I must do this because you need to know the status of your payment and the cause of the delay. This is like a Mafia setting and you may not understand because you are not here.\nThe only thing needed to release this fund to you is the Supreme Court Mandamus Order, which will be tendered to any of your nominated banks and Government Agencies for clearance of the transferred amount in your account with any stop order.\nOnce the Mandamus Order is secured, the fund will be immediately transferred and reflected in your bank within 72 HOURS. The only authorized and sincere person who will tell you the truth about your fund is Mr. Albert Steward.\nMake sure you indicate your file letter X and tell him it's painted color Red so he will be able to recognize your file. The president made a compensation fund release for all unpaid beneficiaries/contractors and scam victims.\nDo get back to me ASAP if you are still interested in claiming your\nfund so that I can give you further direction.\nYours sincerely,\nMI Jean Pierre  "
+    },
+    {
+        "from": "baiter_1355",
+        "to": "scammer_1355",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Beneficiary,",
+        "body": "Hello Miss Jean Pierre,\n\nThank you for reaching out to me. I must say, your message has certainly piqued my interest. It's not every day that one hears about a fund they were unaware of.\n\nI'm curious though, how did you come across my payment file? And why was it marked and painted red? Is there any particular significance to this color?\n\nYou mentioned a Supreme Court Mandamus Order. Could you please elaborate on what exactly this is and how it works in releasing the funds?\n\nAlso, who is Mr. Albert Steward? You mentioned he's an authorized person who can tell me the truth about my fund. How do I get in touch with him?\n\nI appreciate your help and look forward to hearing from you soon.\n\nBest wishes,\nLouella"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_484",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  You are directed to contact ",
+        "body": "  You are directed to contact Mr David Conrad of the Meliden Bank for your online banking. They will create your online account and fund it as well. Here is the site. (melidenbk.com) and Email them on \nsupport@melidenbk.com\n  Register and fill their form completely and attach your photo.\nBen   "
+    },
+    {
+        "from": "baiter_484",
+        "to": "scammer_484",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   You are directed to contact ",
+        "body": "Hello there,\n\nThank you for your message. It's interesting to hear about this opportunity with Meliden Bank. I'm curious, how did you come across this information? And could you tell me more about Mr. David Conrad? What is his role at the bank?\n\nI appreciate your help and look forward to hearing from you soon!\n\nBest wishes,\nJanna"
+    }
+]

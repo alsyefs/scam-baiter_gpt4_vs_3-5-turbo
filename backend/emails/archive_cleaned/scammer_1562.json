@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1562",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Good day,",
+        "body": "  Good day,\nis giving out a company loan from $150million up, this is not an online loan. You have to appear  in person with your fully information and start up the process face to face\nThis loan helps you to rebuild up your  company or to start up your own company. The condition of this loan is  comfortable and acceptable, the terms and conditions will be discussed as you are ready to start up the process. 2% will be paid to me as a global commission. contact me immediately before the deadline\nThank you\nBest Regards\nBahlooq\n.....................................................................\nDear,\nI have another serious crypto loan app called (HELIO WALLET) I'm just a broker and adviser to the company. This crypto loan app gives loans to only companies.\nHelio wallet Gives loans from $100m to $ billion, everything about (HELIO WALLET) is over legit you can go to play store download the app with your android phone. write to customer care. Proceed with your registration with your  details and also have the video of loan advert I will only send it to a serious person that is ready to purchase a loan with Helio wallet.\nI also have the company email and contact number Incase if the loan purchaser decided to write Helio wallet company via email or contact them via phone everything about Helio company is sure, unique, organization, legit and honest 200% you will see for yourself when you which the company video download the app and start process with the Helio wallet company  \nThank you\nBest Regards\nBahlooq   "
+    },
+    {
+        "from": "baiter_1562",
+        "to": "scammer_1562",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Good day,",
+        "body": "Hello Bahlooq,\n\nThank you for reaching out and sharing this information about company loans and the Helio Wallet app. I'm always interested in learning about different financial opportunities. Can you please provide me with more details about the company loan process? How does it work, and what are the requirements?\n\nAdditionally, I'd like to know more about the Helio Wallet app. Could you explain how it operates and what sets it apart from other crypto loan apps? Are there any fees or charges associated with using the app?\n\nThank you for your time and assistance.\n\nBest wishes,\nMario"
+    }
+]

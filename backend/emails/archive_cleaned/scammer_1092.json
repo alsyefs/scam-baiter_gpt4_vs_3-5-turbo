@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1092",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  IMPORTANT NOTICE.",
+        "body": "  IMPORTANT NOTICE.\nLatest Development Regarding the Irrevocable release of your payment.\n \nATTN: Beneficiary.\nThis is to inform you that we are the authorized security agency ascribed by the United Nations office of the oversight service whose Unit headquarters is in Toronto Canada to deliver your consignment to you.\n \nWith this help from the UN office of the oversight service you are therefore required to acknowledge receipt of this mail. You are further advised to reconfirm your full names, your address, your cell phone number and copy of your ID.\nThis is to enable us cross check with the list given to us by the UN and FBI to make sure we are corresponding with the rightful owner.\nKindly reply for further details.\nThank You.\nRay Scot.   "
+    },
+    {
+        "from": "baiter_1092",
+        "to": "scammer_1092",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   IMPORTANT NOTICE.",
+        "body": "Hello Ray Scot, thank you for reaching out with this important notice. I appreciate the information you have provided. Could you please share more details about the payment and how it is related to the United Nations office of the oversight service in Toronto, Canada? I would like to understand the process better before proceeding. Thank you.\n\nBest wishes,\nLouis"
+    }
+]

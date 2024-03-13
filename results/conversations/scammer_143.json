@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_143",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  ATTENTION, ",
+        "body": "  ATTENTION, \nSequel to the process of your fund $8.500,000 million USD, part payment which we processed last year and was not able to be transfer to your account due to international monetary fund (I.M.F) now the fund has been reviewed as the new central bank director has taken over I was asked to contact you as your fund is now available can you reply for your urgent fund delivering.\nI'm here to get your transaction done for your full payment.\nyou can reply to me \n{approvedp@aol.com\n }\ncall +2348115510905\nWhatsApp +2348152901306\nRegards\nDr. Michael Ako Frank.\nDirector remittance department.   "
+    },
+    {
+        "from": "baiter_143",
+        "to": "scammer_143",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   ATTENTION, ",
+        "body": "Hello Dr. Michael Ako Frank,\n\nThank you for reaching out to me regarding the process of my fund. I appreciate your assistance in getting my full payment. Could you please provide me with more details about the fund and how it can be transferred to my account? I would like to ensure that everything is done correctly and securely.\n\nLooking forward to your response.\n\nBest wishes,\nRandolph"
+    },
+    {
+        "from": "scammer_143",
+        "to": "baiter_143",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re:   ATTENTION,",
+        "body": "I'm pleased with your quick response. RANDOLPH, sequel to the process your fund has been reviewed for payment you have to forward to me the following information for proper processing and delivery of your fund or transfer.\r\n1] your full name2] telephone number3] address and Nationality4] prefer bank details5] copy of your passport or driver's license Regards Dr. Frank Ako Michael Director Remittance First Bank."
+    },
+    {
+        "from": "baiter_143",
+        "to": "scammer_143",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0067708333333333336,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re:   ATTENTION,",
+        "body": "Hello Dr. Frank Ako Michael,\n\nThank you for reaching out to me. I appreciate your quick response. I understand that my fund has been reviewed for payment, and I'm interested in learning more about the process.\n\nBefore I provide any personal information, could you please explain to me why you need my full telephone address and a copy of my passport or driver's license? I want to ensure that the processing and delivery of my fund are done securely and efficiently.\n\nLooking forward to your response.\n\nBest wishes,\nRandolph"
+    },
+    {
+        "from": "scammer_143",
+        "to": "baiter_143",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.032858796296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re:   ATTENTION,",
+        "body": "there must be a documentation here in the bank that requires those details the fund will be moved or transferred ok, should understand the procedure when all this being processed, I'm still going to forward to you to take a look, feel free while dealing with me we are going to get it done."
+    },
+    {
+        "from": "baiter_143",
+        "to": "scammer_143",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.04850694444444444,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re:   ATTENTION,",
+        "body": "Hello there! Thank you for reaching out. I appreciate your willingness to help me understand the procedure better. Could you please provide more details about what exactly needs to be done and why my personal information is required? I just want to make sure I have a clear understanding before proceeding.\n\nBest wishes,\nRandolph"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "from": "scammer_1585",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Friend,",
+        "body": "  Dear Friend,\nI am Dr Peterson Mengiardi, a member of the Independent Committee of Eminent Persons (ICEP), Switzerland.I have an important business to discuss with you. Please get back to me to this my private email bellow(\nmdrpeider@gmail.com\n).   "
+    },
+    {
+        "from": "baiter_1585",
+        "to": "scammer_1585",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Friend,",
+        "body": "Hello Dr. Peterson Mengiardi,\n\nI'm delighted to receive your message and I'm intrigued by the prospect of discussing important business with you. Could you please provide more details about the nature of this business? I'm eager to learn more.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nPaula"
+    },
+    {
+        "from": "scammer_1585",
+        "to": "baiter_1585",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Friend,",
+        "body": "Swiss Independent Commission of Experts\r\nSeconde Guerre Mondiale Commission Bergier,\r\nBadenerstrasse 141\r\nPostfach 7589\r\n8023 Zurich, Switzerland\r\nDear Friend,\r\nI am Dr Peider Mengiardi, a member of the Independent Committee of Eminent\r\nPersons (ICEP), Switzerland.\r\nICEP is charged with the responsibility of finding bank accounts in\r\nSwitzerland belonging to non-Swiss indigenes, which have remained dormant\r\nsince World War II. It may interest you to know that In January 13 2005,\r\nthe Swiss Bankers Association published a list of dormant accounts\r\noriginally opened by non-Swiss citizens. These accounts had been dormant\r\nsince the end of World War II (May 9, 1945). Most belonged to Holocaust\r\nvictims.\r\nThe continuing efforts of my office the Independent Committee of Eminent\r\nPersons (ICEP) have since resulted in the discovery of additional dormant\r\naccounts 2700 in July, 2005.\r\nAnd till date more are being discovered which you can confirm from the web.\r\nIn the process of my work a dormant account is discovered during my\r\ninvestigation with a credit balance of $ 17,000,000 US dollar plus\r\naccumulated interest belonging to a foreigner who has no relatives, the\r\nbeneficiary was murdered during the holocaust era, leaving no WILL and no\r\npossible records for trace of heirs. The Claims Resolution Tribunal has\r\nbeen mandated to report all unprocessed claims for permanent closure of\r\naccounts and transfer of existing credit balance into the treasury of\r\nSwitzerland government as provided by the law for management of assets of\r\ndeceased beneficiaries who died interstate (living no wills) I decided to\r\nwrite you as our regime is at hand for dissolving and all deadlines to file\r\nclaims relating to the Swiss Banks Settlement have expire on assistance of\r\nour claiming this fund.\r\nDue to the sensitive nature of my job, I need a partner outside of\r\nSwitzerland to stand as a beneficiary for processing the claims. Being a\r\ntop executive at ICEP, I have all secret details and necessary contacts to\r\nenable you to be validated as claimant and the fund sent to you without any\r\nPROBLEM.\r\nAll that is required is for you to provide me your details for processing\r\nof the necessary legal and administrative claim documents for release of\r\nclaim amount to you as I will pay all the relative fees to the lawyer to\r\nmake sure you are validated a confirmed beneficiary and I trust his\r\nexperience and believe he will handle all the processes legally.\r\nService integrity, honesty and dedication to success is my primary focus.I\r\nhave worked out perfect modality to ensure that your integrity is not\r\ncompromised and that of mine is not compromised too as I occupy a sensitive\r\nposition in my office and highly respected within the Christian community .\r\nMany people who have full records of their relatives bank details have\r\nsuccessfully claimed their inheritance and paid in full. List of claimants\r\nwho have been paid are listed on the website for verification. Visit the\r\nwebsite below to see the list of claimants who have been paid:\r\nProvide me with your full name, address, and telephone / fax. The money\r\nwill be sent to a secure account in your name, because you will be acting\r\nas the next of kin to the deceased person and also invest it into a very\r\nlucrative business in your country after claims.\r\nSince I am contacting you for this deal and will bear mostly all expenses\r\n60 per cent is for me, 40 percent of the total amount is due for you.Please\r\nremember that NO DOCUMENT WILL BE OFFICIALLY SIGNED BY YOU, i will assign a\r\nlawyer to do that here on your behalf HENCE NO LEGAL LIENS OR ENCUMBRANCE\r\nOR PROBLEM.\r\nYou can find additional information about holocaust money through the\r\nfollowing websites:\r\nThe below information is needed for confirmation from you for the easy and\r\neffectiveness to the procession by the Holocaust processing center\r\nSwitzerland:\r\nI find myself privileged to have this information and this is a great\r\nopportunity for a lifetime of success. For urgent procession, the below\r\ninformation is needed for confirmation from you for the easy and\r\neffectiveness to the procession by the Holocaust processing center\r\nSwitzerland:\r\n1} Full name\r\n2} Full Address\r\n3} Full scanned page of your international passport.\r\n4} bank account / information.\r\n5} working telephone number.\r\nThanks once more as i expect your urgent reply via the above e-mail.\nYours Sincerely,\r\nDr Peider Mengiardi"
+    },
+    {
+        "from": "baiter_1585",
+        "to": "scammer_1585",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.012199074074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Friend,",
+        "body": "Hello Dr. Peider Mengiardi,\n\nI am truly fascinated by your message and the work you are doing with ICEP. The history of World War II and its aftermath is a subject that has always intrigued me, especially the stories of those who suffered during the Holocaust.\n\nIt's quite interesting to learn about these dormant accounts and how they have remained untouched for so many years. I can only imagine the painstaking efforts it must take to discover them and then try to find any possible heirs.\n\nHowever, I'm a bit confused as to why you would need my assistance in this matter. Could you please elaborate more on what exactly my role would be? And how did you come across my contact information?\n\nAlso, could you provide me with more details about this foreigner whose account was discovered? It's quite sad to hear that he was murdered during the Holocaust era and left no will or trace of heirs.\n\nI look forward to hearing from you soon.\n\nBest wishes,\nPaula"
+    },
+    {
+        "from": "scammer_1585",
+        "to": "baiter_1585",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.4023726851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Dear Friend,",
+        "body": "Swiss Independent Commission of Experts\r\nSeconde Guerre Mondiale Commission Bergier,\r\nBadenerstrasse 141\r\nPostfach 7589\r\n8023 Zurich, Switzerland\r\n\r\nHi Dear Paula,\r\n\r\nI received your mail and wish to respond in order to clarify\r\ncertain issues. You are to be adequately briefed in my proposition, that\r\nthe work will start with the lawyer immediately as I have realized\r\nUS$89,000.00 for payment of legal service charge and to offset related fees\r\nfor your legal right, of documentation.\r\n\r\nI raised this money by mortgaging my beautiful home as I am sure that in a\r\nfew weeks time, we will have success and I will be glad to use part of my\r\nfunds to purchase great homes in different parts of the world. First, I\r\nwill assure you that this business is risk and trouble free.\r\n\r\nI contacted you for this important business being a total stranger due to\r\nthe great need to involve a foreigner who will act and receive this fund in\r\nhis account. The account bears a contract Name to a foreigner published\r\nlists which contain all types of dormant accounts, including\r\ninterest-bearing savings accounts, securities accounts, safe deposit boxes,\r\ncustody accounts, and non-interest-bearing transaction accounts. Numbered\r\naccounts are also included.\r\n\r\nInterest is paid on accounts that were interest bearing when established.\r\nBut my only worry is the security and safety of this fund once transferred\r\nto your account as we have not known before, and the bank management will\r\nnever approve the fund to a local account or indigenous name. We also have\r\na strict banking policy which does not allow citizens of my country to\r\ntransfer funds out to abroad but a foreigner has unlimited right to\r\ntransfer funds as far as internet banking procedure is concerned in\r\nswitzland.\r\n\r\nBased on these reasons, I now decided to contact you so that you can\r\nreceive this fund in your account and we share it according to my earlier\r\nstated percentages. Right after the procession, this money will belongs to\r\nyou or your company if any and by virtue of declaration that will be stated\r\non the affidavit to be sworn in the high court, you will have been\r\nirrevocably declared as the true owner and beneficiary of the fund being\r\nthe next of kin of the deceased holocaust vicitims.\r\n\r\nBy this declaration, you are authorized to proceed and claim the funds.\r\nTherefore, your only commitment to this magnitude transaction is to access\r\nthis fund through an internet banking after securing the necessary\r\naccreditation documents which legalized the transaction and you follow the\r\ndirectives of the payment banking officers, then receive the money into\r\nyour account a matter of time constraint.\r\n\r\nNote, after procession of your documents, you will always speak\r\nauthoritatively when speaking with the officer (s) sitting in the bank that\r\nyou need your money to be paid immediately.Lastly, remember the officers\r\nand government do not know the genesis of this transaction and you must\r\nkeep our involvement confidential, all they know is that, the funds belong\r\nto your name in documentation, so no mistakes.\r\n\r\nAs i said, the procedure is safe and risk free. I will use my good office\r\nto ensure that the process is quickly completed and that the money is\r\nquickly and swiftly transferred to safe account in your name in any of the\r\npayout banks from where you can start accessing the money through the\r\ninternet banking service without traveling out of your country and you can\r\nissue wire transfer instructions to your country and to any other part of\r\nthe world, making it easy and risk free to bank the funds and transact with\r\nit without risk of unnecessary explanation to the banks in your country\r\nasking for where the funds came from.\r\n\r\nHopefully,I will be directing you on the next process until we submit for\r\napproval of fund release. we will receive the notarized affidavit by next\r\nand also submit for approval of fund release same week.Please visit the\r\nwebsite and you will see the list of the people who are already smiling for\r\ntheir new wealth.\r\n\r\nhttp://www.crt-ii.org/_awards/index.phtm\r\n\r\nAs the deadline to file has expired and my resignation is approaching, I\r\nhave chosen that part of my own funds will be invested in purchase of\r\nstocks, real estate in the Bahamas and North America, and investment in the\r\nhospitality industry in Hawaii.\r\n\r\nI also want to donate to tsunami and use hurricane victims,Please send\r\nreply to me via email with the below information is needed for confirmation\r\nfrom you for the easy and effectiveness to the procession by the Holocaust\r\nprocessing center Switzerland:\r\n\r\n1} Full name\r\n2} Full Address\r\n3} Full scanned page of your international passport.\r\n4} bank account / information.\r\n5} working telephone number.\r\n\r\n\r\nThanks once more for your co-operating\r\n\nDr Peider Mengiardi"
+    },
+    {
+        "from": "baiter_1585",
+        "to": "scammer_1585",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.4286111111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Dear Friend,",
+        "body": "Hello Dr. Peider Mengiardi,\n\nThank you for your detailed email. It's quite an interesting proposition you've presented here, and I must say it's a bit overwhelming to take in all at once.\n\nI'm curious about the process of securing the necessary documents that would legalize my involvement. Could you elaborate more on what these documents are and how I would go about obtaining them?\n\nAlso, could you explain more about the internet banking procedure in Switzerland? I'm not very familiar with it and would like to understand better before proceeding.\n\nLastly, I noticed that you mentioned a list of people who are already benefiting from this opportunity. Is there a way for me to get in touch with any of them? It would be great to hear firsthand experiences.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nPaula"
+    },
+    {
+        "from": "scammer_1585",
+        "to": "baiter_1585",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.7551273148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Dear Friend,",
+        "body": "Thank you very much my good friend for you response and questions,  I might\r\nnot be in a position to make you believe me now but with time, you will\r\nreap from the fruit of your labor. I always maintain one proverb which has\r\nmade me confident in my life which says that' What Shall it profit a man to\r\ngain the whole World and lose his own life. The riches of the Faithful are\r\nin Heaven and that was why I took solace to make sure you receive this\r\nholocaust fund.  Some people have already received theres as i mentioned in\r\nmy previous email, these are some of the people who are already smiling for\r\ntheir new wealth.one British man (Mr. Owen Cole with telephone number\r\n+447404059422). So, in my daily prayers I call God to desist me in anything\r\nlike cheating and the truth is that; I cannot cheat  or deceive any person\r\nbecause of my religion and position in the lord.  This stage is the most\r\ntempting part of my life and it must be given for Gods divine Love and\r\nfavor in all fronts.\r\n\r\nSo , you  are my Lovely sister too in this race as a sister, we are one.\r\nThis is for real.\r\n\r\n I will advise you to contact this woman Mrs. Lisa Kidd From America with\r\nEmail:  (kiddlisa120@aol.com)\r\nshe  received hers  last 3 weeks and she is happy and have started using\r\nher funds,  And also Mr Dane Williams from UK also with the phone number\r\nbecause He received his own funds last two months  with email (\r\ndanesafe@yandex.com)(+447404059422) .\r\nAs for the process of obtaining the legal documents,I have contracted an\r\nInternational lawyer who based in Spain and well  experienced on processing\r\nof holocaust payments documents and I will forward Him your informations as\r\nsoon as you send it to me so that He will start the process of obtaining\r\nthe fund release affidavit in your name so that it will be submited for the\r\nrelease of the funds.\r\nFor the internet banking, it is the process of online banking which you\r\nwill be able to transfer your fund to your account through on line process\r\nbecause after the release of the fund to you, the online informations will\r\nbe giving to you and the bankers will direct you on how to make the\r\ntransfer .\r\nI am looking forward to immediate conclusion because very soon we will\r\nreturn all the unclaimed holocaust funds to the board.\r\nThe Lord is our strength.\r\n Take care and Note that your delivery charge will not change my life, so I\r\nhave nothing to do with your money.\r\n Please reach me with your informations so that we can proceed and attached\r\nbellow are my identities for you to know whom you are daeling with.\r\n\r\nI am waiting to hear from you as soon as possible. Please note that this\r\nhas to be confidential.\r\n\nYours Sincerely,\r\nDr. Peider Mengiardi,"
+    },
+    {
+        "from": "baiter_1585",
+        "to": "scammer_1585",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7620717592592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Dear Friend,",
+        "body": "Hello Dr. Peider Mengiardi,\n\nThank you for your detailed response. It's really interesting to hear about the work you're doing and the people who have already benefited from it. I'm glad to know that Mr. Owen Cole, Mrs. Lisa Kidd, and Mr Dane Williams are all happy with their funds.\n\nI'm curious about this online banking process you mentioned. Could you explain a bit more about how it works? Is it safe and secure?\n\nAlso, could you tell me more about the legal process involved in obtaining these funds? You mentioned a lawyer based in Spain - does he handle all the paperwork?\n\nLastly, I'd like to know more about the board that oversees these unclaimed holocaust funds. Who are they and what is their role in this process?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nPaula"
+    },
+    {
+        "from": "scammer_1585",
+        "to": "baiter_1585",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.7981134259259259,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Dear Friend,",
+        "body": "Hello my good friend,\r\n\r\nOnline banking is being able to access you fund through on line app and you\r\ncan transfer to any account you want . But the bankers can equaly transfer\r\nthe fund on your behalf if you are not conversant with online banking it is\r\nsafer.  The board do not have any roles on this and the lawyer will take\r\ncare of the legal process on your behalf.  Send me the informations I\r\nrequested so that I can contact the lawyer with to beggin the process."
+    },
+    {
+        "from": "baiter_1585",
+        "to": "scammer_1585",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.803599537037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Dear Friend,",
+        "body": "Hello there,\n\nThank you for your detailed explanation about online banking. It sounds very convenient and efficient. I'm not very familiar with it, but I'm eager to learn more.\n\nYou mentioned that the bankers can also transfer funds on my behalf. That's interesting! How does that work exactly? Do they need any specific information from me to do this?\n\nAlso, you mentioned a lawyer handling the legal process. Could you please elaborate on what this legal process involves? \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nPaula"
+    },
+    {
+        "from": "scammer_1585",
+        "to": "baiter_1585",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0378819444444445,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Dear Friend,",
+        "body": "I believe the lawyer will tell you more on that and any other basic\r\ninformations you need. Send me your necessar informations i requested so\r\nthat we can proceed."
+    },
+    {
+        "from": "baiter_1585",
+        "to": "scammer_1585",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.053611111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: Dear Friend,",
+        "body": "Hello there,\n\nThank you for your message. I'm really interested in learning more about this. Could you please elaborate on what the lawyer will tell me? Also, could you clarify what necessary requests I need to send for us to proceed? \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nPaula"
+    },
+    {
+        "from": "scammer_1585",
+        "to": "baiter_1585",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.1242361111111112,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: Dear Friend,",
+        "body": "Bellow is the information you needed to send\r\n\r\n1} Full name\r\n2} Full Address\r\n3} Full scanned page of your international passport.\r\n4} bank account / information.\r\n5} working telephone number.\r\n\r\n\r\nThanks once more for your co-operating\r\n\nDr Peider Mengiardi"
+    },
+    {
+        "from": "baiter_1585",
+        "to": "scammer_1585",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.1369212962962962,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: Dear Friend,",
+        "body": "Hello Dr. Peider Mengiardi,\n\nThank you for your message. I'm really interested in what you're saying, but I'm a bit confused about why you need all this information. Could you please explain more about it? \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nPaula"
+    }
+]

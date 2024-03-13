@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1821",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "I am Mrs. Randi Blicher, an ac",
+        "body": "I am Mrs. Randi Blicher, an account officer in UBS Bank.\nI have decided to seek confidential cooperation with you for the execution of this deal described hereunder for our mutual benefit. During the course of our audit last month, I discovered unclaimed/abandoned funds totaling US$54 million in a bank account that belongs to a customer who unfortunately lost his life and entire family in a car accident 9 years ago.\nIn this regard, I earnestly need your full cooperation in transferring this money out of our bank to avoid our bank confiscating this fund. Our sharing ratio will be 50% for you and 50% for me.\nShould you be interested to work with me ? Kindly get back to me for more information and Guidelines.\nBest Regards,\nMrs. Randi Blicher"
+    },
+    {
+        "from": "baiter_1821",
+        "to": "scammer_1821",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: I am Mrs. Randi Blicher, an ac",
+        "body": "Hello Mrs. Randi Blicher,\n\nWow, that's quite a story! I'm sorry to hear about the unfortunate fate of your customer and his family. It's really sad when things like this happen.\n\nI must say, your proposal sounds very interesting. However, I have a few questions if you don't mind me asking. \n\nFirstly, how did you find me and why did you decide to contact me for this deal? Secondly, what would be my role in this process? And finally, what are the legal implications of such an operation?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRonald"
+    }
+]

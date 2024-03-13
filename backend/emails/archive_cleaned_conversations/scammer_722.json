@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_722",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  America First Credit Union U",
+        "body": "  America First Credit Union USA\nAttention; Sir/Madam,\nHow are you and your families today? I hope all is well.\nI'm obliged to inform you that we received a fax notification from one Ms. Tatyana Cole,who claimed to be your representative, stating you have been sick, and for that reason you have not been responding to emails messages. Furthermore, she stated you have authorized her to receive the ($10,500,000.00) Ten Million Five Hundred Thousand Dollars on your behalf, and the funds should be transferred to her atm card and to direct bank account as follows;\nBank Name; Wells Fargo Bank\n Account number; 6338102886\n Routing number; 021000658\n Account name; Tatyana Smith,\nHowever, she is ready to pay the required statutory fee for the fund to be transferred to her bank account now.\nSo please we wish to confirm if truly the woman was your representative or not before we proceed in releasing the $10.5m fund to her bank account mentioned above.\nFailure to hear from you within the next 48 hours, we shall assume she is right with her claims.\nAwaiting your urgent response to this message..\nYours sincerely,\nPresident Chief Financial Officer   "
+    },
+    {
+        "from": "baiter_722",
+        "to": "scammer_722",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   America First Credit Union U",
+        "body": "Dear Sir/Madam,\n\nThank you for reaching out to me. I hope this message finds you well. I appreciate you informing me about the fax received from Ms. Tatyana regarding my health and her claim to be authorized to receive a large sum of money on my behalf.\n\nI must admit that I am a bit confused as I do not recall authorizing anyone to handle such matters for me. Could you please provide more details about the nature of this transaction? How did Ms. Tatyana come to be involved, and what is the purpose of the Ten Million Five Hundred Thousand Dollars?\n\nAdditionally, I would like to know more about the statutory fee that she mentioned. What is it for, and why is it necessary? It would be helpful if you could explain the process and any legal requirements associated with releasing these funds.\n\nI apologize for any inconvenience caused by my delayed response, but I assure you that I take matters like these seriously. Please provide further information so that we can proceed accordingly.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_722",
+        "to": "baiter_722",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: America First Credit Union U",
+        "body": "James\r\nThanks for your email, can you please contact our president AMERICA FIRST\r\nCREDIT UNION OFFICE\r\nEMAIL  johnlund.usa@americanfirstcreditun.com\r\nJOHN LUND\r\nHe will provide with the details you required\nthanks"
+    },
+    {
+        "from": "baiter_722",
+        "to": "scammer_722",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00037037037037037035,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: America First Credit Union U",
+        "body": "Hi James,\n\nThank you for reaching out to me. I appreciate your willingness to share information. However, before I contact John Lund, could you please provide me with some more details about the information he will be providing? I want to make sure it aligns with my interests and needs.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJames"
+    }
+]

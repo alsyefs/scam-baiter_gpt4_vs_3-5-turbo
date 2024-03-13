@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_2224",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello ,",
+        "body": "Hello ,\nGreetings to you. First of all let me introduce myself. I am Ferrell Calvin  from the United States. I am a local farmer by profession. I have a very large farm where I plant all kinds of vegetables and other cash crops.\nI have been farming for over 40 years. Now I am looking for a good partner who we can work together for me to invest in other businesses where we can both make good profits together.\nDuring my farming business, I have been able to get good profits and saved a sum of $150 million dollars. \nThis is the funds that I will like to invest in other businesses with someone that can lead me through. \nIf you have good ideas or good business that is profitable then I am willing to invest this funds with you and we both split the profits together and have an agreed percentage for both parties.\nPlease do get back to me if you know you have a good business plan that we can both work on.\nThank you for reading .\nSincerely,\nFerrell Calvin."
+    },
+    {
+        "from": "baiter_2224",
+        "to": "scammer_2224",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello ,",
+        "body": "Hello Ferrell Calvin, thank you for reaching out with your proposal. It's great to hear about your successful farming business and your interest in investing in other ventures. Can you provide more details about the type of businesses you are interested in investing in? I would like to learn more about how we can potentially work together for mutual benefit.\n\nBest wishes,\nMarie"
+    },
+    {
+        "from": "scammer_2224",
+        "to": "baiter_2224",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Hello ,",
+        "body": "Hello Marie nice to hear from you well I don't really have any good idea of\r\nbusiness at the moment that is why I need a partner that can put me through\r\n, but what about real estate ? Can you do that ? Anyway I just want you to\r\nbe free and tell me what you think that is good for you or a business you\r\nknow very well that I can invest on the am good with it.\r\n\r\nFerrell ."
+    },
+    {
+        "from": "baiter_2224",
+        "to": "scammer_2224",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0061342592592592594,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Hello ,",
+        "body": "Hello Ferrell, I understand your interest in exploring business opportunities. Real estate can indeed be a lucrative field to invest in. Have you done any research on the real estate market in your area? What specific aspects of real estate are you interested in - residential, commercial, rental properties, etc.? It's important to have a clear focus when considering investments. Feel free to share more about your thoughts and we can discuss further.\n\nBest wishes,\nMarie"
+    },
+    {
+        "from": "scammer_2224",
+        "to": "baiter_2224",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.4212384259259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Hello Marie",
+        "body": "Hello Marie,\r\n\r\nNice to hear from you again. I like your sense of humor you are exposed\r\nwoman and I would really love to work with someone like you and also make\r\nyou a good friendship. If I may ask are you married with kids ??\r\n\r\nWell am divorced man anyway and I live alone here in New Jersey. Ok fine I\r\nhave not done any research in my area about real estate but I know it's a\r\nbusiness that will move well if we invest in a good area where people are\r\nbuying property more.\r\n\r\nResidential building will move more dear I think we should for go that.\r\nWhat we do is buy houses in good areas and after like 5 months or so then\r\nwe sell , just like that buy and sell buy and sell .\r\n\r\nSo you duty is to look for good area we can buy cheap and then you buy them\r\nand later resell.\r\n\r\nSo tell me.more about your self pls and send me any ID card so I know whom\r\nam doing business with.\r\n\r\nAs soon as you get back to me on this then my lawyer will prepare an\r\nagreement letter for us to sign before we commence the investment.\r\n\r\nThanks a lot.\r\nFerrell Calvin."
+    },
+    {
+        "from": "baiter_2224",
+        "to": "scammer_2224",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.4228240740740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Hello Marie",
+        "body": "Hello Ferrell,\n\nThank you for reaching out and sharing your thoughts on real estate investment. It sounds like you have a clear strategy in mind. Buying and selling properties in good areas can indeed be a profitable venture.\n\nI appreciate your interest in working together. Before proceeding further, could you please provide more details about the specific areas or locations you are considering for investment? Understanding the market trends and potential growth areas is crucial for making informed decisions in real estate.\n\nAs for sharing personal information like ID cards, I prefer to keep business discussions focused on the investment opportunities and strategies at hand. Let's continue discussing how we can collaborate effectively in the real estate market.\n\nLooking forward to hearing more from you.\n\nBest regards.\n\nBest wishes,\nMarie"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "from": "scammer_1002",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good morning sir,",
+        "body": "Good morning sir,\nI got this from a random search of related gold buyers, brokers and dealers.\nMy name is Hassan Rasheed \nfrom the republic of Sierra Leone\n. I am in direct contact with a military personnel who has $600m cash and would like to move the cash to a free and Non taxable zone\nI am contacting you because I know that you might engage this transaction, to use the money to buy gold, sell and put his money in the system  \nThe fund owner is offering 40% for the movement of the money and putting it into the banking system\nIf you have interest, contact me for more detail\nBest Regards,\nHassan Rasheed\nTel: +256709706420"
+    },
+    {
+        "from": "baiter_1002",
+        "to": "scammer_1002",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Good morning sir,",
+        "body": "Hello Hassan Rasheed,\n\nThank you for reaching out to me with this opportunity. I must say, it sounds quite intriguing. I'm always open to exploring new possibilities. Could you please provide me with more details about the movement of the cash and how exactly it would work? I want to make sure I fully understand the process before moving forward.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAlan"
+    },
+    {
+        "from": "scammer_1002",
+        "to": "baiter_1002",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Good morning sir,",
+        "body": "Dear Eric M Fruit (Esq),\r\n\r\nThank you for responding to this issue. I will be most grateful if you can outline the projects you have in Oman for possible consideration\r\n\r\nFurthermore, the said investment fund is yet officially unbanked but all arrangements are in place to get it into the banking system to enhance unhitched bank transfer to your company bank account in your  country for onward investment as the investor may require .\r\n\r\nAlso bear in mind that you will have to come to Kampala Uganda for a meeting to sign  an MOU and the fund release documents to your company's designated  bank account before conclusion with the help of our Fiduciary Agent.\r\nWe need to work together in a brotherly and professional manner to safeguard the interest of both of us for mutual reward. As you know, my Boss is a public figure and politician wants to be assured of your understanding of his concern for confidentiality; I believe you know the potential harm any information leak can do to him, therefore, I urge you to ensure that all communication and information exchange are kept confidential without any leakage.\r\n\r\nPeople in his position need to keep out of the news and rumors for privacy.\r\n\r\nMy Boss is ready to let us have 40% of the amount as your reward after successful completion of the fund moving process, and he will still make you a partner in any venture he may decide to invest into within your country in future.\r\n\r\nKindly confirm your understanding of the process and your willingness to proceed.Reference to your understanding and confidentiality kindly forward your direct telephone line for further direct explanations of the process and way forward .\r\n\r\nI look forward to hear from you\nBest Regards,\r\nHassan Rasheed\r\nTel:+256702675009"
+    },
+    {
+        "from": "scammer_1002",
+        "to": "baiter_1002",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0008449074074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Good morning sir,",
+        "body": "Dear Alan,\r\n\r\nThank you for responding to this issue. I will be most grateful if you can outline the projects you have in Oman for possible consideration\r\n\r\nFurthermore, the said investment fund is yet officially unbanked but all arrangements are in place to get it into the banking system to enhance unhitched bank transfer to your company bank account in your  country for onward investment as the investor may require .\r\n\r\nAlso bear in mind that you will have to come to Kampala Uganda for a meeting to sign  an MOU and the fund release documents to your company's designated  bank account before conclusion with the help of our Fiduciary Agent.\r\nWe need to work together in a brotherly and professional manner to safeguard the interest of both of us for mutual reward. As you know, my Boss is a public figure and politician wants to be assured of your understanding of his concern for confidentiality; I believe you know the potential harm any information leak can do to him, therefore, I urge you to ensure that all communication and information exchange are kept confidential without any leakage.\r\n\r\nPeople in his position need to keep out of the news and rumors for privacy.\r\n\r\nMy Boss is ready to let us have 40% of the amount as your reward after successful completion of the fund moving process, and he will still make you a partner in any venture he may decide to invest into within your country in future.\r\n\r\nKindly confirm your understanding of the process and your willingness to proceed.Reference to your understanding and confidentiality kindly forward your direct telephone line for further direct explanations of the process and way forward .\r\n\r\nI look forward to hear from you\nBest Regards,\r\nHassan Rasheed\r\nTel:+256702675009"
+    },
+    {
+        "from": "baiter_1002",
+        "to": "scammer_1002",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.008680555555555556,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Good morning sir,",
+        "body": "Hello Alan,\n\nThank you for sharing this information with me. I am interested in learning more about the projects you have in Oman for potential investment. Could you provide some details on the types of projects and their potential returns?\n\nI understand the need for confidentiality, especially given your Boss's public figure status. How do you ensure that sensitive information is kept secure throughout the investment process?\n\nI appreciate your offer of partnership and reward after the successful completion of the fund moving process. Can you elaborate on how the reward structure works and what would be expected from me as an investor?\n\nLooking forward to hearing back from you soon.\n\nBest wishes,\nAlan"
+    },
+    {
+        "from": "baiter_1002",
+        "to": "scammer_1002",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.009016203703703703,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Good morning sir,",
+        "body": "Hello Hassan Rasheed,\n\nThank you for reaching out with this opportunity. I'm interested in learning more about the projects you have in Oman for potential investment. Could you provide more details on the types of projects available and the expected returns?\n\nI understand the need for confidentiality, especially given your Boss's public figure status. Can you elaborate on the steps involved in getting the investment fund officially banked and how my involvement would help facilitate this process?\n\nAdditionally, could you explain more about the role of the Fiduciary Agent and what their responsibilities would be in this partnership?\n\nLooking forward to hearing back from you soon.\n\nBest wishes,\nAlan"
+    },
+    {
+        "from": "scammer_1002",
+        "to": "baiter_1002",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0209027777777777,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Good morning sir,",
+        "body": "Dear Alan,\r\nThis is to inform you that I and the investor  appriciate your commited interest to work with us to ensuring the smooth and safe transfer of this fund for onward the investment  as proposed.\r\n\r\nBe informed that it has been the investors dream to invest in Real Estate  and Torurisim ,even though he is not a proffessional in that field but he is optimistic and of the belive that you can roll out a pheasibility study that will be very profitable at the end .\r\nYes ,note that confidentiality will be of great interest because of the status and position of the investor that will not want so much breacrsy  and publicization of the fund evercuation   and investment of this fund as the case may be ,his position and personality must be of great interest for the security of this fund .\r\n\r\n\r\nFor maximum  security of this fund ,note that all the risk metigations has been put under control and neccesary measures and contacts has been put into consideration, made  and must be taken serisiousily\r\nReference to the above explantion be informed that for teh strict security ,smooth and safe of this fund ,you have to come down here in Kampala Uganda  to register a company in the same name of  your existing comapny based on the requirments i sent to you earlier .\r\n\r\nReference to the above explanatrion ,as soon as i recieve your confirmations ,the required docuements and information ,the director will draft the Memorandum of Understanding (M O U ) which the soft copy will be forwarded to you for your detailed review  and confrimation of your date of arrival here in Uganada for teh signing of the M O U and kick of the under list process .\r\nI await to hear from you\nBest Regards,\r\nHassan Rasheed\r\nTel:+256702675009"
+    },
+    {
+        "from": "baiter_1002",
+        "to": "scammer_1002",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0304976851851853,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Good morning sir,",
+        "body": "Hello Alan,\n\nThank you for sharing this information with me. It sounds like an interesting opportunity to work on a real estate and tourism investment project. I'm curious to learn more about the specifics of the proposed investment and how my involvement would contribute to its success.\n\nCould you provide more details about the investor's background and the potential benefits of partnering with them on this venture? Additionally, I would like to understand the steps involved in registering a company in Uganda and how it ties into the overall investment plan.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAlan"
+    },
+    {
+        "from": "scammer_1002",
+        "to": "baiter_1002",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0737962962962964,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Good morning sir,",
+        "body": "Dear  Allan ,\r\n\r\nYour email is quite understaood ,note that the Investor is a  serving senior Millitary officer and a renowed politician,because of his present status that is why he requires obsolute confidentiality  as stated ealier .\r\n\r\nTo through more light, Note that the  process of company account opening here in Uganda  will require you to be here in person to secure the under listed information and documents .\r\nProcess. You are requested to arrive in kampala with the following documents\r\n- Copy of international passport\r\n- Proof of residential or office address\r\n- Copy of your company registration ( Memo & Article)\r\n- Utility bill like ( Electric bill, water bill or phone bill) anyone to be presented must be in your name\r\n- Banking details of the account where you want money to be transferred to\r\n-\r\nNote more that ,the investor require a foreign partiner hence this fund cannot go out o this country in his name to avoid probe and stumbling block in transfering this fund abroad .\r\n\r\nHe also want you and yoru company to represent him in Oman hence he is still in service and would not wnat his name mentioned in any foreign investment hence it will seriousily effect his job and personality .\r\n\r\nAs proposed ,he want you to oversear and manage nthe investment ,hence the 40%  of this fund apotioned to the investor wants you to invest your 40% in  the proposed investment  while he will invest 60% and comit them under your managment fo profit sharing according to each party's invested amount .\r\n\r\nNote that as soon as this fund is safely and smoothly transferred into your company's bank abroad hence the investor will give you one ir two representatives to travel back with you or the commencement of the investment as proposed hence the profit sharing ratiob will officially be spell out in the Memoradum of Understanding  (M O U)\r\n\r\nI await your confirmation .\nBest Regards,\r\nHassan Rasheed\r\nTel:+256702675009"
+    },
+    {
+        "from": "baiter_1002",
+        "to": "scammer_1002",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0919560185185184,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Good morning sir,",
+        "body": "Hello Allan,\n\nThank you for sharing this information with me. It sounds like there are some important steps and documents required for the company account opening in Uganda. I appreciate you providing these details.\n\nCould you please clarify what specific type of investment opportunity the investor is looking into in Oman? It would be interesting to learn more about the proposed investment and how it aligns with your company's goals.\n\nAdditionally, I'm curious about the profit-sharing arrangement mentioned in the email. How does the investor propose to structure this agreement between parties?\n\nLooking forward to hearing more from you.\n\nBest wishes,\nAlan"
+    },
+    {
+        "from": "scammer_1002",
+        "to": "baiter_1002",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.1064814814814814,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Good morning sir,",
+        "body": "Dear Allen ,\r\n\r\nKindly forward your telephone  number and a convinient time that the investor can call you for detailed explanations hence you can ask more questions during the oral telephoen convassesion .Reference to your repeated question ,i have officilly informed you that the investor have a life dream of investing in Real Estate and Tourisim and the profit sharing will be according the amount invested by each party but if you have any other viable sector or investment that you know or area of your proffessio that  the Return on Investment (ROI) will be attractive and high ,the investor might consider such if well explained or tabuleted .\r\n\r\nI await your direct telephone number and a convinient time the investor can call you .\nBest Regards,\r\nHassan Rasheed\r\nTel:+256702675009"
+    },
+    {
+        "from": "baiter_1002",
+        "to": "scammer_1002",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.1134837962962962,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Good morning sir,",
+        "body": "Hello Hassan,\n\nThank you for reaching out. I appreciate the information about the investor's interest in Real Estate and Tourism. Could you provide more details about the potential investment opportunities in these sectors? I'm curious to learn about the specific projects or locations the investor is considering.\n\nAlso, could you share any success stories or case studies of previous investments in these areas? It would be helpful to understand the potential ROI and risks involved.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAlan"
+    },
+    {
+        "from": "scammer_1002",
+        "to": "baiter_1002",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.1584953703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Good morning sir,",
+        "body": "Dear Allen ,\r\n\r\nI await your direct telephone number and a convenient time the investor can call you .\nBest Regards,\r\nHassan Rasheed\r\nTel:+256702675009"
+    },
+    {
+        "from": "baiter_1002",
+        "to": "scammer_1002",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.1752083333333334,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Good morning sir,",
+        "body": "Hello Hassan,\nThank you for reaching out. I appreciate your interest in connecting with me. Could you please provide more details about the investment opportunity you are referring to? I would like to learn more before sharing my contact information.\n\nBest wishes,\nAlan"
+    }
+]

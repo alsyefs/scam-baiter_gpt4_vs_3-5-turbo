@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_1655",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " IMF GLOBAL DEBT SETTLEMENT CO",
+        "body": " IMF GLOBAL DEBT SETTLEMENT COMMITTEE\n1900 Pennsylvania Ave NW,\nWashington, DC 20431, USA\nOur Ref: IMF/PYMS/INTER-18-23\nUNO/WBF LM-05-371/LM-05-371\nFOR YOUR URGENT ATTENTION,\nThe IMF Global Debt Settlement Committee in conjunction with the World Bank has received your pending payment, with an international payment voucher number (LM-87-9897). Your name was shortlisted among others whose international payment has long been overdue for settlement.\nWith reference number UNO/WBF LM-87-9897, your pending payment has been scheduled for immediate release via our committees authorized corresponding bank . The IMF was alarmed by her recent findings on global banking inside practices, perpetuated and instigated by unauthorized banking practice. This unprofessional activity in some banks has resulted in international wire delays, permanent freezing of funds and seizures.  In order to resolve the crisis, the IMF in conjunction with various foreign Governments and financial agencies has audited and authorized release and payment of 291 frozen assets and funds to victims.\nDue to the corrupt and inefficient Banking Systems in some countries involved, the Payments are to be supervised by the 'IMF' Officials through their corresponding Banks. According to the number of applicants at hand, half of the victims are from the United States. You are hereby warned not to communicate or duplicate this message to any ongoing communication between you and any individual or bank in connection with your loss for any reason whatsoever, this is to avoid conflict with ongoing criminal investigation.  You are advised to reconfirm to this committee the following details, to enable us to confirm your identity and issue an irrevocable payment order to our authorized paying bank.\nYour full name\nCompany's name\nRegistered Address\nProve of identification\nTelephone\nWe shall communicate you with further modalities as soon as we hear from you.\nSincerely,\nMr. Derek L.Bills.\nChairman\nIMF Global Debt Committee\nPh: +1-202-869-0339    "
+    },
+    {
+        "from": "baiter_1655",
+        "to": "scammer_1655",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  IMF GLOBAL DEBT SETTLEMENT CO",
+        "body": "Hello Mr. Derek,\n\nThank you for reaching out and providing such detailed information about the IMF Global Debt Settlement Committee's activities. It's fascinating to learn about the steps being taken to resolve global banking issues.\n\nI'm curious, could you please elaborate more on how this process works? How does the committee identify victims of these banking practices? \n\nAlso, I'd love to know more about the role of the World Bank in this initiative. Are they directly involved in the payment release process or do they play a more supervisory role?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDennis"
+    },
+    {
+        "from": "scammer_1655",
+        "to": "baiter_1655",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: IMF GLOBAL DEBT SETTLEMENT COMMITTEE",
+        "body": "Hello,\r\n\r\nWe acknowledge receipt of your email concerning my notification message and\r\nappreciate your interest in further information regarding our committee's\r\nmandate.\r\n\r\nWith reference to our initial correspondence, we currently have over a\r\nthousand individuals who have fallen victim to these malpractices. While\r\nover 200 individuals have been identified and shortlisted for payment. The\r\nIMF has an agency dedicated to investigating these cases, identifying\r\nvictims, and referring them to our committee for processing.\r\n\r\nAs mentioned previously, this initiative involves collaboration between our\r\ntwo agencies, the World Bank and IMF in the investigation and approval of\r\nvictims for payment. However, payments are facilitated through our\r\ncommercial corresponding institutions. We will diligently monitor the\r\nprocess until you confirm receipt of payment.\r\n\r\nThe first step is providing the details requested in our previous email,\r\nthese details will enable us to conduct verification through your file.\r\nUpon satisfactory vetting, your file will be forwarded to our commercial\r\ncorresponding bank for immediate payment.\r\n\r\nWe look forward to your urgent response.\nRegards,\r\n\r\nMr. Derek L. Bills.\r\n\r\nChairman,\r\n\r\nIMF Global Debt Committee\r\n\r\nPh: +1-202-869-0339"
+    }
+]

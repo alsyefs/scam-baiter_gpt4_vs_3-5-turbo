@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1602",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello Dear,",
+        "body": "Hello Dear,\nI am writing to you in my capacity as Genevà C Cluchey, a\ndistinguished employee at Zurich International Airport in Switzerland.\nIt has been my earnest endeavor to establish communication with you\nregarding an abandoned package that I recently came across at the\nairport. After following the appropriate legal procedures, including\ncustoms clearance, I have securely deposited the package in a safe\ndeposit box at my bank. This decision was made due to my repeated but\nunsuccessful attempts to contact you.\nI understand that you may be concerned about the status and\nwhereabouts of this package, and I sincerely apologize for any delays\nin reaching out to you. \nTo ensure that I am in contact with the\nrightful recipient, I kindly request you provide the following\ninformation:\nFull Name:\nAddress:\nPhone Number:\nOnce I have confirmed your identity, I will furnish you with detailed\ninstructions on how to receive your package\n, along with pertinent\ninformation concerning the safe deposit box, including the safe\ndeposit box certificates. Please be aware that the package contains a\nsubstantial amount of cash in US dollars. However, I am unable to\ndisclose the exact amount until I am certain that I am communicating\nwith the intended recipient.\nThank you for your attention to this matter, and I look forward to\nhearing from you at your earliest convenience.\nSincerely,\nGenevà J. C Cluchey"
+    },
+    {
+        "from": "baiter_1602",
+        "to": "scammer_1602",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello Dear,",
+        "body": "Hello Genev J. Cluchey,\n\nThank you for reaching out to me regarding the abandoned package at Zurich Airport. I appreciate your efforts in trying to establish contact with me. I understand that you have securely deposited the package in a safe deposit box at your bank.\n\nI am definitely concerned about the status and contents of the package. Could you please provide me with more information about the package? What does it look like? Are there any markings or labels on it?\n\nAlso, I would like to know what documents or identification you require from me to confirm my identity. Could you please let me know the specific details?\n\nOnce I have confirmed my identity, I would be interested in receiving detailed instructions on how to retrieve the package and any other pertinent information related to the safe deposit box.\n\nThank you for your attention to this matter, and I eagerly await your response.\n\nBest wishes,\nLillie"
+    }
+]

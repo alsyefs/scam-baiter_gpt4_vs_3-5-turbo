@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_829",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Sir,",
+        "body": "Dear Sir,\nI am Felix Akpan(Esq), the personal attorney to Mr. Farhad Bahir, a national of your country. He was an\noil consultant/contractor with the Nigerian National Petroleum Corporation (NNPC). Before his untimely\ndeath of heart related disease on the 5th of January 2007, he was actively involved in oil (Petroleum)\nExploration/Export business.\nSince his demise I have made several enquiries and consultation with your embassy in attempts to locate\nany of my client's relatives this has proved unsuccesful. I then decided to attempt tracing his relatives\nthrough the internet, this also proved unsuccessful. Hence I am contacting you today.\nThe aim of contacting you is for you to assist in repatriating the funds and property left behind by client\nbefore they are confiscated or declared unserviceable by the bank where these funds are lodged. I have\nall the necessary legal documents that can be used to back up any claim we might make. I especially\nintend to present you as the next of kin and the only known relative of late Mr. Farhad Bashir.\nAll I require is your honest co-operation to enable us see this proposal through. I guarantee that this will\nbe executed under legitimate arrangement. This transaction is risk-free all you need do is to maintain\nabsolute confidentiality during and after the perfection of this transaction.\n This transaction will commence immediately I receive your response.\nSincerely yours,\nFelix Akpan.\nAttorney At Law\nAkpan Law Firm\nPlot 61 Sanusi Fafunwa Street\nVictoria-Island,\nLagos - Nigeria."
+    },
+    {
+        "from": "baiter_829",
+        "to": "scammer_829",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Sir,",
+        "body": "Dear Felix Akpan Esq,\n\nThank you for reaching out to me regarding the unfortunate passing of Mr. Farhad Bahir. I'm sorry to hear about his demise. I appreciate you taking the time to contact me and explain the situation.\n\nI understand that you are looking for assistance in handling the funds and property left behind by your client. It must be a challenging task, especially when there are no known relatives available. I'm curious to know more about the legal documents you mentioned that can support any claims made.\n\nCould you please provide further details on how this process would work? What would be my role as the next of kin and what steps would need to be taken to ensure everything is done legitimately? Additionally, are there any potential risks or challenges that we should be aware of?\n\nThank you again for considering me for this opportunity. I look forward to hearing back from you soon.\n\nBest wishes,\nJanet"
+    }
+]

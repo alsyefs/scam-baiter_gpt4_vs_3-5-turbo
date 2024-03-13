@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1253",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Attn:Fund Beneficiary.",
+        "body": "   Attn:Fund Beneficiary.\nSince the Previous Governor of Central Bank of Nigeria(CBN), Mr.Godwin Emefiele,has been re-moved, Investigation has revealed that After all promises to transfer your contract part payment of US$10.5Million has not been accomplished and we also find out that you have been dealing with some people that claimed to be in-charge of your payment.\nHowever, am glad to inform you about the new development on the transfer of your part payment and For your information Your part payment will transfer to you directly to your nominated bank account.\nYou are given 24 hours to contact and confirm your full details such as address and valid telephone and fax number with your receiving bank account to enable the transfer of your contract approved part payment without any delay.\nI am waiting your immediate response for the effect of your approved contract part payment.\nYours Faithfully.\nMr.Philip Obada.\nDirector Ktt/Debts Settlement.\nCentral Bank of Nigeria(CBN).  "
+    },
+    {
+        "from": "baiter_1253",
+        "to": "scammer_1253",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    Attn:Fund Beneficiary.",
+        "body": "Hello Obada,\n\nThank you for reaching out to me with this information about the transfer of my contract part payment. I appreciate your efforts in keeping me updated.\n\nI would like to know more about the process and the steps involved in transferring the funds directly to my nominated bank account. Could you please provide me with more details on how this will be done?\n\nAlso, I want to ensure that all my information is accurate and up-to-date. Can you confirm if you already have my address and contact details on file? If not, please let me know what specific information you require from me.\n\nLooking forward to your prompt response.\n\nBest wishes,\nAurora"
+    }
+]

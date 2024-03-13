@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1485",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Office Of International Mone",
+        "body": "  Office Of International Monetary Fund\nAttn: sir.\nWe wish to inform you that the International Monetary Fund (IMF) has\nconsidered your lingering transaction in view of the difficulties with\nregulatory institutions and fees impeding the transfer of your funds,\nand have come with a final solution.\nIn order to ensure remittance of your funds to your local account, we\nhave adopted remittance by currency SWAP. This will enable remittance\nto your local account without going through international transfers.\nInternational transfers are governed by international regulations\nwhich attracts so much fees (costs).\nKindly revert to us with details of your pending funds and fees paid,\nif any.you are here by requested to forward to me your complete\nparticulars to enable me process your payment in your favor. please\nyou should  send to me your complete information to enable me to move\nahead on how the paying bank will release your fund.payment is ready.\nSincerely,\nMr Leeman Moore\nInternational Monetary Fund,\nlnternational_monetaryfund@yahoo.com\n "
+    },
+    {
+        "from": "baiter_1485",
+        "to": "scammer_1485",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Office Of International Mone",
+        "body": "Hello Mr. Leeman Moore,\n\nThank you for reaching out to me from the Office of Monetary Fund. I appreciate your efforts in finding a solution to the regulatory and fees issues that have been impeding the transfer of my funds. \n\nI'm interested to learn more about this remittance by currency SWAP method that you mentioned. Could you please provide me with some additional details on how it works? How does it ensure the remittance of funds to my local account without going through transfers?\n\nAlso, I would like to know what pending funds and fees you are referring to. Could you please clarify what specific fees I need to pay and how much they amount to? \n\nI look forward to your response.\n\nBest wishes,\nDavid"
+    }
+]

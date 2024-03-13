@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2179",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hi,",
+        "body": "Hi,\nI am Regina Thompson from the victim services division of the FBI.\nThe FBI is actively combating cybercrime and related vices around the world in collaboration with other international cyber security authorities. Our highly developed data server plug-ins enabled us to link with banks, social media platforms, and every internationally visited website. It is for this reason that we are writing to inform you that your information has just been added to the list of those impacted by these cybercrimes and its related vices, which merely means that you and all other victims are entitled to compensation.\nYour response to this email will be greatly appreciated, as will your cooperation in preventing cybercrime.\nRegards,\nRegina Thompson\nAsst. Dir., Victim Services Division\nFederal Bureau of Investigation (FBI)"
+    },
+    {
+        "from": "baiter_2179",
+        "to": "scammer_2179",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hi,",
+        "body": "Hi Regina,\n\nWow, that sounds really serious! I'm surprised to hear that I've been impacted by these cybercrimes. Can you tell me more about what exactly happened? How was my name added to this list?\n\nI'm eager to help in any way I can, but I'm not sure what you need from me. Could you please provide more details on how I can assist in preventing these vices?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nMegan"
+    }
+]

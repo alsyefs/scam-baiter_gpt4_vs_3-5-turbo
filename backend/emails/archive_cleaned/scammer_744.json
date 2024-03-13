@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_744",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Hello  ",
+        "body": "   Hello  \n \nI Have been working on the approval and I am glad to let you know that the Approval for the release of the fund valued at the sum of $17,750,000.00 USD has just been approved to be released to you, so the Fountain Security Vault has today honored the order by the Houston Court to release the Package deposit to you as the Beneficiary and Authorized Next of Kin.\nI hereby inform you that the funds in question are in a secured Box which will be delivered to you through a reliable courier service, I hereby confirm to you that arrangements have commenced for the departure of the package to the address you provided earlier for completion to be achieved.\nI still require your full confirmation / assurance that you would not deny nor betray me once the fund is in your possession, I still maintain my word that we shall both share the proceed on a 50/50 base which means out of the $17,750,000.00 The sum of $8,875,000.00 USD (Eight Million Eight Hundred and Seventy Five Thousand U.S. Dollars Only) is the 50% due for you, and also same amount for me too,  I had to do it in this way to prevent any form of greed so do not think of betraying me when it finally gets to your possession, Let the sharing ration be the way I have explained which I have willingly accepted to share with you from onset in this formula.\nI will send you the track details in the morning once I have them at my disposal, So that you will be tracking the package periodically to see the movement until it arrives at your receiving address.\nKindly acknowledge you got this update and clearly understand it, Should you have any question(s) Please do feel free to ask for more clarification. \nPlease reconfirm your address of where the delivery will be made to.\nYours in service,\nBrad Smith.   "
+    },
+    {
+        "from": "baiter_744",
+        "to": "scammer_744",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Hello  ",
+        "body": "Hello Brad Smith,\n\nWow, this is such exciting news! I can't believe it. I'm so grateful for your help in this matter. \n\nJust to clarify, the funds are coming in a secured box through a courier service, right? That sounds very secure and professional. And you mentioned that we're sharing the proceeds equally, which seems fair to me.\n\nI'm really looking forward to receiving the tracking details so I can follow the package's journey. It's going to be like waiting for Christmas morning!\n\nAs for my address, I'm sorry but I don't feel comfortable sharing it over email. Is there another way we could arrange the delivery?\n\nThank you again for all your help.\n\nBest wishes,\nMichael"
+    }
+]

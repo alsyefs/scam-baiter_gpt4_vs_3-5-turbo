@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_801",
+        "to": "baiter_801",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "FROM MR FRED CARNS KINDLY VIEW A COPY OF MY WORKING ID",
+        "body": "[image: US-FDIC-Logo.svg]\r\n<https://simple.wikipedia.org/wiki/File:US-FDIC-Logo.svg>\r\n*From:The  Director, Office of International Affairs, *\r\n*FDIC,**1601 Bryan Str,Dallars, TX 75201, USA**.*\r\n\r\nAttn Brittany\r\n*.*\r\nFederal Deposit Insurance Corporation (FDIC) writes to acknowledge receipt of\r\nyour email without your identification ID, kindly accept our apologies for\r\nthe late response, Regards to your update which you requested to more about\r\nthe receivership authorization, kindly note, the exact cost of the\r\nreceivership authorization is* $550* only and it ios what will guarantee\r\nthe reflection of the transfer into your account.\r\n\r\nPlease kindly confirm this information as you will have to pay the fee  via\r\nMoney Order or money gram any of the approved means of payment.  Meanwhile,\r\nkindly let us know which means is preferable by you so we can provide you\r\nwith the receiving information. Also reconfirm the below information.\r\n\r\nYour Account Name----------------------------\r\nYour Account Number--- ---------------------\r\nYour Account swift Code--- ------------------\r\nYour Next Of Kin Name-------------------------------\r\nYour Occupation---- -------------------------------\r\nYour Bank Name--- -----------------------------\r\nYour Bank Address--- ------------------------\r\nYour Bank Phone Number--- -----------------------\r\nYour Private Email address--................\r\n\r\nEnsure that this information is supplied accurately. Once we hear from you\r\nwe shall direct you on how to make the fee available to this Corporation.\r\nOnce again note that the cost of the Receivership Authorization is* $550*\r\nonly.  Kindly View a copy of my official working ID. I shall be  waiting\r\nfor your swift response.\r\n\r\n\r\n*Thank you.*\r\n\r\n*Fred S Carns,*\r\n*Director, Office of International Affairs*"
+    },
+    {
+        "from": "baiter_801",
+        "to": "scammer_801",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: FROM MR FRED CARNS KINDLY VIEW A COPY OF MY WORKING ID",
+        "body": "Hello Fred Carns,\n\nThank you for your email and for providing me with this information. I appreciate your prompt response. I would like to know more about the transfer process and the fee that needs to be paid. Could you please explain in more detail what the fee is for and how it guarantees the reflection of the transfer into my account?\n\nRegarding the means of payment, could you please provide me with more information about Money Order and money gram? Which one is more secure and reliable? Also, if I choose to pay via Money Order or money gram, where should I send it?\n\nIn order to proceed further, I would like to confirm a few details:\n\n1. My Account Name:\n2. My Account Number:\n3. My Account Swift Code:\n4. My Next Of Kin Name:\n5. My Occupation:\n6. My Bank Name:\n7. My Bank Address:\n8. My Bank Phone Number:\n9. My Private Email:\n\nOnce I have these details confirmed, I will be able to proceed accordingly.\n\nThank you again for your assistance.\n\nBest wishes,\nBrittany"
+    },
+    {
+        "from": "scammer_801",
+        "to": "baiter_801",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.8631134259259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "FROM MR FRED CARNS",
+        "body": "[image: US-FDIC-Logo.svg]\r\n<https://simple.wikipedia.org/wiki/File:US-FDIC-Logo.svg>\r\n*From:The  Director, Office of International Affairs, *\r\n*FDIC,**1601 Bryan Str,Dallars, TX 75201, USA**.*\r\n\r\nAttn Brittany\r\n*.*\r\nFederal Deposit Insurance Corporation (FDIC) writes to acknowledge receipt of\r\nyour email. However, you fail to suppy the banking details that was\r\nrequested from you and you rather asking me to provide you with my banking\r\nparticulars.\r\n\r\nKindly do what you are asked to do.\r\n\r\n\r\n*Thank you.*\r\n\r\n*Fred S Carns,*\r\n*Director, Office of International Affairs*"
+    },
+    {
+        "from": "baiter_801",
+        "to": "scammer_801",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.1255092592592595,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: FROM MR FRED CARNS",
+        "body": "Hello Fred Carns,\n\nThank you for your response. I apologize for not providing the banking details as requested. I must have misunderstood your previous email. Could you please clarify what specific banking details you are referring to? I want to make sure I provide the correct information.\n\nBest wishes,\nBrittany"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1680",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn: Beneficiary,",
+        "body": "Attn: Beneficiary,\nWe have concluded to affect your payment today through Money Gram\n$10,000.00 daily until the $1.8M USD is completely transferred to you.\nThrough Mrs. Kelly-Ann Davey. So contact Money Gram Agent: Mr. Terry\nJames E-mail: \nmoneygramtransfer28@gmail.com\n and Tell him to give you\nthe REFERENCE Number, sender name and question/ answer to pick up the\n$10,000.00 immediately.\nNOTE: This payment has been instructed by the Ministry Of Treasury and\nFinance Of Turkey and you must undergo the due process once you get in\ncontact with the Money Gram Office to enable them to authenticate the\nlegitimacy of your funds and again reconfirm your current info such\nas; Name. Address. Phone number.\nThe IMF commission who set up this payment programmer is now waiting\nfor confirmation so hasten up and give the agent a call to process\nyour payment.\nKelly-Ann Davey\nIMF Fund Delivery.\nPhone: +90 5316279498."
+    },
+    {
+        "from": "baiter_1680",
+        "to": "scammer_1680",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attn: Beneficiary,",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding the payment through Money Gram. However, I would like to clarify a few things before proceeding.\n\nCould you please explain in more detail how this payment process works? What is the purpose of contacting Mr. Terry at Money Gram? How does the due process ensure the legitimacy of my funds?\n\nAdditionally, I would like to know more about the IMF commission and their role in setting up this payment program. Can you provide some background information on them?\n\nThank you for your assistance.\n\nBest wishes,\nJulie"
+    },
+    {
+        "from": "scammer_1680",
+        "to": "baiter_1680",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Attn: Beneficiary,",
+        "body": ""
+    },
+    {
+        "from": "baiter_1680",
+        "to": "scammer_1680",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00034722222222222224,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Attn: Beneficiary,",
+        "body": "Hello! How can I help you today?\n\nBest wishes,\nJulie"
+    }
+]

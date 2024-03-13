@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_4",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Standard Trust Bank ltd",
+        "body": "  Standard Trust Bank ltd\nPrivate Banking  \noffering retail and wholesale\nbanking services\nHead Office: Plot 1662 Oyin Jolayemi St,\nPMB 1662,  Victoria Island, Lagos,\nLagos State, Nigeria\nDirect Tel: + +234-53557352\nWhatsapp:+ +234-53557352\nPhone: +234 1 2620362\nFax: +234 1 2620371\nEmail: \nmspff.stndardtrustbank@gmail.com\n/www.standardtrust.com\nRef: STB.00/XX-16/A1\nGood Morning Sir \n                                                                                       CHANGE OF ACCOUNT\nAs regards the mandate of Senate committee on inheritance payment and confirmation of payment schedule on face value of us$17.5m, Confirm if you authorise Dr wahab Haruna chief medical director of St Thomas Cancer Centre to have claim of this money  us$17.5m, Because we petition Fbi and the authority this morning regarding this development, inturn we were informed to contact you if you indeed transfer ownership of your inheritance payment to Dr Waharab Haruna of St thomas cancer centre\nPlease, reconfirm your bank account as we are not certain with this bank account below submitted on your behalf here, Be informed that there are several accounts submitted for your payment by your local representatives recently to the International Transfer Director, We do not know into which account to effect your payment\nPlease, you are hereby required to clarify the followings immediately: -\n1. Did you broker your fund to Wahab Haruna chief medical director St Thomas cancer centre to claim and receive the payment on your behalf?\n2. Did you sign any “Deed of Assignment” in his favor, thereby making him the current beneficiary with the following account details?\nBank of America\nAccount number #334051107795;\nRounti number is:  061000052\nSwift code.BOFAU3N\nAccount  name. Dr Wahab Ahmed Haruna  \n3. You are required as a matter of urgency to confirm the legitimacy of the above claim by calling on this whatapp number  +234-53557352  or Send an instant email via \nmspff.stndardtrustbank@gmail.com\n, give us the reason why you decided to effect the above Change of Account. If you are not aware of this claim, please confirm to us immediately by stating your authentic Account details or mode of remittance, with your direct telephone number that is working you can pick when called not in answering device.\nDue to the long delay this payment has suffered a setback, be rest assured that immediately these payment irregularities are cleared, you would receive your fund remittance analysis for clearance of funds into your account. Note that we are bound to recognize Dr Wahab Haruna's claim, if you fail to promptly respond to this inquiry following the Deed of Assignment he submitted to claim this payment. Make sure you get back to this office as soon as possible so that the necessary action will be taken immediately\nregards\nMike Spiff\nDirector foreign operations\nStandard Trust Bank Plc\ntel/whatapp\" +234-53557352  "
+    },
+    {
+        "from": "baiter_4",
+        "to": "scammer_4",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Standard Trust Bank ltd",
+        "body": "Good Morning Mike Spiff,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I don't recall authorizing Dr. Wahab Haruna or anyone else to claim any money on my behalf. \n\nI'm not sure how my name got mixed up in all of this, but I appreciate your diligence in confirming the details before proceeding with any transactions.\n\nAs for the bank account details you mentioned, they certainly don't belong to me. I have never had an account with Bank of erica and I don't know Dr. Wahab Ahmed Haruna personally.\n\nCould you please provide more information about this Senate committee on payment and the payment schedule? Also, could you explain what exactly is meant by \"brokering\" my fund?\n\nI look forward to your response.\n\nBest wishes,\nMayra"
+    },
+    {
+        "from": "scammer_4",
+        "to": "baiter_4",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Standard Trust Bank ltd",
+        "body": "i dont you you\r\n\r\nmrs brenda\r\nnurse to lizzy"
+    },
+    {
+        "from": "baiter_4",
+        "to": "scammer_4",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00034722222222222224,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Standard Trust Bank ltd",
+        "body": "Hello Mrs. Brenda, \n\nIt's nice to meet you! I hope Lizzy is doing well. As her nurse, you must have a lot of interesting stories to share about your experiences in the medical field. Could you tell me more about what it's like to be a nurse?\n\nBest wishes,\nMayra"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_521",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Wayne wrote:",
+        "body": "Wayne wrote:\nScammer's email address.:\t\ninfo@diamondatankllc.com\nContent of the email.:\tDear ,\nWe have storage tanks with a capacity of over 5 Millions barrels of\nrefined products. We can accommodate Gasoline Oil (EN590), D6 Virgin\nFuel Oil and Jet Fuel products in our storage.\nWe have storage tank spaces at Houston, Fujairah & Rotterdam ports. Tank\nlocations with GPS Coordinates are only made known to Lessee management,\nupon having storage agreement signed and tank reservation space booked.\nVisit us: http:/ /www.diamondatankllc.com\nBelow daily rental prices and leasing terms:\n1 Million barrels……. 35,000.00 USD per day\n2 Million barrels…….50,000.00 USD per day\n100 Million gallons of D6 virgin fuel……… 35,000.00 USD per day\n200 Million gallons of D6 virgin fuel……… 55,000.00 USD per day\nEN590 (50,000 MT)………. 30,000.00 USD per day\nEN590 (100,000 MT)……… 50,000.00 USD per day\n*Tank Storage Procurement Procedures:*\n1. Lessee issue Letter Of Intent LOI with company details, indicating\ntypes of product and quantity.\n2. Tank storage company issue storage contract (TSA) to lessee.\n3. Lessee sign seal the storage contract and send back to Storage\nCompany for acceptance.\n4. Upon receipt of signed storage contract by the Lessee, Storage\nCompany issues payment invoice for the procurement of the storage tanks\nspace. The storage tanks are put in reserve for 5 working days. If the\ninvoice is not paid on time, after 5 working days the storage tanks are\nwithdrawn from the reserve and re-entered into free space.\n5. Upon payment, the Lessee sends the payment receipt to the storage\ncompany for confirmation with their bank.\n6. Upon confirmation of the Lessees payment for procurement of the\nstorage tank. The storage company issues the valid Tank Storage Receipt\n(TSR) consisting of the tank numbers & GPS coordinates locations.\n7. Subsequently the Lessee informs the storage company with the\nEstimated Time of Arrival (ETA) of their products.\n8. Upon confirmation of the ETA of Lessees product, Storage Company\nreverts with Notice Of Readiness (NOR) to receive the products. Loading\nand discharging commences accordingly.\nN.B: Payment done for tank reservation by the Lessee are 100%\nrefundable. Upon request notice by the Lessee decision not making use of\nthe reserved tank space again. With this done, the earlier issued TSR\nwould be automatically cancelled and void.\nBest Regards,\nMr. David Phillipson\nManager (Storage)\n+1-432-268-8837 WhatsApp\nOn Behalf of DIAMOND A TANK LLC"
+    },
+    {
+        "from": "baiter_521",
+        "to": "scammer_521",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Wayne wrote:",
+        "body": "Hello Mr. David Phillipson,\n\nThank you for your detailed email about the storage tanks and their capacities. It's quite impressive to know that you have such large storage facilities at Houston, Fujairah, and Rotterdam ports.\n\nI'm curious about the process you've outlined. Could you please elaborate on what exactly a Letter Of Intent (LOI) should include? Also, could you provide more information about the Tank Storage Agreement (TSA)? What are its terms and conditions?\n\nAdditionally, I'd like to understand more about the payment process. You mentioned that upon receipt of a signed storage contract by the Lessee, an invoice is issued for reserving the storage tank space. How is this payment made? Is there a specific method or platform that needs to be used?\n\nLastly, I'm interested in knowing more about the cancellation policy. If a Lessee decides not to use the reserved tank space again, how does this process work? Are there any penalties or fees associated with it?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJeanne"
+    }
+]

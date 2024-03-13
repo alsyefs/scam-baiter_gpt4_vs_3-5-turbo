@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_715",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Federal Reserve Bank of New Yo",
+        "body": "Federal Reserve Bank of New York\n33 Liberty Street\nNew York, NY 10045\n06/03/2024\n \n \nDear xxx\n \nThis is to inform you that we have finally received instructions from the Department of Treasury to release your long awaited  compensation/Inheritance payment via ATM Card . This payment from our investigation we discovered you have been trying to receive the payment till this very important and now the good news is your payment is re-approved for your payment \nNote:  From the record in my file, the total amount approved for your payment  is $3.7M. However, we  received a notice of Change of Account from your representative Mr. Julius Fletcher yesterday. In respect to the account received from him, we wish to confirm with you before we proceed with the transfer of your contract fund to the new account he provided.\n \nKindly confirm the below new bank account as valid and endorsed by you for the transfer of your unpaid contract fund.\n \nBank; Bank of America\nAddress; 690 Adams Street Quincy Ma 02169 USA\nA/C Number: 4666 0133 5222\nRouting Number: 011000138\nSwift Code: BOFAUS3N\nA\\C Name: Julius Fletcher\n \nThe transfer will take place immediately you confirm the authenticity of this submitted account to be correct as provided by Mr. Julius Fletcher. I demand an urgent response from you to enable us to proceed with the transfer.\n \nBest Regards,\nElizabeth Doe \nDirector, Payment Unit"
+    },
+    {
+        "from": "baiter_715",
+        "to": "scammer_715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Federal Reserve Bank of New Yo",
+        "body": "Hello,\n\nThank you for sharing this information with me. I appreciate the update regarding the release of the payment via ATM card. Could you please provide more details about the process for receiving the payment and how I can ensure a smooth transfer to my bank account?\n\nLooking forward to your response.\n\nBest wishes,\nBetty"
+    }
+]

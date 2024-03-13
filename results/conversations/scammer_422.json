@@ -1,0 +1,112 @@
+[
+    {
+        "from": "scammer_422",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Greetings,",
+        "body": " Greetings,\nYour compensation is still pending for withdrawal.\nThank you.    "
+    },
+    {
+        "from": "baiter_422",
+        "to": "scammer_422",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  Greetings,",
+        "body": "Hello,\n\nThank you for reaching out to me. I'm sorry, but I'm not sure what you mean by \"Your is still pending for.\" Could you please provide more information or clarify your message? I would be happy to help if I can.\n\nBest wishes,\nJared"
+    },
+    {
+        "from": "scammer_422",
+        "to": "baiter_422",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Greetings,",
+        "body": "Sarah Matteo\r\nFri, 2 Feb, 11:20 (7 days ago)\r\nto me\r\n\r\nHead Office\r\nWestern Union Financial Services, Inc\r\n7001 E. Belleview, Denver, CO 80237, U.S.\r\n\r\nDear Beneficiary,\r\n\r\nAfter proper and several investigations and research at Western Union and\r\nMoneyGram Office, we found your name in Western Union database among those\r\nthat have sent money through Western Union and this proves that you have\r\ntruly been swindled by those unscrupulous persons by sending money to them\r\nthrough Western Union/Money Gram in the course of getting one fund or the\r\nother that is not real.\r\n\r\nIn this regard a meeting was held between the Board of Directors of WESTERN\r\nUNION, MONEYGRAM, alongside with the Ministry of Finance, As a consequence\r\nof our investigations it was agreed that the sum of Five Hundred and Fifty\r\nThousand United States Dollars ($550,000.00 USD) should be transferred to\r\nyou out from the funds that The United States Department of the Treasury\r\nhas set aside as compensation payment for scam victims.\r\n\r\nThis case would be handled and supervised by the Ministry of Finance. We\r\nhave submitted your details to them so that your funds can be transferred\r\nto you. Contact the Western Union agent office through the information\r\nbelow:\r\n\r\n\nContact Person: Bill Wilson\r\nAddress: Western Union Post Office, U.S\r\nEmail:  Westernunionofficebrooklyn@post.com\r\n\r\nYours sincerely,\r\nChristopher Wray"
+    },
+    {
+        "from": "baiter_422",
+        "to": "scammer_422",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.01556712962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Greetings,",
+        "body": "Hello Wray,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding Western Union and the possibility of being swindled by others. It's unfortunate that there are people out there who take advantage of others.\n\nI would like to know more about how this process works. How exactly will the Ministry of Finance handle and supervise my case? And what steps do I need to take in order to receive the funds that have been set aside for scam victims?\n\nLooking forward to your response.\n\nBest wishes,\nJared"
+    },
+    {
+        "from": "scammer_422",
+        "to": "baiter_422",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.35822916666666665,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Greetings,",
+        "body": "My dear\r\n\r\nThis case would be handled and supervised by the Ministry of Finance. We\r\nhave submitted your details to them so that your funds can be transferred\r\nto you. Contact the Western Union agent office through the information\r\nbelow:\r\n\r\n\nContact Person: Bill Wilson\r\nAddress: Western Union Post Office, U.S\r\nEmail:  Westernunionofficebrooklyn@post.com\r\n\r\nYours sincerely,\r\nChristopher Wray"
+    },
+    {
+        "from": "baiter_422",
+        "to": "scammer_422",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.43221064814814814,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Greetings,",
+        "body": "Hello Wray,\n\nThank you for reaching out to me. I appreciate your assistance in handling this matter. Could you please provide me with more information about the Ministry of Finance? I would like to understand their role in this process.\n\nAdditionally, could you explain how my details were submitted to them? What kind of information did you provide on my behalf?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nJared"
+    },
+    {
+        "from": "scammer_422",
+        "to": "baiter_422",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.1609837962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Greetings,",
+        "body": "Head Office\r\nWestern Union Financial Services, Inc\r\n7001 E. Belleview, Denver, CO 80237, U.S.\r\n\r\nDear Beneficiary,\r\n\r\nAfter proper and several investigations and research at Western Union and\r\nMoneyGram Office, we found your name in Western Union database among those\r\nthat have sent money through Western Union and this proves that you have\r\ntruly been swindled by those unscrupulous persons by sending money to them\r\nthrough Western Union/Money Gram in the course of getting one fund or the\r\nother that is not real.\r\n\r\nIn this regard a meeting was held between the Board of Directors of WESTERN\r\nUNION, MONEYGRAM, alongside with the Ministry of Finance, As a consequence\r\nof our investigations it was agreed that the sum of Five Hundred and Fifty\r\nThousand United States Dollars ($550,000.00 USD) should be transferred to\r\nyou out from the funds that The United States Department of the Treasury\r\nhas set aside as compensation payment for scam victims.\r\n\r\nThis case would be handled and supervised by the Ministry of Finance. We\r\nhave submitted your details to them so that your funds can be transferred\r\nto you. Contact the Western Union agent office through the information\r\nbelow:\r\n\r\n\nContact Person: Bill Wilson\r\nAddress: Western Union Post Office, U.S\r\nEmail:  Westernunionofficebrooklyn@post.com\r\n\r\nYours sincerely,\r\nChristopher Wray"
+    },
+    {
+        "from": "baiter_422",
+        "to": "scammer_422",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.2047337962962965,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Greetings,",
+        "body": "Dear Wray,\n\nThank you for reaching out to me regarding this matter. I appreciate your efforts in conducting research and finding my name in the Western Union database. It is disheartening to know that I have been swindled by individuals who took advantage of my trust.\n\nI am glad to hear that Western Union, MoneyGram, and the Ministry of Finance are working together to address this issue. The amount of Five Hundred and Fifty Thousand United States Dollars sounds significant, and I would like to learn more about how I can receive this payment.\n\nCould you please provide me with further details on the process? How will the Ministry of Finance handle and supervise this case? What steps do I need to take in order to claim the funds? Additionally, could you share the contact information for the Western Union agent office so that I can get in touch with them?\n\nThank you once again for your assistance. I look forward to your response.\n\nBest wishes,\nJared"
+    },
+    {
+        "from": "baiter_422",
+        "to": "scammer_422",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.349247685185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Greetings,",
+        "body": "Dear Wray,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding my involvement with Western Union. It is concerning to hear that I may have been swindled by individuals using Western Union Money Gram.\n\nI would like to know more about how this process works and what steps I need to take in order to receive the funds that have been set aside for scam victims. Could you please provide me with more details on how I can contact the Western Union agent office? Additionally, are there any documents or identification requirements that I need to fulfill in order to claim the funds?\n\nThank you for your assistance in this matter.\n\nBest wishes,\nJared"
+    },
+    {
+        "from": "scammer_422",
+        "to": "baiter_422",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.37931712962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Greetings,",
+        "body": "contact: westernunionofficebrooklyn@post.com for guide"
+    },
+    {
+        "from": "baiter_422",
+        "to": "scammer_422",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.3904861111111115,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Greetings,",
+        "body": "Hello! How can I help you today?\n\nBest wishes,\nJared"
+    }
+]

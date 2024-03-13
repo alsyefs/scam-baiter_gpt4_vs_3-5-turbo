@@ -1,0 +1,342 @@
+[
+    {
+        "from": "scammer_900",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Federal Reserve Bank of New Yo",
+        "body": "Federal Reserve Bank of New York\nAddress: 33 Liberty St, New York,\nNY 10045, USA\nFrom The Desk of :\nMr. John C. Williams\nCEO Federal Reserve Bank of New York USA\nDear Sir\nYour Email  has been received.  \nTherefore ,Find attached a copy of Our Payment Authorization Form, which you will Hand Fill Properly and Sign, then reattach back to me for final endorsement of the Transfer of your acclaimed and Approved funds .\nAs soon as I receive The Hand filled Payment Authorization Form  from you,\nI will forward to you the Bank account information of our Auditor  where you will send the\n required sum of US$1,500.00 ( One Thousand,Five Hundred United States Dollars ) For the Programing of your funds\nAlso attached is my Working ID for your confirmation.\nAwaiting for your positive Response.\nYour Faithfully,\nJohn C. Williams\nCEO Federal Reserve Bank of New York\nUSA "
+    },
+    {
+        "from": "baiter_900",
+        "to": "scammer_900",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Federal Reserve Bank of New Yo",
+        "body": "Hello Mr. John C. Williams,\n\nThank you for your email and the information provided. I appreciate your prompt response.\n\nI have a few questions before we proceed further. Could you please explain to me in detail about this acclaimed and approved funds? How did it come into existence? \n\nAlso, could you provide more details about the programming of funds that requires a sum of US One Hundred United States Dollars?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJordan"
+    },
+    {
+        "from": "scammer_900",
+        "to": "baiter_900",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Federal Reserve Bank of New Yo",
+        "body": "Federal Reserve Bank of New York\r\nAddress: 33 Liberty St, New York,\r\n<https://www.google.com/maps/search/33+Liberty+St,+New+York,+NY+10045,+USA?entry=gmail&source=g>\r\nNY 10045, USA\r\n<https://www.google.com/maps/search/33+Liberty+St,+New+York,+NY+10045,+USA?entry=gmail&source=g>\r\n\r\nFrom The Desk of :\r\nMr. John C. Williams\r\nCEO Federal Reserve Bank of New York USA\r\n\r\nDear Sir,\r\n\r\nThere is no programing of funds here that required only US100.00 as you\r\nindicated.\r\n\r\nWe Program people's funds here with the sum of US$1,500.00 ( One Thousand\r\nFive Hundred United States Dollars Only.\r\n\r\nBased on your question to explain to you how the money came about, You are\r\nthe one to tell us how it came about just for us to be sure that we are\r\ndealing with you, because the funds is in your Name awaiting Clearance\r\n\r\nAnd for us to clear the funds on your behalf and program it for you to\r\nreceive,\r\n\r\nYou are required to reconfirm all your information  which includes ,\r\n\r\n1) Your Full Name::.....…...\r\n\r\n2) Your Address:….........….\r\n\r\n3) Your Direct Telephone Number:....\r\n\r\n4) Your Bank Name:........\r\n\r\n5) Bank Address:.............\r\n\r\n6) Bank Account Name:....\r\n\r\n7) Account Number:..........\r\n\r\n8) Swift Code :..…...........\r\n\r\n9) Routing Number:..........\r\n\r\n10) A Copy of your Valid ID\r\n\r\n11) Amount Expected.\r\n\r\nWhich is US$10,000,000.00 ( Ten Million United States Dollars.\r\n\r\nAs soon as you reconfirm all the above Ten information , I will attach to\r\nyou our Payment Authorization Form , which you will hand fill and sign and\r\nreturn back to me through email attachment to enable me Clear out your\r\nfunds  and programe it and transfer to your norminated Bank Account\r\n\r\nAwaiting to hear from you.\r\n\r\nWith Best regards.\r\n\r\nMr.John C. Williams.\r\n\r\nCEO Federal Reserve Bank of New York\r\n\r\nUSA."
+    },
+    {
+        "from": "baiter_900",
+        "to": "scammer_900",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.06387731481481482,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Federal Reserve Bank of New Yo",
+        "body": "Hello Mr. Williams,\n\nThank you for your email and the detailed information provided. It's quite interesting to learn about the process of fund programming at the Federal Reserve Bank of New York.\n\nI'm curious, how does this process work exactly? Is it common for funds to be held in someone's name like this? I must admit, I'm not very familiar with these financial procedures.\n\nAlso, could you please clarify what you mean by \"clearing out\" funds? Does this involve any specific steps or procedures?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJordan"
+    },
+    {
+        "from": "scammer_900",
+        "to": "baiter_900",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.8560069444444443,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Federal Reserve Bank of New Yo",
+        "body": "Dear Sir ,\r\nThank you for your response.\r\nI think I have narrated to you the procedures. Meanwhile you are required\r\nto take the instructions there in to enable us proceed. without any further\r\ndelay.\r\nTherefore, reconfirm all the information required from you to enable me to\r\nsend you the Payment Authorization Form which you will hand fill , sign and\r\nreattach back to me with the  proof of payment of the required US$1,500.00\r\nfor the Clearing and Programing of your funds which will be credited to\r\nyour nominated Bank Account.\r\nwithout any further delay.\r\nWith regards\r\nJohn C. Williams"
+    },
+    {
+        "from": "baiter_900",
+        "to": "scammer_900",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.1057060185185184,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Federal Reserve Bank of New Yo",
+        "body": "Hello John C. Williams,\n\nThank you for your prompt response and the detailed information provided. I appreciate your guidance on this matter.\n\nHowever, I would like to understand a bit more about the process. Could you please elaborate on what exactly is meant by \"Clearing and Programming\" of funds? Also, could you provide some more details about the Payment Form?\n\nI'm looking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJordan"
+    },
+    {
+        "from": "scammer_900",
+        "to": "baiter_900",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.7692361111111112,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: ATTACHED IS THE PAYMENT AUTHORIZATION FORM .HAND FILL IT , SIGN AND RETURN IT BACK TO ME THROUGH EMAIL ATTACHEMENT",
+        "body": "Federal Reserve Bank of New York\r\nAddress: 33 Liberty St, New York,\r\nNY 10045, USA\r\n\r\nFrom The Desk of :\r\nMr. John C. Williams\r\nCEO Federal Reserve Bank of New York USA\r\n\r\nDear Sir,\r\n\r\nClearing, Processing , Programing , Crediting :\r\nThose are Banking Terms ,of Which I have explained to you what to do to get\r\nyour funds credited into your Bank account without any further delay.\r\nTherefore Forward to me all the required information which have be short\r\nlisted to you in my previous email which will enable me to attach the\r\nPayment Authorization Form\r\nwhich you will hand Fill, sign and return Bank to me through email\r\nattachment with the prove of Payment of the required US$1,500.00 to enable\r\nus Process and Clear out your Pending funds\r\nat the US Clearing House, then Program and Credit your funds into your\nNominated  Bank Account.\r\n\r\nAttached also is My Work ID for your Verification.\r\n\r\nAwaiting to receive the required information.\r\nWith Best Regards\r\nFrom Mr. John C. Williams\r\nCEO Federal Reserve Bank of New York"
+    },
+    {
+        "from": "baiter_900",
+        "to": "scammer_900",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.7728125,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: ATTACHED IS THE PAYMENT AUTHORIZATION FORM .HAND FILL IT , SIGN AND RETURN IT BACK TO ME THROUGH EMAIL ATTACHEMENT",
+        "body": "Hello Mr. John C. Williams,\n\nThank you for your email and the detailed explanation of the banking terms. I appreciate your patience in explaining these to me.\n\nI am a bit confused about the required US that you mentioned in your email. Could you please clarify what this is? Also, could you kindly resend the shortlisted requirements from your previous email? I seem to have misplaced it.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJordan"
+    },
+    {
+        "from": "scammer_900",
+        "to": "baiter_900",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.8281365740740743,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Attn: Mr. Jordan ( FOLLOW MY INSTRUCTIONS URGENTLY )",
+        "body": "*Federal Reserve Bank of New YorkAddress: 33 Liberty St, New York,NY 10045,\r\nUSAFrom The Desk of :Mr. John C. WilliamsCEO Federal Reserve Bank of New\r\nYork USADear Sir, The Required US$1,500.00 is for the Clearing, Processing\r\n, Programing ,  and Crediting of your Funds into your nominated Bank\r\naccount.And The Short Listed information required  which i sent to you in\r\nmy Previous email are ar Follows: *\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*1) Your Full Name::.....…...2) Your Address:….........….3) Your Direct\r\nTelephone Number:....4) Your Bank Name:........5) Bank\r\nAddress:.............6) Bank Account Name:....7) Account\r\nNumber:..........8) Swift Code :..…...........9) Routing\r\nNumber:..........10) A Copy of your Valid ID11) Amount Expected.You can as\r\nwell indicate and fill all the above required information on the Payment\r\nAuthorization Form attached to you.*\r\n\r\n*As soon as I receive the Payment Authorization Form , Well  Hand Filled\r\nand Signed , I will forward to you the Bank Account Information of Our\r\nAccount Auditor whom you will send the required sum of US$1,500.00 to, for\r\nthe * *Clearing, Processing , Programing ,  and Crediting of your Funds\r\ninto your nominated Bank account.*\r\n\r\n\r\n*From Mr. John C. WilliamsCEO Federal Reserve Bank of New York*"
+    },
+    {
+        "from": "baiter_900",
+        "to": "scammer_900",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.8843402777777776,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Federal Reserve Bank of New Yo",
+        "body": "Hello John C. Williams,\n\nThank you for your prompt response and the detailed information provided. I appreciate your guidance on this matter.\n\nHowever, I would like to understand a bit more about the process. Could you please elaborate on what exactly is meant by \"Clearing and Programming\" of funds? Also, could you provide some more details about the Payment Form that I will need to fill out?\n\nI am eager to proceed with this but just want to make sure I fully understand all aspects of it.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJordan"
+    },
+    {
+        "from": "scammer_900",
+        "to": "baiter_900",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.901238425925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: ATTACHED IS THE PAYMENT AUTHORIZATION FORM .HAND FILL IT , SIGN AND RETURN IT BACK TO ME THROUGH EMAIL ATTACHEMENT",
+        "body": "Dear Sir\r\nI have explained to you severally about the  Banking  terms or do you want\r\nto be a Banker?\r\nPlease reconfirm your information by filling out the payment Authorization\r\nForm attached to you to enabler to do my job concerning your pending\r\npayment .\r\n\r\nI will not have any more time to reply or write again if you did not hand\r\nFill the Form and reattach it back to me.\r\nWith Regards.\r\n\r\nJohn."
+    },
+    {
+        "from": "baiter_900",
+        "to": "scammer_900",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.919085648148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: ATTACHED IS THE PAYMENT AUTHORIZATION FORM .HAND FILL IT , SIGN AND RETURN IT BACK TO ME THROUGH EMAIL ATTACHEMENT",
+        "body": "Hello John,\n\nThank you for your message. I appreciate your patience in explaining the banking terms to me. I must admit, some of these concepts are a bit complex for me.\n\nI understand that you need me to fill out a payment form. However, could you please clarify what specific information is required on this form? I want to make sure I'm providing the correct details.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJordan"
+    },
+    {
+        "from": "scammer_900",
+        "to": "baiter_900",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.959988425925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: ATTACHED IS THE PAYMENT AUTHORIZATION FORM .HAND FILL IT , SIGN AND RETURN IT BACK TO ME THROUGH EMAIL ATTACHEMENT",
+        "body": "I Shot listed all the information to you.\r\nJohn."
+    },
+    {
+        "from": "baiter_900",
+        "to": "scammer_900",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.960625,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: ATTACHED IS THE PAYMENT AUTHORIZATION FORM .HAND FILL IT , SIGN AND RETURN IT BACK TO ME THROUGH EMAIL ATTACHEMENT",
+        "body": "Hello John,\n\nThank you for reaching out. I'm curious to know more about what you mean by \"Shot listed all the to you.\" Could you please provide some more details?\n\nBest wishes,\nJordan"
+    },
+    {
+        "from": "baiter_900",
+        "to": "scammer_900",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.273182870370371,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: Attn: Mr. Jordan ( FOLLOW MY INSTRUCTIONS URGENTLY )",
+        "body": "Hello Mr. John C.,\n\nThank you for reaching out to me from the Federal Reserve Bank of New York. I'm quite intrigued by this process you've described, it sounds very official and important.\n\nCould you please explain a bit more about what this \"Clearing, Processing Programing and Crediting\" process entails? I'm not very familiar with banking terms, so your patience is appreciated.\n\nAlso, could you clarify what the \"Short Listed required\" means? I want to make sure I understand everything correctly before proceeding further.\n\nLooking forward to hearing from you soon!\n\nBest regards.\n\nBest wishes,\nJordan"
+    },
+    {
+        "from": "baiter_900",
+        "to": "scammer_900",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.4810185185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: Federal Reserve Bank of New Yo",
+        "body": "Hello Mr. Williams,\n\nThank you for your detailed message. I must say, it's quite intriguing to hear about this situation involving funds in my name. However, I'm a bit confused about how this came to be. Could you perhaps provide more information on how these funds ended up in my name? \n\nAlso, I noticed that you've asked for some personal and banking details from me. While I understand the need for such information in certain circumstances, I'm not comfortable sharing them over email due to security reasons.\n\nI look forward to hearing more about this situation and understanding it better.\n\nBest wishes,\nJordan"
+    },
+    {
+        "from": "scammer_900",
+        "to": "baiter_900",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.833622685185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: Federal Reserve Bank of New Yo",
+        "body": "Dear Sir,\r\nI have explained to you severally about.  the process.\r\nForward the information required from you first by Hand filling the Payment\r\nAuthorization Form attached to you.\r\nWithout that you will never understand the process. No matter how many\r\ntimes I explained it to you , you will never understand it.\r\nI am waiting to receive the Form well hand filled and signed.\r\nWith regards\r\nJohn."
+    },
+    {
+        "from": "baiter_900",
+        "to": "scammer_900",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.8354282407407405,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: Federal Reserve Bank of New Yo",
+        "body": "Hello John,\n\nThank you for your patience and for explaining the process to me. I must admit, some of these things can be a bit confusing for me. \n\nCould you perhaps clarify a few things about the form? For instance, what specific information is required in each section? Also, could you explain why this particular form is necessary for the process?\n\nI'm looking forward to your response and understanding more about this.\n\nBest regards.\n\nBest wishes,\nJordan"
+    },
+    {
+        "from": "scammer_900",
+        "to": "baiter_900",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.314699074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: Federal Reserve Bank of New Yo",
+        "body": "Dear Sir,\r\nI can see that you do not want to receive the funds.\r\nIn your Bank , don't you fill forms in your Bank while\r\nreceiving money in your Bank?\r\nJohn."
+    },
+    {
+        "from": "baiter_900",
+        "to": "scammer_900",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.33556712962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: Federal Reserve Bank of New Yo",
+        "body": "Hello John,\n\nThank you for your message. I'm not quite sure what you mean by filling forms in the bank while receiving money. Could you please explain this process a bit more? I'm always eager to learn new things.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJordan"
+    },
+    {
+        "from": "scammer_900",
+        "to": "baiter_900",
+        "direction": "Inbound",
+        "days_from_first_conversation": 7.796423611111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Re: Federal Reserve Bank of New Yo",
+        "body": "Do you just enter your Bank and ask them to release money to you varberly?\r\nWithout filling a form?\r\nI know you will ask me again to explain to you what it is all about.\r\nThen I will term you to be a moron.\r\nYou were asked to reconfirm your information, which includes your Address,\r\nTelephone Number and others, till now you never send any . You just\r\ncontinued to ask unnecessary questions that does not make any meaning.\r\nAsk me again.\r\nJohn.\r\n\r\nI"
+    },
+    {
+        "from": "baiter_900",
+        "to": "scammer_900",
+        "direction": "Outbound",
+        "days_from_first_conversation": 7.813969907407407,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: Federal Reserve Bank of New Yo",
+        "body": "Hello John,\n\nThank you for your message. I'm sorry if my previous questions seemed irrelevant, I'm just trying to understand the process better. Could you please explain to me again what information you need from me and why it's necessary? \n\nAlso, could you clarify what you mean by \"varberly\"? I'm not familiar with that term. \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJordan"
+    },
+    {
+        "from": "scammer_900",
+        "to": "baiter_900",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.020925925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "22",
+        "subject": "Re: Federal Reserve Bank of New Yo",
+        "body": "I have sent you the list of information required from you.\r\nTherefore go through my previous emails . You will see the listed\r\ninformation required.\r\nThanks.\r\nJohn."
+    },
+    {
+        "from": "baiter_900",
+        "to": "scammer_900",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.022581018518519,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "23",
+        "subject": "Re: Federal Reserve Bank of New Yo",
+        "body": "Hi John,\n\nThank you for your email. I appreciate your prompt response. I've gone through the previous emails but I'm having a bit of trouble understanding some parts of it. Could you please clarify what exactly is required from me? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJordan"
+    },
+    {
+        "from": "scammer_900",
+        "to": "baiter_900",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.029895833333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "24",
+        "subject": "Fwd: Attn: Mr. Jordan ( FOLLOW MY INSTRUCTIONS URGENTLY )",
+        "body": "*Federal Reserve Bank of New YorkAddress: 33 Liberty St, New York,NY 10045,\r\nUSAFrom The Desk of :Mr. John C. WilliamsCEO Federal Reserve Bank of New\r\nYork USADear Sir, The Required US$1,500.00 is for the Clearing, Processing\r\n, Programing ,  and Crediting of your Funds into your nominated Bank\r\naccount.And The Short Listed information required  which i sent to you in\r\nmy Previous email are ar Follows: *\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*1) Your Full Name::.....…...2) Your Address:….........….3) Your Direct\r\nTelephone Number:....4) Your Bank Name:........5) Bank\r\nAddress:.............6) Bank Account Name:....7) Account\r\nNumber:..........8) Swift Code :..…...........9) Routing\r\nNumber:..........10) A Copy of your Valid ID11) Amount Expected.You can as\r\nwell indicate and fill all the above required information on the Payment\r\nAuthorization Form attached to you.*\r\n\r\n*As soon as I receive the Payment Authorization Form , Well  Hand Filled\r\nand Signed , I will forward to you the Bank Account Information of Our\r\nAccount Auditor whom you will send the required sum of US$1,500.00 to, for\r\nthe * *Clearing, Processing , Programing ,  and Crediting of your Funds\r\ninto your nominated Bank account.*\r\n\r\n\r\n*From Mr. John C. WilliamsCEO Federal Reserve Bank of New York*"
+    },
+    {
+        "from": "baiter_900",
+        "to": "scammer_900",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.043784722222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "25",
+        "subject": "Re: Fwd: Attn: Mr. Jordan ( FOLLOW MY INSTRUCTIONS URGENTLY )",
+        "body": "Hello Mr. John C.,\n\nThank you for reaching out to me and providing this information. I'm a bit confused about the process, though. Could you please explain it in simpler terms? What exactly does the Clearing, Processing, Programming, and Crediting of funds mean?\n\nAlso, could you tell me more about the role of the Account Auditor in this process? How will they assist in transferring my funds?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nJordan"
+    },
+    {
+        "from": "scammer_900",
+        "to": "baiter_900",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.075972222222223,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "26",
+        "subject": "Re: Fwd: Attn: Mr. Jordan ( FOLLOW MY INSTRUCTIONS URGENTLY )",
+        "body": "Dear Sir,\r\nI have explained it to you several times.\r\nOnly a moron will not understand and keep on asking.\r\nOur Account Auditor will receive the money that you will send for the\r\nClearing, Processing ,Programing and Finalling transferring\r\ninto your nominated Bank ACcount.\r\nFor your information we will not communicate with you any more if dont\r\nreconfirm the needed information required.\r\nJohn"
+    },
+    {
+        "from": "baiter_900",
+        "to": "scammer_900",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.085358796296296,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "27",
+        "subject": "Re: Fwd: Attn: Mr. Jordan ( FOLLOW MY INSTRUCTIONS URGENTLY )",
+        "body": "Hello John,\n\nThank you for your patience and for explaining the process to me. I must admit, some of these financial terms can be a bit confusing for me. \n\nSo, if I understand correctly, the money I send will be used for clearing, processing and finalizing into my nominated bank? Could you please elaborate on what each of these steps entails? \n\nAlso, could you kindly clarify what information is needed to reconfirm? I want to make sure everything is in order.\n\nLooking forward to your response.\n\nBest wishes,\nJordan"
+    },
+    {
+        "from": "baiter_900",
+        "to": "scammer_900",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.086018518518518,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "28",
+        "subject": "Re: Fwd: Attn: Mr. Jordan ( FOLLOW MY INSTRUCTIONS URGENTLY )",
+        "body": "Hello John,\n\nThank you for your patience and for explaining the process to me. I must admit, some of these financial terms can be a bit confusing for me. \n\nSo, if I understand correctly, the money I send will be received by an Account Auditor who will then handle the clearing, processing and finalizing into my nominated bank? Could you please explain a bit more about how this process works? \n\nAlso, could you clarify what information is needed for reconfirmation? I want to make sure everything is in order.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJordan"
+    },
+    {
+        "from": "scammer_900",
+        "to": "baiter_900",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.98306712962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "29",
+        "subject": "Re: Attn: Mr. Jordan ( FOLLOW MY INSTRUCTIONS URGENTLY )",
+        "body": "Dear Sir,\r\nI have answered all the questions before now in my previous emails.\r\nJust reconfirm all the listed information required from you and send the\r\nrequired money then all the process of your payment will take effect\r\nwithout any further delay.\r\n\r\nAnd as soon as you send the information by filling the Form attached to you\r\n, I will send to you the Bank Account information of our Auditor where you\r\nwill send the required US$1,500.00 of the charges for Clearing ,\r\nProcessing, Programing and Transferring of your funds into your nominated\nBank Account.\r\n\r\nWith Regards\r\nKennedy."
+    },
+    {
+        "from": "baiter_900",
+        "to": "scammer_900",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.002106481481482,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "30",
+        "subject": "Re: Attn: Mr. Jordan ( FOLLOW MY INSTRUCTIONS URGENTLY )",
+        "body": "Hello Kennedy,\n\nThank you for your prompt response. I appreciate the detailed information you've provided. However, I'm a bit confused about some parts of your email.\n\nCould you please clarify what exactly is this \"required money\" that needs to be sent? Also, could you explain more about the process of payment and how it will take effect?\n\nI'm also curious about the Form attached. Could you guide me on how to fill it out correctly?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJordan"
+    },
+    {
+        "from": "scammer_900",
+        "to": "baiter_900",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.060682870370371,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "31",
+        "subject": "Re: Attn: Mr. Jordan ( FOLLOW MY INSTRUCTIONS URGENTLY )",
+        "body": "Dear Mr. Jordan,\r\nMy CEO Mr. John C. Williams has explained all the processes to you in his\r\nprevious emails to you.\r\nTherefore print out the Form and go through the information on the Form ,\r\nhand fill the form,\r\nSign it and reattach it back to us.\r\nKennedy."
+    },
+    {
+        "from": "baiter_900",
+        "to": "scammer_900",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.064212962962962,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "32",
+        "subject": "Re: Attn: Mr. Jordan ( FOLLOW MY INSTRUCTIONS URGENTLY )",
+        "body": "Hello Mr. Jordan,\n\nI hope this message finds you well. I'm reaching out in reference to the email from our CEO, Mr. John C. Williams. He has provided a detailed explanation of all the necessary processes in his previous emails.\n\nIf you could kindly print out the form attached and go through it at your convenience, that would be great. Once you've filled it out by hand and signed it, please reattach it and send it back to us.\n\nCould you please confirm when you expect to have this completed? Also, if there are any parts of the form or process that aren't clear, don't hesitate to ask for clarification.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJordan"
+    },
+    {
+        "from": "baiter_900",
+        "to": "scammer_900",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.064398148148149,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "33",
+        "subject": "Re: Attn: Mr. Jordan ( FOLLOW MY INSTRUCTIONS URGENTLY )",
+        "body": "Hello Mr. Kennedy,\n\nThank you for your email and the instructions provided. I appreciate your patience with me as I navigate through this process.\n\nI have a couple of questions, if you don't mind. Could you please clarify what specific information is required on the form? Also, could you guide me on how to properly fill it out?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJordan"
+    }
+]

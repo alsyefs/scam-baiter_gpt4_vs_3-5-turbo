@@ -1,0 +1,602 @@
+[
+    {
+        "from": "scammer_809",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "US Federal Reserve Bank",
+        "body": "US Federal Reserve Bank\nConstitution Ave NW & 20th St Northwest,\nWashington, DC 20551, United States of America,\nWe want to inform you officially that the Federal Reserve Bank and the\nInternational Monetary fund have ordered the release of your overdue\nfund which has been outstanding under our custody for two (2) years\nYour urgent response is needed for more information."
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello there,\n\nWow, that's quite a surprise! I had no idea about this. Could you please tell me more about it? How did this happen and why was my fund under your custody for two years? I'm really curious to know more.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Federal Reserve Bank\r\nConstitution Ave NW & 20th St Northwest,\r\nWashington, DC 20551, United States of America,\r\nWe want to inform you officially that the Federal Reserve Bank and the\r\nInternational Monetary fund have ordered the release of your overdue\r\nfund which has been outstanding under our custody for two (2) years.\r\n\r\nYour outstanding fund in our bank is a total sum of $2,500,000. USD\r\nand all arrangements regarding the release of your fund has been made\r\nprior before we made contact with you\r\nAlso, try to confirmed this your following detail to avoid wrong\r\nproceedings of your funds to you\r\n\r\n1)Your Full Name\r\n2) Your HOME Address\r\n3)country\r\n4)Copy of I'D\r\n5) Your Nearest airport\r\n6) Your phone contact\r\n7) Your Next of kins number and name\r\n\r\nGet back to us immediately with all this information requested above\r\nso that we will anticipate your response upon receipt of this text\r\nso that we can expedite actions for the immediate release of your\r\nfund.\r\n\r\nThank you,\r\nEmail...\r\nMr. Jerome Powell.\r\nThe Chair of the Board of Governors of the Federal Reserve System.\r\nCo-chief Operating Officer, Federal Reserve Bank ."
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7180439814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello Mr. Jerome Powell,\n\nThank you for reaching out to me. I'm thrilled to hear about the release of my overdue fund. It's quite a surprise as I wasn't aware that such a fund was under your custody.\n\nCould you please provide more details about this? How did my fund end up in your bank? And why has it been there for two years?\n\nI'm also curious about the process of releasing the funds. What steps are involved and how long does it usually take?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9262731481481481,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello Mr. Jerome Powell,\n\nThank you for reaching out to me. I'm quite surprised to hear about this overdue fund under your custody. Could you please provide more details about it? How did it end up there and why has it been held for two years?\n\nI'm also curious about the process of releasing these funds. What steps are involved? And how long does it usually take?\n\nLooking forward to hearing from you.\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.3439467592592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "ATTENTION:\r\n Frederick,\r\n\r\n I apologize for the delay in my response. Since it's the weekend, I'm not\r\nable to respond to emails as promptly as I would like to. However, I will\r\nbe able to provide you with the clarification you need on Monday and also\r\noffer you the option to choose your preferred payment method for receiving\r\nyour money.\r\n\r\nWe know that many things are happening through internet but we are assuring\r\nyou that you will receive funds once the right process is followed. To\r\nexpress our sincerity, we want to invite you to our office so that you will\r\nhave free mind in dealing with us.\r\n\r\nI have been in the banking business for more than twenty (20) years and we\r\nare not involved in defrauding people. All that is required from you is\r\ntrust and follow all the instructions then be assured that you will receive\r\nyour funds. Thanks for your patient and cooperation.\r\n\r\n Yours Faithfully, ____________________\r\n\r\n Federal Reserve Bank (FRB)."
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.619699074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Are you there??"
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.634386574074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello! Yes, I'm here. How can I assist you today?\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.249351851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "We Acknowledge the receipt of your email response. This is to inform you\r\nthat your funds actualization has come after our meeting with the Federal\r\nReserve Bank   and International Monetary Fund (IMF) and Bank Of America\r\n(BOA) management today, It has been agreed that your approved funds valued\r\nof $2,00,000 USD will be Register through Federal Reserve Bank board.\r\n\r\n Here are the prefered payment method in Which will can convened your total\r\nfunds and the require fees are attached\r\n 1.) Bank to Bank Wire Transfer: Your fund will directly be deposited into\r\nyour private bank account and it will reflect into  your account within\r\n2-working days after the transfer. And that will cost $175 for transfer\r\ncharges i\r\n\r\n 2.) Bank Draft: Your total funds will be written out in the form of a\r\nvalid draft check and be dispatched to your address through USPS Priority\r\nMail Express, And that will cost  maximum amount of $148 to send you a\r\nCheck to your home address through UPS priority mail express\r\n\r\n 3.) ATM Visa Card: Your fund could be loaded in an ATM Visa Card and will\r\nbe shipped down to your home address via USPS Priority Mail Express which\r\nonly takes few days to deliver , that will cost maximum amount of $150 to\r\nload your total funds into your ATM visa card and send it to your home\r\naddress\r\n\r\n Note :. You are instructed to choose any of your prefered  payment method\r\nlisted above  to enable us conveyed your total funds to you Information\r\nneeded are\r\n First Name:\r\nMiddle Name:\r\nLast Name:\r\n Occupation:\r\nPhone: Email:\r\n Date of Birth:\r\nMarital Status:\r\nGender: Address:\r\nAccount Type:\r\n Note: You must provide all the required details listed above to enable us\r\nconveyed your total funds to you with no more further delaying Regards\r\nJerome Powell The Federal Bank president"
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.698078703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello there,\n\nThank you for your response and the assurance you've provided. I appreciate your invitation to visit your office, it indeed shows sincerity on your part. \n\nI'm curious about the process that needs to be followed in order to receive the funds. Could you please elaborate more on this? Also, what are the different payment methods available?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.386435185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello Fredrick\r\n\r\n Thanks for your email. I understand that you have already received the\r\noptions for choosing the payment method, but if you prefer Bitcoin, I can\r\ntransfer the money to your Bitcoin address.\r\n\r\n Please note that there is a fee of $195 for this method, which you'll need\r\nto pay to proceed. To move forward with the transaction, please provide the\r\nnecessary information as soon as possible. You can either send a fee, buy\r\nBitcoin, or do a bank wire transfer.\r\n\r\nLet me know which option works best for you. Looking forward to hearing\r\nfrom you soon."
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.406041666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello there,\n\nThank you for your prompt response. I appreciate the options you've provided for the payment method. Bitcoin sounds interesting, but I'm not very familiar with it. Could you please explain a bit more about how it works? \n\nAlso, could you clarify what the fee is for? Is it a standard procedure or does it vary depending on the payment method chosen?\n\nI'm also curious about the bank wire transfer option. How would that work exactly? Would I need to provide any specific details for that?\n\nLooking forward to your reply.\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.423402777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hi Frederick, Thank you for your email. I want to make sure I explain\r\nthings clearly to avoid any confusion. Once you select a payment method,\r\nyou will need to pay a fee associated with that method.\r\n For example, if you choose to receive payment via bank wire transfer, you\r\nwill need to pay the fee I listed above. Alternatively, you can choose to\r\nreceive payment via ATM card or Bitcoin. If you choose Bitcoin, the fee\r\nwill be $195.\r\n\r\n To proceed with sending Bitcoin, you can go to a Bitcoin ATM machine then\r\ninsert the buy bitcoin then send to the wallet address I will send you Then\r\ndownloaded a wallet on your phone, and create a bitcoin wallet then copy\r\nyour Address and send to to send your funds to your wallet Let me know if\r\nyou have any further questions or concerns."
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.426099537037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hi Frederick,\n\nThank you for your email. I appreciate the detailed information you've provided about the payment methods. It's interesting to know that there are different fees associated with each method.\n\nI'm curious about the Bitcoin option, as I've heard a lot about it but never used it before. Could you please explain a bit more about how this works? For instance, what is a Bitcoin ATM machine and how do I find one? Also, what does it mean to create a bitcoin wallet?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.438888888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Frederick\r\nFirst of all\r\nFill the information below\r\n First Name:\r\nMiddle Name:\r\nLast Name:\r\n Occupation:\r\nPhone:\r\n Email:\r\n Date of Birth:\r\nMarital Status:\r\nGender:\r\n Address:\r\nID card"
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.447870370370371,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello Frederick,\n\nI'm really excited to chat with you! However, I'm not comfortable sharing my ID card information online. Can we continue our conversation without it? What's the next topic you'd like to discuss?\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.455405092592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Like I told you before We know that many things happen over the internet,\r\nbut we assure you that you will receive funds once the correct process is\r\nfollowed.\r\n\r\nTo express our sincerity, we would like to invite you to our office so that\r\nyou can have a clear mind when dealing with us. I have been in the banking\r\nbusiness for more than twenty 20years and we are not involved in defrauding\r\npeople. All that is required of you is trust and following all\r\ninstructions. Then you can be sure that you will receive your money.\r\n\r\n Thank you for your patience and cooperation."
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.489618055555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello Jerome Powell,\n\nThank you for your email. It's quite exciting to hear about the funds! I'm a bit confused though, could you please clarify a few things for me?\n\nFirstly, how did my name come up in your meeting with the Federal Reserve Bank and Monetary Fund IMF and Bank Of America BOA management? \n\nSecondly, could you explain more about these payment methods? How does the Bank to Bank Wire Transfer work exactly? And what is this ATM Visa Card option?\n\nLastly, I noticed some costs associated with each method. Could you provide more details on why these charges are necessary?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.509733796296296,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "understanding. \n\nOh, that sounds interesting! Could you tell me more about the process? How does it work exactly? And where is your office located? I'd love to come by and learn more about your operations.\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.373831018518518,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello! I received your email and am happy to provide the information you\r\nrequested. (Constitution Ave NW & 20th St Northwest, Washington, DC 2055)\r\nHowever.\r\n\r\n I assure you that I am serious about this transaction and have always been\r\nloyal and faithful. Could you let me know why you haven't sent your\r\ninformation yet?\r\nIt's important that we move forward with all the necessary details. Looking\r\nforward to hearing back from you soon!\r\n\r\n Personal email Address. Jeromepwll@mail.com\r\n\r\n Phone number; ‪(845) 554-3679"
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.384849537037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello there,\n\nI'm glad to hear from you and I appreciate your interest. I'm always ready to share information as needed, but I must apologize as I can't provide the specific details you've asked for at this time.\n\nHowever, I'd love to know more about why you need these details? It's important for me to understand the context so we can move forward effectively. \n\nLooking forward to hearing back from you soon!\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.398680555555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Please choose a payment method and send your information. If you select an\r\nATM card, I will deposit your total funds into it and ship it to your home\r\naddress. To proceed with this option, please provide your address and phone\r\nnumber for further clarification.\r\n\r\nAlternatively, if you prefer online banking, kindly provide me with your\r\ndetails. You will need to follow the instructions to create an account\r\nunder your name. I assure you that I have no intention of causing you any\r\nharm. I am simply following the necessary steps to receive your money.\r\n\r\nPlease feel free to contact me via the phone number or email address I\r\nprovided."
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.40275462962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "22",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Please note that for any payment method you choose, you will be responsible\r\nfor sending the fee. The bank is not responsible for paying for\r\nbeneficiaries' fees to receive their payment.\r\n\r\n Rest assured that once you have paid the fee, you will receive your money\r\nimmediately, depending on the payment method you choose. If you opt for\r\nBitcoin, you can receive your money quickly as it is a safe and fast\r\noption.\r\n\r\nHowever, if you choose a bank or ATM, it may take a few days for the\r\npayment to reflect in your account or be delivered to your address. Online\r\nbanking is also a viable option, with the process taking only a day to\r\ncomplete. In conclusion, Bitcoin is the easiest and safest payment method\r\navailable."
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.405995370370371,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "23",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello there,\n\nThank you for your message and the options provided. I'm really excited about this opportunity. However, I have a few questions before we proceed.\n\nFor the ATM card option, how long would it take for the card to arrive at my home? Also, is there any fee associated with this service?\n\nAs for online banking, could you please explain more about the process of creating an account? What kind of details are required?\n\nI appreciate your patience and look forward to hearing from you soon.\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.4061111111111115,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "24",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello,\n\nThank you for your detailed explanation. I appreciate the time you took to outline the different payment methods available. \n\nI'm not very familiar with Bitcoin, could you perhaps explain a bit more about how it works? And why is it considered the safest and fastest option?\n\nAlso, regarding the fee that needs to be paid upfront, could you provide more information on what this fee is for? Is it a standard procedure for all transactions?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.4113541666666665,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "25",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Thank you for your email. Since you mentioned that you do not have much\r\nknowledge about Bitcoin, I would be happy to provide you with some\r\nguidance.\r\n\r\nAs for receiving the payment, there are a few options available such as\r\nbank-to-bank transfer, wire transfer, or an ATM card. Once you are ready to\r\nvisit our office, I will share the address with you.\r\n\r\nWe have experts who can educate you on Bitcoin, and I will be happy to\r\nintroduce you to them. In order to proceed with the transaction, we require\r\nyour information, including the state you are currently in, and the upfront\r\nfee.\r\n\r\n You can make the payment either through Bitcoin or bank transfer. If that\r\nis not possible, you may purchase a gift card or use PayPal."
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.4148148148148145,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "26",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "We can create an online banking account with your name and send you the\r\nlogin credentials to transfer funds to any bank you choose. The cost for\r\nthis service is $200.\r\n\r\nThe account creation will take only a day, however, issuing an ATM card and\r\nmailing it to your address will take 2-3 business days.\r\n\r\nOnce you've paid the fee, please send us your information and we'll proceed\r\nwith the account creation. You will receive your login credentials and can\r\ntransfer your funds with ease."
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.426111111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "27",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello there,\n\nThank you for your message. It sounds like a convenient service! I'm quite interested in the process of creating an online banking account. Could you please explain more about how it works? \n\nAlso, I'm curious about the cost for this service. How much is it exactly? And what does it cover?\n\nI appreciate your help and look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.4261689814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "28",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello,\n\nThank you for your response and the information provided. I'm really interested in learning more about Bitcoin. Could you please tell me more about how it works? \n\nAs for the payment options, could you explain a bit more about each one? I'm not very familiar with these methods.\n\nI'm also curious about the upfront fee. What is it for exactly?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.432453703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "29",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "To create your online banking account and provide login details, please\r\nmake a payment of $200. Once payment is received, I will provide\r\ninstructions on how to utilize your account. Let’s take the necessary steps\r\nto proceed. If you choose an ATM card, please let me know and I will issue\r\nit.\r\n\r\nIf you prefer online banking, send $200 and we will process everything to\r\ncreate your account and provide login details. You can then login and send\r\nmoney to any bank of your choice, regarding Bitcoin.\r\n\r\n I will hand you over to the people that can educate you about it in the\r\noffice when you come or when you have received your money."
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.447604166666666,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "30",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello there,\n\nThank you for your message. I'm interested in setting up an online banking account. However, I have a few questions before we proceed.\n\nFirstly, could you please clarify the payment process? How much is required and what is it for exactly? \n\nSecondly, you mentioned something about an ATM card. What are the benefits of choosing this option?\n\nLastly, regarding Bitcoin, I'm not very familiar with it. Could you provide some basic information about how it works within your banking system?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.451412037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "31",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "If you are not familiar with Bitcoin, it's best not to make payments via\r\nthat method. Have you considered purchasing a gift card online or in-store?\r\nOr proceed with Paypal. We have had enough conversations to take action.\r\nPlease take the necessary steps."
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.4518865740740745,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "32",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "The fee is $200"
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.467696759259259,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "33",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello there,\n\nThank you for your message. I must admit, I'm not very familiar with Bitcoin. Could you please explain a bit more about it? \n\nAs for the gift cards and Paypal, that sounds interesting! How does purchasing a gift card online work? And is Paypal safe to use? \n\nI appreciate your help in understanding these things better.\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.467731481481482,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "34",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello there! I'm curious about the fee you mentioned. Could you provide more details about it? What does it cover exactly?\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.4678356481481485,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "35",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello there,\n\nThank you for your message. I must admit, I'm not very familiar with Bitcoin. Could you perhaps explain a bit more about it? \n\nAs for purchasing a gift card online or proceeding with Paypal, that sounds like something I could manage. How would I go about doing that? Would it be safe and secure?\n\nI appreciate your help in guiding me through this process.\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.6489467592592595,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "36",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Yes pay by PayPal"
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.656087962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "37",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello there! \n\nI'm glad to hear from you. Could you please provide more details about the payment process? I'd like to understand it better before proceeding.\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.6573263888888885,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "38",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Have you ever send payment by pay pal??"
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.676261574074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "39",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello there! I've certainly heard of PayPal and know that it's a popular method for sending payments. However, I'm curious to know more about why you're asking. Are you suggesting it as a preferred payment method for something?\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.677719907407408,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "40",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Yes that's what I suggested\r\nBut what payment method do you prefer to send the fee of $200 in order to\r\nproceed with your transaction"
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.697870370370371,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "41",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello there! I'm really interested in proceeding further. Could you please tell me more about the different payment methods available?\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.700324074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "42",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "What payment method do you prefer\r\nWhich payment method can you be able to use for sending the fee of $200"
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.718009259259259,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "43",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello there! I'm curious about the different payment methods you accept. Could you please provide me with some options?\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.718715277777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "44",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Can you purchase a gift card"
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.739560185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "45",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello there! \n\nOh, a gift card? That sounds interesting. Could you tell me more about it? What kind of gift card is it and where can I use it?\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.742453703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "46",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "ITunes card or Steam gift card?"
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.759976851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "47",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello there! I'm not quite sure what you're asking. Are you inquiring about which one I prefer, a credit card or a Steam gift card? Could you please provide more details so I can better understand your question?\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.827337962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "48",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "No I said you should either purchase a Steam wallet or iTunes/Apple gift\r\ncard"
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.828032407407408,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "49",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Can you buy any of that?"
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.843113425925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "50",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello there! I'm not sure what you're referring to. Could you please provide more details?\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.843506944444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "51",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello there! \n\nOh, that's interesting. Can you tell me more about why I should purchase a Steam wallet or Apple gift card? What are the benefits of having these?\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.84380787037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "52",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "I'm tired of explaining"
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.844675925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "53",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "For the fee of $200 to prepare your online banking"
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.86494212962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "54",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm interested in learning more about this online banking preparation service. Could you please provide more details? What exactly does the fee cover and how will it benefit me? \n\nLooking forward to your response!\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.865208333333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "55",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Oh, I'm sorry to hear that you're feeling tired. Can you tell me more about what you've been explaining? Maybe I can help in some way.\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.880034722222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "56",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Ok"
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.884918981481482,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "57",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello there! I hope you're having a great day. I'm really interested in learning more about what you have to share. Could you please provide some more details?\n\nBest wishes,\nFrederick"
+    },
+    {
+        "from": "scammer_809",
+        "to": "baiter_809",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.885706018518518,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "58",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Follow the instructions or leave it"
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.906574074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "59",
+        "subject": "Re: US Federal Reserve Bank",
+        "body": "Hello there! I'm not quite sure what you mean by \"Follow the or leave it\". Could you please provide more details? I'm always eager to learn and understand new things.\n\nBest wishes,\nFrederick"
+    }
+]

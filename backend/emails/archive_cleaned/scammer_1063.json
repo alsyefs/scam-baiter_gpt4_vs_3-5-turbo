@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1063",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello dear,",
+        "body": "  Hello dear,\nI am pleased to inform you that a concrete arrangement has been made for\nyour long-delayed fund to be released any moment from now.\nI hope you respond promptly for more details.\nWarm regards.\nRegards,\nIkuku Idoko.   "
+    },
+    {
+        "from": "baiter_1063",
+        "to": "scammer_1063",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello dear,",
+        "body": "Hello Ikuku Idoko,\n\nThank you for reaching out to me. I'm glad to hear that the concrete has been made for my fund to be released soon. Could you please provide me with more details about the process? I want to make sure I understand everything correctly.\n\nLooking forward to your response.\n\nBest wishes,\nAlonzo"
+    }
+]

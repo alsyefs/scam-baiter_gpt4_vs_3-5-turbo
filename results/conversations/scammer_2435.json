@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2435",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   My Dear",
+        "body": "   My Dear\nHow are you today? I got your mail in respect of your payment, let me\ngive you more details about the source of the funds and myself . I’m\nRev Timothy Johnson, director of the Cash Processing unit. I was\ndelegated by IMF World Economic Outlook (WEO) International Monetary\ntogether with World Bank Financial Support to compensate you with the\nsum of $1.5M US from the Reserve Account (RA) as Relief Fund to\nalleviate poverty caused by Covid-19 pandemic.We were on round table\n Therefore you will receive the sum of $1,495.000. I want you to\nhandle this transaction with care considering how much is involved. I\nwant you to carefully fill required information as listed below to\navoid paying to the wrong person.\nAs soon as you confirm the accuracy of information, we will comply\nwith more information to enable you to receive your fund within three\ndays.\nFull name:\nAddress:\nPhone #\nOccupation :\nWe have made all the necessary arrangements to complete your delivery\nwithin 3 official working days, therefore, you should check your email\nfrom time to time to reply at the right time to enable us to meet with\nthe three days delivery time frame. forward all details to my private \nemail.timothyjohnsonrv@gmail.com\nWe wait to hear from you shortly\nRev.Timothy Johnson\nCash Processing Unit   "
+    },
+    {
+        "from": "baiter_2435",
+        "to": "scammer_2435",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    My Dear",
+        "body": "Hello Reverend Timothy Johnson,\n\nI hope this message finds you well. I am quite intrigued by your email and the opportunity it presents. It's not every day that one receives such news.\n\nHowever, I would like to understand more about this process. Could you please elaborate on the source of these funds? And how was I chosen for this compensation?\n\nAlso, could you provide more details about the Cash Processing Unit and its operations? How does it work with IMF World Economic Outlook WEO Monetary and World Bank Financial Support?\n\nLastly, you mentioned a 'Reserve Account RA'. Could you explain what that is?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_2435",
+        "to": "baiter_2435",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: My Dear",
+        "body": "Your case is already in our system , I think one of the staff is on the\r\nmatter, comply to the directive so that you will receive your money ."
+    },
+    {
+        "from": "baiter_2435",
+        "to": "scammer_2435",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.01638888888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: My Dear",
+        "body": "Hello there,\n\nThank you for your message. It's good to hear that my case is already in your system and being handled by one of your staff members. Could you please provide me with more details about the directive I need to comply with? Also, could you tell me when I can expect to receive the money?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nWilliam"
+    }
+]

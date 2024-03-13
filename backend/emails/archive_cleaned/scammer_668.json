@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_668",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  FIRST NATIONAL BANK",
+        "body": "  FIRST NATIONAL BANK\nFOREIGN REMITTANCE DEPARTMENT\n106 New Jersey Avenue,\nAbsecon, New Jersey NJ 8201\nDear Sir/Madam,\nWe hope this message finds you well. We apologize for contacting you via email, but we have been unable to reach you through other means. We write to inform you of a critical matter on behalf of First National Bank's Foreign Remittance Department. We are pleased to inform you that you are entitled to receive an expected revenue of $10.5 million. This amount represents unpaid compensation or inheritance funds owed to you. Thanks to an agreement between the US President and other world leaders, the US Department of State has granted express receipt to all beneficiaries who have been denied or delayed funds. To ensure that your funds are transferred to you as quickly as possible, we kindly request that you provide us with your,Full name, Contact address and phone number, Account number, bank details for the transfer,\nMeans of identification.\nprocess is legitimate and closely monitored by a committee established by the US government. Its primary objective is to ensure that beneficiaries receive their delayed payments from our establishment. You can trust that we will do everything in our power to facilitate the transfer of your funds.\nWe appreciate your cooperation in this matter and look forward to hearing back from you soon.\nSincerely,\nForeign Operations\nFirst National Bank.\nDr Steven Evenan Sovliver\ndrstevenevansoliver@gmail.com\n "
+    },
+    {
+        "from": "baiter_668",
+        "to": "scammer_668",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   FIRST NATIONAL BANK",
+        "body": "Dear Dr. Steven Evenan Sovliver,\n\nThank you for reaching out to me regarding this matter. I appreciate your efforts in contacting me via email. I must admit, the information you provided is quite intriguing.\n\nI would like to know more about the agreement between the US President and other world leaders that you mentioned. Could you please provide some additional details on how this agreement came about and how it relates to my entitlement of receiving a significant amount of money?\n\nFurthermore, I would like to understand the process involved in transferring these funds to me. Can you explain how the committee monitors and ensures the legitimacy of this process? It's important for me to have a clear understanding before proceeding.\n\nThank you once again for your assistance, and I look forward to your response.\n\nBest wishes,\nJonathan"
+    }
+]

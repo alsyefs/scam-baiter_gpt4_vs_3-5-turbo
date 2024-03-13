@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2401",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Good morning ; enclose is a ",
+        "body": "  Good morning ; enclose is a copy of your ATM card as I have instructed the bank to credit the fund into ATM card in your name for more efficient delivery.\nThe only money you need to pay to the bank is just the insurance/delivery fee of USD$425 only.\nThis is the best way you can receive your fund without any stress, you must thank me for this wonderful idea.\nUpon your reply I will direct you how to make the payment so that the card can be send to your doorstep.  \nThank you.   "
+    },
+    {
+        "from": "baiter_2401",
+        "to": "scammer_2401",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Good morning ; enclose is a ",
+        "body": "Good morning! Thank you for reaching out to me. I appreciate your efforts in finding a more efficient way for me to receive my funds. Could you please provide me with more details about the insurance delivery fee? How much is it exactly and how can I make the payment?\n\nBest wishes,\nRon"
+    },
+    {
+        "from": "scammer_2401",
+        "to": "baiter_2401",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Management international receiving fund unit",
+        "body": "Dear  Ron\r\nAfter  evaluation and  tax with the irrevocable  insurance policy taxation\r\ninput .\r\nyou are advised to make the mandatory payment of GBP750:00  Furthermore we\r\nhave an accredited broker/agent  Receiving method  across  The global .\r\n\r\nwe wish to ask you  what method would you love to send the money to our\r\nreach.\nThanks\r\nManagement  international receiving fund unit   ."
+    },
+    {
+        "from": "baiter_2401",
+        "to": "scammer_2401",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00030092592592592595,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Management international receiving fund unit",
+        "body": "Dear Management receiving fund unit,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding the evaluation and tax with the insurance policy taxation input. It's important to ensure that all necessary payments are made in a timely manner.\n\nBefore proceeding with any payment, I would like to gather some more information about the accredited broker agent who will be receiving the funds. Could you please provide me with their name and contact details? Additionally, it would be helpful to know more about the methods available for sending the money globally.\n\nOnce I have this information, I can make an informed decision on how to proceed with the payment. Thank you for your assistance.\n\nBest wishes,\nRon"
+    }
+]

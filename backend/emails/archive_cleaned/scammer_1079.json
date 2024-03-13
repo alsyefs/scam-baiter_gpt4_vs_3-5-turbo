@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1079",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  ATTENTION:",
+        "body": "  ATTENTION:\nYOUR  PAYMENT APPROVAL IS READY\nI am Sam Woods - Chief Executive Officer of the Prudential Regulation Authority,  Banking at SECURE TRUST BANK.  Bank email address:{ \ninfanderson@outlook.com\nI am writing to inform you that your fund is ready for payment, as approved by the  Bank this time, I wish to confirm from you if Mr. Gary Raymond who is in our office for the same reason, has your mandate to receive your fund on your behalf as he stated that you are ill and hospitalized, as he is claiming with written evidence signed by you. For your information,\nMr. Gary Raymond is from Houston Texas, U.S.A. Because this office will not be liable for any wrong payment, kindly note that upon your confirmation of his mandate and authorization, we shall have no other option than to pay the funds into the following bank account details, as submitted by Mr. Gary Raymond;\nCitizens Bank Of East Tennessee,\n207 Washington Street, Rogers villein 37857-0000.\nAccount Number: 705383140\nRouting Number; 064202967.\nSwift Code: CBE05G320R\nBeneficiary Name: Gary H RAYMOND\nif you authorized him to claim your fund on your behalf. We will inform you of your response on how you will receive your payment if you did not authorize him to claim your fund but if you are the one who authorized him then return this mail with a copy of the Power Of Attorney (POA) to enable us to release the fund to him.\nAs soon as we hear from you that you did not authorize him our International Remittance Dept will contact you for the transfer Note and if you still wish to receive your funds do get back to us immediately so that we can remove your funds transfer from the list of those transactions to be seized by the United States Government.\nNB YOU ARE TO STOP COMMUNICATING WITH ANYONE ELSE BUT ME FOR THE SAFETY OF YOUR FUNDS AND REPLY TO MY PRIVATE EMAIL:{infanderson@outlook.com\nKindly fill in this information to confirm your profile so that I can send it to the bank to process your payment\n1. Full Name\n2. Contact Address:\n3. Country:\n4. Age:\n5. Phone:\n6. Occupation:\nYours Faithfully\nSAM WOODS GEORGE   "
+    },
+    {
+        "from": "baiter_1079",
+        "to": "scammer_1079",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   ATTENTION:",
+        "body": "Hello,\n\nThank you for reaching out to me regarding my payment approval. I appreciate the update. However, I have a few questions before proceeding.\n\nFirstly, who is Mr. Gary Raymond and how did he come to be involved in this matter? Can you provide more information about his role and why he claims to have my mandate to receive the funds on my behalf?\n\nSecondly, I would like to know more about the evidence that Mr. Gary Raymond has presented, which supposedly bears my signature. Could you please share some details about this evidence?\n\nLastly, I would like to confirm the authenticity of the bank account details provided by Mr. Gary Raymond. Can you verify if the Citizens Bank Of East Tennessee is indeed a legitimate institution?\n\nI look forward to your response and clarification on these matters.\n\nBest wishes,\nJames"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1757",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  REMITTANCE OF US$18.5MILLION",
+        "body": "  REMITTANCE OF US$18.5MILLION\nPlease it will be most appreciated if you peruse this letter very\ncarefully and I must apologize for bringing this message into your\nmail box without any formal introduction due to the urgency and\nconfidential nature of this business. Please this is not a joke and I\nwill not like you to treat it as such.\nMy urgent need for a foreign partner is what made me to contact\nyou for this business transaction. I am a banker by profession and\nworking with one of the biggest financial institutions and currently\nholding the post of Director Auditing and Accounting Unit of the bank.\nWe have in our possession the total sum of US$18.5 million, belonging\nto one of my bank's client who died along with his entire family in a\nplane crash on the 6th of December,2003.\nBecause i  do not want the money to go into our Bank's Treasury Account as an\nunclaimed fund, i am proposing that i present you to the Bank\nmanagement as the Next-of Kin to the deceased Please this must be kept\nas top secret, pending the consummation of the transaction. I am\nproposing the sharing of this fund to be 30% for you, 60% for me and\n10% for any expenses incurred during the transfer process.\nFrom my banking experience, this project is not expected to take us\nmore than few working weeks to bring to a close. This is a once in a\nlife time opportunity that one doesn't have to miss, considering the\nfact that if we fail to act now, the whole fund will go to the high\nechelon of the bank management.I want you to also know that this\ntransaction will involve some expenses which will be shared among both\nof us. Your Urgent response is required for immediate commencement of\nthis transaction. Kind regards,\nPAUL KIN   "
+    },
+    {
+        "from": "baiter_1757",
+        "to": "scammer_1757",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   REMITTANCE OF US$18.5MILLION",
+        "body": "Hello Paul,\n\nThank you for reaching out to me with this opportunity. I appreciate you considering me for such an important matter. I understand that this is a serious business proposal and I will treat it as such.\n\nCould you please provide me with more details about the situation? Specifically, I would like to know how exactly my involvement would be required and what steps we need to take to ensure the successful transfer of the funds. Additionally, could you clarify what expenses would be involved and how they would be shared between us?\n\nI look forward to your response.\n\nBest wishes,\nRene"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1189",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention Sir,",
+        "body": "  Attention Sir,\nDo You Have Any Project That Requires Funding?\nWe are registered and certified Loan lenders,We offer Loans to individuals\nand project owners that need Loan at affordable rate.We offer a referral fee to\n brokers who bring us lucrative project owners for financing or other\nbusiness opportunities.\nMr. Vladimir Kalinin,\nB.Sc.\n(Hons.), M.B.A.\nCo-founder and President.\nIAE Financial Investment Group\nCompany number 05066696\ninvestmentdirector@mail.com\n "
+    },
+    {
+        "from": "baiter_1189",
+        "to": "scammer_1189",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention Sir,",
+        "body": "Hello Mr. Vladimir Kalinin,\n\nThank you for reaching out to me with your offer. It's quite interesting to hear about the services your company provides. I'm curious, could you please elaborate more on the types of projects that your company typically funds? \n\nAlso, what are the usual terms and conditions associated with these loans? I'd love to understand more about how this process works.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nDoris"
+    },
+    {
+        "from": "scammer_1189",
+        "to": "baiter_1189",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Do You Have Any Project That Requires Funding?",
+        "body": "Dear Sir/Ma, \nWe are Manaman Group sourcing for a foreign direct investment partner in any of the sectors stated below. Energy and Power Sectors, Oil & Gas, Agriculture, Acquisition, Health, Real Estate, IT, Technology, Transportation, Agriculture, Hotels, Mining, Maritime and Manufacturing and so on. We would be Interested to providing funding for you at a 2.5% interest rate for a duration of 10/15 years. \nOur Terms: \n1. Our Minimum Funding: U$1 Million and our Maximum Funding is: U$5 Billion. \n2. LOAN PERIOD: - 10 to 15 Years + 2 years Grace Period. \n3. Interest Rate Per Annum: - 2.5% per annum interest. \n4. Capital Repayment Period: - balloon payment at the end of the 10 years period. \n5. Interest Payment: - At the end of each year starting after the Grace Period of Two Years. \n \n6. Grace Period: - Minimum of 24 Months which will be the Construction Period. \nIf you are seriously pursuing Foreign Direct Investment or Joint Venture for your projects and clients in any of the sectors stated above, Attach to this mail is a copy of loan application form to fill, sign and revert back to us with a summary of your project or business plan for the preparation of your MOU Agreement which will be signed by both parties as there will be administrative charges before release of funds to borrowers bank account anywhere in the world. \nContact person: \nMr. Vladimir Kalinin, \nB.Sc. \n(Hons.), M.B.A. \nCo-founder and President. \nManama Group \nCompany number 05066696 \nPhone: 020 7630 1000 \n \n Sent: Wednesday, February 14, 2024 at 12:45 AM From: \"Doris\" <jr58239@***.com> To: investmentdirector@mail.com Subject: Re: Attention Sir, \n \nHello Mr. Vladimir Kalinin, \nThank you for reaching out to me with your offer. It's quite interesting to hear about the services your company provides. I'm curious, could you please elaborate more on the types of projects that your company typically funds? \nAlso, what are the usual terms and conditions associated with these loans? I'd love to understand more about how this process works. \nLooking forward to hearing from you soon!\nBest wishes, \nDoris"
+    },
+    {
+        "from": "baiter_1189",
+        "to": "scammer_1189",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0017476851851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Do You Have Any Project That Requires Funding?",
+        "body": "Hello Mr. Vladimir Kalinin,\n\nThank you for reaching out to me with your offer. It's quite interesting to hear about the services your company provides. I'm curious, could you please elaborate more on the types of projects that your company typically funds?\n\nAlso, what are the usual terms and conditions associated with these loans? I'd love to understand more about how this process works.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDoris"
+    }
+]

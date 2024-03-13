@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1311",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello,",
+        "body": "Hello,\nI wanted to follow up on my previous correspondence regarding a potential partnership opportunity. I had previously sent you an email outlining a proposal for collaboration. In this arrangement, my client will act as a silent investor, allowing you to have complete control over the terms of the investment.\nI look forward to hearing from you soon\nBest regards,"
+    },
+    {
+        "from": "baiter_1311",
+        "to": "scammer_1311",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello,",
+        "body": "Hello there,\n\nThank you for reaching out and following up on your previous email. I must admit, the idea of having a silent investor is quite intriguing. Could you please provide more details about this proposal? For instance, what would be the expected return on investment for your client?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJames"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1198",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Your ATM card is ready you a",
+        "body": "  Your ATM card is ready you are advise to reconfirm your information back Full name ,Telephone ,address\nif you still alive . Mr.Peter Iwu   "
+    },
+    {
+        "from": "baiter_1198",
+        "to": "scammer_1198",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Your ATM card is ready you a",
+        "body": "Hello there! \n\nThank you for reaching out to me. I'm glad to hear that my ATM card is ready. However, could you please provide more details about this? For instance, which bank is this card associated with? And how should I proceed next?\n\nLooking forward to your response.\n\nBest wishes,\nBrian"
+    }
+]

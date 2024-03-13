@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1046",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  I have a lucrative business ",
+        "body": "  I have a lucrative business proposal to discuss with you via email. Anticipating your response If you would please oblige me the opportunity, I shall provide you with details upon your response.\nAnticipating your response\nBest regards,\nHuston Eden   "
+    },
+    {
+        "from": "baiter_1046",
+        "to": "scammer_1046",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   I have a lucrative business ",
+        "body": "Hello Huston Eden,\n\nThank you for reaching out to me with your business proposal. I'm always open to exploring new opportunities. Could you please provide me with a brief overview of the proposal? I would like to know more before proceeding further.\n\nBest wishes,\nNadine"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1762",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " ADS Private Finance Group LTD",
+        "body": " ADS Private Finance Group LTD.\nLevel 30, The Leadenhall Building, 122 Leadenhall Street,\nLondon, EC3V 4AB.\nDear, \nI am Maxwell Jones Jr., Manager with ADS Private Finance Group. We are offering corporate and personal loans at 3% interest rate for the duration of 15 years. We provide a broad range of services to both commercial and private clients. As a major UK loan firm, we serve local, regional, national and international customers. We also pay 1.2% commission to brokers who introduce project owners for finance or other opportunities.\nI will await your kind response, if you are interested we will explain in more details. Please email me back on this email: ID: \ninfoinfo_2341@yahoo.co.jp\nYours faithfully\nMr. Maxwell Jones Jr.\nManager Finance & Account\nADS Private Finance Group   "
+    },
+    {
+        "from": "baiter_1762",
+        "to": "scammer_1762",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  ADS Private Finance Group LTD",
+        "body": "Dear Mr. Maxwell Jones Jr.,\n\nThank you for reaching out to me with this information about ADS Private Finance Group LTD. I'm always interested in learning more about financial services and opportunities. Could you please provide me with some additional details about the corporate and personal loans that your company offers? Specifically, I would like to know more about the interest rates, repayment terms, and any requirements or qualifications that potential borrowers need to meet.\n\nAdditionally, you mentioned that ADS Private Finance Group pays commission to brokers who introduce project owners for finance or other purposes. Could you elaborate on how this commission structure works? What are the criteria for becoming a broker and what kind of projects are eligible for financing?\n\nI appreciate your time and look forward to hearing back from you soon.\n\nBest wishes,\nChristina"
+    }
+]

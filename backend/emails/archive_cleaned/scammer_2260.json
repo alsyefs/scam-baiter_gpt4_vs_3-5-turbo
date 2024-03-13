@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2260",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good Day,",
+        "body": "Good Day,\nSorry for intruding into your privacy!\nCan we work together as partners in supplying raw materials to our company? I am an employee of a multi-national animal vaccine production company in the USA and UK working as the production manager.\nThis business is very profitable\nLooking forward to your response.\nKindly reply to the corresponding Email;\nThanks,\nMr. Russell"
+    },
+    {
+        "from": "baiter_2260",
+        "to": "scammer_2260",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Good Day,",
+        "body": "Hello Mr. Russell,\n\nGood day to you too! I'm intrigued by your proposal and would love to learn more about it. Could you please provide more details about the type of raw materials your company requires? Also, could you tell me a bit more about how this partnership would work?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nLucille"
+    }
+]

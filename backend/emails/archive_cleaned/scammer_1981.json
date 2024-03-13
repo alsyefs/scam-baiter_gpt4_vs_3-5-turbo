@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1981",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "CENTRAL COURIER SERVICES LIMIT",
+        "body": "CENTRAL COURIER SERVICES LIMITED\nAddress: Napoli Espresso, 252 Broome St, New York, NY 10002,\nUnited States.\nContact, (\nofficetools830@gmail.com\n)\nAttention beneficiary,\nWe are writing this email to you and you should please respond to this email very urgently. We have perfected modalities on how to Deliver this fund to your house without any problem, but be aware that Bank of America (BOA) and the government of USA has only authorized us the release of $7,500,000.00 in cash. The Agent from the US Embassy was be in your house for delivery, unfortunately you did not respond to our previous notification\n \nYour urgent response to this email will facilitate the delivery, on the 18th of January 2024 as I have stated above but that can be done if we can have the following information Below.\nYour Names in Full\nAddress\nDirect Phone Number\nOccupation\nYour identification ID OR Driver License\nOnce your information is received it will enhance the smooth delivery of the fund Why the phone number and your home address are the most important information required is to enable the Agent to call you on arrival to your State. Every arrangement is in top gear and only you will make this a realty.\nLet us have the information above and the fund will be brought to your house without Any delay.\nMr Mike McBain\nCEO at Central Courier Service."
+    },
+    {
+        "from": "baiter_1981",
+        "to": "scammer_1981",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: CENTRAL COURIER SERVICES LIMIT",
+        "body": "Hello Mr. Mike,\n\nThank you for reaching out to me. I appreciate your offer to deliver the fund to my house. However, I have a few questions before I can provide you with the information you requested.\n\n1. Can you please explain in more detail how this delivery process works? How will the fund be transported and what security measures are in place?\n\n2. Is there any cost or fee associated with this delivery? If so, could you please provide me with the details?\n\n3. Can you verify your affiliation with Central Courier Services Limited? Are you able to provide any references or proof of your legitimacy?\n\nI look forward to hearing back from you soon.\n\nBest wishes,\nHerman"
+    }
+]

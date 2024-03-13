@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2439",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Good Day,",
+        "body": "  Good Day,\nI write you this letter from the heart full of sincerity and tension. I am Elizabeth Tkachenko the daughter of Mr. Tkachenko IBAHIBHA, Ukraine sunflower oil and wheat maize farmer, my parents and my little brother were murdered by the Russian Army troop because of the war between Russia and Ukraine. It was so very terrible. He was a sunflower oil and wheat and maize farmer who had invested much in agriculture.\nI acknowledge very well that my late father deposited the sum of 6.5 Million Euros. with a security and financial company in France with the intention of using it for the purchase of new farm machinery and chemicals for Agriculture, I can not do this on my own without the help of an experienced person living abroad due to my age and inexperience. As you may know, living in Ukraine is currently very risky and for this reason I am contacting you with great confidence in the hope of entrusting you with the care and custody of the fund for investment purposes in your country.\nPlease, I would like to know how convenient it might be for you to assist me claim the fund as a good business partner to my late father. Mr. Tkachenko IBAHIBHA. The fund in question is 6.5 Million Euros, I want you to understand that this is purely a family fund not a money laundering affair.\nI solicit for your honest assistance as I want this fund to be transferred to your account overseas with your partnership, I will want to invest this fund in your country. We can invest the fund as a family investment together with you in your Country. I look forward to your reasonable response and in return I will provide you with more details.\n \n Warm Regards,\nElizabeth Tkachenko   "
+    },
+    {
+        "from": "baiter_2439",
+        "to": "scammer_2439",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Good Day,",
+        "body": "Dear Elizabeth Tkachenko,\n\nThank you for reaching out to me with your story. I am truly sorry to hear about the tragic loss of your parents and brother. It must have been a very difficult time for you.\n\nI understand that you are looking for assistance in claiming the funds that your late father had deposited in France. I can imagine how important it is for you to secure this money, especially given the current situation in Ukraine.\n\nBefore we proceed further, I would appreciate it if you could provide me with more details about the fund and how exactly you envision us working together as business partners. Additionally, could you please clarify what kind of investment opportunities you have in mind?\n\nI want to assure you that I am genuinely interested in helping you, but I also want to make sure that everything is transparent and legal. Once I have a better understanding of the situation, we can discuss the next steps.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLinda"
+    }
+]

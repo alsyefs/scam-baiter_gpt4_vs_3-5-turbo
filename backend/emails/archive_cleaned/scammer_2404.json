@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2404",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Civista Bank (CB).",
+        "body": "  Civista Bank (CB).\n7455 Old Troy Pike,\nHuber Heights, Ohio 45424,\nUnited States of America,\nDeposit Operations Manager (CB)\nWire Transfer & Audit Department\n08/02/2024\nAttention:\nEverything is set to have your fund wired via the fastest method of online wire transfer, (MT202 Cov), and it will be done bit by bit so that you can receive it without any problem or delay. The Civista Bank wishes to remind you of your uncompleted transaction in the bank regarding your inheritance fund (US$36,000,000.00) of Late Mr. Ergeneman Özkentli.\nA signal has been sent to the IMF for verification to know if the fund is illegal or not, before the fund can actually be transferred into the new online account created in your name. After the verification the only thing the IMF discovered is ACH which they said you MUST Cleared before you can start making transfers. ACH is an Automated Clearing House that gives you permission to electronically take money from your online account and because of the huge fund involved. So that is why your fund is on hold by the IMF. If the ACH fee of $1,250 is cleared, a code will be generated and given to you and then you can start making transfers bit by bit to any choice of your bank account.\nWe sincerely apologize for the delay.\nThank you for banking with us.\nYours Sincerely,\nMs. Buffy Tuttle,\nDeposit Operations Manager,\nCivista Bank(CB).   "
+    },
+    {
+        "from": "baiter_2404",
+        "to": "scammer_2404",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Civista Bank (CB).",
+        "body": "Hello Ms. Buffy Tuttle,\n\nThank you for reaching out to me regarding my fund at Civista Bank. I appreciate the update on the progress of the wire transfer. Can you please provide me with more information about the ACH fee that needs to be cleared? What is the purpose of this fee and how much is it?\n\nI want to ensure that everything is done correctly and legally, so I would like to understand the process better. Could you also explain why the IMF needs to verify if the fund is illegal or not? Is there any specific reason for their involvement in this matter?\n\nThank you for your assistance.\n\nBest wishes,\nMary"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_67",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear sir,",
+        "body": "Dear sir,\nAPPROVED PART PAYMENT WITH ACCUMULATED INTEREST OF USD$15,000,000.00\nWith reference to the African Union meeting with World Bank and IMF and President of Ghana and President of Nigeria the sum fifteen Million  United States Dollars (US$15,000,000.00) has been Approved on your favor for onward release with Presidential Fait and i has been given the Authorization to handle the Payment Process.\nYour Approved Payment Informations are as follows:\nAPPROVAL NO: ADBG/GH/DB/XXA/0X0-UZ\nTRANSACTION CODE : XXX-APPLE-00101\nCOMPENSATION REF NO: US15M/GHPPATYGED/67549085\nBut yesterday we received a Power of Attorney from one Barrister Musa on your behalf asking us to change your beneficiary name and address to another in China.\nDid you ask for such changes on your behalf ?.\nWe are very sorry for whatever you have done in the process to receive your unpaid funds.\nKindly reconfirm your full name and address and telephone numbers without delays to avoid mistakes and to be sure we are paying the rightful beneficiary.\nKeep Confidential.\nRespond to this email without delays through \nYours Faithfully,\nFrank "
+    },
+    {
+        "from": "baiter_67",
+        "to": "scammer_67",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear sir,",
+        "body": "Dear Frank,\n\nThank you for reaching out to me regarding the approved part payment with interest of USD. I appreciate your efforts in handling the payment process. However, I must clarify that I did not request any changes to my name and address on my behalf.\n\nCould you please provide more information about the Power of Attorney received from Barrister Musa? I am curious to understand why such changes were requested without my knowledge or consent.\n\nTo ensure accuracy and avoid any mistakes, here is my full name, address, and telephone number:\n\nFull Name: \nAddress: \nTelephone Number: \n\nI hope this helps in resolving any confusion and ensuring that the rightful recipient receives the payment. Please let me know if there is any additional information or documentation required from my end.\n\nBest wishes,\nConstance"
+    }
+]

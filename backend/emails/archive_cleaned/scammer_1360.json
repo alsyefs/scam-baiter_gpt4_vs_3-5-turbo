@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1360",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Auditor General,",
+        "body": "Auditor General,\nGatehouse Bank PLC,\nLondon, United Kingdom.\nDear Friend,\nI am Mr.Jonathan Reid, the Auditor General, Gatehouse Bank PLC, London, United Kingdom. In the course of my auditing, I discovered a floating fund in an account, which was opened in 2008 belonging to a dead foreigner who died in 2017. I have been able to contact the Late account holder's attorney; but every effort made to track any member of his family or next of kin has since failed hence I got in contact with you to stand as his next of kin since you bear the same last name. He died leaving no heir or a will. Since his attorney is aware, you will contact his attorney since he has all the legal documents backing the fund.\nMy intention is to transfer this sum of Five Million, Five Hundred Thousand US Dollars only, in the aforementioned account to a safe account overseas. I am therefore proposing that you quietly partner with me and provide an account or set up a new one that will serve the purpose of receiving this fund. For your assistance in this venture, I am ready to part with a good percentage of the entire funds. We will share the funds in the proportion of 60% for you, 10% for the attorney, 20% for me and 10% will be donated to Charitable Organizations. After going through the deceased person's records and files, I discovered that:\n        (1) No one has operated this account since 2017.\n        (2) He died without an heir; hence the money has been floating.\n        (3) No other person knows about this account apart from the attorney and there was no known beneficiary. That is why every process has to go through the attorney.\nIf I do not remit this money urgently, it would be forfeited and subsequently converted to company's funds, which will benefit only the directors of my firm. This money can be approved to you legally as with all the necessary documentary approvals in your name. However, you would be required to show some proof of claim, which the attorney will provide you with and also guide you on how to make your applications.\nPlease do give me a reply so that I can send you detailed information on the modalities of my proposition. I completely trust you to keep this proposition absolutely confidential, I look forward to your prompt response.\nBest Regards,\nMr.Jonathan Reid\nAuditor General,\nGatehouse Bank PLC,\nLondon, United Kingdom"
+    },
+    {
+        "from": "baiter_1360",
+        "to": "scammer_1360",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Auditor General,",
+        "body": "Dear Reid,\n\nThank you for reaching out to me with this opportunity. I must say, it sounds quite intriguing. I appreciate your trust in me and I am definitely interested in learning more about the details and modalities of this venture.\n\nCould you please provide me with some additional information? Specifically, I would like to know more about the late account holder and the circumstances surrounding his death. Additionally, what legal documents are required for me to proceed as his next of kin? It would be helpful if you could also explain how the funds will be transferred and what my role would be in this process.\n\nI look forward to your prompt response and further guidance on how we can proceed.\n\nBest wishes,\nMichael"
+    }
+]

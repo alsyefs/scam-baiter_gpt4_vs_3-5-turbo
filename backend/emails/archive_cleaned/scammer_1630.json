@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1630",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Standard Trust Bank ltd",
+        "body": "  Standard Trust Bank ltd\nPrivate Banking  \noffering retail and wholesale\nbanking services\nHead Office: Plot 1662 Oyin Jolayemi St,\nPMB 1662,  Victoria Island, Lagos,\nLagos State, Nigeria\nDirect Tel: +234-90-16649319\nWhatsapp:+234-90-74572676\nPhone: +234 1 2620362\nFax: +234 1 2620371\nEmail: \nmspff.stndardtrustbank@gmail.com\nEmail: \nmk.spiff@standardtrust.com\n/www.standardtrust.com\nRef: STB.00/XX-16/A1\nDear Sir\nFollowing the recent review of central bank in receiving inheritance fund for final quarter of this fiscal year 2023, Hence you do not have money to sponsor your transaction,  there is a new window opened by central bank thru which your payment can be received without any upfront payment, the question is, are you willing to tap into this platform to receive your long overdue inheritance fund, this requires you travelling to any of the central bank liaison office to sign what they called, FINAL FUND RELEASE ORDER DOCUMENTS, can you travel, meet the central bank officials  signed documents and take to offshore payment center and receive your payment, You will meet the paymaster general who will release your payment  unconditionally without you paying any fees,\nHowever Hence you do not have money for travelling  am going to introduce you to an investor  who will take care of  your tickets hotel,accommodation and basic travelling allowance, but he will do this on the condition that he will collect 20% of your total inheritance fund, if that is acceptable, furnish me with your international passport to forward to him for your visa or equally his  contact information so that you can contact him to harmonize when you will travel, get back to me urgently to to determine your willingness to receive your inheritance via this central bank offshore payment centre\nregards\nMike Spiff\nDirector foreign operations\nStbank Ltd  "
+    },
+    {
+        "from": "baiter_1630",
+        "to": "scammer_1630",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Standard Trust Bank ltd",
+        "body": "Dear Mike Spiff,\n\nThank you for reaching out to me with this information. I appreciate your offer to help me receive my long overdue funds through the new window opened by the central bank. It sounds like an interesting opportunity.\n\nI would like to learn more about this platform and how it works. Could you please provide me with some additional details? How exactly does the process of signing the FINAL FUND RELEASE ORDER DOCUMENTS at the central bank liaison office work? Are there any specific requirements or documents that I need to bring with me?\n\nRegarding the investor who can take care of my travel expenses, I'm curious to know more about their involvement. Can you tell me a bit about this investor and how they are connected to the process of receiving my payment? Also, what would be the total amount of my fund that they would collect?\n\nLastly, if possible, could you share some information about the offshore payment center where I will receive my payment? What are their procedures and security measures in place to ensure a smooth transaction?\n\nI look forward to hearing back from you soon.\n\nBest wishes,\nBrian"
+    }
+]

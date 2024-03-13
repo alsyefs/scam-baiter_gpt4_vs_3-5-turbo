@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2699",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Greetings,",
+        "body": "  Greetings,\nI am Mr. Ali Bin Ahmed Al-Kuwari, Manager Finance and Account,\nQatar Petroleum. I have  one hundred million dollars for\nInvestment.\nContact me if you are interested, I have all it take to move the\nfund to you as a contract fund to avoid every query. I will give\nyou more details upon the receipt of your response.\nRegards,\nAli Bin Ahmed Al-Kuwari\nFinance and Account\nQatar Petroleum\nEmail: \nytiiusa2@gmail.com\n "
+    },
+    {
+        "from": "baiter_2699",
+        "to": "scammer_2699",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Greetings,",
+        "body": "Hello Mr. Ali Bin Ahmed,\n\nI hope this message finds you well. Your proposal sounds very interesting, although I must admit, it's a bit overwhelming for me. Could you please provide more details about this? How exactly would this process work?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nIsmael"
+    }
+]

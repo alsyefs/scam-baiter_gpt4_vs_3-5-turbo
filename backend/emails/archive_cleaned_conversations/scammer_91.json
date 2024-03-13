@@ -1,0 +1,412 @@
+[
+    {
+        "from": "scammer_91",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Compliments to you ,",
+        "body": "  Compliments to you ,\nMy name is Alhaji Musa Isa , I am a Financial Consultant in Africa.I\nrepresents a Politician . He has a pool of funds for partnership\nInvestments. Please contact me with your whatsapp number if you want\nto be a beneficiary of these joint investment opportunities in your\ncountry.\nRegards,\nMusa Isa   "
+    },
+    {
+        "from": "baiter_91",
+        "to": "scammer_91",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Compliments to you ,",
+        "body": "Hello Musa Isa,\n\nThank you for reaching out to me. I'm interested in learning more about this joint investment opportunity. Could you please provide me with some additional details? What kind of investment is it, and what are the potential returns?\n\nAlso, could you clarify who the politician is that you represent? It would be helpful to know more about their background and track record.\n\nLooking forward to hearing from you.\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_91",
+        "to": "baiter_91",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Compliments to you ,",
+        "body": "Dear Daniel ,\r\n\r\n\r\nThank you for your email .Because of my busy schedule I would like you\r\nto  please\r\nsend your full names , mobile number to my colleague Mr Kenneth. He will\r\nbrief you with more  detailing of this  transaction .\r\n\r\n\r\nHis email : kennethchabal@avalacapitals.com"
+    },
+    {
+        "from": "baiter_91",
+        "to": "scammer_91",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0005439814814814814,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Compliments to you ,",
+        "body": "Dear Daniel,\n\nThank you for reaching out to me. I appreciate your interest in sharing more information with me. However, before I proceed, could you please provide me with some additional details? What exactly is the nature of the information you would like to share? It would be helpful to have a brief overview so that I can better understand what this is about.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_91",
+        "to": "baiter_91",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.009467592592592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Compliments to you ,",
+        "body": "Dear Daniel ,\r\n\r\nDirect your questions to Mr Kenneth he would be in the best position to\r\nanswer your questions.\r\n\r\nDon’t forget to forward me all responses from him for reference purposes.\nRegards\r\nAlhaji Musa Isa"
+    },
+    {
+        "from": "baiter_91",
+        "to": "scammer_91",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00974537037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Compliments to you ,",
+        "body": "Dear Alhaji Musa Isa,\n\nThank you for your response. I appreciate your assistance in directing me to Mr. Kenneth. I would be happy to reach out to him with my questions.\n\nCould you please provide me with Mr. Kenneth's contact information? I want to make sure I reach out to the correct person.\n\nAlso, could you let me know what kind of information Mr. Kenneth specializes in? This will help me frame my questions appropriately.\n\nThank you again for your help, and I look forward to hearing from you soon.\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_91",
+        "to": "baiter_91",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.014641203703703703,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Compliments to you ,",
+        "body": "Dear Daniel ,\r\n\r\nThank you for your swift response. Find below the contact to Mr Kenneth.\r\n\r\n\r\nHis email : kennethchabal@avalacapitals.com\r\n\r\n\r\nFeel free to ask him whatever questions relating to this proposal\r\n\r\n\r\nThank you"
+    },
+    {
+        "from": "baiter_91",
+        "to": "scammer_91",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.015127314814814816,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Compliments to you ,",
+        "body": "Dear Daniel,\n\nThank you for providing the contact information for Mr. Kenneth. I appreciate your willingness to help me with any questions I may have regarding this proposal. Before I reach out to him, could you please provide me with some more details about the nature of this proposal? I want to make sure I have a clear understanding before proceeding.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_91",
+        "to": "baiter_91",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.024583333333333332,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Compliments to you ,",
+        "body": "Dear Daniel ,\r\n\r\nThis project is all about you and what you can invest money on .\r\n\r\nYou have to talk about your willingness to work with a particular amount\r\nfor your projects"
+    },
+    {
+        "from": "baiter_91",
+        "to": "scammer_91",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.024849537037037038,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Compliments to you ,",
+        "body": "Dear Daniel,\n\nThank you for reaching out to me about this project. I'm interested in learning more about how I can invest my money. Can you please provide me with some details on what the project entails and how it can benefit me?\n\nLooking forward to hearing from you.\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_91",
+        "to": "baiter_91",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.040081018518518516,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Compliments to you ,",
+        "body": "Please direct your questions to Mr Kenneth\r\n\r\nThank you"
+    },
+    {
+        "from": "baiter_91",
+        "to": "scammer_91",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.04096064814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Compliments to you ,",
+        "body": "Hello Mr. Kenneth,\n\nThank you for reaching out. I'm happy to help answer any questions or provide information you may need. Please go ahead and ask your question, and I'll do my best to assist you.\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_91",
+        "to": "baiter_91",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.1183101851851855,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: Compliments to you ,",
+        "body": "I guess you didn't reach out to Kenneth"
+    },
+    {
+        "from": "baiter_91",
+        "to": "scammer_91",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.797928240740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: Compliments to you ,",
+        "body": "Hello there! I'm sorry, but I don't believe we've met before. How can I help you today?\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_91",
+        "to": "baiter_91",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.98525462962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: Compliments to you ,",
+        "body": "Dear Daniel ,\r\n\r\nThis fund is deposited in a security company for security purposes.The\r\ntotal amount in store is $20,000.000.00 USD.\r\n\r\nI  contacted you because I need your assistance to invest these funds in a\r\nlucrative business venture of your choice.\r\nFor this project you will get 50% for yourself and your team while I get\r\nthe same for my team.\r\n\r\nIn order to get these funds approved and assigned to you for the investment\r\npurpose you are expected to pay for the legal service fee involved for this\r\ntransaction to be spelt in your name.\r\n\r\nThe service fee includes attorney fee, documents fee and the storage fee of\r\nthe money which is packaged in a consignment box.\r\n\r\nThese fees have been calculated to an estimated amount of $50,000USD ..\r\n\r\nIf you can pay these fees then you can come to meet us so we have this\r\ntransaction concluded\r\n\r\nThank you"
+    },
+    {
+        "from": "baiter_91",
+        "to": "scammer_91",
+        "direction": "Outbound",
+        "days_from_first_conversation": 9.986354166666667,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: Compliments to you ,",
+        "body": "Hello! That sounds like an interesting opportunity. Can you provide more details about the business venture you have in mind for investing these funds? What kind of returns can be expected from this investment?\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_91",
+        "to": "baiter_91",
+        "direction": "Inbound",
+        "days_from_first_conversation": 9.99,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: Compliments to you ,",
+        "body": "We would prefer to invest in hotels , real estates , Agriculture etc\r\n\r\nAs for the returns 20% return on investment"
+    },
+    {
+        "from": "baiter_91",
+        "to": "scammer_91",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.006273148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: Compliments to you ,",
+        "body": "That's great to hear! Investing in hotels and real estate can be a lucrative venture. Can you tell me more about the potential returns on investment you are expecting from these types of properties?\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_91",
+        "to": "baiter_91",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.00951388888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re: Compliments to you ,",
+        "body": "Dear Daniel ,\r\n\r\nLike I said before the total amount in store is $20,000.000.00 USD.\r\n\r\nFor this project you will get 50%  of $20,000.000.00 USD for yourself and\r\nyour team while I get the same for my team.\r\n\r\nSo there is no point working with return on investment annually\r\n\r\nIn order to get these funds approved and assigned to you for the investment\r\npurpose you are expected to pay for the legal service fee involved for this\r\ntransaction to be spelt in your name.\r\n\r\nThe service fee includes attorney fee, documents fee and the storage fee of\r\nthe money which is packaged in a consignment box.\r\n\r\nThese fees have been calculated to an estimated amount of $50,000USD ..\r\n\r\nIf you can pay these fees then you will have 50%  of $20,000.000.00 USD.\r\n\r\nThank you"
+    },
+    {
+        "from": "baiter_91",
+        "to": "scammer_91",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.027916666666666,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "19",
+        "subject": "Re: Compliments to you ,",
+        "body": "Hello! Thank you for sharing this information with me. Can you provide more details about the legal service fee and how it is typically processed? I want to make sure I understand everything clearly before moving forward.\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_91",
+        "to": "baiter_91",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.035416666666666,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "20",
+        "subject": "Re: Compliments to you ,",
+        "body": "Dear Daniel ,\r\n\r\nThank you once again  for your swift response. The legal documents for the\r\nproject would be processed by an attorney and taken to the court for\r\nnotarization .\r\n\r\nThere are other back up documents that would also be procured from the\r\ngovernment agencies which would back up documents from the attorneys office.\r\n\r\nI hope with these explanations we can proceed .It's been from one question\r\nto another .\r\n\r\nPlease tell me about yourself ,where you are from and your plans for the\r\nmoney just in case you get 50% of the funds after the successful\r\ntransaction."
+    },
+    {
+        "from": "baiter_91",
+        "to": "scammer_91",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.047708333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "21",
+        "subject": "Re: Compliments to you ,",
+        "body": "Hello! That sounds like a thorough process for the legal documents. I'm curious, what kind of project is this for? As for myself, I prefer to keep personal information private. Can you share more details about how the funds will be used once they are successfully obtained?\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_91",
+        "to": "baiter_91",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.0515625,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "22",
+        "subject": "Re: Compliments to you ,",
+        "body": "Dear Daniel ,\r\n\r\nThank you once more. If funds are successfully obtained you are taking 50%\r\nout of $20.000.000.00 USD .\r\n\r\nYou can do with that $10,000.000.00 USD whatever you choose to do with it.\r\n\r\nAs soon as this operation is successful you send me my share and take yours\r\n.\r\n\r\nI have got my own personal plans for my own share .\r\n\r\nLets say 50% is $10,000.000.00 USD  that's yours same as mine too."
+    },
+    {
+        "from": "baiter_91",
+        "to": "scammer_91",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.069212962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "23",
+        "subject": "Re: Compliments to you ,",
+        "body": "Hello! That sounds interesting. Can you tell me more about how the funds will be obtained and what the operation entails? I'm curious to learn more about it.\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_91",
+        "to": "baiter_91",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.072164351851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "24",
+        "subject": "Re: Compliments to you ,",
+        "body": "Daneil ,\r\n\r\nIn order to get these funds approved and assigned to you for our investment\r\npurpose  you are expected to pay for the legal service fee involved for\r\nthis operations\r\n\r\nThe service fee includes attorney fee, documents fee and the storage fee of\r\nthe money which  has been  packaged as valuable assets.\r\n\r\nThese fees have been calculated to an estimated amount of $50,000USD ..\r\n\r\nIf you can pay these fees then this transaction would kickstart for\r\napproval and the funds would be released to you within 3 working days.\r\n\r\nThank you"
+    },
+    {
+        "from": "baiter_91",
+        "to": "scammer_91",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.08957175925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "25",
+        "subject": "Re: Compliments to you ,",
+        "body": "Hello Daneil, thank you for sharing this information with me. Could you please provide more details about the legal service fee and how it is calculated? I want to make sure I understand everything clearly before proceeding.\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_91",
+        "to": "baiter_91",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.112546296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "26",
+        "subject": "Re: Compliments to you ,",
+        "body": "Dear Daniel ,\r\n\r\n\r\nThe documents do not have a fixed price, i have been given the estimated\r\namount that should secure all the  documents which i have mentioned that\r\nwith $50,000 .00 USD the documents and all expenses would be taken care of\r\nwithin the process for funds to be released and transferred to your given\r\nbank account.\r\n\r\n\r\nBelow is the list of documents that would be procured in your favor by the\r\nattorney.\r\n\r\n\r\n1. AFFIDAVIT OF CLAIM, SWORN IN THE HIGH COURT OF JUSTICE\r\n\r\n\r\n2. PROBATE CERTIFICATE FROM THE PROBATE DIVISION OF JUSTICE.\r\n\r\n\r\n3. CERTIFICATE OF LEGALITY FROM THE DEPARTMENT OF JUSTICE.\r\n\r\n\r\nThese are other CERTIFICATES that would be procured .\r\n\r\n\r\ni)  ANTI MONEY LAUNDERING CERTIFICATE\r\n\r\n\r\nii) ANTI DRUG CERTIFICATE\r\n\r\n\r\niii) ANTI TERRORIST  CERTIFICATE"
+    },
+    {
+        "from": "baiter_91",
+        "to": "scammer_91",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.131180555555556,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "27",
+        "subject": "Re: Compliments to you ,",
+        "body": "Hello Daniel,\n\nThank you for sharing this information about the documents required for the process. Could you please provide more details on how these documents are related to the funds being released to my bank account? I want to make sure I understand the process clearly.\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_91",
+        "to": "baiter_91",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.143796296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "28",
+        "subject": "Re: Compliments to you ,",
+        "body": "Dear Daniel ,\r\n\r\n\r\nThe  AFFIDAVIT OF CLAIM is also known as a beneficiary document .This would\r\napprove you to be the beneficiary to the project funds.\r\n\r\n\r\nThe PROBATE CERTIFICATE FROM THE PROBATE DIVISION OF JUSTICE. This\r\ncertificate helps you get the total amount  fur your investment\r\n\r\n\r\nThe CERTIFICATE OF LEGALITY FROM THE DEPARTMENT OF JUSTICE ; This\r\nguarantees that the funds has no link with any criminality .So having this\r\ncertificate acquits you from any illegal charge.\r\n\r\n\r\nThese are other CERTIFICATES that would be procured .\r\n\r\n\r\ni)  ANTI MONEY LAUNDERING CERTIFICATE.This certificate acquits you from any\r\nmoney laundering accusation.\r\n\r\n\r\nii) ANTI DRUG CERTIFICATE This certificate is to proof that the funds has\r\nnot been accrued from the sales of hard drugs\r\n\r\n\r\niii) ANTI TERRORIST  CERTIFICATE;  This certificate is for who to know that\r\nthese funds are not in any link  with terriorism\r\n\r\n\r\nSo in conclusion onces these documents are procured there will be no\r\nhindrance to letting you have a successful transfer of your funds.\nRegards"
+    },
+    {
+        "from": "baiter_91",
+        "to": "scammer_91",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.152997685185186,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "29",
+        "subject": "Re: Compliments to you ,",
+        "body": "Hello Daniel,\n\nThank you for sharing this information about the different documents required for the transfer of funds. It's important to ensure all necessary paperwork is in order to avoid any complications.\n\nCould you provide more details on how these documents are typically obtained and what steps need to be taken to acquire them? I want to make sure I have a clear understanding of the process involved.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_91",
+        "to": "baiter_91",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.158148148148149,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "30",
+        "subject": "Re: Compliments to you ,",
+        "body": "Dear Daniel ,\r\n\r\nTo get all this documents obtained you have to make payment .\r\n\r\nSecondly you have to provide us with your full names , address  and mobile\r\nnumber with a copy of your photo\r\n\r\nThank you"
+    },
+    {
+        "from": "baiter_91",
+        "to": "scammer_91",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.172638888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "31",
+        "subject": "Re: Compliments to you ,",
+        "body": "Hello! Thank you for the information. Can you please tell me more about the documents that need to be obtained? What is the payment process like?\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_91",
+        "to": "baiter_91",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.183171296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "32",
+        "subject": "Re: Compliments to you ,",
+        "body": "Payment validates the procurement process of the documents.\r\n\r\nPayment would be via bank to bank transfer\r\n\r\nThank you"
+    },
+    {
+        "from": "baiter_91",
+        "to": "scammer_91",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.194398148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "33",
+        "subject": "Re: Compliments to you ,",
+        "body": "Hello! Thank you for sharing that information. Can you tell me more about the documents and the process that needs to be validated?\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "baiter_91",
+        "to": "scammer_91",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.194675925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "34",
+        "subject": "Re: Compliments to you ,",
+        "body": "Hello! Thank you for sharing that information. Can you tell me more about the documents and the process that needs to be validated with the payment?\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_91",
+        "to": "baiter_91",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.196770833333334,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "35",
+        "subject": "Re: Compliments to you ,",
+        "body": "I have explained to you about this project . It’s time for you to decide if\r\nyou are moving forward with this project or not .\r\nNo more further questions\r\n\r\nThank you"
+    },
+    {
+        "from": "baiter_91",
+        "to": "scammer_91",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.214305555555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "36",
+        "subject": "Re: Compliments to you ,",
+        "body": "Hello! I appreciate you explaining the project to me. Can you provide more details about what moving forward with the project would entail? I'm interested in learning more before making a decision. Thank you for your help!\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_91",
+        "to": "baiter_91",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.219652777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "37",
+        "subject": "Re: Compliments to you ,",
+        "body": "Moving forward entails making payment for the documents"
+    },
+    {
+        "from": "baiter_91",
+        "to": "scammer_91",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.236412037037036,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "38",
+        "subject": "Re: Compliments to you ,",
+        "body": "Hello! That sounds important. Can you tell me more about the documents and why payment is required?\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_91",
+        "to": "baiter_91",
+        "direction": "Inbound",
+        "days_from_first_conversation": 10.24335648148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "39",
+        "subject": "Re: Compliments to you ,",
+        "body": "Thank you for your time Bye ."
+    },
+    {
+        "from": "baiter_91",
+        "to": "scammer_91",
+        "direction": "Outbound",
+        "days_from_first_conversation": 10.257141203703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "40",
+        "subject": "Re: Compliments to you ,",
+        "body": "You're welcome! Before you go, have you heard about the latest investment opportunities in the market?\n\nBest wishes,\nDaniel"
+    }
+]

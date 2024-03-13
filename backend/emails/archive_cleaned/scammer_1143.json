@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1143",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  From Evergreen Bank",
+        "body": "  From Evergreen Bank\n3842 W 95th Street. Evergreen Park, IL 60805\nAttn: Sir,\nCompliment of the day to your and your family We are the\nI hereby write to bring to your notice based on the meeting concluded last week regarding your unpaid fund of $2,500,000.00.\nIn regards to this, the bank has agreed that your unpaid fund will be released to you through the method of bank wire transfer into your nominated bank account.\nPrior to this, you are advised to furnish your receiving bank account information as stated below for transfer processing/approval.\nWire Transfer Required information\n \n1) Bank name:\n2) Bank address:\n3) Account no:\n4) Routing no:\n5) Swift Code:\n6) Account name:\n7) Address:\nAwait for your quick response with the required account details,\nThanks,\nYours in services\nYours faithful,\nDarin Campbell\nHead of Fund Transfer Dept Evergreen Bank   "
+    },
+    {
+        "from": "baiter_1143",
+        "to": "scammer_1143",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   From Evergreen Bank",
+        "body": "Hello,\n\nThank you for reaching out to me from Evergreen Bank. I hope you are doing well. I appreciate the information you have provided regarding my unpaid fund. It's good to know that the bank has agreed to release it through a bank wire transfer.\n\nBefore I proceed, could you please clarify which meeting you are referring to? I want to make sure I have all the necessary details. Additionally, could you provide more information about the process of transfer processing approval? How long does it usually take?\n\nI look forward to your response.\n\nBest wishes,\nJeffrey"
+    }
+]

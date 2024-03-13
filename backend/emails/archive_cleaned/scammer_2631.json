@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2631",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello how Is everything going ",
+        "body": "Hello how Is everything going today?\nI will be expecting good news from you by purchasing the $100 gift card as soon as possible.\nListen you are the one delaying your transaction and if you real want to receive your FUND worth of $8.5M kindly send the obligate charges of $100 through gift card and attach the gift card copy here and receive your FUND through any means of your choice ok.\nBe informed that nothing will be done until the fees is received and be rest assured that the fees is the only thing that is delaying your transaction and nothing else.\nTry to send this today by sending razor gold card or Sephora gift card of $100 today and let your ATM card be dispatch immediately without any delaying..\nI agent Mark J Williams swear with my life that if you send this $100 right now and didn't receive your ATM card worth of $8.5M within 48hrs ,\nI Agent Mark J Williams swear with my life..\nBest wishes, Agent Mark J Williams"
+    },
+    {
+        "from": "baiter_2631",
+        "to": "scammer_2631",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello how Is everything going ",
+        "body": "Hello! Everything is going well, thank you for asking. I appreciate the information you shared about purchasing a gift card to receive my FUND. Can you provide more details about the process and how it works? I'm interested in learning more before proceeding.\n\nBest wishes,\nLoretta"
+    }
+]

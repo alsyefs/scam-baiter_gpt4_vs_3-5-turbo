@@ -1,0 +1,102 @@
+[
+    {
+        "from": "scammer_268",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Customer",
+        "body": "Dear Customer\nThe management and the Board of Directos of Federal Reserve Bank New York, Have started New Year Bonanza for our loyal customers for believing in us.\nToday being Friday 26th January 2024, This bonanza will last only 5 working days, The bonanza is meant to help all our customers to receive all thier inheritance funds in our bank.\nThe transfer charges which is in higher prize before has come down to the sum of $50.00 USD only.\nNow you are advised to purchase Razor Gold card or Steam Wallet card $50.00 USD.\nScratch it and send it immediately. \nyou are also advised to reconfirm your bank details\n for the transfer of your funds $15,5 Million USD.\nAgain be reminded again that this bonanza will last only for 5 working days only. After the 5 days the bonanza will be invalid.\nThanks\nMrs Adena T. Friedman"
+    },
+    {
+        "from": "baiter_268",
+        "to": "scammer_268",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Customer",
+        "body": "Dear Mrs. Adena T. Friedman,\n\nThank you for reaching out to me with this exciting opportunity. I appreciate the effort that the management and Board of Directors of Federal Reserve Bank New York are putting into rewarding their loyal customers.\n\nI have a few questions regarding this bonanza. Firstly, could you please provide more details about how purchasing a Razor Gold card or Steam Wallet card will help in receiving my funds? How does scratching and sending it contribute to the transfer process?\n\nAdditionally, I would like to know how I can reconfirm my bank details for the transfer of my funds. Could you guide me through the steps or provide any specific instructions?\n\nLastly, I understand that this bonanza is time-limited and will only be valid for working days. Could you please clarify when exactly it will end so that I can make sure to take advantage of this opportunity within the given timeframe?\n\nThank you once again for sharing this information with me. I look forward to your response.\n\nBest wishes,\nDarrell"
+    },
+    {
+        "from": "scammer_268",
+        "to": "baiter_268",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Customer",
+        "body": "Thank you dear Darrell I am very happy to inform you that Razor Gold card\r\nor Steam Wallet re all Gift cards. That you can purchase at stores or\r\nsupermarket.\r\n\r\nThen you can scratch the card then scan it and send it to me here on this\r\nemail. Foe us to see the code and redeem the card.\r\n\r\nSecondly the bonanza will officially close on Tuesday. So you have to\r\nproceed now to get the card of 50.00 USD and send it as you have been\r\ndirected.\r\n\r\nOnce you send it. Then confirm your bank full details for the transfer of\r\nyour funds here. Please be fast about the fee of the 50.00 USD."
+    },
+    {
+        "from": "baiter_268",
+        "to": "scammer_268",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.108125,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Customer",
+        "body": "Hello Darrell,\n\nThank you for sharing this information with me. I appreciate your help. Just to clarify, you mentioned that the Razor Gold card and Steam Wallet are gift cards that can be purchased at stores, correct? And once we have the card, we need to scratch it, scan it, and send you the code so that you can redeem it, is that right?\n\nYou also mentioned that there is a bonanza closing on Tuesday. Could you please provide more details about this bonanza? What exactly do I need to do in order to participate and receive my funds? I want to make sure I understand everything correctly before proceeding.\n\nThank you again for reaching out to me. I look forward to hearing back from you soon.\n\nBest wishes,\nDarrell"
+    },
+    {
+        "from": "scammer_268",
+        "to": "baiter_268",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.1292361111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Dear Customer",
+        "body": "All you have to do is buy the card and scratch it. Then scan it and send it\r\nto me and also provide your account details. Then your funds will be\r\ntransferred into your account that you will provide okay."
+    },
+    {
+        "from": "baiter_268",
+        "to": "scammer_268",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.12964120370370372,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Dear Customer",
+        "body": "Hello! Thank you for reaching out to me. I appreciate your offer, but I have a few questions before proceeding. Could you please explain to me how buying and scanning the card will result in funds being transferred to my account? I just want to make sure I understand the process correctly.\n\nBest wishes,\nDarrell"
+    },
+    {
+        "from": "scammer_268",
+        "to": "baiter_268",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.13172453703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Dear Customer",
+        "body": "The gift card of 50.00 USD is the fee needed from you okay"
+    },
+    {
+        "from": "baiter_268",
+        "to": "scammer_268",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.13247685185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Dear Customer",
+        "body": "Hello! Thank you for reaching out to me. I'm interested in learning more about this gift card and how it works. Could you please provide me with some additional information?\n\nBest wishes,\nDarrell"
+    },
+    {
+        "from": "scammer_268",
+        "to": "baiter_268",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.13377314814814814,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Dear Customer",
+        "body": "Please go to store and get it. I have explained everything you need to know\r\nokay. No more questions again."
+    },
+    {
+        "from": "baiter_268",
+        "to": "scammer_268",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.13456018518518517,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Dear Customer",
+        "body": "Hello! Thank you for reaching out. I appreciate your willingness to share information with me. Could you please provide me with more details about what I need to get from the store? I want to make sure I understand everything correctly before taking any further steps.\n\nBest wishes,\nDarrell"
+    }
+]

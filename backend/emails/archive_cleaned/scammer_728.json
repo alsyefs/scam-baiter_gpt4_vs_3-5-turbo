@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_728",
+        "to": "baiter_728",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Let's move forward",
+        "body": "Dear Vivian,\r\n\r\nThere are legal documentation fees involved so confirm if you are ready to\r\npay the fees or not before we can move forward together.\r\n\r\nMr. Jorge Pardo"
+    },
+    {
+        "from": "baiter_728",
+        "to": "scammer_728",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Let's move forward",
+        "body": "Hello Mr. Jorge Pardo,\n\nThank you for your message. I'm interested in learning more about these legal fees you mentioned. Could you please provide me with some more details? What exactly are these fees for and how much would they be?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nVivian"
+    },
+    {
+        "from": "scammer_728",
+        "to": "baiter_728",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0958912037037036,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Let's move forward",
+        "body": "First, we need to process your registration so send me your details - your\r\naddress, phone number, your ID etc.\r\n\r\nMr. Jorge Pardo"
+    },
+    {
+        "from": "baiter_728",
+        "to": "scammer_728",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.103761574074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Let's move forward",
+        "body": "Oh, hello Mr. Jorge Pardo! It's so nice to meet you. I'm really interested in what you're saying, but I'm not sure why you need my personal details like address and phone number. Can you explain a bit more about the process?\n\nBest wishes,\nVivian"
+    }
+]

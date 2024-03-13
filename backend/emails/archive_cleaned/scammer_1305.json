@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1305",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  I write to know if your comp",
+        "body": "  I write to know if your company is open for investors, as we are currently providing financial support to companies and individuals for start-up or business expansion. Our Investors can fund up to Ten Billion USD for a lucrative project with viable R.O.l.\nWe also pay 3% commission to individuals who direct clients to us for financing and Please feel free to contact us with your project plan for our review and possible co-operation.\nThank you in advance as I anticipate your kind response.\nRegards,\nMr. John Lewis,\nFinancial Consultant\nFunding opportunity﻿   "
+    },
+    {
+        "from": "baiter_1305",
+        "to": "scammer_1305",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   I write to know if your comp",
+        "body": "Hello Mr. John Lewis,\n\nThank you for reaching out and offering your financial support. It's great to hear that there are investors willing to fund projects up to Ten Billion USD, that's quite impressive!\n\nCould you please provide more details about the kind of projects your investors are interested in? Also, what is the process for submitting a project plan for review?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nDarren"
+    }
+]

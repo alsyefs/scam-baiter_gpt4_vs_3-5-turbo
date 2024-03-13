@@ -1,0 +1,52 @@
+[
+    {
+        "from": "scammer_87",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  WORD BANK FUNDS INVESTIGATIO",
+        "body": "  WORD BANK FUNDS INVESTIGATION UNIT.\nFBI.Headquarters\n935 Pennsylvania Avenue, NW\nWashington, DC 20535 USA\nGood Day,\nWith Due Respect    \nThis is to bring to your notice that a cash payment of US$2,000,000.00 being a compensation payment for being an online victim of internet Fraud/Scam has been issued to your name and the sum will be paid thought any of our corresponding bank, before receiving your fund, you are to contact our payment office with your personal details for verification, re-activation of payment:\nFull name: ................\nCountry and address: ..................\nPhone: ....................\nSex:.......................\nYears:.......................\nOccupation:................\ncopy of your identity document: .........\nUpon verification of your data, you will be notified about the requirements for the approval of your fund.\nFurthermore, the endorsement fee will cost you the sum of US$350 (Three  hundred and fifty dollars only) after which our headquarters will authorize any of our corresponding bank  to carry out the transfer of your fund to your designated bank account or we can as well deliver the fund to your home through diplomatic meance.Contact us immediately for further clarification regarding your payment.\nSincerely,\nMr.Alexander Titolo\nAgent Representative.   "
+    },
+    {
+        "from": "baiter_87",
+        "to": "scammer_87",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   WORD BANK FUNDS INVESTIGATIO",
+        "body": "Hello Agent Titolo,\n\nThank you for reaching out to me. I'm quite surprised to hear about this cash payment. Could you please provide more details about how my name was selected for this? Also, could you explain a bit more about the nature of this internet Fraud Scam?\n\nI'm also curious about the payment process. Why is there a fee involved and what exactly does it cover? \n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nChristian"
+    },
+    {
+        "from": "scammer_87",
+        "to": "baiter_87",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "compensation fund",
+        "body": "Dear Mr Christian\r\nThanks for your response and of course we got your contact email through\r\nthe internet net work online during our research and quest for this\r\ncompensation . So you should consider yourself lucky as one of the\r\nbeneficiaries .\r\nMeanwhile the payment process is to be chosen by you either through wire\r\ntransfer (TT) to your nominated bank account or via a post dated Check or\r\nbank draft that can be delivered to your doorstep after the handling and\r\ninsurance fee is paid.\r\n\r\nYes the $350 is the only fee required to cover all processes associated\r\nwith the protocols involved to ensure that you received this approved\r\ncompensation .\r\nTherefore please kindly send your full details including your address and\r\ncontact phone numbers for easy and faster communication , so that i can\r\nrefer you to the two paying banks for further communications .\nThanks and best wishes\r\nMr Alexander"
+    },
+    {
+        "from": "baiter_87",
+        "to": "scammer_87",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00020833333333333335,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: compensation fund",
+        "body": "Hello Mr. Alexander,\n\nThank you for your prompt response and the detailed explanation. I must say, I'm quite thrilled to be considered lucky! \n\nRegarding the payment process, could you please elaborate a bit more on how each method works? Specifically, I'm interested in understanding the differences between wire transfer TT and post-dated check or bank draft.\n\nAlso, could you provide more information about the handling and insurance fee? How much is it exactly and what does it cover?\n\nI appreciate your assistance with this matter.\n\nBest wishes,\nChristian"
+    },
+    {
+        "from": "baiter_87",
+        "to": "scammer_87",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0008333333333333334,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: compensation fund",
+        "body": "Hello Mr. Alexander,\n\nThank you for your prompt response and the detailed explanation. I must say, I'm quite thrilled to be considered lucky! \n\nI'm curious about the payment process you mentioned. Could you please elaborate more on how the wire transfer TT works? Also, could you provide more information about the post-dated check or bank draft option?\n\nRegarding the handling and insurance fee, could you kindly clarify what this fee covers specifically? And how is it calculated?\n\nAs for my details, I'd prefer to understand more about these processes before sharing any personal information. I hope that's okay.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nChristian"
+    }
+]

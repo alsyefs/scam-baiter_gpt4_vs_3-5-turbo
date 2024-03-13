@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2619",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "From the Office of Presidency.",
+        "body": "From the Office of Presidency.\nThe senior special Adviser to Nigeria President on Contract Matters.\n:Attn: SIR/ MA.\nREF: YOUR PAYMENT VERIFICATION AND CLEARANCE NOTICE.\nTHIS  IS TO  ALERT YOU OF THE IMMEDIATE RELEASE OF  YOUR CONTRACT/INHERITANCE  FUND.  YOU ARE HEREBY ADVISE TO RECONFIRM YOUR DETAILS HERE FOR IMMEDIATE TRANSFER TO YOUR FUND PAYMENT SETTLEMENT.\nWE LOOK FORWARD TO HEAR FROM YOU WITH ALL YOUR CONTACT DETAILS FOR THE FINAL RELEASE OF YOUR CONTRACT AMOUNT.\nHajia Widad Babiker Omer.\nThe senior special Adviser to Nigeria President on Contract Matter"
+    },
+    {
+        "from": "baiter_2619",
+        "to": "scammer_2619",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: From the Office of Presidency.",
+        "body": "Hello,\n\nThank you for reaching out to me regarding the release of my contract fund. I appreciate your assistance in this matter. Could you please provide me with more information about the process and what steps I need to take to ensure the smooth transfer of the funds?\n\nAdditionally, I would like to confirm the authenticity of this communication. Is there a way for me to verify your position as the senior special adviser to Nigeria's President on Contract Matters? It is important for me to be cautious and ensure that I am dealing with legitimate individuals.\n\nLooking forward to your response.\n\nBest wishes,\nRenaldo"
+    }
+]

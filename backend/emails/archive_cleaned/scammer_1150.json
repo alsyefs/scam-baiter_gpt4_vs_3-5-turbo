@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1150",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention Sir:",
+        "body": "  Attention Sir:\nCongratulations,\nSir! Your name has been listed as one of the Ten\n(10) Beneficiaries (Contractors) entitled to\nreceive their long over-due contract payment\ninstructed by the Government.\nFurthermore, the new order given by Government is\nto deduct all charges directly from the source and\nwire the balance payment to your nominated bank\naccount.\nTo proceed with the payment, we kindly request you\nto provide us with your receiving bank details,\nwhere the funds will be wired.\nAdditionally, send your contact information for a\nprompt/swift response.\nOnce again, congratulations, sir.\nWarm Regards,\nDr.John Pedro.\nCredit and Wire Officer.\nCentral Bank Of Nigeria\n(CBN) Nigeria.   "
+    },
+    {
+        "from": "baiter_1150",
+        "to": "scammer_1150",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention Sir:",
+        "body": "Hello Pedro,\n\nThank you for reaching out to me. I'm quite surprised to hear that my name has been listed as one of the ten entitled to receive a long contract payment. Could you please provide more details about this? How was my name selected and what is the nature of this contract?\n\nI appreciate your assistance in this matter.\n\nBest regards.\n\nBest wishes,\nTeresa"
+    }
+]

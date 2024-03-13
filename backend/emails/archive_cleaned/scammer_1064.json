@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1064",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Dear sir",
+        "body": " Dear sir\nThis is to inform you that your payment has been approved for immediate release via wire transfer (Bank to Bank transfer) and you are requested to reconfirm your account details to make the transfer.\nYou are also informed that you do not have to make any more payments for the release of your funds as the Federal government has waived all fees/charges related to your payment.\nPlease get back to us immediately with your account and personal details for the release of your funds.\nYour urgent response is welcomed.\nYours in service\nGeorge Akume\nDirector of operations Economic Advisory Committee\nOffice of the president, Federal Republic of Nigeria    "
+    },
+    {
+        "from": "baiter_1064",
+        "to": "scammer_1064",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  Dear sir",
+        "body": "Dear George Akume,\n\nThank you for reaching out to me regarding the approval of my payment. I appreciate your assistance in this matter. However, before I provide any account or personal details, I would like to clarify a few things.\n\n1. Could you please confirm the exact amount that has been approved for release? It would be helpful to have this information for reference.\n\n2. Can you provide more details about the Federal government's decision to waive all fees charges related to my payment? This is quite unexpected, and I would like to understand the reason behind it.\n\n3. Is there a specific timeline for the wire transfer? When can I expect the funds to be transferred into my account?\n\nI look forward to your prompt response and further guidance on how we can proceed with the release of my funds.\n\nBest wishes,\nKaren"
+    }
+]

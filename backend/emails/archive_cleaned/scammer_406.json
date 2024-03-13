@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_406",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Hi Sir,",
+        "body": " Hi Sir,\nHow are you doing today sir. Please bear in mind that i went to our Ware house office at Dallas Fort Worth International Airport (DFW) Terminal Yesterday to take some boxes for delivery and behold i find out that your name was change and the address is change to another address and on the boxes but the Name and address is not you. DO YOU MEAN THAT YOU DONT AUTHORIZED THIS LADY TO DIVERT THIS CONSIGNMENT TO ANOTHER ADDRESS?\nSir, the content inside the boxes is $100 dollars notes, that is the reason why i contacted you, as the bona-fide owner of this consignment. Bear in mind that am a Pilot and am going to deliver this box to your nearest airport close you.\nYou can see the address below to know if your the one Authorize this MS. KEITH RONALD Address: 4339 W. Farmington Rd. Hanna City, IL. 61536. Illinois, USA, for your perusal.\nAll You are to do is to contact me immediately you receive this message let me know what to do now i am in warehouse office Remember we only work here with time, everything needs to be done once and for all. this lady is fraud lady she wanted to claim this Consignment if not by god she has stolen these boxes by changing your name and address and claim your next of kin: Reconfirm to me your address, your full name, your nearest airport name and your phone/WhatsApp number and scan copy of your international passport and driving license for identification reason. Reply through this email box: \nchrismorgan906@outlook.com\nAttached is my official ID Card for your own perusal.\nWaiting to Hear from you Today.\nBest regards,\nCaptain HANNA MARIE JASON    "
+    },
+    {
+        "from": "baiter_406",
+        "to": "scammer_406",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  Hi Sir,",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate you bringing this to my attention. Could you please provide more details about the situation with the boxes and the address change? I want to make sure everything is sorted out correctly.\n\nAlso, could you clarify how you came across this information and what steps need to be taken next to resolve this issue?\n\nLooking forward to your response.\n\nBest wishes,\nDenis"
+    }
+]

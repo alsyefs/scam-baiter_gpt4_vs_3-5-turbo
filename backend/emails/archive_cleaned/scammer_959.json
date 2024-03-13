@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_959",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Beneficiary,",
+        "body": "Beneficiary,\nWe are so sorry for the delay in making your contract and inheritance payment to you for such a long time now.\nI have written to you a series of mails and no response back.\nKindly acknowledge receipt of this mail and please furnish me with the below information.\n1.Your real names and address:\n2.Your telephone number and fax:\n3.Your age/Occupation:\n4:Your international passport/drivers license\n5.Your receiving bank information\n6.Your total payment value amount:\nAll these I will use and secure fresh payment approvals in your names \nand favor through this mode payment so that it will be easy for you.\nFaithfully,\nDr. Anthony Okafor\nInternational telex Director"
+    },
+    {
+        "from": "baiter_959",
+        "to": "scammer_959",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Beneficiary,",
+        "body": "Hello Dr. Anthony Okafor,\n\nThank you for reaching out to me. I apologize for not responding to your previous emails, as they might have ended up in my spam folder. I appreciate your efforts in making the contract and payment to me.\n\nBefore I provide you with any personal information, could you please clarify the purpose of needing my real names and address, telephone number and fax, age, occupation, passport or driver's license, receiving bank, and total payment value? I want to make sure that I understand the process correctly.\n\nOnce I have a better understanding of the situation, I will be happy to assist you further. Thank you.\n\nBest wishes,\nJudy"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1145",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Address: 405 E 42nd St, New ",
+        "body": "  Address: 405 E 42nd St, New York, NY 10017, USA\nE-mail: \nun001@secretary.net\nCONGRATULATION\nThis is to officially inform you that your name was among the 18 listed beneficiaries to benefit from this first batch of overdue Scam victims' compensation payment for the year 2023.\nThe payment was approved after the meeting held on October 10 with (G20) and (UN) on World Economic Forum Annual Meeting 2023 and it was signed that 18 listed beneficiaries will receive $1,000,000.00 each as their overdue scam victim compensation payment and your name and contact email was included as one of the beneficiaries, So contact Mr. Michael Tanzi Of Quontic Bank Of New York to receive your approved compensation payment.\nPerson to contact: Mr. Michael Tanzi Chief Accounting Officer\nE-mail:   \nqountic.info@protonmail.com\nE-mail:   \ninfo6@qualityservice.com\nE-mail:   \nquontic.info@privyinternet.com\nNote instructions have been given to Quontic Bank Of New York to release your Scam victim's compensation Fund US$1,000,000.00 to you VIA direct transfer or by Certified Cashiers Cheque.\nThanks,\nYours In Service\nMr. António Guterres\nUN Secretary-General   "
+    },
+    {
+        "from": "baiter_1145",
+        "to": "scammer_1145",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Address: 405 E 42nd St, New ",
+        "body": "Hello there,\n\nThank you for reaching out and sharing this information. It's quite surprising to hear that my name was included in such a list. Could you please provide more details about how my name ended up on this list? Also, I'm curious about the process of receiving this payment. How does it work exactly?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nMelissa"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2180",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good Day,",
+        "body": "Good Day,\nI know this mail is coming to you as a surprise, but accept it because I am in a very difficult situation and I need your urgent help and assistance. As you receive this mail I pray that you use your kind heart to help me.\nI have one box containing ($10.000.000.00) Ten millions USD and 25Kg of Gold Bar at the International Airport in USA as I write this mail. This money was left for me by my late parents during the war in my country and was deposited in a trust Company in Ghana .\nTwo weeks ago we made arrangement with a Diplomat to deliver the boxes to Mr. Michael Robinson  who promised to receive the boxes, but since the arrival of the Diplomat in USA all efforts to contact Mr. Michael Robinson has failed. Not knowing that He die of Covid Virus .\nThis is why am contacting you to receive the Consignment for me after which I will want you to use the money for investment for both of us.\nI am ready to give you whatever percentage you wish to take after you receive the boxes because you could be my last hope.\nAs soon as you are ready to assist me I will give you the contact of the Diplomat in USA so that you can discuss with him on how to deliver the box to you. And I will also give you the combination code to open the box.\nI expect your urgent reply to relief me of the pains am going through now.\nThank you very much in anticipation of you reply.\nSincerely\nRobert Egogoh"
+    },
+    {
+        "from": "baiter_2180",
+        "to": "scammer_2180",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Good Day,",
+        "body": "Hello Robert Egogoh,\n\nI hope this message finds you well. I'm sorry to hear about your difficult situation and the loss of Mr. Michael Robinson due to Covid Virus. It's indeed a tough time for everyone.\n\nYour story is quite intriguing, and it's not every day that someone reaches out with such an unusual request. I must admit, I'm curious about how you managed to get such a large amount of money and gold bars in a box at an airport in the USA.\n\nCould you please share more details about this? How did your parents manage to accumulate such wealth during the war? And why was it deposited in Ghana?\n\nAlso, could you tell me more about this diplomat who is currently holding onto your boxes? What is his name and how long has he been waiting at the airport?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nPaul"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_329",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear  Sir/MadamI apologize i",
+        "body": "  Dear  Sir/MadamI apologize if the content of my email is contrary to\nyour moral ethics but I find it advantageous to offer you my\npartnership in business. I am Capt. Benson Morgan  , an officer in the\nUS ARMY presently serving in the Military with the 82nd Airborne\nDivision Peacekeeping Force here in the US Military Base in Syria. I\nneed your help in assisting me with the safekeeping of Two Military\nTrunk Boxes.\nI hope you can be trusted? If you can be trusted, I will explain\nfurther when I get a response from you for further\nclarification.Nevertheless, please ensure to reply via my private\nemail:.\nThanks for your understanding and cooperation, God bless you and America!!!\nBest Regards,\nCapt.Benson Morgan,\nUS ARMY.(PRESENTLY IN SYRIA   "
+    },
+    {
+        "from": "baiter_329",
+        "to": "scammer_329",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear  Sir/MadamI apologize i",
+        "body": "Dear Capt. Benson Morgan,\n\nThank you for reaching out to me. I understand that you are currently serving in the US Army in Syria and require my assistance with two military trunk boxes. While I may not fully comprehend the nature of your request, I am willing to listen and offer any help within my capacity.\n\nCould you please provide more details about the specific assistance you need? It would be helpful for me to understand how I can be of service to you. Additionally, if there are any concerns or questions you have, feel free to ask, and I will do my best to address them.\n\nLooking forward to your response via this email thread.\n\nBest wishes,\nPerry"
+    },
+    {
+        "from": "scammer_329",
+        "to": "baiter_329",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Dear Perry",
+        "body": "Dear  Perry  .\r\n\r\nI confirm the receipt of your mail and the content is well understood and\r\nnoted. Be rest assured that this project is 100% risk free. There is no\r\ntrouble because I did my homework very well. Before we proceed let me take\r\na little time to explain the origin of these funds and why I am sending\r\nthem to you.\r\n\r\nDuring our war campaign then in Iraq, my team was responsible for a lot of\r\nraids on Saddam (Iraqi former president) palaces, while on raid, we\r\ndiscovered the sum of $140 Million dollars packed into military trunk boxes\r\nand hidden in Saddam's underground secret chambers.\r\n\r\nHonestly, my first instinct was to report this to the command officer but\r\non second thought, I have sacrificed years to serve and protect my great\r\ncountry, most of us have lost friends and loved ones while on duty. I have\r\nbeen married twice of which none ever lasted for up to 3yrs due to the\r\nnature of my job. The most painful one is My 16yr old son turned into a\r\ndrug addict as he lacked parental guidance and eventually died of an\r\noverdose. I can't begin to mention all my sacrifices and losses.\r\n\r\nThis is a fortune for both of us hence, the funds belonged to an ex-tyrant\r\nwhom we captured and has been executed by the International Court of\r\nJustice. As the leader of my unit I reported the sum of $120 million\r\ndollars out of the funds discovered and I will use my position to move the\r\nremaining (US$20 million dollars) to you for safekeeping until after my\r\nassignment and retirement.\r\n\r\nThe boxes will be sent as Swift Military Consignment/Courier specially with\r\nimmunity to deliver to your physical mailing address. It will be done this\r\nway to ensure maximum security. I must assure you that you will benefit\r\nvery much and you will never regret assisting me, I have already made solid\r\nplans to ensure that this deal is 100% untraceable.\r\n\r\nYour efforts and assistance will be rewarded with 40% of the money if you\r\nare able to handle this deal and keep the boxes safe until I return to the\r\nU.S. and move to your home contact. I will take care of shipping expenses\r\nincluding insurance. However, once I conclude with the delivery company\r\nthat will nominate their agent who will make the delivery to your country,\r\nI will update you of the delivery itinerary.\r\n\r\nHenceforth, further correspondence should strictly be directed to this\r\nemail ID for security reasons. Nevertheless, re-confirm the following to me\r\nas follows before the final departure of trunks as clearly stated above.\r\n\r\n(a) Your full Names:\r\n(b) Your physical mailing address:\r\n(c) Your direct telephone numbers:\r\n(d) Your occupation:\r\n\r\nThanks for your cooperation, God bless you and America!!\nBest Regards,\r\nCapt.Benson Morgan\r\nUS ARMY. (PRESENTLY IN SYRIA)."
+    },
+    {
+        "from": "baiter_329",
+        "to": "scammer_329",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.006701388888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Perry",
+        "body": "Dear Morgan,\n\nThank you for reaching out to me and providing me with this information. I understand that you have come across a significant amount of money during your time in Iraq, and you are looking for assistance in safely transferring it. I appreciate your trust in me.\n\nCould you please provide me with more details about the process of transferring the funds? How exactly will the Swift Military Courier ensure the security of the boxes during delivery? Also, what kind of insurance will be provided for the shipment?\n\nAdditionally, I would like to know more about your current assignment in Syria. What is your role there, and how long do you anticipate being stationed there?\n\nThank you again for considering me for this opportunity. I look forward to hearing back from you soon.\n\nBest wishes,\nPerry"
+    }
+]

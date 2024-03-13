@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_40",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Independent Audit | Board Ev",
+        "body": "  Independent Audit | Board Evaluation Consultants\nWarnford Court 29 Throgmorton St\nLondon EC2N 2AT United Kingdom\nDear valued beneficiary,\nFollowing in depth assessments and disclosures from a recent audit that was carried out, the report states that an accrued interest gained in the exact value of US$853,694 is ready for payment. An external bank has been appointed to act as a fiduciary to initiate this interest payment. \nThis is a very welcoming development because once this accrued interest payment (US$853,694) is received by you, it will assist financially in expeditiously completing your transaction and collecting the principal funds. Please use this reference “DB6/8AU/T23” as a subject line for all communications regarding this accrued interest payment\nYours sincerely,\nAdem Berkant\nAdvisory and Business services [BEIA]   "
+    },
+    {
+        "from": "baiter_40",
+        "to": "scammer_40",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Independent Audit | Board Ev",
+        "body": "Dear Adem Berkant,\n\nThank you for reaching out to me with this information about the accrued interest payment. I appreciate your efforts in conducting the audit and providing me with this update.\n\nI have a few questions regarding the process. Firstly, could you please provide more details about the external bank that has been appointed as the fiduciary? Which bank is it, and how can I verify their credibility?\n\nAdditionally, I would like to know more about the principal funds that you mentioned. Could you explain what these funds are and how they are related to the accrued interest payment?\n\nThank you once again for sharing this information with me. I look forward to your response.\n\nBest wishes,\nJohn"
+    }
+]

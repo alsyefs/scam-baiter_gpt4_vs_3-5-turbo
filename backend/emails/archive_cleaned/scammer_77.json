@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_77",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Sir,",
+        "body": "Dear Sir,\nWe the Ocean Consultant are interested in investing in your country. Kindly confirm your private email address to our financial director Mr. Anton Kaltofen through his private email address, \nakaltofenprivate@outlook.com\n for further details.\nThanks\nMr. Jeomg Changmin."
+    },
+    {
+        "from": "baiter_77",
+        "to": "scammer_77",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Sir,",
+        "body": "Hello Mr. Jeomg Changmin,\nThank you for reaching out. Could you please provide more information about the investment opportunity you are interested in pursuing in our country? I would like to learn more before sharing any contact details.\nLooking forward to hearing from you soon.\n\nBest wishes,\nLarry"
+    }
+]

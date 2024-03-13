@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1802",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn; beneficiary",
+        "body": "Attn; beneficiary\n(HAPPY NEW YEAR 2024)\nHowever, it is our pleasure to inform you that an international\ncertified bankers draft has been approved in your favor by the\nDEUTSCHE BANK.\nThe international certified bankers draft Value  €11, 570,000.00 Only\nas your inheritance fund and you can clear your international\ncertified bankers draft in your bank or any bank of your choice in the\nworld.\nWe have also concluded delivery arrangement with our accredited\ncourier service Company to be fully insured by Insurance to oversee\nthe delivery of your international certified bankers draft to you\nwithin 72 hours without any further delay. \nIn view of this\ndevelopment, you are requested only to offset the Courier delivery and\ntransit Insurance charges.\nupon your confirmation to receive this draft the scan copy of the\ndraft will be send to you through email attachment for your\nconfirmation.\nMrs. Kristalina Georgieva\nInternational Monetary Fund {imf}"
+    },
+    {
+        "from": "baiter_1802",
+        "to": "scammer_1802",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attn; beneficiary",
+        "body": "Hello there,\n\nHappy New Year to you too! I'm thrilled to hear about this certified banker's draft approved in my favor. It sounds like a fantastic opportunity.\n\nCould you please provide me with more details? For instance, how was I selected for this? Also, could you explain the process of clearing the draft in my bank?\n\nI'm also curious about the courier service. Which company will be handling the delivery? And how much are the courier delivery and transit insurance charges?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMiranda"
+    }
+]

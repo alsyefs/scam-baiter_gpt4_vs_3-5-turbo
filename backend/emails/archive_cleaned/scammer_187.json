@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_187",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attn: Fund Beneficiary.",
+        "body": "  Attn: Fund Beneficiary.\nYou have a Pending Transfer Value of USD10.5M in your name, and are\nawaiting for a clearance Certificate from  (FinCEN) before we can\nauthorize the transfer  into your account.\nThe FBI need's copy of your  Fund Identification Record Certificate\nof the transfer. You should get back to us if you don't  have  this\ncertificate for us to direct you where you can get one for further\nrelease of your fund into your account.\nMr. Gareth Reese\nFOR: Christopher A. Wray\nFBI Director   "
+    },
+    {
+        "from": "baiter_187",
+        "to": "scammer_187",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attn: Fund Beneficiary.",
+        "body": "Hello Mr. Gareth Reese,\n\nThank you for reaching out to me about this pending transfer. I must admit, I'm a bit surprised as I wasn't expecting any transfers. Could you please provide more details about this? Where is the transfer coming from and why does it require clearance?\n\nI don't have a Fund Record of the transfer at the moment. Could you kindly guide me on how to obtain one? \n\nLooking forward to your guidance.\n\nBest regards.\n\nBest wishes,\nJeff"
+    }
+]

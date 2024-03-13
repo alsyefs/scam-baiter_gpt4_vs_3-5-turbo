@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2273",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn: Beneficiary,",
+        "body": "Attn: Beneficiary,\n \nThis is to bring to your notice that all the abandoned consignments and\npackages in the airport Sacramento international airport California, will\nbe confiscated by the US government on Saturday 24TH FEB. Your package\n(Consignment Box) Valued $12,500,000.00 USD which was abandoned by the\ndelivery agent, you are advised to come to the airport to pick your\nPackage or send your delivery information,  so that it will be registered\nwith UPS or FedEx courier delivery.\n \nReconfirm the Below information accurate to avoid wrong delivery;\n \n(1)Your Full Name=============\n(2)Mobile Phone Number======\n(3)Current Home Address========\n(4)Fax Number================\n(5)Country====================\n(6)City======================\n(7)Nearest Airport ==============\n \nAIRPORT INFO;\nMr. Richard Silver\nAirport Management\nsacramentoi@usa.com\n+1(916)400-0692\n6900 Airport Blvd. Sacramento, CA, 95837."
+    },
+    {
+        "from": "baiter_2273",
+        "to": "scammer_2273",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attn: Beneficiary,",
+        "body": "Hello there,\n\nThank you for reaching out and informing me about the package at Sacramento airport. I must say, it's quite surprising to hear that a package valued at such a high amount has been abandoned. \n\nCould you please provide more details about this situation? How did my name get associated with this package? And why was it abandoned by the delivery agent in the first place?\n\nI'm also curious about the process of registering the package with UPS or another courier service. Could you explain how that works?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nScott"
+    }
+]

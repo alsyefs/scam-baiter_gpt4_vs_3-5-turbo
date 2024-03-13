@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1352",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn:",
+        "body": "Attn:\nI am writing to you in respect to your released funds and consignment being on hold transit by the greediness of your local representatives and lawyers over 8 years ago by our department(UK DEBT MANAGEMENT OFFICE).\nThis is to let you know that we are ready and able to help release your overdue approved Funds/Consignments from the appropriate quarters without any delay.\nWhat is delaying the release of it to you is because your Local Representatives invested the funds with Optimax Trading Limited and are trying to divert it for their own selfish use after using you to establish the claim of the said funds/consignment thereby complicating the issue with the appropriate offices.\nBefore we can help you release it from the appropriate quarters without any delay or obstructions from any avenue or whatsoever you have to keep this latest development strictly and we will need these details to verify your information again before we refer you to the department who will assist you in processing your funds.\nWhat we need from you are:\n1) Your Full Name\n2) Full Home Address:\n3) \nIdentification\n:\n4) Value of your funds or Consignments:\n5) Copies of previous documents issued in your name if any.\nAs soon as we receive the above information from you in less than 5 working days your funds will be released to you through Optimax Trading Limited.\nRegards,\nJo Whelan.\nCommissioner for the Reduction of the National Debt\nUK Debt Management Office."
+    },
+    {
+        "from": "baiter_1352",
+        "to": "scammer_1352",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attn:",
+        "body": "Hello Jo Whelan,\n\nThank you for reaching out to me. It's quite surprising to hear about these funds, as I wasn't aware of them being held in transit. \n\nCould you please provide more information about this situation? For instance, how did my local and lawyers get involved in this? And what exactly is the role of Optimax Trading Limited in all of this?\n\nI'm also curious about the UK Debt Management Office's involvement. How does your department fit into this picture?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nLucile"
+    }
+]

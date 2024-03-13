@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1035",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "From ",
+        "body": "From \nour beginnings in 2008\n as a small team in United States, TechEssential has grown to one of North America's largest tech start-ups. "
+    },
+    {
+        "from": "baiter_1035",
+        "to": "scammer_1035",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: From ",
+        "body": "Hello there! It's great to hear from you. I'm always interested in learning about new tech companies and their growth. Could you please tell me more about your company and what kind of technology you specialize in?\n\nBest wishes,\nDonald"
+    }
+]

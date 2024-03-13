@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_604",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn: Sir/Madam,",
+        "body": "Attn: Sir/Madam,\nI am Ronald Wersal the Citizenship’s Office and Commission of Vanuatu organizational States Department home, I would like to inform you that World Bank Group - International Development officially approved \na fund benefit for all the global citizen and ready to pay and financial support to the Citizenship \nand our correspondent bank is waiting for your prompt response to credit your bank Account within 24 hours banking working day:\nNow you are advised to contact the correspondent bank management committee on this Email Address below:\nMr. Steven Sharma \nPhone (679) 3304 679\nEmail: \ndirectorgeneralfinance89@live.com\nTo enable them cross-check the total balance you will receive as a global citizen and the documents will be sent to you as soon as you respond to the correspondent bank Management Committee Board that is responsibility,\nThanks for your understanding and keep me updated for recording purposes.\nWith Regards\nRonald Warsal"
+    },
+    {
+        "from": "baiter_604",
+        "to": "scammer_604",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attn: Sir/Madam,",
+        "body": "Hello Ronald Warsal,\n\nThank you for reaching out and sharing this information. It's quite interesting to hear about the World Bank Group's initiative. Could you please provide more details about this fund benefit? How was it decided who would be eligible for this financial support?\n\nAlso, could you explain a bit more about the process? You mentioned that our bank accounts will be credited within hours of a banking working day. What does that entail exactly?\n\nLooking forward to your response.\n\nBest wishes,\nWendi"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1182",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "INTERNATIONAL MONETARY FUND (I",
+        "body": "INTERNATIONAL MONETARY FUND (IMF)\nDEPT: WORLD DEBT RECONCILIATION AGENCIES.\nADVISE: YOUR OUTSTANDING PAYMENT NOTIFICATION\nOUTSTANDING PAYMENT NOTIFICATION\nAttention: Beneficiary\nYour Long overdue Payment.\nI saw your email ( in the Central Computer among the list of unpaid contractors, inheritance next of kin and lotto beneficiaries that was originated from Africa, Europe, Asia Plus Middle east, Americans ) among the list of individuals and companies that your unpaid fund has\nbeen located to the CITI BANK LONDON, UNITED KINGDOM.\nYour email appeared among the beneficiaries, who will receive a part-payment of your contractual sum and has been approved already for months. You are requested to get back to me for more direction and instruction on how to receive your fund.\nHowever, we received an email from one Mr. Virgle Lee Samples who told us that he is your next of kin and that you died in a car accident last week. He has also submitted his account for us to transfer the fund to him including his International passport, we want to hear from you before we can make the transfer to confirm if you are dead or not Please \nin confirmation that you are still alive, you are advised to reconfirm the below listed information to enable us facilitate an immediate payment for you.\n1 Your full name\n2  Your present contact address.\n3  Your telephone & Fax numbers.\n4  Your Occupations/age/sex.\n5  Your Private Email Address.\nOnce again, I apologize to you on behalf Of IMF (International\nMonetary Fund) for failure to pay your funds in time, which according\nto records in the system had been long overdue.\nThanks,\nKristalina Georgieva"
+    },
+    {
+        "from": "baiter_1182",
+        "to": "scammer_1182",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: INTERNATIONAL MONETARY FUND (I",
+        "body": "Hello Kristalina Georgieva,\n\nThank you for reaching out to me. I'm sorry to hear about the mix-up with Mr. Virgle Lee Samples, but I can assure you that I am very much alive and well.\n\nI'm quite surprised to learn about this overdue payment. Could you please provide more details? For instance, how did my email end up on this list? And what is the origin of these funds?\n\nAlso, could you clarify why the fund has been located to CITI BANK LONDON, UNITED KINGDOM? Is there a specific reason for this?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nMichelle"
+    }
+]

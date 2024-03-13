@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1855",
+        "to": "baiter_1855",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Re: Dear Sir, (📫 Action Required)",
+        "body": "Your message about \"Re: Dear Sir,\" was waitlisted.\r\n  Please add yourself to my Guest List so your messages will be delivered to my Inbox.  Use the link below.\r\n\r\nFollow this link to deliver your message\r\nhttps://www.boxbe.com/crs?tc_serial=59910480625&tc_rand=1686250679&utm_source=stf&utm_medium=email&utm_campaign=CN_STDW_v6&utm_content=001\r\n\r\nThank you,\r\n  franktom2001@mail.com"
+    },
+    {
+        "from": "baiter_1855",
+        "to": "scammer_1855",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Re: Dear Sir, (📫 Action Required)",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate your message, but I'm not quite sure what you mean by adding myself to your Guest List. Could you please provide more information about how this works and why it's necessary?\n\nI want to make sure I understand the purpose of this before proceeding. Looking forward to hearing back from you.\n\nBest wishes,\nSonia"
+    }
+]

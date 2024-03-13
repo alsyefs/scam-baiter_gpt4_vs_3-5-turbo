@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2592",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Greetings from United Arab E",
+        "body": "  Greetings from United Arab Emirate,\nI have to start by introducing myself as an investment consultant\nworking under the mandate of Dubai Holding here in Dubai, UAE to reach\nout to project owners and business men and women for funding\ncooperation between their companies/firms and Dubai Holding.\nThe intent of this email is to seek possible collaborations in viable\ninvestment and project development globally.\nAs a way of introduction, We are an investment portfolio enterprise\nbased and operating within the Middle East; mostly within Saudi Arabia\nand United Arab Emirates (UAE) with other smaller portfolio management\nand investments spread across the middle east and GCC countries. We\nhave never invested or managed any investment outside our region; this\nis a new opportunity and new market we are hoping to penetrate.\nAs one of our post COVD 19 strategies, we are currently seeking viable\ninvestment and projects globally, hopefully that can generate up to\n10% ROI. We are looking to invest purely on a loan/debt financing\nbasis of 3.5% interest annually.\nIf a debt financing is within acceptable funding requirements for\nprojects and investment opportunities under your umbrella, we will be\ninterested to further discuss such opportunity and possibilities for\npossible collaboration.\nKindly confirm the receipt of this email.\nSincere Regards,\nMr. Hassan leàndre Zoumara   "
+    },
+    {
+        "from": "baiter_2592",
+        "to": "scammer_2592",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Greetings from United Arab E",
+        "body": "Hello Mr. Hassan le ndre Zoumara,\n\nThank you for reaching out to me. I appreciate the information you have shared about your role as an investment consultant working under Dubai Holding. It sounds like you are looking for potential investment opportunities and projects globally.\n\nI'm curious to know more about the types of projects and businesses that Dubai Holding is interested in funding. Could you provide some examples or specific industries that you focus on? Additionally, what criteria do you consider when evaluating potential investments?\n\nFurthermore, could you please explain a bit more about the loan debt financing basis of interest annually? How does this work exactly, and what are the terms and conditions associated with it?\n\nThank you again for contacting me, and I look forward to learning more about your investment opportunities.\n\nBest wishes,\nSusan"
+    }
+]

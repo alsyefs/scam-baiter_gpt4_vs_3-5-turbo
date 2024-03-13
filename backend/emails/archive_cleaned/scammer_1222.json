@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1222",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Friend",
+        "body": "  Dear Friend\n \nI am Mr Jonathan James Pearson, Did you receive the email I sent you\nthree days ago\nFor business interest\nReply me back on this email,  \njamespearsonjonathan@gmail.com\nYours sincerely\nMr Jonathan James Pearson   "
+    },
+    {
+        "from": "baiter_1222",
+        "to": "scammer_1222",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Friend",
+        "body": "Dear Mr. Jonathan James Pearson,\n\nThank you for reaching out to me. I apologize, but I don't recall receiving an email from you three days ago. However, I'm interested to know more about the business opportunity you mentioned. Could you please provide me with some details? What kind of business are we talking about?\n\nLooking forward to hearing back from you.\n\nBest wishes,\nMaisie"
+    }
+]

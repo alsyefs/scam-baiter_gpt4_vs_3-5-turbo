@@ -1,0 +1,222 @@
+[
+    {
+        "from": "scammer_1008",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  PLEASE SIR STOP GIVING OPTIO",
+        "body": "  PLEASE SIR STOP GIVING OPTION ON HOW TO RECEIVE THE SECURITY / OFFICE KEEPING FEE CHARGES OF $100, HERE IS THE SCAN PHOTO COPY OF YOUR ATM CARD FOR CONFIRMATION   "
+    },
+    {
+        "from": "baiter_1008",
+        "to": "scammer_1008",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   PLEASE SIR STOP GIVING OPTIO",
+        "body": "Hello there,\n\nThank you for reaching out to me. I appreciate the information you've shared. It's great to know that there's an ATM card involved in this process. \n\nCould you please provide more details about the security office keeping fee charges? What exactly does it entail? Also, could you explain a bit more about the options on how to receive it?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nDana"
+    },
+    {
+        "from": "scammer_1008",
+        "to": "baiter_1008",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "My Dear",
+        "body": "The delivery company manager told me that the card will be registered under\r\nsecurity protection department of the company because is a normal procedure\r\nand the receiver of the card will have to pay a little amount of money\r\nbefore they will deliver the card to him so i agreed with the company, Tell\r\nme what is happening"
+    },
+    {
+        "from": "baiter_1008",
+        "to": "scammer_1008",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0009375,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: My Dear",
+        "body": "Hello there,\n\nThank you for sharing this information with me. It's interesting to hear about the procedures that delivery companies have in place. I'm curious, though, why would the receiver of the card need to pay a small amount of money before delivery? Is this a common practice across all delivery companies or is it specific to this one? \n\nLooking forward to hearing more about this.\n\nBest wishes,\nDana"
+    },
+    {
+        "from": "scammer_1008",
+        "to": "baiter_1008",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.003414351851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "My Dear",
+        "body": "I can not really say but that was what the company manager told me their\r\nprocedure is"
+    },
+    {
+        "from": "baiter_1008",
+        "to": "scammer_1008",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0042592592592592595,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: My Dear",
+        "body": "Hello there,\n\nThank you for sharing this information with me. It's interesting to hear about different company procedures. Could you tell me more about how this procedure works? What are the steps involved? And how does it benefit the company and its employees or clients?\n\nRemember, I'm just curious and trying to learn more, so any additional details would be appreciated!\n\nBest wishes,\nDana"
+    },
+    {
+        "from": "scammer_1008",
+        "to": "baiter_1008",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.011516203703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "My Dear",
+        "body": "Like i said that was what the company manager told me so i do not know more\r\nabout their procedure, Thanks"
+    },
+    {
+        "from": "baiter_1008",
+        "to": "scammer_1008",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.011840277777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: My Dear",
+        "body": "Hello there,\n\nThank you for sharing that information with me. It's interesting to hear about the company manager's perspective. Could you perhaps elaborate a bit more on what they said? I'm curious to understand their viewpoint better. However, I must clarify that I can't provide any personal details due to privacy reasons.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nDana"
+    },
+    {
+        "from": "scammer_1008",
+        "to": "baiter_1008",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.014849537037037038,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "My Dear",
+        "body": "Sorry am a little bit busy i will respond to you later"
+    },
+    {
+        "from": "baiter_1008",
+        "to": "scammer_1008",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.015532407407407408,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: My Dear",
+        "body": "Hello there! I understand that you're busy at the moment. No worries, take your time. I'll be here when you're ready to continue our conversation. Can I ask what it is that's keeping you occupied?\n\nBest wishes,\nDana"
+    },
+    {
+        "from": "scammer_1008",
+        "to": "baiter_1008",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0360648148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "My Dear",
+        "body": "Please may i know who gave you my contact"
+    },
+    {
+        "from": "baiter_1008",
+        "to": "scammer_1008",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0381018518518519,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: My Dear",
+        "body": "Hello there! I'm afraid I can't disclose that information due to privacy reasons. However, I assure you that my intention is to share some interesting information with you. Would you be interested in hearing more about it?\n\nBest wishes,\nDana"
+    },
+    {
+        "from": "scammer_1008",
+        "to": "baiter_1008",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.2667592592592594,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "My Dear",
+        "body": "Go on"
+    },
+    {
+        "from": "baiter_1008",
+        "to": "scammer_1008",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.371539351851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: My Dear",
+        "body": "Hello there! I'm really interested in hearing more about what you have to say. Could you please provide some more details?\n\nBest wishes,\nDana"
+    },
+    {
+        "from": "scammer_1008",
+        "to": "baiter_1008",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.384826388888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "My Dear",
+        "body": "You said you have something to tell me and i said you should go on"
+    },
+    {
+        "from": "baiter_1008",
+        "to": "scammer_1008",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.4130555555555555,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: My Dear",
+        "body": "Hello there! I'm all ears. What's the information you'd like to share with me?\n\nBest wishes,\nDana"
+    },
+    {
+        "from": "baiter_1008",
+        "to": "scammer_1008",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.455092592592592,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: My Dear",
+        "body": "Hello there! I'm really interested in what you have to say. Could you please share more details?\n\nBest wishes,\nDana"
+    },
+    {
+        "from": "baiter_1008",
+        "to": "scammer_1008",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.56068287037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: My Dear",
+        "body": "Hello there! I'm so glad to have this opportunity to chat with you. Could you please tell me more about what we're discussing?\n\nBest wishes,\nDana"
+    },
+    {
+        "from": "scammer_1008",
+        "to": "baiter_1008",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.103148148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "My Dear",
+        "body": "Stop writing to me ok"
+    },
+    {
+        "from": "baiter_1008",
+        "to": "scammer_1008",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.122141203703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: My Dear",
+        "body": "Hello there,\n\nI'm sorry if I've upset you in any way. I just wanted to share some information that I thought might be interesting. Can you tell me more about why you'd prefer not to receive these messages?\n\nBest wishes,\nDana"
+    },
+    {
+        "from": "scammer_1008",
+        "to": "baiter_1008",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.343414351851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "My Dear",
+        "body": "You refuse to tell me who gave you my contact but i have found who he is,\r\nSo stop writing to me and this will be my last message to you, Have a nice\r\nday"
+    },
+    {
+        "from": "baiter_1008",
+        "to": "scammer_1008",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.351388888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: My Dear",
+        "body": "Hello there,\n\nI appreciate your message and I'm sorry if I've caused any inconvenience. I assure you, my intention was not to upset you. Could you please tell me more about the person who gave you my contact? It would be really helpful for me to understand the situation better.\n\nHope you're having a great day!\n\nBest wishes,\nDana"
+    }
+]

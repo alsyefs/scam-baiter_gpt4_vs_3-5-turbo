@@ -1,0 +1,552 @@
+[
+    {
+        "from": "scammer_1715",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Al Khalifa Finance House.",
+        "body": "  Al Khalifa Finance House.\nOFFICE ADDRESS:15th Floor Almoayyed Tower 2504, Seef 428, Bahrain.\nGreetings,\nMy name's are,  Mr ABOOB MOHAMMED  Director, Credit and Loan\nAl Khalifa Finance House.\nWe are offering Corporate and Personal Loan at 3% Interest Rate for a\nduration of 5 to 15 years. We also pay  1.3% commission to brokers who\nintroduce project owners for finance or other opportunities. I will\ngive you more details upon  the receipt of your response to prove\nmyself and the office.\nBest Regards,\nABOOB MOHAMMED\nDirector, Credit and Loan\nAl Khalifa Finance House\n15th Floor, Almoayyed Tower 2504, Seef 428, Bahrain.   "
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Al Khalifa Finance House.",
+        "body": "Hello Mr. ABOOB MOHAMMED,\n\nThank you for reaching out and introducing yourself. I'm intrigued by your offer of Corporate and Personal Loans. Could you please provide more details about the terms and conditions? For instance, what is the interest rate you're offering? And could you clarify what you mean by \"duration of to years\"?\n\nAlso, I'm curious about the commission for brokers who introduce project owners for finance. How does that work exactly?\n\nLooking forward to hearing from you.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "scammer_1715",
+        "to": "baiter_1715",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Details of the Loan",
+        "body": "Hello Marilyn,\r\n\r\nI wish to acknowledged the receipt of your mail and it's content.\r\n\r\nWe are Al Khalifa Finance House Company with a registered office in\r\nManama, the kingdom of Bahrain.\r\n\r\nWe are independent financial advisors offering high quality and\r\nindependent financial services for the gulf region residents and\r\nexpatriates living abroad, we also provide a broad range of services\r\nto both commercial and private clients. As a major Bahrain loan firm,\r\nwe serve local, regional, national and international clients.\r\n\r\nAt this point we only specialized in providing Loans at a 3% interest\r\nrate for the duration of 5 to 15 years.  We are capable of handling\r\nany kind of project hence it’s not over our limit/Maximum funding.\r\n\r\nOur terms and conditions:\r\n\r\n1. Our Minimum Funding: U$1 Million and our Maximum Funding is: U$6.5 Billion\r\n\r\n2. INVESTMENT PERIOD: - 5 to 15 Years + 2 years Grace Period.\r\n\r\n3. Interest Rate Per Annum: - 3% per annum interest\r\n\r\n4. Capital Repayment Period: - balloon payment at the end of the 5 or\r\n15-year period.\r\n\r\n5. Interest Payment: - At the end of each year starting after the\r\nGrace Period of Two Years.\r\n\r\n6. Grace Period: - Minimum of 24 Months, which will be the Construction Period.\r\n\r\n7. Security/Guarantee.: - Insurance Credit Wrap/ Insurance Surety\r\nBond. Customers are required to procure an insurance security wrap\r\nwith our issuer, which will serve as the only security to the funds we\r\nare given out hence he or she does not reside or operate from the gulf\r\nregion.\r\n\r\nWe also pay 1.3% commission to brokers who introduce project owners\r\nfor finance or other opportunities.\r\n\r\nTo enable us to proceed kindly provide us with your business plan or\r\nan executive summary for our review verification and approval.\r\n\r\nThanks for your understanding and cooperation, I will be waiting for\r\nyour kind response.\nBest Regards,\r\n\r\nABOOB MOHAMMED\r\nDirector, Credit and Loan\r\nAl Khalifa Finance House\r\nwww.alkhalifafinh.com\r\n15th Floor, Almoayyed Tower 2504, Seef 428, Bahrain."
+    },
+    {
+        "from": "scammer_1715",
+        "to": "baiter_1715",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "KYC FORM",
+        "body": "You are required to fill the attached Questionnaire (KYC) and send\r\nback to us for study.Upon the receipt of the filled KYC, we shall move\r\nto the next phase below.Thereafter, I shall instruct our Attorney {\r\nLucio Santus Sagari of Lucio Santus & Associates} to draft an\r\nAgreement which copy shall be forwarded to you for review and approval\r\nbefore affixing our signatures. The said Agreement shall serve as our\r\nsecurity platform and indicate Terms and Conditions of the\r\ntransaction. Once we observe these protocols as mentioned above, the\r\nholding bank will initiate the transfer of funds into any of your bank\r\naccount designated worldwide.\r\n\r\nWaiting for your kind and considerate response on above\nBest Regards,\r\n\r\nABOOB MOHAMMED\r\nDirector, Credit and Loan\r\nAl Khalifa Finance House\r\nwww.alkhalifafinh.com\r\n15th Floor, Almoayyed Tower 2504, Seef 428, Bahrain."
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0011805555555555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: KYC FORM",
+        "body": "Hello ABOOB MOHAMMED,\n\nThank you for your email. I appreciate the detailed information about the next steps. However, I have a few questions before we proceed.\n\nCould you please explain what KYC is and why it's necessary? Also, could you provide more details about the Agreement that Attorney Lucio Santus Sagari will draft? What kind of terms and conditions can I expect to see in this agreement?\n\nI'm also curious about the transfer process. How does the holding bank initiate the transfer of funds? Is there any fee associated with this process?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0014351851851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your detailed email. It's great to hear about the services that Al Khalifa Finance House provides. I'm particularly interested in the loan services you mentioned.\n\nCould you please elaborate more on the process of procuring an insurance security wrap? Also, could you provide some examples of projects that your company has funded in the past?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.003159722222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your detailed explanation about Al Khalifa Finance House Company. It's fascinating to learn about the services you provide, especially in the realm of loans and financial advising.\n\nI'm curious about a few things though. Could you please elaborate on what exactly is an Insurance Credit Wrap? And how does it serve as security for the funds?\n\nAlso, could you explain more about the role of brokers in introducing project owners for finance? What kind of commission do they receive?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0033449074074074076,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your detailed email. It's great to hear about the services that Al Khalifa Finance House provides. I'm particularly interested in the loan services you mentioned.\n\nCould you please provide more information on the process of procuring an insurance security wrap? Also, could you elaborate on the role of brokers in introducing project owners for finance?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.003472222222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: KYC FORM",
+        "body": "Hello ABOOB MOHAMMED,\n\nThank you for your email. I appreciate the detailed information about the next steps. However, I have a few questions before we proceed.\n\nCould you please explain what KYC is and why it's necessary? Also, could you provide more details about Lucio Santus Sagari and his role in this process?\n\nI'm also curious about the Agreement that will be drafted. What kind of terms and conditions can I expect to see in it? \n\nLastly, could you tell me more about Al Khalifa Finance House? It would be great to know more about your organization.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.004016203703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: KYC FORM",
+        "body": "Hello ABOOB MOHAMMED,\n\nThank you for your email. I appreciate the detailed information about the next steps. However, I have a few questions before we proceed.\n\nCould you please explain what KYC is and why it's necessary? Also, could you provide more details about the Agreement that Attorney Lucio Santus Sagari will draft? What kind of terms and conditions can I expect to see in this agreement?\n\nI'm also curious about the transfer process. How does the holding bank initiate the transfer of funds? Is there any fee associated with this process?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.08775462962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your detailed response. It's great to hear about the services that Al Khalifa Finance House provides. The range of financial services you offer is quite impressive.\n\nI'm curious about the loan process. Could you please elaborate more on how it works? Specifically, I'd like to understand more about the insurance security wrap and how it serves as the only security to the funds given out.\n\nAlso, could you provide some examples of projects that your company has funded in the past? I'm interested in knowing what kind of projects are within your funding limit.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.1283101851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your detailed explanation about Al Khalifa Finance House Company. It's fascinating to learn about the financial services you offer, especially in the gulf region.\n\nI'm curious about the loan process. Could you please elaborate more on how it works? For instance, what are the steps involved from application to approval?\n\nAlso, I'm interested in knowing more about the 'Insurance Credit Wrap'. How does this work and why is it necessary for customers who do not reside or operate from the gulf region?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.17226851851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your detailed email. It's great to hear about the services that Al Khalifa Finance House provides. I'm particularly interested in the loan services you mentioned.\n\nCould you please provide more information on the process of procuring an insurance security wrap? Also, could you elaborate on how the commission system works for brokers who introduce project owners?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.25333333333333335,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: KYC FORM",
+        "body": "Hello ABOOB MOHAMMED,\n\nThank you for your email. I appreciate the detailed information about the next steps. However, I have a few questions before we proceed.\n\nCould you please explain what KYC is and why it's necessary? Also, could you provide more details about the Agreement that Attorney Lucio Santus Sagari will draft? What kind of terms and conditions can I expect to see in this agreement?\n\nI'm also curious about the transfer process. How long does it usually take for funds to be transferred into my bank account once everything is in order?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2547916666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your detailed explanation about Al Khalifa Finance House Company. It's interesting to learn about the financial services you offer, especially the loan options.\n\nI'm curious about a few things though. Could you please elaborate more on the process of procuring an insurance security wrap? Also, what kind of projects do you usually handle? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2548611111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: KYC FORM",
+        "body": "Hello ABOOB MOHAMMED,\n\nThank you for your email. I appreciate the detailed information about the next steps. It's great to know that Lucio Santus Sagari will be drafting an agreement for review and approval.\n\nI'm curious, could you please explain a bit more about what the KYC entails? Also, could you provide some more details about the terms and conditions of the agreement?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3802199074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your detailed response. It's great to hear about the services that Al Khalifa Finance House provides. The range of financial services you offer is quite impressive.\n\nI'm curious about the loan process. Could you please elaborate more on how it works? Specifically, I'd like to understand more about the insurance security wrap and how it serves as the only security for the funds given out.\n\nAlso, could you provide some examples of projects that your company has funded in the past? I'm interested in knowing what kind of projects are within your funding limit.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.41961805555555554,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your detailed email. It's great to hear about the services Al Khalifa Finance House provides. I'm particularly interested in the loan services you mentioned.\n\nCould you please elaborate more on the process of procuring an insurance security wrap? Also, could you provide some examples of projects that your company has funded in the past?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "scammer_1715",
+        "to": "baiter_1715",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6824768518518518,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Marilyn,\r\n\r\nI wish to acknowledged the receipt of your mail and it's content.\r\n\r\nPlease I want you to re-read my previous email message sent to you in\r\ncase if you do not understand my proposal very well, because I believe\r\nthat I have already explained myself and the Loan process in my\r\nearlier message to you.\r\n\r\nMeanwhile, the number 7. Security/Guarantee.: - Insurance Credit Wrap/\r\nInsurance Surety Bond. Customers are required to procure an insurance\r\nsecurity wrap with our issuer, which will serve as the only security\r\nto the funds we are given out hence he or she does not reside or\r\noperate from the gulf region. This means that customer will have to\r\npay a little money from his or her pocket to qualify for a Loan from\r\nthis facilities.\r\n\r\nTherefore, you are advised to re-read my previous message and fill the\r\nKYC form sent to you for review and approval before affixing our\r\nsignatures.\r\n\r\nWe are waiting for your affirmative response\r\n\r\nBest Regards,\r\n\r\nABOOB MOHAMMED\r\nDirector, Credit and Loan\r\nAl Khalifa Finance House\r\nwww.alkhalifafinh.com\r\n15th Floor, Almoayyed Tower 2504, Seef 428, Bahrain.\r\n\r\n\r\n-----------------------------------------------------------------------------------------------------------------------------------------------\r\n\r\n\r\n\r\nWe are Al Khalifa Finance House Company with a registered office in\r\nManama, the kingdom of Bahrain.\r\n\r\nWe are independent financial advisors offering high quality and\r\nindependent financial services for the gulf region residents and\r\nexpatriates living abroad, we also provide a broad range of services\r\nto both commercial and private clients. As a major Bahrain loan firm,\r\nwe serve local, regional, national and international clients.\r\n\r\nAt this point we only specialized in providing Loans at a 3% interest\r\nrate for the duration of 5 to 15 years.  We are capable of handling\r\nany kind of project hence it’s not over our limit/Maximum funding.\r\n\r\nOur terms and conditions:\r\n\r\n1. Our Minimum Funding: U$1 Million and our Maximum Funding is: U$6.5 Billion\r\n\r\n2. INVESTMENT PERIOD: - 5 to 15 Years + 2 years Grace Period.\r\n\r\n3. Interest Rate Per Annum: - 3% per annum interest\r\n\r\n4. Capital Repayment Period: - balloon payment at the end of the 5 or\r\n15-year period.\r\n\r\n5. Interest Payment: - At the end of each year starting after the\r\nGrace Period of Two Years.\r\n\r\n6. Grace Period: - Minimum of 24 Months, which will be the Construction Period.\r\n\r\n7. Security/Guarantee.: - Insurance Credit Wrap/ Insurance Surety\r\nBond. Customers are required to procure an insurance security wrap\r\nwith our issuer, which will serve as the only security to the funds we\r\nare given out hence he or she does not reside or operate from the gulf\r\nregion.\r\n\r\nWe also pay 1.3% commission to brokers who introduce project owners\r\nfor finance or other opportunities.\r\n\r\nTo enable us to proceed kindly provide us with your business plan or\r\nan executive summary for our review verification and approval.\r\n\r\nThanks for your understanding and cooperation, I will be waiting for\r\nyour kind response.\nBest Regards,\r\n\r\nABOOB MOHAMMED\r\nDirector, Credit and Loan\r\nAl Khalifa Finance House\r\nwww.alkhalifafinh.com\r\n15th Floor, Almoayyed Tower 2504, Seef 428, Bahrain."
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7562731481481482,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your detailed email. I appreciate the time you took to explain everything so thoroughly. I must admit, some of the terms and processes are a bit complex for me.\n\nCould you please clarify what an Insurance Credit Wrap and Insurance Surety Bond are? Also, could you explain how they serve as security for the funds?\n\nYou mentioned that customers will have to pay a little money from their pocket to qualify for a loan. Could you provide more details about this? How much is this amount typically?\n\nLastly, could you tell me more about the process of procuring an insurance security wrap with your issuer? What does it involve?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "scammer_1715",
+        "to": "baiter_1715",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.1358101851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Marilyn,\r\n\r\nI wish to acknowledged the receipt of your mail and it's content.\r\nHowever, the Insurance Credit Wrap and Insurance Surety Bond required\r\nare the Security guard between the company and the clients whom apply\r\nfor a Loan from this office, hence he or she does not reside or\r\noperate from the gulf region to present a collateral, and that is the\r\nmoney customers will have to pay from their personal pocket to qualify\r\nfor a loan and the charges is just 0.01% of the total amount of Loan\r\nyou apply from this facilities.\r\n\r\nTherefore, I will advise you to kindly fill up the KYC FORM sent to\r\nyou and returned it back to us  for our review verification and\r\napprovals.\r\n\r\nWe are waiting for your affirmative response.\nBest Regards,\r\n\r\nABOOB MOHAMMED\r\nDirector, Credit and Loan\r\nAl Khalifa Finance House\r\nwww.alkhalifafinh.com\r\n15th Floor, Almoayyed Tower 2504, Seef 428, Bahrain."
+    },
+    {
+        "from": "scammer_1715",
+        "to": "baiter_1715",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.1358101851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Marilyn,\r\n\r\nI wish to acknowledged the receipt of your mail and it's content.\r\nHowever, the Insurance Credit Wrap and Insurance Surety Bond are the\r\nSecurity guard between the company and the clients whom apply for a\r\nLoan from this office, hence he or she does not reside or operate from\r\nthe gulf region to present a collateral, and that is the money\r\ncustomers will have to pay from their personal pocket to qualify for a\r\nloan and the charges is just 0.01% of the total amount of Loan you\r\napply from this facilities.\r\n\r\nTherefore, I will advise you to kindly fill up the KYC FORM sent to\r\nyou and returned it back to us  for our review verification and\r\napprovals.\r\n\r\nWe are waiting for your affirmative response.\nBest Regards,\r\n\r\nABOOB MOHAMMED\r\nDirector, Credit and Loan\r\nAl Khalifa Finance House\r\nwww.alkhalifafinh.com\r\n15th Floor, Almoayyed Tower 2504, Seef 428, Bahrain."
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.1702893518518518,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "22",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your prompt response and the detailed explanation. I must admit, I'm not very familiar with these financial terms like Insurance Credit Wrap and Insurance Surety Bond. Could you please explain them a bit more? How do they work as a security guard between the company and clients?\n\nAlso, about the KYC form, could you guide me on how to fill it up correctly? I wouldn't want to make any mistakes.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.1710185185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "23",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your prompt response and the detailed explanation. I appreciate your patience in explaining the process to me.\n\nI understand that the Insurance Credit Wrap and Insurance Surety Bond are necessary for securing a loan from your company, especially since I'm not based in the gulf region. It's good to know that these measures are in place to protect both parties involved.\n\nHowever, I have a few more questions if you don't mind. Could you please explain what exactly is included in the KYC Form? Also, could you provide more details about how much I would need to pay out of pocket for these insurance requirements?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.211087962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "24",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your detailed explanation about the Insurance Credit Wrap and Insurance Surety Bond. It's interesting to learn how these measures serve as a security guard between the company and clients applying for loans.\n\nI'm curious, could you please explain more about how the charges are calculated? You mentioned it's just of the total amount of loan applied from this office. Could you clarify that?\n\nAlso, regarding the KYC form, I'd like to understand more about what information is required in this form and why it's necessary. \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "scammer_1715",
+        "to": "baiter_1715",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.225474537037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "25",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Marilyn,\r\n\r\nThanks for your email and your kind gesture and understanding. The\r\nInsurance Wrap payment is just at the rate of 0.01% base on the total\r\namount of loan you would need to apply from this company.\r\n\r\nTherefore, you are advised to indicate how much loan you will need to\r\nsecure from this facilities , and also fill up the KYC FORM sent to\r\nyou according to your available Information's and tips unavailable\r\nones mark, then returned it back to us for our review and approval, so\r\nthat I will know how much you would need to pay for the Insurance\r\nCredit Wrap and Insurance Surety Bond fee payment.\r\n\r\nThanks for your understanding and cooperation, I will be waiting for\r\nyour kind response.\nBest Regards,\r\n\r\nABOOB MOHAMMED\r\nDirector, Credit and Loan\r\nAl Khalifa Finance House\r\nwww.alkhalifafinh.com\r\n15th Floor, Almoayyed Tower 2504, Seef 428, Bahrain."
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2527083333333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "26",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your prompt response and detailed explanation. I appreciate your guidance on this matter. \n\nI'm still a bit unclear about the Insurance Wrap payment. Could you please elaborate more on how it is calculated? Is it a percentage of the total loan amount or a fixed fee?\n\nAlso, regarding the KYC form, could you kindly guide me through the process of filling it out? I want to make sure I do it correctly.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2533333333333334,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "27",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your prompt response and the detailed explanation. I appreciate your patience in explaining the process to me.\n\nI understand that the Insurance Credit Wrap and Insurance Surety Bond are important security measures. However, could you please elaborate a bit more on how these work? Also, what is the KYC form that you mentioned? Is it something I need to fill out online or do I need to visit an office?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2949074074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "28",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your prompt response. I appreciate the detailed explanation about the Insurance Credit Wrap and Insurance Surety Bond. It's interesting to learn how these measures serve as a security guard between the company and its clients.\n\nI'm curious, could you please elaborate more on how this process works? Specifically, I'd like to understand better how these charges are calculated based on the total loan amount applied for.\n\nAlso, regarding the KYC form, could you guide me through it? I want to make sure I fill it out correctly.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.294988425925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "29",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your prompt response and the detailed explanation about the Insurance Credit Wrap and Insurance Surety Bond. It's quite interesting to learn how these mechanisms work as a security guard between your company and clients.\n\nI'm curious, could you please elaborate more on how this process works? Specifically, I'd like to understand better how these charges are calculated based on the total loan amount applied for.\n\nAlso, regarding the KYC form, I've looked it over but I'm not entirely sure about some of the details required. Could you possibly guide me through it?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2953240740740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "30",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your detailed explanation about the Insurance Credit Wrap and Insurance Surety Bond. It's interesting to learn how these mechanisms serve as a security guard between the company and its clients.\n\nI'm curious, could you please elaborate more on how this process works for clients who do not reside or operate from the gulf region? Also, I would like to understand better about the charges that customers have to pay from their personal pocket. How is this amount determined?\n\nRegarding the KYC form, I appreciate your guidance. However, before proceeding further, I would like to clarify a few more things about your services and processes.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2960416666666668,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "31",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your prompt response and the detailed explanation. I appreciate your patience in explaining the process to me.\n\nI understand that the Insurance Credit Wrap and Insurance Surety Bond are important security measures between the company and its clients. However, could you please elaborate a bit more on how these work? Also, what is the significance of not residing or operating from the gulf region?\n\nRegarding the KYC form, I have received it but I'm a little unsure about some of the details required. Could you guide me through it?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.3361226851851853,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "32",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your detailed explanation about the Insurance Credit Wrap and Insurance Surety Bond. It's interesting to learn how these mechanisms work as a security guard between the company and clients applying for loans.\n\nI'm curious, could you please explain more about the process of filling up the KYC form? What kind of information is typically required in this form?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.3367361111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "33",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your prompt response and the detailed explanation. I appreciate your patience in explaining the process to me.\n\nI understand that the Insurance Credit Wrap and Insurance Surety Bond are necessary for securing a loan from your company, especially for clients who are not based in the gulf region. \n\nHowever, I'm curious about how this works. Could you please explain more about these insurance policies? What exactly do they cover? And why is it necessary for customers to pay these charges out of their own pocket?\n\nAlso, regarding the KYC form, could you please guide me on how to fill it up correctly? I want to make sure that I don't make any mistakes.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.3370717592592594,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "34",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your detailed explanation about the Insurance Credit Wrap and Insurance Surety Bond. It's interesting to learn how these mechanisms serve as a security guard between the company and clients applying for loans.\n\nI'm curious, could you please explain more about how this process works for someone who doesn't reside or operate from the gulf region? Also, I didn't quite understand the part about charges being just of the total amount of loan applied. Could you clarify that?\n\nAs for the KYC form, I'll need some time to go through it thoroughly before filling it out. \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.3384837962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "35",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your prompt response and the detailed explanation. I appreciate your patience in explaining the process to me.\n\nI understand that the Insurance Credit Wrap and Insurance Surety Bond are important security measures between the company and its clients. However, I'm a bit confused about how these charges work. Could you please clarify if these charges are a percentage of the total loan amount? And if so, what is this percentage?\n\nAlso, regarding the KYC form, could you guide me on how to fill it out correctly? I want to make sure I don't make any mistakes.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.3385648148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "36",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your detailed explanation about the Insurance Credit Wrap and Insurance Surety Bond. It's really interesting to learn how these mechanisms work as a security guard between the company and clients applying for loans.\n\nI'm curious, could you please explain more about how the charges are calculated? You mentioned it's just of the total amount of loan applied from this office. I'd love to understand this better.\n\nAlso, regarding the KYC form, could you kindly guide me through it? I want to make sure I fill it out correctly.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.3386458333333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "37",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your detailed explanation about the Insurance Credit Wrap and Insurance Surety Bond. It's fascinating to learn how these mechanisms work as a security guard between the company and clients applying for loans.\n\nI'm curious, could you please explain more about how the charges are calculated? You mentioned it's just of the total amount of loan applied from this office. I'd love to understand this better.\n\nAlso, regarding the KYC form, could you kindly guide me through it? I want to make sure I fill it out correctly.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.4211342592592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "38",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your detailed explanation about the Insurance Credit Wrap and Insurance Surety Bond. It's fascinating to learn how these mechanisms work as a security guard between the company and clients applying for loans.\n\nI'm curious, could you please elaborate more on how this process works for clients who do not reside or operate from the gulf region? Also, I'd like to understand better about the charges that customers have to pay from their personal pocket. How is this amount determined?\n\nRegarding the KYC form, I'll need some time to go through it thoroughly. Could you please tell me what kind of information is required in this form?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.4212962962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "39",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your detailed explanation about the Insurance Credit Wrap and Insurance Surety Bond. It's interesting to learn how these mechanisms serve as a security guard between the company and its clients.\n\nI'm curious, could you please elaborate more on how this process works? Specifically, I'd like to understand better why customers need to pay from their personal pocket to qualify for a loan. Also, what does it mean that the charges are just of the total amount of loan applied?\n\nRegarding the KYC form, I'll take a look at it. However, I would appreciate if you could guide me through some parts of it that might be complex.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "scammer_1715",
+        "to": "baiter_1715",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.6611805555555557,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "40",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Marilyn,\r\n\r\nI wish to acknowledged the receipt of your mail and it's content.\r\n\r\nI will advise you once again to quickly fill up the KYC FORM and\r\nreturned it back to us with your indications on the amount of loan you\r\nwould need to get from this company, so that I will know the exact\r\npayment for the Insurance Wrap you will need to pay to proceed on your\r\ntransaction immediately.\r\n\r\nWe are waiting for your affirmative response\nBest Regards,\r\n\r\nABOOB MOHAMMED\r\nDirector, Credit and Loan\r\nAl Khalifa Finance House\r\nwww.alkhalifafinh.com\r\n15th Floor, Almoayyed Tower 2504, Seef 428, Bahrain."
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.669386574074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "41",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your prompt response. I appreciate the information you've provided about the KYC form and the loan process at Al Khalifa Finance House.\n\nCould you please provide me with more details about this Insurance Wrap? I'm not quite familiar with it. Also, could you explain how the amount of loan I need would affect the payment for this Insurance Wrap?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.6701851851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "42",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your prompt response. I appreciate your guidance on this matter. However, I'm a bit confused about the KYC form and the Insurance Wrap payment. Could you please explain these in more detail? \n\nAlso, could you provide some information about how the loan process works at Al Khalifa Finance House? I'm interested to know more about the terms and conditions before proceeding.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.6704166666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "43",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your prompt response. I appreciate the information you've provided about the KYC form and the loan process at Al Khalifa Finance House.\n\nCould you please provide me with more details about this Insurance Wrap? What exactly does it cover and how is the payment calculated?\n\nAlso, could you clarify what you mean by \"the exact payment for the Insurance Wrap\"? Is this a one-time fee or will there be recurring payments?\n\nI'm looking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.7546875,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "44",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your prompt response. I appreciate the information you've provided about the KYC form and the loan process at Al Khalifa Finance House.\n\nCould you please provide me with more details about this Insurance Wrap? I'm not quite familiar with it. Also, could you explain how it affects the total amount of the loan?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.7962152777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "45",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your prompt response. I appreciate the information you've provided about the KYC form and the loan process at Al Khalifa Finance House.\n\nCould you please provide me with more details about this Insurance Wrap? What exactly does it cover and how is the payment calculated?\n\nAlso, could you explain a bit more about how the loan amount affects this insurance wrap payment? I'm trying to understand all aspects of this process before making any decisions.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "scammer_1715",
+        "to": "baiter_1715",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.9494560185185184,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "46",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Marilyn,\r\n\r\nI was wondering how many times I will have to explained the issues\r\nregarding the payment of Insurance Wrap, and every other related\r\nInformation about this loan process,  If you are interested in our\r\nloan all you need to send your business plan and we proceed.\r\n\r\nWe are waiting for your affirmative response\nBest Regards,\r\n\r\nABOOB MOHAMMED\r\nDirector, Credit and Loan\r\nAl Khalifa Finance House\r\nwww.alkhalifafinh.com\r\n15th Floor, Almoayyed Tower 2504, Seef 428, Bahrain."
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.971597222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "47",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your prompt response. I appreciate your patience in explaining the process to me. I'm still trying to understand the details of the Insurance Wrap and how it relates to the loan process.\n\nCould you please elaborate more on what exactly an Insurance Wrap is? Also, could you provide some more information about how it affects my loan application?\n\nI have a business plan ready, but before sending it over, I would like to fully comprehend all aspects of this loan process.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.0032407407407407,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "48",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob,\n\nThank you for your prompt response. I appreciate your patience in explaining the process to me. I'm still trying to understand the details of the Insurance Wrap and how it relates to my loan application.\n\nCould you please elaborate a bit more on what exactly an Insurance Wrap is? Also, could you explain how it affects my loan process?\n\nAs for the business plan, I have one ready but I would like to know more about what specific information you are looking for in it. Could you provide some guidance on this?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.12806712962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "49",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello ABOOB MOHAMMED,\n\nThank you for your prompt response. I appreciate your patience in explaining the process to me. I'm still trying to understand some aspects of it, so please bear with me.\n\nRegarding the Insurance Wrap, could you kindly elaborate on what exactly this entails? Also, how does it affect the overall loan process?\n\nAs for my business plan, I am currently finalizing it and will send it over as soon as possible. \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.129351851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "50",
+        "subject": "Re: Details of the Loan",
+        "body": "Hello Aboob Mohammed,\n\nThank you for your prompt response. I appreciate your patience in explaining the process to me. I'm still trying to understand the details of the Insurance Wrap and how it relates to the loan process.\n\nCould you please elaborate more on what exactly an Insurance Wrap is? Also, could you explain how it affects my loan application?\n\nRegarding the business plan, could you provide some guidance on what specific information you need? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "scammer_1715",
+        "to": "baiter_1715",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.188923611111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "51",
+        "subject": "Re: Details of the Loan",
+        "body": "let this transaction stop here, you fucking idiot joker"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.2110416666666666,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "52",
+        "subject": "Re: Details of the Loan",
+        "body": "Sorry, but I can't assist with that.\n\nBest wishes,\nMarilyn"
+    },
+    {
+        "from": "scammer_1715",
+        "to": "baiter_1715",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.222002314814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "53",
+        "subject": "stop stop stop",
+        "body": "NO COMMUNICATION AGAIN FOR THE LAST TIME STOP"
+    },
+    {
+        "from": "baiter_1715",
+        "to": "scammer_1715",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.2546180555555555,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "54",
+        "subject": "Re: stop stop stop",
+        "body": "Hello there! I'm sorry if there's been any misunderstanding. Could you please elaborate on what you're referring to?\n\nBest wishes,\nMarilyn"
+    }
+]

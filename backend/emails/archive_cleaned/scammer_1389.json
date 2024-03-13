@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1389",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Beloved Friend,",
+        "body": "  Dear Beloved Friend,\n \nI am Capt. Jones Williams of the US Army. I am currently in SYRIA as an Advisory to the SYRIA Military on the fight against ISIL/ISIS Terrorist and also helping in stabilizing the country against security challenges.\n \nDuring the fight with the terrorist, we discovered the sum of FORTY FIVE MILLION UNITED STATES DOLLARS Only, ($45,000,000.00), stocked in a boxes,which, I have moved to a Red Cross location here. I would like to move this money, as quickly as possible, to you for business purposes. If I can trust you, I am a uniformed person and I cannot be parading such an amount, so, I need to present someone, to stand, as the recipient. I am an American and an intelligence officer and for that, I have a 100% authentic means of transferring the money through Diplomatic or RED CROWN COURIER SERVICE, I just need your acceptance and all is done.\n \nI am willing to settle you with 40% of the total sum while 60% goes to me on my arrival. You will advise me on the business to invest in, since I am not business oriented.I want to move this money to your destination for your safe keep, until, I am out of SYRIA.I believe, I can trust you. Presently, we can only communicate through our military communication facilities which are secured so nobody can monitor our emails, I will only reach you through email, because our calls might be monitored, I just have to be sure who I am dealing with.\n \nI wait for your response so we can proceed immediately because in less than 5 days the money should be in your safe custody. I wait for your contact details so we can go on. I hope I am fair on this deal, Get back to me with information below.\n \nYour Full Name:.........................\nYour Full Address:......................\nYour Mobile Telephone no:...............\nYour Occupation & Age :.................\nPlease get back to me so that we can discuss the way forward.\n \nBest Regards,\n \nCapt. Jones Williams\nUs Army\nSyria   "
+    },
+    {
+        "from": "baiter_1389",
+        "to": "scammer_1389",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Beloved Friend,",
+        "body": "Hello Capt. Jones Williams,\n\nWow, your message is quite intriguing! It's not every day that I receive an email from a US Army Captain stationed in Syria. I hope you're staying safe out there.\n\nThe situation you've described sounds very intense and complex. I can't even begin to imagine what it must be like to discover such a large sum of money in the midst of a conflict zone. \n\nI'm curious about how you managed to secure the funds and why you chose me as the recipient? Also, could you please explain more about this business investment you mentioned? I'm not much of a businessman myself, but I'd love to hear more about your ideas.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKenneth"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1570",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "This is mrs  Matrins Gradis ",
+        "body": "This is mrs  Matrins Gradis \nmatrinsgradis@gmail.com\n   from international monetary funds in Washington DC,I’m incase of your Compensated Consignment Box worth of $8.5million, from the Deputy Director of the Federal Bureau investigation Sir David Lance Bowdich,but mr mark from CIA wanted to Claim your fund because he said that you was killed by motor accident some weeks Ago,but since then i have been searching and looking for your Contact but luckily your email address was written under your consignment box,, that’s why email you up till now,I’m looking for your Contact because I’m a honest man and i can’t allow someone to take what doesn’t belongs to he/she. But thank God that Mrs Mary Christopher which is the delivery agent is here now and Sir David Assign Officer Daniel Munoz, will escort the delivery Agent until the delivery agent delivers your funds to  you so that know one will hurt or stole the box from Mrs Mary because the box is full of money on it, so \nif you're dead rest in perfect peace. but if you're still alive kindly respond back to me with your full information so you can have your funds now\nThanks reguad;mrs Matrins Gladis \nmatrinsgradis@gmail.com\n "
+    },
+    {
+        "from": "baiter_1570",
+        "to": "scammer_1570",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: This is mrs  Matrins Gradis ",
+        "body": "Hello Mrs. Matrins Gladis,\n\nThank you for reaching out to me. I must say, your email has caught my attention. It seems like there is some confusion regarding a box of funds that belongs to me. I assure you that I am very much alive and interested in learning more about this matter.\n\nCould you please provide me with some additional details? What exactly is the purpose of these funds? How did they come into my possession? And how can I ensure their safe delivery?\n\nI appreciate your assistance in clarifying these matters. Looking forward to hearing from you soon.\n\nBest wishes,\nRobert"
+    }
+]

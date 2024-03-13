@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_927",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  I am Mr. james Royce, CEO  \"",
+        "body": "  I am Mr. james Royce, CEO  \"MDV INCORPORATED\", a premierfinancial consultancy firm based in Ohio, United States. I amcontacting you based on my personal interest to develop a mutualbusiness relationship with you in your Country. I am a financialconsultant to an investor from a Mineral-Oil Rich European Countrywith sensitive political background who wants to invest outside hisCountry and without the appearance of his name on the investments. As stated above, my client had approached me with a mandate to seekfor individuals with professional experience in financial managementthat can help him channel these funds into profitable investmentswhere these funds could exist outside his name and Country. Should this be of interest to you, kindly respond with your CV and/orpersonal profile so we can discuss further. Kindly send your reply tomy private email for more comprehensive details. Here is my private email:jamesroyce002@gmail.com Sincerely, Mr. james Royce   "
+    },
+    {
+        "from": "baiter_927",
+        "to": "scammer_927",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   I am Mr. james Royce, CEO  \"",
+        "body": "Hello Mr. James Royce,\n\nThank you for reaching out to me. I appreciate your interest in developing a business opportunity in my country. I would be happy to learn more about the investment you mentioned.\n\nBefore proceeding further, could you please provide some additional information? What specific industry or sector does your client wish to invest in? Additionally, what is the approximate amount of funds they are looking to invest?\n\nI understand that your client prefers to keep their name and country confidential. Could you please explain why this is necessary and how it would affect the investment process?\n\nI look forward to hearing back from you with these details so we can discuss further.\n\nBest wishes,\nJustin"
+    }
+]

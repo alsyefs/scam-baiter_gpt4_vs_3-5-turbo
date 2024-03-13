@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_1916",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir    ,",
+        "body": "  Dear Sir    ,\nI am Mr Frank Ocran ,\nGood day Sir and good to be in contact with you,please go through my message and get back to me\nI am a business consultant i have the trust and confidence of a current Official in Government who never wanted his name to surface concerning the transaction i am introducing to you because of his political position, currently he has the ticket to run for presidency and would not want anything to tarnish his profile and image and would not want his ambition to be derailed.\nI will refer to him as my principal .\nHe has gold deposited with a bank in the Netherlands and the gold was sold overtime and a certain amount  was realized and currently in a safe deposit account with the bank ,you may also refer to it as escrow.\nThese Amount Realized cannot be repatriated to Ghana hence its questionable and may cause some uproar and damage to him. He wants you to work on moving the funds and to be invested.\nHe has proposed 40% for you and the rest for him and to be invested on his behalf.\nCurrently the Realized Amount are being handled by a financial expert and trustee who is currently in the Netherlands.\nIf you accept to deal with this I will immediately speak to my principal and connect you to the financial expert to discuss modalities.\nI will wait to hear from you.\nOn your Prompt Response, I will give You my No: (whats-app Exclusively.) for more details\nThanks\nFrom Frank Ocran   "
+    },
+    {
+        "from": "baiter_1916",
+        "to": "scammer_1916",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir    ,",
+        "body": "Hello Mr. Frank Ocran,\n\nThank you for reaching out with this opportunity. I am interested in learning more about the details regarding the gold deposit and potential investment opportunities. Could you provide more information on how the funds are to be invested and what role would be expected of me in this process?\n\nLooking forward to hearing back from you soon.\n\nBest wishes,\nAlice"
+    },
+    {
+        "from": "scammer_1916",
+        "to": "baiter_1916",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re:   Dear Sir    ,",
+        "body": "Dear Alice,Thank you for responding to this business proposal and opportunity .As you may have understood the discreet nature of this deal and like I have said in my first email to you,the owner of the funds in question will not participate in this transaction to avoid distractions of political opponents and those who may want him to fail in his bid for political elevation.Your full discretion is needed to invest the funds in any lucrative area that will bring a good yearly return of investment ,eg, real estate etc.Most importantly once in the custody of the funds,you will be required to release a million dollar to him through proxy means to avoid Pandora issues ,these will be needed for his presidential campaign. You are contacted to stand as a partner and authorised person to make use of the secure funds for investment.The funds in question is currently deposited with ING FINANCIAL VAULT in Amsterdam,and its required that you will open an account with the ING bank  in other to move the funds into an account for further transfer to an account you will designate.The secured investment fund is being taken care of a financial expert in the Netherlands who you will meet with upon receiving a power of Attorney from fund owner.He will guide you through the process of opening an account in the bank and the further relaese of the funds to you .I hope my details are clear and this required you to travel to Amsterdam Netherlands once you and owner will be able to sign a fund management Agreement.Please read and where you do not understand ,do not hesitate to ask question.Thanks,Frank..\r\nSent from Yahoo Mail on Android"
+    },
+    {
+        "from": "baiter_1916",
+        "to": "scammer_1916",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.008344907407407407,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re:   Dear Sir    ,",
+        "body": "Hello, thank you for reaching out with this business proposal. I appreciate the opportunity to potentially be involved in such an important and discreet deal. Could you provide more details on how the funds will be invested and what kind of returns we can expect? Also, I would like to know more about the financial expert who will be guiding us through this process. Looking forward to hearing from you.\n\nBest wishes,\nAlice"
+    },
+    {
+        "from": "scammer_1916",
+        "to": "baiter_1916",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.06309027777777777,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "From Frank",
+        "body": "Dear Alice.From my discussion with fund owner who has put on years of service in the government and he is not conversant with businesses apart from government Jobs,He said if to be specific he would like a real estate investmen ,but said you may know the best high return investment opportunities.We are talking about 48 million euros secured funds.The financial expert was the one who is in the custody of the funds presently in Amsterdam,once we have agreed and work out a signed agreement then the contact of the financial expert who is also a trustee will be given to you to establish contact.The ING financial vault where the fund is currently secure is an affiliated sister institution with ING BANK NL.It will please me to see that we get this going as I am working for a percentage too.Will wait to hear you positive decision.Please what is your last name ,will be pleased to address you with your full name.Thanks,Frank Ocran\r\n\r\nSent from Yahoo Mail on Android"
+    },
+    {
+        "from": "baiter_1916",
+        "to": "scammer_1916",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.07005787037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: From Frank",
+        "body": "Hello! That sounds like an interesting opportunity. Can you provide more details about the real estate investment and how the funds are secured? I'm curious to learn more about this potential high return investment.\n\nBest wishes,\nAlice"
+    }
+]

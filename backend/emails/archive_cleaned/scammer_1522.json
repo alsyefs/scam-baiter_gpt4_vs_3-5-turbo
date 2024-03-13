@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1522",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings,",
+        "body": "Greetings,\nI would like to inform you that my client is interested in investing in a lucrative project and possesses the necessary funds to bring your project to fruition.\nPlease let me know if you are interested in discussing this opportunity further.\nReply to:  \nmardinisuliman733@gmail.com\nRegards,\nSuliman Mardini\nGulf Research Center\n30 Rayat Al-Itihad Street (19)P.O. Box 2134 Jeddah 21451\nKingdom of Saudi Arabia    "
+    },
+    {
+        "from": "baiter_1522",
+        "to": "scammer_1522",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings,",
+        "body": "Hello Suliman Mardini,\n\nThank you for reaching out and expressing interest in investing in a project. I'm always open to discussing potential opportunities. Could you please provide more details about the type of project your client is interested in? It would be helpful to understand their preferences and expectations.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMichael"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_280",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "ATTN:SIR",
+        "body": "ATTN:SIR\nTHIS TO INFORM YOU THAT WE HAVE RECEIVED INSTRUCTION WITH YOUR PAYMENT\nFILE FROM OFFICE OF THE PRESIDENCY TO TRANSFER YOUR  INHERITANCE\nPAYMENT US$32,500,000.00 TO YOUR BANK ACCOUNT IN BY TOMORROW AS SOON\nAS ALL CHARGES IS DEDUCTED.\nPLEASE \nRE-CONFIRM YOUR  BANK INFORMATION\n TO AVOID ANY MISTAKE DURING\nTHE TRANSFER BY TOMORROW.\n WE ARE GOING TO TRANSFER YOUR INHERITANCE\nPAYMENT OF US$32,500,000.00 TO YOUR BANK ACCOUNT BY TOMORROW AND THE\nTRANSFER CONFIRMATION SLIPS WILL BE SENT TO YOU FOR YOUR EASY\nCONFIRMATION.\nAS A MATTER OF URGENCY YOU ARE ADVISED TO MAKE A PAYMENT OF US$100.\nBEEN PAYMENT OF DEDUCTION FEE.\nTHE DEDUCTION FEE OF US$100. WILL ENABLE THIS  BANK TO OBTAIN AN\nAFFIDAVIT AND STAMP DUTIES FROM  HIGH COURT OF NIGERIA, WHICH WILL\nEMPOWER US TO DEDUCT ALL CHARGES AND PREPARE YOUR DEDUCTION\nCERTIFICATE THAT WILL SHOW THAT ALL CHARGES HAVE BEEN DEDUCTED AND YOU\nWILL NOT PAY ANY OTHER FEE.\nYOU ADVISED TO SEND THE DEDUCTION FEE OF US$100. TODAY THROUGH\nRIA OR MONEY GRAM \nWITH THE NAME OF THE\nOFFICER IN CHARGE,ELEANYA CHIJIOKE CHUKWU, LAGOS NIGERIA.\nAS SOON AS WE RECEIVE THIS PAYMENT FROM YOU TODAY, WE WILL DEDUCT ALL\nCHARGES AND YOUR BALANCE WILL BE REMITTED TO YOUR ACCOUNT BY TOMORROW\nMORNING AND THE TRANSFER DETAILS WILL BE FORWARDED TO YOU FOR YOUR\nEASY CONFIRMATION WITH YOUR BANK.\nReceivers Name:ELEANYA CHIJIOKE CHUKWU\nCountry: LAGOS - NIGERIA\nAmount Required: $100\nACT ACCORDING TO MY INSTRUCTIONS,\nI AM WAITING FOR YOUR URGENT RESPONSE.\nREGARDS AND GOD BLESS YOU.\nYOURS FAITHFULLY\nMR.MUSAO O.MUSAO\nFOREIGN OPERATION DEPARTMENT\nFROM:UBA.BANK GROUP-1\nTELL: +234-8038-090-007"
+    },
+    {
+        "from": "baiter_280",
+        "to": "scammer_280",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: ATTN:SIR",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate the update regarding my payment file. However, I have a few questions before proceeding with any payments.\n\n1. Can you please provide more details about the charges that need to be deducted? What are these charges for?\n\n2. Is it possible to receive a breakdown of the deductions and the total amount that will be transferred to my bank account?\n\n3. Could you clarify why an affidavit and stamp duties from the High Court of Nigeria are required? How do these documents relate to my payment?\n\n4. Can you explain why the deduction fee needs to be sent through RIA or MoneyGram? Are there any alternative methods of payment available?\n\nI look forward to your prompt response and further clarification on these matters.\n\nBest wishes,\nTammy"
+    }
+]

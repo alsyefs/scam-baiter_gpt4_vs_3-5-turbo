@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1873",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Grow your  business with Loan ",
+        "body": "Grow your  business with Loan District Enterprise CO.  at competitive interest rates with affordable collateral required.\nOur loan packages are segmented specifically  to help support small, medium-sized, and large-scale Businesses operating across Europe, America, and other part of the world.\nIrrespective of the sector your business is focused, our company is willing to support you with a credit facility of up to $1,000 000  to expand your enterprise.\nFor more information, sign up to the link below and contact the customer service Admin Manager via email <natefedsher@hotmail.com> for more information on how to secure loan of your choice.   \nKind Regards,\nStacey Moore\nAdmin. Manager."
+    },
+    {
+        "from": "baiter_1873",
+        "to": "scammer_1873",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Grow your  business with Loan ",
+        "body": "Hello Stacey Moore,\n\nThank you for reaching out and sharing information about Loan District Enterprise CO. It sounds like your company offers loan packages to support businesses across Europe, erica, and other parts of the world. That's interesting!\n\nI have a few questions regarding the loan packages you mentioned. Could you please provide more details about the interest rates? Are they fixed or variable? And what kind of collateral is required for these loans?\n\nAdditionally, I would like to know if there are any specific criteria or qualifications that businesses need to meet in order to be eligible for these loans. It would be helpful to understand the process and requirements involved.\n\nThank you again for sharing this opportunity. I look forward to hearing back from you with more information.\n\nBest wishes,\nRichard"
+    }
+]

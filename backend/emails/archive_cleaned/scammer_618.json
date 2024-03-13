@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_618",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Sir,",
+        "body": "Dear Sir,\nGood day, can you please get back to me because i have important issues to discuss with you.\nRegards\nPhillip"
+    },
+    {
+        "from": "baiter_618",
+        "to": "scammer_618",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Sir,",
+        "body": "Dear Phillip,\n\nThank you for reaching out to me. I'm always open to discussing important matters. Could you please provide me with more details about the issues you would like to discuss? I want to make sure I can assist you in the best possible way.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nEddy"
+    }
+]

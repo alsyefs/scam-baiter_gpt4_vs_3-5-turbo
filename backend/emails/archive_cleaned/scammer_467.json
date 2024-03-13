@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_467",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Do You Need a Loan At 3% To Pa",
+        "body": "Do You Need a Loan At 3% To Pay Your Bills or Start Up a Business of Your Own? If Yes,\nContact us With This Following Details...\n(1)Full Name\n(2)Loan Amount Needed\n(3)Duration\n(4)Country\n(5)Phone Numbers\n(\ncorisfinancepvtfinancepvt@gmail.com\n )\nBest Regards,"
+    },
+    {
+        "from": "baiter_467",
+        "to": "scammer_467",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Do You Need a Loan At 3% To Pa",
+        "body": "Hello there! Thank you for reaching out. I'm interested in learning more about the loan you mentioned. Can you please provide me with some additional information? What are the interest rates and repayment terms? Also, could you tell me more about the process of obtaining the loan?\n\nBest wishes,\nLaura"
+    },
+    {
+        "from": "scammer_467",
+        "to": "baiter_467",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Application For loan",
+        "body": "Dear Sir,\r\n\r\nI received your mail and i want you to know that i can help you with\r\nany loan amount you need.\r\n\r\nI will want you to fill the borrower's information below and return it\r\nto me as soon as possible so that we can proceed further.\r\n\r\nQualifications:\r\n\r\n1)The Borrower must be at least 18 years old above.\r\n2)Even with Bad credit, we still Guarantee the Borrower the Loan.\r\n3)The Loan Can Be Granted Even With Low credit.\r\n4) The Interest rate is 2%.\r\n\r\nApplication For loan\r\n\r\nFull Name:\r\nMarital Status:\r\nSex:\r\nResidence Address:\r\nCountry:\r\nNationality:\r\nAge:\r\nMobile Phone Number:\r\nAmount Needed As Loan:\r\nLoan Duration:\r\nPurpose of loan:\r\nOccupation:\r\nSalary:\r\nHave you applied for loan before (yes or no):\r\n\r\nOnce you send above details,i will send you my loan terms and\r\nCondition which will also include the agreement.\r\n\r\nI will want you to fill the borrower's information above and return\r\nback to me as soon as possible so that we can proceed.\r\n\r\nYour response needed ASAP.\r\n\r\nKind regards/Respect."
+    },
+    {
+        "from": "baiter_467",
+        "to": "scammer_467",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7040856481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Application For loan",
+        "body": "Dear Sir,\n\nThank you for reaching out to me. I appreciate your offer to help with a loan. Can you please provide more information about the loan terms and conditions? I would like to understand the interest rate and repayment options before proceeding further.\n\nRegarding your question, yes, I have applied for a loan before. However, I would like to know more about your specific lending process and requirements.\n\nI look forward to receiving the borrower's form and learning more about your loan services.\n\nBest wishes,\nLaura"
+    }
+]

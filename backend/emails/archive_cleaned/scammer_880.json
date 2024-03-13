@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_880",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Dear Benefciary,",
+        "body": " Dear Benefciary,\nMy name is Mr. Folashodun Shonubi, and I currently serve as the acting Governor of the Central Bank of Nigeria. The purpose of this email is to express our sincere apologies on behalf of the Federal Government and the office of the Governor for the regrettable delay in settling your contract/inheritance payment. I want to assure you that we now consider your case to be of the utmost importance, and we are fully dedicated to resolving it quickly and efficiently.\nI have personally taken charge of handling your payment of $10.5million to ensure that you receive your funds promptly. President Bola Ahmed Tinubu has instructed me to settle all beneficiaries who have yet to receive their funds, and your name has been included on this list. All necessary fees and taxes have already been deducted from the principal amount. To proceed with the transfer, I kindly request you to reconfirm your account details where you would like the funds to be transferred.\nOnce I receive your response, I will promptly take the necessary actions without any further delays.Please    Reply this mail to this Email Address:folashodunshonubi23@outlook.com\nCongratulations in advance on the successful resolution of your payment.\nYours faithfully,\nMr. Folashodun Shonubi\nActing Governor of the Central Bank of Nigeria    "
+    },
+    {
+        "from": "baiter_880",
+        "to": "scammer_880",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  Dear Benefciary,",
+        "body": "Dear Mr. Folashodun Shonubi,\n\nThank you for reaching out to me regarding my contract payment. I appreciate your apology and assurance that the government is dedicated to resolving this matter promptly. I understand that President Bola Ahmed Tinubu has personally instructed you to settle all pending payments, including mine.\n\nBefore I proceed, could you please provide me with more details about the fees and taxes that have been deducted from the principal amount? I would like to have a clear understanding of the deductions made.\n\nAdditionally, I would be happy to reconfirm my account details for the transfer. However, for security purposes, could you please explain the steps involved in ensuring the safety and confidentiality of my personal information during this process?\n\nThank you once again for your assistance in resolving this matter. I look forward to your response.\n\nBest wishes,\nCharlotte"
+    }
+]

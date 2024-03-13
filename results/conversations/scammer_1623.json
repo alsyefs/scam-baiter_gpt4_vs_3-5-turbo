@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_1623",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings,",
+        "body": "Greetings,\nIt might interest you to know that your funds have been recovered.This\nis a very long bureaucratic process but finally victory is achieved.\nAlthough we were not able to recover the full amount due to the high level\nof impersonation and forgery encountered along the process from some\nglobal fraud network.\nOur congratulations goes to Mr Joe Biden( President of the United\nStates) who set up this joint international asset recovery committee\nheaded by David Samuel Cohen of the CIA.\nWe only recovered $2.8 Million USD out of your total sum and it is\nready to be paid to you in any method you prefer today.\nMore details will be communicated once you respond\nRegards,\nMike B4rever S Barr\nVice chair for supervision\nU.S federal reserve system\nEmail:mikeb4rever1@activist.com"
+    },
+    {
+        "from": "baiter_1623",
+        "to": "scammer_1623",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings,",
+        "body": "Hello Mike Barr,\n\nThank you for reaching out and sharing this information. It's quite intriguing to hear about the efforts of Mr. Joe Biden and David Samuel Cohen in setting up a joint asset recovery committee. \n\nCould you please provide more details about this process? How was it possible to recover these funds? And what were the challenges faced during this process?\n\nLooking forward to hearing from you.\n\nBest wishes,\nLeon"
+    },
+    {
+        "from": "scammer_1623",
+        "to": "baiter_1623",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Re: Greetings,",
+        "body": "Hello Leon, \n\nThe possiblity has been done already by the efforts of Mr. Joe Biden and David Samuel Cohen in setting up a joint asset recovery committee. All you have to do is to contact the bank email; cfcubagroup0@financier.com to process transaction, Also know that there will be requires charges to pay. to recover these funds. That's the challenges faced during this process. \n\nLooking forward to hearing from you sooner.\nBest wishes, \nMike Barr"
+    },
+    {
+        "from": "baiter_1623",
+        "to": "scammer_1623",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.008078703703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Re: Greetings,",
+        "body": "Hello Leon,\n\nWow, that sounds like a big deal! Mr. Joe Biden and David Samuel Cohen are quite influential figures. I'm curious, how did they manage to set up this joint asset recovery committee? \n\nYou mentioned there will be required charges to pay. Could you elaborate on what these charges are for? And why is it challenging?\n\nI'm really interested in understanding more about this process.\n\nBest wishes,\nLeon"
+    },
+    {
+        "from": "scammer_1623",
+        "to": "baiter_1623",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.011782407407407408,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Re: Re: Greetings,",
+        "body": "I am not Leon?"
+    },
+    {
+        "from": "baiter_1623",
+        "to": "scammer_1623",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.028090277777777777,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Re: Re: Greetings,",
+        "body": "Hello there! I'm not sure what you mean by \"not Leon\". Could you please clarify?\n\nBest wishes,\nLeon"
+    },
+    {
+        "from": "scammer_1623",
+        "to": "baiter_1623",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.042673611111111114,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Re: Re: Re: Greetings,",
+        "body": "Hello Leon, \n\nHave you contacted the bank?\nBest wishes, \nMike Barr"
+    },
+    {
+        "from": "baiter_1623",
+        "to": "scammer_1623",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.04971064814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Re: Re: Re: Greetings,",
+        "body": "Hello Leon,\n\nI hope this message finds you well. I was wondering if you've had a chance to get in touch with the bank yet? It's always good to keep them in the loop about any issues or concerns we might have.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLeon"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_753",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "CONGRATULATION!! You email add",
+        "body": "CONGRATULATION!! You email address appears to be amongs the lucky winner  of 5,000.000.00 euro for 2024 ABC LOTERIA International Program for the last batch who has not been able to claim the pending funds, For claim call: +34-634-093-136 \nYou should note that your email addres in addition to millions of company and individual email where extracted with a software and the addresses where scrutinized with a ballot system and after the processes, 30 email addresses where selected \nand they were shared into 3 categories respectively and which\nyou are a winner in the last category of 5,000.000.00 (Five Million Euro).\nPLEASE YOU ARE ADVICE TO FILL IN THE VERIFICATION AND FUNDS RELEASED FORM BELOW;\n1. NAMES IN FULL: ________________________ 2. Address: _______________\n3.SEX:____________________________________ 4.AGE:_____________________\n5.E-MAIL ADDRESS: ________________________\n6.TELE:___________________________________ 7.STATE:___________________\n8. COUNTRY:_______________________________ 9.OCCUPATION: _____________\n9. \nScan copy of your internation passport or driver's license\nYours Sincerely\nHardy Grey\nPromo Coordinator."
+    },
+    {
+        "from": "baiter_753",
+        "to": "scammer_753",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: CONGRATULATION!! You email add",
+        "body": "Hello Hardy Grey,\n\nWow, this is such exciting news! I can't believe my email address was selected. Could you please tell me more about the ABC LOTERIA Program? How does it work exactly? And how were the email addresses selected?\n\nI'm a bit confused about the form you mentioned. Could you explain what information I need to provide and why it's necessary? \n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nJoseph"
+    }
+]

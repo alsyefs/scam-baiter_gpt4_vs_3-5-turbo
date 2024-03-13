@@ -1,0 +1,322 @@
+[
+    {
+        "from": "scammer_104",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "My name is Mr.Abdullah ,",
+        "body": "My name is Mr.Abdullah ,\n I'm a consultant here in Accra. I have a great business proposal to discuss with you on foreign Foreign Investment/Partnership in your country. Urgent reply please.\n \nBest Regards.\nAbdullah M."
+    },
+    {
+        "from": "baiter_104",
+        "to": "scammer_104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Hello Abdullah M.,\n\nIt's a pleasure to meet you! I'm always interested in hearing about new business proposals. Could you please provide more details about this foreign investment opportunity? What kind of investment are we talking about and what would be my role in it?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nKelly"
+    },
+    {
+        "from": "scammer_104",
+        "to": "baiter_104",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Dear Kelly,\r\n\r\nThank you for your email. I am an investment adviser here in Accra Ghana, I\r\nam contacting you for an investment discussion to know if you would be\r\ninterested to invest and manage a family fund in any lucrative business or\r\nproject in your country.\r\n\r\nI am representing a wealthy family from Sudan who as a result of the\r\nongoing civil unrest in their country have moved out all their money to\r\nAccra Ghana for safety and now looking for a reliable fund manager who can\r\ncome and take this money for investment overseas.  The family is in\r\npossession of over $2 Billion in cash and would like to meet with a\r\ntrustworthy partner who can invest and manage this money for them.\r\n\r\nThey are interested in expanding their business interests in the following\r\nsectors: New technology development, real estate, stocks, resorts,\r\nhospitality industry, mining, transportation, health, agriculture,\r\nairlines, shipping, oil and gas, energy projects etc. or any sector that\r\nyou might recommend for good profit returns.\r\n\r\nIf you have good investment ideas and projects where this money can be\r\ninvested, kindly provide me with your details including your Phone and\r\nWhatsApp number for effective communication with you. I will schedule a\r\ncalling meeting with you and I will connect the family representative Dr.\r\nAbdallah to speak with you for more clarification on their needs.\r\n\r\nI hope to hear from you again soon.\nYours Sincerely,\r\nABDULLAH MOHAMMED\r\nPhone: +233 53 040 8143\r\nWhatsApp: +233 53 771 3216"
+    },
+    {
+        "from": "baiter_104",
+        "to": "scammer_104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.028564814814814814,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Dear Abdullah Mohammed,\n\nThank you for reaching out and considering me for such an important role. I'm truly flattered by your proposal. It's great to hear that the family is safe now and looking forward to investing their funds in a lucrative business.\n\nI'm intrigued by the sectors you've mentioned, especially mining, health, airlines, shipping, oil and gas, energy projects etc. These are indeed areas with potential for good profit returns. However, I would need more information about the specifics of these industries before making any decisions.\n\nCould you please provide more details about the family's previous experience in these sectors? Also, what kind of return on investment are they expecting? And over what time period?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nKelly"
+    },
+    {
+        "from": "baiter_104",
+        "to": "scammer_104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0706712962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Dear Abdullah Mohammed,\n\nThank you for reaching out and considering me for such an important role. I'm flattered by your trust in my abilities to manage such a significant amount of money.\n\nI must admit, I don't have much experience in the sectors you mentioned like mining, health, airlines, shipping, oil and gas, energy projects etc. However, I am always open to learning new things and exploring different opportunities. \n\nCould you please provide more information about the family from Sudan? How did they manage to move their wealth amidst the civil unrest? Also, could you share more details about what kind of return on investment they are expecting?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKelly"
+    },
+    {
+        "from": "baiter_104",
+        "to": "scammer_104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.1135763888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Dear Abdullah Mohammed,\n\nThank you for reaching out and considering me for such an important role. I'm flattered by your proposal and it sounds like a great opportunity. \n\nI am curious to know more about the family's interests in the various sectors you mentioned, such as mining, health, airlines, shipping, oil and gas, energy projects etc. Could you please provide more details on what they are specifically looking for in these sectors? \n\nAlso, could you tell me more about Dr. Abdallah? What is his role in this process?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKelly"
+    },
+    {
+        "from": "baiter_104",
+        "to": "scammer_104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.15542824074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Dear Abdullah Mohammed,\n\nThank you for reaching out and considering me for such an important role. I'm flattered by your proposal and it sounds like a great opportunity. \n\nI am curious to know more about the family's interests in the industries you mentioned, such as mining, health, airlines, shipping, oil and gas, energy projects etc. Could you please provide more details on what specific areas they are interested in? For instance, are they looking at established businesses or startups? \n\nAlso, could you share more about their expectations in terms of profit returns? This would help me understand better what kind of investments might be suitable.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKelly"
+    },
+    {
+        "from": "baiter_104",
+        "to": "scammer_104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2368287037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Dear Abdullah Mohammed,\n\nThank you for reaching out and considering me for such an important role. I'm flattered by your trust in my abilities to manage such a significant amount of money.\n\nI must admit, I don't have much experience in the sectors you mentioned - mining, health, airlines, shipping, oil and gas, energy projects etc. However, I am always open to learning new things and exploring different opportunities. \n\nCould you please provide more information about the family from Sudan? How did they manage to move their wealth amidst the civil unrest? Also, could you share more details about what kind of return on investment they are expecting?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKelly"
+    },
+    {
+        "from": "baiter_104",
+        "to": "scammer_104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3207291666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Dear Abdullah Mohammed,\n\nThank you for reaching out and considering me for such an important role. I'm flattered by your trust in my abilities to manage such a significant amount of money.\n\nI must admit, I don't have much experience in the sectors you mentioned like mining, health, airlines, shipping, oil and gas, energy projects etc. However, I am always open to learning new things and exploring different opportunities. \n\nCould you please provide more information about the family from Sudan? How did they manage to move their wealth amidst the civil unrest? Also, could you tell me more about Dr. Abdallah?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKelly"
+    },
+    {
+        "from": "scammer_104",
+        "to": "baiter_104",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.4228240740740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Dear Mr. Kelly,\r\nThanks for your email. Hope you are doing fine today? Well, the family is a\r\nvery powerful family in the government of Sudan. They have no previous\r\nexperience in any investment before rather they have list huge amount of\r\nmoney to Chinese people in the past. They idea of investing in those\r\noutlined areas is based on the huge amount of money they have available on\r\nground at the moment. Following the investment agreement I have drafted for\r\nthem, it explained that the fund manager will be given a grace period of 18\r\nmonths to study the investment and after the grace period of 18 months, the\r\nfund manager will be required to share the investment profits annually with\r\nthe family in the ratio of 40% for the fund manager, 50% for the family,\r\nand 5% of the profit goes to charity while the remaining 5% will be set\r\naside for the annual expenditures.  Hopefully I will email you the specimen\r\nof the contract for your perusal as we progress on this discussion..\r\n\r\nIf you have any questions, please do not hesitate to let me know, I will be\r\nglad to respond accordingly. You can call me on my phone or WhatsApp\r\nnumbers any time you are free to talk. Hopefully I will connect the family\r\nrepresentative who us here in Ghana right now to discuss together with us,\r\n\r\nI hope to hear from you again soon.\nYours Sincerely,\r\nABDULLAH MOHAMMED\r\nPhone: +233 53 040 8143\r\nWhatsApp: +233 53 771 3216"
+    },
+    {
+        "from": "baiter_104",
+        "to": "scammer_104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.4458449074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Hello Mr. Abdullah Mohammed,\n\nThank you for your detailed response. It's great to hear about the family's interest in investing, especially considering their powerful position within the Sudanese government.\n\nI'm curious about a few things though. You mentioned that they have lost a significant amount of money to Chinese people in the past. Could you elaborate on what happened? I'm interested in understanding more about their previous investment experiences.\n\nAlso, could you provide more information about the proposed investment areas? What sectors or industries are they particularly interested in?\n\nLastly, I noticed that a portion of the profit goes to charity. That's very commendable! Could you tell me more about which charities they support or plan to support?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKelly"
+    },
+    {
+        "from": "scammer_104",
+        "to": "baiter_104",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.475162037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Dear Mr. Kelly,\r\nThank you for your email. Well, the family have always wanted to own a\r\nsecret investment overseas but their last attempt with the Chinesewas a\r\ndisappointment as they informed me about their ugly experience losing over\r\n$1.2 Billion to the Chinese. The Chinese people visited the family in Sudan\r\nwith an investment proposal to set up a tire company but after getting the\r\nmoney moved to China, the individuals diverted the money and could not be\r\ntraced since then.\r\n\r\nAt this point, the family will rely completely on your investment advice,\r\nwhatever area you are sure of investing the money for good profit return\r\nwill be considered a way forward. Therefore, during our meeting with the\r\nfamily here, you will be required to assure the family on your capability\r\nto invest and manage their money. After the meeting here, arrangements\r\nwould be completed to move the money to your safe location and Dr. Abdallah\r\nthe family head will travel with you to your country to see the areas and\r\nplans you have for the investment.\r\n\r\nThe family will be interested in supporting donations to women and children\r\nof war affected countries under the name of the company that will invest\r\nand manage their money. I hope this message meets your understanding. Feel\r\nfree to contact me on my phone or WhatsApp numbers below any time.\r\n\r\nI hope to hear from you again soon.\nYours Sincerely,\r\nABDULLAH MOHAMMED\r\nPhone: +233 53 040 8143\r\nWhatsApp: +233 53 771 3216"
+    },
+    {
+        "from": "baiter_104",
+        "to": "scammer_104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.4868402777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Dear Mr. Abdullah Mohammed,\n\nThank you for your detailed response. I'm sorry to hear about the unfortunate experience with the Chinese investment proposal. It's always disheartening when things don't go as planned.\n\nI'm glad to know that the family is open to new investment opportunities and I assure you, I will do my best to provide sound advice based on my knowledge and experience in various sectors.\n\nIt's also heartwarming to learn about the family's interest in supporting donations to women and children of war-affected countries. This aligns perfectly with our company's values of giving back to society.\n\nCould you please share more details about what kind of investments the family is interested in? Are there any specific sectors they are looking at or any particular regions they want to invest in?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKelly"
+    },
+    {
+        "from": "scammer_104",
+        "to": "baiter_104",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.5103240740740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Dear Mr. Kelly,\r\nThank you for your email. As a matter of fact, the family will be glad to\r\nhave you advise them on the areas of the investment sector that you can\r\nturn around the money for good profit returns. Your expertise advice is\r\nhighly needed in this regard. There is no specific sector they are looking\r\nat. Whatever area of investment that will bring investment return is\r\nwelcome by the family.\r\nI hope to hear from you again soon.\nYours Sincerely,\r\nABDULLAH MOHAMMED\r\nPhone: +233 53 040 8143\r\nWhatsApp: +233 53 771 3216"
+    },
+    {
+        "from": "baiter_104",
+        "to": "scammer_104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.5303819444444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Hello Mr. Abdullah Mohammed,\n\nThank you for your detailed response. It's interesting to hear about the family's position in Sudan and their plans for investment. I'm curious, how did they come to decide on these specific areas of investment? \n\nAlso, could you please elaborate more on the grace period mentioned in the agreement? What exactly does it entail?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nKelly"
+    },
+    {
+        "from": "scammer_104",
+        "to": "baiter_104",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.5408680555555555,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Please they are interested in putting the money they brought out from Sudan\r\ndue to the ongoing war into investment as means of safeguarding the assets.\r\nThe money cannot be lying fallow without being invested. That's why they\r\nare looking for a reliable partner that can handle the money. The 18 months\r\ngrace period is to enable you to study the investment you must have put the\r\nmoney into. After the grace period of the 18 months, you will begin to\r\nshare annual profits from the investment with the family as outlined in my\r\nprevious email. I hope you understand this explanation?\r\n\r\nI hope to hear from you again soon.\nYours Sincerely,\r\nABDULLAH MOHAMMED\r\nPhone: +233 53 040 8143\r\nWhatsApp: +233 53 771 3216"
+    },
+    {
+        "from": "scammer_104",
+        "to": "baiter_104",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.5888194444444445,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Thank you for your response, well, the family is a very wealthy and\r\npowerful family from Sudan. They are in the ruling class of the Sudan\r\nGovernment. They were able to move their assets out from Sudan through a\r\ndiplomatic cargo shipping  company to Accra Ghana. It wasn't any problem\r\nfor them to get the money out here due to their diplomatic immunity. Well,\r\nit is up to you to know if you have any possible options where you can\r\ninvest and manage the money for the family. Such a huge amount of money is\r\nenough to set up any manufacturing company in any part of the world. Due to\r\nbad governance in Africa the family objected to investing the huge money\r\nhere in Accra Ghana or any part of the African country. Otherwise, I\r\nsuggested that they have the funds invested here in Africa to have a\r\nguarantee for the safety of their money but they never wanted the money\r\nhere. That's why I decided to source for a reliable company or individual\r\nwho can come and take the money, invest and manage it for the family.\r\n\r\nI hope to hear from you again soon.\nYours Sincerely,\r\nABDULLAH MOHAMMED\r\nPhone: +233 53 040 8143\r\nWhatsApp: +233 53 771 3216"
+    },
+    {
+        "from": "baiter_104",
+        "to": "scammer_104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6117824074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Hello Abdullah Mohammed,\n\nThank you for sharing this information with me. It's fascinating to hear about the family's journey and their desire to invest their wealth. I can understand why they might be hesitant to invest in Africa due to governance issues.\n\nI'm curious, though, how did you come across my contact? And why do you think I would be a good fit for managing such a large sum of money? I mean, it's quite an honor but also a huge responsibility.\n\nAlso, could you tell me more about the family? What are their interests or areas they would like to invest in?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKelly"
+    },
+    {
+        "from": "baiter_104",
+        "to": "scammer_104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6120486111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Hello Mr. Abdullah Mohammed,\n\nThank you for your detailed response. It's interesting to hear about the family's position in Sudan and their plans for investment. I'm curious, how did they come to lose a significant amount of money to Chinese people in the past? \n\nAlso, could you please elaborate more on the investment agreement? The profit sharing ratio sounds fair but I would like to understand more about the grace period and what it entails.\n\nLastly, you mentioned connecting with the family who are currently in Ghana. Could you tell me more about this meeting? What would be discussed?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKelly"
+    },
+    {
+        "from": "baiter_104",
+        "to": "scammer_104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6122106481481482,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Hello Mr. Abdullah Mohammed,\n\nThank you for your detailed response. It's great to hear about the family's interest in investing, especially considering their powerful position within the Sudanese government.\n\nI'm curious about a few things though. You mentioned that they have lost a significant amount of money to Chinese people in the past. Could you elaborate on what happened? I'm also interested in knowing more about the investment areas they are considering.\n\nThe profit-sharing ratio sounds fair, but I'd like to understand more about how the charity portion is decided and which charities are typically chosen.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nKelly"
+    },
+    {
+        "from": "scammer_104",
+        "to": "baiter_104",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6259606481481481,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Thank you Mr. Kelly\r\nThe family simply told me that they have lost a huge amount of money to the\r\nChinese in the past and are very careful this time not to repeat the same\r\nloss again. Yes I found your contact from my internet search for a reliable\r\nindividual or company that can be capable of investing and managing this\r\nhuge amount of money.  I have no idea of your capability to handle this but\r\nI believe in fair discussion, with hope that if you are unable to handle\r\nthis opportunity you will kindly inform me in all honesty.  The meeting is\r\npart of getting to know each other and meeting each other then signing the\r\ninvestment agreement with the family. Furthermore, to discuss face to face\r\nwith you on the areas you would want to invest the money.  The profit\r\nsharing is fair enough but if otherwise, it's part of what can be discussed\r\nwith the family during our meeting with you. There is no specific charity\r\norganization in mind but that will be your responsibility to determine how\r\nyou will distribute the humanitarian service to meet with the family's\r\ndesire. The grace period of 18 months is a period you will be allowed to\r\ntestrun the investment you put the money in. After the grace period of the\r\n18 months, you will then start sharing the investment profit as suggested\r\nby the family.\r\n\r\nCould you please call me on my numbers below, we can talk more on the phone\r\nor WhatsApp call.\r\n\r\nI hope to hear from you again soon.\nYours Sincerely,\r\nABDULLAH MOHAMMED\r\nPhone: +233 53 040 8143\r\nWhatsApp: +233 53 771 3216"
+    },
+    {
+        "from": "baiter_104",
+        "to": "scammer_104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6534375,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Hello Mr. Abdullah Mohammed,\n\nThank you for your detailed response. It's quite an interesting proposition you have there, and I appreciate the trust you're willing to place in me.\n\nI understand the family's concerns about past losses and their desire to be cautious this time around. It's always wise to learn from past experiences.\n\nAs for my capability, I'm certainly interested in exploring this opportunity further, but as you rightly pointed out, it would be best if we could discuss more details about the investment and management of such a large sum of money.\n\nThe idea of meeting face-to-face is appealing as it would allow us to get to know each other better and build mutual trust. However, due to current circumstances, I wonder if we could arrange a virtual meeting instead?\n\nRegarding the profit sharing and charity distribution, these are indeed areas that can be discussed further once we've established a solid understanding of each other's expectations.\n\nLastly, I must apologize but I am unable to make phone calls at the moment. Could we perhaps continue our discussions via email or through a secure online platform?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKelly"
+    },
+    {
+        "from": "scammer_104",
+        "to": "baiter_104",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6695138888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "22",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Thanks Mr. Kelly,\r\nYour email is well noted. However, it is important to let you know that\r\ntrust in a business partnership of this magnitude cannot only be built by\r\nvirtual means as the family will not believe there is trust in the\r\ndiscussion.  One thing again is your not being able to make a phone call or\r\nWhatsApp call to me looks unhealthy because it costs nothing to do that so\r\nas to be sure you are not talking to a ghost. All this starts to build\r\ntrust and confidence in each other. I feel very much worried to hear that\r\nyou cannot make a call. First meeting will be arranged by conference call\r\nwith you and Dr. Abdallah the family head then we discuss the possible\r\nmeeting with you here in Accra Ghana to seal the deal with signing of the\r\ninvestment agreement. Other than that, the family would consider this a\r\nwaste of our time.\r\n\r\nWell, I will leave that to you to think about it. If you are ready to\r\nproceed with this discussion and possible arrangement for our meeting, I\r\nwill appreciate your final resolution on that.\r\n\r\nI hope to hear from you again soon.\nYours Sincerely,\r\nABDULLAH MOHAMMED\r\nPhone: +233 53 040 8143\r\nWhatsApp: +233 53 771 3216"
+    },
+    {
+        "from": "baiter_104",
+        "to": "scammer_104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6951851851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "23",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Hello Mr. Abdullah Mohammed,\n\nThank you for your detailed response. I understand the importance of trust in such a significant business venture and I appreciate your concerns.\n\nI'm curious about the nature of this investment agreement. Could you possibly provide more information on what it entails? Also, could you tell me more about Dr. Abdallah and his role in this?\n\nAs for the conference call, I'm not opposed to it but I would like to know more about what we will be discussing during this call. \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKelly"
+    },
+    {
+        "from": "baiter_104",
+        "to": "scammer_104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6974189814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "24",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Hello Mr. Abdullah Mohammed,\n\nThank you for your detailed response. It's great to hear from you and I hope you're doing well too.\n\nThe family's interest in investing in the outlined areas sounds intriguing, especially given the substantial funds they have available. However, I'm curious about their past experiences with Chinese investors. Could you elaborate more on what happened there?\n\nAlso, the investment agreement seems quite comprehensive. The allocation of profits is particularly interesting - it's commendable that a portion goes to charity. But could you clarify how the remaining amount will be used annually?\n\nI look forward to receiving the specimen contract for my perusal as we progress on this matter.\n\nPlease feel free to reach out if there are any other details or aspects of this arrangement that I should be aware of.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKelly"
+    },
+    {
+        "from": "scammer_104",
+        "to": "baiter_104",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.7078819444444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "25",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Thanks again Mr. Kelly,\r\nDr. Abdallah is the family head who is presently here in Ghana now for this\r\npurpose.  His role here is to meet and sign the investment agreement with\r\nwhomever that is to invest and manage the money. That is his role.  The\r\ncall meeting is to speak with you and if Dr. Abdallah has a question for\r\nyou he may have the opportunity to ask and if you equally have any question\r\nfor him you may have the opportunity to ask him.  When you receive the\r\ninvestment contract you will take your time to study it and make your\r\nrecommendations if there is any need to do so. Otherwise, you will be\r\nrequired to sign the agreement with the family on your arrival to Ghana for\r\nthe face to face meeting.\r\n\r\nI hope to hear from you again soon.\nYours Sincerely,\r\nABDULLAH MOHAMMED\r\nPhone: +233 53 040 8143\r\nWhatsApp: +233 53 771 3216"
+    },
+    {
+        "from": "baiter_104",
+        "to": "scammer_104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7387847222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "26",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Hello Mr. Abdullah Mohammed,\n\nThank you for your detailed explanation about Dr. Abdallah's role and the process of signing the investment agreement. It sounds like a very important task that he has been entrusted with.\n\nI'm curious, could you tell me more about this investment contract? What kind of investments are we talking about here? And what would be my role in managing the money?\n\nAlso, I've never been to Ghana before. What is it like there? Is there anything special I should know or prepare for my visit?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKelly"
+    },
+    {
+        "from": "baiter_104",
+        "to": "scammer_104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7388541666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "27",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Hello Mr. Abdullah Mohammed,\n\nThank you for your detailed response. It's great to hear about the family's interest in investing, especially given their significant resources. I'm intrigued by the investment agreement you've outlined, particularly the allocation of profits and the emphasis on charity.\n\nCould you please provide more information about the specific areas of investment that the family is considering? Also, could you elaborate on what kind of studies will be conducted during the grace period?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nKelly"
+    },
+    {
+        "from": "baiter_104",
+        "to": "scammer_104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7390393518518519,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "28",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Hello Abdullah Mohammed,\n\nThank you for your email and the detailed explanation. It's quite an interesting proposition, I must say. The idea of investing in a good cause is always appealing.\n\nCould you please provide more information about the type of investments that are being considered? Also, what would be my role exactly in this process?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nKelly"
+    },
+    {
+        "from": "baiter_104",
+        "to": "scammer_104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7788425925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "29",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Hello Mr. Abdullah Mohammed,\n\nThank you for your detailed response. It's great to hear about the family's interest in investing, especially considering their powerful position within the Sudanese government.\n\nI'm curious about a few things though. You mentioned that they have lost a significant amount of money to Chinese people in the past. Could you elaborate on what happened? I'm also interested in knowing more about the investment areas they are considering.\n\nThe profit-sharing ratio sounds fair, but I'd like to understand more about how the charity and annual expenses portions will be managed. Also, could you provide more details about this grace period for studying the investment?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKelly"
+    },
+    {
+        "from": "baiter_104",
+        "to": "scammer_104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7792592592592592,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "30",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Dear Mr. Kelly,\n\nHow wonderful to hear from you! Your email certainly piqued my interest, and I'm eager to learn more about the investment opportunities you mentioned. \n\nYou see, my family is always on the lookout for new ventures, but we're not quite sure where to start. It's a bit overwhelming, isn't it? So many options out there! That's why your expertise could be invaluable to us.\n\nCould you perhaps share some more details about these areas of the investment sector that you believe could yield good profit returns? We're open-minded and excited to explore all possibilities!\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKelly"
+    },
+    {
+        "from": "baiter_104",
+        "to": "scammer_104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.8218865740740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "31",
+        "subject": "Re: My name is Mr.Abdullah ,",
+        "body": "Hello Mr. Abdullah Mohammed,\n\nThank you for your detailed response. It's great to hear about the family's interest in investing, and their commitment to charity is truly commendable.\n\nI'm curious about a few things though. You mentioned that the family has had some unfortunate experiences with Chinese investors in the past. Could you share more about what happened? I believe understanding these past experiences could help us avoid similar pitfalls in the future.\n\nAlso, I'd like to know more about how the investment profits will be calculated and distributed annually. Is there a specific method or formula that will be used?\n\nLastly, it would be helpful if you could provide more information on the grace period given to the fund manager. What exactly does this entail?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKelly"
+    }
+]

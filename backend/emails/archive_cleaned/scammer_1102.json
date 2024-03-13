@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1102",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello Dear ,",
+        "body": "Hello Dear ,\n \nWe grant Loan to individuals and companies, we are interested in the financing of large volume projects and grant loans with ease.\n \nThe interest rate will be 3 % annually. The repayment period is 1-15 years.\n \nWe Offer\n \n* Project Finance\n \n* Business Loans\n \n* Personal  Loan\n \nLoan Processing and financing takes about 8-10 working days from the day you submit your loan application. Kindly get back to us for more information.\n \nKind Regards\n \nLoan Officer."
+    },
+    {
+        "from": "baiter_1102",
+        "to": "scammer_1102",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello Dear ,",
+        "body": "Hello Loan Officer,\n\nThank you for reaching out to me. I'm interested in learning more about the loans you offer. Could you please provide some additional details?\n\n1. What is the minimum and maximum loan amount that you offer?\n2. Are there any specific requirements or qualifications that applicants need to meet?\n3. Can you tell me more about the interest rate? Is it fixed or variable?\n4. What are the repayment options available? Can I choose a repayment schedule that suits my financial situation?\n5. Do you require any collateral or security for the loan?\n\nI appreciate your time and look forward to hearing back from you.\n\nBest wishes,\nJames"
+    }
+]

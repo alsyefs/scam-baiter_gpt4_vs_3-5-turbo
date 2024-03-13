@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2106",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  My boss Mr. Richard Wahl has",
+        "body": "  My boss Mr. Richard Wahl has spread most of his wealth over a number of charities and organizations, he has voluntarily decided to donate the sum of US$$5Million to\nyou as one of the selected individuals, he intends to enhance their businesses. Therefore, to verify his winnings please see his YouTube.\nwebsite page below.\nWATCH ME HERE: https:/ /www.youtube.com/watch?v=tne02ExNDrw ?\nThe $533 Million Jackpot Winner Revealed: Modest Mega Millionaire Richard Wahl recently moved to New Jersey from Michigan and has\nonly played the lottery a few times before winning the $533 million Mega Millions lottery jackpot.\nTHIS IS YOUR DONATION CODE: [ 0043034]\nYou are hereby advised to Reply with your DONATION CODE provided to this email:\nRegards\nBroker Troy Williams   "
+    },
+    {
+        "from": "baiter_2106",
+        "to": "scammer_2106",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   My boss Mr. Richard Wahl has",
+        "body": "Hello Troy Williams,\n\nWow, that's quite a piece of news! I'm flabbergasted to hear about Mr. Richard Wahl's generosity. It's not every day you come across such benevolent individuals. \n\nI'm curious though, how was I selected for this? And what does Mr. Wahl hope the recipients will do with this donation?\n\nLooking forward to hearing more about this.\n\nBest regards.\n\nBest wishes,\nDavid"
+    }
+]

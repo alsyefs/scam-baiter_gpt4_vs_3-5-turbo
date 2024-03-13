@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1154",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hi, this is counsel J Maxwel",
+        "body": "  Hi, this is counsel J Maxwell from UK, Please I need your\nconfidentiality and trust for an investment plan, this is not an\ninternet related scam business, always proposed by those unscrupulous\nelements asking for an upfront charges, I have a client from Bahamas he\nis a business mogul living in the UK for a very long time, he got\ninvolved in a domestic violence with his Spanish wife on the process\nhis wife died, this incident happened about five years ago, it  has been\na serious legal battle, finally judgment date has been set for\nNovember 2023,I have exhausted all my legal skills in his defensive\nprocedures, its most likely we might not get a favorable judgment.\nHe told me in confidence that he has a substantial huge amount of\nfunds in US dollars deposited in a financial institution in the US, he\nadvise me to seek for a business partner to invest the funds as I'm\nnot a business person.\nPlease if you are interested let me know, at least 12 years in your\nbusiness field of experience and a comprehensive details of your modus\nOperandi would be appreciated.\nHope to have a feedback from you\nThis is my direct telephone number +44 7452297518 is also active on WhatsApp\nThank you\nYours sincerely   "
+    },
+    {
+        "from": "baiter_1154",
+        "to": "scammer_1154",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hi, this is counsel J Maxwel",
+        "body": "Hello Counsel Maxwell,\n\nThank you for reaching out and sharing this intriguing story. I'm sorry to hear about your client's predicament, it sounds like a challenging situation.\n\nI'm interested in hearing more about the investment plan you mentioned. Could you provide some more details? What kind of business are we talking about here? And what would be my role in this?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nEvelynn"
+    }
+]

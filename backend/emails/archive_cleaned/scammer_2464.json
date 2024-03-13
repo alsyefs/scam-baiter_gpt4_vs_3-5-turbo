@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2464",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "YOUR OUTSTANDING FUND NOTIFICA",
+        "body": "YOUR OUTSTANDING FUND NOTIFICATION\nGood day from the U.S Department of the Treasury. The executive agency responsible for promoting economic prosperity and ensuring the financial security of the United States. However, you are being contacted regarding a fund in your name which was APPROVED 11 Months ago by the United States Senate.\nThis fund was recovered by the Federal Bureau of Investigation 2 years from Africa and by the virtue of this office we are stating categorically that your fund worth Eighty Nine Million United States Dollars (89,000,000.00) will be approved and ready to be Sent to you via Bank Transfer or ATM Card \" once you provides your details below\n \nDetails include ::\nFull name…..\nResidential address……\nPhone number……..\nID card\n……..\nOccupation…… Other emails…….\n Your swift response to this message is urgently needed"
+    },
+    {
+        "from": "baiter_2464",
+        "to": "scammer_2464",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: YOUR OUTSTANDING FUND NOTIFICA",
+        "body": "Hello,\n\nThank you for reaching out to me regarding the fund. I appreciate the information you have provided. However, before I proceed, I would like to ask a few questions to ensure that everything is legitimate.\n\n1. Can you please provide more details about how this fund was recovered from Africa? What was the source of the funds?\n\n2. How exactly will the fund be transferred to me? Could you explain the process in more detail?\n\n3. Is there any specific reason why my personal information, such as full name, address, phone number, ID card, occupation, and other emails are required? How will this information be used?\n\nI look forward to your response and clarification on these matters.\n\nBest wishes,\nLauren"
+    }
+]

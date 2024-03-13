@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2325",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Friend",
+        "body": "  Dear Friend\nGreetings, I really wish to have you as my good friend and also wish to entrust some funds into your care but I have already sent the funds out of Afghanistan before we left the country. I need your sincere and truthful friendship. My name is Sgt Tamara Williams. I served as a Marine Corps in the United States of America Camp Leatherneck Afghanistan then before the Taliban takeover.\nI have $6.5 Million US dollars that I successfully moved out of the country. I need a good partner, someone I can trust. It is oil business money we did with Afghan citizens worth 42 million US dollars, but the 6.5 million US Dollars stated is my share of the business and it's legal. I have successfully moved the funds out of Afghanistan as family valuables with help of JP Morgan Trust security Company through their branch in the Middle East.\nThe most important thing is ''' Can I Trust You? Once the funds get to you, you take your 30% out and keep my own 70%. Your own part of this deal is to find a safe place where my part of the funds will be until I come and meet with you for discussions on investment plans,but I have more interest in real estate or any other profitable investment . If you are interested I will furnish you with more details.\nBut the whole process is simple and we must keep a low profile at all times.\nI look forward to your reply and co-operation, and I thank you in advance as I anticipate your cooperation.\nMy Regards,\nSgt Tamara Williams   "
+    },
+    {
+        "from": "baiter_2325",
+        "to": "scammer_2325",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Friend",
+        "body": "Hello Sgt Tamara Williams,\n\nThank you for reaching out and considering me as a potential partner. I'm flattered by your trust in me, even though we've never met before. It's quite an intriguing story you have there about the oil business and moving such a large sum of money.\n\nI'm curious, how did you manage to move such a significant amount without attracting attention? Also, why did you choose me specifically for this task? I'm just an ordinary person with no experience in handling such large sums of money or investments.\n\nLooking forward to hearing more details from you.\n\nBest wishes,\nEleanor"
+    }
+]

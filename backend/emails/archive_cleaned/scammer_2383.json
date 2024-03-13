@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2383",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention: Overdue payment c",
+        "body": "  Attention: Overdue payment claim\nDear Sir\nThis is Dr. Suleiman Barau, the  central bank of Nigeria.\nMy office has been mandated to open up communication with you so that we can reach a compromise and proceed to release your overdue payment with the bank\nYou are advised to reconfirm your details, your mobile phone, valid ID and your receiving bank details as soon as possible.\nWe received an application from your representative to change your detailed\nNote: we have sent several mails to you but  got no response\nRegards\nDr. Suleiman Barau\nFor :Mgt   "
+    },
+    {
+        "from": "baiter_2383",
+        "to": "scammer_2383",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention: Overdue payment c",
+        "body": "Dear Dr. Suleiman Barau,\n\nThank you for reaching out to me regarding my overdue payment. I appreciate your efforts in helping me with this matter. I understand the importance of confirming my details, but before I proceed, could you please provide me with more information about the payment? Specifically, what is the reason for the delay and how much am I expecting to receive?\n\nI look forward to your response.\n\nBest wishes,\nDebra"
+    }
+]

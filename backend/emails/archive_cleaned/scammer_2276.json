@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2276",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir,",
+        "body": "  Dear Sir,\nI am Khaled Faraj Mansour, a solicitor representing Robert 'Roy' Watterson, a Northern Irish businessman and CEO of Lincom, who died in a plane crash in Australia.\nHe had funds deposited with a commercial bank for telecommunication investments.\nThe bank management has issued a notice to provide the next of kin or confiscate the account.\nI seek consent to present Watterson as the next of kin.\nI promise a legitimate arrangement and aim for a swift transfer of the funds within three working days.\nIn your response, I will send you a comprehensive message on how to claim the funds,\nRegards\nReply to:\nsaga1820@zohomail.eu\nlaumcilwee@gmail.com\n "
+    },
+    {
+        "from": "baiter_2276",
+        "to": "scammer_2276",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir,",
+        "body": "Dear Sir,\n\nThank you for reaching out to me with this information. I'm sorry to hear about the unfortunate incident involving Khaled Faraj Mansour and the funds he had deposited with the commercial bank. It must be a difficult situation for his family.\n\nI would appreciate it if you could provide me with more details on how I can assist in claiming the funds on behalf of Mr. Mansour's next of kin. Could you please explain the process and any necessary documentation that would be required? Additionally, I would like to know more about Lincom and its involvement in this matter.\n\nThank you for your time and consideration. I look forward to hearing from you soon.\n\nBest wishes,\nCharles"
+    }
+]

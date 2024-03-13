@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_2071",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn: Beneficiary.",
+        "body": "Attn: Beneficiary.\nHave you been Scammed before if YES please contact us for more investigation.\nYou have been dictated by our monitoring system for making fraudulent\nand illegal transactions over internet with so many impostors. You are\nnow instructed to stop every further correspondence with the\nperson(s), failure to do so will lead to further jeopardy with the\nrelease of your approved lottery inheritance compensation funds.\nTherefore, \nwe advice that you send to us every emails you receive from\nthem regarding your pending payment, to enable us confirm it's\nauthentication and guide you accordingly to facilitate your payment.\nContact Email: \npauljanius@gmail.com\nContact phone number: +1 (219) 243 2242\nContact Name: Paul Janus\nYour urgent feed back is needed within 48hours to help our\nverification team authenticate and validate your payment for immediate\nrelease to you without any breach of the law.\nYou are advised to reconfirm the below information for proper\nverification and validation of your payment claims document to\nfacilitate the immediate release of your funds.\nYour Full Names:\nCurrent Address:\nDirect Phone Number:\nOccupation:\nDate of Birth:\nI'D Card\n:\nAnticipating your urgent response today.\nYours faithfully.\nFBI Agent, Paul Janus .\nFEDERAL BUREAU OF INVESTIGATION\nUNITED STATES DEPARTMENT OF JUSTICE\nWASHINGTON, D.C. 20535"
+    },
+    {
+        "from": "baiter_2071",
+        "to": "scammer_2071",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attn: Beneficiary.",
+        "body": "Hello FBI Agent Paul Janus,\n\nThank you for reaching out to me. I appreciate your concern and the information you have provided. I haven't been scammed before, but it's good to know that there are monitoring systems in place to protect people from fraudulent activities.\n\nCould you please provide more details about the specific fraudulent activities that were detected? I want to make sure I understand the situation clearly so that I can cooperate fully with your instructions.\n\nAlso, could you explain how sharing emails received from potential scammers will help validate my payment claims? I want to ensure that I follow the correct procedures and provide any necessary information to facilitate the release of my funds.\n\nRegarding the reconfirmation of my ID card, could you clarify why it is needed and how it will be used in the process?\n\nThank you again for your assistance. I look forward to your response.\n\nBest wishes,\nJennifer"
+    },
+    {
+        "from": "scammer_2071",
+        "to": "baiter_2071",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Attn: Beneficiary.",
+        "body": "Please Reconfirm The Following Information For Your Delivery.\r\n\r\n(1) Your name........... (2) Your phone number............. (3) Your\r\ncomplete address............. (4) Nearest airport to your\r\naddress............. (5) Your Occupation................"
+    },
+    {
+        "from": "scammer_2071",
+        "to": "baiter_2071",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0001388888888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Attn: Beneficiary.",
+        "body": "Please Reconfirm The Following Information For Your Delivery.\r\n\r\n(1) Your name........... (2) Your phone number............. (3) Your\r\ncomplete address............. (4) Nearest airport to your\r\naddress............. (5) Your Occupation................"
+    },
+    {
+        "from": "baiter_2071",
+        "to": "scammer_2071",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0018402777777777777,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Attn: Beneficiary.",
+        "body": "Hello there! Thank you for reaching out. I'd be happy to help you with the information you need. Could you please provide me with more details about what exactly you are looking for?\n\nBest wishes,\nJennifer"
+    },
+    {
+        "from": "baiter_2071",
+        "to": "scammer_2071",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.544664351851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Attn: Beneficiary.",
+        "body": "Hello there! Thank you for reaching out. I'd be happy to help you with the information you need. Could you please provide me with more details about what exactly you are looking for?\n\nBest wishes,\nJennifer"
+    }
+]

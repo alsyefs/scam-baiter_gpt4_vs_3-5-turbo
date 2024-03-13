@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1158",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Urgent Attention Sir,",
+        "body": "  Urgent Attention Sir,\nPAYMENT NOTIFICATION:\n**** usd$883,000=Only****\nRE: GOOD NEWS AS YOU WILL RECEIVE YOUR FUNDS IN THIS LAST QUARTER OF THE FISCAL YEAR 2023.\nI write to inform you that your name is among the beneficiaries that  will receive their funds of usd$883,000=Only,(eight hundred and eight three thousand us doll Dollars Only).has been approved being for the draws the United Nation Secretary General {Antnio Guterres} organized on his visit to your country to help individuals/Internet Scam victims) in this last quarter of the fiscal  year 2023.\nIn view of this good news, I am pleased to inform you that your total Payment Compensation Entitlement of usd$883,000=Only has been cleared and approved to be released to you finally through our Offshore Payment Centers in two different countries which will be disclosed to you as soon as you respond to my proposal.\nI need your urgent verification in this (\ninfoo8214@aol.com\n)\nYour Full Names.\nYour Full Address.\nYour Mobile Tel. No./Whats app Tel. No.\nYour Occupation.\nKindly contact me on my private.\nemail address:(\ninfoo8214@aol.com\n)\nAwait your urgent reply.\nMr.James Gomez   "
+    },
+    {
+        "from": "baiter_1158",
+        "to": "scammer_1158",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Urgent Attention Sir,",
+        "body": "Hello Gomez,\n\nWow, this is such exciting news! I can't believe my name was chosen for this. It's like a dream come true. Can you tell me more about how my name was selected? And what exactly does the United Nations Secretary General António Guterres have to do with it?\n\nI'm also curious about these Offshore Payment Centers you mentioned. How do they work? Are they like banks or something different?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJulie"
+    }
+]

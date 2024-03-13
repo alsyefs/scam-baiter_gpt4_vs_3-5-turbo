@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_37",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello, Business Cooperation,",
+        "body": "Hello, Business Cooperation,\nThank you for giving me the opportunity to discuss this project with you.\nWe are looking for a reliable person/company where we can invest some funds and I as the procurement Manager is given the mandate to source for a competent individual or company that we can partner with.\nI got your info during my search for a reliable and neutral company/individual we can partner with in the area of investment.\nI need your assistance to manage an investment fund in a profitable business in your region with good Annual Return on Investment(AROI).I know that this might come to you as a surprise because we have not known each other nor met but please accept it with an open and positive mind.\nDetails of the investment and funding will be sent when I receive your response which will facilitate a face to face meeting with the investors.\nReply to this mail at(\nadamsrobinson2019@hotmail.com\n)\nYou can reach me on (WhatsApp 24 hours) +44(7508)450931 for more briefing.\nThank you.\nYours Sincerely\nMr. Adams Robinson"
+    },
+    {
+        "from": "baiter_37",
+        "to": "scammer_37",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello, Business Cooperation,",
+        "body": "Hello Mr. Adams Robinson,\n\nThank you for reaching out and considering me for this opportunity. It's quite a surprise, but I'm open to learning more about it.\n\nCould you please provide more details about the investment? What kind of business are we talking about here? And what would be my role in managing the investment fund?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nWesley"
+    }
+]

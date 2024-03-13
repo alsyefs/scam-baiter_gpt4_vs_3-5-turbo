@@ -1,0 +1,72 @@
+[
+    {
+        "from": "scammer_964",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello",
+        "body": "  Hello\nThank you for your response. The manual preview is almost complete and you need to send us a copy of your ID card or driver's license or passport to continue.\nOnce your quick manual verification process is complete, Google Advocate will provide you with a referral agreement document and you will be sent an official winner's certificate prior to successful submission to claim your winnings.\nCongratulations again from the Google team.\nMany thanks\nSincerely\nMr Pulkit Trivedi,\nGoogle Web Director   "
+    },
+    {
+        "from": "baiter_964",
+        "to": "scammer_964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello",
+        "body": "Hello Mr. Pulkit Trivedi,\n\nThank you for your quick response! I'm really excited about this process and can't wait to see what's next. However, I'm a bit confused about why you need a copy of my ID card or driver's license or passport. Could you please explain more about this? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRichard"
+    },
+    {
+        "from": "scammer_964",
+        "to": "baiter_964",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re:   Hello",
+        "body": "Hello \r\n\r\n\r\n\r\nI want you to know and understand that a copy of your ID card is required for proper documentation and verification and as soon as that is done then we will proceed to you getting the winnings.\r\n\r\nSo therefore, please get back to us with a copy of your ID card or passport so that we can proceed with the transaction.\nREGARDS\r\n\r\n\r\n\r\nSincerely\r\n\r\nMr Pulkit Trivedi,\r\n\r\nGoogle Web Director"
+    },
+    {
+        "from": "baiter_964",
+        "to": "scammer_964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0007754629629629629,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re:   Hello",
+        "body": "Hello Mr. Pulkit Trivedi,\n\nThank you for your message and the information provided. It's really exciting to hear about the winnings! I'm just curious, could you please explain a bit more about this process? How does providing my ID card or passport help in getting the winnings?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nRichard"
+    },
+    {
+        "from": "scammer_964",
+        "to": "baiter_964",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0067708333333333336,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re:   Hello",
+        "body": "Hello\r\n\r\n\r\n\r\n I just explained to you,you need to know and understand that a copy of your ID card is required for proper documentation and verification and as soon as that is done then we will proceed to you getting the winnings.\r\n\r\nSo therefore, please get back to us with a copy of your ID card or passport so that we can proceed with the transaction.\nREGARDS\r\n\r\n\r\n\r\nSincerely\r\n\r\nMr Pulkit Trivedi,\r\n\r\nGoogle Web Director"
+    },
+    {
+        "from": "baiter_964",
+        "to": "scammer_964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.007025462962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re:   Hello",
+        "body": "Hello Mr. Pulkit Trivedi,\n\nThank you for your prompt response. I'm really excited about the winnings! However, I'm a bit confused about why my ID card or passport is needed. Could you please explain to me how this process works and why these documents are necessary? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRichard"
+    },
+    {
+        "from": "baiter_964",
+        "to": "scammer_964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.007245370370370371,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re:   Hello",
+        "body": "Hello Mr. Pulkit Trivedi,\n\nThank you for your prompt response. I'm really excited about this winning! However, I'm a bit confused about the process. Could you please explain to me why my ID card is needed? And how does it relate to me getting the winnings? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRichard"
+    }
+]

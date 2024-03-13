@@ -1,0 +1,52 @@
+[
+    {
+        "from": "scammer_93",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Esteem, ",
+        "body": "Dear Esteem, \nRe: Investment Project Financing\nI have decided to contact you through this medium after reviewing your honorable and reputable profile. It is my belief that with your professional position in your sector, that you will be in position to present my Investors with solid investment project opportunities in your Sector and Country/ Region.\nI was informed by a reputable consultant friend of mine that you and your partners may be interested in Private Investment financing to expand your business/ actualize your projects and to be explicit, I am a PRIVATE FAMILY WEALTH AND ASSET MANAGER and presently I am representing a private group of prominent high net worth first time investors with access to substantial investment capital who are ready, willing and able to provide you, your partners and clients with financial support in the form of Private Investment Loans and Joint Venture Partnership Project Finance to establish your new projects and as well assist you expand and  improve your existing investment capacity and productivity.\nIf you have solid business project plans of making good profit in your sector and any other viable business sector in your Country/ Region, please write to me for possible business co-operation. Moreso, we are ready to facilitate and fund any business plan or project that is capable of generating good annual return on investment (AROI) on our investment within days.\nI am confident that you will give your consideration, AT THE SAME TIME WE WILL PAY YOU A 2% BROKER’S COMMISSION IF YOU INTRODUCE A CREDIBLE PROJECT OWNER WHO IS INTERESTED AND IN NEED OF CREDIBLE FINANCING FOR HIS OR HER PROJECT. \nKINDLY INDICATE IF YOU ARE INTERESTED IN A LOAN OR JOINT VENTURE FINANCING AND I ASSURE YOU THAT YOU WILL RECEIVE THE INVESTMENT FUNDS WITH 5 WORKING DAYS.\nI look forward to discussing this opportunity further with you. \nSincerely,\nMR. ISAAC THOMPSON JR. & PARTNERS"
+    },
+    {
+        "from": "baiter_93",
+        "to": "scammer_93",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Esteem, ",
+        "body": "Dear Mr. Isaac Thompson Jr. Partners,\n\nThank you for reaching out to me with this opportunity. I appreciate your interest in my sector and country region. I would be interested in learning more about the private investment financing options you mentioned.\n\nCould you please provide more details about the types of projects or businesses that your investors are specifically looking to support? Additionally, what is the typical range of investment capital that your investors are willing to provide?\n\nI am also curious about the terms and conditions of the private investment loans and joint venture project finance. Could you elaborate on the repayment structure and any potential collateral requirements?\n\nLastly, I would like to know more about the process of receiving the investment funds within working days. How does it work, and what documentation or information would be required from my end?\n\nThank you again for considering me as a potential partner for your investors. I look forward to hearing back from you with further information.\n\nBest wishes,\nJoseph"
+    },
+    {
+        "from": "scammer_93",
+        "to": "baiter_93",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Esteem,",
+        "body": "Dear Joseph\r\n\r\n\r\nThanks for your message. Please note that we are a Private Investment Loans\r\nand Joint Venture Partnership Project Finance who helps to alert\r\ncompanies/individuals of the Global diversification quest which they have\r\nthe opportunity to take advantage of, if they have a business investment\r\nproject that lacks funding.\r\n\r\nMy client is presently seeking international portfolio diversification as a\r\nbusiness expansion strategy. They are currently interested in debt finance\r\nonly [pure loan] without any sector or regional restrictions and ready to\r\nfacilitate and fund any business that is capable of generating at least 3%\r\nannual return on investment.\r\n\r\nBelow are brief on the Investment Portfolio:\r\n\r\n• Minimum and Maximum Funding:$1 Million to $5 Billion USD\r\n• Placement Opens to: Entrepreneurs, Corporations and Investors\r\n• Funding Type: Loan Investment\r\n• Term: 2-15 years – Repayment/ Renewable tenure\r\n\r\nBased on the above information, we will require your Project Plan/Executive\r\nSummary for review .We will review it, Then I will speak with the\r\ninvestor/lender after which I will give you direct access to him to start\r\nwith the funding modalities.\r\n\r\nThis is for your information.\r\n\r\nSincerely,"
+    },
+    {
+        "from": "baiter_93",
+        "to": "scammer_93",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.714189814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Esteem,",
+        "body": "Dear Joseph,\n\nThank you for reaching out to me. I appreciate you sharing information about Private Investment Loans and Joint Venture Project Finance. It sounds like your client is looking for business expansion opportunities and is interested in debt finance.\n\nCould you please provide more details about the types of businesses or projects that your client is interested in funding? Are there any specific industries or regions they prefer? Additionally, what are the minimum and maximum funding amounts that they are willing to provide?\n\nI would also like to know more about the terms of the loan investment. What is the typical repayment period and is it renewable? \n\nLastly, could you explain the process for submitting a Project Plan Executive Summary for review? How long does it usually take for a decision to be made?\n\nThank you again for reaching out. I look forward to hearing back from you with more information.\n\nBest wishes,\nJoseph"
+    },
+    {
+        "from": "baiter_93",
+        "to": "scammer_93",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.94375,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Dear Esteem,",
+        "body": "Dear Joseph,\n\nThank you for reaching out to me. I appreciate you sharing information about Private Investment Loans and Joint Venture Project Finance. It sounds like your client is looking for business expansion opportunities and is interested in debt finance.\n\nCould you please provide more details about the types of businesses or projects that your client is interested in funding? What are the specific criteria they have in mind when considering potential investments?\n\nAdditionally, I would like to know more about the terms and conditions of the loan investment. Could you please explain the repayment structure and any other relevant details?\n\nOnce I have a better understanding of these aspects, I can prepare a Project Plan Executive Summary for your review. I look forward to hearing back from you soon.\n\nBest wishes,\nJoseph"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1988",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  From: Director Office of Int",
+        "body": "  From: Director Office of International Affairs\nInternational Affairs, FDIC 1601 Bryan St,\nDallas, TX 75201, USA,\nAttention Fund Beneficiary.\nFederal Deposit Insurance Corporation (FDIC)\nconfirms that funds have arrived USA on transit for credit into your\nbank account. We have verified the authenticity of such transfer. In\nline with the provisions of the Montreal Convention and its additional\nprotocols, you are advised to pay the cost of issuing a Receivership\nAuthorization from this office.\nAs demanded by the rules of the Federal Reserve\nand the signatory countries of the Financial Action Task Force. This\nwill facilitate the immediate credit of your account with the fund in\nquestion without delay $8.3 million dollars from United Nations. You\nmust be aware that the Feds  are trying to clear out the mess in the\nbanking and financial sector; hence the need for this authorization.\nYou will pay a fee for issuing the Receivership Authorization. The\nReceivership authorization will be issued to your bank immediately you\npay this cost and your account will be credited with immediate effect.\nBest  Regards .\nFred S. Carns.\nDirector Office of International Affairs   "
+    },
+    {
+        "from": "baiter_1988",
+        "to": "scammer_1988",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   From: Director Office of Int",
+        "body": "Hello Fred S. Carns,\n\nThank you for reaching out to me regarding the funds that have arrived in the USA for credit into my bank account. I appreciate your confirmation of the transfer and your assistance in this matter.\n\nI understand that there are certain provisions and protocols that need to be followed, as well as costs associated with issuing the necessary documents. Could you please provide me with more details about the specific fees involved? I would like to ensure that I have a clear understanding of the process before proceeding.\n\nAdditionally, could you please clarify what you mean by \"the mess in the banking and financial sector\" and how paying this fee will help in clearing it out? I want to make sure I have all the information before making any decisions.\n\nThank you again for your assistance.\n\nBest wishes,\nBrittany"
+    }
+]

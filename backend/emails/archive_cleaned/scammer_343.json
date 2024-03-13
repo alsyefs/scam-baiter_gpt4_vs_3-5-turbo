@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_343",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "From: Ms. Fatoumata Ndiaye.",
+        "body": "From: Ms. Fatoumata Ndiaye.\nUNITED NATIONS OFFICE OF INTERNATIONAL OVERSIGHT SERVICES\nInternal Audit,Monitoring,Consulting And Investigations Division.\n \nGreetings,\n \nIt is my distinct pleasure to write you again and as you are well aware many foreigners have invested thousands of United States Dollars into African Countries transactions in Hopeless Dreams to have none of them become a reality.\n \nRight now, as directed by our secretary general Antonio Guterres, \nWe have agreed with the African Union that Five Hundred Thousand United States Dollars Only would be paid to you through the World Remit or Remitly Money Transfer via special arrangement as first installment.\n \nThis is to enable you have enough funds to pay for the Tax Clearance and bank charges before you will receive the balance of your funds. Please take note that you will pay for Notarization & exchange control fee and this is the only financial obligation that you will undertake to receive the Five Hundred Thousand United States Dollars Only through the World Remit Money Transfer.\n \nLastly,i will like you to reconfirm your information to me such as your full name, address and telephone number\n so that I will proceed with your World Remit Money Transfer within the next 48hrs and the transaction information will be released to you.\n \nI await your response for further proceedings.\n \nSincerely yours,\n \nMs. Fatoumata Ndiaye\nUnder-Secretary-General\nUnited Nations."
+    },
+    {
+        "from": "baiter_343",
+        "to": "scammer_343",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: From: Ms. Fatoumata Ndiaye.",
+        "body": "Hello Ms. Fatoumata Ndiaye,\n\nThank you for your message and the information provided. It's quite interesting to hear about this arrangement between the United Nations and the African Union. I must say, it's a bit surprising but I'm intrigued.\n\nI'm curious though, could you please explain more about this World Remit Money Transfer? How does it work exactly? And what is this exchange control fee you mentioned?\n\nAlso, I'd like to know more about these Tax Clearance and bank charges that I would need to pay. Could you provide some details on those as well?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRobert"
+    }
+]

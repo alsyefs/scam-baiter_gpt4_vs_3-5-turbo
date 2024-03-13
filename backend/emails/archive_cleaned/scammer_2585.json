@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2585",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "We are offering Loan/Investmen",
+        "body": "We are offering Loan/Investment funds to Companies and Individuals\nwith profitable projects in any area of specialization at 3% interest\nrate APR for a duration of 2 to 20 years with a year  grace period.\nOur Loan offer is between USD$10M to USD$10B loan for business owners.\nOur lenders or investors are well vetted according to European Union\nfinancial institutions\n. Let us know if you are interested.\nYou can contact our loan provider immediately with the following email\naddress: \nvb6432177@gmail.com\nFacilitator\nvb6432177@gmail.com\nYours Faithfully,\nVicente"
+    },
+    {
+        "from": "baiter_2585",
+        "to": "scammer_2585",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: We are offering Loan/Investmen",
+        "body": "Hello Vicente,\n\nThank you for reaching out with this intriguing offer. It's always exciting to hear about new financial opportunities. I'm curious, could you please elaborate more on the nature of these projects? What kind of businesses or sectors are your lenders or investors particularly interested in?\n\nAlso, could you provide some more details about the terms and conditions associated with these loans? For instance, what would be the repayment schedule like? And what happens after the grace period ends?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAntonio"
+    }
+]

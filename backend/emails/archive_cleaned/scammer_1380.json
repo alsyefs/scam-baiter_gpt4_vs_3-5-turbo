@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1380",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello Dear,",
+        "body": "Hello Dear,\n \nHope this email reaches you well.\n \nI would like to get in touch with you and see what we can do together in the future, We are a group of investors and direct providers of banking instruments looking to expand our portfolio globally. If you have viable projects that need funding, or if you have business clients that need funding for new projects or to expand existing businesses, please indicate your interest in your response to this message. This funding comes in form of Loans, Equity, Hedge Funds etc. Whatever your financial needs are, just let me know.\n \nWe are looking for projects in a variety of industries such as real estate, energy, oil and gas, pharmaceuticals, mining, biotech, emerging markets, aerospace, high tech, blockchain, construction, communications, software, AI, and services, etc. Any project/business that has the potential for excellent returns. After a detailed feasibility study, we allocate funds to projects that we believe have excellent profit margins. \nMy investors will invest in anything that has potential.\n \nI look forward to your response If this interests you.\n \nYours sincerely,\n \nJuscelino Rodrigues Tavares\nEmail: \njuscelinorodriguestavares@gmail.com"
+    },
+    {
+        "from": "baiter_1380",
+        "to": "scammer_1380",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello Dear,",
+        "body": "Hello Juscelino Rodrigues Tavares,\nThank you for reaching out to me. I appreciate the opportunity to potentially collaborate with your group of investors. Can you provide more information on the types of funding options available, such as Loans, Equity, Hedge Funds? Additionally, could you share some examples of successful projects that your investors have funded in the past? I am interested in learning more about how we can work together on potential projects in various industries.\nLooking forward to your response.\n\nBest wishes,\nChristopher"
+    }
+]

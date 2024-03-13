@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_659",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "From DR PAUL OWEN",
+        "body": "From DR PAUL OWEN\nAfrican Development Bank\nRepublic Du Benin Cotonou\nBenin Republic.\nDea r Good Friend,\nHow are you doing? hope fine.\nI am Auditor General in African Development Bank Republic Du Benin On\nmy routine inspection I discovered a dormant domiciliary account with\nthe deposit of ($9.6Million USD) by late Mr Khalead Guei without any\nheir. I write to seek your indulgence and assistance in moving this\nfunds to your country through legal means.\nSince I have been unsuccessful in locating the relatives, \nI now seek\nyour consent to present you as the next of kin Of the deceased since\nyou a foreigner\n, so that the Proceeds of this account valued at\n$9.6million Dollars can be paid to you subsequently to be shared among\nus If you agree, we share it 50/50.\nI guarantee that this will be executed under a legitimate arrangement\nThat will protect you from any breach of the law. I wait for your\nurgent response. through  this  email\n \ndrpaulowen@africamail.com\n Please provide your mobile number for easy\ncommunication"
+    },
+    {
+        "from": "baiter_659",
+        "to": "scammer_659",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: From DR PAUL OWEN",
+        "body": "Hello DR PAUL OWEN,\n\nI hope you are doing well. Thank you for reaching out to me. I must say, your message has caught my attention. I'm curious to know more about this dormant account and how I can assist you in moving the funds legally.\n\nCould you please provide me with some additional details? How did you come across this dormant account? What is the process involved in transferring the funds to my country? And what would be my role in all of this?\n\nI appreciate your prompt response and look forward to hearing from you soon.\n\nBest wishes,\nLauren"
+    }
+]

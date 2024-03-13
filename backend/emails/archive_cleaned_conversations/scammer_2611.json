@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_2611",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Beneficiary,",
+        "body": "Dear Beneficiary,\nWestern Union Money Transfer in conjunction with the United Nation\nduring their recently concluded meeting with the International\nMonetary Fund (IMF) Payment Reconciliation Board Committee agreed to\npay you a total amount of ($350.000.00) Three Hundred and Fifty\nThousand US Dollars Only compensation fund. The awarded compensation\namount has been signed under giving credence ensuring your payment\ntransaction is devoid of any form of illegality to be paid to you for\nthe money you lost to scammers through internet frauds.\nYour name appeared on our payment schedule list 2023 of beneficiaries\nthat will receive their funds in this 2nd Quarter Payment of the year\n2023. \nThe sum of $5,000.00 or US $10,000 daily sending or its\nequivalent in your local currency will be transferred to you via\nWestern Union every day until all the ($350.000.00) Three Hundred and\nFifty Thousand US Dollars Only is completely sent across to you.\nMeanwhile, we have registered your First Payment Transfer Sum $5.000\nUSD online through Western Union Money Transfer.For you to confirm\nyour First Payment Transfer please follow the instructions. Open this\nwebsite: www. westernunion.com, then click \"Track Transfer\", then enter\nthis Tracking Number (MTCN) 666-089-0506 and click Track Transfer\" to\nconfirm you will see the status of the transaction online.\nBelow are the details you need to present to the Western Union\nofficials. Also go with your ID Card.\nMTCN: 666-089-0506\nSender Names: Prince Maxwell Okoronkwo\nSender City: Ouagadougou\nSender Country: Burkina Faso\nAmount sent: $5.000 Dollars\nMoney Transfer | Global Money Transfer | Western Union Go to any\nWestern Union Office in your area and pick it up. Make sure you go\nwith an Identification of yourself like a Driving License or National\nID or International Passport.\nHowever, Contact the Head of Department Foreign Payment File Manager\nWestern Union Office by below email Id:\nContact Person\nMr. Paul Johnson\nWesternUniondepartment4@gmx.com\nSincerely,\nMr. Nadus Tima\nSecretary Protocol"
+    },
+    {
+        "from": "baiter_2611",
+        "to": "scammer_2611",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "Hello Mr. Nadus Tima,\n\nThank you for your email and the information provided. It's quite surprising to hear about this sum of money, I must say! \n\nI'm curious, how did my name appear on your payment schedule list? And could you please explain a bit more about the recently concluded meeting with the Monetary Fund IMF Payment Board Committee? What was discussed during this meeting?\n\nAlso, I would like to know more about Mr. Paul Johnson, the Head of Department Foreign Payment File Manager. What is his role in this process?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRoy"
+    },
+    {
+        "from": "scammer_2611",
+        "to": "baiter_2611",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Re: Dear Beneficiary,",
+        "body": "Your information is needed before anything"
+    },
+    {
+        "from": "baiter_2611",
+        "to": "scammer_2611",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0005671296296296297,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Re: Dear Beneficiary,",
+        "body": "Hello there! I'm glad you reached out. Could you please clarify what exactly is needed from me? I'm here to help and share information as much as I can.\n\nBest wishes,\nRoy"
+    },
+    {
+        "from": "scammer_2611",
+        "to": "baiter_2611",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6002777777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Re: Re: Dear Beneficiary,",
+        "body": "Please you should go back and read my first massage well"
+    },
+    {
+        "from": "baiter_2611",
+        "to": "scammer_2611",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.608738425925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Re: Re: Dear Beneficiary,",
+        "body": "Hello there! I apologize if I misunderstood your previous message. Could you please clarify what you meant? I'm all ears and ready to understand better.\n\nBest wishes,\nRoy"
+    }
+]

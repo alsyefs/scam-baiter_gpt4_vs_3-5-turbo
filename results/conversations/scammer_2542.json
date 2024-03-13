@@ -1,0 +1,92 @@
+[
+    {
+        "from": "scammer_2542",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Beneficiary,",
+        "body": "Dear Beneficiary,\nHow are you today?\nPlease bear with us for making this initial contact through email, it is due to the urgency of this notification, since we are unable to reach your telephone line and to officially bring to your notice about your payment file in which you are listed as a beneficiary to the United Nations Compensation Program which will officially be carried out by the Fast service department of the Central Bank of Nigeria. This Compensation Program is an organized Season program for victims of internet scams, war, earthquakes, hurricane, fire disaster, elderly ones, families of victims of COVID-19 and fund payments delayed.\nA total sum of $2,000,000.00 Million United States Dollars only has been approved to you for compensation payment which will be released to you via ATM CARD to avoid paying excess charges through bank transfer. You are strongly advised not to go through anybody or office for your fund payment but through this organization/commission that has been given the authority and legal power for your fund payment through an ATM CARD.\nBe informed that as soon as the payment verification is completed, a tracking number will be sent to you to enable you to know the exact time your ATM CARD Parcel including the vital documents backing up your payment will be delivered to your contact address.\nOn this note\n, you are to re-confirm the following information\n to the FAST SERVICE section of the Central Bank of Nigeria CBN with this email address(\ninfo-cbn@fastservice.com\n) to enable them process your payment.\n1. Your Full Name.....\n2. Your Address where you would like to receive your ATM CARD:..........\n3. Occupation:...........\n4. Contact Telephone Number............\n5. Age..............\n6. Nationality/Country...........\nCongratulations\nMr. MARK ROBINSON\nFor United Nations Compensation Payment Unit."
+    },
+    {
+        "from": "baiter_2542",
+        "to": "scammer_2542",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "Dear Mr. Mark Robinson,\n\nThank you for reaching out to me regarding my payment file. I appreciate the urgency and importance of this matter. However, I have a few questions before proceeding further.\n\nCould you please provide more details about the United Nations Program that you mentioned? What is its purpose and how does it assist victims of internet scams, war, hurricane, fire disaster, and delayed fund payments?\n\nI also want to understand why the payment will be made through an ATM card instead of a bank transfer. Is there a specific reason for this method?\n\nLastly, could you clarify what you mean by \"tracking number\" and how it will help me know when my ATM card parcel will be delivered? Will there be any additional charges or fees associated with the delivery?\n\nI look forward to your response.\n\nBest wishes,\nBobby"
+    },
+    {
+        "from": "scammer_2542",
+        "to": "baiter_2542",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "Dear Bobby\r\n\r\nYes this United Nations scam victims program was initiated five Months ago,\r\nand since then over 700,000 victims of different categories have benefited\r\nfrom it. Now if you are a victim, the commission will process your own\r\npayment through the CBN fast service department, but if this email met you\r\nby accident please ignore. The documents regarding this claim will be sent\r\nto you through the CBN office, and also an ATM Card is the only method of\r\npayment agreed by the bank and the United nations. Yes there is payment to\r\nbe made, and that is the Delivery of the Card to your doorstep, and that by\r\nthe courier company only not the bank. So if you are willing to make this\r\nclaim, please contact the fast Service department of the CBN on this email,\r\nthey will take over from there. Attached is my official ID, you can also\r\ncontact me on phone +2349128062745.\nRegards\r\nMark"
+    },
+    {
+        "from": "baiter_2542",
+        "to": "scammer_2542",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.1465625,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "Dear Mark,\n\nThank you for reaching out to me and providing this information about the United Nations scam victims program. It's interesting to hear that many victims have already benefited from it. Can you please tell me more about how this program works? How does the commission process the payment through the CBN fast service?\n\nAlso, you mentioned that the documents regarding this claim will be sent to me through the CBN office. Could you clarify what kind of documents these are and why they are necessary for the claim?\n\nRegarding the ATM card as a method of payment, could you explain why this is the only option agreed upon by the bank and the United Nations? Is there a specific reason for not using other payment methods like bank transfers or checks?\n\nLastly, I appreciate your offer to contact you on phone. However, before doing so, I would like to gather more information through email first. I hope you understand.\n\nThank you again for sharing this information with me.\n\nBest wishes,\nBobby"
+    },
+    {
+        "from": "scammer_2542",
+        "to": "baiter_2542",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.9339467592592592,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "Hello Bobby\r\n\r\nI have told you earlier what you need to do. Contact the bank with the\r\nemail I gave to you. Be informed that I called the CBN in respect of your\r\nown self, i wanted them to confirm to me that they have you in their list,\r\nand they confirmed you are there but haven't heard from you.  The documents\r\nyou ask of are just two different approval documents, one from the court\r\nand the other from the United Nations. I do not have to start narrating to\r\nyou why the Bank has to pay this entitlement through ATM Card, it is\r\nstrictly the decision of the commission to pay through ATM Master Card, and\r\ni must tell you that None among the beneficiaries have complained about\r\nit.  Again note that this program will end on Friday 23rd February. The\r\nUnited Nation has already sent a notification to the Bank to return every\r\nunclaimed money to the commission on the 23rd of February 2024.\r\n\r\nMark"
+    },
+    {
+        "from": "baiter_2542",
+        "to": "scammer_2542",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.000659722222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "Hello Bobby,\n\nThank you for reaching out to me again. I appreciate your efforts in helping me with this matter. I understand that I need to contact the bank using the email you provided. \n\nI'm glad to hear that you called the CBN (Central Bank of Nigeria) and confirmed my presence on their list. It's just a bit surprising that they haven't reached out to me directly yet.\n\nCould you please explain more about these two approval documents? What exactly do they signify and why are they necessary for this process?\n\nAlso, could you clarify why the commission has decided to pay through an ATM Master Card? Is there a specific reason behind this method?\n\nLastly, you mentioned that the program will end on Friday, February. Could you provide more details about what happens after that date?\n\nThank you once again for your assistance.\n\nBest wishes,\nBobby"
+    },
+    {
+        "from": "scammer_2542",
+        "to": "baiter_2542",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.073402777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "Do you think I am here for jokes? My duty is to disseminate this\r\ninformation to the Beneficiaries, and I have done that. Thank you"
+    },
+    {
+        "from": "baiter_2542",
+        "to": "scammer_2542",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.0845023148148147,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "Hello there! I hope you're having a great day. I'm sorry if my previous message came across as a joke, that wasn't my intention. I'm actually quite interested in learning new things and sharing information. Is there something specific you'd like to talk about or share with me?\n\nBest wishes,\nBobby"
+    },
+    {
+        "from": "baiter_2542",
+        "to": "scammer_2542",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.189189814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Dear Beneficiary,",
+        "body": "Dear Mark,\n\nThank you for reaching out to me and providing this information about the United Nations scam victims program. It's interesting to hear that many victims have already benefited from it. Can you please tell me more about how this program works? How does the commission process the payment through the CBN fast service?\n\nAlso, you mentioned that the documents regarding this claim will be sent to me through the CBN office. Could you clarify what kind of documents these are and why they are necessary for the claim?\n\nRegarding the ATM card as a method of payment, could you explain why this is the only option agreed upon by the bank and the United Nations? Is there a specific reason for not using other payment methods like bank transfers or checks?\n\nLastly, I appreciate your offer to contact you on phone. However, before doing so, I would like to gather more information through email first. I hope you understand.\n\nThank you again for reaching out and providing these details.\n\nBest wishes,\nBobby"
+    }
+]

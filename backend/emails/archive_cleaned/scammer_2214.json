@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2214",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Address Street:N0,5 Ådalen C",
+        "body": "  Address Street:N0,5 Ådalen City: Frederiksberg C\nState/province/area:Region Sjaelland\nZip code 1900 Country Denmark.\nGood Day,\nHow are you today?\nWith Due Respect,   \nWe are into project financing, if you have any good projects that need funding Kindly contact us for financing your investment. We also give loans to both Corporate and private entities at a low interest rate of  3% ROI Per Annum. We also pay 2% commission to brokers, who introduce project owners for finance or other opportunities.\nOur investment funding can provide direct loans of more than US$10 Billion with flexible repayments structure that's tailored to resuscitate your business.\nWe provide investment loans to many sectors and geographies, these include; energy, agriculture,oil,real estate, pharmaceutical , tourism, start-ups, mining, manufacturing sectors  and more.I would be delighted to discuss further with you as we are open to offer direct lending to any interested *borrower.\nOur website and contact details will be forwarded to you as soon as we hear from you.\nYour sincere response will be highly appreciated.   \nRegards.\nMr. Richard Norland.   "
+    },
+    {
+        "from": "baiter_2214",
+        "to": "scammer_2214",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Address Street:N0,5 Ådalen C",
+        "body": "Hello Mr. Richard Norland,\n\nI hope this message finds you well. I'm intrigued by your offer of project financing and investment loans. It sounds like a great opportunity for many sectors.\n\nCould you please provide more details about the flexible repayment structure? And what are the criteria for a project to be considered good for funding?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nNancy"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_2605",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   I will be waiting to read b",
+        "body": "   I will be waiting to read back from you with your info.     "
+    },
+    {
+        "from": "baiter_2605",
+        "to": "scammer_2605",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    I will be waiting to read b",
+        "body": "Hello there! Thank you for reaching out. I'm always interested in learning new things and sharing information. What kind of info are you looking to share?\n\nBest wishes,\nRosemary"
+    },
+    {
+        "from": "scammer_2605",
+        "to": "baiter_2605",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: I will be waiting to read b",
+        "body": "It's great to hear back from you."
+    },
+    {
+        "from": "baiter_2605",
+        "to": "scammer_2605",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.01943287037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: I will be waiting to read b",
+        "body": "Hello there! I hope you're doing well. How can I assist you today?\n\nBest wishes,\nRosemary"
+    },
+    {
+        "from": "scammer_2605",
+        "to": "baiter_2605",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.048287037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: I will be waiting to read b",
+        "body": "No longer interested."
+    },
+    {
+        "from": "baiter_2605",
+        "to": "scammer_2605",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.061168981481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: I will be waiting to read b",
+        "body": "Hello! How can I help you today?\n\nBest wishes,\nRosemary"
+    }
+]

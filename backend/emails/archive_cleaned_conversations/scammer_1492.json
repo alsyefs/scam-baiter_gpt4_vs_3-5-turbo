@@ -1,0 +1,122 @@
+[
+    {
+        "from": "scammer_1492",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Hello,",
+        "body": "   Hello,\nHow are you doing? I am using this opportunity to inform you that the business that we both are working on before has been finally concluded with the assistance of another partner from Iceland who financed the transaction to a logical conclusion.\nContact Mr. Lorenzo Email: (\nlorenzobengat@aliyun.com\n) and ask him for the for the draft (3,750.000 USD)I left for you.\nMeamwhile, you should send him your Name and telephone number/your mailing address where you want him to send the bank Draft in appreciation for your help.\nThanks for your past effort.\nRegards,\nMrs. Precious Mph   "
+    },
+    {
+        "from": "baiter_1492",
+        "to": "scammer_1492",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    Hello,",
+        "body": "Hello Mrs. Precious Mph,\n\nThank you for reaching out to me. I hope you are doing well too. I'm glad to hear that the business we were working on has been concluded successfully with the help of a partner from Iceland.\n\nCould you please provide me with more details about Mr. Lorenzo? What is his full name and email address? I would like to contact him regarding the draft USD that is left for me.\n\nAlso, could you clarify what exactly this bank draft is for? Is it a payment or some sort of reward?\n\nI appreciate your past efforts and look forward to hearing back from you soon.\n\nBest wishes,\nElaine"
+    },
+    {
+        "from": "scammer_1492",
+        "to": "baiter_1492",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Hello,",
+        "body": "Hello,\nThis is to acknowledge the receipt of your message.\nMeanwhile, there is an envelope here with me containing your certified bank draft, and I was mandated by Mrs. Precious Mpho to mail it to you as soon as you request it.\nDo send your postal address where I will mail your draft to, your name and also phone number; And I will dispatch your draft once I get your details\nI await your urgent response\nLorenzo\n------------------------------------------------------------------"
+    },
+    {
+        "from": "baiter_1492",
+        "to": "scammer_1492",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0006481481481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Hello,",
+        "body": "Hello Lorenzo,\n\nThank you for reaching out to me. I appreciate your willingness to share information with me. However, before I provide any personal details, I would like to know more about the certified bank draft you mentioned.\n\nCould you please provide some additional information about Mrs. Precious Mpho and the purpose of this bank draft? How did she come to know about me and why is she sending it to me? It would be helpful if you could also clarify the amount of the draft and any other relevant details.\n\nI look forward to your response.\n\nBest wishes,\nElaine"
+    },
+    {
+        "from": "scammer_1492",
+        "to": "baiter_1492",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0060416666666666665,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Hello,",
+        "body": "Hello,\nI am only action based on instruction left by Ms. Precious. She told me you will write me and that when you write me that I should dispatch the draft to you once I have your details. She did not reveal to me the reason she is sending you draft.\nThe amount of the draft is 3,750,000USD, it is bank of America cashier check.\nLorenzo\n------------------------------------------------------------------"
+    },
+    {
+        "from": "baiter_1492",
+        "to": "scammer_1492",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.006782407407407407,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Hello,",
+        "body": "Hello Lorenzo,\n\nThank you for reaching out to me. I'm curious to know more about the draft that Ms. Precious mentioned. Could you please provide me with some additional details? What is the amount of the draft and why is it being sent to me? I just want to make sure I have a clear understanding before proceeding further.\n\nLooking forward to your response.\n\nBest wishes,\nElaine"
+    },
+    {
+        "from": "scammer_1492",
+        "to": "baiter_1492",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.006944444444444444,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Hello,",
+        "body": "It was issued on the 4th of December 2023 and has a life span of days\n------------------------------------------------------------------"
+    },
+    {
+        "from": "baiter_1492",
+        "to": "scammer_1492",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.007465277777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Hello,",
+        "body": "Hello! Thank you for sharing this information. I'm curious to know more about what you're referring to. Could you please provide some additional details?\n\nBest wishes,\nElaine"
+    },
+    {
+        "from": "scammer_1492",
+        "to": "baiter_1492",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.00917824074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Hello,",
+        "body": "The amount of the draft is 3,750,000USD, it is bank of America cashier check.\nIt was issued on the 4th of December. it has 90days life span\n------------------------------------------------------------------"
+    },
+    {
+        "from": "baiter_1492",
+        "to": "scammer_1492",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.009918981481481482,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Hello,",
+        "body": "Hello! Thank you for reaching out to me. I'm interested in learning more about this bank draft you mentioned. Could you please provide me with some additional details? What is the exact amount of the draft? And could you clarify what you mean by \"life span\"?\n\nBest wishes,\nElaine"
+    },
+    {
+        "from": "scammer_1492",
+        "to": "baiter_1492",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.01292824074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Hello,",
+        "body": "I have said all that I know. write Ms. Precious if there are other things you need to know she will explain\n------------------------------------------------------------------"
+    },
+    {
+        "from": "baiter_1492",
+        "to": "scammer_1492",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.013032407407407407,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Hello,",
+        "body": "Hello Ms. Precious, thank you for reaching out. I'm always interested in learning new things and gaining more information. Please go ahead and share what you have to say, and I'll be happy to listen and ask any follow-up questions if needed.\n\nBest wishes,\nElaine"
+    }
+]

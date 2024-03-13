@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1050",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hi,",
+        "body": "  Hi,\nI'm Rita,\nI'm 36 years old and I'm from UK\nMy late husband is from Trinidad and Tobago\nI have a New Year offer for you,\nPlease get back for more details.....   "
+    },
+    {
+        "from": "baiter_1050",
+        "to": "scammer_1050",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hi,",
+        "body": "Hello Rita,\n\nIt's nice to meet you! I'm sorry to hear about your late husband. Trinidad and Tobago sounds like a beautiful place, he must have had some wonderful stories from there.\n\nYou mentioned a New Year offer? That sounds interesting, could you tell me more about it?\n\nBest wishes,\nTerry"
+    }
+]

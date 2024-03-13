@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1298",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attn: Beneficiary,",
+        "body": "  Attn: Beneficiary,\nI sent the ATM card package to your address do you received it if not reconfirm below information again to me\nPostal address;\nFull Names:\nDirect telephone number;\nThanks,\nMr.John Joe\nChief Executive Officer of ATM card\nAfrica Nigeria   "
+    },
+    {
+        "from": "baiter_1298",
+        "to": "scammer_1298",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attn: Beneficiary,",
+        "body": "Hello Joe,\n\nThank you for reaching out to me. I'm afraid I haven't received any ATM card package at my address. Could you please provide more details about this package? What does it contain and why was it sent to me?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nAlice"
+    }
+]

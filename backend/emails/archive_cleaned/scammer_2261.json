@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2261",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "INTERNATIONAL POLICE FORCE FRO",
+        "body": "INTERNATIONAL POLICE FORCE FROM UNIT. (  INTERPOL  )\nRC-32657, HEATTHROW INTERNATIONAL AIRPORT COMMAND,\nLONDON UK.\nAttn:Beneficiary\nYou are welcome to Hon.Dr. Desk of  Russell Morgan(INTERPOL) International Police Force Unit Investigating, Working together towards a corruption-free world by Promoting and defending integrity, justice and the rule of law 'Mission statement of the International Anti-Corruption Academy, We Cover US, UK, ASIA AFRICA and other Countries. All interpol work as a Team. You have been Reported today from World security body\nThis is official notice to You as r report received from (FBI) Washington DC Capital of United States of America, I Know That You Have Been Waiting for the arrival of your awaiting fund.\nWe need your absolute co-operation Because right now, I investigated why you have not recessive your fund and i discovered\nthat you have not been told the truth all this while, my dear do you know that\nthe Distance between you and receiving your fund is just $110 i know\nthis will surprise you but that is the truth of the matter.\nThis $110 Dollars is just a cost for CAUTIONS AND INDEX RELEASE\nCertificate, it does not cost more than this and no one will tell you\nthis truth is that everyone wants to reap from you.\nSo, if you believe you can trust me then $110 is the Worth for you to\nGet your long overdue payment.\nThanks\nHon.Dr. Russell MOrgan\nInspector General of Police Force International Unity fraud. (  Interpol  )"
+    },
+    {
+        "from": "baiter_2261",
+        "to": "scammer_2261",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: INTERNATIONAL POLICE FORCE FRO",
+        "body": "Hello Russell,\n\nThank you for reaching out and providing this information. It's quite surprising to hear about the report from FBI Washington DC. I'm a bit confused though, could you please clarify what this awaiting fund is about? And what does the term \"CAUTIONS AND INDEX RELEASE\" mean?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nJohn"
+    }
+]

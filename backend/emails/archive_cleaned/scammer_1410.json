@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1410",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attn: ,",
+        "body": "  Attn: ,\n \nI acknowledge the receipt of your response.\n \nThis is to let you know that we have started the processing of your ATM CARD in your name. Understand the reason why the United Nations are giving you this fund is because your email address is among the people that was scammed before and the United Nations want to use this fund to compensate you.\n \nThe sum of US$5.000,000.00 compensatory settlement will be credited into the ATM Master Card and enable you to withdraw your funds through ATM Machine in your country with a maximum withdrawal of US$2.000.00 per day. Your limit can be increased to any amount upon your request.\n \nIn this regards, you are to furnish us with the requested information below for issuance and delivery of your ATM Master Card at your doorstep address without any further delay;\n \n1. Mobile Telephone:\n2. Delivery Address:\n3. Full Name:\n \nGet back to me as soon as you receive this email.\n \nYours faithfully,\nMr Kennedy Uzorka\nManaging Director/Chief Executive\nOfficer of United Bank For Africa   "
+    },
+    {
+        "from": "baiter_1410",
+        "to": "scammer_1410",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attn: ,",
+        "body": "Hello Mr. Kennedy Uzorka,\n\nThank you for reaching out to me and providing this information. I appreciate your efforts in compensating those who have been scammed before. It's good to know that the United Nations is taking steps to help people like me.\n\nI'm interested in learning more about this ATM card and how it works. Could you please explain the process of receiving and activating the card? Also, are there any fees or charges associated with it?\n\nAdditionally, I would like to know how secure this method of withdrawal is. Can you assure me that my personal and financial information will be protected throughout the process?\n\nLooking forward to your response.\n\nBest wishes,\nIsabella"
+    }
+]

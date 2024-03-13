@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_60",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "To your attention,",
+        "body": "To your attention,\nThis is to inform you that we have your consignment in our Vietnam office of trial that has been kept for a long time without claim or attempt to process further delivery to its destination.\nHowever, the said consignment is detailed with your information as the rightful beneficiary. With this we thought it necessary to reach you directly to verify the said consignment and delivery information as the new government/board of directors have issued a policy for immediate delivery of all consignments that have been kept for a long period.\nBelow is the attached information, kindly verify to avoid error in delivery.\nName: xxx\nEmail: xxx\nAddress: xxx\nWe wait urgently hearing from you to enable us to commence with the process.\nThanks,\nDr. Richard Nethe.\nManagement."
+    },
+    {
+        "from": "baiter_60",
+        "to": "scammer_60",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: To your attention,",
+        "body": "Hello Dr. Richard Nethe,\n\nThank you for reaching out to me regarding the trial in your Vietnam office. I appreciate you taking the time to inform me about this matter. However, I have a few questions before we proceed.\n\nCould you please provide more details about the trial? What is it specifically about? Also, what kind of delivery are you referring to? I want to make sure I fully understand the situation before moving forward.\n\nAdditionally, could you clarify what you mean by \"the new government board of directors have issued policy for immediate delivery\"? Is there a specific reason why this policy has been implemented?\n\nI look forward to hearing back from you soon with the requested information.\n\nBest wishes,\nEdith"
+    }
+]

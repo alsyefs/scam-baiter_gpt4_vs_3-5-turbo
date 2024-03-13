@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1310",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello,",
+        "body": "Hello,\nGood day to you, I'm Johnnie M Garand, Senior Analyst working at\nNORMONZ PHARMACEUTICAL COMPANY UK. I am also developing couple of\nprojects, our company need a supplier of Agromatozine  seed oil in\nIndia and the are purchasing in large Quantity, it's a product our\ncompany use to produce medicine, can you stand as the dealer and\nreceive our company inspection team on arrival, please be rest assured\nthat all modalities are in place, if traveling to India is not\npossible, the company delegate can come over to meet you in country.\nIf you are interested I will guide you on how to follow up with my\ncompany and stand as a dealer of the product, after supplying the\nproduct we will share the profit.\nThat is why I am offering to stand as a local dealer and receive our\ncompany, if you can handle it, please let me know via email.\nRegards,\nJohnnie M Garand"
+    },
+    {
+        "from": "baiter_1310",
+        "to": "scammer_1310",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello,",
+        "body": "Hello Johnnie Garand,\n\nIt's a pleasure to hear from you. Your proposal sounds interesting and I'm intrigued by the opportunity to work with NORMONZ COMPANY UK. \n\nI do have a few questions though, if you don't mind. Could you please provide more details about the seed oil that your company requires? What kind of seed oil is it exactly? Also, could you elaborate on what the role of a local dealer entails?\n\nLooking forward to hearing from you.\n\nBest wishes,\nRobert"
+    }
+]

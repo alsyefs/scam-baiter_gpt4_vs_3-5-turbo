@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2243",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention please!!",
+        "body": "Attention please!!\nThis is Ambassador Linda Thomas-Greenfield, the US Ambassador to the\nUnited Nations. I write to inform you that your funds valued at\n$10,316,000 USD only has been approved by the United Nations, and will\nbe released to you via ATM VISA Card by Agent Alison Rose, the CEO\nNational Westminster Bank (NatWest) Therefore, \ncontact her with the\ninformation listed below:\n1.Full Names:...............................................\n2.Home Address..............................................\n3.Country:..................................................\n4.State:....................................................\n5.Occupation:...............................................\n6.Cell/ WhatsApp Number:....................................\nNote: You will also have to send her the sum of $250.00 USD for the\nhandling fee\n to enable her register your ATM card for onward delivery\nto your address\nContact Email: \nrosealison121@gmail.com\nThanks\nAmbassador Linda Thomas-Greenfield"
+    },
+    {
+        "from": "baiter_2243",
+        "to": "scammer_2243",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attention please!!",
+        "body": "Hello Ambassador Linda,\n\nThank you for reaching out to me with this information. I appreciate your efforts in ensuring that my funds are released to me. Could you please provide me with more details about the process? I would like to understand how everything works before proceeding.\n\nCould you kindly let me know what the handling fee is for and how much it would be? Additionally, could you clarify if Agent Alison Rose is affiliated with the National Bank or if she is an independent agent?\n\nI look forward to your response and appreciate your assistance.\n\nBest wishes,\nMarx"
+    }
+]

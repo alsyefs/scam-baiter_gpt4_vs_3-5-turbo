@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2469",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings and Compliments,",
+        "body": "Greetings and Compliments,\nI write to inform you that I am an accredited agent to an estimable financial company in Europe who are ready to finance huge projects in any country. They have Funds between $100Million to $5Billion already designed for loan funding to credible investors who can utilize this opportunity. You can acquire the Loan Funds both for individual projects and/or company.\nI humbly request you to confirm your capability to invest this huge amount in any projects, and you will be faithful to repay the Loan within a space of twenty-five (25) years with the lowest interest rate APR.\nAlso worthy of note, the Finance Compan y will definitely and expeditiously process the Transfer of the Loan Funds, which must be successfully credited and confirmed in your own bank account coordinates\nUpon receiving your reply today, I will furnish you with detailed information of the financial institution to enable prompt and effective commencement of this transaction.\nWe can complete this viable transaction in the next four days.\nContact me URGENTLY via email address: \ntrustrobertsbiz@gmail.com\nKind Regards,\nSir CRAIG W.S. PhD\nFinancial Advisor/Facilitator."
+    },
+    {
+        "from": "baiter_2469",
+        "to": "scammer_2469",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings and Compliments,",
+        "body": "Hello Sir Craig,\n\nThank you for reaching out to me with this opportunity. I'm interested in learning more about the financial company and the loan funding they offer. Could you please provide me with some more information about the company itself? I would like to know about their track record, any success stories, and how long they have been in operation.\n\nAdditionally, could you clarify what types of projects are eligible for funding? Are there any specific industries or sectors that the financial company prefers to invest in? And what is the minimum investment amount required?\n\nI appreciate your assistance in providing these details so that I can evaluate this opportunity further. Looking forward to hearing from you soon.\n\nBest wishes,\nGabriel"
+    }
+]

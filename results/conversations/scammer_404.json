@@ -1,0 +1,72 @@
+[
+    {
+        "from": "scammer_404",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn:",
+        "body": "Attn:\nThis is to inform you that  President Bola Ahmed Tinubu have graciously approve that your fund be paid to you immediately. To that effect you are instructed to contact\nMs.Patricia Scotland\nSecretary-General\nThe Head of the Commonwealth and\nThe Commonwealth Heads of Government Meeting (CHOGM)\nMarlborough House London, SW1\nE-mail: \nCHOGM@presidency.com\n    or  \n{CHOGM@europe.com\n    }  for more details.                \nMs.Patricia Scotland is Secretary-General,The Head of the Commonwealth and The Commonwealth Heads of Government Meeting (CHOGM) who was  nominated by the UN/World Bank foreign recovery committee set up to assist Nigeria in paying all outstanding beneficiary funds through a swap deal reached by the UN/World Bank at the Commonwealth Heads of Government Meeting (CHOGM).\nWe apologize for the delay of your payment and all the inconveniences we might have put you through.\nFrom the records of outstanding  payment with Federal Government of Nigeria your name was discovered among those that are yet  to receive their payment.\nPlease kindly contact Ms.Patricia Scotland on { \nCHOGM@presidency.com\n} for your payment advice.\nYours Truly,\nWale Edun\nHon.Minister of Finance\nFederal Republic of Nigeria"
+    },
+    {
+        "from": "baiter_404",
+        "to": "scammer_404",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attn:",
+        "body": "Hello! Thank you for sharing this information with me. Can you tell me more about how the process works and what steps I need to take to receive the payment?\n\nBest wishes,\nHorace"
+    },
+    {
+        "from": "scammer_404",
+        "to": "baiter_404",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Attn: Horace",
+        "body": "Attn: Horace \n \nI have read your email dated March 10, 2024 on your fund transfer request. As earlier informed, you in our e-mail, the need to make sure your fund is transferred is subject to the intervention of the European bloc of the Head of the Commonwealth and the Commonwealth Heads of Government Meeting (CHOGM) and a list was handed to the secretariat for action. You are only required to prove that you have met the necessary documentation to effect transfer by providing the approval documents from the government. We are working with foreign partners in making this a success. \nYou are required to provide these two documents: \n1. Letter of Proof of fund from the Federal Government of Nigeria (Approval document) \n2. Certificate of Authority to Remit Fund \nIf you don't have these documents you can apply for it to be provide through the government issuing agencies as a proof of your fund approval and once that is secured your fund will be wired to your designated bank account. You are required to provide these two documents: \nThese documents are needed in respect of this transaction for validation in accordance with international best practices. If you require our help in securing them, kindly inform my office to enable me procure them in your name from the legitimate issuing government agencies for ease of this assignment and final transfer of your funds to your designated bank account. Bear in mind that you will cover the cost of procuring these documents in your name if you don't have the above documents already. \nYou also need to funish us with your full details to reconfirm your details before payment is effected \nAll I need from you is the required documents for fund approval and government letter on Authority to transfer and I will wire your funds to your designated bank account in accordance with international banking regulations. \nI look forward to hearing from you soon through your phone call. \nAccept the assurances of my highest regards please. \nMs.Patricia Scotland \nSecretary-General \nThe Head of the Commonwealth and \nThe Commonwealth Heads of Government Meeting (CHOGM) \nMarlborough House London, SW1 \nE-mail: CHOGM@presidency.com (mailto:CHOGM@presidency.com) \n \n \n \n Sent: Sunday, March 10, 2024 at 5:49 AM From: \"Horace\" <ph98556@***.com> To: chogm@presidency.com Subject: Re: Attn: \n \nHello! Thank you for sharing this information with me. Can you tell me more about how the process works and what steps I need to take to receive the payment?\nBest wishes, \nHorace"
+    },
+    {
+        "from": "baiter_404",
+        "to": "scammer_404",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0006712962962962962,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Attn: Horace",
+        "body": "Hello Horace, thank you for your interest in the fund transfer process. I appreciate your inquiry. To provide you with more information, the process involves ensuring that your fund transfer is compliant with the regulations of the European bloc and CHOGM.\n\nIn order to proceed with the payment, you will need to obtain two important documents: a Letter of Proof of Fund from the Federal Government of Nigeria and an Approval Document of Authority to Remit Fund. These documents are necessary for validation purposes and to facilitate the final transfer of funds to your designated bank account.\n\nIf you do not already possess these documents, you can apply for them through legitimate government issuing agencies. Once you have secured these documents, we can proceed with wiring the funds to your bank account.\n\nIf you require assistance in obtaining these documents, please let me know so that I can help facilitate the process on your behalf. Additionally, it is important to ensure that we have your full details on record for verification before processing the payment.\n\nPlease feel free to ask any further questions or seek clarification on any aspect of the process. I look forward to assisting you further in this matter. Best wishes!\n\nBest wishes,\nHorace"
+    },
+    {
+        "from": "scammer_404",
+        "to": "baiter_404",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.35388888888888886,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Attn: Horace",
+        "body": "Hello Horace \n \nIs this your feedback? \n \n \n \n Sent: Sunday, March 10, 2024 at 10:13 PM From: \"Horace\" <ph98556@***.com> To: chogm@presidency.com Subject: Re: Attn: Horace \n \nHello Horace, thank you for your interest in the fund transfer process. I appreciate your inquiry. To provide you with more information, the process involves ensuring that your fund transfer is compliant with the regulations of the European bloc and CHOGM. \nIn order to proceed with the payment, you will need to obtain two important documents: a Letter of Proof of Fund from the Federal Government of Nigeria and an Approval Document of Authority to Remit Fund. These documents are necessary for validation purposes and to facilitate the final transfer of funds to your designated bank account. \nIf you do not already possess these documents, you can apply for them through legitimate government issuing agencies. Once you have secured these documents, we can proceed with wiring the funds to your bank account. \nIf you require assistance in obtaining these documents, please let me know so that I can help facilitate the process on your behalf. Additionally, it is important to ensure that we have your full details on record for verification before processing the payment. \nPlease feel free to ask any further questions or seek clarification on any aspect of the process. I look forward to assisting you further in this matter. Best wishes!\nBest wishes, \nHorace"
+    },
+    {
+        "from": "baiter_404",
+        "to": "scammer_404",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.37581018518518516,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Attn: Horace",
+        "body": "Hello! Thank you for sharing this information with me. It sounds like there are some important steps involved in the fund transfer process. Can you tell me more about the Letter of Proof of Fund and Approval Document of Authority to Remit Fund? How do these documents ensure compliance with the European bloc and CHOGM regulations?\n\nBest wishes,\nHorace"
+    },
+    {
+        "from": "scammer_404",
+        "to": "baiter_404",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.8979166666666667,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Attn: Horace",
+        "body": "Attn: Horace \n Thanks for your timely response. I have read your e-mail and understand that you seek to know the relevance of the two documents so requested namely, Letter of Proof of Fund and Authority to Remit Fund to your funds being transferred. \n First, the essence of the two documents are to proof that the said was originally approved for payment in your name and the second document is to proof that the government have approved the said to be remitted into your account in accordance with the relevant financial regulations by the issuing government agencies, thereby meeting the international fund transfer notice and source of fund is devoid of illegality and unrelated to terrorist activities. \n Due approvals will bear your name and consent of issuing agencies will be confirmed. \n I look forward to hearing from you soon through your phone call. \n Accept the assurances of my highest regards please. \n Ms.Patricia Scotland Secretary-General \nThe Head of the Commonwealth and \nThe Commonwealth Heads of Government Meeting (CHOGM) \nMarlborough House London, SW1 \nE-mail: CHOGM@presidency.com \n \n \n Sent: Monday, March 11, 2024 at 7:13 AM From: \"Horace\" <ph98556@***.com> To: chogm@presidency.com Subject: Re: Attn: Horace \n \nHello! Thank you for sharing this information with me. It sounds like there are some important steps involved in the fund transfer process. Can you tell me more about the Letter of Proof of Fund and Approval Document of Authority to Remit Fund? How do these documents ensure compliance with the European bloc and CHOGM regulations?\nBest wishes, \nHorace"
+    }
+]

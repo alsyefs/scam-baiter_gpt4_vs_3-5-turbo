@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1697",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention: Are You Alive?",
+        "body": "  Attention: Are You Alive?\nRegarding Your Payment\nI am Mr. Amadou Jean-Jacques Chief Executive Officer and Managing\nDirector, the Crédit Mutuel du Sénégal. We have just newly inaugurated\nWorld Debt Recovery committee (WDRC). The committee has a mandate to\nrecover unpaid debts associated with NNPC contracts, Lottery fund,\ninheritance fund, loans and grants etc. ranging from $1M-$95.5M owed\nto various beneficiaries and companies across the globe (Asia, Europe,\nUSA, Africa, and Australia) and submit the list of the unpaid\nbeneficiaries/companies to our affiliated correspondence paying bank\nas approved by the United Nations Office for the Coordination of\nHumanitarian Affairs in collaboration with United Nations Economic\nCommission for Africa (UN/ECA)\nIn the course of the newly inaugurated World Debt Recovery committee\n(WDRC) investigation, your email address/particulars were shortlisted\namong the first fifteen individuals yet to be paid. However, we\nreceived a petition from one Mrs. Christina Morgan that you are dead,\naccording to her, you died in a plane crash as such your payment funds\nvalued $7.5 million should be paid to her as your heir apparent and\nnext of kin, she also attached her receiving bank account details with\nher petition.\nTo avoid paying the fund to erroneous individual/beneficiary, we have\ndecided to contact you for confirmation and clarification. Hence, if\nwe fail to hear from you within 72 banking hours, it will be assumed\nthat the petition of Mrs. Morgan is factual hence your payment funds\nwill be paid to her provided receiving bank account details without\nfurther delay.\nTherefore, should you be alive, we would like you to forward your full\npersonal information as required below:\n(A) Full name and residential address\n(B) Next of kin\n(C) Occupation\n(D) Nationality\n(E) Telephone numbers\n(F) Copy of your ID\nYour urgent response is swiftly required because you have a limited\ntime to execute this payment.\nThanks.\nYours faithfully,\nMr. Amadou Jean-Jacques\nCEO and Managing Director at Crédit Mutuel du Sénégal\nPoint E Rue De Fatick BP;\n28052 Dakar Sénégal\n------------------------------------------------------------------------------\nThe Crédit Mutuel du Sénégal. All Rights Reserved   "
+    },
+    {
+        "from": "baiter_1697",
+        "to": "scammer_1697",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention: Are You Alive?",
+        "body": "Hello Mr. Adou,\n\nThank you for reaching out to me. I must say, the news of my supposed demise is quite surprising! I assure you, I am very much alive and well.\n\nI'm curious about this World Debt Recovery Committee (WDRC) that you mentioned. Could you tell me more about it? How does it operate and how was my email address selected?\n\nAlso, regarding Mrs. Christina Morgan's claim, I don't recall knowing anyone by that name. Is there any way to verify her claims or perhaps a way for me to prove that I am indeed alive?\n\nLooking forward to your response.\n\nBest wishes,\nSteven"
+    }
+]

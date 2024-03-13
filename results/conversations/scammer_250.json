@@ -1,0 +1,112 @@
+[
+    {
+        "from": "scammer_250",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good Day",
+        "body": "Good Day\nFrom FedEx head office, contacting you regarding your parcel ATM VISA CARD $10.5 Million united state dollars just returned back to head office here today with your full name, due to enable to complete the required fee. \nAll we need from you now is to pay the clearance and delivery fee $30\n to clear up and posted your parcel ATM VISA CARD to your door step tomorrow evening. \nwait your answer with the clearance and delivery fee Trough Ituns card or steam wallet card tp avoid further delays.\nbashirusuleiman193@gmail.com\nThanks\nBashiru Suleiman\nFedEx head office\nCenter"
+    },
+    {
+        "from": "baiter_250",
+        "to": "scammer_250",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Good Day",
+        "body": "Hello Bashiru Suleiman,\n\nThank you for reaching out to me. I'm thrilled to hear about the ATM VISA CARD Million United States dollars. It's quite a surprise! \n\nI do have a few questions though, if you don't mind. Could you please explain why the parcel was returned back to your head office? Also, could you provide more details about this clearance and delivery fee? How much is it exactly?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nFaith"
+    },
+    {
+        "from": "scammer_250",
+        "to": "baiter_250",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Good Day",
+        "body": "Thanks for your questions, your parcel ATM card returned to our head office\r\ndue to the much deleys on your parcel, and also to avoid diverting of your\r\nfund ATM card to someone else. This clearance fee is to get your clearance\r\ndocuments and deliver your parcel ATM card to your door step. All you need\r\nto do is to send your delivery address and also send this clearance fee $30\r\napple iTunes card to process and deliver your parcel to your home address."
+    },
+    {
+        "from": "baiter_250",
+        "to": "scammer_250",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0002314814814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Good Day",
+        "body": "Oh, hello there! I'm so glad you reached out to me about this. It's a bit of a surprise, though. I don't remember ordering an ATM card. Can you tell me more about it? Like, what bank is it from? And why would it need a clearance fee apple card? I'm just trying to understand the whole process better.\n\nBest wishes,\nFaith"
+    },
+    {
+        "from": "baiter_250",
+        "to": "scammer_250",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0004166666666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Good Day",
+        "body": "Hello there,\n\nThank you for getting back to me. I'm really excited about receiving my ATM card! It's a bit unfortunate that it was returned to your head office, but I understand these things happen.\n\nI'm curious though, why do we need a clearance fee apple card? Is this a common procedure? And how does the process work exactly?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nFaith"
+    },
+    {
+        "from": "scammer_250",
+        "to": "baiter_250",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.00047453703703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Parcel ATM card",
+        "body": "Thanks for your questions, your parcel ATM card returned to our head office\r\ndue to the much deleys on your parcel, and also to avoid diverting of your\r\nfund ATM card to someone else. This clearance fee is to get your clearance\r\ndocuments and deliver your parcel ATM card to your door step. All you need\r\nto do is to send your delivery address and also send this clearance fee $30\r\napple iTunes card to process and deliver your parcel to your home address."
+    },
+    {
+        "from": "baiter_250",
+        "to": "scammer_250",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0010763888888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Parcel ATM card",
+        "body": "Hello there,\n\nThank you for getting back to me. I'm really excited about receiving my ATM card! It's a bit unfortunate that it got returned to your head office, but I understand these things happen.\n\nI'm curious though, why do we need a clearance fee apple card? Is it some sort of special procedure? And how does the process work exactly?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nFaith"
+    },
+    {
+        "from": "scammer_250",
+        "to": "baiter_250",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.05204861111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Parcel ATM card",
+        "body": "We want this clearance fee to be sent via apple iTunes card to avoid any\r\nkind of deleys on your parcel ATM card"
+    },
+    {
+        "from": "baiter_250",
+        "to": "scammer_250",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.05228009259259259,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Parcel ATM card",
+        "body": "Hello there,\n\nThank you for your message. I'm really excited about receiving my parcel ATM card! Just to clarify, could you please explain why the clearance fee needs to be sent via an apple card? I'm not very familiar with this process. Also, how does using an apple card prevent delays?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nFaith"
+    },
+    {
+        "from": "scammer_250",
+        "to": "baiter_250",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.06327546296296296,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Parcel ATM card",
+        "body": "This order is from head office"
+    },
+    {
+        "from": "baiter_250",
+        "to": "scammer_250",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.06355324074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Parcel ATM card",
+        "body": "Hello there! \n\nOh, an order from the head office, you say? That sounds important. Could you please tell me more about it? What does this order entail exactly?\n\nBest wishes,\nFaith"
+    }
+]

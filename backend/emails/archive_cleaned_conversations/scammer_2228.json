@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_2228",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "I’m Robert Russell by name fro",
+        "body": "I’m Robert Russell by name from the United Nations I’m texting regarding your fund worth 800 thousand dollars signed a month ago by the United Nations Secretary and is set to be delivered/transferred you as soon as possible. I may wish to inform you that this is the only fund you have in your name and also the last chance you have to claim this fund so if there is any other person texting you regarding fund that is absolutely a scam and should be reported to the appropriate authorities at once.\n \nIf you are ready to receive this fund as soon as possible please get back to me now with your full details such as:\nYour full name\nYour home address\nYour phone number\nYour ID card\nYour occupation\n Please do that as soon as possible because this is the last time you will have the chance to receive this fund\n \nThank you so much and God bless you."
+    },
+    {
+        "from": "baiter_2228",
+        "to": "scammer_2228",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: I’m Robert Russell by name fro",
+        "body": "Hello Robert Russell,\n\nWow, this is such an unexpected surprise! I can't believe the United Nations has a fund in my name. Can you tell me more about how this happened? \n\nAlso, could you please explain why you need all that information from me? I'm just trying to understand the process better.\n\nThank you so much for reaching out and God bless you too!\n\nBest wishes,\nHilda"
+    },
+    {
+        "from": "scammer_2228",
+        "to": "baiter_2228",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: I’m Robert Russell by name fro",
+        "body": "The required details is needed for confirmation that I’m contacting the\r\nright beneficiary of this fund"
+    }
+]

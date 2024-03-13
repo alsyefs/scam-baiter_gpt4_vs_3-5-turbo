@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1299",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir",
+        "body": "  Dear Sir\n \nI SINCERELY WISH YOU A HAPPY NEW YEAR WITH GOOD HEALTH.\nI MUST CONFESS that I got your contact through \"LinkedIn Top Executives Contact List\".\nPlease permit me to use this space to inform you that my client is a reputable politician and power broker in his country (Nigeria). Due to the ongoing controversial election and new currency policy by the Central Bank of Nigeria (which mainly is targeted against politicians), my client had requested me to solicit confidential collaboration with an honest individual with the capacity to receive a huge sum of money for Investment at his discretion. The funds in question are proceeds from \"Turn Around Maintenance'' Contract of an aging refinery/Privatization of a redundant Steel company, Dock Yard and Concession of a Sea-Port Terminal as well as 200,000 Megawatts Independent Power plant.\nMore details shall be provided immediately you respond.\nYou have my highest regard\nJohn Jon Sunk\nChief Operating Officer   "
+    },
+    {
+        "from": "baiter_1299",
+        "to": "scammer_1299",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir",
+        "body": "Dear John Jon Sunk,\n\nThank you for reaching out to me and wishing me a happy new year. I hope you are doing well too.\n\nI appreciate you providing some background information about your client, who seems to be involved in politics and business in Nigeria. It sounds like there are some challenges they are facing due to the ongoing election and currency policy changes.\n\nI'm curious to know more about the specific investment opportunity you mentioned. Could you please provide further details about the potential returns, risks involved, and any legal considerations? Additionally, it would be helpful to understand how my involvement would benefit your client.\n\nThank you again for contacting me, and I look forward to hearing back from you with more information.\n\nBest wishes,\nKatherine"
+    }
+]

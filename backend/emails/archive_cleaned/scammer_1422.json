@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1422",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello Dear,",
+        "body": "  Hello Dear,\nHow are you?\nI am Mr. Kinsley Khumalo, a registered loan broker based in South\nAfrica. I have a ready Investor who is willing to grant you a loan in\ncapital projects ( i.e Real Estates, Construction, Logistics,\nManufacturing or any viable projects). We have the financial muscle\nand capacity to fund projects between US$500,000.00 to US$6.5Billion\nfor capital projects, and Equity Investment Plans at 3% interest rate\nfor 10 years tenure with grace period of 12/18 months.\nKindly send your business plan and executive summary or refer us to\nanyone with a good business plan, for our investment team review and\nimmediate funding. We are waiting to proceed with the closing and\ndisbursement of investment funds and I hope we can work together in\nsecuring these investment funds should you be in need.\nThank you in advance as I anticipate your kind response.\nBest Regards.\nKinsley Khumalo   "
+    },
+    {
+        "from": "baiter_1422",
+        "to": "scammer_1422",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello Dear,",
+        "body": "Hello Mr. Kinsley Khumalo,\n\nI hope this message finds you well. Your offer sounds quite interesting and I'm curious to learn more about it. Could you please provide me with more details about the investment plans? What kind of projects does your investor usually fund? And could you explain a bit more about the grace period?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nMargaret"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_973",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good Day,",
+        "body": "Good Day,\nThis is to inform you that the West African Fund Compensation Unit (WAFCU) with the United Nation committee on finance held a meeting with African leaders concerning the ongoing scam/fraud in Africa. After the meeting today, three African presidents approved $2.5Million as compensation in your name. This is because you have been a victim of scam in Africa.\nYou are hereby advised to send your bank account information immediately for the immediate wire of your compensation fund to your nominated bank account.\nYour are also advised to send $750 immediately through western union\n with the name of my personal assistant (Mr Justin Peters ).Address 456BD Abuja Nigeria.The required fees $750 is for telegraphic screen charge of the transfer of your compensation fund.Please you should also send your private telephone to me.\n \nYours faithfully,\nDr Yassin Amara\nDirector (WAFCU/UN)\nEmail Address: \ngregc2034@gmail.com"
+    },
+    {
+        "from": "baiter_973",
+        "to": "scammer_973",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Good Day,",
+        "body": "Hello Dr. Yassin Ara,\n\nThank you for reaching out to me and providing this information. I appreciate your concern regarding the ongoing scam fraud in Africa. However, before proceeding with any transactions or sharing my bank account details, I would like to gather some more information.\n\nCould you please explain in more detail how the West African Fund Unit WAFCU and the United Nations committee on finance are working together to address this issue? What specific measures have been put in place to ensure the safety and legitimacy of these transactions?\n\nAdditionally, I would like to know more about the three African presidents who have approved this fund transfer in my name. Could you please provide their names and countries they represent?\n\nLastly, could you clarify what the required fees are for? You mentioned a screen charge for the transfer, but I would like to understand why such a fee is necessary.\n\nI look forward to your response.\n\nBest wishes,\nNatalie"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1383",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello dear beneficiary",
+        "body": "  Hello dear beneficiary\nCongratulations to you as we bring to your notice the result of\nCOMPENSATION FUNDS THIS CHRISTMAS with BANK OF AMERICA . We are happy\nto inform you that your email address have emerged a winner $2.7\nMILLION DOLLARS ATM CARD.\nso kindly reconfirm the Below information, to avoid Wrong Delivery of\nyour Package.\nFull name\nHome address\nValid I’d card\nCellphone number\nMarital status\nCountry/city\nE-mail: \njusticerobertsjr1@gmail.com\n "
+    },
+    {
+        "from": "baiter_1383",
+        "to": "scammer_1383",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello dear beneficiary",
+        "body": "Hello! Thank you for reaching out to me. I'm interested in learning more about this opportunity. Could you please provide me with some additional information? How did I become a winner of the MILLION DOLLARS ATM Card? Is there a specific reason why I was chosen?\n\nBest wishes,\nLarry"
+    }
+]

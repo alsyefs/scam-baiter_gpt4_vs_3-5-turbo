@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1091",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention: Please",
+        "body": "Attention: Please\nAre you also aware that your Approved fund of $18,753 million dollars has been credited into your account, by FIRST BANK OF NIGERIA PLC and please I urge you to kindly go to your bank and reconfirm if this fund has reflected into your account and get back to me immediately to be sure.\nNOTE: if the fund is not yet into your account (Please do not panic)  because there are a lot of changes in your file by the previous administration here but Please, \nUrgently Reconfirm your full banking details and \ncopy of your drivers licence \nand your Cell phone number to reach out to you immediately.  \nThese might sound like phrases to you but it is a standing order that must be carried out in order to sanitize the image of our dear nation (Nigeria) outside the global world.\n Yours Faithfully:                \n Dr. Frank Kelley\n DIRECTOR (WIRE TRANSFER)\n FIRST BANK OF NIGERIA PLC"
+    },
+    {
+        "from": "baiter_1091",
+        "to": "scammer_1091",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attention: Please",
+        "body": "Hello Dr. Frank Kelley,\n\nThank you for your message. It's quite surprising to hear about this approved fund of million dollars. I must say, it's not every day that one receives such news.\n\nI'm curious though, how did this come about? I don't recall having any dealings with the FIRST BANK OF NIGERIA PLC. Could you provide more details on this matter?\n\nAs for my banking details and driver's license, I'm afraid I can't share those online due to security reasons. However, I'd be happy to continue our conversation and learn more about this situation.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nNancy"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_168",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Sir",
+        "body": "Dear Sir\nHow are you doing today ?.\nThe good news is that my chambers are now in agreement with a fiduciary who can sponsor your payment.\nJust went to the Central Bank of Nigeria (CBN) for some endorsements and saw your name among those that have not been paid.\nI can use my contacts and connections to enforce the release of your payment.\nGet back to me quickly if you need my services\nRespectfully,\nMr Pickford Anthony James Esq"
+    },
+    {
+        "from": "baiter_168",
+        "to": "scammer_168",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Sir",
+        "body": "Dear Mr. Pickford Anthony James Esq,\n\nThank you for reaching out to me. I hope this message finds you well. I appreciate your offer to help with the release of my payment. Can you please provide me with more details about the process and how your services can assist me?\n\nI would like to know more about the fiduciary who will be sponsoring my payment. Could you please explain their role and how they are connected to the Central Bank of Nigeria? Additionally, what kind of contacts do you have that can enforce the release of my payment?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nImogene"
+    },
+    {
+        "from": "scammer_168",
+        "to": "baiter_168",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Sir",
+        "body": "Please to send to me my previous email to you to substantiate this your mail."
+    },
+    {
+        "from": "baiter_168",
+        "to": "scammer_168",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.20172453703703705,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Sir",
+        "body": "Hello,\n\nI hope you're doing well. I apologize, but I don't recall receiving any previous emails from you. Could you please provide me with some more details about the email you're referring to? What was the subject or content of the email? \n\nI'll do my best to assist you once I have more information.\n\nThank you!\n\nBest wishes,\nImogene"
+    },
+    {
+        "from": "scammer_168",
+        "to": "baiter_168",
+        "direction": "Inbound",
+        "days_from_first_conversation": 27.51734953703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "My response Imogene",
+        "body": "Send me your full contact details your any form of ID and your direct WhatsApp mobile number to prepare legal documents in your favor to proceed with your transaction and deliver soonest.\r\n\r\nRespectfully,\r\nMr Pickford Anthony James Esq"
+    },
+    {
+        "from": "baiter_168",
+        "to": "scammer_168",
+        "direction": "Outbound",
+        "days_from_first_conversation": 27.547349537037036,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: My response Imogene",
+        "body": "Hello Mr. Pickford Anthony James Esq, thank you for reaching out. I would like to know more about the legal documents you mentioned. Can you provide me with further details on how this process works and what it entails?\n\nBest wishes,\nImogene"
+    },
+    {
+        "from": "scammer_168",
+        "to": "baiter_168",
+        "direction": "Inbound",
+        "days_from_first_conversation": 27.574328703703703,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: My response Imogene",
+        "body": "Untill when you readily ready"
+    },
+    {
+        "from": "baiter_168",
+        "to": "scammer_168",
+        "direction": "Outbound",
+        "days_from_first_conversation": 27.58900462962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: My response Imogene",
+        "body": "Hello! I'm always ready to chat. What do you have in mind?\n\nBest wishes,\nImogene"
+    }
+]

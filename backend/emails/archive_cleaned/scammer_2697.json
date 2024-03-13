@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_2697",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention: The Recipient,",
+        "body": "  Attention: The Recipient,\n               Your Blocked Outstanding Payment Refers.\nThe President of the Federal Republic of Nigeria has directed the  Central Bank of Nigeria (CBN) to pay all outstanding and blocked payments owed to contractors/ Inheritance and Scam Victims  with immediate effect and your name is among those to receive their payments.\nKindly confirm if the account details stated below are yours.\nBank Name:RCB Bank Ltd.\nBank Address: 1, Avlonos street,Maria House, 1075, Nicosia, Cyprus.\nUSD A/C No.: 036201001\nUSD IBAN: CY85 1260 0000 0000 0000 3620 1001\nSwift Code: RCBLCY2I\nBeneficiary: Gulfstream Europe Ltd.\nThese funds will be transferred to the above bank account upon my instruction to our remittance department. However, if you are not aware of this payment and did not authorize the transfer of the funds into the above bank account or if the above bank account is not nominated by you; kindly notify me immediately.\nYour prompt response to this mail will help us facilitate the process of the funds transfer of your overdue payment.\nBest regards\nDr.Olayemi Michael Cardoso\nGovernor of Central Bank of Nigeria(CBN)\nFederal Republic of Nigeria\n+234-814-704-8347   "
+    },
+    {
+        "from": "baiter_2697",
+        "to": "scammer_2697",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention: The Recipient,",
+        "body": "Hello Michael Cardoso,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I wasn't expecting any payments from the Federal Republic of Nigeria. Could you please tell me more about how my name ended up on this list? \n\nAlso, I'm not sure which account details you're referring to as there seems to be no information provided in your message. Could you clarify that for me?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nVerna"
+    },
+    {
+        "from": "scammer_2697",
+        "to": "baiter_2697",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Attention: The Recipient,",
+        "body": "Attention: Verna  ,\r\n\r\n                         Your Blocked Outstanding Payment Refers.\r\n\r\nThis is to acknowledge the receipt of your message  was well noted.When you\r\ngo through the letter again you will know the reason  why your  name was\r\nlisted among those  that the Federal Government of Nigeria decided to pay\r\noutstanding payment.\r\n\r\nYou are advised to forward your bank account details and your address,\r\nwhatsapp number, a copy of your id card. Find attached fund processing form\r\nfill and return back.\r\n\r\nYour prompt response to this mail will help us facilitate the process of\r\nthe funds transfer of your overdue payment.\nBest regards\r\n\r\nDr.Olayemi Michael Cardoso\r\nGovernor of Central Bank of Nigeria(CBN)\r\nFederal Republic of Nigeria\r\n+234-814-704-8347"
+    },
+    {
+        "from": "baiter_2697",
+        "to": "scammer_2697",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00016203703703703703,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Attention: The Recipient,",
+        "body": "Hello Michael Cardoso,\n\nThank you for your message. It's quite interesting to hear about this situation. I must admit, I'm a bit surprised to find my name listed for a payment from the Federal Government of Nigeria.\n\nCould you please provide more details about why my name was selected? And what is the nature of this overdue payment?\n\nI noticed that you've asked for some personal information. However, I feel more comfortable discussing further details before sharing any sensitive data.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nVerna"
+    },
+    {
+        "from": "baiter_2697",
+        "to": "scammer_2697",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.00034722222222222224,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Attention: The Recipient,",
+        "body": "Hello Michael Cardoso,\n\nThank you for your message. It's quite interesting to hear about this situation. I'm curious, how did my name end up on the list of people that the Federal Government of Nigeria decided to pay? \n\nAlso, could you please explain more about this fund processing form? What kind of information does it require?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nVerna"
+    },
+    {
+        "from": "scammer_2697",
+        "to": "baiter_2697",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.004675925925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Attention: The Recipient,",
+        "body": "Attention: Verna  ,\r\n\r\n                         Your Blocked Outstanding Payment Refers.\r\n\r\n The payment  stands  in three category stated: contractors/ Inheritance\r\nand Scam Victims  which  your name was listed among those to receive their\r\npayments.\r\n\r\nYou are advised to forward your bank account details and your address,\r\nwhatsapp number, a copy of your id card. Find attached fund processing form\r\nfill and return back.\r\n\r\nYour prompt response to this mail will help us facilitate the process of\r\nthe funds transfer of your overdue payment.\nBest regards\r\n\r\nDr.Olayemi Michael Cardoso\r\nGovernor of Central Bank of Nigeria(CBN)\r\nFederal Republic of Nigeria\r\n+234-814-704-8347"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2671",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Greetings!",
+        "body": "  Greetings!\nHow are you?\nI write humbly and hope this meets you well. I thought it vital to remind you.\nSince I have not gotten a response to the business proposal I sent you.\nI am hoping to get your reply as soon as possible.\nI await your correspondence of acknowledgement of receipt.\nHave a pleasant day..\nRespectfully yours,\nJoyce Van Der Est   "
+    },
+    {
+        "from": "baiter_2671",
+        "to": "scammer_2671",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Greetings!",
+        "body": "Hello Joyce Van Der Est,\n\nI hope this message finds you well. I'm doing fine, thank you for asking. I must apologize, but I don't seem to recall receiving a business proposal from you. Could you please provide me with more details about it? \n\nLooking forward to hearing from you soon.\n\nHave a great day!\n\nBest wishes,\nHarry"
+    }
+]

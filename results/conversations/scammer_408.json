@@ -1,0 +1,92 @@
+[
+    {
+        "from": "scammer_408",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Friend",
+        "body": "Dear Friend\nIt’s my pleasure to have contact with you based on the critical condition I find myself in, though it's not a financial problem, but my health condition. I am suffering from long term pancreatic cancer and you might have known that cancer is a deadly disease and I don't want my late husband's hard earned money to be wasted without adding value to the people's lives.  Though I don’t know you, and my contact with you was not by mistake, but by divine favor of GOD.\nMy name is Mrs. Christabel Daniel, Switzerland national married to Mr. Leo Daniel, a construction engineer.  We live in the United Kingdom and we were married for the Twenty  Nine Years without a child before he died. He died after a brief illness that lasted for five days. Since his death, I decided not to remarry. When my late husband was alive he deposited the sum of US$ 8.2M (Eight Million Two Hundred Thousand Dollars) in the Bank, and the money is currently with the bank.  Recently, My Doctor told me that I don’t have much time to live because of the cancer problem.\nHaving known my condition I decided to search for someone who will use the money for humanitarian work to help the less-privileged people and that is why I am contacting you. I want you to utilize this money the way I am going to instruct herein. I want you to take 30 Percent out of the total money for your kind efforts, while 70% of the money will go to charity works and helping the orphanage people. I don’t want my husband’s efforts to be used by the Government and that is the reason I want you to use it for humanity 's work. I grew up as an Orphan and I don’t have anybody as my family member and I know how it is to be an Orphan.  Am doing this so that GOD will forgive my sins and accept my soul because this sickness has suffered me so much.\nAs soon as I receive your reply I shall give you the contact details of the bank to enable you to contact the bank and I will send an authority letter that will prove you as the present beneficiary of the money in the bank.  If you assure me that you will act accordingly as I stated herein.\nContact me here EMAIL( \nchristable_daniel@aol.com\n )\nHoping to receive your reply.\nRegards,\nMrs. Mrs. Christabel Daniel,\nI am writing from the London Bridge Hospital,\nAddress 27 Tooley St, London SE1 2PR, UK"
+    },
+    {
+        "from": "baiter_408",
+        "to": "scammer_408",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Friend",
+        "body": "Dear Mrs. Christabel Daniel,\n\nThank you for reaching out to me with your story. I am sorry to hear about your health condition and the loss of your husband. It is admirable that you want to use your late husband's money for charitable purposes.\n\nI would like to know more about how you envision the funds being used for charity and orphanage work. Could you provide me with some details on the specific projects or causes you have in mind?\n\nAlso, I would appreciate it if you could share more information about the process of accessing the funds from the bank and how I can ensure that everything is done legally and transparently.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "scammer_408",
+        "to": "baiter_408",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "From Mrs. Christabel Daniel",
+        "body": "Thank you for your kind reply to my email and for accepting to assist me with my charity work plan. I wish you knew me very well. I am an honest and uncomplicated person and I am happy if you are as honest as I am. I don't know you personally and I believe that you are a good person who will use 70% of the money for charity work. My late husband and I lived in the United States before moving to the United Kingdom after my late husband received a large contract in the United Kingdom. I want you to understand my situation and the pain I'm going through and I don't want you to take advantage of that and betray me. Throughout my life I have helped many poor people and donated a lot to the many orphanages and needy.\r\nI hate cheating and lying people and I won't be happy if someone cheats on me because I will never do that to anyone. The total amount to be used for the charity work to support the poor and the orphanage is in the bank in the United States. If you are honest and willing to use the money for charity by helping the poor and orphanage residents, please send me your full name and address and a scanned copy of your ID card, so that I can forward it to the bank. I will tell the bank that you will use the money for charity work to help the poor people with the money, and the bank will fulfill my request immediately. This charity work is a dedicated job and you have to use the money for all areas where people need help and that's why I need an honest person.\r\n\r\nPLEASE REMEMBER THAT AS A SICK PERSON WHO WAS ADMITTED IN THE HOSPITAL, I CAN NOT BE ABLE TO RESPOND TO YOUR EMAIL EVERY DAY. BUT PLEASE KEEP CHECKING UP YOUR EMAIL IN CASE I SEND YOU ANY MESSAGE\r\nHoping to receive your reply.\r\n\r\n\r\nSincerely, Mrs. Christabel Daniel"
+    },
+    {
+        "from": "baiter_408",
+        "to": "scammer_408",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.05299768518518518,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: From Mrs. Christabel Daniel",
+        "body": "Hello Mrs. Christabel Daniel,\n\nThank you for reaching out and sharing your charity work plan with me. I appreciate your trust in wanting to involve me in such a meaningful cause. I understand the importance of honesty and integrity, especially when it comes to helping those in need.\n\nI would like to learn more about how I can assist you with your charity work. Could you provide me with additional details on the specific areas or projects you are looking to support with the funds? This will help me better understand how we can make a positive impact together.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "baiter_408",
+        "to": "scammer_408",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0947800925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: From Mrs. Christabel Daniel",
+        "body": "Hello Mrs. Christabel Daniel,\n\nThank you for reaching out and sharing your charity work plan with me. I appreciate your trust in considering me for such a noble cause. I understand the importance of honesty and integrity, especially when it comes to helping those in need.\n\nI am interested in learning more about how I can assist with your charity work. Could you please provide me with additional details on the specific areas or projects that the funds will be allocated towards? This will help me better understand how I can contribute to making a positive impact.\n\nLooking forward to hearing back from you soon.\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "scammer_408",
+        "to": "baiter_408",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.3799074074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: From Mrs. Christabel Daniel",
+        "body": "Dear David,\r\nI have received your email and the contents of your mail are well understood.. I will write a letter of authorization addressed to you as the rightful beneficiary of the fund who is going to use the fund for charity work. There will be a space where you can fill your name and address, so that I can forward it to my bank. The authorization letter will state that I am the one who gives you permission to use the money for charity work on my behalf and I will send the authorization letter to my bank as an evidence. You will fill out your information once i send you the authorization letter and return it back to me then i can forward it to my bank to enable my bank proceed with the transfer under my instruction. Your response is evidence that my email was delivered to you and well received by you.\r\nCharity work is also humanitarian work meaning that you will put in the money in every area where the needy can benefit.\r\n\r\n\nSincerely,\r\nMs. Christabel Daniel"
+    },
+    {
+        "from": "baiter_408",
+        "to": "scammer_408",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.38556712962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: From Mrs. Christabel Daniel",
+        "body": "Hello David,\n\nThank you for sharing this information with me. It's great to hear about your intentions to use the fund for charity work. Could you provide more details about the fund and how it can be accessed for charitable purposes? I'm interested in learning more about how this process works.\n\nLooking forward to your response.\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "scammer_408",
+        "to": "baiter_408",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.698530092592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: From Mrs. Christabel Daniel",
+        "body": "Hello David\r\nThere are three documents attachment. (1) My identity card (2) Bank statement of the account that my husband deposited with the state bank of Iowa (3) a power of attorney addressed to my bank in the United States where my $8.2 million was deposited, and I would like you to receive it so that you can use it for a charitable project. There are two spaces where you should write your name, and at the bottom there is a space where you can write the date and your signature. The power of attorney states that I am the one who instructs you to use the fund for charitable purposes. For this reason, you should fill your name and sign your signature as the legal beneficiary to receive the funds. You have been advised to return the form to me so that I can forward it to my bank so that they can start transferring the money to your bank account immediately and without delay. Am sorry for the delay in replying to your email and it is due to my health condition. \r\n\nSincerely,\r\n Ms. Christabel Daniel"
+    },
+    {
+        "from": "baiter_408",
+        "to": "scammer_408",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.73587962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: From Mrs. Christabel Daniel",
+        "body": "Hello Christabel,\n\nThank you for sharing this information with me. I appreciate your trust in me to handle these important documents for your charitable project. Could you provide more details about the specific charitable project you have in mind? Also, do you have any preferences or instructions on how the funds should be utilized once they are transferred to my bank account?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDavid"
+    }
+]

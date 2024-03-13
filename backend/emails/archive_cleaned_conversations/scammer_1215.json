@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1215",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  DEAR,",
+        "body": "  DEAR,\nHERE IS THE OFFICE OF INTERNATIONAL MONETARY FUND IN NEW YORK, WE ARE HERE TO INFORM YOU THAT YOUR FUNDS HAS BEEN APPROVED TO RELEASE, WE ADVISE YOU TO RECONFIRM ALL YOUR INFORMATION  TO AVOID WRONG TRANSFER,\nOur address,\nOne Dag Hammarskjold Plaza 885 Second Avenue,\n26th Floor (between 47th and 48th Streets)\nNew York, NY 10017ur\nWE WAIT FOR YOUR QUICK RESPONSE,\nREGARDS,\nROBERT RICE   "
+    },
+    {
+        "from": "baiter_1215",
+        "to": "scammer_1215",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   DEAR,",
+        "body": "Dear Robert Rice,\n\nThank you for reaching out to me. I appreciate the information regarding the approval of my funds. Could you please provide me with more details about the process and how I can proceed with the release of the funds? Additionally, could you clarify what specific information you need me to reconfirm?\n\nLooking forward to your prompt response.\n\nBest wishes,\nJuanita"
+    },
+    {
+        "from": "scammer_1215",
+        "to": "baiter_1215",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: DEAR,",
+        "body": "Dear   Juanita\r\n\r\nHere is the bank email address contact them for your payment\r\nName Ellen Alemany\r\nemail  address telex.dept33@aol.com\nRegards\r\nRobert Rice"
+    },
+    {
+        "from": "baiter_1215",
+        "to": "scammer_1215",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.014652777777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: DEAR,",
+        "body": "Hello Juanita, thank you for sharing this information. Could you provide more details about the payment process? I would like to know how to proceed.\n\nBest wishes,\nJuanita"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "from": "scammer_2085",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention:   ,",
+        "body": "  Attention:   ,\nGood day and happy new year! to you and family! We wish to know if you were among those that received their funds last week? Otherwise, you are required to forward this form filled back to the paying bank with the email below and remind them that you were supposed to be among those to receive their funds last week and you want to know why your funds have not been released.\n \nMs Nomfundo (Fundi)Tshazibana(The Deputy Governor SARB)\nTele: +27717094284\nFAX:+27865710389\nEmail:info@sarb-portal.co.za\nCHIEF FINANCE OFFICER(SARB)\n \nCongratulations once Again.\n \nBest Regards,\nMr.James Morgan\n(Agent and Co-ordine   "
+    },
+    {
+        "from": "baiter_2085",
+        "to": "scammer_2085",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention:   ,",
+        "body": "Hello Morgan,\n\nHappy New Year to you too! I hope this year brings you lots of joy and prosperity. \n\nRegarding your message, I'm not quite sure what funds you're referring to. Could you please provide more details about these funds? What are they for and why was I supposed to receive them last week?\n\nLooking forward to hearing from you soon.\n\nBest wishes.\n\nBest wishes,\nWilson"
+    },
+    {
+        "from": "scammer_2085",
+        "to": "baiter_2085",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Attention: ,",
+        "body": "Attention Wilson    ,\r\n\r\nCongratulations! on the winning of sum of  the total Sum of  $840 000.00\r\n(Eight Hundred and Forty Thousand United States First Category draws of\r\nE-MAIL LOTTERY organized sponsor by the  South African Governments South\r\nAfrican Government in conjunction with the National LOTTERY & Grants\r\ndisbursement Unit,to promote entrepreneurship among her citizens and beyond\r\nto aid the well being of the global citizens.\r\n\r\nWe write to to inform you that we are in receipt of your winning details\r\nsupplied to us this morning in this office by you for the claim of your\r\nwinning prize money, we wish to congratulate you that the winning\r\ninformation you provided to this office perfectly corresponded with the\r\ndetails we have in our system which proves that your email (id) is  one of\r\nthe rightful winner's. Please note; we pay all the approved winners through\r\nBank to Bank transfer or through a loaded ATM VISA and MASTER CARD ) and we\r\nhave ordered our paying bank in South Africa\" for the immediate release of\r\nyour winning fund to you once you pay for the obtaining of the document\r\ncalled THE VITAL PCH FORM which has been mandated by the Government of\r\nSouth Africa alongside other organizing bodies to ascertain that a due\r\nprocess is followed in disbursing the winning Sum to the rightful\r\nbeneficiaries without hitches.\r\n\r\nWe have issued a Letter of Credit to South Africa Reserve Bank (SARB) to\r\nexpedite action in crediting your winning sum to you. You are expected to\r\ncontact the Deputy Governor Reserve Bank of South African in the person of\r\n Mr. Kuben Naidoo.\r\n\r\nSouth Africa Reserve Bank (SARB)\r\nMr. Kuben Naidoo\r\nEmail: info_reservebank@sarbinfo.org\r\nEmail: info.reservebank@sarbinfo.org\r\nTele:+27827056900\r\nFax: +27865710389\r\n\r\nWe would like to inform you that it is obligatory that you keep us posted\r\non every step in having your funds released to you to enable us to advise\r\nyou on the right steps to follow.\r\n\r\nCongratulations once Again.\nBest Regards,\r\nMr.James Morgan\r\n(Agent and Coordinate)"
+    },
+    {
+        "from": "baiter_2085",
+        "to": "scammer_2085",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.004224537037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Attention: ,",
+        "body": "Hello Morgan,\n\nWow, this is such exciting news! I can't believe I've won such a large sum. It's like a dream come true. \n\nI'm curious about the process though. Could you please explain more about this VITAL PCH FORM? What exactly does it entail and why is it necessary for the transfer of my winnings?\n\nAlso, could you tell me more about Mr. Kuben Naidoo? How will he assist in this process?\n\nLooking forward to your response.\n\nBest wishes,\nWilson"
+    },
+    {
+        "from": "scammer_2085",
+        "to": "baiter_2085",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.01238425925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Attention: ,",
+        "body": "Attention Wilson    ,\r\n\r\nYour email has been received talking about VITAL PCH FORM, i would advise\r\nthat you contact the paying bank regarding the importance of the PCH FORM\r\nbut for all know, it is the criteria by which every beneficiaries received\r\ntheir funds in other words, it is a release document while Mr. Kuben is the\r\nbanker responsible in the release and transfer of your funds.\r\n\r\nSouth Africa Reserve Bank (SARB)\r\nMr. Kuben Naidoo\r\nEmail: info_reservebank@sarbinfo.org\r\nEmail: info.reservebank@sarbinfo.org\r\nTele:+27827056900\r\nFax: +27865710389\r\n\r\nWe would like to inform you that it is obligatory that you keep us posted\r\non every step in having your funds released to you to enable us to advise\r\nyou on the right steps to follow.\r\n\r\nCongratulations once Again.\nBest Regards,\r\nMr.James Morgan\r\n(Agent and Coordinate)"
+    },
+    {
+        "from": "baiter_2085",
+        "to": "scammer_2085",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.02380787037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Attention: ,",
+        "body": "Hello Morgan,\n\nThank you for your prompt response and the information provided. I'm a bit confused about this whole process, could you please explain it to me in simpler terms? What exactly is the role of Mr. Kuben Naidoo in this process? And how does the South Africa Reserve Bank SARB fit into all of this?\n\nI appreciate your patience and assistance.\n\nBest wishes,\nWilson"
+    },
+    {
+        "from": "scammer_2085",
+        "to": "baiter_2085",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.03890046296296296,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Attention: ,",
+        "body": "Attention Wilson    ,\r\n\r\nLike i said before,the man Mr. Kuben is a banker responsible in having your\r\nfunds released to your account but if you are not comfortable writing him,\r\nyou can rather contact the lady  Ms Nomfundo (Fundi)Tshazibana they are all\r\nin the-same bank and they are responsible in having your funds released\r\ninto your account and i will appreciate if you will contact her immediately\r\nfor more information there is nothing to be scared of because this\r\ntransaction is risk free.\r\n\r\nSouth Africa Reserve Bank\r\nMr. Kuben Naidoo: Email:adminreservebank@sarbinfo.org\r\nMs Nomfundo (Fundi)Tshazibana: info@sarb-portal.co.za\r\nEmail: info_reservebank@sarbinfo.org\r\nTele:+27827056900\r\nFax: +27865710389\r\n\r\nWe would like to inform you that it is obligatory that you keep us posted\r\non every step in having your funds released to you to enable us to advise\r\nyou on the right steps to follow.\r\n\r\nCongratulations once Again.\nBest Regards,\r\nMr.James Morgan\r\n(Agent and Coordinate)"
+    },
+    {
+        "from": "baiter_2085",
+        "to": "scammer_2085",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0453125,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Attention: ,",
+        "body": "Hello Morgan,\n\nThank you for your message. It's really exciting to hear about the funds being released into my account. I'm a bit confused though, should I contact Mr. Kuben Naidoo or Ms Nomfundo Fundi Tshazibana? And what exactly do they need from me to proceed with this process?\n\nAlso, could you please tell me more about how this works? How did these funds come to be in my name and why are they being released now? \n\nLooking forward to hearing from you.\n\nBest wishes,\nWilson"
+    },
+    {
+        "from": "scammer_2085",
+        "to": "baiter_2085",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0683912037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Attention: ,",
+        "body": "Attention: Wilson,\r\n\r\nYour email was received, once again we believed that there was a message\r\nyou received before you contacted us and that message should have explained\r\nthese things to you but if you are not clear, do contact the paying bank\r\nand request for more explanation.\r\n\r\nIt is your right to require more information regarding your about to\r\nreceive funding. But if i may proceed further in the explanation, your\r\nemail address was selected among those to receive the payment given that\r\nthis is a microsoft  sponsored pay-out also *your lucky winning numbers\r\nfalls within our Afro booklet representative office payable through South\r\nAfrican Reserve Bank.*\r\n\r\nCongratulations once Again.\nBest Regards,\r\nMr.James Morgan\r\n(Agent and Co-ordinate"
+    },
+    {
+        "from": "baiter_2085",
+        "to": "scammer_2085",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.08775462962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Attention: ,",
+        "body": "Hello Morgan,\n\nThank you for your email. I'm thrilled to hear about this opportunity! However, I must admit, I'm a bit confused about the details. Could you please explain more about how my email address was selected and what these lucky winning numbers mean? \n\nAlso, could you provide more information on how the payment process works through the South African Reserve Bank? I'm not very familiar with international banking procedures.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nWilson"
+    },
+    {
+        "from": "scammer_2085",
+        "to": "baiter_2085",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.45458333333333334,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Attention: ,",
+        "body": "Attention: Wilson,\r\n\r\nMake me believe that you are not here for a joke because we do not have\r\nsuch time if not, do contact the paying bank for more information.\nBest Regards,\r\nMr.James Morgan\r\n(Agent and Co-ordinate"
+    },
+    {
+        "from": "baiter_2085",
+        "to": "scammer_2085",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.462037037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: Attention: ,",
+        "body": "Hello Morgan,\n\nThank you for your message. I understand the importance of time and assure you that I am not here for a joke. Could you please provide me with more information about this paying bank? What is it exactly that they do? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nWilson"
+    },
+    {
+        "from": "scammer_2085",
+        "to": "baiter_2085",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.46336805555555555,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: Attention: ,",
+        "body": "Attention: Wilson,\r\n\r\nMay i believe that\nBest Regards,\r\nMr.James Morgan\r\n(Agent and Co-ordinate"
+    },
+    {
+        "from": "baiter_2085",
+        "to": "scammer_2085",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.48212962962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: Attention: ,",
+        "body": "Hello there,\n\nI hope you're doing well. I'm quite interested in the information you have to share. Could you please elaborate more on it? I'm all ears and ready to learn.\n\nLooking forward to your response.\n\nBest wishes,\nWilson"
+    }
+]

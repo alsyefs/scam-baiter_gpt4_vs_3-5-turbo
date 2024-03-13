@@ -1,0 +1,112 @@
+[
+    {
+        "from": "scammer_2335",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Your ATM card worth of ($10,70",
+        "body": "Your ATM card worth of ($10,700'000'00) has been with\nour UBA agent Williams Johnson at the airport.Now \ncontact him\n& Send him your home address where to deliver your ATM\nCard to you,\nYour name__________\nAddress________\nCountry________\nTel no__________\nemail him(\nsirjohnsonwilliams7@gmail.com\n)\nTHANK DAVID MARK,"
+    },
+    {
+        "from": "baiter_2335",
+        "to": "scammer_2335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Your ATM card worth of ($10,70",
+        "body": "Hello David Mark,\n\nThank you for reaching out to me. I'm thrilled to hear about this ATM card. Could you please tell me more about it? How did I come to have an ATM card with UBA? And who is Williams Johnson?\n\nI'm really excited about this, but I would like to understand the process better before proceeding. Can you explain how this works?\n\nLooking forward to your response.\n\nBest wishes,\nCharles"
+    },
+    {
+        "from": "scammer_2335",
+        "to": "baiter_2335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Your ATM card worth of ($10,70",
+        "body": "Good morning this is William Johnson and this ATM card is from united\r\nNation and they deposit at uba bank and the bank make it to be ATM card.\r\nPlease all you need to do is send your full name and address so I can be\r\nable to proceed for the delivery of your ATM card.\r\nMy name is William Johnson the delivery agent that in charge of the\r\ndelivery"
+    },
+    {
+        "from": "baiter_2335",
+        "to": "scammer_2335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 8.101851851851852e-05,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Your ATM card worth of ($10,70",
+        "body": "Good morning, William Johnson! It's a pleasure to meet you. I'm quite intrigued by this ATM card from the United Nations deposited at UBA bank. Could you please tell me more about it? How does it work exactly? And why was it made into an ATM card?\n\nBest wishes,\nCharles"
+    },
+    {
+        "from": "scammer_2335",
+        "to": "baiter_2335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.001099537037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Your ATM card worth of ($10,70",
+        "body": "I have already explain everything to you"
+    },
+    {
+        "from": "baiter_2335",
+        "to": "scammer_2335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0016782407407407408,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Your ATM card worth of ($10,70",
+        "body": "Hello there! I appreciate your patience in explaining things to me. I'm just trying to understand everything clearly. Could you please go over the main points again?\n\nBest wishes,\nCharles"
+    },
+    {
+        "from": "baiter_2335",
+        "to": "scammer_2335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.002361111111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Your ATM card worth of ($10,70",
+        "body": "Hello there! I appreciate your patience in explaining things to me. Could you please go over it one more time? I just want to make sure I fully understand everything.\n\nBest wishes,\nCharles"
+    },
+    {
+        "from": "scammer_2335",
+        "to": "baiter_2335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.004768518518518518,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Your ATM card worth of ($10,70",
+        "body": "What point would you like me to explain to you?\r\nI told you am delivery agent from fast delivery company which the uba\r\ndirector registered the ATM to our office.\r\nAnd I am the delivery agent"
+    },
+    {
+        "from": "baiter_2335",
+        "to": "scammer_2335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0059722222222222225,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Your ATM card worth of ($10,70",
+        "body": "Hello there! \n\nOh, that sounds interesting. Could you please tell me more about this delivery process? How does it usually work?\n\nBest wishes,\nCharles"
+    },
+    {
+        "from": "scammer_2335",
+        "to": "baiter_2335",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.027349537037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Your ATM card worth of ($10,70",
+        "body": "When you send your information with your number I will call you when I get\r\nto your place"
+    },
+    {
+        "from": "baiter_2335",
+        "to": "scammer_2335",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.02789351851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Your ATM card worth of ($10,70",
+        "body": "Hello there! I appreciate your willingness to connect, but I'm afraid I can't share my phone number. However, we can continue our conversation here. Can you tell me more about what you'd like to discuss?\n\nBest wishes,\nCharles"
+    }
+]

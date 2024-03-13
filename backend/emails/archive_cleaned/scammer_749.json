@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_749",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello Dear,",
+        "body": "  Hello Dear,\nSorry to invade your privacy, I am Mrs. Esther George, the widow of an engineer, George Hanalee. I am 60 years old and have long term esophageal cancer. Doing business and making money was our priority, and we didn't care much about others. But since my husband passed away during the COVID-19 pandemic in 2020 and our many years of marriage were not blessed with children, I have found a new desire to help orphans living in orphanages/mothers/women/refugees and foster families.\nWhen my late husband was alive, we deposited US$10,000,000.00 in a HSBC Bank, United State, in the country where my husband worked. I am in a hospital receiving treatment for esophageal cancer, and the doctor diagnosed me and secretly told me what to expect to create the inevitable spirit. He says that because of the rapid growth and the tremendous pain it causes, I may not live more than six months. My last wish is to donate this money to charity because my family and friends robbed me of my possessions because of my illness. I can't live with the pain and leave this great responsibility to any of them. I decided to give $10 million usd for the development of the community and helping the less privileged. I chose you after visiting the site, having prayed on it.\nPlease, in the name of God, accept the money deposited in my late husband's name and use it to help the less privileged. You can email me at: [esthergeorge1@myself.com] for more information May God grace and blessings be with you and your family,\nYours Sister and friend,\nMrs. Esther George   "
+    },
+    {
+        "from": "baiter_749",
+        "to": "scammer_749",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello Dear,",
+        "body": "Hello Mrs. Esther George,\n\nThank you for reaching out to me and sharing your story. I'm sorry to hear about the challenges you've faced with your health and the loss of your husband. It's admirable that you have found a new desire to help those in need.\n\nI understand that you have a significant amount of money that you would like to donate to charity. Could you please provide me with more details about the specific organizations or causes that you are interested in supporting? I want to make sure that your generous donation goes towards a cause that aligns with your intentions.\n\nAdditionally, could you clarify how the funds will be transferred? Is there a specific process or documentation required for me to receive the money on behalf of the chosen charity?\n\nThank you again for considering me for this opportunity. I look forward to hearing from you soon.\n\nBest wishes,\nIlona"
+    }
+]

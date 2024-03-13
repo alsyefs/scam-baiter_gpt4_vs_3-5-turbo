@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_906",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Client,",
+        "body": "Dear Client,\nYour are among 10 victims of internet scam by fraudsters, listed for\ncompensation by Debt Reconciliation Committee/UNITED NATION\n(USD2.5Million  )\n \nKindly Reconfirm your details,Full Name,Address,Telephone And\nOccupation\n To Mr.Fred Williams Here ( \nfredwily011@hotmail.com\n )\nYours Sincerely\nPhilips Grey"
+    },
+    {
+        "from": "baiter_906",
+        "to": "scammer_906",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Client,",
+        "body": "Hello Philips Grey,\n\nThank you for reaching out to me. I'm surprised to hear about this situation. Could you please provide more details about what exactly happened? How did my name come up in this context?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nBilly"
+    }
+]

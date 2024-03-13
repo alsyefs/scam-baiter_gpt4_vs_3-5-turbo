@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_51",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "ASSIST LOANS (PTY) LTD",
+        "body": "ASSIST LOANS (PTY) LTD\nYour Ref:.......................\nOur Ref: AS/24/001/ZA\nFirst Floor, 14 Henshall St, Nelspruit Central, Mbombela, 1200\n +27633729230 Fax: +27864886884 \nassistloansemail@email.com\nNCR Registration No. NCRCP12718 Legal Registration No. : 2019/121643/07\nOld Office: 34 Surlingham Avenue Malvern Queensburgh"
+    },
+    {
+        "from": "baiter_51",
+        "to": "scammer_51",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: ASSIST LOANS (PTY) LTD",
+        "body": "Hello! Thank you for reaching out to me. How can I assist you today?\n\nBest wishes,\nMildred"
+    }
+]

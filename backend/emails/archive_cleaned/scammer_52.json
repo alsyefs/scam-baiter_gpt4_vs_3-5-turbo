@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_52",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good Day,",
+        "body": "Good Day,\nHow are you doing today? My name is Walsh Philip, I live in the\nUnited Kingdom and work with NatWest Bank UK.\nI am glad to be connected with you. I have a business proposal I\nwould like to discuss with you in private. It involves a business\nopportunity that will be of huge financial benefit to both of\nus.Further details will be shared after I receive your response.\nKindly reply with your full name and your country of\nOrigin/residence.\nYours Truly,\nWalsh Philip.\nOperational Manager."
+    },
+    {
+        "from": "baiter_52",
+        "to": "scammer_52",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Good Day,",
+        "body": "Hello Walsh Philip,\n\nIt's a pleasure to meet you! I hope you're having a great day in the United Kingdom. Your business proposal sounds intriguing, and I'm always open to new opportunities. Could you please share more details about it? \n\nJust to clarify, I'd prefer not to share my full name or country of residence at this time. I hope that's okay with you.\n\nLooking forward to hearing more about your proposal!\n\nBest regards.\n\nBest wishes,\nCalvin"
+    }
+]

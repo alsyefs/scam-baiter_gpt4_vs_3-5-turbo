@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_231",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Beneficiary,",
+        "body": "  Dear Beneficiary,\n \nAre you alive or dead?\nWe received several emails from Mr. Garcia Charles Gilbert, who narrated to us about the auto accident you had two weeks ago. Mr. Garcia made us understand that you are in the hospital for treatment, but there is no hope of your recovery. He stated that he is your business associate and your next of kin whom you have chosen and permitted to inherit all your properties. He is contacting this office based on your contract or inheritance payment fund, which is about to be paid to you. He requested that the payment be transferred to his own personal account.\n \nWe request your confirmation before we can process this transfer to Mr. Garcia Charles Gilbert's bank account. This is to avoid releasing your money to the wrong person because Mr. Garcia Charles Gilbert is too eager and ready to follow every instruction to have this money in his account. If you did not have an auto accident and you did not permit Mr. Garcia Charles Gilbert to claim your money, kindly reply to this message with your full contact information so we can process the release of your funds.\n \nBest Regards,\nMuth Samuel,\nChief Financial Officer,\nWorld Bank Group   "
+    },
+    {
+        "from": "baiter_231",
+        "to": "scammer_231",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Beneficiary,",
+        "body": "Dear Muth Samuel,\n\nThank you for reaching out to me. I hope this email finds you well. I must say, I was quite surprised to receive your message regarding an auto accident and Mr. Garcia Charles Gilbert. It's a relief to know that someone is looking out for my best interests.\n\nHowever, I must clarify that I have not been involved in any auto accident recently, nor have I given permission to anyone to claim my money on my behalf. It seems there might be some confusion or misunderstanding here.\n\nCould you please provide me with more details about the contract or payment fund you mentioned? I would like to understand the situation better before taking any further steps. Additionally, it would be helpful if you could share any information about Mr. Garcia Charles Gilbert and his association with me.\n\nI appreciate your assistance in resolving this matter and ensuring that my funds are handled correctly. Looking forward to your response.\n\nBest wishes,\nJamal"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1867",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Ref: WB/02P/2023-J10",
+        "body": "  Ref: WB/02P/2023-J10\n \nGood morning,\n \nWe are not sure you received our previous message, but we would like to use this medium to congratulate and inform you that, after thorough review of all unclaimed inheritance funds, contract funds, lottery funds, etc with various financial institutions, in conjunction with the World Bank and the International Monetary Fund auditors assessment report, you have been awarded a financial compensation amount of US$3,750,000.00 USD, with Ref No. WB/02P/2023-J10.\n \nThe auditor’s report shows that you have been going through hard times in the past due to irregular activities of some dubious officials who delayed your payment.\nWe therefore advice that you stop further communication with anyone outside this office since no cumbersome paperwork, fee or charges is required from you to receive the US$3,750,000.00 USD compensation.\n \nTo receive your US$3,750,000.00 USD compensation amount, kindly reply back today with your Full Contact Address and Telephone Number, to enable our Payment Director in the United Kingdom, contact you directly.\n \nOnce again Congratulations!\n \nSincerely,\nFinancial Services.   "
+    },
+    {
+        "from": "baiter_1867",
+        "to": "scammer_1867",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Ref: WB/02P/2023-J10",
+        "body": "Hello there,\n\nThank you for reaching out and sharing this information. It's quite a surprise to hear about this financial award. I'm curious, how was my name selected for this? And could you please provide more details about the process involved in receiving these funds?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJeffrey"
+    },
+    {
+        "from": "scammer_1867",
+        "to": "baiter_1867",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Ref: WB/02P/2023-J10",
+        "body": "Attn: Jeffrey.\r\n\r\nDear Sir,\r\n\r\nThis is to confirm receipt of your email regarding the payment of your fund\r\n- US$9,750,000.00. You should urgently send to us your valid id card copy,\r\ncontact address including cell phone number and bank account details where\r\nyou want us to transfer your funds.\r\nBank Name\r\nBank address\r\nAccount No.\r\nSwift Code\r\nAccount Name\r\n\r\nPlease kindly expedite action to enable us to transfer your fund as\r\nscheduled..\r\n\nYours sincerely,\r\nMrs. Dasha Mykola,\r\nFinancial Services LLC"
+    },
+    {
+        "from": "baiter_1867",
+        "to": "scammer_1867",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0008101851851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Ref: WB/02P/2023-J10",
+        "body": "Hello Mrs. Dasha Mykola,\n\nThank you for your prompt response and the information provided. I'm thrilled to hear about the fund transfer, it's quite an unexpected surprise!\n\nHowever, before we proceed further, could you kindly provide me with more details about this fund? For instance, how did I come to be the recipient of such a generous amount? Also, could you explain a bit more about your organization and its operations?\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJeffrey"
+    }
+]

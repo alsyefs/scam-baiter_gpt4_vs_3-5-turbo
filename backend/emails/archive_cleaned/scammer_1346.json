@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1346",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Friend,",
+        "body": "  Dear Friend,\nMy name is Joseph Lau, a Hong Kong business magnate, investor, and philanthropist.Kindly read more about me as follows: https:/ /en.wikipedia.org/wiki/Joseph_LauMy personal assistant recommended your name and contact details as a capable person that can invest most part of my fortunes out from Hong Kong, Mainland China and Macau. Covid 19 Pandemic declined the Return on Investment on most of our investment placements as I seek to move the funds away from the Hong Kong economy.Do not hesitate to respond back if you are interested to be my future investment manager as I plan to retire from active business. Looking forward to your reply via my private \nYours Sincerely,\nJoseph Lau   "
+    },
+    {
+        "from": "baiter_1346",
+        "to": "scammer_1346",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Friend,",
+        "body": "Dear Joseph Lau,\n\nThank you for reaching out to me. I appreciate the opportunity to potentially work with you as an investment manager. However, before we proceed further, I would like to know more about the specific investments and opportunities you have in mind. Could you please provide some details regarding the types of investments and industries you are interested in?\n\nAdditionally, it would be helpful to understand your retirement plans and how long-term commitment you are seeking from an investment manager. Please let me know your expectations in terms of time commitment and any specific qualifications or experience you are looking for in a potential candidate.\n\nI look forward to hearing back from you soon.\n\nBest wishes,\nSavannah"
+    }
+]

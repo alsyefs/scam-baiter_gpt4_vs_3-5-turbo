@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_1906",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "The International monetary fun",
+        "body": "The International monetary fund is compensating you with the sum of US$1.800,000,00 and we need your urgent reply so that your fund will be transferred to you, contact us in this email (\nnordeabankuklondon@gmail.com\n)"
+    },
+    {
+        "from": "baiter_1906",
+        "to": "scammer_1906",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: The International monetary fun",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm quite intrigued by your message. Could you please provide more details about this monetary fund? How did it come to be in my name? And what steps do I need to take next?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJoel"
+    },
+    {
+        "from": "scammer_1906",
+        "to": "baiter_1906",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "The International monetary fun",
+        "body": "*         WELCOME TO NORDEA BANK UNITED KINGDOM.*\r\nDear Mr Joel,\r\n    We welcome you once again in this noble Bank (NORDEA BANK) and we\r\nassure you that we are going to provide a good service in transfering your\r\nfunds to your bank account in your home country.\r\n\r\n       The International Monetary Fund (IMF) is compensating you with the\r\nsum of US$1.800,000.00 and we encourage you to fill the form and return it\r\nimmediately so that we can process your transfer and credit your funds to\r\nyour bank account in your home country.\r\n\r\nConfirm receiving my message by filling the form and return the document so\r\nthat we can commence your transfer.\r\n\r\nNordea Bank Management United kingdom"
+    },
+    {
+        "from": "baiter_1906",
+        "to": "scammer_1906",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.020231481481481482,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: The International monetary fun",
+        "body": "Hello Nordea Bank Management,\n\nThank you for your message and the warm welcome. I'm excited about this opportunity and appreciate your assurance of good service.\n\nBefore proceeding, could you please provide me with more details about this transfer? For instance, what is the exact sum of US funds that will be transferred to my account? Also, could you explain a bit more about the process involved in transferring these funds?\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJoel"
+    },
+    {
+        "from": "scammer_1906",
+        "to": "baiter_1906",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.19466435185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "The International monetary fun",
+        "body": "Dear Mr Joel,\r\nOwing to the process of distribution of IMF fund empowerment to the\r\nbeneficiaries whom they have carried minuteous research on their social and\r\nbusiness oriented efforts and recommendations from our auxiliary\r\norganisations , you have been considered with the sum of $1800,000 US\r\ndollars funds with no reimbursement conditions.\r\n\r\nOur duty as a bank to transfer your awarded fund to your bank account, you\r\nhave to fill the form and return it with no delay so that we can commence\r\nyour transfer without any further delay, and the money to be transferred to\r\nyour bank account is One million eight hundred thousand united state\r\ndollars only (US$1.00,000.00).\r\n\r\nIf you need more details, it will be given to you once you fill the form.\r\n\r\nNordea Bank Management United kingdom."
+    },
+    {
+        "from": "baiter_1906",
+        "to": "scammer_1906",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.20820601851851853,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: The International monetary fun",
+        "body": "Hello Nordea Bank Management,\n\nOh, what a surprise! I'm thrilled to hear about this unexpected sum of US dollars. It's quite a lot of money, isn't it? I can hardly believe it!\n\nCould you please provide me with more information about this process? How was I chosen for this award? And what is the purpose of these funds?\n\nAlso, could you explain more about the form that needs to be filled out? What kind of information does it require?\n\nI'm looking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJoel"
+    },
+    {
+        "from": "scammer_1906",
+        "to": "baiter_1906",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.2112037037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "The International monetary fun",
+        "body": "We have given you the most important details of your fund, if you cannot\r\nread and fill the form, which means you are not ready to receive your fund."
+    },
+    {
+        "from": "baiter_1906",
+        "to": "scammer_1906",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.22828703703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: The International monetary fun",
+        "body": "Hello there,\n\nThank you for your message and the information about the fund. I appreciate your patience with me as I try to understand everything. Could you please explain a bit more about how this fund works? What is it exactly for and how was I chosen for it? \n\nI'm really interested in learning more about this opportunity. Thank you again for reaching out to me!\n\nBest wishes,\nJoel"
+    }
+]

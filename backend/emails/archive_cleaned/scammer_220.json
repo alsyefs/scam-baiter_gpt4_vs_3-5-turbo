@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_220",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir,",
+        "body": "  Dear Sir,\nThis information is from the United Nation Organization Scam Victim Unit. You are advised to contact the BANK UNITED in Florida, United States of America for your approved $10.5m Scam Compensation fund release. Contact the Chief Information Officer, her contact details is as follows:\nMrs Barbara Ann Jacobson\nChief Information Officer\nBankUnited, Miami Lake Florida USA a\nEmail: ( \nbankunitedhqusaoffice@gmail.com\n )\nTel: +1305749954\nFollow the directives and contact the bank chief information officer as directed. Do let me know your arrangement with them and also do let me know as soon as the fund is transferred into your account. Looking forward to your urgent response on this subject matter.\nMs. Caroline Anderson\nPersonal Assistant to the UN Secretary General.   "
+    },
+    {
+        "from": "baiter_220",
+        "to": "scammer_220",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir,",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate the information you've provided. It's quite interesting to hear about this Scam Victim Unit from the United Nations. \n\nCould you please tell me more about how this fund release process works? And what kind of directives should I expect from Mrs. Barbara Ann Jacobson?\n\nI'm looking forward to hearing back from you.\n\nBest wishes,\nEvelyn"
+    }
+]

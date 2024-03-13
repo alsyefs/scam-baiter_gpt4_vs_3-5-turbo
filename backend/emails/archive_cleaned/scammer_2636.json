@@ -1,0 +1,142 @@
+[
+    {
+        "from": "scammer_2636",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "My Dear,",
+        "body": "My Dear,\nHello\nI have registered your ATM VISA CARD of ($3.8Million Universal Courier Express with registration code Number (UN775605594BN ).\nplease contact the international registered delivery Company with your information such as:-\n1. Name In Full :\n2. Address :\n3. Occupation ;\n4. Nationality :\n5. Direct Phone :\nThe Contact Person name ARE: MR. Ben William Mark   E-mail: (\nwilliamsmmrben@gmail.com\n)\nNote: I have paid for the Insurance & activation charges.\nThe only fee you have to pay is the compulsory delivery fee only. Please indicate the registration Number and ask him to provide you the information to send the delivery fee.\nBest Regards,\nMs  Nancy Phillips"
+    },
+    {
+        "from": "baiter_2636",
+        "to": "scammer_2636",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: My Dear,",
+        "body": "Hello Ms Nancy Phillips,\n\nThank you so much for your message. I'm really excited about this ATM VISA CARD! Could you please tell me more about it? What is the Universal Courier Express and how does it work? \n\nAlso, could you clarify what the delivery fee is for? Is it for the courier service to deliver the card to my address?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nDoris"
+    },
+    {
+        "from": "scammer_2636",
+        "to": "baiter_2636",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: My Dear,",
+        "body": "Thanks for contacting my office concerning the ATM visa card loaded with\r\nfunds in your account.\r\nDo you have any WhatsApp number?\r\nThe fee is to pay for delivery company to deliver the ATM visa card to your\r\naddress. The fee is 550 dollar.\r\nSend your details include your WhatsApp number.\r\nI shall be waiting for your message soon.\nBest Regards"
+    },
+    {
+        "from": "baiter_2636",
+        "to": "scammer_2636",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0001273148148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: My Dear,",
+        "body": "Hello there,\n\nThank you for reaching out to me about this ATM visa card. It sounds very interesting! Could you please tell me more about how this works? And, is there a specific delivery company that will be handling the card?\n\nI'm sorry, but I can't provide my number at this time. Is there another way we can continue our conversation?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDoris"
+    },
+    {
+        "from": "scammer_2636",
+        "to": "baiter_2636",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.005810185185185186,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: My Dear,",
+        "body": "Once you send the delivery company fee we shall registered the ATM card in\r\nyour name and send to your address in your country.\r\nYou will use the ATM card to withdraw your funds through any ATM card\r\nmachine all over in the world. And every day you can withdraw maximum\r\namount of 20,000 dollar.\r\n\r\nSo why you don't want to send your number what will I use your WhatsApp\r\nnumber for.\r\n\r\nIf you are ready to received your atm send the delivery fee .\nThanks"
+    },
+    {
+        "from": "baiter_2636",
+        "to": "scammer_2636",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.006388888888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: My Dear,",
+        "body": "Hello,\n\nThank you for your message. It sounds like a very convenient way to access funds! I'm curious, how does the ATM card work? Can it be used in any ATM machine worldwide without any additional charges?\n\nAlso, could you please explain more about the delivery fee? How much is it and what does it cover exactly?\n\nI appreciate your help with this. Looking forward to hearing from you soon.\n\nBest wishes,\nDoris"
+    },
+    {
+        "from": "scammer_2636",
+        "to": "baiter_2636",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.01369212962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: My Dear,",
+        "body": "The ATM card is valid and can withdraw money from any ATM machine in the\r\nworld and there is no additional fee else where.\r\nThe delivery charge is 550 USD only and its meant for your ATM card\r\ndelivery shipping to your country precisely your address.\r\nAs soon you send the fee I will start the processing of your atm card\r\nregistration for delivery.\nBest Regards"
+    },
+    {
+        "from": "baiter_2636",
+        "to": "scammer_2636",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.014050925925925927,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: My Dear,",
+        "body": "Hello,\n\nThank you for your message. It's really interesting to know that the ATM card can be used worldwide without any additional fees. That sounds very convenient!\n\nI'm curious about the delivery charge though. Could you please provide more details? How is this fee calculated and why is it necessary? \n\nAlso, could you explain a bit more about the process of getting this ATM card? I'd like to understand better how it works.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nDoris"
+    },
+    {
+        "from": "scammer_2636",
+        "to": "baiter_2636",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.01633101851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: My Dear,",
+        "body": "Just like that you send the fee the processing will be completed without\r\ndelay"
+    },
+    {
+        "from": "baiter_2636",
+        "to": "scammer_2636",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.01678240740740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: My Dear,",
+        "body": "Hello there,\n\nThank you for your message. I'm quite interested in what you're saying, but could you please explain a bit more about this fee? What exactly is it for and how does it help in completing the processing?\n\nBest wishes,\nDoris"
+    },
+    {
+        "from": "scammer_2636",
+        "to": "baiter_2636",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.01855324074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: My Dear,",
+        "body": "Exactly my meaning the delivery fee is to completing your ATM card delivery\r\nat your house within 3 days it will arrived. And you will start to withdraw\r\nmoney daily by daily through any ATM machine worldwide."
+    },
+    {
+        "from": "baiter_2636",
+        "to": "scammer_2636",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.018912037037037036,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: My Dear,",
+        "body": "Hello there,\n\nWow, that sounds really interesting! I've never heard of something like this before. So, you're saying that I can withdraw money daily from any ATM machine worldwide? That's quite fascinating. \n\nCould you please explain a bit more about how this works? Like, how does the ATM card get loaded with money? And is there a limit to how much I can withdraw each day?\n\nLooking forward to hearing more about this amazing opportunity!\n\nBest wishes,\nDoris"
+    },
+    {
+        "from": "scammer_2636",
+        "to": "baiter_2636",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.19887731481481483,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: My Dear,",
+        "body": "Send your number we talk better understand?"
+    },
+    {
+        "from": "baiter_2636",
+        "to": "scammer_2636",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.19944444444444445,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: My Dear,",
+        "body": "Oh, I'm really sorry but I can't assist with that.\n\nBest wishes,\nDoris"
+    }
+]

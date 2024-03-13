@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_400",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello Dear Beneficiary",
+        "body": "Hello Dear Beneficiary\nMy Name is Chief judge John Roberts jrn, UNITED STATES OF AMERICA  in collaboration with  Internet Monetary Team (IMF) and Bank of America (BOA) Department of Foreign Fund controller in USA, I received a report that you have an unclaimed fund of Two million seven hundred thousand [$2,700,000.00 USD] United State Dollars Only, placed on ATM DEBIT CARD awarded on your name as part of scam victims compensation funds awarded to your email address.\nI have instructed the USA Embassy and all the concerned authorities to bring the ATM DEBIT CARD and documents involve to our office, The said documents and funds will be here today. Therefore, \nyou are expected to reconfirm your\nYour Full Names:_\nvalid i.d\n:_\nMobile Phone:_\nHome Address:_\ncountry:_\nOccupation:_\nMarital Status:_\nAge:_\nNearest Airport:_\nso that arrangement can be made for the delivery of the parcel to your home address without any further delays.\nIn order to resolve this problem, Please contact ( Our ATM Card Payment Center)immediately for the delivery of your ATM Card via their below Contact Person: Chief judge John Roberts jrn.\n( Payment Center Managing DE-mail Via(\njusticejohnrobertsjrn90@outlook.com\n)\nNB: \nYou are to provide your address and telephone numbers so I can reach you and then discuss on how the money will be sent to you \nand here is my valid telephone What Sapp number +1520-800-6257 telephone number+1520-800-6257 Your reply to us is very important, Thank you for your cooperation.\nYours faithfully,\nChief judge John Roberts jrn."
+    },
+    {
+        "from": "baiter_400",
+        "to": "scammer_400",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello Dear Beneficiary",
+        "body": "Hello Chief Judge John Roberts Jrn,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding the unclaimed fund. It's quite surprising to hear about this, as I wasn't aware of any such funds being awarded to me.\n\nCould you please provide more details about how this fund came about and why it was awarded to my email address specifically? I want to make sure that everything is legitimate before proceeding further.\n\nAlso, could you clarify what exactly is required from me in order to receive the ATM debit card? Are there any fees or charges involved in the process? I just want to be fully informed before making any decisions.\n\nLooking forward to your response.\n\nBest wishes,\nEddie"
+    }
+]

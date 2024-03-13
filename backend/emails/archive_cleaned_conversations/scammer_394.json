@@ -1,0 +1,92 @@
+[
+    {
+        "from": "scammer_394",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello",
+        "body": "Hello\nIt's my pleasure contacting you.\nI am looking to work with you to guide me to purchase good properties/luckup shops for leasing out in your country with the money my late parents left behind. Both died in a fatal accident. Any other profitable venture you know of in your country will be welcomed please.\nYou will be highly rewarded monetarily for your kind help. US$20M is for this purpose.\nEndeavor to contact me immediately for more detailed information.\nRegards,\nMiyenko Chenko."
+    },
+    {
+        "from": "baiter_394",
+        "to": "scammer_394",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello",
+        "body": "Hello Miyenko Chenko,\n\nThank you for reaching out to me. I'm sorry to hear about the loss of your parents in a fatal accident. It must be a difficult time for you. I would be happy to help guide you in purchasing properties or exploring other profitable ventures in my country.\n\nCould you please provide me with more details about the type of properties you are interested in and the specific location? Additionally, it would be helpful to know what kind of budget you have in mind for these investments.\n\nOnce I have more information, I can assist you further and provide any guidance or suggestions that might be beneficial. Looking forward to hearing from you soon.\n\nBest wishes,\nPeggy"
+    },
+    {
+        "from": "scammer_394",
+        "to": "baiter_394",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Hello",
+        "body": "Hello Peggy,\r\n\r\nSorry for my late response.\r\n\r\nI will suggest you look out properties for me in your city and in an\r\nupscale neighbourhood.\r\n\r\nI am willing to invest between $500,000 (Five hundred Thousand) to\r\n$1,000,000, (One Million) in the purchase of the home before I will go into\r\nother businesses when I relocate to your country.\r\n\r\nI have a pull fund in excess of $5,000,000 (Five Million) that is available\r\nfor now.\r\n\r\nKindly get back to me so we will discuss all other details accordingly.\r\n\nKind regards,\r\n\r\nMiyenko Chenko."
+    },
+    {
+        "from": "baiter_394",
+        "to": "scammer_394",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.6118518518518519,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Hello",
+        "body": "Hello Miyenko Chenko,\n\nThank you for reaching out to me. I appreciate your interest in investing in properties in my city. Could you please provide me with more details about the type of property you are looking for? Are you interested in residential or commercial properties? Any specific location preferences?\n\nAlso, it would be helpful to know what kind of businesses you are planning to venture into once you relocate to my country. Are there any particular industries or sectors that interest you?\n\nRegarding the funds you mentioned, could you please clarify if the five million is the total amount available for investment or if it is separate from the amount you are willing to invest in purchasing a home?\n\nI look forward to hearing back from you and discussing further details.\n\nBest wishes,\nPeggy"
+    },
+    {
+        "from": "scammer_394",
+        "to": "baiter_394",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.6440162037037036,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Hello",
+        "body": "Where are you from?"
+    },
+    {
+        "from": "baiter_394",
+        "to": "scammer_394",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.6534953703703703,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Hello",
+        "body": "Hello! I'm glad you reached out. I'm from . How about you? Where are you from?\n\nBest wishes,\nPeggy"
+    },
+    {
+        "from": "scammer_394",
+        "to": "baiter_394",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.8827546296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Hello",
+        "body": "THIEF"
+    },
+    {
+        "from": "baiter_394",
+        "to": "scammer_394",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.883888888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Hello",
+        "body": "Hello! How can I help you today?\n\nBest wishes,\nPeggy"
+    },
+    {
+        "from": "scammer_394",
+        "to": "baiter_394",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.8851851851851853,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Hello",
+        "body": "ASHOLE LIKE U"
+    }
+]

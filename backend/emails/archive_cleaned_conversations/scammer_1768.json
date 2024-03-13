@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_1768",
+        "to": "baiter_1768",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "1",
+        "subject": "Re: Attention: Beneficiary.",
+        "body": "Hello\r\nHow are you.\r\nThis is to let you know delivery and security keeping fee has been handled.\r\nWhat is needed of you is the stamp duty fee.\r\nThank you.\nMrs. Angela"
+    },
+    {
+        "from": "scammer_1768",
+        "to": "baiter_1768",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "2",
+        "subject": "Re: Attention: Beneficiary.",
+        "body": "Hello\r\nHow are you?\r\nThis is to let you know delivery and security keeping fee has been handled.\r\nWhat is needed of you is the stamp duty fee. as you furnish us your details\r\nrequired for authorization and documentation of your name on the legal\r\ndocuments,\r\nThank you.\nMrs. Angela"
+    },
+    {
+        "from": "scammer_1768",
+        "to": "baiter_1768",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.720717592592592,
+        "startegy": "None",
+        "conversation_counter": "3",
+        "subject": "Re: Attention: Beneficiary.",
+        "body": ""
+    }
+]

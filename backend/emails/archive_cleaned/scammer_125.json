@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_125",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention Beneficiary;",
+        "body": "Attention Beneficiary;\nWe hereby wish to inform you that your overdue funds have been sent to\nthis office/department with transfer approval number\nUK-924/EU-001/23/LE for transfer/delivery to identify you as\nbeneficiary. Following the World Bank, United Nations (UN) and\nEuropean Union (EU) International Monetary Fund (IMF) meeting in\nLondon. Mr Andrew  Bailey has been appointed responsible for this\ntransfer process.\nIt is therefore recommended to submit your full details for\nverification and reopen your payment file for immediate\npayment/transfer of your money within the next 48 hours. Please send\nyour contact details to their contact person as follows:\nName: Mr;Andrew  Bailey\nPosition: Director of Payments, Transfer Department\nPersonal email: \nmheimbach39@yahoo.com\nOffice  Email ; \ntransdeprtb@mail2europe.com\nContact him immediately.\nSincerely,\nChristine Madeleine O Lagarde\nPresident of the European Central Bank"
+    },
+    {
+        "from": "baiter_125",
+        "to": "scammer_125",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attention Beneficiary;",
+        "body": "Hello Christine Madeleine Lagarde,\n\nThank you for your message. It's quite interesting to hear about this overdue fund transfer. I'm curious, could you please provide more details about this process? How was my name selected for this?\n\nAlso, I would like to know more about Mr. Andrew Bailey's role in this transfer process. What exactly will he be doing?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nSherri"
+    }
+]

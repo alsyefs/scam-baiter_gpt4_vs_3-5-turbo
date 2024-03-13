@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1039",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attn;",
+        "body": "  Attn;\nWe have decided to contact you immediately because we caught one of our staff trying to present a lady as your representative to receive your US$10.5M dollars. But when we started asking her some sensitive questions concerning the fund, she could not give the correct answer.\nSo we have her arrested and she confessed about her involvement with the staff. The two of them are now in police detention. You are therefore to get back with your details to enable us start the processing of your fund release.\nYou should respond through the below email address:\nName : Franklin Nnamdi\nEmail :  \nhs772358@gmail.com\nI wish you plenty of luck.\nBest regards,\nFranklin Nnamdi\nForeign Remittance Department,\nUnited Bank for Africa   "
+    },
+    {
+        "from": "baiter_1039",
+        "to": "scammer_1039",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attn;",
+        "body": "Hello Franklin Nnamdi,\n\nWow, that's quite a story! I can't believe someone would try to impersonate me. I'm glad you caught them. Can you tell me more about this situation? How did you realize she was not the real person?\n\nAlso, could you please explain what you mean by \"processing of your fund release\"? What kind of fund are we talking about here?\n\nLooking forward to hearing from you.\n\nBest wishes,\nMartha"
+    }
+]

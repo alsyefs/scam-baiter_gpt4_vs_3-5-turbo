@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_118",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings !",
+        "body": "Greetings !\nI am Mr. Ammar Hussain from Qatar Petroleum.\nI have one hundred million dollars for Investment. Contact me if you are interested. I have all what it will take to move the fund to you as a contract fund to avoid every query; more details upon the receipt of your response.\nRegards,\nAmmar Hussain.\nQatar Petroleum.\nFinance and Accountant.\nEmail: \nammarhussain100@yahoo.com"
+    },
+    {
+        "from": "baiter_118",
+        "to": "scammer_118",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings !",
+        "body": "Hello Mr. Ammar Hussain,\n\nThank you for reaching out to me. I hope this message finds you well. I'm intrigued by your offer of one hundred million dollars. Can you please provide me with more information about the contract fund and how it would be moved to me? I want to make sure I have a clear understanding of the process.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nChristian"
+    }
+]

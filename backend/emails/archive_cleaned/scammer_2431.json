@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2431",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello",
+        "body": "  Hello\nWe found your CV, as you recently updated your page on Indeed.\n \nYou searched for IT -Support Engineer \"Frankfurt am Main\" and maybe you are interested in our job\noffer.\nWe want to suggest you consider the vacancy of Customer Service Manager.\n \nWhat exactly are we offering?\nYou can combine this work with any other if it does not affect the quality of accomplishment of tasks.\nIt is desirable to have knowledge of English at level B1.\nLocation: Germany\nSchedule: Part-time (3-4 hours a day)\nEmployment Type: Work from home, Remote\nSalary: 2,900 EUR a month + bonuses\nIf you are interested to know more about this position please email our HR Manager - Natalie Mills and she will provide details about the vacancy.\nEmail: \nnatalie-mills@trafixfin.com\nIf you have not received a response from our HR Manager, please check your spam folder.\nSometimes there are problems with delivering email.\nThank you for your time. We hope for feedback shortly.\nHave a nice day.\nHR department\nTrafix Finance Ltd   "
+    },
+    {
+        "from": "baiter_2431",
+        "to": "scammer_2431",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello",
+        "body": "Hello,\n\nThank you for reaching out and considering me for the position of Customer Service Manager. I'm intrigued by this opportunity, especially since it can be combined with other work.\n\nCould you please provide more details about the job responsibilities? Also, what level of English proficiency is required for this role?\n\nLooking forward to hearing from Natalie Mills soon.\n\nHave a nice day too!\n\nBest wishes,\nJames"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_2240",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Associate,",
+        "body": "  Dear Associate,\nI am an Investment consultant. I work for the interest of two\nInvestors of Multinational Oil Companies who are willing to invest\nUSD$50.4 Million Dollars similar to a Venture Capital Fund in Stock.\nWe need a partner to receive our project Funds in your country as our\nInvestment Fund Director/Partner.\nDetails of the investment and funding will be furnished to you when I\nreceive your response, which will also facilitate a face to face\nmeeting with the investors\nKind Regards\nMr.roland ani   "
+    },
+    {
+        "from": "baiter_2240",
+        "to": "scammer_2240",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Associate,",
+        "body": "Dear Ani,\n\nThank you for reaching out to me with this investment opportunity. I'm always interested in learning about new ventures and potential partnerships. Could you please provide me with more details about the project? Specifically, I would like to know more about the oil companies involved, the expected returns on investment, and any potential risks associated with this venture.\n\nAdditionally, it would be helpful to understand what role you envision for me as the Investment Fund Director Partner. What responsibilities and tasks would be expected of me in this position?\n\nI look forward to hearing back from you soon.\n\nBest wishes,\nDenise"
+    },
+    {
+        "from": "scammer_2240",
+        "to": "baiter_2240",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Associate,",
+        "body": "Dear Mr. Denise,\r\n\r\nThis is to acknowledge the receipt of your email,the content therein is\r\nwell noted. Sir, I am sorry for my late reply to your email,as I explain to\r\nyou how this fund originated,it is US$50.4Million Dollars which my clients\r\nare looking for an investor who can invest these funds into Agricultural or\r\nmanufacturing industries properly without any stories at the end. If you\r\nare ready to work with my clients as a good investor, kindly contact me\r\non +233 592303413 for more discussion and to enable us to proceed on this\r\ninvestment funds to your country or any place of your choice. Note :all the\r\nrelevant documents concerning this fund are intact which will be sent to\r\nyou for your confirmation and we will also direct you on what to do.\r\n\r\nMeanwhile, feel free to forward all your contact information, such as your\r\nfull address/ Telephone Number  and your ID for identification including\r\nyour occupation,and the state of your origin and your status, as soon as I\r\nhear from you,I will give you all the information you need to know\r\nregarding this investment.\r\n\r\nWaiting to hear from you.\nBest Regards\r\nMr.Roland Ani\r\nFinancial Investment Consultant\r\nAccra-Ghana"
+    },
+    {
+        "from": "baiter_2240",
+        "to": "scammer_2240",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.021550925925925925,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Associate,",
+        "body": "Hello Mr. Ani,\n\nThank you for reaching out to me regarding the investment opportunity with your clients. I am interested in learning more about how we can proceed with this potential investment. Could you please provide me with further details on the nature of the funds and the industries they are looking to invest in? Additionally, what is the expected timeline for this investment opportunity?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDenise"
+    },
+    {
+        "from": "scammer_2240",
+        "to": "baiter_2240",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0353587962962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Dear Associate,",
+        "body": "Sir,\r\n\r\nPlease if you're not interested we don't need to waste your time or ours.\r\n\r\nThanks."
+    },
+    {
+        "from": "baiter_2240",
+        "to": "scammer_2240",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.04251157407407408,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Dear Associate,",
+        "body": "Hello! I appreciate your consideration. Could you please provide more details about what you're offering?\n\nBest wishes,\nDenise"
+    },
+    {
+        "from": "scammer_2240",
+        "to": "baiter_2240",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.14181712962962964,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Dear Associate,",
+        "body": "Dear Mr.Denise,\r\n\r\nThis is to acknowledge the receipt of your email,the content therein is\r\nwell noted. Sir, I am sorry for my late reply to your email,as I explain to\r\nyou how this fund originated,it is US$50.4Million Dollars which my clients\r\nare looking for an investor who can invest these funds into Agricultural or\r\nmanufacturing industries properly without any stories at the end. Now you\r\nhave sent your contact information to us,we are very happy and ready to\r\nwork with you,kindly add your first and second page  photo copies of your\r\nInternational passport or any ID of your identification.\r\n\r\nAs soon as i receive it, I will send you the deposit slip of this funds for\r\nyour confirmation and your security is 100% guarantee.Kindly contact me on\r\n+233 592303413 for more details and to enable us to proceed on this\r\ninvestment funds to your country or any place of your choice.\r\n\r\nWaiting to hear from you.\nBest Regards\r\nMr.Roland Ani\r\nFinancial Investment Consultant\r\nAccra-Ghana"
+    },
+    {
+        "from": "baiter_2240",
+        "to": "scammer_2240",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.1464236111111111,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Dear Associate,",
+        "body": "Hello,\n\nThank you for reaching out to me regarding the investment opportunity. I appreciate the information you have provided so far. Could you please clarify which industries these funds are intended for investment in? Additionally, what is the total amount of the funds that your clients are looking to invest?\n\nLooking forward to hearing back from you with more details.\n\nBest wishes,\nDenise"
+    }
+]

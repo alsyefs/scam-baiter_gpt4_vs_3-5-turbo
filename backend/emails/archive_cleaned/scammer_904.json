@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_904",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Attention,Beneficiary,",
+        "body": " Attention,Beneficiary,\nDear  Sir,\nPlease promise me that you are not going to show anybody the Video of\nthe packaging of the money which the President of Cote Divoire and the\nPrime minister with some top government officials have already\narranged to export the money to Overseas country and i included your\nname and payment to arranged it as if you are one of the former\nAmbassadors that served in our country.\nGive me your WhatsApp number so that i can forward the video to you.\nI am the director of Foreign payment/delivery agent to the president\nand their cabinet that will deliver your money to your\naddress in your country.I will give you the airway bill number and the\nflight arrangement\nfrom Abidjan to your country, so that you will wait for me on arrival so\nreconfirm your\naddress and direct telephone numbers.\nThe amount of $45.5million will be delivered to your address through a\nspecial arrangement by the diplomatic courier.\nPlease keep this information highly confidential until i arrive to you\nto avoid leakage and if you are not the rightful beneficiary of the\nmessage kindly delete the message to avoid putting me in trouble in\nCote Divoire and the red cross.\nYou will track your cargo to know when it will arrive to you.\nI am waiting for your urgent response through WhatsApp number +2250565845264.\nThanks\nYours Truly\nManuel Ndiako\n+2250565845264    "
+    },
+    {
+        "from": "baiter_904",
+        "to": "scammer_904",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  Attention,Beneficiary,",
+        "body": "Hello Manuel Ndiako,\n\nThank you for your message. It sounds like a very important matter that you're dealing with. I must admit, I'm a bit confused about some of the details. Could you please clarify what exactly this video is about? And why my name was included in it?\n\nAlso, you mentioned something about a delivery to my address. What kind of delivery are we talking about here? Is there any specific reason why it has to be delivered to me?\n\nI'm sorry but I can't provide my phone number at the moment. However, I'd be more than happy to continue our conversation here.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nTaylor"
+    }
+]

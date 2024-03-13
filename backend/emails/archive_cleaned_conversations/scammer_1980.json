@@ -1,0 +1,122 @@
+[
+    {
+        "from": "scammer_1980",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "We have deposited  your funds ",
+        "body": "We have deposited  your funds (10.5Milion USD) through\nWestern Union department after our final meeting Today\ncontact Western Union director Mr.   John\n \nHe will give you the instruction\nhow you will be\nreceiving $5000  each a day\nsend him your Full information to avoid wrong transfer such as,\n \nReceiver's Name__\nAddress: __\nCountry: __\nPhone Number: _\n \nFrom Ministry of Finance.\nyour Funds Worths $10.5Milion USD\n \nMr. John\nONLY ON THIS EMAIL ADDRESS\n(\nofficeservice231@gmail.com\n)"
+    },
+    {
+        "from": "baiter_1980",
+        "to": "scammer_1980",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: We have deposited  your funds ",
+        "body": "Hello there! Thank you for reaching out to me. I appreciate the information about the funds being deposited through Western Union. Could you please provide me with more details about how I will be receiving the funds each day? Also, what is the purpose of sending my full name? I just want to make sure everything is in order before proceeding. Looking forward to your response!\n\nBest wishes,\nThelma"
+    },
+    {
+        "from": "scammer_1980",
+        "to": "baiter_1980",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Attention",
+        "body": "I am very sorry, Because of your silent are you not interested to receive\r\nyour funds from this office\r\n\r\nPlease I want to know exactly what is going with you, Is because of the\r\nrequired fee that you can take lose your payment\r\n\r\nI really need to know exactly what is going on\r\nBecause you are about to lose your payment\r\n\r\nIf I did not hear from you then you will lose your payment\r\n\r\nGet back to me"
+    },
+    {
+        "from": "baiter_1980",
+        "to": "scammer_1980",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.944444444444444e-05,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Attention",
+        "body": "Hello,\n\nI apologize for the silence. I am interested in receiving my funds from your office, but I have some concerns regarding the required fee. Can you please provide more information about it? I want to understand what is going on before proceeding further. Thank you.\n\nLooking forward to your response.\n\nBest wishes,\nThelma"
+    },
+    {
+        "from": "scammer_1980",
+        "to": "baiter_1980",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.4141435185185185,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "You are not interested to receive your funds",
+        "body": ""
+    },
+    {
+        "from": "scammer_1980",
+        "to": "baiter_1980",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.6210532407407408,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "https://www.westernunion.com/global-service/tracktransfer MTCN:- 143-819-9906 Senders First name:-    Azubike Sender Last name:-      Nnekwe Amount transfer:-          $5000usd Your payment has been sent Go ahead and pick up your first payment immediately John Bell",
+        "body": "https://www.westernunion.com/global-service/tracktransfer\r\n\r\nMTCN:-                  143-819-9906\r\nSenders First name:-    Azubike\r\nSender Last name:-      Nnekwe\r\nAmount transfer:-          $5000usd\r\n\r\nYour payment has been sent\r\n\r\nGo ahead and pick up your first payment immediately\r\n\r\nJohn Bell"
+    },
+    {
+        "from": "scammer_1980",
+        "to": "baiter_1980",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.6211921296296297,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "https://www.westernunion.com/global-service/tracktransfer MTCN:- 143-819-9906 Senders First name:-    Azubike Sender Last name:-      Nnekwe Amount transfer:-          $5000usd Your payment has been sent Go ahead and pick up your first payment immediately John Bell",
+        "body": "https://www.westernunion.com/global-service/tracktransfer\r\n\r\nMTCN:-                  143-819-9906\r\nSenders First name:-    Azubike\r\nSender Last name:-      Nnekwe\r\nAmount transfer:-          $5000usd\r\n\r\nYour payment has been sent\r\n\r\nGo ahead and pick up your first payment immediately\r\n\r\nJohn Bell"
+    },
+    {
+        "from": "baiter_1980",
+        "to": "scammer_1980",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.017523148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: https://www.westernunion.com/global-service/tracktransfer MTCN:- 143-819-9906 Senders First name:-    Azubike Sender Last name:-      Nnekwe Amount transfer:-          $5000usd Your payment has been sent Go ahead and pick up your first payment immediately John Bell",
+        "body": "Hello John Bell,\n\nThank you for reaching out to me. I appreciate the update regarding my payment. Could you please provide me with more details about the payment? How was it sent and what is the amount?\n\nI want to make sure that everything is in order before proceeding.\n\nBest wishes,\nThelma"
+    },
+    {
+        "from": "baiter_1980",
+        "to": "scammer_1980",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.2674652777777777,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: https://www.westernunion.com/global-service/tracktransfer MTCN:- 143-819-9906 Senders First name:-    Azubike Sender Last name:-      Nnekwe Amount transfer:-          $5000usd Your payment has been sent Go ahead and pick up your first payment immediately John Bell",
+        "body": "Hello John Bell,\n\nThank you for reaching out to me. I appreciate the update regarding my payment. Could you please provide me with more details about the payment? How was it sent and what is the amount?\n\nI want to make sure that everything is in order before proceeding.\n\nBest wishes,\nThelma"
+    },
+    {
+        "from": "baiter_1980",
+        "to": "scammer_1980",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.74761574074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: https://www.westernunion.com/global-service/tracktransfer MTCN:- 143-819-9906 Senders First name:-    Azubike Sender Last name:-      Nnekwe Amount transfer:-          $5000usd Your payment has been sent Go ahead and pick up your first payment immediately John Bell",
+        "body": "Hello John Bell,\n\nThank you for reaching out to me. I appreciate the update regarding my payment. Could you please provide me with more details about the payment? How was it sent and what is the amount?\n\nI want to make sure that everything is in order before proceeding with picking up the payment.\n\nBest wishes,\nThelma"
+    },
+    {
+        "from": "baiter_1980",
+        "to": "scammer_1980",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.893599537037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: You are not interested to receive your funds",
+        "body": "Hello! How can I help you today?\n\nBest wishes,\nThelma"
+    },
+    {
+        "from": "baiter_1980",
+        "to": "scammer_1980",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.039016203703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: https://www.westernunion.com/global-service/tracktransfer MTCN:- 143-819-9906 Senders First name:-    Azubike Sender Last name:-      Nnekwe Amount transfer:-          $5000usd Your payment has been sent Go ahead and pick up your first payment immediately John Bell",
+        "body": "Hello John Bell,\n\nThank you for reaching out to me. I appreciate the update regarding my payment. Could you please provide me with more details about the payment? How was it sent and what is the amount?\n\nI want to make sure that everything is in order before proceeding with picking up the payment.\n\nBest wishes,\nThelma"
+    }
+]

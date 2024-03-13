@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_289",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "BMW Dealership",
+        "body": "BMW Dealership\n         Greetings from Bavarian Engine Works Company.\nWe are very gratified to be at your service and we written to inform you\nabout your BMW winning fund that brought by the United Embassy from\nthe government\nof USA in the white house Washington DC.The 2 BMW X6 cars and a check\nof $12, million dollars have been \nmandated\nto be deliver to your residential house address as soon as you get\nback to us with these\nfollowing details;\nYour current home address::::::?\nYour full name::::::?\nOccupation::::::?\nPhone no::::::?\nNext of kin::::::?\ncontact us within these days  with your full delivery informations.\nThanks as we're waiting for your reply.\nOliver Zipse CEO,\nSebastian Mackensen CEO /President of BMW Group.\nYours Sincerly."
+    },
+    {
+        "from": "baiter_289",
+        "to": "scammer_289",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: BMW Dealership",
+        "body": "Hello there,\n\nWow, this is such exciting news! I can't believe my luck. I've always been a fan of BMW cars and to hear that I've won one is just incredible. \n\nCould you please tell me more about this? How was I chosen for this amazing prize? And could you also explain a bit more about the check of million dollars? That's an enormous amount of money!\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nSteven"
+    },
+    {
+        "from": "scammer_289",
+        "to": "baiter_289",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "BMW Dealership",
+        "body": "Go ahead and send your information now"
+    },
+    {
+        "from": "baiter_289",
+        "to": "scammer_289",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.11135416666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: BMW Dealership",
+        "body": "Hello there! I'm ready to receive the information you want to share. Could you please elaborate on it?\n\nBest wishes,\nSteven"
+    }
+]

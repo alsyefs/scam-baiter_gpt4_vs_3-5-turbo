@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1362",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Hello,",
+        "body": "   Hello,\nHappy new year to you and please do not be surprised to receive and read my message, my name is Mr. Murat Akume, I was the financial adviser to the late Mrs Surati who died last year. I got your address in my search to invest in a lucrative project in your country. Please contact me for more details.\nSincerely,\nMr Murat Akume\n "
+    },
+    {
+        "from": "baiter_1362",
+        "to": "scammer_1362",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    Hello,",
+        "body": "Hello Mr. Murat Akume,\n\nThank you for reaching out to me and wishing me a happy new year. I appreciate your message and I'm interested to learn more about the investment opportunity you mentioned. Could you please provide me with some additional details? What kind of project are you looking to invest in?\n\nBest wishes,\nTraci"
+    }
+]

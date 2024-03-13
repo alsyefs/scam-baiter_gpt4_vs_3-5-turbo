@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_1840",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Greetings",
+        "body": "  Greetings\nI am Mr. Peter Ben, Kay Account Manager in well-known Bank, herein\nLondon, England.\nHowever, I have already sent you this same letter by post one month\nago, but I am not sure that the letter promptly gets to you since I\nhave not heard from you, now i am re-sending it again.\nI discovered a dormant account in my office, as Group Accountant with\nAhliUnited Bank (UK).\nIt will be in my interest to transfer this fund worth of £68.5M pounds\n(Sixty Eight Million Five hundred thousand pounds) in an account\noffshore.\nCan you be my partner?\nRegards and respect,\nMr. Peter Ben   "
+    },
+    {
+        "from": "baiter_1840",
+        "to": "scammer_1840",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Greetings",
+        "body": "Hello Mr. Peter Ben,\n\nI hope this message finds you well. I'm intrigued by your proposal, it sounds like quite an interesting situation you've found yourself in! \n\nCould you please provide more details about this dormant account? How did you come across it and why is it currently inactive? Also, could you explain a bit more about what being your partner would entail?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nAnnie"
+    },
+    {
+        "from": "scammer_1840",
+        "to": "baiter_1840",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re:   Greetings",
+        "body": "Attn: Annie,\r\n\r\nI want to let you know that the fund has been moved to Cambodia for security reasons.  You are required to travel to Cambodia to claim this fund cash as the fund has been deposited there.  If you are ready to travel there you should let me know so that I will tell you the requirements that you need before you embark on the trip.\r\n\r\nI wait to hear from you.\r\n\nPeter Ben"
+    },
+    {
+        "from": "baiter_1840",
+        "to": "scammer_1840",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0005324074074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re:   Greetings",
+        "body": "Hello Peter Ben,\n\nThank you for your message. It's quite interesting to hear that the fund has been moved to Cambodia. I've never been there before, but I've heard it's a beautiful country.\n\nCould you please provide more details about this trip? For instance, where exactly in Cambodia would I need to go? And what kind of preparations would be necessary for such a journey?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAnnie"
+    },
+    {
+        "from": "scammer_1840",
+        "to": "baiter_1840",
+        "direction": "Inbound",
+        "days_from_first_conversation": 24.964594907407406,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re:   Greetings",
+        "body": "Attn: Annie,\r\n\r\nI write to remind you of the claim of the fund which I earlier proposed to you.  Please be reminded that we have no much time to delay further.  If you are not ready to work with me so that you can claim this fund, i will stop communicating with you if I do not hear from you.\r\n\r\nI wait to hear from you\r\n\nPeter Ben"
+    },
+    {
+        "from": "baiter_1840",
+        "to": "scammer_1840",
+        "direction": "Outbound",
+        "days_from_first_conversation": 24.97908564814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re:   Greetings",
+        "body": "Hello Peter Ben,\n\nThank you for reaching out to me. I appreciate your reminder about the fund claim. Could you please provide more details about this? What exactly is this fund for and how did it come about? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAnnie"
+    },
+    {
+        "from": "scammer_1840",
+        "to": "baiter_1840",
+        "direction": "Inbound",
+        "days_from_first_conversation": 24.981863425925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re:   Greetings",
+        "body": "Attn:  Annie,\r\n\r\nThis fund was kept in a safe in my bank which on one lays claim to it and I am the only one who knows about it.  So I want to move this fund to your own country so that both of us can find a good lucrative investment to make.  You will have your own share of the fund while I have mine.\r\n\r\nBut befoore we proceed I need you to confirm your full infomation to me such as your full names, address and any form of your identification card.\r\n\r\nI wait to hear from you\r\n\nPeter Ben"
+    },
+    {
+        "from": "baiter_1840",
+        "to": "scammer_1840",
+        "direction": "Outbound",
+        "days_from_first_conversation": 25.020520833333332,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re:   Greetings",
+        "body": "Hello Peter Ben,\n\nThank you for reaching out and sharing this information with me. It sounds like an interesting opportunity, but I have a few questions before we proceed further.\n\nCould you please explain more about the nature of this fund? How did it come to be in your bank without anyone laying claim to it? Also, what kind of lucrative investments are you considering?\n\nI'm sorry, but I can't provide my full personal details at this stage. I hope you understand that it's important to maintain privacy in online communications. \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAnnie"
+    }
+]

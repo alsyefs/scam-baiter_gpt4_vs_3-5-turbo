@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2249",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "ROYAL BANK OF SCOTLAND PLC (RB",
+        "body": "ROYAL BANK OF SCOTLAND PLC (RBS)\nHead Office Address: Junghofstraße 22, 60311,\nFrankfurt Am Main, Germany\nPhone: +49 69 26906 523\nFax: +49 69 26906 444\nE-Mail: \nroyalbank1832@gmail.com\nKind Attn Sir/Madam,\nWith all due respect, Sir, I would first like to introduce myself: I am Ms. Angela Reilly, Managing Director of Royal Bank of Scotland Germany. I would like to inform you that your payment file has been forwarded to my desk. And we also discovered that a huge amount of money was involved.\nHowever, you may be surprised to see this message because you have experienced in the past with the formal bank representative who tried to make this payment to you but failed to do so due to greed and self-centeredness. For this reason, the European Union has intervened on your behalf. We have given the go-ahead to pay you €3,510,000 Euros. We would like to hear from you to confirm whether we have appointed the correct beneficiary.\nWe are waiting for your answer.\nMrs. Angela Reilly\nManaging Director (RBS) Germany"
+    },
+    {
+        "from": "baiter_2249",
+        "to": "scammer_2249",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: ROYAL BANK OF SCOTLAND PLC (RB",
+        "body": "Dear Mrs. Angela Reilly,\n\nThank you for reaching out to me regarding my payment file. I appreciate your assistance in this matter. Could you please provide me with more details about the payment and the European Union's intervention? I want to make sure that everything is in order before proceeding.\n\nAlso, could you clarify what you mean by appointing the correct person? Is there any additional information or documentation that you require from me to confirm my identity?\n\nI look forward to your response.\n\nBest wishes,\nSanjuana"
+    }
+]

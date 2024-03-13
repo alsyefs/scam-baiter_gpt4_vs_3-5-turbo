@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1525",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Attn:",
+        "body": "   Attn:\nDear Beneficiary.\nThis is to inform you that the fund US$10,500,000.00 only which you are expecting to be deposited into your bank account today has been suspended and placed on hold in our headquarters escrow due to the current United Nations financial regulations.\nYou have to submit ( United Nations Fund Regulation Clearance ) before the hold on your transferred fund will be lifted and your fund deposited immediately into your domicile account.\nYour fund was to hit your account today after several years of delay but with this development it has to be stepped down pending when you present us with the Clearance certificates within the next Five working days .\nYours Sincerely ,.\nMr Mike Foster .\nCustomers Relation Officer\nINTERNATIONAL MONETARY FUND HEADQUARTERS\nNEW YOUR USA ..  "
+    },
+    {
+        "from": "baiter_1525",
+        "to": "scammer_1525",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    Attn:",
+        "body": "Dear Mr. Mike Foster,\n\nThank you for reaching out to me regarding the fund that I am expecting to be deposited into my bank account. I appreciate your update on the current situation.\n\nI understand that there is a hold on the fund in the escrow due to the United Nations financial regulations. Could you please provide me with more information about these regulations and why they are necessary? I want to make sure I fully understand the process and requirements.\n\nAdditionally, could you please explain what the United Nations Fund Regulation Clearance is and how I can obtain it? Are there any specific documents or forms that I need to submit?\n\nI look forward to your response and appreciate your assistance in resolving this matter.\n\nBest wishes,\nDarius"
+    },
+    {
+        "from": "scammer_1525",
+        "to": "baiter_1525",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Attn: Mr David",
+        "body": "Attn: Mr David .\r\n\r\nRe: Clearance Document For Fund Release.\r\n\r\nThanks for your email reply about your fund release clearance document.\r\n\r\nYes your fund is on hold because the fund regulatory authority wants to\r\nmake sure you are free from any crime or drugs related transactions.\r\n\r\nSo the only way your can clear that is by obtaining the Fund Release\r\nClearance Certificate. This document will have your details indicating that\r\nyou are free and will also give mandate for your fund to be released with\r\nimmediate effects.\r\n\r\nSo to obtain this Fund Clearance Document you have to contact Mr Pete\r\nGlovers at the United Nations Office through his details..\r\n\r\nName : Pete Glovers\r\nEmail: UNITEDNATIONCOMP@mail.com\r\nDirect line : +720 600 6969\r\n\r\nThank you ,\r\n\r\nMark F ."
+    },
+    {
+        "from": "baiter_1525",
+        "to": "scammer_1525",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.49688657407407405,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Attn: Mr David",
+        "body": "Hi Mark,\n\nThank you for reaching out and providing me with this information. I appreciate your help in explaining why my fund is on hold. Obtaining the Fund Release Clearance document sounds important to ensure that everything is in order.\n\nCould you please provide me with more details about Mr. Pete Glovers at the United Nations Office? How can I contact him? And what information will he need from me to assist with obtaining the Fund Clearance Document?\n\nI look forward to your response.\n\nBest wishes,\nDarius"
+    }
+]

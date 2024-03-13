@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2380",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello",
+        "body": "Hello\nI hope this message finds you well. My name is Dr Saad Greyman,\n a licensed oncologist representing the World Health Organization (WHO). We're in search of a reliable supplier for Monoclonal antibodies (mAbs) to support vaccine development.\nI am contacting you because you showed interest from the response from my colleague Lillian's email sent to you. I'm interested in acting as a liaison between you and WHO to facilitate a partnership for the supply of some tons of Monoclonal antibodies, not to worry, I know the procedures and where you can get the products at wholesale price.\nTo protect confidentiality, we require a Non Disclosure Agreement (NDA) before proceeding. Once signed, we can delve into the details of this venture, from registering you as a WHO Vendor to getting a supply license and doing official introduction to manufacturers of the products. I see great potential for profitability, and we can share profits based on our respective capital contributions.\nWHO has allocated over $100 million for this purchase, making it a lucrative opportunity. With my expertise, I aim to ensure a smooth and successful collaboration.\nCould we schedule a brief meeting to discuss this further and address any questions you may have? Please share your availability for a virtual meeting.\nThank you for considering this proposal, and I look forward to the possibility of a fruitful partnership.\nBest regards,\nDr Saad Greyman\nSenior Oncologist\nRepresentative, World Health Organization (WHO)"
+    },
+    {
+        "from": "baiter_2380",
+        "to": "scammer_2380",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello",
+        "body": "Hello Dr. Saad Greyman,\n\nI hope this message finds you in good health. I am indeed interested in your proposal and would like to learn more about it. It's great to know that the World Health Organization is taking such initiatives.\n\nHowever, before we proceed, could you please provide me with more information about these Monoclonal antibodies? What exactly are they used for? And how does the supply process work?\n\nAlso, I'm curious about the Non Disclosure Agreement (NDA). Could you explain a bit more about its purpose and what it entails?\n\nLastly, regarding the meeting, I'd be happy to discuss further. However, could we perhaps communicate via email or another online platform instead of sharing personal contact details?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRussell"
+    }
+]

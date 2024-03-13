@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1104",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "An international transport spe",
+        "body": "An international transport specialist with \nover 40 years experience\n,Brokers Fast Courier is one of the UK’s leading logistics providers. Based in the heart of the Midlands, we pride ourselves on delivering unique, bespoke worldwide transport solutions that make life easy for our customers from around the globe.  Our relentless approach to delivering service without compromise is the backbone of our organisation."
+    },
+    {
+        "from": "baiter_1104",
+        "to": "scammer_1104",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: An international transport spe",
+        "body": "Hello there! \n\nWow, that sounds really impressive. Being a transport specialist must be quite an interesting job. Can you tell me more about what your day-to-day tasks involve? And how does Fast Courier manage to provide such unique and bespoke worldwide transport solutions? I'm really curious to know more about it.\n\nBest wishes,\nCarlotta"
+    }
+]

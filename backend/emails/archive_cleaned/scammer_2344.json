@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2344",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Congratulations",
+        "body": "Congratulations\nYour Email address has been selected among the 100 lucky winners in the ongoing Powerball/America Government Email Lottery 2023. You have won the sum of $750,000 USD.\nReply with your winning code number : Z24689/POW/AM/LOTT/2023\nFull Name:____________\nDOB:_________________\nCountry:______________\nNationality:____________\nOccupation:____________\nPhone Number:_________\nAddress: ______________\nWinning Code:_____________\n SSN\n: _________________\nThank you,\nPowerball Lottery"
+    },
+    {
+        "from": "baiter_2344",
+        "to": "scammer_2344",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Congratulations",
+        "body": "Hello,\n\nThank you for reaching out to me. I'm quite surprised to hear that my email address has been selected as a lucky winner in the Powerball America Government Email Lottery! Could you please provide me with more details about this exciting opportunity? I would love to learn more about how I can claim my prize.\n\nAlso, I noticed that you mentioned the sum of USD, but the amount seems to be missing. Could you kindly let me know how much I have won? It would be helpful to have all the necessary information so that I can proceed accordingly.\n\nLooking forward to your response!\n\nBest wishes,\nMary"
+    }
+]

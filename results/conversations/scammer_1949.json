@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1949",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "DID YOU AUTHORIZED.MRS VIVIAN ",
+        "body": "DID YOU AUTHORIZED.MRS VIVIAN HENRY, TO CLAIM\nI WRITE TO INFORM YOU THAT MRS VIVIAN HENRY CAME TO OUR OFFICE THIS\nMORNING AND MADE IT CLEAR TO US THAT YOU HAS ACCIDENT AND YOUR IN THE\nHOSPITAL THAT IS WHY YOU SIGN AGREEMENT CLAIMING WITH HER TO CLAIM\nYOUR CASH CONSIGNMENT BOX VALUE $32. MILLION DOLLARS ON YOUR BEHALF.\nAS YOUR NEXT OF KIN,\nIN FACT THIS WAS THE BIGGEST SHOCK.I ASKED HER WHO AUTHORIZED HER TO\nCOME DOWN TO O'HARE INTERNATIONAL AIRPORT CHICAGO U.S.A WITH $100 FOR\nCLEARANCE CERTIFICATE FOR THE COLLECTION OF THIS CASH CONSIGNMENT BOX\nAND SHE TOLD US THAT YOU ASKED HER TO COME AND COLLECT THIS\nCONSIGNMENT BOX ON YOUR BEHALF,\nIF IT IS NOT TRUE THAT YOU HAS ACCIDENT KINDLY GO AHEAD AND SEND THIS\n$100 TODAY FOR URGENT OBTAIN THE CLEARANCE CERTIFICATE TO RELEASE OF\nTHIS CASH CONSIGNMENT BOX TO YOU. AND WE WANT YOU TO RECONFIRM YOUR\nDELIVERY ADDRESS TO AVOID WRONG DELIVERY WITH YOUR ID OR PASSPORT,AND\nBEAR IT IN MIND THERE IS NO WAY THE FEE CAN BE DEDUCTED FROM YOUR\nCONSIGNMENT BOX THAT IS THE LAW,\nTHIS IS BIGGEST SHOCK AND YOU ARE SERIOUSLY ADVISED TO GO AHEAD AND\nSEND THE $100 I TUNES CARD OR STEAM WALLET GIFT CARD GENTLY SCRATCH IT\nAND SEND THE PHOTO TO ME TO PROCEED IMMEDIATELY,\nI ADVISED YOU TO TRY MUCH AS YOU CAN TO COME UP WITH THE NEEDED $100\nTO URGENT OBTAIN THE CLEARANCE CERTIFICATE AND RELEASE YOUR\nCONSIGNMENT BOX TO YOU,\nNOTE: \nYOU HAVE A LIMITED TIME TO PAY THIS FEE TODAY AND TOMORROW\n, IF\nYOU FAIL TO COMPLY WITH US TODAY AND TOMORROW BY SEND THE FEE YOUR\nCONSIGNMENT BOX WILL BE RELEASE TO MRS VIVIAN HENRY AS YOUR NEXT OF\nKIN.\nTHANKS\nMR.MARTHA WIILAM\nUPS EXPRESS COURIER COMPANY"
+    },
+    {
+        "from": "baiter_1949",
+        "to": "scammer_1949",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: DID YOU AUTHORIZED.MRS VIVIAN ",
+        "body": "Hello Wiilam,\n\nOh my, this is quite a surprise! I hope Mrs. Vivian Henry is doing well. I'm not in the hospital, thankfully. It's strange that she would say such a thing.\n\nI'm curious about this cash box you mentioned. Can you tell me more about it? How did it come to be in my name? And why does Mrs. Vivian Henry want to claim it?\n\nAlso, could you explain what the Tunes card or Steam Wallet gift card is for? I've never used one before.\n\nLooking forward to your response!\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1949",
+        "to": "baiter_1949",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: DID YOU AUTHORIZED.MRS VIVIAN",
+        "body": ""
+    },
+    {
+        "from": "baiter_1949",
+        "to": "scammer_1949",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0004166666666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: DID YOU AUTHORIZED.MRS VIVIAN",
+        "body": "Hello there,\n\nI hope you're having a great day! I'm really interested in learning more about what you have to offer. Could you please provide me with some more details? I'm all ears and ready to understand better.\n\nLooking forward to your response.\n\nBest wishes,\nJames"
+    }
+]

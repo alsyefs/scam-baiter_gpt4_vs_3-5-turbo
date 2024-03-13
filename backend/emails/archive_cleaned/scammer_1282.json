@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1282",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good Day,",
+        "body": "Good Day,\nMy name is Joel and I work as a Senior Investment executive of an investment and financing firm. We seek individuals with proficient abilities to manage and invest a vast wealth for an Investor. The Investor has a substantial amount of money to invest in any good business that will bring good return on Project/investment either in your country or anywhere in the world. My client is looking for a reliable, trustworthy and competent person to partner with.\nThe Investor is willing to negotiate the terms and conditions to suit your best interest. The Investor will fund the investment from start to finish and is willing to accept a 3% annual return on investment. If you find this offer encouraging please indicate by a return email, I am open to further discussions on this subject if you are interested.\nYours truly\nJoel D. Kennedy"
+    },
+    {
+        "from": "baiter_1282",
+        "to": "scammer_1282",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Good Day,",
+        "body": "Hello Joel,\n\nThank you for reaching out and considering me for this opportunity. It's quite an honor to be considered as a potential partner in such a venture.\n\nI'm intrigued by the prospect of working with your client on a project that could bring about good returns. However, I would like to know more about the nature of these projects. What kind of businesses or industries is your client interested in? Are there any specific regions or countries they are particularly keen on investing in?\n\nAlso, it would be helpful if you could provide some more details about the terms and conditions that your client is willing to negotiate. What kind of involvement does your client expect from their partners? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSadie"
+    }
+]

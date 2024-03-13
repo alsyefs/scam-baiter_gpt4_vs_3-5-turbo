@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2581",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Dear Beneficiary,",
+        "body": " Dear Beneficiary,\nWe are writing to inform you that, following our board meeting, the management of the International Monetary Fund (IMF) has made the decision to lift the ban on your ATM card payment delivery order. We are pleased to inform you that we have also waived the initial charges associated with this delivery order and have adjusted the price rate to ensure that customers can receive their ATM card payment without any further delays.\nWe kindly advise you to take advantage of this opportunity to receive your long overdue payment. It has been a significant period of time since the payment was first initiated.\nAs instructed by the management, I am providing you with this information and updating you on the new delivery schedule. \nPlease note that there is now a delivery price of $125.\n Furthermore, we strongly advise you to refrain from engaging in any further communication regarding the delivery of your ATM card funds with any other organization or office.\nOnce we receive your response regarding this message, the process of delivering your ATM card will commence promptly.\nFor easy communication, please contact The postmaster  at the following numbers.\nOFFICE PHONE: +1(302) 752-2756\nWHATSAPP NUMBER: + (806) 726-0824\nEMAIL: \nvangaurdcouier@proton.me\nYours sincerely,\nKristalina Georgieva\nIMF Managing Director .\n "
+    },
+    {
+        "from": "baiter_2581",
+        "to": "scammer_2581",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  Dear Beneficiary,",
+        "body": "Dear Kristalina Georgieva,\n\nThank you for reaching out to me regarding the lifting of the ban on my ATM card payment delivery order. I appreciate the update and the waiver of the initial charges. It's good to know that the price rate has been adjusted as well.\n\nI would like to proceed with receiving my long overdue payment. Could you please provide me with more details about the new delivery schedule? I want to ensure that everything goes smoothly.\n\nAlso, could you clarify what you mean by \"delivery price\"? Is there a cost associated with receiving my ATM card?\n\nLastly, I want to make sure that I am only communicating with the authorized personnel from IMF. Are there any specific contact details or protocols I should follow to ensure a secure and legitimate transaction?\n\nThank you for your assistance.\n\nBest wishes,\nEdward"
+    }
+]

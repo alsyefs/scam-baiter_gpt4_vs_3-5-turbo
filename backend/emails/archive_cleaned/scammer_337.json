@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_337",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Dear.Sir/Madam.",
+        "body": " Dear.Sir/Madam.\nWe are glad to inform you that your compensation funds of 8,500,000.00 United State Dollars has been converted into cash and packaged in a consignment. The UN diplomatic agent is in the united state with the consignment; all you need to do now is to contact the diplomatic agent in us with your full names and delivery address so he can deliver your consignment to your door step without any further delays.\nDetails of the diplomatic agent listed below:\nName: Mark Carney\nEmail:carneymark04@gmail.com\nCongratulations once more.\nRegards,\nMr.Richard Markham\nUN Payment Director.\n "
+    },
+    {
+        "from": "baiter_337",
+        "to": "scammer_337",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  Dear.Sir/Madam.",
+        "body": "Hello Markham,\n\nThank you for your message. I'm thrilled to hear about this! Could you please provide me with more details? How was my name selected for this? And could you also explain the process of how these funds will be delivered to me?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nStacey"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_613",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings to you Dear Valued C",
+        "body": "Greetings to you Dear Valued Customer, did you sign anyone as the next of kin to your fund worth $16.5 million dollars. We have one Mrs Linda Summer who has been sending mails to our office claiming you are dead that he is the one who you signed as the next of kin to your fund. Please we want to confirm first if you are dead or alive before we can hand over your fund to her as your next of kin, if you are still alive kindly send us a message to show you are still alive.\nThere's no more fee for this delivery my dear good friend just only $20 single apple card or steam card for signing up your funds to be sure that the car and the consignment box belongs to you\nAfter you send the signing fee now, you will receive your car and your consignment box within 20 minutes more\nMake sure you contact our office email address with all your full information asap\nHere is our office email address for you to contact\n(\ndoffice217@gmail.com\n)\nARE YOU DEAD OR ALIVE"
+    },
+    {
+        "from": "baiter_613",
+        "to": "scammer_613",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings to you Dear Valued C",
+        "body": "Hello there! Thank you for reaching out to me. I must say, your email has caught my attention. It's quite interesting that someone named Mrs. Linda Summer is claiming to be my next of kin. I assure you, I am very much alive and well.\n\nHowever, I have a few questions before proceeding further. Could you please provide more details about the fund in question? How did this situation come about? And what exactly is the purpose of the apple card or steam card you mentioned?\n\nI appreciate your assistance in clarifying these matters. Looking forward to hearing from you soon!\n\nBest wishes,\nNicholas"
+    },
+    {
+        "from": "scammer_613",
+        "to": "baiter_613",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Greetings to you Dear Valued C",
+        "body": "What do you mean"
+    },
+    {
+        "from": "baiter_613",
+        "to": "scammer_613",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.12145833333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Greetings to you Dear Valued C",
+        "body": "Hello! I hope you're doing well. I wanted to share some exciting information with you. Have you ever heard of a unique investment opportunity that guarantees high returns? It's called cryptocurrency trading. With just a small initial investment, you can make huge profits in no time. Would you be interested in learning more about it?\n\nBest wishes,\nNicholas"
+    }
+]

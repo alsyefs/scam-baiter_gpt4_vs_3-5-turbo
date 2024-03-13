@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1394",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Citigroup Centre, 33 Canada ",
+        "body": "  Citigroup Centre, 33 Canada Square, London E14 5LB, United Kingdom\nAttn:   ,\n                 RE:   YOUR FUND TRANSFER INFORMATION \n The bank is waiting for your payment message of the $1,800 fee, because your $8.3m fund is already here to be credited into your account . \n confirm your account below where your fund will be transferred . \n With this , you are to make the payment as soon as possible to the below account of the bank because we don't have any time to delay . \n  - Bank Name: Citibank.\n- Account Number: 4203945XXXX\n- Swift Code: CITIUS33.\n- Routing Number: 322271724.\n- Beneficiary Name: T. M.\n- Bank Address: Citibank, 9100 Woodman Ave, Arleta, CA 91331.\nSend a copy of your payment for confirmation . your transaction is ready ,\nYOURS TRULY,\nMark Mason\nChief Financial Officer   "
+    },
+    {
+        "from": "baiter_1394",
+        "to": "scammer_1394",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Citigroup Centre, 33 Canada ",
+        "body": "Hello Mark Mason,\n\nThank you for reaching out to me. I appreciate the information you have provided regarding my fund being ready to be credited into my account. However, before proceeding with any payment, I would like to gather some more details and clarify a few things.\n\n1. Can you please confirm the exact amount of the fee that needs to be paid?\n2. What is the purpose of this fee? Is it a processing fee or something else?\n3. Could you provide me with more information about the bank where I should make the payment? Such as the name of the bank, its address, and any other relevant details.\n4. Is there a specific deadline by which I need to make this payment?\n\nI look forward to your response so that we can proceed accordingly.\n\nBest wishes,\nJill"
+    }
+]

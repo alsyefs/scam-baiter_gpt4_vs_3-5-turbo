@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1121",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Re: Letter",
+        "body": "  Re: Letter\nDid you receive my previous email to you?\nCT..   "
+    },
+    {
+        "from": "baiter_1121",
+        "to": "scammer_1121",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Re: Letter",
+        "body": "Hello,\n\nYes, I received your previous email. How can I assist you today?\n\nBest wishes,\nJoseph"
+    }
+]

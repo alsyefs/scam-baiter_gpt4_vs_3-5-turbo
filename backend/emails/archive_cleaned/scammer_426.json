@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_426",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " CENTRAL INTELLIGENCE AGENCY H",
+        "body": " CENTRAL INTELLIGENCE AGENCY HEADQUARTER\nAddress: Central Intelligence Agency\nOffice of Public Affairs\nWashington, D.C. 20505\nCENTRAL INTELLIGENCE AGENCY SEEKING TO WIRE TAP THE INTERNET\nDear : \n \nYour email has been received, I wait to hear from you soon\nwith the payment receipt once you return from your Bank.\nWilliam Joseph Burns\nDirector of the\nCentral Intelligence Agency\n+1 402 263-0554   "
+    },
+    {
+        "from": "baiter_426",
+        "to": "scammer_426",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  CENTRAL INTELLIGENCE AGENCY H",
+        "body": "Hello there,\n\nThank you for reaching out to me. I must admit, the subject of wiretapping the internet sounds quite intriguing. Could you please provide me with more information about what exactly the Central Agency is seeking to achieve through this process? I'm curious to learn more about it.\n\nAlso, if you don't mind me asking, what is the purpose behind requesting a payment receipt from my bank? How does that tie into the wiretapping process?\n\nLooking forward to hearing back from you soon.\n\nBest wishes,\nLouis"
+    }
+]

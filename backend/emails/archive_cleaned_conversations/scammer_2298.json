@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_2298",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello,",
+        "body": "Hello,\n    I am Mrs. Sascha Grenda, a legitimate, reputable money lender. We are a company with financial assistance. We loan funds out to individuals in need of financial assistance, or in need of money to pay bills, to invest on business. I'll be glad to offer you a loan. Email us now via (\nsascha_grenda@aol.com\n)\nName Of Beneficiary:.........\nCountry:............\nAmount Required...........\nLoan Duration:..........\nPhone Number............\nSex:............\nHome Address:............\nRegards.\nMrs Sascha Grenda"
+    },
+    {
+        "from": "baiter_2298",
+        "to": "scammer_2298",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello,",
+        "body": "Hello Mrs. Sascha Grenda,\n\nThank you for reaching out to me. It's really interesting that your company offers financial assistance to those in need. I'm curious, what kind of businesses do you usually support? And how does the loan process work? \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_2298",
+        "to": "baiter_2298",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Hello,",
+        "body": "*Hello,       Your email was received and well noted, the name of our company is  SASCHA GRENDA FINANCE, I will also want you to understand that getting a loan from this company is 100 % assured all you have to do is fill the loan application and get back to us so that we can proceed with the transfer okay. TERMS AND POLICY OF THE COMPANY * 1 The Borrower must be at least 18yrs old* 2 The loan may be sent to you via bank to bank transfer, Western Union or Money Gram depending on your choice.* 3 The interest rate is 2%* 4 We offer basically Personal and Business Loans LOAN APPLICATION FORM. Full Name:...................................Personal Phone Number:.............Country:......................Loan Amount Needed:.....Loan Duration:...............Sex:......…Home Address:………….. Await your urgent email now You are required to send this data so that the loan can be processed. The firm will be waiting for your urgent response to this email so that we can proceed to the next step of this transaction. ThanksMrs. Sascha Grenda"
+    },
+    {
+        "from": "scammer_2298",
+        "to": "baiter_2298",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0005092592592592592,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Re: Re:",
+        "body": "*Hello,       Your email was received and well noted, the name of our company is  SASCHA GRENDA FINANCE, I will also want you to understand that getting a loan from this company is 100 % assured all you have to do is fill the loan application and get back to us so that we can proceed with the transfer okay. TERMS AND POLICY OF THE COMPANY * 1 The Borrower must be at least 18yrs old* 2 The loan may be sent to you via bank to bank transfer, Western Union or Money Gram depending on your choice.* 3 The interest rate is 2%* 4 We offer basically Personal and Business Loans LOAN APPLICATION FORM. Full Name:...................................Personal Phone Number:.............Country:......................Loan Amount Needed:.....Loan Duration:...............Sex:......…Home Address:………….. Await your urgent email now You are required to send this data so that the loan can be processed. The firm will be waiting for your urgent response to this email so that we can proceed to the next step of this transaction. ThanksMrs. Sascha Grenda"
+    },
+    {
+        "from": "baiter_2298",
+        "to": "scammer_2298",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0005208333333333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Hello,",
+        "body": "Hello Sascha Grenda,\n\nThank you for your prompt response. It's great to hear about the services offered by SASCHA GRENDA FINANCE. I'm interested in learning more about your loan process.\n\nCould you please provide me with more details about the interest rate? You mentioned it in your email, but didn't specify the percentage. Also, could you explain a bit more about how the repayment works? Is there a specific schedule or is it flexible?\n\nI'm also curious about the transfer methods. How does each one work and are there any fees associated with them?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "baiter_2298",
+        "to": "scammer_2298",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0012152777777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Re: Re:",
+        "body": "Hello Sascha Grenda,\n\nThank you for your prompt response. It's great to hear about the services offered by SASCHA GRENDA FINANCE. I'm intrigued by the loan options available.\n\nHowever, before proceeding further, could you please provide more details about the terms and conditions? Specifically, I'm interested in understanding the interest rate better. You mentioned it in your email but didn't specify a number.\n\nAlso, could you elaborate on the repayment schedule? How flexible is it? And what happens in case of any unforeseen circumstances where I might not be able to make a payment on time?\n\nI appreciate your patience and look forward to hearing from you soon.\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_2298",
+        "to": "baiter_2298",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.003761574074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Re:",
+        "body": "Fill the application \r\nLOAN APPLICATION FORM. Full Name:...................................Personal Phone Number:.............Country:......................Loan Amount Needed:.....Loan Duration:...............Sex:......…Home Address:………….. Await your urgent email now"
+    },
+    {
+        "from": "baiter_2298",
+        "to": "scammer_2298",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.003946759259259259,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Re:",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm quite interested in learning more about this loan process. Could you please provide me with more details? For instance, what are the interest rates and terms of repayment? Also, could you explain a bit more about how the process works?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nDaniel"
+    }
+]

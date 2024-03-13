@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1901",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "        From United Nations Hi",
+        "body": "        From United Nations High Commission Committee in Conjunction\nwith International Monetary Fund Unity\nHead Office: Plot 160 Trinity Avenue, SW\nSuite 4107 Atlanta, GA 30303\nWith Due Respect\nIn reference to world bank monetary policy of this year 2023 act 11 vol 39, which stipulates that all outstanding commercial bank payments will be paid out by the\nnominated bank, Imperial credit bank know matter the circumstances holding up the funds.\nWe therefore apologize for any past inconveniences this must have cost you or your family, if you are alive very urgent respond to this office as soon as possible, if\nyou are alive revert urgently to this office with under listed details.\nFULL NAME:\nHOME ADDRESS:\nPHONE NUMBER:\nCURRENT OCCUPATION:\nRECEIVING AMOUNT:\nYOUR SCAN COPY OF ANY OF YOUR I.D\nPlease revert ASAP should you or your company fall into this program.\nRegards.\nMr. Matthew Moore\nDirector Auditing Committee    "
+    },
+    {
+        "from": "baiter_1901",
+        "to": "scammer_1901",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:         From United Nations Hi",
+        "body": "Dear Mr. Matthew Moore,\n\nThank you for reaching out to me from the United Nations High Commission Committee in Monetary Fund Unity. I appreciate your message and would like to learn more about the world bank monetary policy you mentioned.\n\nCould you please provide me with further details regarding this policy? I am interested in understanding how it affects commercial bank payments and why they will be paid out by the nominated bank, Imperial credit bank, regardless of any holding up of funds.\n\nAdditionally, I would like to know more about the program you mentioned that my company or I may fall into. What are the benefits or opportunities associated with this program?\n\nI look forward to your prompt response.\n\nBest wishes,\nMari"
+    }
+]

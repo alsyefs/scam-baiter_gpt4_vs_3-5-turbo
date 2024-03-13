@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_193",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Bianco Trust Financial Service",
+        "body": "Bianco Trust Financial Services\nAddress: 11 West 42nd Street New York, NY, 10036 USA\nAttention Beneficiary;\nIt is our pleasure to inform you that after due consideration on the inconveniences you ought to have gone through and financial commitments you have equally  invested thus far on the pursuit of your funds, the  monetary authorities and the leading financial institutions here in the states have therefore deliberated and resolved that your $10,500,000.00 funds should be reversed from the Federal Reserve Bank to our bank, and have mandated us to carry on your payment assignment with immediate effect.\nNow we have commenced based on the instructions and the mandate given to us by the aforementioned authorities/institutions as we have now queued your funds for onward transfer to meet up the mandate so we can submit our report files in a timely manner.\nHowever, according to the unconfirmed available   details in our record here, your funds are to be transferred to the following account specifics, and we do hope that the details are still functional and valid for receiving your approved funds.\nACCOUNT DETAILS IN THE RECORD\nUS Bank\naccount Name;  Joanna Wilk Inc\naddress 217 e 5th  #13 Rupert,. Idaho 83350\nrouting number 123 103 729\naccount number 1533 9529 3340,\nPlease do crosscheck  and reconfirm your account whether it is still inline with the above stipulated details for receiving your funds, hence we do not want and would not be held responsible  by you for any wrongful transfer thereafter..\nAwait your urgent response to this message.\nRegards,\nMr.Allen Goldberg\nBancove Trust Financial Services\nAddress: 11 West 42nd Street New York, NY, 10036 USA"
+    },
+    {
+        "from": "baiter_193",
+        "to": "scammer_193",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Bianco Trust Financial Service",
+        "body": "Hello Goldberg,\n\nThank you for reaching out and sharing this information with me. I appreciate the effort that Bancove Trust Financial Services is putting into ensuring my funds are handled correctly.\n\nHowever, I'm a bit confused about some details in your message. You mentioned an account under the name Joanna Wilk Inc. Could you please clarify why this name is associated with my funds? \n\nAlso, could you provide more information about the process of transferring these funds? I would like to understand how it works and what steps are involved.\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nJo"
+    }
+]

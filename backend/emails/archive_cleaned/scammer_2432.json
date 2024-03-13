@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_2432",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention: Beneficiary.",
+        "body": "  Attention: Beneficiary.\nSir,\nRE: YOU ARE TO TRAVEL TO NEW ZEALAND TO RECEIVE YOUR FUNDS.\nI want to let you know that you will travel to New Zealand to receive your Inheritance funds so get ready to travel as I am to pay for your Flight Ticket and your Hotel Accommodation in New Zealand\nAs a matter of urgency, you are to travel from the United States of America to New Zealand.\nIt is good you know that you are to sign your Original Fund Classified Document (OFCD) and then receive your funds in New Zealand without any upfront payment from you.\nYou should tell me the exact date that you would like to travel so that I will be able to get your Flight Ticket and your Hotel Accommodation details on time.\nHave a great weekend.\nAwait your urgent reply.\nYour faithfully,\nMs. Karen Thompson.   "
+    },
+    {
+        "from": "baiter_2432",
+        "to": "scammer_2432",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention: Beneficiary.",
+        "body": "Hello Ms. Karen Thompson,\n\nThank you for your message. It sounds like an exciting opportunity to travel to New Zealand! I've always wanted to visit there.\n\nCould you please provide more details about this trip? What is the purpose of signing the Original Fund Classified Document (OFCD)? And how will I receive these funds once I'm in New Zealand?\n\nAlso, could you clarify what you mean by \"without any upfront payment\"? Does that mean all my expenses will be covered?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nKerri"
+    },
+    {
+        "from": "scammer_2432",
+        "to": "baiter_2432",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "RE: YOU SHOULD SEND ME YOUR COMPLETE INFORMATION AS REQUESTED.",
+        "body": "*Attention:** Kerri.*\r\n\r\nSir,\r\n\r\n*RE: YOU SHOULD SEND ME YOUR COMPLETE INFORMATION AS REQUESTED. *\r\n\r\nThis is to acknowledge the receipt of your mail. It is very important that\r\nyou understand that you should send me your *complete information as\r\nrequested and also be rest assured that you must receive your funds of\r\nUS$30.5 Million as the real beneficiary of the funds.*\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n* You should go ahead to send me your below information:1. Your Full\r\nNames.2. Your Full Address.3. Your Mobile Telephone /Whatsapp Number.4.\r\nYour Occupation.5. A Valid Copy of Your International Passport.6. The Name\r\nof your Nearest International Airport.7. Bank Name.8. Bank Address.9.\r\nAccount Number.10. Account Name.11. Iban Number.12. Swift Code.*\r\n\r\nHave a good weekend.\r\n\r\nAwait your quick reply.\r\n\nBest Regards*,*\r\n\r\n\r\n*Ms. Karen Thompson.*"
+    },
+    {
+        "from": "baiter_2432",
+        "to": "scammer_2432",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.006608796296296297,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: RE: YOU SHOULD SEND ME YOUR COMPLETE INFORMATION AS REQUESTED.",
+        "body": "Hello Ms. Karen Thompson,\n\nThank you for your email and the information provided. I'm really excited about this opportunity to receive funds, it sounds like a great deal! \n\nHowever, I have a few questions before we proceed further. Could you please explain more about where these funds are coming from? And why have they been allocated to me? Also, could you provide more details about the process of transferring these funds?\n\nI'm looking forward to hearing from you soon.\n\nBest wishes,\nKerri"
+    },
+    {
+        "from": "scammer_2432",
+        "to": "baiter_2432",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.38729166666666665,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "RE: THE ORIGIN OF YOUR FUNDS IS FROM LONDON, UNITED KINGDOM.",
+        "body": "*Attention:** Kerri.*\r\n\r\nSir,\r\n\r\n*RE: THE ORIGIN OF YOUR FUNDS IS FROM LONDON, UNITED KINGDOM.*\r\n\r\nThis is to acknowledge the receipt of your mail. I want you to know that\r\nthe Origin of your funds is from London, United Kingdom and the funds are\r\nyour Inheritance Funds which are ready to transfered to your bank account\r\ninformation of your choice.\r\n\r\nIt is very important that you send me your complete information as\r\nrequested so that I will be able to secure all the relevant documents that\r\nwill be needed in making sure that you receive your Inheritance Funds as\r\nthe real beneficiary of the funds.\r\n\r\nMy interest is that when you receive your funds in your bank account\r\ninformation in your country then you will be able to give me 20% of your\r\ntotal funds of *US$30.5 Million* as compensation for my good work for you.\r\n\r\nIt is important you go ahead to send me your below information:\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*1. Your Full Names.2. Your Full Address.3. Your Mobile Telephone /Whatsapp\r\nNumber.4. Your Occupation.5. Copy of Your International Passport.6. The\r\nName of your Nearest International Airport.7. Bank Name.8. Bank Address.9.\r\nAccount Number.10. Account Name.11. Iban Number.12. Swift Code.*\r\n\r\nHave a good weekend.\r\n\r\nAwait your quick reply.\r\n\nBest Regards*,*\r\n\r\n\r\n*Ms. Karen Thompson.*"
+    },
+    {
+        "from": "baiter_2432",
+        "to": "scammer_2432",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.42388888888888887,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: RE: THE ORIGIN OF YOUR FUNDS IS FROM LONDON, UNITED KINGDOM.",
+        "body": "Hello Ms. Karen Thompson,\n\nThank you for your email and the information about the funds originating from London, United Kingdom. It's quite fascinating to know that such a large amount is ready to be transferred.\n\nCould you please elaborate more on how these funds came to be in my name? I'm curious about the process and would like to understand it better.\n\nAlso, I appreciate your hard work and dedication towards ensuring that I receive these funds. However, could you explain why a percentage of the total funds is required as compensation for your services?\n\nI'm sorry but due to privacy concerns, I won't be able to provide my personal details over email. Is there another secure way we can proceed with this?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKerri"
+    },
+    {
+        "from": "scammer_2432",
+        "to": "baiter_2432",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.4348958333333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "RE: YOU SHOULD FOLLOW UP MY HUMBLE ADVICE AND INSTRUCTIONS.",
+        "body": "*Attention:** Kerri.*\r\n\r\nSir,\r\n\r\n*RE: YOU SHOULD FOLLOW UP MY HUMBLE ADVICE AND INSTRUCTIONS.*\r\n\r\nThis is to acknowledge the receipt of your mail. It is very important that\r\nyou follow up my humble advice and instructions, if you are ready and\r\nwilling to receive your Inheritance Funds of US$30.5 Million.\r\n\r\nGo ahead to send me your below information:\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*1. Your Full Names.2. Your Full Address.3. Your Mobile Telephone /Whatsapp\r\nNumber.4. Your Occupation.5. Copy of Your International Passport.6. The\r\nName of your Nearest International Airport.7. Bank Name.8. Bank Address.9.\r\nAccount Number.10. Account Name.11. Iban Number.12. Swift Code.*\r\n\r\nHave a good weekend.\r\n\r\nAwait your quick reply.\r\n\nBest Regards*,*\r\n\r\n\r\n*Ms. Karen Thompson.*"
+    },
+    {
+        "from": "baiter_2432",
+        "to": "scammer_2432",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.465162037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: RE: YOU SHOULD FOLLOW UP MY HUMBLE ADVICE AND INSTRUCTIONS.",
+        "body": "Hello Ms. Karen Thompson,\n\nThank you for reaching out to me and I hope you're having a great day! Your message is quite intriguing, I must say. It's not every day that one receives an email about such a large sum of funds.\n\nCould you please provide more details about this? How did this come about? And why was I chosen for this?\n\nI'm looking forward to hearing from you soon.\n\nBest wishes,\nKerri"
+    }
+]

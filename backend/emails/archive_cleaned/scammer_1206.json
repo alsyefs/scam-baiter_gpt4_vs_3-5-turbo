@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1206",
+        "to": "baiter_1206",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Nathaniel",
+        "body": "Dear Sir,\r\nThank you for getting back, we would like to be sure here before proceeding\r\nany further, due to the personnel that are involved. which we would want to\r\ndisclose at this early stage, for security reasons.\r\n\r\nDo you represent any company? Can you handle a quality amount as if\r\ninvested in your care? Please could you elaborate everything in detail, as\r\nthis might  warrant our face to face meeting in Malaysia or outside\r\nMalaysia.\r\n\r\nYou shall be detailed more upon your response.\r\nThanks.\nHashim Bin Hasan"
+    },
+    {
+        "from": "baiter_1206",
+        "to": "scammer_1206",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Nathaniel",
+        "body": "Dear Hashim Bin Hasan,\n\nThank you for your response. I appreciate your caution and concern for security. To answer your questions, yes, I represent a company that specializes in handling quality investments. We have experience in managing various types of investments and ensuring their growth.\n\nRegarding the details, I would be happy to provide you with more information. However, before we proceed with any face-to-face meetings, it would be helpful if you could share some specific details about the opportunity you are offering. Could you please provide more information about the nature of the investment and the potential returns?\n\nOnce I have a better understanding of the opportunity, we can discuss further steps and determine if a meeting is necessary.\n\nBest wishes,\nNathaniel"
+    }
+]

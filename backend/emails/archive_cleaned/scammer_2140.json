@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2140",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Beneficiary",
+        "body": "  Dear Beneficiary\n \nHope you're doing great? In continuation of the mail I sent you some time ago directing you to a financial firm in the Uk. If you are yet to receive your fund then recontact their partner with info stated below:\n \nMr. Ghodratollah Ahmadvand.\nAddress: 865 Market St,\nSan Francisco, CA 94103\nEmail: \nprojectsadvisor@mail.com\nTelephone Number+1 628 788 6220\n \nTake Advantage of my Letter concerning your payment and Enjoy a Happy Life. Avoid scammers asking for all kinds of unnecessary documents to exploit your hard-earned money. Contact Mr. Ghodratollah Ahmadvand and receive your fund for free.\n \nThanks\nMr. John Smith   "
+    },
+    {
+        "from": "baiter_2140",
+        "to": "scammer_2140",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Beneficiary",
+        "body": "Dear Mr. John Smith,\n\nThank you for reaching out to me. I hope you're doing well too. I appreciate your concern about scammers and the importance of avoiding them.\n\nCould you please provide me with more information about the financial firm in the UK? What kind of fund are you referring to? How does Mr. Ahmadvand fit into this process?\n\nI'm interested in learning more so that I can make an informed decision. Looking forward to hearing from you soon.\n\nBest wishes,\nBrenda"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_737",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  From the Desk Of: Dr. Olayem",
+        "body": "  From the Desk Of: Dr. Olayemi Cardoso\nThe New Governor of the Central Bank of Nigeria (CBN)\nZaria Street, Off Samuel Akintola Street ,\nGarki 11, Garki-Abuja.\nOur Ref: FGN/CBN/NIG/12/2023.\nAttention, \nSeveral emails have been sent to you but we don't know why you are yet to acknowledge it. Now you have 24 hours to get back to our office otherwise your transaction files will be closed. That means you will be charged a fine before your transaction file will be reopened again.\nTo avoid this not to happen you have to acknowledge our email immediately you receive it. As I have told you before there is no way you can receive any fund from Nigeria without my office. So if anyone is deceiving you, just be rest assured that there is no way you can receive your any funds from Nigeria without my office. I have told you this before.\nAgain, your transaction is in your hand to be successful for you to receive it in your account.\nVery Truly Yours,\nDr. Olayemi Cardoso\nThe Governor of the Central Bank of Nigeria (CBN).\nDirect Whatsapp Number +23490 7168 6307\nEmail: \nenquiryapexCBN@accountant.com\n "
+    },
+    {
+        "from": "baiter_737",
+        "to": "scammer_737",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   From the Desk Of: Dr. Olayem",
+        "body": "Hello Dr. Olayemi Cardoso,\n\nThank you for reaching out to me. I must admit, I'm a bit confused about the nature of your email. Could you please clarify what this is all about? What files are you referring to and why would they be closed?\n\nAlso, could you explain more about the fund from Nigeria that you mentioned? How is it related to me?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nShirley"
+    }
+]

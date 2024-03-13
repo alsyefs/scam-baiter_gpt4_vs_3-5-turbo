@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_458",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Good Morning.",
+        "body": "  Good Morning.\nWe are a specialist loan and project financing group.\nContact us for terms and conditions with interest at @2% PA.\nI can be reached on email and Whatsapp: +97155 647 4204.\nRegards,\nMA\nFinancial Consultant\nWhatsapp: +97155 647 4204   "
+    },
+    {
+        "from": "baiter_458",
+        "to": "scammer_458",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Good Morning.",
+        "body": "Good morning MA,\n\nThank you for reaching out to me. I'm interested in learning more about your loan and project financing services. Could you please provide me with some additional information? Specifically, I would like to know:\n\n1. What types of loans do you offer? Are they personal loans, business loans, or both?\n2. What is the range of loan amounts that you provide?\n3. What are the interest rates for your loans?\n4. Are there any specific requirements or qualifications that applicants need to meet in order to be eligible for a loan?\n5. How long does the loan approval process typically take?\n\nI appreciate your time and look forward to hearing back from you.\n\nBest wishes,\nCarol"
+    }
+]

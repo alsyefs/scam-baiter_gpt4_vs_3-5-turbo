@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2359",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Pamela Left $3m to be paid ",
+        "body": "   Pamela Left $3m to be paid to you by EFG bank London.\nThe requisite procedures must be followed to receive the funds . \nYou might thinks it’s all about scam but I must be honest to you about the inheritance that was left for you without your knowledge .\nThank you  "
+    },
+    {
+        "from": "baiter_2359",
+        "to": "scammer_2359",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    Pamela Left $3m to be paid ",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate your honesty in letting me know about the funds that were left for me without my knowledge. Can you please provide more details about this situation? I want to make sure I understand the procedures that need to be followed in order to receive the funds.\n\nCould you let me know how much money is involved and what steps I need to take? Additionally, it would be helpful if you could explain why these funds were left for me and how EFG bank London is involved.\n\nI look forward to hearing back from you with more information.\n\nBest wishes,\nSue"
+    }
+]

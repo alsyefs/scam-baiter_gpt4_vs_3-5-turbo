@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_637",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attn: Sir",
+        "body": "  Attn: Sir\n\"EMPLOYMENT OPPORTUNITY\"\nMy name is Barrister Smith and I am representing a reputable international courier company based in London with a mandate to help find a dependable individual from your country to be employed as an international delivery person.\nThe salary is very attractive (Ranging from USD$4,000 depending on the country of application)  . You can have it as a part-time job and also keep your permanent job, I will explain further details with the payment once you respond to this email.\nIMPORTANT: Applicants must have a valid international passport and NO past criminal record.\nThank you as I await your swift response.\nAndrew Smith LLB\nAttorney General   "
+    },
+    {
+        "from": "baiter_637",
+        "to": "scammer_637",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attn: Sir",
+        "body": "Hello Andrew Smith,\n\nThank you for reaching out to me with this employment opportunity. I'm interested in learning more about the position as a delivery person. Could you please provide me with some additional details?\n\n1. What are the specific responsibilities and tasks involved in this role?\n2. Is there any prior experience or qualifications required for this position?\n3. How many hours per week would I be expected to work?\n4. Are there any specific locations or areas that I would be delivering to?\n5. Can you provide more information about the attractive salary range mentioned?\n\nI appreciate your time and look forward to hearing back from you soon.\n\nBest wishes,\nDominique"
+    }
+]

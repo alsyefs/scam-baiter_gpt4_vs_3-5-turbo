@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2475",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello,",
+        "body": "  Hello,\nI am miss Rohana Arafath, the confidential secretary to the director of international remittance department of my bank incharge of your payment.I was moved to write you considering my family background.So much injustice had been done to you.Your contractual payment with accrued interest has been deliberately delayed and denied from you because of a complexity in your file.\nThis, they do not want to tell you, instead they introduced a false mode of payment which is not in line with the guidelines and ethics of the banking as regards foreign payment thereby extorting money from you, at the end, your fund is not remitted into your account, but they will come up to you again with fictitious stories and excuses for the delay of your payment in the name they are acting in accordance with the united nation foreign payment guidelines.\nAll these are false, the truth of the matter now is that your fund is floating in the  suspense account with the bank  my bank. They are looking for ways to divert it to an account in Asia (Jordan) where it cannot be traced.\nAs I am writing you now, arrangement is on top gear between some corrupt bank officials to have one Mr. smith Hsu whom they invited for this purpose from Jordan to claim as your representative having a power of attorney to endorse all the necessary release papers and they will wire your funds to his account.\nThe main problem and the only reason why they have been delaying your funds and now want to divert it is that proper change of ownership was not done completely on your overdue fund transfer. your name appears as the beneficiary, whilein ministry of internal affairs-archives unit, Preston  Ltd appears as beneficiary.\nThis matter needs a 100% attention or else your funds within the next seven banking days will be diverted to an unknown account.\nN:B I have to write you with my private email ID  so no one knows I am the person that leaked the truth to you.If you care to get your money get back to me and I will direct you on what to do.\nbest regards.\nRohana Arafath   "
+    },
+    {
+        "from": "baiter_2475",
+        "to": "scammer_2475",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello,",
+        "body": "Hello Rohana Arafath,\n\nThank you for reaching out and sharing this information with me. It's quite surprising to hear about the situation regarding my fund. I must admit, it's a bit confusing.\n\nCould you please explain more about this 'false mode of payment' that you mentioned? And how is it not in line with the guidelines and ethics of banking?\n\nAlso, who is Mr. Smith Hsu from Jordan? How did he get involved in this matter? \n\nI'm also curious about the change of ownership issue you mentioned. Could you elaborate on what exactly went wrong there?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nPhilip"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_85",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Dear",
+        "body": "   Dear\nYou are the next of kin to our late Gold Merchant worth 30 Million Dollars.\nReply for more information\nAlbert Sajid  "
+    },
+    {
+        "from": "baiter_85",
+        "to": "scammer_85",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    Dear",
+        "body": "Dear Albert Sajid,\n\nThank you for reaching out to me. I'm intrigued by your message about being the next of kin to a late Gold Merchant. Could you please provide me with more details about this opportunity? I would like to understand how I can be involved and what it entails.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMattie"
+    },
+    {
+        "from": "scammer_85",
+        "to": "baiter_85",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear",
+        "body": "Thanks so much for your message, I appreciate your mail.\r\n\r\nI am Mr. Albert Sajid an employee of Siam Commercial Bank Thailand Pcl\r\nhere in Thailand. I am the personal accountant to Fatima Mattie, who\r\nwas a Gold Merchant.\r\n\r\nOn the 4-12-2020, Fatima Mattie was involved in a car accident. All\r\noccupants of the vehicle unfortunately lost their lives. Since then, I\r\nhave made several inquiries to locate any of my customer extended\r\nrelatives but to no avail.\r\n\r\nAfter these several unsuccessful attempts, I decided to contact you to\r\nhelp me since you both have the same surname.\r\n\r\nI have contacted you to assist me in repatriating the money left\r\nbehind by Fatima Mattie before they get confiscated or declared\r\nun-serviceable by my bank where these huge deposits were lodged.\r\n\r\nSince I have been unsuccessful in locating any of the relatives for\r\nmany years now, I seek your consent to present you as the next of kin\r\nto the deceased so that the proceeds of this account can be paid to\r\nyou and then you and me can share the money 50% to me and 50% to you.\r\n\r\nThis transaction is legitimate and in essence it will undergo normal\r\nprocedures as stipulated in the financial and allied matters act and\r\nall the required legal documents will be issued in your name.\r\n\r\nAll I require is your honest cooperation to enable us see this deal through.\r\n\r\nI guarantee that this will be executed under a legitimate arrangement\r\nthat will protect you from any breach of the law.\r\n\r\nPlease, ensure you forward YOUR FULL DETAILS which include the following\r\n\r\nFull names\r\nAddress\r\nTelephone number\r\nOccupation\r\nNationality in your next response.\r\n\r\nThank very much\r\n\nMr. Albert Sajid"
+    },
+    {
+        "from": "baiter_85",
+        "to": "scammer_85",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0003356481481481481,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear",
+        "body": "Hello Mr. Albert Sajid,\n\nThank you for reaching out to me and explaining the situation. I'm sorry to hear about the car accident involving Fatima Mattie. It must have been a difficult time for everyone involved.\n\nI understand that you have been trying to locate any of Fatima Mattie's extended relatives without success. It's unfortunate that no one has been found so far. However, I'm curious about how you came across my name since we share the same surname. Could you please provide more details on how you found me?\n\nAlso, I appreciate your assurance that this is a legitimate matter and will undergo proper procedures according to the financial and legal regulations. However, before proceeding further, I would like to know more about the specific amount of money left behind by Fatima Mattie and how it is currently being held in your bank.\n\nFurthermore, could you clarify what role you expect me to play in this process? You mentioned sharing the money between us, but I would like to understand the exact nature of my involvement and responsibilities.\n\nLooking forward to your response.\n\nBest wishes,\nMattie"
+    }
+]

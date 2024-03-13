@@ -1,0 +1,142 @@
+[
+    {
+        "from": "scammer_1523",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  I Am Mrs.Rebecca  Margaret, ",
+        "body": "  I Am Mrs.Rebecca  Margaret, A Christian Woman, I Want to transfer to you $, my inheritance Funds  United States dollars, for a Charity Project in your Country.\nFor more Details kindly Email me,  \nmargaretadams454@gmail.com\n "
+    },
+    {
+        "from": "baiter_1523",
+        "to": "scammer_1523",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   I Am Mrs.Rebecca  Margaret, ",
+        "body": "Hello Margaret,\n\nThank you for reaching out to me. I'm interested in learning more about your charity project and how I can potentially help. Could you please provide me with some additional details? What is the purpose of the project and how much funding are you looking to transfer?\n\nI appreciate your willingness to share this opportunity with me, and I look forward to hearing back from you soon.\n\nBest wishes,\nMarybeth"
+    },
+    {
+        "from": "scammer_1523",
+        "to": "baiter_1523",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: I Am Mrs.Rebecca Margaret,",
+        "body": "I would be happy to speak with you.Good day,\r\n\r\n I am a dying woman who has decided to donate what I have to the Charities.\r\nI am 75 years old and was diagnosed with cancer about four years ago,\r\nimmediately after the death of my husband.\r\n\r\nI have been touched to donate what I have inherited from my late husband\r\nfor good work rather than allow his relatives to lavish my husband's\r\nhard-earned funds.\r\n\r\nAs I lay on my sick bed, I want you to help me in carrying out my last wish\r\non earth which will also be very profitable to you. I want to WILL a total\r\nsum of USD 50 million to you which I want you to distribute part of it to\r\nany charity home for me and the rest for yourself and your family, I will\r\ninform you on how to share all.\nBest regards,\r\n\r\n Mrs. Margarte"
+    },
+    {
+        "from": "baiter_1523",
+        "to": "scammer_1523",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0002546296296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: I Am Mrs.Rebecca Margaret,",
+        "body": "Hello Mrs. Margarte,\n\nThank you for reaching out to me. I'm sorry to hear about your health condition, and I admire your decision to donate your inheritance to charities. It's a noble gesture.\n\nI would be interested in learning more about how I can help you fulfill your last wish on earth. Could you please provide me with some additional details? Specifically, I would like to know more about the process of distributing the funds to the charity home and how we can ensure that everything is done legally and transparently.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarybeth"
+    },
+    {
+        "from": "scammer_1523",
+        "to": "baiter_1523",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0021527777777777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: I Am Mrs.Rebecca Margaret,",
+        "body": "I will need you the details."
+    },
+    {
+        "from": "baiter_1523",
+        "to": "scammer_1523",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0022685185185185187,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: I Am Mrs.Rebecca Margaret,",
+        "body": "Hello! Thank you for reaching out. I'm happy to help, but before we proceed, could you please provide me with some more information about what details you need?\n\nBest wishes,\nMarybeth"
+    },
+    {
+        "from": "scammer_1523",
+        "to": "baiter_1523",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.16796296296296295,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: I Am Mrs.Rebecca Margaret,",
+        "body": "you need a lawyer who can assist you in getting it done to enable him to\r\nhelp you get the documentation paper so that My inheritance funds can be\r\ntransferred into your account, Do you know any Attorney?"
+    },
+    {
+        "from": "baiter_1523",
+        "to": "scammer_1523",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.1683449074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: I Am Mrs.Rebecca Margaret,",
+        "body": "Hello! Thank you for reaching out to me. I'm interested in learning more about how an attorney can assist me. Could you please provide some details on what exactly they would be helping with?\n\nBest wishes,\nMarybeth"
+    },
+    {
+        "from": "scammer_1523",
+        "to": "baiter_1523",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.18056712962962962,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: I Am Mrs.Rebecca Margaret,",
+        "body": "Thank you for your response.    i      need   i  d  pic"
+    },
+    {
+        "from": "baiter_1523",
+        "to": "scammer_1523",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.18074074074074073,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: I Am Mrs.Rebecca Margaret,",
+        "body": "Hello! Thank you for reaching out. I'm sorry, but I'm not sure what you mean by \"need pic.\" Could you please provide more information or clarify your request? I'm here to help!\n\nBest wishes,\nMarybeth"
+    },
+    {
+        "from": "scammer_1523",
+        "to": "baiter_1523",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.18358796296296295,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: I Am Mrs.Rebecca Margaret,",
+        "body": "need  ur     i   card pic"
+    },
+    {
+        "from": "baiter_1523",
+        "to": "scammer_1523",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.1842013888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: I Am Mrs.Rebecca Margaret,",
+        "body": "Hello! Thank you for reaching out. I'm sorry, but I can't provide you with my card picture. Is there something else I can help you with?\n\nBest wishes,\nMarybeth"
+    },
+    {
+        "from": "scammer_1523",
+        "to": "baiter_1523",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.5197800925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "Re: I Am Mrs.Rebecca Margaret,",
+        "body": "No, it's fine."
+    },
+    {
+        "from": "baiter_1523",
+        "to": "scammer_1523",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.291215277777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: I Am Mrs.Rebecca Margaret,",
+        "body": "Hello! How are you doing today? I hope you're having a great day so far. I wanted to share some interesting information with you. Have you ever heard about a unique investment opportunity that guarantees high returns within a short period of time? It's quite fascinating, and I thought it might interest you.\n\nWould you like to hear more about it?\n\nBest wishes,\nMarybeth"
+    }
+]

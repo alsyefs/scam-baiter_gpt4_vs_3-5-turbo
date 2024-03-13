@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1235",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  I am \"Janet Yellen\" the Secr",
+        "body": "  I am \"Janet Yellen\" the Secretary to the U.S Department of the Treasury. The executive agency responsible for promoting economic prosperity and ensuring the financial security of the United States. I was confirmed by the United States Senate on January 26, 2021., to serve as the 78th Secretary of the Treasury. However, by virtue of my position, I wish to let you know that this fund was signed 11 Months ago by the United States white house.\nThis fund was recovered by the Federal Bureau of Investigation about 2 years from Africa and on my honor as the Secretary to the Department of Treasury, I wish to state categorically that your fund worth Eighty Nine Million United States Dollars (89,000,000.00) will be approved and  ready to be Sent to you via Bank Transfer or ATM Card \" once you provides the requested details below to thi email below\n(\njanetyellen417@gmail.com\n)\nDetails include ::\nFull name…..\nResidential address……\nPhone number……..\nID card……..\nOccupation……\nOther emails…….\nsend the details to the provided email address (\njanetyellen417@gmail.com\nI await your swift response to this message…\nRegards!!!\nJanet Louise Yellen\n78th Secretary of Treasury    "
+    },
+    {
+        "from": "baiter_1235",
+        "to": "scammer_1235",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   I am \"Janet Yellen\" the Secr",
+        "body": "Hello Janet Louise Yellen,\n\nWow, that's a lot of money! I can't believe it. How did the Federal Bureau manage to recover such a huge amount from Africa? And why was it there in the first place? \n\nAlso, I'm curious about how this fund got signed by the White House. What does that mean exactly? \n\nI'm sorry for all the questions, but this is all so new and exciting to me. I look forward to hearing more about this.\n\nBest regards.\n\nBest wishes,\nChristopher"
+    }
+]

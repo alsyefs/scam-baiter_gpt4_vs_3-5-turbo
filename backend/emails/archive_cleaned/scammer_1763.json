@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_1763",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear. Sir/Madam,",
+        "body": "Dear. Sir/Madam,\n We write to inform you that our Bank,  Barclay's Bank PL C, London-UK\n have received your payment approval documents from  the International\n Monitory Fund ( IMF) LONDON for the release of your funds immediately.\n We wish to notify and warn you of the activities of an international\n fraud syndicate out there, to defraud innocent and hard earning individuals.\n We must all rise up to fight against it like the war\n against terror for the sake of humanity. It is our duty to guide\n and protect you and ensure that you do not fall into wrong hands.\n Below is the website, where you can visit for official  clarification.\n N/B, that you will go through Bank procedures before the claim of funds.\n Website:http: // news.bbc.co.uk/1/hi/business/5171222.stm\n \nKindly reconfirm to us the below information for the release of your funds.\n (A) Your Bank Details.\n (B) Your Residential Address and Direct phone Number.\n (C) \nScanned Copy of your Intel Passport or Driver's License\n.\n As soon as we receive the required information  we shall release your\n funds to you either by Bank Wire Transfer or ATM CARD DELIVERY.\n Reply upon receipt of our mail.\n Respond Urgent.\n Mr. Red  Mond\n Barclay's Bank PL C"
+    },
+    {
+        "from": "baiter_1763",
+        "to": "scammer_1763",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear. Sir/Madam,",
+        "body": "Hello Mr. Red Mond,\n\nThank you for reaching out and informing me about this situation. It's quite alarming to hear about such fraudulent activities happening around us. I appreciate your efforts in guiding and protecting individuals like myself.\n\nI'm curious, could you please elaborate more on the bank procedures that I would need to go through before claiming the funds? Also, what are the benefits of choosing either Bank Wire Transfer or ATM CARD DELIVERY?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nArthur"
+    },
+    {
+        "from": "scammer_1763",
+        "to": "baiter_1763",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Attention; Arthur,",
+        "body": "Attention; Arthur,\r\n\r\n\r\nWe write to acknowledge the receipt of your mail, This is to inform you\r\nthat you have to fill the attach below payment forms accordingly and return\r\nto this office for onward processing of your payment fund transfer as\r\napproved USD$5.5M by the ( International Monetary Fund   IMF) LONDON for\r\nthe release of your funds,  without any further delay.\r\n\r\nThanks, and God Bless as we look forward to hear from you immediately with\r\nthe payment fill form for quick facilitating and due diligence of your fund\r\ntransfer processing,  without any further delay.\nBest Regard\r\n\r\nMr. Red Mond\r\nBarclay's Bank PL C"
+    },
+    {
+        "from": "baiter_1763",
+        "to": "scammer_1763",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2713194444444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Attention; Arthur,",
+        "body": "Hello Mr. Red Mond,\n\nThank you for your prompt response and the information provided. I'm quite excited about this opportunity, but I must admit, I'm a bit confused about some details.\n\nCould you please explain more about the payment forms? What kind of information do they require? Also, could you provide more details about the Monetary Fund IMF LONDON and how it is involved in this process?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nArthur"
+    },
+    {
+        "from": "scammer_1763",
+        "to": "baiter_1763",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.5158217592592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "FILL THE ATTACH PAYMENT FORM",
+        "body": "Attention; Arthur,\r\n\r\n\r\nWe write to acknowledge the receipt of your mail, This is to inform you\r\nthat you have to fill the attach below payment forms accordingly and return\r\nto this office for onward processing of your payment fund transfer as\r\napproved USD$5.5M by the ( International Monetary Fund   IMF) LONDON for\r\nthe release of your funds,  without any further delay.\r\n\r\nThanks, and God Bless as we look forward to hear from you immediately with\r\nthe payment fill form for quick facilitating and due diligence of your fund\r\ntransfer processing,  without any further delay.\nBest Regard\r\n\r\nMr. Red Mond\r\nBarclay's Bank PL C"
+    },
+    {
+        "from": "baiter_1763",
+        "to": "scammer_1763",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.3346064814814813,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: FILL THE ATTACH PAYMENT FORM",
+        "body": "Hello Mr. Red Mond,\n\nThank you for your prompt response and the information provided. I'm quite excited about this opportunity, but I must admit, I'm a bit confused about some details.\n\nCould you please explain more about the payment forms that need to be filled out? What kind of information do they require? Also, could you provide more details about the Monetary Fund IMF LONDON and how it is involved in this process?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nArthur"
+    },
+    {
+        "from": "baiter_1763",
+        "to": "scammer_1763",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.529224537037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Attention; Arthur,",
+        "body": "Hello Mr. Red Mond,\n\nThank you for your prompt response and the information provided. I'm quite excited about this opportunity, but I must admit, I'm a bit confused about some details.\n\nCould you please explain more about the payment forms? What kind of information do they require? Also, could you provide more details about the Monetary Fund IMF LONDON and how it is involved in this process?\n\nI appreciate your patience and look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nArthur"
+    },
+    {
+        "from": "baiter_1763",
+        "to": "scammer_1763",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.085439814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Attention; Arthur,",
+        "body": "Hello Mr. Red Mond,\n\nThank you for your prompt response and the information provided. I'm thrilled to hear about this opportunity, it's not every day that one receives such news.\n\nBefore proceeding, could you kindly provide more details about this process? For instance, what is the purpose of these payment forms and how do they contribute to the fund transfer process? Also, could you explain a bit more about the role of the Monetary Fund IMF LONDON in this transaction?\n\nI appreciate your patience and look forward to hearing from you soon.\n\nBest wishes,\nArthur"
+    }
+]

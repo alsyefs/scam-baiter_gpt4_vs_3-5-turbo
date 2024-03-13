@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1887",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Hello,                       ",
+        "body": " Hello,                                        \nI am miss Rohana Arafath,I was moved to write you considering my family background.So much injustice had been done to you.Your contractual payment with interest has been deliberately delayed and denied from you because of a complexity in your file. This, they do not want to tell you.They are looking for ways to divert it to an account in Asia (Jordan) where it cannot be traced.\nAs I am writing you now, arrangement is on top gear between some corrupt bank officials to have one Mr. smith Hsu whom they invited for this purpose from Jordan to claim as your representative having a power of attorney to endorse all the necessary release papers and they will wire your funds to his account.The main problem and the only reason why they have been delaying your funds and now want to divert it is that proper change of ownership was not done completely on your overdue fund transfer. your name appears as the beneficiary.\nThis matter needs a 100% attention or else your funds within the next seven banking days will be diverted to an unknown account.\nN:BI have to write you with my private email ID(\nrohanarafatth@gmail.com\n) so no one knows I am the person that leaked the truth to you.If you care to get your money get back to me and I will direct you on what to do.\n \nbest regards.\nRohana Arafath\nrohanarafatth@gmail.com\n "
+    },
+    {
+        "from": "baiter_1887",
+        "to": "scammer_1887",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  Hello,                       ",
+        "body": "Hello,\n\nThank you for sharing this information with me. It sounds like a concerning situation regarding the delayed payment and potential diversion of funds. Can you provide more details on how I can prevent this from happening and ensure that my funds are transferred to me securely?\n\nBest wishes,\nIsabel"
+    }
+]

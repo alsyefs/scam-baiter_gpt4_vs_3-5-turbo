@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2262",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Fund owner.",
+        "body": "Dear Fund owner.\nI am very sorry and regret that I was not able to release your fund when I was the Finance minster of my country. I tried my best to help you but due to excess security monitoring from the presidency I couldn't do it. \nIn any case before I left office, I handed over your payment file to Mrs Ruth Adam's the newly appointed Central Bank Director who was my class mate in the university and pleaded with her to help me pay your claim/fund. She assured me that your payment will be included in the first payment schedule for this February/March 2024 She said that the CBN will release a part payment of $15.5mUsd to you because of the downturn in our economy. \nShe assured me that if you follow up her directive you will be paid in 7 days from the date you receive this mail.\nPlease be sure you contact the real person I directed you ask her working ID card to make sure you receive your money. \nSee her information below.Kindly Re-Confirm  to her again all your information.\nYour Full Name:................................\nTelephone/mobile:..............\nResidential Address:.........................\nAge/Occupation................................\nBanking Details\n.............................\nDr Mrs Ruth Adam's\n(Director central bank of Nigeria.)\nEmail: \nruthadams508@gmail.com\nWhatsApp and direct phone +234\n901 463 2264.\nBear with me for my failure to pay\nyou.\nRemain blessed\nZainab Shamsuna Ahmed (2019-2023)\nFormer finance Minister"
+    },
+    {
+        "from": "baiter_2262",
+        "to": "scammer_2262",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Fund owner.",
+        "body": "Hello Zainab Shamsuna Ahmed,\n\nThank you for your email and the information provided. It's quite interesting to hear about the situation with my fund. I appreciate your efforts in trying to help me when you were the Finance Minister.\n\nI'm glad to know that Mrs Ruth Adam's, the newly appointed Central Bank Director, is now handling my payment file. It's reassuring to know that she was your classmate at university and that you trust her.\n\nCould you please provide more details about this payment schedule for February-March? How does it work exactly? And what does it mean that part of my payment will be released due to the downturn in the economy?\n\nAlso, could you clarify what kind of directive I should follow up on from Mrs Ruth Adam's? What are the steps I need to take?\n\nLastly, could you tell me more about how I can verify Mrs Ruth Adam's identity? You mentioned asking for her working ID card - how can I do this safely?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nArturo"
+    }
+]

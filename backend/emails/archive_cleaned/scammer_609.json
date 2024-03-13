@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_609",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "HSBC LONDON UK BANK PLC.",
+        "body": "HSBC LONDON UK BANK PLC.\nAddress: 28 Borough High St,\nLondon SE1 1YB, United Kingdom\nPhone: +44 345 740 4404\nHello.?\nI am Dr Andrew Makinson. The Managing Director of HSBC bank of London\nUK and i am contacting you regarding to the  insertion we received\nfrom the World Bank  to release your funds sum 10.5 Million \nUnited\nState Dollars\n to you through ATM Visa Card  immediately\nSo \nyou are advice to resend your information below to  receive your\nATM Visa Card from our agent to your doorstep  immediately\nFULL NAMES: _______________\nCITY: ________________\nSTATE: ______________\nZIP: __________\nCOUNTRY_______________\nAGE: _____\nTELEPHONE NUMBER: _________\nWaiting for your urgent reply.\nWe bank in your response.\nYours in service,\nRegards,\nBEST REGARDS,\nManaging Director/HSBC UK\nDr Andrew Makinson"
+    },
+    {
+        "from": "baiter_609",
+        "to": "scammer_609",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: HSBC LONDON UK BANK PLC.",
+        "body": "Hello Dr. Andrew Makinson,\n\nThank you for reaching out to me. I appreciate your time and effort in contacting me regarding the release of my funds. However, I have a few questions before proceeding further.\n\n1. Can you please provide more details about the World Bank's involvement in this matter? How did they come to know about my funds?\n\n2. Could you explain how the ATM Visa Card works? Is it a secure method of receiving funds?\n\n3. What are the fees or charges associated with receiving the ATM Visa Card? Are there any hidden costs that I should be aware of?\n\n4. Can you provide some information about your agent who will be delivering the card to my doorstep? How can I verify their authenticity?\n\nI look forward to your response and clarification on these matters.\n\nBest wishes,\nSara"
+    }
+]

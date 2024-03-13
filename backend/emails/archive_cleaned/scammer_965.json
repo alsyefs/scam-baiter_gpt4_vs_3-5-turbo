@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_965",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir,",
+        "body": "  Dear Sir,\nI am sorry for intruding on your privacy without prior notice.\nMy name is Barr Gordon Brown,  of Westbound Bank, London. As\nI am privy to the particulars of an esteem\ncustomer   who died intestate (without Will).\n I need a very reliable person whose assistance, name and account can be used to perfect the\nWILL and claim the money as inheritance Upon the successful claim of\nthe  INHERITANCE, it will be shared in an agreed percentage between\nthe two of us.\nPlease,indicate your readiness willingness by contacting me  for more information and modalities.\nThanks,\nMr. Barr Gordon Brown   "
+    },
+    {
+        "from": "baiter_965",
+        "to": "scammer_965",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir,",
+        "body": "Dear Mr. Barr Gordon Brown,\n\nThank you for reaching out to me. I appreciate you considering me for such an important matter. I would be interested in learning more about the details of this opportunity. Could you please provide me with some additional information?\n\n1. Can you tell me more about the deceased customer? What was their occupation or profession?\n2. How much money is involved in this inheritance?\n3. What is the process for perfecting the will and claiming the money?\n4. What percentage are we talking about when it comes to sharing the funds?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nEric"
+    }
+]

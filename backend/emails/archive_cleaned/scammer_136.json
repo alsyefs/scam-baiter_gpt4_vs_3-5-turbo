@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_136",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   We shall proceed with the d",
+        "body": "   We shall proceed with the delivery when you send your ID card or first page of your passport to know whom you and to be sure that you are the rightful receiver.  "
+    },
+    {
+        "from": "baiter_136",
+        "to": "scammer_136",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:    We shall proceed with the d",
+        "body": "Hello! Thank you for reaching out to me. I appreciate your willingness to proceed with the delivery. However, I have a few questions before I can provide any personal information.\n\n1. Can you please explain why my ID card or passport is required for the delivery? Is it a standard procedure?\n\n2. Are there any alternative methods of verification that can be used instead of sharing my personal identification documents?\n\nI look forward to your response and clarification on these matters.\n\nBest wishes,\nLaila"
+    }
+]

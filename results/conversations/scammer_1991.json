@@ -1,0 +1,152 @@
+[
+    {
+        "from": "scammer_1991",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear",
+        "body": "Dear\nDear Beneficiary,\n \nWe have deposited your funds valued at $7.800.000.00 through    \nATM Visa Card delivery after our final meeting today to deliver your card to you,\ncontact the dispatch Manager Maurice Fortin,\nHe will give you the instructions on how you will\nreceive your total fund via ATM  Visa Card\nsend him your full delivery address to avoid wrong delivery such as,\nReceiver Name__\nAddress: ____\nCountry: ____\nPhone Number: ___\nYour ID\n-----------\nBest Regards\nMaurice Fortin \nDispatch Manager"
+    },
+    {
+        "from": "baiter_1991",
+        "to": "scammer_1991",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear",
+        "body": "Hello Maurice Fortin,\n\nThank you for your message. I'm really excited to hear about this! Could you please tell me more about how this ATM Visa Card delivery works? \n\nAlso, could you clarify what funds are being deposited? I don't recall any pending transactions or investments that would result in such a deposit.\n\nLooking forward to hearing from you soon!\n\nBest regards.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1991",
+        "to": "baiter_1991",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Re: Dear",
+        "body": "Before proceeding with ATM you have to reconfirm your information to us your WhatsApp number or telegram so that we can discuss"
+    },
+    {
+        "from": "scammer_1991",
+        "to": "baiter_1991",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.009027777777777777,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Re: Dear",
+        "body": "Thank you for your feedback and You are required to choose one option, which you will be able to pay \nand also convenient for you, for quick delivery of your parcel \ncontaining your ATM CARD and other two original back up documents. \n\nService Type | Delivery Duration | Charges/Fees \n------------------------------ ------------------------------ --------------- \nPremium Express (24hrs Delivery) \nMailing $230.00 00.00 \nInsurance $100.00 00.00 \nVat $75 00.00 \nTOTAL $325.00 \n$325( Hundred and Twenty US Dollars Only). \n.............................. .............................. .......... \nSpecial Express (2 Days) \nMailing $100.00 00.00 \nInsurance $99.00 00.00 \nVat $88.00 00.00 \nTOTAL $270.00 \n$270(Hundred US Dollars Only). \n\n.............................. .............................. ................ \nEconomy Express (3Days) \nMailing $250.00 00.00 \nInsurance$?90.00 00.00 \nVat (5%) $80.00 00.00 \nTOTAL $420.00 00.00 \n$420( hundred and eight US Dollars Only). \n\n.............................. .............................. ........ \n\nif you want us to transfer your money to your account you'll have to make it the deposit $879 \n\nif you want us open online account on your name you have to make a deposit of $1650 so once you make the payment your money will be transferred to your account \n\nYou are hereby required to advise us, on your parcel delivery option \nby filling in the required form stated below. Please note that the \ndeadline for claiming your fund is exactly one week after the receipt \nof this email. After this period, your fund will be returned back to \nthe ordering customer. That is the instruction given to us.So take (http://us.So) \nnote. We request that you reconfirm your mailing address to ensure \nconformity with our record for immediate dispatch of your parcel to \nyou. Only valid residential/ Office address and postal address are \ncertified OK. \n\nDELIVERY DESTINATION INFORMATION: \n------------------------------ ------------------------------ - \nReceiver's Name :............................. ................. \nAddress:...................... .............................. ........... \nTel/:......................... .............................. ............... \nDelivery Information/ Parcel Description \n\n------------------------------ ------------------------------ --------------- \nDelivery Terms: .............. .......International Delivery \nCondition Of Delivery..............Priority Delivery \nConsignment Note No: ........... MI 49866-2110 \nColor of Parcel: ..................... Brown. \nTotal Weight: ..........................36.2 kg \nTotal Net Weight: ...................1.7 kg"
+    },
+    {
+        "from": "baiter_1991",
+        "to": "scammer_1991",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.01070601851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Re: Dear",
+        "body": "Hello there! I'm really excited to learn more about this ATM process. Could you please explain it a bit more? How does it work exactly?\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "baiter_1991",
+        "to": "scammer_1991",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.010891203703703703,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Re: Dear",
+        "body": "Hello there,\n\nThank you for your detailed message. I appreciate the options you've provided for the delivery of my ATM card and other documents. It's great to have choices!\n\nI'm a bit confused about the different charges and fees associated with each delivery option though. Could you please clarify what exactly is included in each category? For example, what does \"Mailing\" cover? And what kind of insurance is provided?\n\nAlso, could you explain more about the online account option? How does it work and what are its benefits compared to receiving an ATM card?\n\nLastly, I noticed that you mentioned a deadline for claiming my fund. What happens if I'm unable to meet this deadline due to unforeseen circumstances?\n\nLooking forward to your response.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1991",
+        "to": "baiter_1991",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.11028935185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Re: Re: Dear",
+        "body": "Thank you for your most recent correspondence to us, as advised we intend to provide you with our unparalleled services by maintaining the scope allocated to us in the opening Personal Online Account. Please be advised that the current situation surrounding your payment, is one as such can be termed as being very sensitive and is presently undergoing an internal security caution under the supervision of the International Banking and Finance Securities. \n\nAs a result of this all forms on negotiation arising based on deductions of any form of fees, levies or taxes will not be entertained on funds awaiting satisfactory documentation. From the inception, the need to underwrite your funds by securing an adequate insurance policy is essential, one particular category of reportable transactions is intended to secure that the transactions involving legally derived funds or funds of unclear source on its origin demands raising an underwritten insurance policy, in other words, the purpose of insurance is to transfer risk from the insured to the insurer, i.e. insurance companies act as a financial intermediary by providing a Financial risk transfer service that is funded by the payment of insurance premiums received from policy holders. \n\nRelatively your inquisitions regarding this transaction, judging from the scope by its inception does not suffice at this juncture. Understand our expertise regarding this payment transaction must undergo a due process, whereby each step is kept in strictest confidentiality from the next step. Presently, there are several economic reforms being put in place by major financial institutions to protect viable customers like you. \n\nThe origin of the funds in question (US$7,800,000.00) was as a result of instruction and approvals given from, Director International Fraud Surveillance and Control, United Nation Organization and debt buy back process ensued by major financial organizations like the International Monetary Fund (IMF) and World Bank to cushion the debt incurred by viable customers like you to sustain future investment prospects. \n\nTherefore Choose one option stated below depending on your choice with the required fee: \n\n(1) Payment via Automatic Teller Machine (ATM card). The delivery of your ATM card to your address and the obtaining of the approval documents cost you  US$450 \n\n(3) Online Banking ( Bank To Bank Transfer): This is immediate transfer to your account or opening of account with your informations and your photo passport and we will obtain some approval documents which will cost you a sum of US$1,650 \nif you don't have the money complete you can deposit any amount that is what i meaning of the deadline to represent that you are really to get your funds"
+    },
+    {
+        "from": "baiter_1991",
+        "to": "scammer_1991",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.1175,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Re: Re: Dear",
+        "body": "Hello,\n\nThank you for your detailed explanation. I must admit, some of the banking terms and processes are a bit over my head. However, I'm trying to understand better.\n\nYou mentioned something about an insurance policy being essential. Could you please elaborate on that? What kind of insurance policy are we talking about here?\n\nAlso, you mentioned two payment methods - via an ATM card and online banking. Could you explain a bit more about these options? How would they work exactly?\n\nLastly, there's mention of some costs associated with obtaining approval documents. Could you break down these costs for me? What exactly am I paying for?\n\nI appreciate your patience in explaining these matters to me.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "baiter_1991",
+        "to": "scammer_1991",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.11805555555555555,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Re: Re: Dear",
+        "body": "Hello,\n\nThank you for your detailed explanation. I must admit, some of the banking terms are a bit over my head. However, I'm trying to understand better.\n\nYou mentioned something about an insurance policy being essential. Could you please explain more about this? What kind of insurance policy is it and how does it work?\n\nAlso, you talked about two payment methods - via ATM card and online banking. Could you please elaborate on these? How would they work exactly?\n\nLastly, you mentioned some costs associated with these methods. Is there any way to avoid or reduce these costs? \n\nLooking forward to your response.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1991",
+        "to": "baiter_1991",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.7624884259259259,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Re: Re: Re: Dear",
+        "body": "Hello ..... \n\nYour email was received and acknowledged. The insurance policy is the agreement between the insurer and you, which determines the claims which the insurer is legally required to pay for any Inability to accomplish or refuse to make the fund available for you the beneficiary, as been instructed. The insurer promises to pay the loss caused by perils covered under the policy language. \n\nSo the fund is insured to be legit and will be processed and activated when every necessary action has been taken. \nThe method of payment is dual and you will choose the method that will be preferable to you. \nConcerning the cost that was attached to it, I will help out in my own little way to reduce it and make sure the process is successful. \nKeep me posted with your positive response to enable us proceed with your transaction ASAP. \n\nSincerely Yours"
+    },
+    {
+        "from": "baiter_1991",
+        "to": "scammer_1991",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7823263888888888,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Re: Re: Re: Dear",
+        "body": "Hello,\n\nThank you for your detailed explanation about the insurance policy. It's great to know that the fund is insured and will be processed once all necessary actions are taken. \n\nI'm curious about the dual method of payment you mentioned. Could you please elaborate more on this? What are these methods and how do they work?\n\nAlso, I appreciate your kind gesture to help reduce the cost attached to it. Could you provide more information on how this would be possible?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "baiter_1991",
+        "to": "scammer_1991",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7824537037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: Re: Re: Re: Dear",
+        "body": "Hello,\n\nThank you for your detailed explanation about the insurance policy. It's great to know that the fund is insured and will be processed once all necessary actions are taken.\n\nI'm curious about the dual method of payment you mentioned. Could you please elaborate on what these methods are? Also, I appreciate your offer to help reduce the cost attached to it. How exactly would this work?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "scammer_1991",
+        "to": "baiter_1991",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.8631828703703703,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: Re: Re: Re: Re: Dear",
+        "body": "The methods of payment I mentioned earlier was the Delivery of your ATM CARD and the online bank account but each has a cost attached. \n\nYou can chose to receive your fund through ATM VISA CARD then it will be delivered at your home address but the cost you will pay is for the ownership official stamp to enhance a swift and successful delivery. And the same with the online bank to enable the activation of your account with the bank. \nThe ATM visa card will be programmed to pay $5000 daily and can be used at any ATM machine around your city. \n\nThanks for your understanding \n\nSincerely Yours \n.........................."
+    },
+    {
+        "from": "baiter_1991",
+        "to": "scammer_1991",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.8657986111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: Re: Re: Re: Re: Dear",
+        "body": "Hello,\n\nThank you for your detailed explanation. I appreciate the options you've provided for receiving funds. It's great to know that the ATM Visa card can be used at any ATM machine around my city.\n\nCould you please provide more information about the ownership official stamp? What exactly is it and why is it necessary for delivery? Also, could you clarify what costs are associated with activating an online bank account?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJames"
+    },
+    {
+        "from": "baiter_1991",
+        "to": "scammer_1991",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.8658564814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: Re: Re: Re: Re: Dear",
+        "body": "Hello,\n\nThank you for your detailed explanation. I appreciate the options you've provided for receiving funds. It's great to know that the ATM Visa card can be used at any ATM machine around my city.\n\nCould you please provide more information about the ownership official stamp? What exactly does it do and why is it necessary for delivery? Also, could you clarify what costs are associated with activating an online bank account?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJames"
+    }
+]

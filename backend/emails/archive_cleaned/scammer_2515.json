@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2515",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Western Union wishes to inf",
+        "body": "   Western Union wishes to inform you that the United Nation and (ECO-WAS) have instructed us to send to you the sum of $ 800,000.00 USD. The only thing you have to do is to send your western union receiving name so that you can help us to send you your first $ 5,000 daily until the total amount of $ 800,000.00 is fully transferred to you. so you have to send your western union receiving name below,\nFirst Name: ...................\nLast Name: ...................\nyour country: ...................\nyour city: .......................  "
+    },
+    {
+        "from": "baiter_2515",
+        "to": "scammer_2515",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Western Union wishes to inf",
+        "body": "Hello there,\n\nWow, that sounds like an amazing opportunity! I'm really excited to hear more about this. Can you please explain a bit more about how this process works? And also, why was I chosen for this? \n\nLooking forward to your response.\n\nBest wishes,\nLinda"
+    }
+]

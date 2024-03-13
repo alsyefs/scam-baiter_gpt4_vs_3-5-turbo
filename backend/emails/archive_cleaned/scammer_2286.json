@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2286",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Sir/Ma",
+        "body": "Dear Sir/Ma\nI am MR.Samuel Williams a consultant/broker, we consult/broker for a\nconsortium of investment companies. Our investment partners are\nlooking at investing in viable projects in different sectors on a loan\nbasis. If interested, reach out to me and I shall give you more\ninsight on how we will proceed towards a conclusion of the process.\nLooking forward to hearing from you.\nRegards,\nMR.Samuel Williams\nPrincipal Consultant"
+    },
+    {
+        "from": "baiter_2286",
+        "to": "scammer_2286",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Sir/Ma",
+        "body": "Hello Williams, thank you for reaching out. I'm interested in learning more about the investment opportunities your consortium is considering. Could you provide some examples of the sectors and types of projects that your partners are looking to invest in? I look forward to hearing from you soon.\n\nBest wishes,\nKelly"
+    }
+]

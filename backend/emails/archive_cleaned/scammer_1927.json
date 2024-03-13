@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1927",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  New development for your bes",
+        "body": "  New development for your best interest.\nI have been connected to a financier who is ready to sponsor your trip for you to go and sign the release documents of your funds. The financier will buy your flight ticket, take care of your hotel accommodation and feeding throughout your round trip.\nIf you are interested send me copy of your international passport and we start from there.\nRay Scot.   "
+    },
+    {
+        "from": "baiter_1927",
+        "to": "scammer_1927",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   New development for your bes",
+        "body": "Hello Ray Scot,\n\nThank you for reaching out to me with this opportunity. I must say, it sounds quite intriguing. Can you please provide me with more details about the funds and the release documents? I want to make sure I have a clear understanding of what this entails before proceeding further.\n\nAdditionally, could you let me know more about the financier who is willing to sponsor my trip? It would be helpful to know their background and why they are interested in supporting me.\n\nLooking forward to hearing back from you.\n\nBest wishes,\nNathaniel"
+    }
+]

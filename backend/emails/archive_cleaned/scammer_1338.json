@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1338",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings To You,",
+        "body": "Greetings To You,\nAs an accredited financial consultant to a security company in UAE\ncalled Neat Cargo, I have been given privileged information by the\nPrivate Banking Executive.That information is that one of their bank\ncustomers who is currently bedridden wants to give out her wealth to a\nlucky recipient who must use half of such donation for charity.\nThe amount of inheritance will be US$5.5Million.The bank has informed\nme that any of the recipients will have to take care of the legal\nprocess by way of paying me to coordinate the release of the\nUS$5.5Million to the lucky beneficiary.\n I am contacting you to find\nout if you can pay my US$5,500 consultation/legal fees\n.If you can\nhandle it then there is a need for the  Private Bank to contact you\nimmediately for commencement of the process of releasing the\ninheritance funds to you.\nFor the bank to contact you,urgently provide your Full names and\naddress including your occupation and age with an ID.Finally,note that\nall processes will be very transparent and legal as you will see in\nall the documents.This has absolutely nothing to do with internet scam\nso With due respect to you,please do not respond to this message if\nyou feel you can not handle the processing of this free will donation.\nIn addition,please do not promise me a percentage or ask me to work on\ncommission.I will not accept it because I need such fee to be used in\nprocuring,updating and swearing big volume of documents both at the\nbank and courts hence if you can not handle it,you are free to\nrespectfully decline this offer.\nBest regards,\nJoseph A. Miller.\nEMAIL: \njosephanthonymiller904@gmail.com"
+    },
+    {
+        "from": "baiter_1338",
+        "to": "scammer_1338",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings To You,",
+        "body": "Hello Joseph A. Miller,\n\nThank you for reaching out to me with this opportunity. I appreciate you considering me for such a generous offer. I'm interested in learning more about the process and how I can assist you with the legal fees.\n\nCould you please provide me with some additional details? Specifically, I would like to know more about the bank customer who wishes to donate their wealth. What is their name and why have they chosen me as a potential recipient? Additionally, could you explain how the legal process works and what my responsibilities would be?\n\nI want to ensure that everything is transparent and legitimate before proceeding further. Thank you again for considering me for this opportunity.\n\nBest wishes,\nMildred"
+    }
+]

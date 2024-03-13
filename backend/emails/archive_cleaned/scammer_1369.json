@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1369",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear",
+        "body": "  Dear\nI'm happy to inform you about my success in getting your funds\ntransferred under the cooperation of a new partner from Paraguay in\nthe person of Mr. Santos Da Silva Mendes. Presently I’m in the\nhospital diagnosed with cancer but feeling a lot better because now I\nknow my heart’s desire has been accomplished.\nMeanwhile, I didn’t forget your past efforts and attempts to receive\nrestitution payment due to you. I need you to contact my secretary in\nThe UK, her name is; Judith Butler and her email address\njudithbutler667@gmail.com\nI asked him to send you a total of GBP500,000.00 (Five  Hundred and\nPounds Sterling) Certified bank draft which was raised with HSBC\n(London) in your favor  for your compensations and  all the past\nattempts to assist in this overdue payment process . I sincerely\nappreciate your efforts at that time very much, so feel free to get in\ntouch with my secretary Tricia Porter  and re- confirm your address\nwhere she will send the draft to you via special post-delivery to your\ngiven address.\nAt the moment, I’m still at the hospital and won’t have time to\ncommunicate frequently, remember that I have forwarded instructions to\nmy secretary on your behalf to send out the Draft to you, so feel free\nto get in touch with Tricia without any delay.\nI promise to call you as soon as I settle down and my health permits me.\nThank you for your understanding and bye for now, please do forgive me\nfor the delay in sending out your compensations\nYours Truly,\nGraham Tyler Chambers & Co.\nHardman Square,\nSpinning fields,\nManchester M3 3EB   "
+    },
+    {
+        "from": "baiter_1369",
+        "to": "scammer_1369",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear",
+        "body": "Dear Graham Tyler Chambers Co.,\n\nThank you for reaching out to me with this information. I'm glad to hear about your success in getting my funds through your new partner. I hope Mr. Santos Da Silva Mendes recovers from his illness soon.\n\nI appreciate that you haven't forgotten my past efforts and attempts to receive the payment due to me. It's kind of you to arrange for a certified bank draft in my favor. Could you please provide more details about how I can contact your secretary, Judith Butler? I would like to confirm my address and ensure that the draft is sent securely.\n\nI understand that you're currently at the hospital and may not have much time, but I will make sure to get in touch with Tricia Porter as soon as possible. Please take care of yourself and focus on your health.\n\nThank you again for your assistance, and I look forward to hearing from your secretary soon.\n\nBest wishes,\nNorman"
+    }
+]

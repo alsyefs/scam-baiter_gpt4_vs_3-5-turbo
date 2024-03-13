@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_476",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello,",
+        "body": "Hello,\nHow are you today? we have the financial capability to finance any\ninvestment portfolio as far as is genuine we need a capable business\npartner that possesses investment strategies or profitable business\ninformation for good turnover within 5-10 years. We can provide proof\nof funds on demand Please write me back if you can work with me on\nthis project.\nThank You,\nRichard Crump"
+    },
+    {
+        "from": "baiter_476",
+        "to": "scammer_476",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello,",
+        "body": "Hello Richard Crump,\n\nI hope you're doing well. Thank you for reaching out to me with this opportunity. I'm definitely interested in learning more about it. Could you please provide me with some additional details about the investment portfolio and the type of business partnership you have in mind? \n\nAlso, could you explain what kind of proof of funds you can provide? It's important for me to have a clear understanding before moving forward.\n\nBest wishes,\nRhiannon"
+    }
+]

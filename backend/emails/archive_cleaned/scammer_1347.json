@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1347",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "United States Secret Service",
+        "body": "United States Secret Service\n245 Murray Drive,\nBuilding 410,\nWashington, DC 20223\nTel: (202) 793-5033\nWebsite: www. secretservice.gov\nDate: 01/06/2024\n \nAttn: Beneficiary,\n \nWe write to officially inform you that we have just completed an investigation with the help of our Electronic Crimes Task Force regarding your approved nominee beneficial payment valued at the sum of $6.5 Million dollars. However, acting in our capacity as the Apex body authorized by the U.S. Government to reconcile foreign payment, we are pleased to inform you that full clearance has been granted for the release of the full payment of your approved nominee beneficial payment valued at the sum of $6.5 Million dollars.\n \nPlease take note that your payment has been approved and authorized for immediate release and transfer into your bank account via the CITIBANK N.A. For your confirmation, we have authorized the CITIBANK N.A. to deduct all supposed fee associated with the fund transfer from the Principal value of the $6.5 Million dollars before transferring the balance to your designated bank account via SWIFT telegraphic wire transfer. \nPlease take note that this deduction will be made possible through processing of a \"Waiver Clearance Certificate\" for a fee of $575.00 ONLY.\n \nPlease ensure that you confirm the details of your receiving bank account, as well as your personal details via email as soon as you have receive this message.\n \nYours Sincerely,\n \nKimberly A. Cheatle\nDirector, United States Secret Service,"
+    },
+    {
+        "from": "baiter_1347",
+        "to": "scammer_1347",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: United States Secret Service",
+        "body": "Hello Kimberly A. Cheatle,\n\nThank you for reaching out to me regarding my approved nominee beneficial payment. I appreciate the information you have provided. Could you please clarify what exactly this payment is for? I want to make sure I have a clear understanding of the situation.\n\nAdditionally, could you explain why there is a need to deduct fees from the principal value of the payment? Is there any way these fees can be waived or reduced?\n\nI look forward to your response.\n\nBest wishes,\nJose"
+    }
+]

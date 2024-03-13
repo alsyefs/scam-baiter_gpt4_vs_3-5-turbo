@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1865",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "You have been selected to rece",
+        "body": "You have been selected to receive early payment.                       \nsend permission number #4995959 to Email : \nmygreen@abwesend.de"
+    },
+    {
+        "from": "baiter_1865",
+        "to": "scammer_1865",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: You have been selected to rece",
+        "body": "Oh wow, that sounds really exciting! I'm so thrilled to hear about this. Could you please tell me more about this early payment? How did I get selected for it?\n\nBest wishes,\nStephen"
+    },
+    {
+        "from": "scammer_1865",
+        "to": "baiter_1865",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Aw: Re: You have been selected to rece",
+        "body": "RHF NUMBER 48685-3959-22 \nA.M.T    €   228,000.00 \n \n#58694 \n  \n S&C European Green Initiatives \n  \n  \n    \n Best wishes for 11th  of March 2024! \n \nThe S&C European Green Initiative sees an abundant future for all people, places and planet. We envision a planet where there is no conflict between our economic needs and sustainable systems of life, through ministries of relief, development, and advocacy. The S&C European Green Initiative was founded in 1998 by a group of community personnel with the focus of development and to anticipate the challenges our planet faced, and in founding International and its national chapters, we aimed to hurdle those obstacles by bringing together a global community that would advocate for Mother Earth. We have been supported to support others, that is how development can be achieved. \n \nOnce in every five years we make a compulsory mandate to include two hundred ( 200 ) selected individuals for development trust funds to improve standard of living, Sustainable Development and growth to support them in transformation of their economies into a green growth economic model.  The amount allocated to individuals  is two hundred and twenty eight thousand Euros  (€  228,000.00 ). You have been selected with 9.2 ration count, our system algorithm selection interface automatically sending you notification message with RHF NUMBER 48685-3959-22 and acceptance number 38585-48492, has indicated that you are approved for this payment, and your response has also indicated that you are available to receive payment after confirming your reply. We see an abundant future for people, places and the planet. We envision a planet where there is no conflict between our economic needs and sustainable systems of life. \n \nOur OpenAI Data Management, automatically delivers clean, analytics-ready data, selectively outlist the fifty ( 50 ) individual emails to receive this trust fund for BATCH-C-58694. \n \nThe following details is required to complete your claims process: \n \n \n  * RHF Number / Code : 48685-3959-22 \n  * Full Names: \n  * Sex: \n  * Phone Number: \n  * Nationality: \n  * Date Of Birth: \n  * Occupation: \n  * House Address: \n  * Current State: \n  * Country: \n \n   \n  \nAttached a copy of ID card (international passport/driver's license/identification card) for final verification before payment. After your ID verification you will be sent an application number to activate your payment online. \n \n \n______________________________ ____ \nPrivacy and security \nWe will never share your information with any third party \n______________________________ ____ \n \nUpon receiving the above required information, and validation to make sure we are dealing with the right recipient with payroll number 58694  our payment director can proceed to release your payment to you. \n \nAlert: Your code number, and message content should be kept confidential until you have access to your funds. \n \n  \n    \n  \n Gebhard Felix Tobias. \nPresident Director \nS&C European Green Initiatives   \n Oetlisbergstrasse 48, 8053 Zürich, Switzerland \n \n \n \n Gesendet: Sonntag, 10. März 2024 um 04:49 Uhr Von: \"Stephen\" <db55051@***.com> Betreff: Re: You have been selected to rece \n \nOh wow, that sounds really exciting! I'm so thrilled to hear about this. Could you please tell me more about this early payment? How did I get selected for it?\nBest wishes, \nStephen"
+    },
+    {
+        "from": "baiter_1865",
+        "to": "scammer_1865",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.03863425925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Aw: Re: You have been selected to rece",
+        "body": "Dear Stephen,\n\nThank you for your quick response and interest in our initiative. We're glad to hear that you're excited about this opportunity!\n\nThe selection process is based on a random algorithm that picks out individuals from a global database. It's completely random and unbiased, so it's really a matter of luck! \n\nAs for the early payment, once we have verified your details and confirmed your identity, the funds will be released to you. This is done to ensure that the right person receives the funds.\n\nCould you tell me more about how you plan to use these funds? We always love hearing about the positive impact our initiative has on people's lives.\n\nBest wishes,\nStephen"
+    }
+]

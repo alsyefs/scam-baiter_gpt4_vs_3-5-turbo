@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1607",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Hello Dear ",
+        "body": " Hello Dear \nI am Ms Harpreet Mann From the Western Union Head office, State Bank of India, New Delhi, India.\nI write to inform you that The World Health Organisation has ordered this Bank to transfer the Sum of US$ 25,000 to you as a compensation for the damages\ncaused by the Inflation and the Pandemics.\nI was asked to send the money to you on the amount of US$ 3000 daily. We have also transferred the first US$ 3000  to you through our service Western Union and the transfer receipt is attached below, You can not be able to pick up the money today because we have not activated the MTC Number for your country and this will be\ndone as soon as you pay the activation fee of US$35. We need this fee to activate your MTC numbers today and you will be able to Pick up the first\nUs$ 3000 today as well. You can track the MTCN HERE AND SEE THE MONEY IS AVAILABLE ON IT, MTCN 712-848-XXXX Track it here  :https:/ /www.westernunion.com/web/global-service/track-transfer\nPlease let me know how you can be able to send this and as soon as this fee is paid, we shall activate the MTC number and you will cash if up today.\nThank you, Ms Harpreet Mann.\nPhone/Whatsapp: +1 418 407 4751.   "
+    },
+    {
+        "from": "baiter_1607",
+        "to": "scammer_1607",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  Hello Dear ",
+        "body": "Hello Ms. Harpreet Mann,\n\nThank you for reaching out to me. I appreciate the information you have shared regarding the transfer of funds from the World Health organization. It's interesting to hear about the damages caused by inflation and pandemics.\n\nI understand that I need to pay an activation fee in order to receive the funds through Western Union. Could you please provide me with more details about this fee? How can I make the payment? Is there a deadline for paying the fee?\n\nAdditionally, could you explain what MTC numbers are and how they are related to receiving the funds? I would like to understand the process better before proceeding.\n\nThank you for your assistance.\n\nBest wishes,\nJared"
+    }
+]

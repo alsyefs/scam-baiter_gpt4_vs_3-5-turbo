@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_146",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear, Fund Beneficiary,",
+        "body": "  Dear, Fund Beneficiary,\nThis is to inform you that in the course of my investigation as\ndirector of payment verification / implementation committee I came\nacross your name as unpaid fund beneficiary in the record of the\ncentral bank of Nigeria and other banks that are supposed to get your\nfunds amounting on the sum of $6,700,000.00 (Six million seven hundred\nthousand united states dollars) released to you. My committee was set\nup by the payment reconciliation committee to verify and scrutinize\nall outstanding debts owed to our foreign beneficiaries in accordance\nwith the information received from the United States government and\nother countries over unpaid huge debts owed to Foreigners.\nGet back to me on \nariwokayode21@gmail.com\n as soon as you receive this\nmessage for more directives and get the deduction done to enable you\nto get your payment released in your account.\nYours sincerely,\nOlukayode Ariwoola  (CJN)\nCHIEF JUSTICE FEDERAL\nREPUBLIC OF NIGERIA\nPHONE: +234-91-2082-5362   "
+    },
+    {
+        "from": "baiter_146",
+        "to": "scammer_146",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear, Fund Beneficiary,",
+        "body": "Hello Olukayode Ariwoola CJN,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I wasn't aware of any unpaid funds in my name. Could you please provide more details about this? How did my name come up in the records of the Central Bank of Nigeria and other banks?\n\nI'm also curious about the process involved in releasing these funds. What kind of directives are we talking about here? And what does it mean to get the deduction done?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nRobert"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1468",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  ATTN: BOARD OF DIRECTORS & I",
+        "body": "  ATTN: BOARD OF DIRECTORS & INSPECTORS (SANTANDER BANK NEW YORK)\nTHIS IS TO INFORM YOU THAT WE ARE NOW TAKING OVER OF THE TRANSACTION OF (XXXXXX BUSCH) WHICH HAS BEEN TAKING LONG IN YOUR BANK CUSTODY SINCE WE ADVISED YOUR ORGANIZATION TO RELEASE HIS FUNDS SINCE ALL THIS WHILE, IT'S QUITE UNFORTUNATE THAT UP TO THIS MOMENT HE HAS NOT RECEIVE ANY FUNDS FROM YOUR ORGANIZATION WHICH IS QUITE UNCALLED FOR. AFTER SERIES OF CONFERENCE MEETING FROM OUR OUR TOP DIRECTORS, A DECISION HAS BEEN CONCLUDED THAT THE FUND SHOULD BE RETURN BACK TO OUR BANK (ROYAL BANK OF SCOTLAND - LONDON) F0R IMMEDIATE PAYMENT OF HIS OR HER FUND WITHOUT ANY FURTHER DELAY. WE APPRECIATE YOUR EFFORT BY KEEPING THE FUNDS SAFE, BUT WE DISLIKE THE DELAY AND THE INCONVENIENCES YOU BROUGHT TO THE BENEFICIARIES SINCE ALL THIS YEAR, AS A MATTER OF FACT WE ARE NOT HAPPY FOR THE SITUATION.\nBASED ON THE INSTRUCTIONS FROM OUR BOARD OF DIRECTORS, YOU HAVE 24HRS TO FORWARD ALL THE RELATED FILES ON THIS FUNDS TO ENABLE US RELEASE HIS OR HER FUNDS IMMEDIATELY BEFORE 1ST JANUARY 2024 RESPECTIVELY, PLEASE DO BEAR IN YOUR MIND THAT WE DON'T ACCEPT ANY MORE DELAY ANYMORE, WE ARE MAKING SO SURE THE BENEFICIARY RECEIVE THE FUND THROUGH ROYAL BANK OF SCOTLAND CONFIRM ATM CARD BEFORE 1ST JANUARY 2024 AS SOON AS POSSIBLE, YOUR ORGANIZATION SHOULD DO THE NEEDFUL AND FORWARD ALL THE FILES AND DOCUMENTS RELATED TO THIS FUNDS WITHIN 24HRS, WE ARE WAITING.\nYOUR SINCERELY,\nMR. ROBERT COOK.\nPRESIDENT,\nBOARD OF DIRECTORS & INSPECTORS.\nROYAL BANK OF SCOTLAND - LONDON.\nCC: BOARD OF DIRECTORS (SANTANDER BANK NEW YORK)\nCC: MR. CHARLES WILSON (SANTANDER BANK NEW YORK)\nCC: FEDERAL RESERVE BANK NEW YORK.  "
+    },
+    {
+        "from": "baiter_1468",
+        "to": "scammer_1468",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   ATTN: BOARD OF DIRECTORS & I",
+        "body": "Hello Mr. Robert Cook,\n\nThank you for reaching out to me regarding the funds of XXXXXX Busch. I understand that there has been a delay in releasing the funds from my bank's custody, and I apologize for any inconvenience caused.\n\nCould you please provide me with more details about this situation? Specifically, what files and documents do you require from me in order to proceed with the release of the funds? Additionally, could you clarify how the funds will be transferred through the Royal Bank of Scotland confirm ATM card?\n\nI appreciate your assistance in resolving this matter promptly. Looking forward to your response.\n\nBest wishes,\nSandra"
+    }
+]

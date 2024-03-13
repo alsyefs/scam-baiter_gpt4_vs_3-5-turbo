@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_364",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear  ",
+        "body": "  Dear  \nHow are you doing?\nI am writing to remind you that I have been waiting to hear from you for a long time now to enable us to conclude and get your funds released to you without wasting any further time.\nKindly get back to me and let me know when you are intending to send the funds needed to enable us to get this transaction completed.\nWaiting to hear from you soon to enable us to serve you better.\nRegards,\nJohn Webba\nDirector of Payment Operations.  "
+    },
+    {
+        "from": "baiter_364",
+        "to": "scammer_364",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear  ",
+        "body": "Hello John Webba,\n\nI hope this message finds you well. I appreciate your patience and understanding in this matter. It's great to hear from you again.\n\nI'm curious about the funds you mentioned. Could you please provide more details about it? What is the purpose of these funds and how will they be used?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nLori"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1205",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  You keeping quiet is worriso",
+        "body": "  You keeping quiet is worrisome. If you do not want the loan, please respond so I can push it to someone else but if you want the loan and are interested, you can partner with our managing director Dr. John Saheed or you can do it alone. Get back to me with your details if you are still interested\nRegards,\nCFO   "
+    },
+    {
+        "from": "baiter_1205",
+        "to": "scammer_1205",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   You keeping quiet is worriso",
+        "body": "Hello,\n\nThank you for reaching out to me. I apologize if my silence has caused any concern. I am indeed interested in learning more about the loan opportunity you mentioned. Could you please provide me with some additional details?\n\nWhat are the terms and conditions of the loan? What is the interest rate? Are there any specific requirements or documents needed to apply for this loan? How long is the repayment period?\n\nI appreciate your assistance in providing these details so that I can make an informed decision.\n\nBest wishes,\nHelen"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_475",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  EAR  ",
+        "body": "  EAR  \nTHANK YOU FOR YOUR EMAIL. KINDLY FORWARD RECEIPT PAYMENT SLIP AS SOON AS YOU MADE THE PAYMENT .\nYOURS TRULY,\n PARKER JAMES ALLEN TRUST\n( LEGAL PRACTITIONER)   "
+    },
+    {
+        "from": "baiter_475",
+        "to": "scammer_475",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   EAR  ",
+        "body": "Hello Parker James Allen Trust,\n\nThank you for reaching out to me. I appreciate your email. However, I'm a bit confused about the payment slip you mentioned. Could you please provide more details about what payment this is in reference to? I want to make sure I understand everything clearly before proceeding.\n\nLooking forward to your response.\n\nBest wishes,\nJohn"
+    }
+]

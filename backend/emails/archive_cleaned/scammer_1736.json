@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1736",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  ATTN",
+        "body": "  ATTN\nWE BRING TO YOUR NOTICE THE UNANIMOUS AGREEMENT BETWEEN THE HIGH COURT\nOF THAILAND AND THE SIAM COMMERCIAL BANK WITH AN AUTHORIZATION FROM\nTHE THAILAND AUTHORITY INFORMING YOU THAT AFTER MUCH DELIBERATION, WE\nHAVE AGREED THAT A COMPENSATION AMOUNT OF US$750,000.00 SHOULD BE\nPROCESSED AND RELEASED TO YOU AS THE GOVERNMENT CANNOT AFFORD YOUR\nPRINCIPAL SUM DUE TO ECONOMIC RECESSION.\nIT IS EXPECTED THAT YOU FILL AND RETURN THE BENEFICIARY APPLICATION\nFORM AS ATTACHED, THIS IS THE ONLY WAY WE CAN ATTEND TO YOU. MOST\nIMPORTANTLY, PLEASE SCREW DOWN THE FORM AND GO THROUGH THE REMARK\nSPECIAL INSTRUCTIONS, WITHOUT WHICH WE CANNOT ATTEND TO YOU, THIS IS\nBECAUSE AN APPLICATION AND REGISTRATION FEE OF $970.00 IS REQUIRED\nFROM YOU, THIS FOR THE PROCESSING OF YOUR COMPENSATION FUND, WE DO NOT\nWANT ANY SURPRISES ALONG THE WAY, AS IT IS STATED, YOU MUST MAKE THE\nPAYMENT IF YOU MUST BE ATTENDED TO AND THE COURT WILL ISSUE YOU A\nCOURT ORDER WHICH WILL BE COPIED TO THE BANK FOR IMMEDIATE RELEASE OF\nYOUR FUNDS WITHOUT ANY DELAY.\nIF THIS INTEREST YOU, KINDLY FILL THE FORM, SEND IT BACK TO ME AND I\nWILL GIVE YOU DETAILS TO MAKE THE ONE OFF PAYMENT OF $970 ONLY.\nIT IS IN OUR BEST INTEREST TO SERVE YOU BETTER AND THE COURT ASSURE\nYOU THAT YOU WILL NOT BE DISAPPOINTED.\nYOURS IN LEGAL SERVICES.\nMR. JOHN SLOSHAR\nREGISTRAR\nHIGH COURT OF THAILAND   "
+    },
+    {
+        "from": "baiter_1736",
+        "to": "scammer_1736",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   ATTN",
+        "body": "Hello Mr. John Sloshar,\n\nThank you for your message and the information provided. It's quite interesting to hear about this unanimous agreement between the High Court of Thailand and the Siam Commercial Bank.\n\nI'm a bit confused though, could you please clarify what this is all about? I don't recall having any dealings with the High Court of Thailand or the Siam Commercial Bank. \n\nAlso, you mentioned a form that needs to be filled out and returned, but I didn't see any attached to your message. Could you kindly resend it?\n\nLastly, regarding the payment you mentioned, could you provide more details on what exactly this fee is for? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nBarbara"
+    }
+]

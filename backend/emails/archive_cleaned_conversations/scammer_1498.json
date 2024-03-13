@@ -1,0 +1,112 @@
+[
+    {
+        "from": "scammer_1498",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Sir/Ma, ",
+        "body": "  Sir/Ma, \nI am UN Special Agent Vant Lucas , with Turkish Cargo , \nSir, before now Your One (1) Box  was intercepted and held at Istanbul international airport  from  further delivery, due to Custom check ,after proper interrogation and verification ,we discovered your box of money in Euro was about been diverted to Switzerland \n.\n.\nKindly download and fill the attached delivery form, and send back a copy,to enable us process and  commence delivery of your box. to your address\nAwait your reply\nRegard\nAgent Lucas Vant  "
+    },
+    {
+        "from": "baiter_1498",
+        "to": "scammer_1498",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Sir/Ma, ",
+        "body": "Hello Agent Lucas Vant,\n\nThank you for reaching out to me. I appreciate your assistance in delivering my box of money in Euro. However, before I proceed with filling out the delivery form, I have a few questions.\n\n1. Can you please provide more details about why my box was held at Istanbul airport? What were the specific reasons for the custom check?\n\n2. How did you come across my information and determine that the box belongs to me?\n\n3. Is there any additional documentation or identification required from my end to ensure a smooth delivery process?\n\nI look forward to your response.\n\nBest wishes,\nDamon"
+    },
+    {
+        "from": "scammer_1498",
+        "to": "baiter_1498",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Your info",
+        "body": ">\r\n>\r\n> Hello Agent Lucas Vant,\r\n>\r\n> Thank you for reaching out to me. I appreciate your assistance in\r\n> delivering my box of money in Euro. However, before I proceed with filling\r\n> out the delivery form, I have a few questions.\r\n>\r\n> 1. Can you please provide more details about why my box was held at\r\n> Istanbul airport? What were the specific reasons for the custom check?\r\n>\r\n\r\nYour Box was intercepted because the Diplomat was diverting your box to a\r\nbank in Switzerland without Turkish bilateral monetary clearance\r\ncertificate\r\n\r\n>\r\n> 2. How did you come across my information and determine that the box\r\n> belongs to me?\r\n>\r\n\r\n2. The diplomat confess and provided the box belong to you as the final\r\nrecipient\r\n\r\n>\r\n>\r\n> 3. Is there any additional documentation or identification required from\r\n> my end to ensure a smooth delivery process?\r\n>\r\n\r\n\r\n3.The additional documentation to enable us deliver your. Box to your final\r\ndelivery address was for you to fill our delivery form and send a valid ID\r\nfor verification, and we commence delivery within 48hrs after all\r\nprocedures is meant\r\n\r\nFill delivery form and send back copy\r\nAnd your direct mobile number to reach you\r\n\r\n>\r\n>\r\n> I look forward to your response.\r\n>\r\n> Best wishes,\r\n> Damon\r\n>\r\n>\r\n>\r\n>\r\n>"
+    },
+    {
+        "from": "baiter_1498",
+        "to": "scammer_1498",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.168125,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Your info",
+        "body": "Hello there! Thank you for reaching out to me. I appreciate the information you provided about my box. Could you please tell me more about why the diplomat was diverting my box? I want to make sure I have all the details before proceeding with filling out any forms or providing any personal information.\n\nBest wishes,\nDamon"
+    },
+    {
+        "from": "baiter_1498",
+        "to": "scammer_1498",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2096412037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Your info",
+        "body": "Hello there! Thank you for reaching out to me. I appreciate the information you provided about my box. Could you please tell me more about why the diplomat was diverting my box? I want to make sure everything is in order before proceeding with any further steps.\n\nBest wishes,\nDamon"
+    },
+    {
+        "from": "scammer_1498",
+        "to": "baiter_1498",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.36417824074074073,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Your info",
+        "body": "Sir\r\n\r\nYou deal with African , so you should reason, why ? He was diverting your\r\nbox in huge amount of Euro Currency .\r\nI will advise you fill the form attached form\r\nand send back copy with your attached ID card .\r\n\r\nRegard\r\nLucas Vant\r\n\r\n\r\n\r\nOn 11 Feb 2024 Sun at 00:14 Lucas Vant <lucasvant54@gmail.com> wrote:"
+    },
+    {
+        "from": "baiter_1498",
+        "to": "scammer_1498",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3762037037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Your info",
+        "body": "Hello Lucas Vant,\n\nThank you for reaching out to me. I'm not sure I understand what you mean by \"diverting my box in a huge amount of Euro Currency.\" Could you please provide more information about this? \n\nAlso, I'm a bit hesitant to share my personal ID card without knowing more details. Can you explain why it is necessary for me to send a copy of my ID card?\n\nLooking forward to your response.\n\nBest wishes,\nDamon"
+    },
+    {
+        "from": "scammer_1498",
+        "to": "baiter_1498",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.45753472222222225,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Fill the form",
+        "body": "Kindly fill the form ,\r\n\r\n\r\n\r\n\r\nOn 11 Feb 2024 Sun at 12:14 Damon <xb91488@***.com> wrote:"
+    },
+    {
+        "from": "scammer_1498",
+        "to": "baiter_1498",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.3177893518518518,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "freedom-gossip",
+        "body": "On 11 Feb 2024 Sun at 12:14 Damon <> wrote:"
+    },
+    {
+        "from": "baiter_1498",
+        "to": "scammer_1498",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.334525462962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: freedom-gossip",
+        "body": "Hello Damon,\n\nThank you for reaching out to me. How can I assist you today?\n\nBest wishes,\nDamon"
+    },
+    {
+        "from": "baiter_1498",
+        "to": "scammer_1498",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.4399652777777776,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Fill the form",
+        "body": "Hello,\n\nThank you for reaching out to me. I hope you're doing well. Could you please provide me with more information about the form you mentioned? What is it for and why do you need me to fill it out?\n\nI appreciate your response and look forward to hearing from you soon.\n\nBest wishes,\nDamon"
+    }
+]

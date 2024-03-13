@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1367",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  BANK OF CHICAGO",
+        "body": "  BANK OF CHICAGO\nDear beneficiary,\nThis is to acknowledge receipt of your message. Chicago company is eradicating poverty and the scam victims  and you're among the 3 Lucky\npeople listed.Your ATM MASTER CARD of $50 million dollars was registered with TNT Express Delivery. You will receive it within 12 hours.Your ATM\nMASTER CARD will be handed over to you in person at the address you will\nprovide below. Note, that ATM MASTER CARD must get to your address\nwithin 12 hours once you reconfirm your receiving address as demanded\nbelow.\nCONFIRM YOUR DELIVERY ADDRESS BELOW AND LET US KNOW IF THERE IS ANY\nCHANGE:\nRECEIVER'S NAME:_\nDELIVERY ADDRESS:___\nDIRECT CELL NUMBER:_\nCOUNTRY:___\nOCCUPATION:____\nE-MAIL (1):___\nE-MAIL (2):___\nSEX:____\nWORKING ID:____\nAsk him how you can get your ATM CARD of $50 million dollars\nFrom Chicago company World Bank Group   "
+    },
+    {
+        "from": "baiter_1367",
+        "to": "scammer_1367",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   BANK OF CHICAGO",
+        "body": "Dear Bank of Chicago,\n\nThank you for reaching out to me. I appreciate the information you have provided about the ATM Master Card of a million dollars that has been registered with TNT Express Delivery. I would like to know more about how I can receive this card.\n\nCould you please provide me with further details on the process? How long will it take for the ATM Master Card to be delivered to my address? Is there any specific documentation or identification required for receiving the card?\n\nAdditionally, could you clarify what you mean by \"Chicago company World Bank Group\"? Is this a separate entity from Bank of Chicago?\n\nThank you in advance for your assistance.\n\nBest wishes,\nLoretta"
+    }
+]

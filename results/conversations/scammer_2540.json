@@ -1,0 +1,122 @@
+[
+    {
+        "from": "scammer_2540",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention: Sir/Madam,",
+        "body": "  Attention: Sir/Madam,\nI am Mr. Godwin Emefiele,former Governor of Central Bank of Nigeria,CBN.I have a receivership proposal to you. Kindly revert to me for details.\nMeanwhile Here is news links for your perusal:\nhttps:/ /dailypost.ng/2023/06/17/emefiele-dss-raises-alarm-over-campaign-of-calumny-warns-plotter\nhttps:/ /www.youtube.com/watch?v=R2HCVivBewI\nhttps:/ /web.facebook.com/ReportYourself/videos/watch-n89trillion-stamp-duty-buhari-gave-me-power-to-remove-detain-investigate-c/1092187778114689/?_rdc=1&_rdr\nhttps:/ /www.youtube.com/watch?v=zDN9GYQOEvc\nYours sincerely,\nGodwin Emefiele   "
+    },
+    {
+        "from": "baiter_2540",
+        "to": "scammer_2540",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention: Sir/Madam,",
+        "body": "Hello Mr. Godwin Emefiele,\n\nThank you for reaching out to me with your proposal. I'm interested in learning more about it. Could you please provide me with some details?\n\nBest wishes,\nMichael"
+    },
+    {
+        "from": "scammer_2540",
+        "to": "baiter_2540",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Attention: Sir/Madam, Re: Attention: Sir/Madam,",
+        "body": "SUBJECT: RECEIVERSHIP PROPOSAL \n\nDear Sir, \n\nI have a receivership proposal to you. Kindly revert to me for details. \n\nMeanwhile Here is news links for your perusal: \nhttps://dailypost.ng/2023/06/17/emefiele-dss-raises-alarm-over-campaign-of-calumny-warns-plotter (https://dailypost.ng/2023/06/17/emefiele-dss-raises-alarm-over-campaign-of-calumny-warns-plotter) \nhttps://www.youtube.com/watch?v=R2HCVivBewI (https://www.youtube.com/watch?v=R2HCVivBewI) \nhttps://web.facebook.com/ReportYourself/videos/watch-n89trillion-stamp-duty-buhari-gave-me-power-to-remove-detain-investigate-c/1092187778114689/?_rdc=1&_rdr (https://web.facebook.com/ReportYourself/videos/watch-n89trillion-stamp-duty-buhari-gave-me-power-to-remove-detain-investigate-c/1092187778114689/?_rdc=1&_rdr) \nhttps://www.youtube.com/watch?v=zDN9GYQOEvc (https://www.youtube.com/watch?v=zDN9GYQOEvc) \n\nYours sincerely, \nGodwin Emefiele \n\n-- \n\nSUBJECT: RECEIVERSHIP PROPOSAL \n\nDear Sir, \n\nI have a receivership proposal to you. Kindly revert to me for details. \n\nMeanwhile Here is news links for your perusal: \nhttps://dailypost.ng/2023/06/17/emefiele-dss-raises-alarm-over-campaign-of-calumny-warns-plotter (https://dailypost.ng/2023/06/17/emefiele-dss-raises-alarm-over-campaign-of-calumny-warns-plotter) \nhttps://www.youtube.com/watch?v=R2HCVivBewI (https://www.youtube.com/watch?v=R2HCVivBewI) \nhttps://web.facebook.com/ReportYourself/videos/watch-n89trillion-stamp-duty-buhari-gave-me-power-to-remove-detain-investigate-c/1092187778114689/?_rdc=1&_rdr (https://web.facebook.com/ReportYourself/videos/watch-n89trillion-stamp-duty-buhari-gave-me-power-to-remove-detain-investigate-c/1092187778114689/?_rdc=1&_rdr) \nhttps://www.youtube.com/watch?v=zDN9GYQOEvc (https://www.youtube.com/watch?v=zDN9GYQOEvc) \n\nYours sincerely, \nGodwin Emefiele"
+    },
+    {
+        "from": "baiter_2540",
+        "to": "scammer_2540",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0004050925925925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Attention: Sir/Madam, Re: Attention: Sir/Madam,",
+        "body": "Dear Godwin Emefiele,\n\nThank you for reaching out to me with your proposal. I am interested in learning more about it. Could you please provide me with some details? What is the nature of the proposal and how can it benefit me?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMichael"
+    },
+    {
+        "from": "scammer_2540",
+        "to": "baiter_2540",
+        "direction": "Inbound",
+        "days_from_first_conversation": 13.513530092592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Attention: Sir/Madam,",
+        "body": "Dear Michael,\r\n\r\nSir,\r\n\r\n\r\nFurther to the consolidation of my mail purpose, please know that the new\r\ngovernment has been hounding me for the simple reason of my role during the\r\nlast regime of President Mohammed Buhari which strictly was in the purview\r\nof my official responsibility.\r\n\r\nThe present regime of President Bola Ahmed Tinubu specifically saw my\r\nparticipation as a presidential candidate in the same political party as\r\ndirected by the then president and the redesign of our currency before the\r\nelection as my personal policies to undermine his ambition thus the\r\nrelentless efforts to bring me and my associates to our knees, financially\r\nsocially, materially and otherwise.\r\n\r\nIn  light of this, I seek your honest co-operation in housing this fund for\r\nour mutual benefit which I have tirelessly worked for all my life and which\r\nthe present government is planning to confiscate if nothing urgent is done\r\nto move it away from where it is presently.\r\n\r\nAll my endeavors here has been seized including my wife’s jewelries and I\r\nsee that if they can go this extra mile, there is nothing they cannot do\r\njust to humiliate me.\r\nMost of these personal funds came as gratitude from the previous government\r\nand commissions on international syndication where my advice by way of\r\nconsultancy played vital role specifically re my policy on stamp duties\r\ngeneration which quadrupled the state revenues.\r\n\r\nI sincerely seek your co-operation towards achieving this goal and thus\r\nlook forward to reading you earnestly as time is of essence.\r\n\r\nWaiting for your soonest response.\r\n\r\nYours sincerely,\r\nGodwin Emefiele\r\n\r\n-- \r\nSUBJECT: RECEIVERSHIP PROPOSAL\r\n\r\nDear Sir,\r\n\r\nI have a receivership proposal to you. Kindly revert to me for details.\r\n\r\nMeanwhile Here is news links for your perusal:\r\n\r\nhttps://dailypost.ng/2023/06/17/emefiele-dss-raises-alarm-over-campaign-of-calumny-warns-plotter\r\n\r\nhttps://www.youtube.com/watch?v=R2HCVivBewI\r\n\r\nhttps://web.facebook.com/ReportYourself/videos/watch-n89trillion-stamp-duty-buhari-gave-me-power-to-remove-detain-investigate-c/1092187778114689/?_rdc=1&_rdr\r\n\r\nhttps://www.youtube.com/watch?v=zDN9GYQOEvc\r\n\nYours sincerely,\r\nGodwin Emefiele"
+    },
+    {
+        "from": "baiter_2540",
+        "to": "scammer_2540",
+        "direction": "Outbound",
+        "days_from_first_conversation": 13.516377314814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Attention: Sir/Madam,",
+        "body": "Hello Michael,\n\nThank you for sharing this information with me. It sounds like you are facing a challenging situation with the government. I understand your concerns about safeguarding your funds.\n\nCould you provide more details about the proposal you mentioned? I would like to learn more about how I can assist you in this matter.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMichael"
+    },
+    {
+        "from": "scammer_2540",
+        "to": "baiter_2540",
+        "direction": "Inbound",
+        "days_from_first_conversation": 13.52039351851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Attention: Sir/Madam,",
+        "body": "I sent you mail just now.\r\n\r\n-- \r\nSUBJECT: RECEIVERSHIP PROPOSAL\r\n\r\nDear Sir,\r\n\r\nI have a receivership proposal to you. Kindly revert to me for details.\r\n\r\nMeanwhile Here is news links for your perusal:\r\n\r\nhttps://dailypost.ng/2023/06/17/emefiele-dss-raises-alarm-over-campaign-of-calumny-warns-plotter\r\n\r\nhttps://www.youtube.com/watch?v=R2HCVivBewI\r\n\r\nhttps://web.facebook.com/ReportYourself/videos/watch-n89trillion-stamp-duty-buhari-gave-me-power-to-remove-detain-investigate-c/1092187778114689/?_rdc=1&_rdr\r\n\r\nhttps://www.youtube.com/watch?v=zDN9GYQOEvc\r\n\nYours sincerely,\r\nGodwin Emefiele"
+    },
+    {
+        "from": "baiter_2540",
+        "to": "scammer_2540",
+        "direction": "Outbound",
+        "days_from_first_conversation": 13.537858796296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Attention: Sir/Madam,",
+        "body": "Hello Godwin Emefiele,\nThank you for reaching out. I would be interested to hear more about your proposal. Could you please provide me with some details? \nLooking forward to your response.\n\nBest wishes,\nMichael"
+    },
+    {
+        "from": "baiter_2540",
+        "to": "scammer_2540",
+        "direction": "Outbound",
+        "days_from_first_conversation": 13.538055555555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Attention: Sir/Madam, Re: Attention: Sir/Madam,",
+        "body": "Hello Godwin Emefiele, thank you for reaching out. I'm interested to hear more about your proposal. Could you please provide me with some details so I can better understand what it entails?\n\nBest wishes,\nMichael"
+    },
+    {
+        "from": "baiter_2540",
+        "to": "scammer_2540",
+        "direction": "Outbound",
+        "days_from_first_conversation": 13.538090277777778,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Attention: Sir/Madam,",
+        "body": "Hello! Thank you for reaching out. I'm interested to hear more about your proposal. Could you please provide me with some details?\n\nBest wishes,\nMichael"
+    },
+    {
+        "from": "scammer_2540",
+        "to": "baiter_2540",
+        "direction": "Inbound",
+        "days_from_first_conversation": 14.614618055555555,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Attention: Sir/Madam,",
+        "body": "Attn Michael, Please NOTE that since I am still under investigation and in\r\ndetention,Honestly my hands are tied being in security detention and my\r\nbank accounts blocked. I am not allowed to have access to my contacts\r\nplease try your best for me.\r\n\r\nNow go ahead contact my attorney who will act on our behalf and procure the\r\nnecessary documents to enable you to receive the fund at the finance house\r\nas scheduled.\r\n\r\nName: Lawrence Amadi\r\nEmail: lawrenceamadi840@gmail.com\r\nTel: +234-9168438403\r\n\r\nI have entrusted you with this, and I hope you are capable and will not\r\nbetray me considering my precarious condition in the hands of security\r\noperatives. Once the lawyer gets all the papers ready, kindly proceed to\r\nthe finance house to receive the fund and then alert me.Once again, thanks\r\nfor your cooperation.\r\n\r\nYours sincerely,\r\nGodwin Emefiele.\r\n\r\n-- \r\nSUBJECT: RECEIVERSHIP PROPOSAL\r\n\r\nDear Sir,\r\n\r\nI have a receivership proposal to you. Kindly revert to me for details.\r\n\r\nMeanwhile Here is news links for your perusal:\r\n\r\nhttps://dailypost.ng/2023/06/17/emefiele-dss-raises-alarm-over-campaign-of-calumny-warns-plotter\r\n\r\nhttps://www.youtube.com/watch?v=R2HCVivBewI\r\n\r\nhttps://web.facebook.com/ReportYourself/videos/watch-n89trillion-stamp-duty-buhari-gave-me-power-to-remove-detain-investigate-c/1092187778114689/?_rdc=1&_rdr\r\n\r\nhttps://www.youtube.com/watch?v=zDN9GYQOEvc\r\n\nYours sincerely,\r\nGodwin Emefiele"
+    },
+    {
+        "from": "baiter_2540",
+        "to": "scammer_2540",
+        "direction": "Outbound",
+        "days_from_first_conversation": 14.621180555555556,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Attention: Sir/Madam,",
+        "body": "Hello, Michael! Thank you for sharing this information with me. I'm interested in learning more about the proposal you mentioned. Could you please provide me with further details?\n\nBest wishes,\nMichael"
+    }
+]

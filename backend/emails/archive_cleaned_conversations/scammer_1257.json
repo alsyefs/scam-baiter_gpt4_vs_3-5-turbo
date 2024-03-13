@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_1257",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings. Good News",
+        "body": "Greetings. Good News\nThis email message is from United States Secretary of the Treasury\nMrs. Janet Yellen\nI’m writing this email to inform you that we had a meeting together\nwith the United Nations(UN)and Federal Bureau of Investigation(FBI)\nyesterday being 13th of FEB 2024,in the favor of your Compensation\nFunds worth $12.8 Billion dollars at our office in New York.\nAttention concerning this your funds worth $12.8 Billion dollars we\nhave received many report about your funds and we also seen that you\nhave\npaid a lot of money to scammers trying to receive your funds but they\nkeeping on demanding more money from you because they are all liars\nand deceivers\nListen very well, if you can pay attention to me because I Mrs. Janet\nYellen is in charge of your funds now and it will only take you 48hrs\nto receive what belongs to you in good faith.\nWhat you have to do first is to stop any communication you have with\nthose scammers that are texting and emailing you because all they want\nis to steal your hard money and runway. I want to inform you that your\nfund is now in my custody, So if you are interested in receiving your\nfunds without any waste of time, then you should get back to me and\nclaim what belongs.\nAlmighty God be with you.\nMrs. Janet Yellen\nUnited States Secretary of the Treasury"
+    },
+    {
+        "from": "baiter_1257",
+        "to": "scammer_1257",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings. Good News",
+        "body": "Hello there,\n\nThank you for reaching out and sharing this information with me. It's quite surprising to hear about the funds worth billions of dollars. I must say, it's a bit overwhelming.\n\nCould you please provide more details about how these funds came into my name? And what steps do I need to take in order to claim them?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nAndrew"
+    },
+    {
+        "from": "scammer_1257",
+        "to": "baiter_1257",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Greetings. Good News",
+        "body": "Greetings. Good News\r\n\r\n\r\n*This email message is from United States Secretary of the Treasury*\r\n\r\n*Mrs. Janet Yellen*\r\n\r\nAttention Dear Friend. I received your email in my office. And I want to\r\ninform you that your Funds worth $12.8 Billion dollars are available in my\r\ncustody right now, And you have only 48hrs to claim what belongs to you in\r\ngood faith. And the reason why you are receiving this Funds is because your\r\nemail address was in the list of scams victims, that is why United Nations\r\nand World Bank P.l.C are compensating 10 people and you are the lucky one\r\nof them.\r\n\r\nWhat you need to do right now is to get back to me with your information to\r\nenable us proceed with immediate effect okay.\n1, Your Full Name...\r\nYour Home Address.....\r\nYour Phone No......\r\n\r\n\r\nAlmighty God be with you.\r\nMrs. Janet Yellen\r\nUnited States Secretary of the Treasury"
+    },
+    {
+        "from": "baiter_1257",
+        "to": "scammer_1257",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.22902777777777777,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Greetings. Good News",
+        "body": "Hello Mrs. Janet Yellen,\n\nThank you for your email and the wonderful news! I'm thrilled to hear about this opportunity. It's not every day that one gets an email from the United States Secretary of the Treasury.\n\nI'm curious, how did my email address end up on the list of scam victims? And how was I chosen as one of the lucky ones by United Nations and World Bank?\n\nAlso, could you please explain a bit more about this process? What will happen after I provide my details? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAndrew"
+    },
+    {
+        "from": "scammer_1257",
+        "to": "baiter_1257",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.4362037037037036,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Greetings. Good News",
+        "body": "Greetings. Good News\r\n\r\n\r\n*This email message is from United States Secretary of the Treasury*\r\n\r\n*Mrs. Janet Yellen*\r\n\r\nAttention Dear Friend. I received your email in my office. So your email\r\naddress was in the list of scams victims founded by an online\r\ninvestigation by the United Nations. And they compensate each one of the\r\nTen lucky people whose name was among the list  okay.\r\n\r\nWhat you need to do right now is to get back to me with your information to\r\nenable us proceed with immediate effect okay.\n1, Your Full Name...\r\nYour Home Address.....\r\nYour Phone No......\r\n\r\nAlmighty God be with you.\r\nMrs. Janet Yellen\r\nUnited States Secretary of the Treasury"
+    },
+    {
+        "from": "baiter_1257",
+        "to": "scammer_1257",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.4369560185185186,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Greetings. Good News",
+        "body": "Hello there,\n\nThank you for reaching out and sharing this information. It's quite surprising to hear that my email address was found on a list of victims. Could you please provide more details about how this list was compiled and what the compensation entails? \n\nI'm also curious about the process moving forward. What steps are involved in receiving this compensation? I look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAndrew"
+    }
+]

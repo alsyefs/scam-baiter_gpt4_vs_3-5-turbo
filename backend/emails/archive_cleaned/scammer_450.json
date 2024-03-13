@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_450",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear , We only give bank inf",
+        "body": "  Dear , We only give bank information for a transfer from $1,500 up but any transfer from $100 to $1000 is by western union or small world. Thanks  "
+    },
+    {
+        "from": "baiter_450",
+        "to": "scammer_450",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear , We only give bank inf",
+        "body": "Hello! Thank you for reaching out. I appreciate the information about the bank transfers. Can you please tell me more about how the process works with Western Union or Small World? I'm curious to learn more about these options.\n\nBest wishes,\nAmanda"
+    }
+]

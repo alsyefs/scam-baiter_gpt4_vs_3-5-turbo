@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1817",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good day dear,",
+        "body": "Good day dear,\nYour new laoded ATM Visa caed is available for you to receive.So get back to me let me send your new ATM Visa card to you.Email; \nmrsmorgan44@yahoo.com\nBest regards,\nMrs Chinyere Morgan"
+    },
+    {
+        "from": "baiter_1817",
+        "to": "scammer_1817",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Good day dear,",
+        "body": "Hello Mrs. Chinyere Morgan,\n\nI hope this message finds you well. I'm intrigued by your offer about the new loaded ATM Visa card. Could you please provide more details about it? How does it work and what are its benefits?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nTerrance"
+    },
+    {
+        "from": "scammer_1817",
+        "to": "baiter_1817",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Good day dear,",
+        "body": "Attention;dear,\r\nFill below gaps to avoid mistake.\r\nYour full names;;;;;;;;;Your country;!;;;;;Your city:;;;;;;;;Your home address;;;;;;;Your phone number;;;;;;Your occupation!!;;;Your passport or I'd\nThanks,Mrs Chinyere Morgan"
+    },
+    {
+        "from": "baiter_1817",
+        "to": "scammer_1817",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.11346064814814814,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Good day dear,",
+        "body": "Hello Chinyere Morgan,\n\nThank you for reaching out to me. I'm always eager to learn and share information. However, I must apologize as I can't provide the details you're asking for due to privacy reasons.\n\nBut, I'd love to know more about why you need this information? Is there a specific project or initiative that requires these details? Can we discuss it further?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nTerrance"
+    }
+]

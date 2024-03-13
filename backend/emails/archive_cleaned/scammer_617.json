@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_617",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Global Express Cargo Internati",
+        "body": "Global Express Cargo International (Carlos Ave, Ontario, CA 91761, N\nUnited States).\nGood Day Sir/ Mir\nGlobal Express is a well-established company offering courier and\ntransport services 24 hours for priority delivery of letters, parcels\nand consignments to any destination by road, air or sea.\nINSTRUCTIONS TO DELIVER YOUR PACKAGE.\nAttn Sole Beneficiary For Fund Worth $7.4 Million USD, CASH delivery\nThis serves as urgent notice. Your Waybill, by Global  express courier\ndelivery company (USA)\nThe management of Global express Courier Company wishes to inform you\nthat your shipment was stopped at Bechtelsville, Pennsylvania USA on\nFriday, since last week due to lack of clearance documentation\nand during our correspondent to the Custom Authority they requested\nfor some vital document to enhance the immediate release of your\nshipment to you worth the sum of $7.4 million usd.\nConfirm the below information to this office.\nFull Name:\nCountry:\nHome Address:\nPhone number:\nOccupation:\nAge:\nWe are definitely expecting your urgent response to enhance the\nimmediate release of your shipment today.\nRegardsm,\nMR.Donanld Moore\nPhone Numbder:: +1 3056764770.\nDirector Shipment Office"
+    },
+    {
+        "from": "baiter_617",
+        "to": "scammer_617",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Global Express Cargo Internati",
+        "body": "Hello Mr. Moore,\n\nThank you for reaching out and providing this information about Global Express Courier Company. It's great to hear that your company offers such comprehensive courier and transport services.\n\nI'm a bit surprised to hear about the shipment being stopped due to lack of clearance. Could you please provide more details on what kind of vital documents are required by the Custom Authority? \n\nAlso, could you clarify what exactly is in the shipment worth million USD? I wasn't expecting any package of such value.\n\nLooking forward to your response.\n\nBest wishes,\nDonald"
+    }
+]

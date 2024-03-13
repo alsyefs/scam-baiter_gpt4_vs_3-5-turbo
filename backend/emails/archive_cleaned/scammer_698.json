@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_698",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good Day,I saw your contact em",
+        "body": "Good Day,I saw your contact email from Nigerian Chambers Of Commerce and decided to contact you after much prayers and consideration since I cannot be able to see you face to face for now, at first I strongly believed that any information received from the Chambers Of Commerce Office is correct and must be relied on.How are you today? I know that this mail may come to you almost a surprise as we never met before, but before you proceed reading this mail, I want you to settle your mind and read with good understanding of the situation, this is true and not a joke. However,I am Barrister Edward Ikechi, Attorney to the late Engr. Steve Moore, a national of Northern American, who used to work with Shell Petroleum Development Company (SPDC) in Nigeria, on the 11th of August, 2014. My client, his wife and their three children were involved in a car accident along Sagamu/Lagos Express Road.Unfortunately they all lost their lives in the event of the accident, since then I have made several inquiries to several Embassies to locate any of my clients extended relatives, this has also proved unsuccessful.After these several unsuccessful attempts, I decided to trace his relatives over the Internet to locate any member of his family but to no avail, hence I contacted you, I contacted you to assist in repatriating the money and property left behind by my client, I can easily convince the bank with my legal practice that you are the only surviving relation of my client, otherwise the Estate he left behind will be confiscated or declared not serviceable by the bank where this huge deposits were lodged. Particularly, the Bank where the deceased had an account valued at about $15 million U.S dollars (Fifteen million U.S. America dollars), Consequently, the bank issued me a notice to provide the next of kin or have the account confiscated within the next ten official working days.\nAll I require is your honest cooperation to enable us see this deal through and also forward the following to me so that I can file an application of claim in your name to the bank immediately:\n1, Your Full Names:2, House Address:3, Your Country:4, Your Contact Telephone Number:5, Your Age and Gender:\n6, Your Occupation:\nI guarantee that this will be executed under a legitimate arrangement that will protect you from any breach of the law.Regards,Barrister Edward Ikechi."
+    },
+    {
+        "from": "baiter_698",
+        "to": "scammer_698",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Good Day,I saw your contact em",
+        "body": "Hello Barrister Edward Ikechi,\n\nI'm sorry to hear about the tragic accident that took the lives of Engr. Steve Moore and his family. It must be a difficult task for you to locate any surviving relatives.\n\nIt's quite surprising that you've reached out to me, considering we've never met before. I'm curious, how did you come across my contact information? And why do you believe I could be related to your late client?\n\nAs for the bank account, it sounds like a significant amount of money. But isn't there a legal process or some sort of investigation that needs to be done by the bank or authorities to find any legitimate next of kin?\n\nI'm just an ordinary person with no knowledge in these matters, so forgive me if my questions seem naive. I look forward to hearing more about this situation.\n\nBest wishes,\nKeith"
+    }
+]

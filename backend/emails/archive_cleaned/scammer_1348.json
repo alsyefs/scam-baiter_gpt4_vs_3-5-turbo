@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1348",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear valued beneficiary",
+        "body": "Dear valued beneficiary\nYou are advised to respond to this e-message today should you need more intel on the most appropriate and easiest way to receive your long overdue funds within the shortest time possible.\nYours faithfully,\nJoseph Webb,\nRegional Head"
+    },
+    {
+        "from": "baiter_1348",
+        "to": "scammer_1348",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear valued beneficiary",
+        "body": "Hello Joseph Webb,\n\nThank you for reaching out to me. I'm intrigued by your message and would like to know more about these overdue funds you mentioned. Could you please provide more details? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLeona"
+    }
+]

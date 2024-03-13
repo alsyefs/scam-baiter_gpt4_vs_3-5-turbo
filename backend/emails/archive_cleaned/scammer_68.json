@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_68",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attn:",
+        "body": "  Attn:\nThanks for your mail with the requested information's concerning the\nrelease of your Fund valued US$10.500,000.00 (Ten Million Five Hundred\nThousand United States Dollars only) which was deposited here in bank of Spain\nfrom United bank of africa (UBA) on your behalf\nvalued US$10.500,000.00 has been approved to be release to you from\nour bank here, in line with our banking rules and regulations, you\nhave to make your choice of receiving your fund from our below payment\noptions for us to start the process to let your fund release to you\nbase on your choice.\n1) Wire Transfer into your own Bank account (Bank to Bank transfer)\n2) ATM Visa Card delivering to your house address.\n3) Opening an on-line account with us here in SPAIN Bank.\nBase on your choice of payment, you have to re-confirm to us the below\ninformation to enable us proceed and release your Fund to you with\nimmediate effect including your banking details if you wish to have\nyour Fund transfer into your nominated bank account\nFull Name:......................................\nAddress:..........................................\nMobile No#......................................\nHouse Tel #:....................................\nOccupation:.....................................\nMarital Status/Age:..........................\nScan Copy Of your ID Card:.............\nNationality:......................................\nMake sure you forward the above information's across to us immediately\nyou receive this email for there is no time to waste in order for us\nto forward you the related documents concerning the release of this\nFund to you such as the deposit and approval certificate.\nThanks   "
+    },
+    {
+        "from": "baiter_68",
+        "to": "scammer_68",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attn:",
+        "body": "Hello,\n\nThank you for your email and the information provided. It's quite exciting to hear about this fund valued at US Ten Million Five Hundred Thousand United States Dollars. I'm a bit overwhelmed by the options you've given me for receiving the funds.\n\nCould you please explain a bit more about each option? For instance, how does the wire transfer work? And what would be involved in opening an account with your bank in Spain?\n\nAlso, could you tell me more about these related documents that you mentioned? What kind of information do they contain?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJames"
+    }
+]

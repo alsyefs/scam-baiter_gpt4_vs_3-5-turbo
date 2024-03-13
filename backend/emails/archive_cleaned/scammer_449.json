@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_449",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " COMMONWEALITH BANK OF AUSTRAL",
+        "body": " COMMONWEALITH BANK OF AUSTRALIA\n7-9 Oxford Road,  INgleburn NSW\n2565,  Sydney. Australia\nSIR\nGood morning and congratulations all the people that have been scammed by\nthe Nigeria government  the COMMONWEALITH BANK OF AUSTRALIA have set a panel to compensate them  and your name has been included as one of the beneficiary we are waiting  for your quick respond.\nTruly Your's\nMr Penelope Phillips\nCOMMONWEALITH BANK OF AUSTRALIA\n7-9 Oxford Road,  INgleburn NSW\n2565,  Sydney. Australia    "
+    },
+    {
+        "from": "baiter_449",
+        "to": "scammer_449",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  COMMONWEALITH BANK OF AUSTRAL",
+        "body": "Good morning Mr. Penelope Phillips,\n\nThank you for your message. It's quite surprising to hear about this compensation from the BANK OF AUSTRALIA. Could you please provide more details about this panel and how it works? How did my name get included in this list?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nPreston"
+    }
+]

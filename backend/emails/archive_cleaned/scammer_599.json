@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_599",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Mr. Nicolas de Rivière",
+        "body": "Mr. Nicolas de Rivière\nPermanent Representative of France to the United Nations) United\nStates of America\nYOUR CONTRACT FUND\nAttention: Beneficairy\nThis is to inform you that we have finally concluded by paying your\ncontract fund through RAW GOLD AND CASH  $5.5M .Our Diplomat has left\nyesterday from FRANCE   with your Two consignment, but on know account\nyou should disclose to the Diplomats  the content of the TRUNK BOXES\nbecause he will deliver to you and go back with the trunk boxes.\nPlease send to me and forward the following information to the Diplomat .\n1 Home Address\n2 Your Direct Telephone Number\n3 \nCopy of your Id\nSo that the security Dept will send you the keys of your Trunk Box.\nContact the Diplomat now via his email bellow to know if they have\nlanded in your country and also give him your home address and\ntelephone number:\nCONTACT HIM IMMEDIATLY.\nNAME: DIPLOMAT WILLIAM JOHNSON.\nEmail  : \ndiplomatwilliam2022@gmail.com\nAttach is picture of your RAW GOLD.\nRegards\nMr. Nicolas de Rivière\nPermanent Representative of France to the United Nations"
+    },
+    {
+        "from": "baiter_599",
+        "to": "scammer_599",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Mr. Nicolas de Rivière",
+        "body": "Hello Mr. Nicolas de Rivi re,\n\nThank you for reaching out to me regarding my contract fund. I appreciate the update on the payment process. However, I have a few questions before I proceed further.\n\n1. Could you please provide more details about the RAW GOLD AND CASH Diplomat? How can I be sure that this person is authorized to handle my funds?\n\n2. Is there a specific reason why I should not disclose the content of the TRUNK BOXES to the Diplomat? What measures are in place to ensure the safety and security of my funds?\n\n3. Can you please explain why you require my home address, direct telephone number, and a copy of my ID? What will these be used for?\n\nI look forward to your response.\n\nBest wishes,\nSusan"
+    }
+]

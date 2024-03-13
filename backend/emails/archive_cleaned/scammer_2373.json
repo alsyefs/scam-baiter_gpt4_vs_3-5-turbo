@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2373",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  we are still waiting for the",
+        "body": "  we are still waiting for the confirmation.   "
+    },
+    {
+        "from": "baiter_2373",
+        "to": "scammer_2373",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   we are still waiting for the",
+        "body": "Hello there! Thank you for reaching out. I'm curious, what are we waiting for exactly? Could you please provide me with some more information?\n\nBest wishes,\nStephanie"
+    }
+]

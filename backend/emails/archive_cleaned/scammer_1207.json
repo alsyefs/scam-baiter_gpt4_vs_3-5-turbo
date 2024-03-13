@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1207",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Urgent Attention !!!.",
+        "body": "Urgent Attention !!!.\n***PAYMENT AUTHORIZATION FOR $11,500,000.00 USD***\nNOTE: If you receive this message in your SPAM / BULK Folders, Its  due\nto\nthe restrictions of your Internet service provider (ISP).\nHello,\nI am James Campbell, from US Department of Treasury. Earlier today, the\nUnited States Government approved your long pending unclaimed\nCompensation\nFunds sum of $11,500,000.00 USD, which was \nassigned to your \"EMAIL\nADDRESS\".\nMeanwhile, your above funds is already deposited in a Bitcoin Account.\n(Cryptocurrency), with Payment Reference Number:\n(USUNPAID/XXX073737/FBI/DOT/2024).\nHowever, In-line with the above preference, you can receive your payment\nthrough Bank to Bank, Bitcoin or an ATM Card would be delivered to your\ndesignated address.\nI will advise you send me your Phone Number, \na copy of your ID\n and\nchoose\neither of the above payment options.\n This will enable us process your\npayment within 48 hours. You can send your details  to my phone (\n1-667-357-9062).\nRegards,\nJames Campbell\nTel:  1-667-357-9062"
+    },
+    {
+        "from": "baiter_1207",
+        "to": "scammer_1207",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Urgent Attention !!!.",
+        "body": "Hello James Campbell,\n\nWow, this is such an unexpected surprise! I can't believe the United States Government has approved a sum for me. I'm really excited about this opportunity.\n\nCould you please explain more about how this process works? And why was my email address chosen for this? Also, could you provide more details about the Bitcoin account where my funds are deposited?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nRobert"
+    }
+]

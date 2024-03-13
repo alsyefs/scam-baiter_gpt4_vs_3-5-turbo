@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1054",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Happy new year in advance. J",
+        "body": "  Happy new year in advance. Just to notify you that our offices in London, Netherlands, Turkey, Spain, Dubai, Qatar, Barren and Indonesia, will open on the 2nd. Be ready and choose, make up your mind where you wish to travel to and further details will be given to you. Respond immediately if you are interested. I want you to receive our loan and enjoy our facilities, we are the best with no disappointment. God bless you\nRegards,\nCFOn   "
+    },
+    {
+        "from": "baiter_1054",
+        "to": "scammer_1054",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Happy new year in advance. J",
+        "body": "Happy new year to you too! Thank you for reaching out. I'm interested in learning more about the loan you mentioned. Can you please provide me with some additional details? What are the terms and conditions, interest rates, and repayment options?\n\nBest wishes,\nRichard"
+    }
+]

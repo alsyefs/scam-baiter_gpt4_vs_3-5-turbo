@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_43",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " United Nation Organization",
+        "body": " United Nation Organization\nInformation Section.\n760 United Nations Plaza,\nNew York, NY 10017, USA.\nRE: DOCKET NO. OP 292.\nOur Ref: UN/BKL/STB\nIMMEDIATE RELEASE OF YOUR FUND US$10.5M ONLY VIA  ATM VISA CARD\n \nAttention:\n \nWe wish to inform you that your payment of USD$10.5 Million from the Federal Republic of Nigeria has been released and ready to be paid to you via ATM VISA CARD which you will use to withdraw the US$10.5 Million from any ATM Machine in any part of the world.\n \nWe have mandated the First Bank Nigeria PLC to issue an ATM VISA CARD and PIN which you will use to withdraw the fund from any ATM machine in any part of the world but the maximum amount you can withdraw per day is US$20,000.00. You are strongly advice immediately to contact  ADESOLA KAZEEM ADEDUNTAN the CEO First Bank Nigeria PLC via his email address: \nadesolakazeem01@aol.com\n and send him your information such as;\n \n1) Your Full Name:\n2) Your Contact Address:\n3) Your Occupation:\n4) Your Age:\n5) Your Sex:\n6) Your Home Phone, Mobile/Cell Phone and fax Number:\n \nThe ATM VISA CARD approval in your name has been sent to ADESOLA KAZEEM ADEDUNTAN the CEO First Bank Nigeria PLC and he is waiting for your above information to enable him process and send you the CARD and PIN number without any delay. So make sure you contact him right now with your information and tell him that you received a message from the UNITED NATION, Instructing you to contact him for immediate release of your fund via ATM VISA CARD.\n \nContact FBI via this email: \n/www.fbi.investigation@usa.com\n if you did not receive this ATM VISA CARD after 72 hours you contacted him. You are warned to disregard other contact or any communication you have with other offices.\n \nPlease we are very sorry for the plight you have gone through in the past. Thanks for adhering to this instruction and once again accept our congratulations!\n \nYours Sincerely,\nMR. Kiyotaka Akasaka\nPublic Information Officer.\nWebsite; /www.un.org/en/index.html    "
+    },
+    {
+        "from": "baiter_43",
+        "to": "scammer_43",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  United Nation Organization",
+        "body": "Hello there,\n\nThank you for reaching out and informing me about this exciting news. I must say, it's not every day that one receives a message from the United Nations! \n\nI'm curious though, how did my name come up for this payment? And why is it being processed through First Bank Nigeria PLC? Also, could you please explain more about the ATM VISA CARD and how it works?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nVictor"
+    }
+]

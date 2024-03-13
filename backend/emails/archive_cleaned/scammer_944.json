@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_944",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Greetings",
+        "body": "  Greetings\nMy name is General Christopher Gerard Cavoli, Presently serving as commander of United States European Command and Supreme Allied Commander Europe, I'm very desperate in need for your assistance, I have decided to contact you for your kind assistance to received the two military trunk box which contain the sum of $40 million united states dollar that already arrived in USA from Ukraine, if I can be assured that my share will be safe in your care until I complete my service. I want to invest this money and your assistance is urgently needed to accomplish this task. I am ready to compensate you with 30% of the $40 million USD for your assistance. I do not know how long we will remain here. I will explain further when i get a response from you, Kindly contact me on this email address below: \ngg2304199@gmail.com\nGod Bless You.\nGen Christopher .G. Cavoli,   "
+    },
+    {
+        "from": "baiter_944",
+        "to": "scammer_944",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Greetings",
+        "body": "Hello General Cavoli,\n\nThank you for reaching out to me. I hope this message finds you well. I must say, your request sounds quite intriguing. I would be happy to assist you, but I have a few questions before we proceed.\n\nFirstly, could you please provide more details about the origin of these military trunk boxes and how they ended up in the United States from Ukraine? It would help me understand the situation better.\n\nSecondly, what kind of investment are you planning to make with the money? It's important for me to know what my involvement would entail.\n\nLastly, as much as I appreciate your offer of compensation, could you clarify how exactly that would work? I want to ensure that everything is transparent and legal.\n\nI look forward to hearing back from you soon.\n\nBest wishes,\nLloyd"
+    }
+]

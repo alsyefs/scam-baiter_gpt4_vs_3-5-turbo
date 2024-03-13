@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_1291",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Friend,",
+        "body": "Dear Friend,\nLong time! How are you and your family?\nYou may not understand why this mail came to you, But if you don't remember me, you could have received a email from me in the past regarding a business proposal that we didn't completed.\nI have not forgotten your previous effort and attempts to help me in the past, I am now happy to report that I was able to transfer these funds with the cooperation of a new partner from your country and we traveled to the India for more business investments.\nTo thank you for your efforts and to prove to you that the transaction was true and successful, I dropped US$1,200,000.00 ATM visa Card for your compensation, now contact my account manager and ask ( SIX HUNDRED THOUSAND DOLLARS) to your ATM Visa card and ask him to send it to your address, his name is Pastor John Batcho Email: (\njohnbatch968@gmail.com\n ) Send him your complete data as indicated below and ask him taao send the ATM visa card to your address via express courier service.\nKindly contact Pastor.John Batcho now on his email: \njohnbatch968@gmail.com\n1. Full names ..........\n2, Mobile phone number.............\n3. Address .........................\nRegards,  \nMr Paul owen "
+    },
+    {
+        "from": "baiter_1291",
+        "to": "scammer_1291",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Friend,",
+        "body": "Dear Mr. Paul Owen,\n\nThank you for reaching out to me. I hope this email finds you well. It's been a while since we last spoke, but I remember our previous conversations regarding a business proposal.\n\nI'm glad to hear that you were able to transfer the funds with the help of your new partner from my country. That sounds like quite an accomplishment! However, I must admit that I don't recall being directly involved in any financial assistance in the past.\n\nNevertheless, I appreciate your gratitude and would be interested in learning more about this opportunity. Could you please provide me with some additional details? What exactly is the purpose of the US ATM Visa Card? How does it work, and what are the terms and conditions associated with it?\n\nFurthermore, before proceeding, could you kindly clarify why my complete data is required? I value my privacy and would like to understand how my personal information will be used.\n\nThank you for your understanding, Mr. Owen. I look forward to hearing back from you soon.\n\nBest wishes,\nErica"
+    },
+    {
+        "from": "scammer_1291",
+        "to": "baiter_1291",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Friend,",
+        "body": "Yes, instruction was given to me that you will  receive your funds through\r\n( ATM VISA CARD) for your compensation.\r\n\r\nNow you have to come to our country Republic du Benin and pick up your ATM\r\nVISA card, so kindly send me your arrival date.\r\n\r\nOption 2.\r\nIf you cannot come here, you can also re-send your Postal address and phone\r\nnumbers for shipping your ATM visa card. Note you will send the shipping\r\ncost.\r\n\r\nGod bless you\nThanks\r\nPastor John. Batcho\r\nNEW LIFE  CHURCH\r\nCOTONOU, BENIN REPUBLIC"
+    },
+    {
+        "from": "baiter_1291",
+        "to": "scammer_1291",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0002662037037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Friend,",
+        "body": "Hello Pastor John,\n\nThank you for reaching out to me. I appreciate your offer, but I have a few questions before proceeding. Can you please provide more details about the funds and how they are related to the New Life Church? Additionally, what is the purpose of the ATM VISA card? I want to make sure I fully understand the process before making any decisions.\n\nBest wishes,\nErica"
+    },
+    {
+        "from": "scammer_1291",
+        "to": "baiter_1291",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.005752314814814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Dear Friend,",
+        "body": "Erica\r\n\r\nI hope you are the one that contacted me over an Atm card. your partner\r\ngave me an Atm card to send to you whenever you contacted me, you are there\r\nasking me question how does the Atm card relate to the New Life Church?\r\nthat seems somehow. so if you are ready then you come and collect it than\r\nwasting each other rime"
+    },
+    {
+        "from": "baiter_1291",
+        "to": "scammer_1291",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.006458333333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Dear Friend,",
+        "body": "Hello there! Thank you for reaching out to me. I apologize if my previous question seemed confusing. I just wanted to understand the connection between the ATM card and the New Life Church. Could you please provide some more information about how they are related? I want to make sure I have a clear understanding before proceeding.\n\nBest wishes,\nErica"
+    }
+]

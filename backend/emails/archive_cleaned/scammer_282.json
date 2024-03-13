@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_282",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Hello ,,",
+        "body": " Hello ,,\nMerry Christmas to you . \nPlease confirm to me when I should \nPosted your loaded and activated card which is still with me throughout the Christmas.\nI looks forward for your reply.\nRegards,\nSonji Blatte   "
+    },
+    {
+        "from": "baiter_282",
+        "to": "scammer_282",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  Hello ,,",
+        "body": "Hello Sonji Blatte,\n\nMerry Christmas to you too! I hope you're having a wonderful holiday season. \n\nI'm not quite sure what you mean by \"loaded and activated card\". Could you please provide more details about this? I'd love to help in any way I can.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRobert"
+    }
+]

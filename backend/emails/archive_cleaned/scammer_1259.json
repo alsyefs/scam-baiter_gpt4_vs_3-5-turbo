@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1259",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " Hello,",
+        "body": " Hello,\nI must let you in on the real facts about your delayed payment. as the secretary to the foreign debt department of the World Bank Group office,I am very much aware of the ordeal you are passing through in order to actualize your long delayed payment.\nNot long after the World Bank completed the acquisition process of all pending payments, I discovered that my boss connived with some top officials to divert funds already approved to settle lottery winners, international contractors, inheritances and more.\nThe World Bank has already given approval for the payment of all pending funds while my boss deliberately delay all payments and continue to issue one fee or the other from different quarters. I wonder why you haven't noticed all this while.\nYour fund was authorized to be paid to you through the WB/IMF financial consultants in the USA with a Key Tested Reference/CLAIMS CODE Number,which was supposed to have been issued to you before now, Upon your response to this message, I shall give you all you need to contact the World Bank payment centers in the USA to facilitate the release of your payment.\nYours truly,\nMs.Jessica T. Sanson\nEmail: \njessisanson111@protonmail.com\n "
+    },
+    {
+        "from": "baiter_1259",
+        "to": "scammer_1259",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:  Hello,",
+        "body": "Hello T. Sanson,\n\nThank you for reaching out to me and providing this information about my delayed payment. I appreciate your concern and willingness to help. Can you please provide me with more details about the process of contacting the World Bank payment centers in the USA? I want to make sure that everything is done correctly so that my payment can be released as soon as possible.\n\nBest wishes,\nAlfred"
+    }
+]

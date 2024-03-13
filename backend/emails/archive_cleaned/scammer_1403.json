@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1403",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Four Hundred and Fifty Thous",
+        "body": "  Four Hundred and Fifty Thousand Rand (R450, 000.00) Has Been Approved\nFrom: The Finance Department, South Africa for this year Compensation Program\nCape Town\nSouth Africa.\n \nDear Sir/Madam,\n \nWe wish to inform you that your abandoned fund has been approved and is ready for pay-out. Please respond immediately, to enable the pay-out department of Finance to contact you with more details.\n1. Your Names:\n2. Sex:\n3. Telephone Number:\n4. City:\n5. Your Alternative Email:\n6. Occupation:\n7. Country of Origin\n8. ID Number:\n9. Your Whatsapp Number:  \nPlease contact our Processing Agent for immediate release of your payment by supplying to him the above required information.\n \nPerson to Contact: Mr. Aaron George\nTelephone: +27 74 510 0955\nKindly reply through his email for your payment: ( \noffice2322@yandex.com\n )\n \nSincerely,\nMr. Yuri Fedotov\nSenior Manager Chief of Protocol.   "
+    },
+    {
+        "from": "baiter_1403",
+        "to": "scammer_1403",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Four Hundred and Fifty Thous",
+        "body": "Hello Mr. Yuri Fedotov,\n\nThank you for reaching out to me with this information. I am interested in learning more about the approved fund. Could you please provide me with some additional details?\n\n1. What is the nature of this abandoned fund?\n2. How was it approved and by whom?\n3. Can you explain the process for releasing the payment?\n4. Is there any specific reason why my personal information is required?\n\nI appreciate your assistance in providing these details so that I can proceed accordingly.\n\nBest wishes,\nRachel"
+    }
+]

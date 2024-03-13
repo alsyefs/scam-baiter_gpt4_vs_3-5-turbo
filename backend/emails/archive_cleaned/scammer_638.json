@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_638",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir",
+        "body": "  Dear Sir\nI, got your email through a data base and after going through your\nprofile, I decided to reach out to you. I am a professional agent and\nmy Principal a former Top Libyan Politician, have asked me to look for\nan investment manager. That could take available investment fund as\nloan on a one digit interest rate repayable in full after 10 years.\nFunds readily available is over 100M USD.\nYour swift response is highly needed.\nDr Ilimane Love   "
+    },
+    {
+        "from": "baiter_638",
+        "to": "scammer_638",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir",
+        "body": "Dear Dr. Ilimane Love,\n\nThank you for reaching out to me. I appreciate the opportunity to discuss this investment opportunity with you. Could you please provide me with more details about the available investment fund? I would like to know more about the nature of the investment and how it can benefit both parties involved.\n\nAdditionally, could you clarify what you mean by \"loan on one digit interest rate repayable in full after years\"? It would be helpful to understand the terms and conditions of this loan arrangement.\n\nI look forward to your swift response and further information regarding this investment opportunity.\n\nBest wishes,\nJose"
+    }
+]

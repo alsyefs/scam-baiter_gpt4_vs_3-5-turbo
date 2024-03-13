@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1286",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear ",
+        "body": "  Dear \nI keep thanking you for your concern to make sure that this transaction is carried out properly.\nThe answers I am sending to you now are the exact answers the deceased left in his security file jacket which he submitted to the bank before he died so the answers are very correct,\nI was able to find all the answers while I was making research from his file jacket. So have it written just like it is and forward same to the bank immediately to enable the board members approve the file.\nThe answers to the category A Questionnaire are as follows;\n1. The full name of the deceased was Mr. Whelan Ceron Schimanski.\n2. He was Polish-American nationals\n3. He was a director with Shell oil Company and also a sole owner of MAF HOLDINGS UK.\n4. He died On 25th April, 2015 as a result of a motor accident.\n5. He was sixty years old (60) before his sudden death.\n6. He left Cash Valued At £24 Million only in The Bank with the account number 004670927\n7. Yes he resided here in England and His residential address was . 9 Northumberland Avenue Westminster WC2N 5BX London United Kingdom\n8. He was married and the name of his wife was Mirane Schimanski\n9. He Was a Christian.\nPlease find the answers to the category 'B' questionnaires;\n1. The number of the last tax Clearance receipt issued to his company was FCIR566983323\n2. His last Cheque Number was 658457695-5569-9996\n3. Two Hundred And Sixty Thousand British Pounds Was The Last Withdrawal From The Account And It Was A Payment Made To Deloitte Touche Tohmatsu Ltd.\nThe answers I furnish you will be approved because I am very sure of it.\nBest Regards,\nMr.Joe Tunner.   "
+    },
+    {
+        "from": "baiter_1286",
+        "to": "scammer_1286",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear ",
+        "body": "Dear Tunner,\n\nThank you for providing me with the answers to the questions. I appreciate your effort in researching and finding this information from the deceased's file jacket. It seems like a thorough process.\n\nI have a few follow-up questions regarding the answers you provided. Firstly, could you please clarify what nationality Mr. Whelan Ceron was? Also, could you provide more details about his role as a director with Shell oil Company and his ownership of MAF HOLDINGS UK?\n\nAdditionally, I'm curious to know if there were any specific circumstances surrounding the motor accident that led to Mr. Ceron's unfortunate demise. Was it a single-vehicle accident or involved other parties?\n\nLastly, I would like to inquire about the cash amount mentioned in the bank account. Could you confirm if it is indeed million pounds? That seems like a substantial sum.\n\nThank you once again for your assistance in providing these answers. I look forward to hearing back from you soon.\n\nBest wishes,\nMarcus"
+    }
+]

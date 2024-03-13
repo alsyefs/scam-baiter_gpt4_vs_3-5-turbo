@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_2457",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Bank of America logo",
+        "body": "  Bank of America logo\nBANK OF AMERICA CORPORATION\nTEXAS-USA \nRef.: Final Payment Release Update.\nAmount Valued: US$10, 500, 000.00.\nHow are you and your families today? I hope all is well.\nThis is to notify you that we are still waiting for your compliance in sending the required fee to complete your fund release process\nNow that you are advised to send the sum of 1,000 dollars  to enable us proceed as soon as possible\nBelow is account account details.\nBank: Truist Bank.\nName: L. C.\nAccount number 118000733XXXX                                                       \nSwift code: SNTRUS3A\nRouting number 083900680\nHome address:  Louisville, KY 40272\nAnticipating your urgent compliance to this effect,\n \nBank of America logo\nThank you,\nMr. Brian T. Moynihan  "
+    },
+    {
+        "from": "baiter_2457",
+        "to": "scammer_2457",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Bank of America logo",
+        "body": "Hello Mr. Brian T. Moynihan,\n\nThank you for reaching out to me. I hope you and your team at Bank of Erica are doing well too. My family is also doing fine, thank you for asking.\n\nI understand that there is a final payment release update and that I need to send a required fee to complete the fund release process. Could you please provide me with more information about this fee? What is it for and how much is it?\n\nAlso, I would like to know more about the account details you mentioned. Can you please explain what the account number and routing number are for? How will they be used in the fund release process?\n\nI appreciate your prompt response and clarification on these matters.\n\nBest wishes,\nAndrew"
+    },
+    {
+        "from": "scammer_2457",
+        "to": "baiter_2457",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Bank of America logo",
+        "body": "*Federal Reserve Bank New York 33, Liberty Street, New York, NY 10038 USA.*\r\n*Ref.: Final Payment Release Update.*\r\n*Amount Valued: US$10, 500, 000.00*\r\n\r\n\r\n\r\n\r\n*How are you and your families today? I hope all is well.This is to notify\r\nyou that we are still waiting for your compliance in sending the required\r\nfee 1,000 to complete your fund release process.*\r\n\r\n\r\n*So on this note, you are advised to comply urgently in making the required\r\npayment to enable us to finalize this process now so you could confirm your\r\npayment into your account before things get beyond control *\r\n\r\n*I am giving you 100 percent assurance you will received your fund within\r\n24 hours as soon as you pay require fee of 1,000 us dollars.*\r\n\r\n\r\n*Anticipating your urgent compliance to our humble advise,*\r\n\r\n*Yours sincerely,Mr. James Howard ,Director Remittance Department, US\r\nFederal Reserve Bank*"
+    },
+    {
+        "from": "baiter_2457",
+        "to": "scammer_2457",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.006539351851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Bank of America logo",
+        "body": "Hello James Howard,\n\nThank you for reaching out to me. I hope you are doing well too. My family is also fine, thank you for asking.\n\nI appreciate the update regarding the final payment release. However, I have a few questions before proceeding with any payments. Could you please provide more details about the required fee? What is it for and how does it contribute to the fund release process?\n\nAdditionally, could you clarify the exact amount of the fee that needs to be paid? It would be helpful to have a clear understanding of the total cost involved.\n\nThank you for your assistance and I look forward to your response.\n\nBest wishes,\nAndrew"
+    }
+]

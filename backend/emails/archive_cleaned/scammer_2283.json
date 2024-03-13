@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2283",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention Sir,",
+        "body": "  Attention Sir,\nWith due respect Honorable sir, please I want you to keep it secret and I will let you know why you are not succeeded in receiving your fund of $10.7million which is long time overdue payment from our Government so I will like to work with you and if you agree to work together with me you must get your fund this time.\nPast government are trying to make things difficult in the past but this new government will pay you only if the court Clark will bring out your payment file for me then I will go and submit it to the international payment committee for your onward payment but we will give the court Clark $150 only to carry out the obligations.\nPlease if you agree to work together with me let me know and it must be secret for the sake of my job.\nThanks and good luck.\nIssa  Ahmed   "
+    },
+    {
+        "from": "baiter_2283",
+        "to": "scammer_2283",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention Sir,",
+        "body": "Hello Issa Ahmed,\n\nThank you for reaching out to me. I appreciate your trust in sharing this information with me. I understand that you have some insights regarding my long overdue payment from the government. I'm interested to know more about how we can work together to ensure that I receive my funds.\n\nCould you please provide me with some more details about the process? How exactly will the court clerk help in bringing out my payment file? And what is the role of the payment committee in this whole process?\n\nAlso, I want to assure you that I will keep our communication confidential as per your request. Please let me know how we can proceed further.\n\nBest wishes,\nTraci"
+    }
+]

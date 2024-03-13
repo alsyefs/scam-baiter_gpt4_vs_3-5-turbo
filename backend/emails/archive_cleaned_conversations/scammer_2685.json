@@ -1,0 +1,412 @@
+[
+    {
+        "from": "scammer_2685",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention!",
+        "body": "Attention!\nWe have finally deposited your compensation check valued $1.750.000USD\nthrough Western Union money transfer department after our finally\nmeeting with UN Representative Kampala regarding your fund, All you\nwill do is to contact Western Union director Mr Richard Moore E-mail:(\nwwwwesternunionpaymentoffice@aol.com\n), He will give you direction on\nhow you will be receiving the funds daily.\nRemember to send him your Full information to avoid wrong transfer such as\nReceiver's Name:-\nAddress:-\nCountry:-\nPhone Number:-\nMr Richard Moore  has sent $5000 out today but western union can not\nbe able to send the payment with your email address alone, so contact\nMr Richard Moore or you call him +256-7024-65-225 as soon as you\nreceive this email and tell him to give you the MTCN to pick the\n$5000, Please let us know as soon as you receive your fund.\nBest Regards\nAmbassador William W. Popp\nU.S. Embassy in Kampala"
+    },
+    {
+        "from": "baiter_2685",
+        "to": "scammer_2685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attention!",
+        "body": "Hello,\n\nThank you for your message. It's exciting to hear about the check deposit through Western Union. I'm a bit confused though, could you please clarify a few things for me?\n\nFirstly, who is Mr. Richard Moore? And how is he involved in this process? \n\nSecondly, what does MTCN stand for and why do I need it to pick up the funds?\n\nLastly, could you explain more about the meeting with UN Kampala regarding my fund? How was it decided that my funds would be transferred this way?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nDebra"
+    },
+    {
+        "from": "scammer_2685",
+        "to": "baiter_2685",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Mr Richard Moore Director Western Union Money Transfer",
+        "body": "WesternUnion® Money Transfer\r\nPlot 28 30 Clive Rd, Next To Shell Petro Station Ji\r\nKampala, UgandaE-mail: wwwwesternunionpaymentoffice@aol.comTel:+256-7024-65-225 \r\nAttention Customer \r\nMy name is Mr Richard Moore, director of Western Union Office Uganda Kampala, We were instructed by United Nations Representatives in Kampala ,And Ambassador William W. Popp, U.S. Embassy in Kampala to transfer your compensation funds value the sum of US$1,750,000.00 to you through  Western Union transfer and you will be receiving $5000 USD  X 2 per day until you received all your total payment which is the sum of US$1,750,000.00 as scheduled in our office here, This type of transaction means you will be receiving $10.000 every day through  Western Union until the total of  US$1,750,000.00 is completely transferred to you\r\nNote: We have transferred your first payment $5000 USD, You can track the MTCN  061-880-2943 with our website. MTCN: 0618802943\r\nSender: Richard Moore\r\nWe transferred your first payment $5000 but it was stopped by IMF due to lack of International Transfer Permit,  IMF said you can not pick up your first transfer without securing the International Transfer Permit in your name as instructed by IMF, The $5000 is available but you can not pick it up until you secure the certificate , We give you 100% assurance  that once you send the charges $155 and secure the International Transfer Permit in your name that you will pickup your first payment within 1 hour 30 minutes without problem and other payments will be transferring to you on daily bases without anymore problem.\r\nWe have tried our best to Indicate that this $155 should be deducted from your total prize but we found out that the funds have already been sealed intact and stamped by the IMF and cannot be accessed by anyone until you secure the International Transfer  Permit in your name  \r\nSo quickly reply immediately to give you the account officer receiver name to transfer the International Transfer Permit charges   \r\nThanks for your Prompt Response.\r\n \r\nYours in Service\r\nMr Richard MooreDirector Western Union Money Transfer"
+    },
+    {
+        "from": "scammer_2685",
+        "to": "baiter_2685",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0005555555555555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "FROM,,,,,,,,,Mr Richard Moore Director Western Union Money Transfer",
+        "body": "WesternUnion® Money Transfer\r\nPlot 28 30 Clive Rd, Next To Shell Petro Station Ji\r\nKampala, UgandaE-mail: wwwwesternunionpaymentoffice@aol.comTel:+256-7024-65-225 \r\nAttention Customer \r\nMy name is Mr Richard Moore, director of Western Union Office Uganda Kampala, We were instructed by United Nations Representatives in Kampala ,And Ambassador William W. Popp, U.S. Embassy in Kampala to transfer your compensation funds value the sum of US$1,750,000.00 to you through  Western Union transfer and you will be receiving $5000 USD  X 2 per day until you received all your total payment which is the sum of US$1,750,000.00 as scheduled in our office here, This type of transaction means you will be receiving $10.000 every day through  Western Union until the total of  US$1,750,000.00 is completely transferred to you\r\nNote: We have transferred your first payment $5000 USD, You can track the MTCN  061-880-2943 with our website. MTCN: 0618802943\r\nSender: Richard Moore\r\nWe transferred your first payment $5000 but it was stopped by IMF due to lack of International Transfer Permit,  IMF said you can not pick up your first transfer without securing the International Transfer Permit in your name as instructed by IMF, The $5000 is available but you can not pick it up until you secure the certificate , We give you 100% assurance  that once you send the charges $155 and secure the International Transfer Permit in your name that you will pickup your first payment within 1 hour 30 minutes without problem and other payments will be transferring to you on daily bases without anymore problem.\r\nWe have tried our best to Indicate that this $155 should be deducted from your total prize but we found out that the funds have already been sealed intact and stamped by the IMF and cannot be accessed by anyone until you secure the International Transfer  Permit in your name  \r\nSo quickly reply immediately to give you the account officer receiver name to transfer the International Transfer Permit charges   \r\nThanks for your Prompt Response.\r\n \r\nYours in Service\r\nMr Richard MooreDirector Western Union Money Transfer"
+    },
+    {
+        "from": "baiter_2685",
+        "to": "scammer_2685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.009907407407407408,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Mr Richard Moore Director Western Union Money Transfer",
+        "body": "Hello Mr. Richard Moore,\n\nThank you for your email and the detailed information about the transfer process. It's really interesting to know that such a large sum of money is being transferred through Western Union.\n\nI'm curious, though, why was the IMF involved in this process? I thought Western Union transfers were usually straightforward. Also, could you please explain more about this Transfer Permit? I've never heard of it before.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDebra"
+    },
+    {
+        "from": "baiter_2685",
+        "to": "scammer_2685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.010185185185185186,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: FROM,,,,,,,,,Mr Richard Moore Director Western Union Money Transfer",
+        "body": "Hello Mr. Richard Moore,\n\nThank you for your email and the detailed information about the transfer process. I appreciate your efforts in trying to make this transaction as smooth as possible.\n\nI'm a bit confused about the Transfer Permit though. Could you please explain more about what it is and why it's necessary? Also, how much would it cost to secure this permit?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDebra"
+    },
+    {
+        "from": "scammer_2685",
+        "to": "baiter_2685",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0531365740740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: FROM,,,,,,,,,Mr Richard Moore Director Western Union Money Transfer",
+        "body": "WesternUnion® Money Transfer\r\nPlot 28 30 Clive Rd, Next To Shell Petro Station Ji\r\nKampala, UgandaE-mail: wwwwesternunionpaymentoffice@aol.comTel:+256-7024-65-225 \r\nAttention Customer \r\n I am Mr Richard Moore, director of Western Union Office Uganda Kampala have received your email regarding your comment about your question once we obtain the International Transfer Permit from IMF office they will allowed this office to proceed sending your payment $10.000 every day through  Western Union until the total of  US$1,750,000.00 is completely transferred to you that is the purpose of the charges of $155,\r\nBut if you prefer to received the funds through bank to bank wire transfer we can also assisted you to push out the funds to any bank here in this country which they will help you transfer the funds view bank to bank wire transfer,because the reason why trying to send the money view western union is that it will be easy for you to be receiving  the money every day.\r\n\r\nSo quickly reply immediately to give you the account officer receiver name to transfer the International Transfer Permit charges   \r\nThanks for your Prompt Response.\r\n \r\nYours in Service\r\nMr Richard MooreDirector Western Union Money Transfer"
+    },
+    {
+        "from": "scammer_2685",
+        "to": "baiter_2685",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.053263888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Mr Richard Moore Director Western Union Money Transfer",
+        "body": "WesternUnion® Money Transfer\r\nPlot 28 30 Clive Rd, Next To Shell Petro Station Ji\r\nKampala, UgandaE-mail: wwwwesternunionpaymentoffice@aol.comTel:+256-7024-65-225 \r\nAttention Customer \r\n I am Mr Richard Moore, director of Western Union Office Uganda Kampala have received your email regarding your comment about your question once we obtain the International Transfer Permit from IMF office they will allowed this office to proceed sending your payment $10.000 every day through  Western Union until the total of  US$1,750,000.00 is completely transferred to you that is the purpose of the charges of $155,\r\nBut if you prefer to received the funds through bank to bank wire transfer we can also assisted you to push out the funds to any bank here in this country which they will help you transfer the funds view bank to bank wire transfer,because the reason why trying to send the money view western union is that it will be easy for you to be receiving  the money every day.\r\n\r\nSo quickly reply immediately to give you the account officer receiver name to transfer the International Transfer Permit charges   \r\nThanks for your Prompt Response.\r\n \r\nYours in Service\r\nMr Richard MooreDirector Western Union Money Transfer"
+    },
+    {
+        "from": "baiter_2685",
+        "to": "scammer_2685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0727199074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: FROM,,,,,,,,,Mr Richard Moore Director Western Union Money Transfer",
+        "body": "Hello Mr. Richard,\n\nThank you for your detailed response. I appreciate the effort you're putting into helping me understand this process better. \n\nI'm curious about the Transfer Permit from the IMF office that you mentioned. Could you please explain a bit more about what it is and why it's necessary? Also, could you provide some more information on how the daily transfers through Western Union would work?\n\nAs for the bank to bank wire transfer option, that sounds interesting too. How exactly would that process work? Would there be any additional charges involved in this method?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDebra"
+    },
+    {
+        "from": "baiter_2685",
+        "to": "scammer_2685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0730324074074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Mr Richard Moore Director Western Union Money Transfer",
+        "body": "Hello Mr. Richard,\n\nThank you for your detailed response. I appreciate the effort you've put into explaining the process to me. I'm a bit confused about some parts though, could you please clarify?\n\nYou mentioned something about a Transfer Permit from the IMF office. Could you explain what this is and why it's necessary? Also, how does this permit affect the transfer process?\n\nRegarding the bank to bank wire transfer option, could you provide more details? How would this work exactly and what are the benefits compared to receiving money through Western Union?\n\nLastly, you mentioned some charges for the Transfer Permit. Could you break down these costs for me? I'd like to understand what I'm paying for.\n\nLooking forward to your response.\n\nBest wishes,\nDebra"
+    },
+    {
+        "from": "scammer_2685",
+        "to": "baiter_2685",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.2665856481481481,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: FROM,,,,,,,,,Mr Richard Moore Director Western Union Money Transfer",
+        "body": "WesternUnion® Money Transfer\r\nPlot 28 30 Clive Rd, Next To Shell Petro Station Ji\r\nKampala, UgandaE-mail: wwwwesternunionpaymentoffice@aol.comTel:+256-7024-65-225 \r\nAttention Customer \r\n I am Mr Richard Moore, director of Western Union Office Uganda Kampala have received your email regarding your comment,Now we will advice you that receiving your funds through bank to bank wire transfer will be the best way for you to have the funds transfer once into your account okay, \r\nSo i will check out the bank who will stand to help you out completed the funds into your account,And once we hear from you we will also update you with the bank info which you suppose to contact once we MOVE out the funds to the bank.\r\n\r\nThanks for your Prompt Response.\r\n \r\nYours in Service\r\nMr Richard MooreDirector Western Union Money Transfer"
+    },
+    {
+        "from": "scammer_2685",
+        "to": "baiter_2685",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.266724537037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: Mr Richard Moore Director Western Union Money Transfer",
+        "body": "WesternUnion® Money Transfer\r\nPlot 28 30 Clive Rd, Next To Shell Petro Station Ji\r\nKampala, UgandaE-mail: wwwwesternunionpaymentoffice@aol.comTel:+256-7024-65-225 \r\nAttention Customer \r\n I am Mr Richard Moore, director of Western Union Office Uganda Kampala have received your email regarding your comment,Now we will advice you that receiving your funds through bank to bank wire transfer will be the best way for you to have the funds transfer once into your account okay, \r\nSo i will check out the bank who will stand to help you out completed the funds into your account,And once we hear from you we will also update you with the bank info which you suppose to contact once we MOVE out the funds to the bank.\r\n\r\nThanks for your Prompt Response.\r\n \r\nYours in Service\r\nMr Richard MooreDirector Western Union Money Transfer"
+    },
+    {
+        "from": "baiter_2685",
+        "to": "scammer_2685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.281412037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: Mr Richard Moore Director Western Union Money Transfer",
+        "body": "Hello Mr. Richard,\n\nThank you for your prompt response and the information provided. I appreciate your suggestion about receiving funds through a bank to bank wire transfer. \n\nCould you please provide me with more details about this process? How does it work exactly? And what kind of information would I need to provide for this?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDebra"
+    },
+    {
+        "from": "baiter_2685",
+        "to": "scammer_2685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.2816203703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: FROM,,,,,,,,,Mr Richard Moore Director Western Union Money Transfer",
+        "body": "Hello Mr. Richard,\n\nThank you for your prompt response and the information provided. I appreciate your suggestion about receiving funds through a bank to bank wire transfer. \n\nCould you please provide me with more details about this process? How does it work exactly? And what kind of information would I need to provide?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDebra"
+    },
+    {
+        "from": "scammer_2685",
+        "to": "baiter_2685",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.046157407407407,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "FROM,,,,,,,,,Mr Richard Moore Director Western Union Money Transfer",
+        "body": "WesternUnion® Money Transfer\r\nPlot 28 30 Clive Rd, Next To Shell Petro Station Ji\r\nKampala, UgandaE-mail: wwwwesternunionpaymentoffice@aol.comTel:+256-7024-65-225 \r\nAttention Customer \r\nI am  Mr Richard Moore, director of Western Union Office Uganda Kampala, And your email is noted and we are here to inform you that we have finalize with Standard Chartered Bank Uganda to assisted you to pushed the US$1,750,000.00 into your account view bank to bank wire transfer,And your funds of US$1,750,000.00 has moved direct to the Standard Chartered Bank this morning which deposited certificate and ownership will be send to you before tomorrow,\r\n\r\nSo you advice to contact the bank view the below info and followed the direction of the bank to completed your funds into your account with out delay,And below is the bank contact info where to contact them thanks. \r\n\r\nBank Name: Standard Chartered Bank Uganda.\r\nContact Person: Mr. Albert Thomas \r\nChief operating officer.\r\nDirector, Credit / Telex Dept.\r\nBank Address: Plot No. 9, William Street 5 Speke Road, Kampala,Uganda\r\nBank Email ID: (  standardcharteredbankofuganda@aol.com)\r\nDirect Bank Phone  No: +256-7589-90-661\r\nDirector Whats-app No:+256-704-265-875\r\n\r\nYour Full Name:\r\nCurrent Home Address:\r\nTelephone No:\r\nAge:\r\nOccupation:\r\nCountry :\r\n\r\nThanks for your Prompt Response.\r\nYours in Service\r\nMr Richard MooreDirector Western Union Money Transfer"
+    },
+    {
+        "from": "scammer_2685",
+        "to": "baiter_2685",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.046342592592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: Mr Richard Moore Director Western Union Money Transfer",
+        "body": "WesternUnion® Money Transfer\r\nPlot 28 30 Clive Rd, Next To Shell Petro Station Ji\r\nKampala, UgandaE-mail: wwwwesternunionpaymentoffice@aol.comTel:+256-7024-65-225 \r\nAttention Customer \r\nI am  Mr Richard Moore, director of Western Union Office Uganda Kampala, And your email is noted and we are here to inform you that we have finalize with Standard Chartered Bank Uganda to assisted you to pushed the US$1,750,000.00 into your account view bank to bank wire transfer,And your funds of US$1,750,000.00 has moved direct to the Standard Chartered Bank this morning which deposited certificate and ownership will be send to you before tomorrow,\r\n\r\nSo you advice to contact the bank view the below info and followed the direction of the bank to completed your funds into your account with out delay,And below is the bank contact info where to contact them thanks. \r\n\r\nBank Name: Standard Chartered Bank Uganda.\r\nContact Person: Mr. Albert Thomas \r\nChief operating officer.\r\nDirector, Credit / Telex Dept.\r\nBank Address: Plot No. 9, William Street 5 Speke Road, Kampala,Uganda\r\nBank Email ID: (  standardcharteredbankofuganda@aol.com)\r\nDirect Bank Phone  No: +256-7589-90-661\r\nDirector Whats-app No:+256-704-265-875\r\n\r\nYour Full Name:\r\nCurrent Home Address:\r\nTelephone No:\r\nAge:\r\nOccupation:\r\nCountry :\r\n\r\nThanks for your Prompt Response.\r\nYours in Service\r\nMr Richard MooreDirector Western Union Money Transfer"
+    },
+    {
+        "from": "baiter_2685",
+        "to": "scammer_2685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.051203703703703,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: Mr Richard Moore Director Western Union Money Transfer",
+        "body": "Hello Mr. Richard Moore,\n\nThank you for your email and the information provided. It's great to hear that the funds have been moved to Standard Chartered Bank. \n\nCould you please provide me with more details about this process? How does it work exactly? And what are the next steps I should take?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDebra"
+    },
+    {
+        "from": "baiter_2685",
+        "to": "scammer_2685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.051261574074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: FROM,,,,,,,,,Mr Richard Moore Director Western Union Money Transfer",
+        "body": "Hello Mr. Richard Moore,\n\nThank you for your email and the information provided. It's great to hear that the funds have been moved to Standard Chartered Bank.\n\nCould you please provide me with more details about this process? How long does it usually take for the funds to be transferred into my account?\n\nAlso, could you clarify what you mean by \"ownership will be sent to me before tomorrow\"? What exactly will I receive?\n\nI'm looking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDebra"
+    },
+    {
+        "from": "baiter_2685",
+        "to": "scammer_2685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.051342592592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: Mr Richard Moore Director Western Union Money Transfer",
+        "body": "Hello Mr. Richard Moore,\n\nThank you for your email and the information provided. It's great to hear that the funds have been moved to Standard Chartered Bank. \n\nCould you please provide me with more details about this process? How long does it usually take for the funds to be transferred into my account? Also, could you clarify what you mean by \"ownership will be sent to me before tomorrow\"?\n\nI'm looking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nDebra"
+    },
+    {
+        "from": "scammer_2685",
+        "to": "baiter_2685",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.1838194444444445,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: FROM,,,,,,,,,Mr Richard Moore Director Western Union Money Transfer",
+        "body": "WesternUnion® Money Transfer\r\nPlot 28 30 Clive Rd, Next To Shell Petro Station Ji\r\nKampala, UgandaE-mail: wwwwesternunionpaymentoffice@aol.comTel:+256-7024-65-225 \r\nAttention Customer \r\nI am  Mr Richard Moore, director of Western Union Office Uganda Kampala your email is noted,Now go ahead and contact the bank with the below then the bank will direct you how there going to transfer your funds direct into your account And below is the bank contact info where to contact them thanks. \r\n\r\nBank Name: Standard Chartered Bank Uganda.\r\nContact Person: Mr. Albert Thomas \r\nChief operating officer.\r\nDirector, Credit / Telex Dept.\r\nBank Address: Plot No. 9, William Street 5 Speke Road, Kampala,Uganda\r\nBank Email ID: (  standardcharteredbankofuganda@aol.com)\r\nDirect Bank Phone  No: +256-7589-90-661\r\nDirector Whats-app No:+256-704-265-875\r\n\r\nYour Full Name:\r\nCurrent Home Address:\r\nTelephone No:\r\nAge:\r\nOccupation:\r\nCountry :\r\n\r\nThanks for your Prompt Response.\r\nYours in Service\r\nMr Richard MooreDirector Western Union Money Transfer"
+    },
+    {
+        "from": "scammer_2685",
+        "to": "baiter_2685",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.1839814814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Re: Mr Richard Moore Director Western Union Money Transfer",
+        "body": "WesternUnion® Money Transfer\r\nPlot 28 30 Clive Rd, Next To Shell Petro Station Ji\r\nKampala, UgandaE-mail: wwwwesternunionpaymentoffice@aol.comTel:+256-7024-65-225 \r\nAttention Customer \r\nI am  Mr Richard Moore, director of Western Union Office Uganda Kampala your email is noted,Now go ahead and contact the bank with the below then the bank will direct you how there going to transfer your funds direct into your account And below is the bank contact info where to contact them thanks. \r\n\r\nBank Name: Standard Chartered Bank Uganda.\r\nContact Person: Mr. Albert Thomas \r\nChief operating officer.\r\nDirector, Credit / Telex Dept.\r\nBank Address: Plot No. 9, William Street 5 Speke Road, Kampala,Uganda\r\nBank Email ID: (  standardcharteredbankofuganda@aol.com)\r\nDirect Bank Phone  No: +256-7589-90-661\r\nDirector Whats-app No:+256-704-265-875\r\n\r\nYour Full Name:\r\nCurrent Home Address:\r\nTelephone No:\r\nAge:\r\nOccupation:\r\nCountry :\r\n\r\nThanks for your Prompt Response.\r\nYours in Service\r\nMr Richard MooreDirector Western Union Money Transfer"
+    },
+    {
+        "from": "baiter_2685",
+        "to": "scammer_2685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.197916666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: FROM,,,,,,,,,Mr Richard Moore Director Western Union Money Transfer",
+        "body": "Hello Mr. Richard,\n\nThank you for reaching out to me. I'm quite intrigued by your message and the prospect of a fund transfer. Could you please provide more details about this? How did this come about and what is the purpose of these funds?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDebra"
+    },
+    {
+        "from": "baiter_2685",
+        "to": "scammer_2685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.198078703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "22",
+        "subject": "Re: Mr Richard Moore Director Western Union Money Transfer",
+        "body": "Hello Mr. Richard Moore,\n\nThank you for reaching out to me. I'm quite intrigued by your message and the opportunity it presents. However, I would like to understand more about this process.\n\nCould you please explain how this transfer works? And what is the role of the bank in this transaction? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDebra"
+    },
+    {
+        "from": "scammer_2685",
+        "to": "baiter_2685",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.998680555555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "23",
+        "subject": "Re: Mr Richard Moore Director Western Union Money Transfer",
+        "body": "WesternUnion® Money Transfer\r\nPlot 28 30 Clive Rd, Next To Shell Petro Station Ji\r\nKampala, UgandaE-mail: wwwwesternunionpaymentoffice@aol.comTel:+256-7024-65-225 \r\nAttention Customer \r\n I am  Mr Richard Moore, director of Western Union Office Uganda Kampala, And your email is noted we advice you to go back to the first message you received before contacting this office okay,So you know how come of the funds,because we have done what we can and after that then contact the bank for your funds good luck\r\n\r\nBank Name: Standard Chartered Bank Uganda.\r\nContact Person: Mr. Albert Thomas \r\nChief operating officer.\r\nDirector, Credit / Telex Dept.\r\nBank Address: Plot No. 9, William Street 5 Speke Road, Kampala,Uganda\r\nBank Email ID: (  standardcharteredbankofuganda@aol.com)\r\nDirect Bank Phone  No: +256-7589-90-661\r\nDirector Whats-app No:+256-704-265-875\r\n\r\nYour Full Name:\r\nCurrent Home Address:\r\nTelephone No:\r\nAge:\r\nOccupation:\r\nCountry :\r\n\r\nThanks for your Prompt Response.\r\nYours in Service\r\nMr Richard MooreDirector Western Union Money Transfer"
+    },
+    {
+        "from": "scammer_2685",
+        "to": "baiter_2685",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.998738425925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "24",
+        "subject": "Re: FROM,,,,,,,,,Mr Richard Moore Director Western Union Money Transfer",
+        "body": "WesternUnion® Money Transfer\r\nPlot 28 30 Clive Rd, Next To Shell Petro Station Ji\r\nKampala, UgandaE-mail: wwwwesternunionpaymentoffice@aol.comTel:+256-7024-65-225 \r\nAttention Customer \r\n I am  Mr Richard Moore, director of Western Union Office Uganda Kampala, And your email is noted we advice you to go back to the first message you received before contacting this office okay,So you know how come of the funds,because we have done what we can and after that then contact the bank for your funds good luck\r\n\r\nBank Name: Standard Chartered Bank Uganda.\r\nContact Person: Mr. Albert Thomas \r\nChief operating officer.\r\nDirector, Credit / Telex Dept.\r\nBank Address: Plot No. 9, William Street 5 Speke Road, Kampala,Uganda\r\nBank Email ID: (  standardcharteredbankofuganda@aol.com)\r\nDirect Bank Phone  No: +256-7589-90-661\r\nDirector Whats-app No:+256-704-265-875\r\n\r\nYour Full Name:\r\nCurrent Home Address:\r\nTelephone No:\r\nAge:\r\nOccupation:\r\nCountry :\r\n\r\nThanks for your Prompt Response.\r\nYours in Service\r\nMr Richard MooreDirector Western Union Money Transfer"
+    },
+    {
+        "from": "baiter_2685",
+        "to": "scammer_2685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.009375,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "25",
+        "subject": "Re: Mr Richard Moore Director Western Union Money Transfer",
+        "body": "Hello Mr. Richard,\n\nThank you for your prompt response. I appreciate the information you've provided. However, I'm a bit confused about the process you mentioned. Could you please elaborate on what exactly I need to do? You mentioned something about contacting a bank, could you specify which bank and how should I proceed with it?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDebra"
+    },
+    {
+        "from": "baiter_2685",
+        "to": "scammer_2685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.009502314814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "26",
+        "subject": "Re: FROM,,,,,,,,,Mr Richard Moore Director Western Union Money Transfer",
+        "body": "Hello Mr. Richard,\n\nThank you for your prompt response. I appreciate the information you've provided. However, I'm a bit confused about the process you mentioned. Could you please elaborate on what exactly I need to do? You mentioned something about contacting a bank, could you specify which bank and how should I proceed with it?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDebra"
+    },
+    {
+        "from": "baiter_2685",
+        "to": "scammer_2685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.009548611111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "27",
+        "subject": "Re: FROM,,,,,,,,,Mr Richard Moore Director Western Union Money Transfer",
+        "body": "Hello Mr. Richard,\n\nThank you for your prompt response. I appreciate the information you've provided. However, I'm a bit confused about the process you mentioned. Could you please elaborate on what exactly I need to do? You mentioned something about contacting a bank, could you specify which bank and how should I proceed with it?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDebra"
+    },
+    {
+        "from": "scammer_2685",
+        "to": "baiter_2685",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.335138888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "28",
+        "subject": "Re: FROM,,,,,,,,,Mr Richard Moore Director Western Union Money Transfer",
+        "body": "WesternUnion® Money Transfer\r\nPlot 28 30 Clive Rd, Next To Shell Petro Station Ji\r\nKampala, UgandaE-mail: wwwwesternunionpaymentoffice@aol.comTel:+256-7024-65-225 \r\nAttention Customer \r\n I am  Mr Richard Moore, director of Western Union Office Uganda Kampala, And your email is noted below is bank info where to contact them and they will tell you how to received your funds \r\n\r\nBank Name: Standard Chartered Bank Uganda.\r\nContact Person: Mr. Albert Thomas \r\nChief operating officer.\r\nDirector, Credit / Telex Dept.\r\nBank Address: Plot No. 9, William Street 5 Speke Road, Kampala,Uganda\r\nBank Email ID: (  standardcharteredbankofuganda@aol.com)\r\nDirect Bank Phone  No: +256-7589-90-661\r\nDirector Whats-app No:+256-704-265-875\r\n\r\nYour Full Name:\r\nCurrent Home Address:\r\nTelephone No:\r\nAge:\r\nOccupation:\r\nCountry :\r\n\r\nThanks for your Prompt Response.\r\nYours in Service\r\nMr Richard MooreDirector Western Union Money Transfer"
+    },
+    {
+        "from": "baiter_2685",
+        "to": "scammer_2685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.3428125,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "29",
+        "subject": "Re: FROM,,,,,,,,,Mr Richard Moore Director Western Union Money Transfer",
+        "body": "Hello Mr. Richard Moore,\n\nThank you for reaching out to me. I'm quite intrigued by your message, but I must admit, I'm a bit confused. Could you please elaborate more on the nature of these funds? How did they come about and why are they being transferred to me?\n\nAlso, could you provide more information about this bank? What is its name and where is it located? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDebra"
+    },
+    {
+        "from": "baiter_2685",
+        "to": "scammer_2685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.343067129629629,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "30",
+        "subject": "Re: FROM,,,,,,,,,Mr Richard Moore Director Western Union Money Transfer",
+        "body": "Hello Mr. Richard Moore,\n\nThank you for reaching out to me. I'm quite intrigued by this opportunity you've presented. Could you please provide more details about the process of receiving these funds? \n\nAlso, could you clarify what exactly the role of the Chief Operating Officer and Director, Credit Telex Dept is in this transaction? \n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nDebra"
+    },
+    {
+        "from": "baiter_2685",
+        "to": "scammer_2685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.343136574074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "31",
+        "subject": "Re: FROM,,,,,,,,,Mr Richard Moore Director Western Union Money Transfer",
+        "body": "Hello Mr. Richard Moore,\n\nThank you for reaching out to me. I'm quite intrigued by your message and the prospect of receiving funds. Could you please provide more details about this? How did this come about and what is the process involved?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDebra"
+    },
+    {
+        "from": "baiter_2685",
+        "to": "scammer_2685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.343784722222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "32",
+        "subject": "Re: FROM,,,,,,,,,Mr Richard Moore Director Western Union Money Transfer",
+        "body": "Hello Mr. Richard Moore,\n\nThank you for reaching out to me. I'm quite intrigued by this opportunity. Could you please provide more details about the process of receiving these funds? \n\nAlso, could you clarify what the role of the Chief Operating Officer and Director, Credit Telex Dept is in this transaction? \n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nDebra"
+    },
+    {
+        "from": "scammer_2685",
+        "to": "baiter_2685",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.003206018518519,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "33",
+        "subject": "Re: FROM,,,,,,,,,Mr Richard Moore Director Western Union Money Transfer",
+        "body": "WesternUnion® Money Transfer\r\nPlot 28 30 Clive Rd, Next To Shell Petro Station Ji\r\nKampala, UgandaE-mail: wwwwesternunionpaymentoffice@aol.comTel:+256-7024-65-225 \r\nAttention Customer \r\n I am  Mr Richard Moore, director of Western Union Office Uganda Kampala, And your email is noted,And we  have nothing to explain to you any more,because we have forwarded your email address  to the bank,And  the bank will contact you and direct you how to received your funds okay.\r\n\r\nThanks for your Prompt Response.\r\nYours in Service\r\nMr Richard MooreDirector Western Union Money Transfer"
+    },
+    {
+        "from": "baiter_2685",
+        "to": "scammer_2685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.0094212962962965,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "34",
+        "subject": "Re: FROM,,,,,,,,,Mr Richard Moore Director Western Union Money Transfer",
+        "body": "Hello Mr. Richard Moore,\n\nThank you for reaching out to me. I'm quite intrigued by your message, although I must admit, it's a bit unclear to me. Could you please elaborate on what this is about? You mentioned something about a bank contacting me and directing me on how to receive funds. What funds are we talking about here?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDebra"
+    },
+    {
+        "from": "baiter_2685",
+        "to": "scammer_2685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.009571759259259,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "35",
+        "subject": "Re: FROM,,,,,,,,,Mr Richard Moore Director Western Union Money Transfer",
+        "body": "Hello Mr. Richard Moore,\n\nThank you for your prompt response. I'm quite excited about this opportunity. Could you please provide me with more details about the process? How does it work exactly? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDebra"
+    },
+    {
+        "from": "baiter_2685",
+        "to": "scammer_2685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.009756944444445,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "36",
+        "subject": "Re: FROM,,,,,,,,,Mr Richard Moore Director Western Union Money Transfer",
+        "body": "Hello Mr. Richard Moore,\n\nThank you for reaching out to me. I'm quite excited about this opportunity. Could you please provide more details about the process of receiving these funds? I would also like to know if there are any fees or charges associated with this transfer.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDebra"
+    },
+    {
+        "from": "baiter_2685",
+        "to": "scammer_2685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.009814814814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "37",
+        "subject": "Re: FROM,,,,,,,,,Mr Richard Moore Director Western Union Money Transfer",
+        "body": "Hello Mr. Richard Moore,\n\nThank you for reaching out to me. I'm quite excited about this opportunity! Could you please provide more details about the process of receiving these funds? I'm not very familiar with how Western Union works.\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nDebra"
+    },
+    {
+        "from": "scammer_2685",
+        "to": "baiter_2685",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.018541666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "38",
+        "subject": "FROM,,,,,,,,,Mr Richard Moore Director Western Union Money Transfer",
+        "body": "WesternUnion® Money Transfer\r\nPlot 28 30 Clive Rd, Next To Shell Petro Station Ji\r\nKampala, UgandaE-mail: wwwwesternunionpaymentoffice@aol.comTel:+256-7024-65-225 \r\nAttention Customer \r\n I am  Mr Richard Moore, director of Western Union Office Uganda Kampala, And your email is noted,And we  have nothing to explain to you any more,because we have forwarded your email address  to the bank,And  the bank will contact you and direct you how to received your funds okay.\r\n\r\nThanks for your Prompt Response.\r\nYours in Service\r\nMr Richard MooreDirector Western Union Money Transfer"
+    },
+    {
+        "from": "baiter_2685",
+        "to": "scammer_2685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.030983796296296,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "39",
+        "subject": "Re: FROM,,,,,,,,,Mr Richard Moore Director Western Union Money Transfer",
+        "body": "Hello Mr. Richard Moore,\n\nThank you for reaching out to me. I'm quite excited about this opportunity! Could you please provide more details about the process? How does it work exactly? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDebra"
+    },
+    {
+        "from": "baiter_2685",
+        "to": "scammer_2685",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.031041666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "40",
+        "subject": "Re: FROM,,,,,,,,,Mr Richard Moore Director Western Union Money Transfer",
+        "body": "Hello Mr. Richard Moore,\n\nThank you for reaching out to me. I'm quite excited about this opportunity! Could you please provide more details about the process of receiving these funds? I'm not very familiar with how Western Union works.\n\nLooking forward to hearing from you soon!\n\nBest regards.\n\nBest wishes,\nDebra"
+    }
+]

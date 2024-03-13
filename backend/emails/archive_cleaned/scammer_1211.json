@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1211",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn: xxx,",
+        "body": "Attn: xxx,\nSince you have chosen to receive your ATM CARD  parcel through DHL. It will cost you only  €459 Euro.\nYou should use the below bank account details  to send the courier delivery fee of €459 Euro.\nBank name: Capital one,\nBank Address: 1029 Lincoln Rd, Miami Beach, FL, 33139 USA  \nRouting number: 031176110\naccount number: 3620112xxxx.\nAccount holder, M. L..\nAccount Holder address: xxx Lakeland Florida 33813 USA\nYou should forward the transfer slip after making payment.\nIn the alternative, If you decide to send the DHL....€459 Euro through Western Union, MONEYGRAM OR RIA . You should the below information of the receiver.\nRECEIVER NAME:  M.G.L.\nRECEIVER ADDRESS:xxx Lakeland Florida 33813 USA\nConfirm receipt of this mail.\nBest regards,\nMrs Jean George,\nChairman UNDP Grant Programm"
+    },
+    {
+        "from": "baiter_1211",
+        "to": "scammer_1211",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Attn: xxx,",
+        "body": "Hello Mrs. Jean George,\n\nThank you for reaching out to me regarding the delivery of my ATM CARD parcel through DHL. I appreciate your assistance in this matter. However, I have a few questions before proceeding with the payment.\n\n1. Could you please provide more details about the Euro amount required for the courier delivery fee? It would be helpful to know the exact cost.\n\n2. Is there any specific reason why I need to use a bank account transfer for the payment? Are there alternative methods available?\n\n3. If I choose to send the payment through Western Union, MoneyGram, or RIA, could you please provide me with the necessary details of the receiver?\n\nI look forward to your response and further guidance on how to proceed with this delivery.\n\nBest wishes,\nJulia"
+    }
+]

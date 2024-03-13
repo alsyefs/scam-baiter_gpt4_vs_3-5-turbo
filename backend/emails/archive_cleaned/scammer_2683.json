@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2683",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention:",
+        "body": "  Attention:\nI wish to use this medium to inform you that your full Payment of USD$12.5 Million from Bank of America  have been RELEASED and APPROVED for onward transfer to you via an ATM CARD which you will use to withdraw all the USD$12.5 Million in any ATM SERVICE MACHINE in any part of the world, but the maximum you can withdraw in a day is USD$5,500 Only.\nWe have mandated ATM Department , to send you the ATM CARD and PIN NUMBER which you will use to withdraw all your USD$12.5 Million Dollars In any ATM SERVICE MACHINE in any part of the world, but as i 've mentioned earlier, the maximum you can withdraw in a day is USD$5,500.00 Only.\nYou are therefore advice to contact the Head of ATM CARD Department Contact Person: E-mail address (\nwaynedonald55556@gmail.com\n )Mr. Brian Moynihan (CEO)  and inform her that you received a message from the Bank of America to send you the ATM CARD and PIN NUMBER which you will use to withdraw your USD$12.5 Million Dollars in any ATM SERVICE MACHINE in any part of the world, also send him your direct phone number and contact address where you want him to send the ATM CARD and PIN NUMBER  I will like you to call him immediately you receive this email today.Make sure that you Reply to this email:waynedonald55556@gmail.com\nTherefore, do forward the below details.\nFULL NAME:...\nHOME ADDRESS:....\nNEAREST AIRPORT:....\nPHONE NUMBER\nVALID ID:....\nOCCUPATION:...\nSEX/AGE:...\nThank you for giving us the opportunity to serve your banking needs.\nYours faithfully, `\nMr. Brian Moynihan (CEO)   "
+    },
+    {
+        "from": "baiter_2683",
+        "to": "scammer_2683",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention:",
+        "body": "Hello Mr. Brian Moynihan,\n\nWow, this is such exciting news! I can't believe my luck. It's not every day that one hears about such a large sum of money coming their way. \n\nI'm curious though, how did this happen? How was I chosen for this? And why is the maximum withdrawal limit set to USD per day?\n\nAlso, could you please explain more about how the ATM card works? Is it like a regular debit card that I can use at any ATM machine?\n\nI'm sorry for all the questions, but this is all so new and fascinating to me.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJerry"
+    }
+]

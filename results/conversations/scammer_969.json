@@ -1,0 +1,322 @@
+[
+    {
+        "from": "scammer_969",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear Sir",
+        "body": "  Dear Sir\nWe have completed your online account below is your online account details\nhttps:/ /www.pelicanstatecu.com\nUser: \nadmin@bankserv.com\nPassword : 123123\nTo fully access your funds you are expected to pay $3,756.55\nWe look forward to hear from you ASAP.\nYours Sincerely\nMrs. Annette Thames\nExecutive management /Pelican state Credit Union   "
+    },
+    {
+        "from": "baiter_969",
+        "to": "scammer_969",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear Sir",
+        "body": "Dear Mrs. Annette Thames,\n\nThank you for reaching out to me. I appreciate your assistance in providing the details of my online account. However, I have a few questions before proceeding.\n\n1. Could you please clarify what exactly needs to be paid in order to fully access my funds?\n2. What are the payment options available? Are there any specific instructions I need to follow?\n3. Is there a deadline by which the payment needs to be made?\n\nI apologize for any inconvenience caused, but I want to ensure that I have all the necessary information before proceeding.\n\nThank you once again for your help.\n\nBest wishes,\nJoyce"
+    },
+    {
+        "from": "scammer_969",
+        "to": "baiter_969",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Sir",
+        "body": "Dear Joyce\r\n\r\nWe acknowledge the receipt of your email and content noted .\r\n\r\n1, The only charge needed to be pay in order to access your funds is an \r\nactivation charge of USD$3,600.00\r\n\r\n2. There are no specified instructions to follow,will only need to login \r\nthe details that will be mail to you after confirmation of the fee as \r\nmentioned above.\r\n\r\n3. Yes, there are deadlines...But you are mandated to give us a specify \r\ndate when payment will be made.\r\n\r\nLook forward to hear from you ASAP\r\n\r\nYours Sincerely\r\nMrs. Annette Thames\r\nExecutive management /Pelican state Credit Union."
+    },
+    {
+        "from": "baiter_969",
+        "to": "scammer_969",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.495775462962963,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Sir",
+        "body": "Dear Mrs. Annette Thames,\n\nThank you for your email and for providing me with the information. I understand that there is an activation charge required to access my funds. Could you please provide me with more details about this fee? How much is the activation charge in USD?\n\nAlso, I would like to know how I can make the payment for the activation charge. Do you accept credit card payments or is there a specific method of payment that I need to use?\n\nI appreciate your assistance and look forward to hearing from you soon.\n\nBest wishes,\nJoyce"
+    },
+    {
+        "from": "baiter_969",
+        "to": "scammer_969",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7037731481481482,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Dear Sir",
+        "body": "Dear Mrs. Annette Thames,\n\nThank you for your email and for providing me with the information. I understand that there is an activation charge required to access my funds. Could you please provide me with more details about this fee? How much is the activation charge in USD?\n\nAlso, I would like to know how I can make the payment for this activation charge. Do you accept credit card payments or is there a specific method that I need to use?\n\nLastly, could you please clarify what you mean by \"login details\"? Are these login details for accessing my funds online? If so, how do I go about setting up an online account?\n\nI appreciate your assistance and look forward to hearing back from you soon.\n\nBest wishes,\nJoyce"
+    },
+    {
+        "from": "scammer_969",
+        "to": "baiter_969",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.9286111111111112,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Dear Sir",
+        "body": "Dear Joyce\r\n\r\nOnce Again ..The activation charge is USD$3,600.00 (Three Thousand Six \r\nhundred United State Dollars)\r\n\r\nYes , we accept credit card payment to our Bitcoin wallet: \r\nbc1qjn04gut0akc9h7xgjs4p0vcq39paj8a3s4lz5j ,also you can use your credit \r\ncard  to buy a Steam Gift Card from a gift card shop or Walmart shop \r\n,snap and forward it or picture and forward it via email . use your \r\ncredit card to pay for Bitcoin or buy Steam Card or gift card .\r\n\r\nLastly ,Login details are use to login to your online account , as all \r\ndetails needed will be mail to you after your payment is received  and \r\nalso the Login details will allow you to access your funds online and \r\nknow how much is credited to you ..\r\n\r\nWe are to setup your online account  and give all details to login in \r\nand access your funds .\r\n\r\nPayment USD$3,600.00 (Three Thousand Six hundred United State Dollars)  \r\nmust be send today to enable you have access to your funds on Monday \r\ndated 12th.\r\n\r\nLook forward to receive your payment confirmation details ASAP\r\n\r\nYours Sincerely\r\nMrs. Annette Thames\r\nExecutive management /Pelican state Credit Union."
+    },
+    {
+        "from": "baiter_969",
+        "to": "scammer_969",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.0373842592592593,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Dear Sir",
+        "body": "Dear Mrs. Annette Thames,\n\nThank you for your email. I appreciate the information you have provided regarding the activation charge. However, I have a few questions before proceeding with the payment.\n\n1. Can you please explain why there is an activation charge? What does it cover?\n\n2. Is there any specific reason why I need to use a credit card to buy Steam Gift Cards? Can I use any other method of payment?\n\n3. Could you provide more details about how the login process works? How secure is it?\n\n4. Is there a specific reason why the payment needs to be sent today in order to access my funds on Monday? Can this deadline be extended?\n\nI look forward to your response and further clarification.\n\nBest wishes,\nJoyce"
+    },
+    {
+        "from": "scammer_969",
+        "to": "baiter_969",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.1825115740740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Dear Sir",
+        "body": "Dear Joyce\r\n\r\nWe Look forward to your urgent diligent payment cooperation.\r\n\r\nYours Sincerely\r\nMrs. Annette Thames\r\nExecutive management /Pelican state Credit Union."
+    },
+    {
+        "from": "scammer_969",
+        "to": "baiter_969",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.1825231481481482,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Dear Sir",
+        "body": "Dear Joyce\r\n\r\nYour mail received .\r\n\r\nYour setup Online account need to be activate and should be activated \r\nand that is why the fee is important and necessary.\r\n\r\nYou can use any method of payment known to you to make the payment ...\r\n\r\nYour online account is highly secured with our online security ... and \r\nall we need to do is give you the login details and you login through \r\nour website .\r\n\r\nThe deadline is on Monday and payment need to be made before date to \r\nenable you access your funds .\r\n\r\nWe Look forward to your urgent diligent payment cooperation.\r\n\r\nYours Sincerely\r\nMrs. Annette Thames\r\nExecutive management /Pelican state Credit Union."
+    },
+    {
+        "from": "scammer_969",
+        "to": "baiter_969",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.1825347222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Dear Sir",
+        "body": "Dear Joyce\r\n\r\nWe acknowledge the receipt of your email and content noted .\r\n\r\nActivation charge is USD$3,600.00 (Three Thousand Six hundred United \r\nState Dollars) and this will enable you have full access to your funds\r\n\r\nThe method of payment is by our Bitcoin wallet: \r\nbc1qjn04gut0akc9h7xgjs4p0vcq39paj8a3s4lz5j ,also you can use your credit \r\ncard  to buy a Steam Gift Card from a gift card shop or Walmart shop \r\n,snap and forward it or picture and forward it via email .\r\n\r\nEndeavor to send the payment today to enable have access to your funds \r\non Monday dated 12th.\r\n\r\nLook forward to receive your payment confirmation details ASAP\r\n\r\nYours Sincerely\r\nMrs. Annette Thames\r\nExecutive management /Pelican state Credit Union."
+    },
+    {
+        "from": "baiter_969",
+        "to": "scammer_969",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.620601851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: Dear Sir",
+        "body": "Dear Mrs. Annette Thames,\n\nThank you for your email. I appreciate the information you have provided regarding the activation of my online account. However, I have a few questions before proceeding with the payment.\n\n1. Can you please explain in more detail why the fee is necessary for activating my online account? Is it a one-time fee or will there be any recurring charges?\n\n2. Could you provide some more information about the security measures in place to protect my online account? How can I be assured that my personal and financial information will remain safe?\n\n3. Is there a specific reason why the payment deadline is on Monday? Can it be extended if needed?\n\nI look forward to your response and clarification on these matters.\n\nBest wishes,\nJoyce"
+    },
+    {
+        "from": "baiter_969",
+        "to": "scammer_969",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.9539351851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "11",
+        "subject": "Re: Dear Sir",
+        "body": "Dear Mrs. Annette Thames,\n\nThank you for reaching out to me. I hope this message finds you well. I'm curious about the urgent diligent payment you mentioned. Could you please provide me with more details about what it entails? I want to make sure I fully understand the situation before proceeding.\n\nLooking forward to your response.\n\nBest wishes,\nJoyce"
+    },
+    {
+        "from": "scammer_969",
+        "to": "baiter_969",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.115127314814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "12",
+        "subject": "OUR 24/7 BANKING SERVICES",
+        "body": "Dear Joyce\r\n\r\nYour mail received .\r\n\r\nTo proceed further with more information regarding this payment ...We \r\nrequest you to provide us with your ID, Drivers License or International \r\nCopy as evidence of identification.\r\n\r\nWe Look forward to receive your International Passport which entail \r\nfurther discussion to this payment in your favor.\r\n\r\nYours Sincerely\r\nMrs. Annette Thames\r\nExecutive management /Pelican state Credit Union."
+    },
+    {
+        "from": "baiter_969",
+        "to": "scammer_969",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.120509259259259,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "13",
+        "subject": "Re: OUR 24/7 BANKING SERVICES",
+        "body": "Dear Mrs. Annette Thames,\n\nThank you for reaching out to me regarding the payment request. I appreciate your prompt response. However, before I proceed any further, I have a few questions.\n\nFirstly, could you please clarify what exactly this payment is for? It would be helpful to have more information about the purpose and details of the transaction.\n\nSecondly, why is it necessary for me to provide my ID or driver's license copy? Is there a specific reason or requirement for this? I just want to ensure that my personal information is handled securely.\n\nLastly, you mentioned discussing the payment in my favor once I provide my passport. Could you please explain how this will benefit me and what exactly will be discussed?\n\nI look forward to your response and gaining a better understanding of this payment request.\n\nBest wishes,\nJoyce"
+    },
+    {
+        "from": "scammer_969",
+        "to": "baiter_969",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.1255208333333333,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "14",
+        "subject": "Re: OUR 24/7 BANKING SERVICES",
+        "body": "Dear Joyce\r\n\r\nYour mail received .\r\n\r\nYour valid ID is needed to prove that you are the original owner or \r\nintended beneficiary to the fund\r\n\r\nWe Look forward to receive your International Passport which entail \r\nfurther discussion to this payment in your favor.\r\n\r\nYours Sincerely\r\nMrs. Annette Thames\r\nExecutive management /Pelican state Credit Union."
+    },
+    {
+        "from": "scammer_969",
+        "to": "baiter_969",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.1287037037037035,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "15",
+        "subject": "Re: OUR 24/7 BANKING SERVICES",
+        "body": "Dear Joyce\r\n\r\nYour mail received .\r\n\r\nFirstly ,to clarify that the payment is an Inherited sum to your name .\r\n\r\nSecondly your ID is highly secure with the bank .\r\n\r\nLastly, discussion on how you will use your online account to make cash \r\ntransfer to your local account .\r\n\r\nWe Look forward to receive your International Passport which entail \r\nfurther discussion to this payment in your favor.\r\n\r\nYours Sincerely\r\nMrs. Annette Thames\r\nExecutive management /Pelican state Credit Union."
+    },
+    {
+        "from": "scammer_969",
+        "to": "baiter_969",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.140115740740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "16",
+        "subject": "Re: OUR 24/7 BANKING SERVICES",
+        "body": "Dear Joyce\r\n\r\nYour mail received .\r\n\r\nFirstly ,the ID is needed to clarify that we are dealing with the \r\noriginal owner of the funds lying here in our custody ,waiting to be \r\npaid out as indicated in our payment file ,however your name appear as \r\nthe rightful beneficiary to the funds,but we need to verify carefully to \r\navoid paying to a wrong beneficiary.\r\n\r\nYou may wish to know that the payment is an inheritance funds in your \r\nname and Please note that your ID is 100% secured with us .\r\n\r\nLastly, discussion on how you will use your online account to make cash \r\ntransfer to any account of your choice\r\n\r\nWe Look forward to receive your International Passport which entail \r\nfurther discussion ...\r\n\r\nPlease kindly adhere to the instruction so we can proceed with the \r\nconclusion.\r\n\r\nYours Sincerely\r\nMrs. Annette Thames\r\nExecutive management /Pelican state Credit Union."
+    },
+    {
+        "from": "scammer_969",
+        "to": "baiter_969",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.6440046296296296,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "17",
+        "subject": "Re: Dear Sir",
+        "body": "Dear Joyce\r\n\r\nYour mail received .\r\n\r\nWhen do you intend to make the payment ????????????? However we have not \r\nseen your ID .\r\n\r\nCould you please provide your ID and an answer to when you will be ready \r\nto make the payment .\r\n\r\nYours Sincerely\r\nMrs. Annette Thames\r\nExecutive management /Pelican state Credit Union."
+    },
+    {
+        "from": "baiter_969",
+        "to": "scammer_969",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.4539351851851854,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "18",
+        "subject": "Re: Dear Sir",
+        "body": "Dear Mrs. Annette Thames,\n\nThank you for reaching out to me. I apologize for not including my ID in my previous email. Could you please let me know what kind of ID you require? I want to make sure I provide the correct information.\n\nRegarding the payment, I would like to know more details about it. Can you please explain what it is for and how much is due? Additionally, could you clarify the payment method that should be used?\n\nThank you for your assistance.\n\nBest wishes,\nJoyce"
+    },
+    {
+        "from": "scammer_969",
+        "to": "baiter_969",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.6953125,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "19",
+        "subject": "Re: Dear Sir",
+        "body": "Dear Joyce\r\n\r\nYour mail received .\r\n\r\nFor further explanation to be given ,Please provide your International \r\nPassport or Driver license\r\n\r\nYours Sincerely\r\nMrs. Annette Thames\r\nExecutive management /Pelican state Credit Union."
+    },
+    {
+        "from": "baiter_969",
+        "to": "scammer_969",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.621226851851852,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "20",
+        "subject": "Re: OUR 24/7 BANKING SERVICES",
+        "body": "Dear Mrs. Annette Thames,\n\nThank you for your email. I appreciate the information you have provided regarding the funds in my name. I understand the need for verification to ensure that the payment is made to the rightful owner.\n\nCould you please clarify what type of ID you require for this verification process? I want to make sure I provide the correct documentation.\n\nAdditionally, could you explain more about how the online account works for making cash transfers? Is there a specific platform or website that I would need to use?\n\nI look forward to your response and further instructions on how we can proceed with this matter.\n\nBest wishes,\nJoyce"
+    },
+    {
+        "from": "baiter_969",
+        "to": "scammer_969",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.62144675925926,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "21",
+        "subject": "Re: Dear Sir",
+        "body": "Dear Mrs. Annette Thames,\n\nThank you for reaching out to me. I appreciate your prompt response. However, I have a few questions before I can provide any personal information.\n\nCould you please clarify why you need my passport or driver's license? Is it for verification purposes or is there another reason?\n\nI want to ensure that my personal information is handled securely and with utmost confidentiality. Can you please explain the process and measures in place to protect my data?\n\nThank you for your understanding and cooperation.\n\nBest wishes,\nJoyce"
+    },
+    {
+        "from": "scammer_969",
+        "to": "baiter_969",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.994907407407408,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "22",
+        "subject": "Re: Dear Sir",
+        "body": "Dear Joyce\r\n\r\nWhere is your \r\nID????????????????????????????????????????????????????????????????\r\n\r\nYours Sincerely\r\nMrs. Annette Thames\r\nExecutive management /Pelican state Credit Union."
+    },
+    {
+        "from": "baiter_969",
+        "to": "scammer_969",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.995972222222222,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "23",
+        "subject": "Re: Dear Sir",
+        "body": "Dear Mrs. Annette Thames,\n\nThank you for reaching out to me. I hope this message finds you well. I'm sorry, but I'm not sure what you mean by \"Where is your.\" Could you please provide more information or clarify your question? I would be happy to assist you if I can.\n\nBest wishes,\nJoyce"
+    },
+    {
+        "from": "scammer_969",
+        "to": "baiter_969",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.084953703703704,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "24",
+        "subject": "Re: Dear Sir",
+        "body": "Dear Joyce\r\n\r\nWhere is your ID (identification)       \r\n????????????????????????????????????????????????????????????????\r\n\r\nYours Sincerely\r\nMrs. Annette Thames\r\nExecutive management /Pelican state Credit Union"
+    },
+    {
+        "from": "baiter_969",
+        "to": "scammer_969",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.101388888888889,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "25",
+        "subject": "Re: Dear Sir",
+        "body": "Dear Mrs. Annette Thames,\n\nThank you for reaching out to me. I hope you're doing well. I apologize, but I'm not sure what you mean by \"Where is your ID.\" Could you please provide more context or clarify your question? I would be happy to help if I can.\n\nBest wishes,\nJoyce"
+    },
+    {
+        "from": "baiter_969",
+        "to": "scammer_969",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.434537037037037,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "26",
+        "subject": "Re: Dear Sir",
+        "body": "Dear Mrs. Annette Thames,\n\nThank you for your email and providing me with the information. I appreciate your assistance in helping me access my funds. However, I have a few questions before proceeding with the payment.\n\n1. Can you please explain why I need to purchase a Steam Gift Card? How does it help in accessing my funds?\n\n2. Is there any specific reason why I should buy the gift card from a gift card shop or Walmart? Are there other options available?\n\n3. Could you clarify how sending the payment today will ensure that I have access to my funds on Monday? What is the process after I send the payment?\n\nI look forward to your response and further guidance.\n\nBest wishes,\nJoyce"
+    },
+    {
+        "from": "baiter_969",
+        "to": "scammer_969",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.454074074074074,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "27",
+        "subject": "Re: OUR 24/7 BANKING SERVICES",
+        "body": "Dear Mrs. Annette Thames,\n\nThank you for reaching out to me. I appreciate your prompt response. I understand that you require my valid ID to prove my ownership or intention towards the fund. However, before proceeding further, I would like to know more details about the payment in my favor.\n\nCould you please provide me with some additional information regarding the fund? Specifically, I would like to know the source of the funds and any relevant documentation or paperwork associated with it. This will help me better understand the situation and ensure that everything is legitimate.\n\nI look forward to your response.\n\nBest wishes,\nJoyce"
+    },
+    {
+        "from": "scammer_969",
+        "to": "baiter_969",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.480567129629629,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "28",
+        "subject": "Re: Dear Sir",
+        "body": "Dear Joyce\r\n\r\nPlease provide a valid identification for further communication.\r\n\r\nYours Sincerely\r\nMrs. Annette Thames\r\nExecutive management /Pelican state Credit Union"
+    },
+    {
+        "from": "baiter_969",
+        "to": "scammer_969",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.495428240740741,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "29",
+        "subject": "Re: Dear Sir",
+        "body": "Dear Mrs. Annette Thames,\n\nThank you for reaching out to me. I hope you're doing well. I would be happy to provide any information you need, but could you please clarify what exactly you are looking for? Once I have a better understanding of your request, I'll do my best to assist you.\n\nBest wishes,\nJoyce"
+    },
+    {
+        "from": "baiter_969",
+        "to": "scammer_969",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.495648148148148,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "30",
+        "subject": "Re: Dear Sir",
+        "body": "Dear Mrs. Annette Thames,\n\nThank you for your email. I appreciate the information you have provided regarding the activation of my online account. However, I have a few questions before proceeding with the payment.\n\n1. Can you please explain in more detail why the fee is necessary for activating my online account? Is it a one-time fee or will there be any recurring charges?\n\n2. Could you provide some information about the security measures in place to protect my online account? How can I be assured that my personal and financial information will remain safe?\n\n3. Is there a specific reason why the payment deadline is on Monday? Can it be extended if needed?\n\nI look forward to your response and further guidance on how to proceed with the payment.\n\nBest wishes,\nJoyce"
+    },
+    {
+        "from": "baiter_969",
+        "to": "scammer_969",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5.496377314814815,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "31",
+        "subject": "Re: OUR 24/7 BANKING SERVICES",
+        "body": "Dear Mrs. Annette Thames,\n\nThank you for reaching out to me. I appreciate your email and the information you have provided. It's interesting to hear that the payment is an inherited sum in my name. Can you please provide more details about the source of this inheritance? I would like to understand how it came about.\n\nYou mentioned that my ID is highly secure with the bank. That's reassuring to know. Could you explain what measures are in place to ensure the security of my personal information?\n\nI'm also curious about how I can use my online account to make cash transfers to my local account. Could you please elaborate on the process and any fees associated with it?\n\nLastly, you mentioned that further discussion will require my passport. Why is my passport needed, and what specific information do you require from it?\n\nThank you again for contacting me, Mrs. Thames. I look forward to your response.\n\nBest wishes,\nJoyce"
+    }
+]

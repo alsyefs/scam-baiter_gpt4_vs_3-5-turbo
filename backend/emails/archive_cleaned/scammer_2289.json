@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2289",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Am Expecting Your Response,",
+        "body": "Am Expecting Your Response,\nPlease forgive me for stressing you with my predicaments and am sorry\nto approach you through this media, it is because it serves the\nfastest means of communication. I came across your E-mail from my\npersonal search and I decided to contact you believing you will be\nhonest to fulfill my final wish before I die.\nI am Mrs. Elizabeth Edward, 63 years, from USA, I am childless and I\nam suffering from a pro-long critical cancer, my doctors confirmed I\nmay not live beyond two months from now as my ill health has defile\nall forms of medical treatment.\nSince my days are numbered, I’ve decided, willingly to fulfill my long\ntime promise to donate you the sum(€9.5 Million Euro) I inherited from\nmy late husband Mr. Edward Herbart, foreign bank account over years. I\nneed a very honest person who can assist in transfer of this money to\nhis or her account and use the funds for charities work of God while\nyou use 50% for yourself. I want you to know there are no risks\ninvolved; it is 100% hitch free & safe. If you will be interesting to\nassist in getting this fund into your account for charity project to\nfulfill my promise before I die please let me know immediately. I will\nappreciate your utmost confidentiality as I wait for your reply.\nBest Regards\nMrs. Elizabeth Edward.\nEmail;comm92253@gmail.com"
+    },
+    {
+        "from": "baiter_2289",
+        "to": "scammer_2289",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Am Expecting Your Response,",
+        "body": "Hello Mrs. Elizabeth Edward,\n\nI'm deeply moved by your story and I'm sorry to hear about your health condition. It's really admirable that you want to use your resources for charity work. \n\nCould you please tell me more about the charities or causes you're passionate about? Also, how did you come across my contact information? I'm curious to know why you chose me for this noble cause.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nTeresa"
+    }
+]

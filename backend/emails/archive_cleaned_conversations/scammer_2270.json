@@ -1,0 +1,152 @@
+[
+    {
+        "from": "scammer_2270",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear   ,",
+        "body": "  Dear   ,\nI am Mr, George Carl Director Remittance Dept First Citizens Bank. This is to inform you that your name is among one Million beneficiaries worldwide to benefit $500.000 each from the united Nations compensation payment for those who lost money through online internet business from America/Europe/Asia and Africa.\nContact me with your telephone number(whatsapp number) for more details if you have been cheated and also lost fund through the internet.\nThank you for your understanding\nYours faithfully,\nGeorge Carl\nDirector Remittance Dept\nFirst Citizens Bank    "
+    },
+    {
+        "from": "baiter_2270",
+        "to": "scammer_2270",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear   ,",
+        "body": "Hello Mr. George Carl,\n\nI hope this message finds you well. I am intrigued by your email and the opportunity it presents. It's unfortunate that so many people have lost money through online internet business, and it's heartening to hear that the United Nations is stepping in to help.\n\nCould you please provide more details about this program? How was my name selected among the one million worldwide beneficiaries? And what are the next steps I should take?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDawn"
+    },
+    {
+        "from": "scammer_2270",
+        "to": "baiter_2270",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re:   Dear   ,",
+        "body": "Director Remittance Dept First Citizens Bank\r\n\r\nDate: 18/02/2024\r\n\r\nRe: Legitimate Entitled Owner Of: US$500,000.00\r\n\r\n\r\nAttn: Dawn,\r\n\r\nWe are in receipt of your mail and contents are well noted.\r\n\r\nWe wish to let you know that all the transfer process arrangements has been made for your Fund to be credited and for the transfer of your Fund to be successful, you have to provide us with your telephone number, any form of your ID for proper identification, then your contact to the Inland Revenue Services (IRS) to secure the Tax Clearance Certificate as well as transfer tax Code which will enable us to credit your Fund into an account that you provide us for transfer without any further delay.\r\n\r\nBelow is the contact details of the US IRS which you have to write to them immediately you receive this email for them to issue you the Tax Clearance Certificate and your Transfer Tax`Code for us to proceed immediately to transfer your Fund and forward to you all the related Certificates and Documents like the Deposit Certificate, Fund Approval Certificate, Certificate of Origin of the Fund to cover up your Fund with your Bank.\r\n\r\nMr. Douglas O'Donnell\r\nCommissioner of U.S Internal Revenue Service\r\nWashington DC USA\r\nE-mail: irsuk@outlook.com\r\n\r\nNote, this is the only process for you to have access to your Fund and we urge you to follow the instructions and contact the IRS and update us immediately.\r\n\r\nKindly respond back to us immediately you receive this email and always recognize this bank code to know when you receive a scam mail in the name of First Citizens Bank.....Bank Code (FCB 1)\nBest Regards\r\n\r\nYours faithfully,\r\n\r\nGeorge Carl\r\nDirector Remittance Dept\r\nFirst Citizens Bank"
+    },
+    {
+        "from": "baiter_2270",
+        "to": "scammer_2270",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.012418981481481482,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re:   Dear   ,",
+        "body": "Hello George Carl,\n\nThank you for your prompt response. I appreciate the detailed information you've provided about the transfer process. It's great to know that everything is in place for my fund to be credited.\n\nI understand that I need to contact the Inland Revenue Services (IRS) to secure the Tax Clearance and Transfer Tax Code. However, could you please clarify how exactly I should go about this? Should I write them an email or a letter? And what specific details should I include in my communication with them?\n\nAlso, could you please explain more about this bank code FCB? How does it help me recognize scam mail?\n\nLooking forward to your guidance on these matters.\n\nBest wishes,\nDawn"
+    },
+    {
+        "from": "scammer_2270",
+        "to": "baiter_2270",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.9436458333333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "From: First Citizen Bank",
+        "body": "Attn: Dawn,\r\n\r\nI have read contents of your message and information therein well noted. I will appreciate you to contact IRS office address in Washington DC below : \r\n\r\nMr. Douglas O'Donnell\r\nCommissioner of U.S Internal Revenue Service\r\nWashington DC USA\r\nE-mail: irsuk@outlook.com\r\n\r\nContact Mr. Douglas O'Donnell and let him know that you have directed by the First Citizen Bank to obtain Tax Clearance Certificate in order to receive your approved Entitled payment of $500.000 immediately without delay . Please note, any of my message must come to you with Bank Code (FCB 1) . \r\n\r\nKindly respond back to us immediately you receive this email and always recognize this bank code to know when you receive a scam mail in the name of First Citizens Bank.....Bank Code (FCB 1)\nBest Regards\r\n\r\nYours faithfully,\r\n\r\nGeorge Carl\r\nDirector Remittance Dept\r\nFirst Citizens Bank"
+    },
+    {
+        "from": "baiter_2270",
+        "to": "scammer_2270",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9504282407407407,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: From: First Citizen Bank",
+        "body": "Hello George Carl,\n\nThank you for your message and the information provided. It's great to know that there are measures in place to ensure the authenticity of communications from First Citizens Bank.\n\nI'm curious, could you explain a bit more about how this Tax Clearance process works? And what role does Mr. Douglas play in it?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDawn"
+    },
+    {
+        "from": "scammer_2270",
+        "to": "baiter_2270",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.9650231481481482,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: From: First Citizen Bank",
+        "body": "Attn: Dawn,\r\n\r\nThanks for your quick response . Firstly, Mr. Douglas is the person in charge of the operation at Inland Revenue office (IRS) You will negotiate with him but process will not cost more than $1000 for the transfer of $500.000 . The money will be paid to the office and receipt payment will be issue to you as evidence you have paid Tax Clearance to present to the bank for immediate transfer to your nominated account . \r\n\r\nKindly respond back to us immediately you receive this email and always recognize this bank code to know when you receive a scam mail in the name of First Citizens Bank.....Bank Code (FCB 1)\nBest Regards\r\n\r\nYours faithfully,\r\n\r\nGeorge Carl\r\nDirector Remittance Dept\r\nFirst Citizens Bank"
+    },
+    {
+        "from": "baiter_2270",
+        "to": "scammer_2270",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9707986111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: From: First Citizen Bank",
+        "body": "Hello George Carl,\n\nThank you for your prompt reply. It's great to hear that Mr. Douglas is in charge of the operation at the Inland Revenue office IRS. I'm sure he's very competent.\n\nI have a few questions, if you don't mind. Could you please explain more about this process? What exactly does it involve? And why is there a cost for the transfer?\n\nAlso, could you tell me more about this Tax Clearance? How does it work and why is it necessary?\n\nLastly, I appreciate your advice on recognizing scam mails. Could you elaborate more on how to use the bank code FCB?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDawn"
+    },
+    {
+        "from": "scammer_2270",
+        "to": "baiter_2270",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.9628587962962962,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "From: First Citizen Bank",
+        "body": "Attn: Dawn,\r\n\r\nThanks for your response . I am here to respond some of your questions . Firstly, we are working according to the United State banking law in line with Government policy . Therefore , any outgoing going and incoming fund in the United State must obtain a tax clearance receipt from IRS before the fund will be credited Or leaving to the destination account . The role of Mr. Douglas is to issue a tax clearance certificate after payment and he will send copy to you as evidence to claim your fund from the bank . Note, you are not required to pay any bank charges to FCB because all transfer charges will be deducted from the total sum during transfer process . Please contact the IRS office immediately so we can move into transaction process .\r\n\r\nKindly respond back to us immediately you receive this email and always recognize this bank code to know when you receive a scam mail in the name of First Citizens Bank.....Bank Code (FCB 1)\nBest Regards\r\n\r\nYours faithfully,\r\n\r\nGeorge Carl\r\nDirector Remittance Dept\r\nFirst Citizens Bank"
+    },
+    {
+        "from": "baiter_2270",
+        "to": "scammer_2270",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.9705324074074073,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: From: First Citizen Bank",
+        "body": "Hello George Carl,\n\nThank you for your detailed response. It's great to know that everything is being done according to the United States banking law and government policy. I appreciate the transparency.\n\nI'm curious about this tax clearance receipt from the IRS. Could you explain a bit more about how it works? Also, what exactly is Mr. Douglas' role in all of this?\n\nAnd thank you for the bank code FCB, I'll make sure to remember it.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDawn"
+    },
+    {
+        "from": "baiter_2270",
+        "to": "scammer_2270",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.9706828703703703,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: From: First Citizen Bank",
+        "body": "Hello George Carl,\n\nThank you for your detailed response. It's great to know that the First Citizens Bank operates according to United States banking law and government policy. I appreciate your efforts in ensuring a smooth transaction process.\n\nI have a few questions though, if you don't mind. Could you please explain more about this tax clearance receipt from IRS? How does it work exactly? And how do I contact the IRS office?\n\nAlso, could you clarify what you mean by \"all transfer charges will be deducted from the total sum during transfer process\"? Does this mean there won't be any additional charges on my end?\n\nLastly, thank you for sharing the bank code FCB. That's very helpful information.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDawn"
+    },
+    {
+        "from": "scammer_2270",
+        "to": "baiter_2270",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.1187847222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "From: First Citizen Bank",
+        "body": "Attn: Dawn,\r\n\r\nI have read contents of your message and information therein well understood to the best of my knowledge . However, Tax clearance means any outgoing fund from outside USA the Government must collect their income tax through that fund and the money will be paid at U.S Internal Revenue Service office and receipt payment will be issued to the beneficiary as evidence to present at the paying bank before transfer of fund will commence. Now, you are required to contact the office address as stated below through their email . Finally, we don't collect upfront transfer charges in advance all bank charges will be deducted once transfer process is going on . Please note, Tax clearance issue is different and not among with bank charges . \r\n\r\nMr. Douglas O'Donnell\r\nCommissioner of U.S Internal Revenue Service\r\nWashington DC USA\r\nE-mail: irsuk@outlook.com\r\n\r\nKindly respond back to us immediately you receive this email and always recognize this bank code to know when you receive a scam mail in the name of First Citizens Bank.....Bank Code (FCB 1)\nBest Regards\r\n\r\nYours faithfully,\r\n\r\nGeorge Carl\r\nDirector Remittance Dept\r\nFirst Citizens Bank"
+    },
+    {
+        "from": "baiter_2270",
+        "to": "scammer_2270",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.1380324074074073,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: From: First Citizen Bank",
+        "body": "Hello George Carl,\n\nThank you for your detailed explanation. I must admit, I'm not very familiar with these financial matters, but I'm trying my best to understand.\n\nSo, if I got it right, the tax clearance is a sort of fee that needs to be paid to the government before any international transfer can take place? And this payment is made at the Internal Revenue Service office?\n\nAlso, you mentioned that all bank charges will be deducted during the transfer process. Could you please clarify what these charges might include?\n\nLastly, could you explain more about this bank code FCB? How does it help me recognize scam mails?\n\nLooking forward to your response.\n\nBest wishes,\nDawn"
+    },
+    {
+        "from": "scammer_2270",
+        "to": "baiter_2270",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.0463425925925924,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "From: First Citizen Bank",
+        "body": "Attn: Dawn,\r\n\r\nYour email was received and understood it content . Yes , the tax clearance is a sort of fee that needs to be paid to the government before any international transfer can take place and also the payment will be made at the Internal Revenue Service office to obtain the Tax receipt payment . Actually, all bank charges will be deducted from the total sum during the transfer process such as cost of transfer for $500.000.00 .\r\nFinally, any time you receive my message the Code will be stated (FCB 1) that the Code to understand that the message is from my bank . If you are satisfied with this information kindly contact Mr. Douglas O'Donnell immediately to enable us to move forward towards transaction process .\r\n\r\nMr. Douglas O'Donnell\r\nCommissioner of U.S Internal Revenue Service\r\nWashington DC USA\r\nE-mail: irsuk@outlook.com\nBest Regards\r\n\r\nYours faithfully,\r\n\r\nMr. George Carl\r\nDirector Remittance Dept\r\nFirst Citizens Bank"
+    },
+    {
+        "from": "baiter_2270",
+        "to": "scammer_2270",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.054236111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: From: First Citizen Bank",
+        "body": "Hello Mr. George Carl,\n\nThank you for your detailed explanation about the tax clearance and bank charges. It's really helpful to understand how these things work. I'm a bit curious though, could you please explain more about this code FCB? How does it ensure that the message is from your bank?\n\nAlso, you mentioned Mr. Douglas of Internal Revenue Service in Washington DC, USA. Could you tell me more about his role in this process? \n\nLooking forward to hearing from you.\n\nBest wishes,\nDawn"
+    }
+]

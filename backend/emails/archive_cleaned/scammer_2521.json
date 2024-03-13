@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2521",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention please!",
+        "body": "Attention please!\nWe have been authorized by the present president of World Bank Group Mr. Ajay\nBanga and the Governing Board of the United States treasury department to\ninvestigate the unnecessary delay of your payment, to also recommend and approve\nyour claims for the awarded payment of your funds $8.500,000.00 USD if the\nreport of the unclaimed funds is genuine. However, we discovered that your funds\nhave been unnecessarily delayed by some corrupt officials of the banks, the bank\nhas also axed them from their office.\nWe have agreed with the authority that we will handle this transaction ourselves\nto avoid the hopeless situation created by those officials. Currently your\nawarded funds of $8.500,000.00 (Eight Million five hundred thousand United state\ndollars) have been credited into an ATM debit card.\nContact us with your details including phone lines for immediate delivery.\nyou’re advised to contact us with the following information as stated below:\n1. Your Full Name:.................\n2. Home Address:.............\n3. Your Age:.................\n4. Occupation:...............\n5. Cell/Mobile Number:............\nI await your urgent response to this message.\nPlease do not respond to email requesting for your ATM Card/PIN details\ndisregard them they are fraud.\nUBA Bank will never ask for such through this medium.\nThanks.\nBest Regards.\nMr. Oliver Alawuba CEO, Group Managing Director & Director of United Bank"
+    },
+    {
+        "from": "baiter_2521",
+        "to": "scammer_2521",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attention please!",
+        "body": "Hello Mr. Oliver Alawuba,\n\nThank you for reaching out to me with this exciting news! I'm thrilled to hear about the funds that have been credited into an ATM debit card. It's unfortunate to hear about the corruption within the banks, but I'm glad that it's being handled now.\n\nI do have a few questions though, if you don't mind. Could you please explain how my name came up for this award? And why is it being delivered via an ATM debit card instead of a direct bank transfer?\n\nAlso, could you provide more information on how the World Bank Group and United States treasury department are involved in this process? \n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nSalvador"
+    }
+]

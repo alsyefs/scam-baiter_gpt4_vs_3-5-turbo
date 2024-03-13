@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1407",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hi ,",
+        "body": "  Hi ,\nI am glad I found you.\nI have a project that I would like to execute with you.\nThis is going to favor the two of us. Kindly confirm your willingness to partner with me so that I can furnish you with full details of the project.\nI am waiting for your reply. (\nken777609@gmail.com\n )\nWarm regards ,\nMr. Ken Nelson   "
+    },
+    {
+        "from": "baiter_1407",
+        "to": "scammer_1407",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hi ,",
+        "body": "Hello Mr. Ken Nelson,\n\nIt's a pleasure to meet you! I'm intrigued by your proposal and would love to hear more about this project you're suggesting. Could you please provide me with some more details? What kind of project is it? How do you envision our partnership working?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJerome"
+    }
+]

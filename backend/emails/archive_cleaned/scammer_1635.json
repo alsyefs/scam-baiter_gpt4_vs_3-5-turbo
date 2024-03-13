@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1635",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  From: Dr. Kingsley Obiora",
+        "body": "  From: Dr. Kingsley Obiora\nDeputy Governor\nCentral Bank of Nigeria                                          \nPIOT 33, AbubakarTafawa Balewa Way,\nCadstral Zone- Abuja.\nCtnral Busines District,\nFederal Republic of Nigeria.\nDate:25/1/2024\nTel:+234-816994936795\nRef: CBN/FPD/0101373/14\nAttn:BENEFICIARY\nThis is a reminder message regarding your compensation fund in the sum of US$10.5M (Ten Million Five hundred thousand US dollars only) approved by the Ministry of Finance. The Foreign Payment Department of CBN has been mandated by the Federal Ministry of Finance and the Nigerian National Petroleum Corporation to handle the payment of your compensation fund of the above amount . Your email contact is amongst the listed beneficiaries in the data for the sum of US$10.5M. And I have been assigned by the management of CBN to carry out the remittance of your funds into your bank account through our PKB Bank in Canada  compensation is in compliance with IMF and World bank directives to pacify victims of internet scam. On this note, I am pleased to inform you that Ref payment code numbers are 8539 7578 0114 for the sum of US$10.5M has been credited in your favor and ready for immediate transfer into you bank account. You are hereby required to re-confirm your  Please kindly send me the following telephone and fax number and address.Upon receipt of the above requirements from you I shall detail you the contact of the TD CANADA TRUST BANK  to enables you open communication on your payment process. Note that your Ref payment code numbers is very necessary for your claims verification.\nFurther instruction/directive will be sent to you on receipt of your acknowledgment to this message.\nNB: Therefore,it is very important to inform you that your payment will be\nrelease to your via ATM CARD in it full value of US$10.5M\nPlease kindly send me the following telephone and fax number and address\nYours truly,\nDr. Kingsley Obiora\nDeputy Governork,\nEconomic Policy Directorate\nCBN, Nigeria\nTel: +  234-816994936795   "
+    },
+    {
+        "from": "baiter_1635",
+        "to": "scammer_1635",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   From: Dr. Kingsley Obiora",
+        "body": "Hello Dr. Kingsley Obiora,\n\nThank you for reaching out to me regarding the fund approved by the Ministry of Finance. I appreciate your reminder message and would like to know more about the process of receiving the funds.\n\nCould you please provide me with some additional information? Firstly, what is the purpose of transferring the funds through PKB Bank in Canada? Is there a specific reason for choosing this bank?\n\nSecondly, I would like to understand how the IMF and World Bank directives come into play in this situation. Could you explain how these organizations are involved in pacifying victims of internet scams?\n\nLastly, I would appreciate it if you could clarify what exactly is required from me in order to proceed with the transfer. You mentioned that my telephone and fax number are needed, but could you also let me know why my address is necessary?\n\nThank you for your assistance, and I look forward to your response.\n\nBest wishes,\nPete"
+    }
+]

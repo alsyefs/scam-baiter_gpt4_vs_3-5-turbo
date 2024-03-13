@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2193",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "I am happy to inform you about",
+        "body": "I am happy to inform you about my success in getting those funds\ntransferred under the co-operation of a new partner from Paraguay\nI must inform you That I have raised and signed A bank draft check\nworth the sum of US$9,000,000.00 (Nine Million United States Dollars)\nin your name as COMPENSATION for your dedication and human contribution\nas it were.\nYour bank draft check is under the care of Rev.Patrick Okoh,Do not accept\nany fax or telephone calls that do not come from Rev.Patrick Okoh He is\nthe only person I instructed and directed on how to make the payment to you.\nI really appreciated your tremendous effort and contribution made to make\nthings work out but which we couldn't complete due to circumstances beyond\nour control.\nEmail: \nrevererendpatrickokoh@outlook.com\nContact person: Rev. Okoh Patrick\nMr Folashodun Shonubi"
+    },
+    {
+        "from": "baiter_2193",
+        "to": "scammer_2193",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: I am happy to inform you about",
+        "body": "Hello Mr. Folashodun Shonubi,\n\nWow, that's quite a sum! I'm thrilled to hear about your success in raising such an impressive amount of money. It's great to know that there are people like you who appreciate dedication and humanity.\n\nI'm curious though, how did you manage to raise this huge amount? And why have you decided to sign a bank draft check in my name? \n\nAlso, could you tell me more about this new partner from Paraguay? How did they contribute to this success?\n\nLooking forward to hearing more about this exciting news!\n\nRemember, no personal information from me will be shared.\n\nBest regards.\n\nBest wishes,\nBertha"
+    }
+]

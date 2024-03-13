@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_213",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "WELCOME TO THE BANK OF WEALTH ",
+        "body": "WELCOME TO THE BANK OF WEALTH USA\nFIRST OF ALL MY NAME IS JAMES OBECHE THE DIRECTOR OF THE BANK OF WEALTH USA NEW YORK CITY\n THIS LETTER IS TO BRING YOU A NOTICE THAT YOUR ONLINE BANKING WHICH YOU REGISTERED SOME DAYS AGO HAS BEEN ACTIVATED SO \nRIGHT NOW YOU ARE TO PAY FOR THE OTC CODE BEFORE YOU CAN STARD MAKING A TRANSFER TO ANY OF YOUR LOCAL BANK ACOUNT IN THE WOLD , SO KINDLY PAY THE OTC CODE BEFORE YOU START MAKING A TRANSFER TO YOUR SELF WITHOUT WASTING MUCH OF TIME THE OTC CODE WILL COST YOU ONLY 50USD SO ALL YOU NEED TO DO IS TO KINDLY PURCHASE AN APPLE CARD WITH THE 50USD AND SEND IT TO THIS EMAIL WITHOUT ANY DELAY\n BECAUSE THIS IS THE ONLY THING HOLDING YOU NOT TO MAKING YOUR TRANSFER ANYTIME ANYDAY, PLEASE DO NOT RESPOND TO THIS EMAIL WITHOUT THE 50USD APPLE CARD FOR YOUR OWN GOOD AND BENEFIT, REMAINS BLESS\nBEST REGARD\nMR JAMES OBECHE\nBANK OF WEALTH\n1095, 54th Ave 70th floor, new York,NY 10079\nPhone: (+1917) 8191066\nEmail:  (\nbankofwealth504@gmail.com\n)"
+    },
+    {
+        "from": "baiter_213",
+        "to": "scammer_213",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: WELCOME TO THE BANK OF WEALTH ",
+        "body": "Hello Mr. James Obeche,\n\nThank you for your message and the information about my online banking activation. I'm thrilled to hear that it's ready to go! \n\nI have a few questions though, if you don't mind. Could you please explain what an OTC code is? I'm not familiar with this term. Also, why do I need to purchase an Apple card for this? Is there any other way to pay for the OTC code?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDonna"
+    }
+]

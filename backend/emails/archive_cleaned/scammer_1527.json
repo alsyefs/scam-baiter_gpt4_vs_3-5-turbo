@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1527",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "PENDING UNCLAIMED PAYMENT",
+        "body": "PENDING UNCLAIMED PAYMENT\nYou Are To Contact Connery Urgently Via ( \nmariettaconnery@aol.com\n)\nThere Is An Important Information On Your Surname"
+    },
+    {
+        "from": "baiter_1527",
+        "to": "scammer_1527",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: PENDING UNCLAIMED PAYMENT",
+        "body": "Hello,\n\nThank you for reaching out to me. I'm curious to know more about this pending unclaimed payment and the importance it holds for my surname. Could you please provide me with some additional details? I want to make sure I fully understand the situation before proceeding further.\n\nLooking forward to your response.\n\nBest wishes,\nCarlotta"
+    }
+]

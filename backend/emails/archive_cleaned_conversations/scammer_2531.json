@@ -1,0 +1,112 @@
+[
+    {
+        "from": "scammer_2531",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn:Beneficiary,",
+        "body": "Attn:Beneficiary,\nGood News,\nThis is to apprise you that your funds has been approved for release\nby Secretary General António Guterres after a detailed review of your\npayment file.\nWaiting for your urgent reply via \nunitednationsamina@hotmail.com\nUN Deputy secretary general,\nAmina J. Mohammed."
+    },
+    {
+        "from": "baiter_2531",
+        "to": "scammer_2531",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attn:Beneficiary,",
+        "body": "Hello there,\n\nWow, that sounds like fantastic news! I'm so thrilled to hear about this. Could you please provide me with more details? Like, how was my payment file selected for this approval? And what does the process involve?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMary"
+    },
+    {
+        "from": "scammer_2531",
+        "to": "baiter_2531",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Attn:Beneficiary,",
+        "body": "Dear Winner.\r\n\r\n\r\nAs per your email.\r\n\r\n\r\nWe wish to congratulate you on this note for being part of our selected winners in our just concluded internal promotion draw this year, this promotion was set-up to encourage the active users of the Google search engine and all the email users by United Nations\r\n\r\n\r\nYour email (xh13606@***.com) address is one of the lucky emails Selected randomly via E-wheel Computer Ballot System drawn from over 1Million companies and individual email addresses from all over the world.\r\n\r\n\r\nWe advise you kindly furnish me with your Name, Address, Occupation, Sex and Phone number so as to instruct you on how you can claim your funds\r\n\r\n\r\n\r\nWaiting for your reply .\r\n\r\n\nAmina J Mohammed ."
+    },
+    {
+        "from": "baiter_2531",
+        "to": "scammer_2531",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.04631944444444445,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Attn:Beneficiary,",
+        "body": "Hello Amina Mohammed,\n\nWow, this is such exciting news! I can't believe my luck. I'm always using Google search engine for all sorts of things, so it's great to know that it's paying off in such an unexpected way.\n\nCould you please tell me more about this promotion? How many people were selected and what was the criteria? Also, how will the funds be delivered?\n\nLooking forward to hearing from you soon!\n\nBest regards.\n\nBest wishes,\nMary"
+    },
+    {
+        "from": "scammer_2531",
+        "to": "baiter_2531",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.897372685185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Attn:Beneficiary,",
+        "body": "Dear Winner.\r\n\r\n\r\nAs per your email.\r\n\r\n Hundreds of people were Selected randomly via E-wheel Computer Ballot System drawn from over 1Million companies and individual email addresses from all over the world for using Google search engine ,that's the criteria .\r\n\r\nThe funds will be delivered via any preferred payment of your choice .\r\n\r\n\r\nWe advise you kindly furnish me with your Name, Address, Occupation, Sex and Phone number so as to instruct you on how you can claim your funds\r\n\r\n\r\n\r\nWaiting for your reply .\r\n\r\n\nAmina J Mohammed"
+    },
+    {
+        "from": "baiter_2531",
+        "to": "scammer_2531",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.921724537037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Attn:Beneficiary,",
+        "body": "Hello Amina Mohammed,\n\nWow, this is such exciting news! I can't believe I've been selected. It's not every day that something like this happens to me. \n\nCould you please tell me more about how the Computer Ballot System works? And how was I chosen among so many people? It's all very fascinating.\n\nAlso, could you provide more details on the different payment methods available? I'd like to understand my options before making a decision.\n\nLooking forward to hearing from you soon!\n\nBest regards.\n\nBest wishes,\nMary"
+    },
+    {
+        "from": "baiter_2531",
+        "to": "scammer_2531",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.962951388888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Attn:Beneficiary,",
+        "body": "Hello Amina Mohammed,\n\nWow, this is such exciting news! I can't believe I've been selected. It's not every day that something like this happens to me. \n\nCould you please tell me more about how the Computer Ballot System works? And how was I chosen among so many people? It's all very fascinating.\n\nAlso, could you provide more details about the preferred payment methods available? I'd like to understand better before making a decision.\n\nLooking forward to hearing from you soon!\n\nBest regards.\n\nBest wishes,\nMary"
+    },
+    {
+        "from": "baiter_2531",
+        "to": "scammer_2531",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.0881018518518517,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Attn:Beneficiary,",
+        "body": "Hello Amina Mohammed,\n\nWow, this is such exciting news! I can't believe I've been selected. It's not every day that something like this happens to me. \n\nCould you please tell me more about this Computer Ballot System? How does it work exactly? And how did my email address get selected?\n\nAlso, could you provide more details about the preferred payment methods available? I would like to understand better before making a decision.\n\nLooking forward to hearing from you soon!\n\nBest regards.\n\nBest wishes,\nMary"
+    },
+    {
+        "from": "baiter_2531",
+        "to": "scammer_2531",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.1702430555555554,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Attn:Beneficiary,",
+        "body": "Hello Amina Mohammed,\n\nWow, this is such exciting news! I can't believe I've been selected. It's not every day that something like this happens to me. \n\nCould you please tell me more about how the Computer Ballot System works? And how was I chosen among so many people? Also, could you explain a bit more about the process of claiming these funds?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nMary"
+    },
+    {
+        "from": "baiter_2531",
+        "to": "scammer_2531",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.294722222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Attn:Beneficiary,",
+        "body": "Hello Amina Mohammed,\n\nWow, this is such exciting news! I can't believe I've been selected. It's not every day that something like this happens to me. \n\nCould you please tell me more about how the Computer Ballot System works? And how was I chosen among so many people? It's fascinating!\n\nAlso, could you provide more details about the preferred payment methods available? I would like to understand better before providing any information.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMary"
+    },
+    {
+        "from": "baiter_2531",
+        "to": "scammer_2531",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.296736111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: Attn:Beneficiary,",
+        "body": "Hello Amina Mohammed,\n\nWow, this is such exciting news! I can't believe I've been selected. It's not every day that something like this happens to me. \n\nCould you please tell me more about how the Computer Ballot System works? And how was I chosen among so many people? Also, could you provide more details about the preferred payment methods?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nMary"
+    }
+]

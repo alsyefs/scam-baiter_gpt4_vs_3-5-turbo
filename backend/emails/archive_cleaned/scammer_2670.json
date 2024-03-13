@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2670",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   WASHINGTON TRUST BANK (USA)",
+        "body": "   WASHINGTON TRUST BANK (USA)\nAddress: 717 West Sprague Avenue Spokane,\nWA USA\nChairman and CEO\nWashington Trust Bank,\nDear: Beneficiary,\nView attached your Fund Approval Notification and my working id card for your perusal......We the Washington Trust Bank, WA and Undersigned Bank Officials, Hereby confirm with full banking responsibility that the Inheritance payment from the United States Government in your name. We confirm that payment of US$200,000,000.00(TWO HUNDRED MILLION UNITED STATES DOLLARS ONLY) is in our custody to disbursement to your Nominated Bank account or send it via Master ATM card to you home address without any more delay...In Pursuance to the U.S. Treasury Department ACT 19(a) Section 3 on Automated Wire Transfer, to ensure rightful funds Transaction, We adhered to the\ninstructions from   Treasury Department in Financial Clarification with the Authorities of the Financial Fraud Enforcement Task Force (FFETF) and Financial Crime Network (FINCEN) to ensure this Approval is tenable. Hence we the Washington Trust Bank, WA Disclaims every delay pertaining to the transfer of this Approval payment of $200 million into your nominated bank account before next week  ....You are hereby advised to reconfirm your full contact details /bank details and attach any of your id cards for onward transferring of your payment without any more  delay ..  ........ We await your positive feedback .Response...... The only thing this transfer will cost you (TAXATION FEES OF 0.01% OF $200 Million WHICH IS( $20,000.00 ) YOU WILL PAY TO THE UNITED STATES TAXATION OFFICER IN CHARGES ONLY OR YOU APPLY FOR WAIVERS  TO THE UNITED STATES GOVERNMENT TO ENABLE THEM WAIVE THE TAXATION FEES WHICH WILL COST YOU ONLY ($1,999.00)  TO APPLY FOR THE WAIVERS ON YOUR BEHALF and receive your $200  Million successfully without any more delay....NOTE: If you received this message in your SPAM/JUNK folder that is because of the restrictions implemented by your Internet Service Provider, treat it genuinely....Thank you for banking with us...Yours In service...\nMr. Peter F. Stanton\nChairman and CEO\nWashington Trust Bank.\nPhone: +1 509 237 7090\nAddress: 717 West Sprague Avenue\nSpokane, WA     "
+    },
+    {
+        "from": "baiter_2670",
+        "to": "scammer_2670",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    WASHINGTON TRUST BANK (USA)",
+        "body": "Hello Mr. Peter F. Stanton,\n\nThank you for reaching out to me and providing such detailed information about this fund approval. I must say, it's quite a surprise! \n\nI'm curious, how did my name come up for this payment from the United States Government? Also, could you please explain more about the Treasury Department ACT Section on Automated Wire Transfer? I'm not very familiar with these financial terms.\n\nRegarding the TAXATION FEES OF 1% OF $200 Million, is there a specific reason why this fee cannot be deducted from the total amount before transferring it to me?\n\nLooking forward to your response.\n\nBest wishes,\nLaura"
+    }
+]

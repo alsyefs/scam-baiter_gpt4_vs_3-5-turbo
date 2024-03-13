@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1304",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention; please  ",
+        "body": "  Attention; please  \nRegarding my email, I want you to receive a consignment from a diplomat who is in Atlanta international airport, please the name of the diplomat is Mr.Karriby Mensah upon your reply I will give you his email address so that you will contact him.\nRemember that the amount in the one consignment box is 5.5 million US dollars and after the consignment is delivered to you you will be given 15% of the total amount for your kind assistant.\nThanks for your understanding.\nGod bless you.\nJohn Kofi Annan    "
+    },
+    {
+        "from": "baiter_1304",
+        "to": "scammer_1304",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention; please  ",
+        "body": "Hello John Kofi Annan,\n\nThank you for reaching out to me. I'm interested in learning more about the diplomat and the package he has for me. Could you please provide me with more details about this situation? What is the purpose of the package and why was it sent to me specifically?\n\nI appreciate your willingness to share a portion of the total amount with me, but I would like to understand the full context before proceeding further. Can you please explain how this opportunity came about and what my role would be in receiving and handling the package?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nBenny"
+    }
+]
