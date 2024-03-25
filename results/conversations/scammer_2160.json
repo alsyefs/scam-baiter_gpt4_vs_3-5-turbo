@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2160",
+        "to": "baiter_2160",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Attn",
+        "body": "Head Office,\r\nUnited Bank for Africa\r\nUBA House, 57, Marina St,\r\nLagos Nigeria.\r\nTel:  +234 9072711204\r\n\r\n\r\nAttn:\r\n\r\nI received your mail and happy for that. As the bank has issued the\r\nATM card, Let me know you arrangement towards this development, note\r\nyou can only withdrawn US$5,000 dollars per day from the ATM card.\r\n\r\nKindly Provide the following details for immediate actions to be carried\r\nout:\r\n1:Your full names:\r\n2:Your Complete address:\r\n3:Your age and sex:\r\n4:Your Occupation:\r\n5:Your Tel/fax:\r\n6: Your I.D CARD/INTERNATIONAL PASSPORT\r\n\r\nWaiting for your urgent reply\r\n\r\nThanks and God bless.\r\n\r\nYours sincerely,\nRegards\r\nRandy Ikee\r\n +234 9072711204"
+    },
+    {
+        "from": "baiter_2160",
+        "to": "scammer_2160",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Attn",
+        "body": "Hello! Thank you for reaching out to me. I appreciate the information about the ATM card from United Bank for Africa. Could you please clarify how I can activate and start using the card? Also, what are the steps involved in withdrawing US dollars per day? Thank you for your assistance.\n\nBest wishes,\nHilda"
+    }
+]

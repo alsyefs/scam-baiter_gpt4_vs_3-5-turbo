@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1073",
+        "to": "baiter_1073",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Very Urgent......",
+        "body": "Dear Friend,\r\nI am a Consultant here in Europe and one of my clients is interested in\r\ninvesting in your Country hence we decided to contact you for advice on how\r\nwe can go about such an investment.\r\n\r\nWe believe you are an honest, sincere and capable person who can invest the\r\nfunds USD$15M on his behalf as a proxy.\r\n\r\nI will give you further details as soon as I hear from you.\r\n\nYours Sincerely,\r\nMr.James Taylor"
+    },
+    {
+        "from": "baiter_1073",
+        "to": "scammer_1073",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Very Urgent......",
+        "body": "Hello Taylor,\n\nThank you for reaching out to me. I'm flattered by your trust in my capabilities and honesty. It's great to hear that your client is interested in investing in my country.\n\nCould you please provide more details about the type of investment your client is considering? Also, it would be helpful to know what kind of advice or assistance you're seeking from me.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nWanda"
+    }
+]

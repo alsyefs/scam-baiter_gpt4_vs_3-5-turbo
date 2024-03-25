@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_407",
+        "to": "baiter_407",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Hello",
+        "body": "I am  Ahmed Mohammad, please I want to be sure that you are the one \r\nreceiving this letter before I can release an important information to you, \r\nI want you to verify that your email address is still valid and accessed by \r\nyou,\r\n\r\nAs soon as I receive your response I will proceed and release the vital \r\ninformation to you and your family. I'm taking this precautionary gauge to \r\navoid getting this significant information into the wrong hands because of \r\nhow susceptible it is.\r\n\r\nKindly send me your whatsapp phone number for easier communication and \nplease don't forget to include your country code.\r\n\r\n\r\nThanks.\r\n \r\nBarr. Ahmed Mohammad.\r\n \r\n﻿"
+    },
+    {
+        "from": "baiter_407",
+        "to": "scammer_407",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Hello",
+        "body": "Hello Ahmed Mohammad, thank you for reaching out. I appreciate your efforts to ensure the information is delivered to the right person. Could you please provide more details about the important matter you mentioned? I would like to understand how it concerns me and my family.\n\nBest wishes,\nMike"
+    }
+]

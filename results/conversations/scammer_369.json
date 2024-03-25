@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_369",
+        "to": "baiter_369",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Further details",
+        "body": "Good day Doris,\r\n\r\nThanks for your reply. Based on my previous email to you, I am an \r\nindividual financial consultant and I consult for a group of wealthy \r\nindividuals and we are willing to provide funding for any profitable \r\nbusiness or project. Our initial funding capacity is limited to between \r\nUSD1M and USD250M. If this amount falls within your proposed project or \r\nneed, please kindly let me know so that I can brief you more on the \r\nmodalities, procedures, funding terms and conditions.\r\n\r\nBe informed that the proposal that I made to you is 100% risk free and \r\nlegitimate. I would like to know the loan amount that you are looking at \r\nso that we can discuss further and negotiate my terms.\r\n\r\nIf you have any further questions, let me know so that I can clarify you \r\naccordingly.\r\n\r\nAs soon as I hear back from you, I will provide you with our funding \r\nterms and conditions for your review.\r\n\r\nRegards,\r\n\r\nFuli Wang.\r\n\r\nHello there,\r\n\r\nThat sounds really interesting! Could you please tell me more about the \r\ntypes of financial services you provide? I'm particularly interested in \r\nunderstanding how these services could potentially benefit someone like \r\nme.\nBest wishes,\r\nDoris"
+    },
+    {
+        "from": "baiter_369",
+        "to": "scammer_369",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Further details",
+        "body": "Hello Doris,\n\nThank you for your interest in our services. We provide a wide range of financial services, including funding for profitable businesses or projects. Our aim is to help individuals and businesses achieve their financial goals.\n\nOur services are tailored to meet the specific needs of each client. This means we can offer solutions that are perfectly suited to your circumstances and objectives.\n\nCould you please tell me more about your business or project? What kind of funding are you looking for? This will help us understand how best we can assist you.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDoris"
+    }
+]

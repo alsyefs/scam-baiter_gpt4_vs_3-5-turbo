@@ -1,4 +1,4 @@
 strategy,total_conversation_threads,total_conversations,total_outbounds,total_inbounds,max_conversations,max_outbounds,max_inbounds,max_days,min_conversations,min_outbounds,min_inbounds,min_days,avg_conversations,avg_outbounds,avg_inbounds,avg_days,mean_conversations,mean_outbounds,mean_inbounds,mean_days,median_conversations,median_outbounds,median_inbounds,median_days,std_conversations,std_outbounds,std_inbounds,std_days
-gpt-4-Chat1,522.0,6970.0,4227.0,2743.0,140.0,83.0,69.0,31.35542824074074,2.0,1.0,1.0,0.0,13.35,8.1,5.25,3.36,13.35,8.1,5.25,3.36,8.0,5.0,3.0,0.99,15.99,10.2,6.48,5.08
-gpt-3.5-turbo-Chat2,475.0,7127.0,4185.0,2942.0,442.0,254.0,188.0,31.30065972222222,2.0,1.0,0.0,0.0,15.0,8.81,6.19,3.73,15.0,8.81,6.19,3.73,9.0,5.0,3.0,1.56,25.93,15.01,11.25,5.38
-Total,997,14097,8412,5685,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+gpt-4-Chat1,550.0,7026.0,4255.0,2771.0,140.0,83.0,69.0,31.35542824074074,2.0,1.0,1.0,0.0,12.77,7.74,5.04,3.19,12.77,7.74,5.04,3.19,7.0,4.0,3.0,0.85,15.77,10.06,6.38,5.0
+gpt-3.5-turbo-Chat2,505.0,7187.0,4214.0,2973.0,442.0,254.0,188.0,31.30065972222222,2.0,1.0,1.0,0.0,14.23,8.34,5.89,3.51,14.23,8.34,5.89,3.51,8.0,5.0,3.0,1.18,25.33,14.68,10.98,5.29
+Total,1055,14213,8469,5744,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A

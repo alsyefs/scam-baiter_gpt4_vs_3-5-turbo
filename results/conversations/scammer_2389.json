@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2389",
+        "to": "baiter_2389",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Good News",
+        "body": "UBS Financial Services\r\n\r\nThis is to inform you that your 10.5 Million U.S. Dollars which you have been waiting to receive all these years are now ready to be released to any preferred bank account of your choice.\r\n\r\nI have a very limited time to work on this, so I would like you to urgently respond to this message so that I can advise you on how best to confirm your funds in your account within the next 72 hours. The only fee you will pay is the Authorization fee of 585$ to the processing bank. No other payment.\r\n\r\nYou can pay through a bank account or through bitcoin waiting for your kind response.\nTHANKS \r\nMr Roger Gorman"
+    },
+    {
+        "from": "baiter_2389",
+        "to": "scammer_2389",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Good News",
+        "body": "Hello Mr. Roger Gorman,\n\nWow, a million dollars! That's quite a surprise. I'm curious, how did I come to be the recipient of such a large sum? Could you provide more details about this?\n\nAlso, could you explain what the fee to the processing bank is for? And why is there such urgency in this matter?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nIsmael"
+    }
+]

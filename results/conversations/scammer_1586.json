@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1586",
+        "to": "baiter_1586",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "A BUSINESS PROPOSAL",
+        "body": "Dear Mr. Michael.\r\nnc33826@***.com\r\n\r\nFriend,\r\n\r\nThank you very much for your prompt response to my investment offer , it is\r\nunfortunate that\r\nyou are contacting me from that part of the World UK, The home of Scammers\r\nand pretendards who claims to be genuine , I said this because there are\r\nmillions of SCAMMERS claiming to come from UK. therefore , I do not ever\r\nbeleive any one that claim to have come from there , therefore , I do not\r\nthink of furthering this investment with you or ever disclaosing or\r\nrevealing any information regarding this transaction out.\r\n\r\n\r\n  Have a nice day with\r\n  Thanks and God bless\n  Dr. Mele Kolo Kyari."
+    },
+    {
+        "from": "baiter_1586",
+        "to": "scammer_1586",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: A BUSINESS PROPOSAL",
+        "body": "Dear Dr. Mele Kolo Kyari,\n\nThank you for your email. I understand your concerns about scams and appreciate your warning. However, I assure you that I am a genuine person and not involved in any fraudulent activities.\n\nI apologize if my previous message gave you the wrong impression. I am actually interested in learning more about your investment offer. Could you please provide me with some additional details? What kind of investment is it? What are the potential returns and risks involved?\n\nI value transparency and would like to make an informed decision before proceeding further. Thank you for your understanding.\n\nBest wishes,\nMichael"
+    }
+]

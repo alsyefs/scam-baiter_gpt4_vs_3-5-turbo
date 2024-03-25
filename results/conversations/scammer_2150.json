@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2150",
+        "to": "baiter_2150",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Dear: Mr. Jason,",
+        "body": "QUONTIC BANK \nHeadquarter: 1 Rockefeller Plaza 9th Floor, New York, NY 10020 \nE-mail: QunticBank@fastservice.com (mailto:QunticBank@fastservice.com) \n \nDear: Mr. Jason, \n \nThis is to acknowledge the receipt of your mail, Note this payment was approved after the meeting held by World Bank IMF UN and G20,  This payment is for 18 listed beneficiaries that have lost their money to scammers, and have not yet receive any refund payment from the government, after the meeting held by all the stakeholders it agreed and signed that 18 listed beneficiaries will be refunded and compensated with the sum of $1,000,000.00 each and your name and contact email was included as one of the beneficiaries. \nQuontic Bank Of New York was appointed by all the stakeholders to handle this transaction and to make sure that all listed beneficiaries receive their complete compensation payment of $1,000,000.00 successfully. \nIt is my duty as the C.A.O of Quontic Bank to inform you that this transaction is 100% real and 100% genuine and you will receive your compensation payment $1,000,000.00 successfully without any delay if only you will comply with our Banking procedure. \nMeanwhile you are to reconfirm your information to avoid any mistake and to enable us commence processing. Note this transaction will not take more than 5 working days to receive your fund successfully depending on your seriousness and level of communication with us. \n1, Your full name \n2, Your complete address \n3, Your age and occupation \n4, Your Direct phone number \n5, Your International passport/Driving License \n6, Your marital status. \nUpon the receipt of the above information from you, we will direct you on the next procedural step hence the above detailed information is absolutely necessary for the processing of your transaction accordingly. \nMy I.D attached. \nThanks as we wait to hear from you. \nSincerely, \nMr.  Michael Tanzi \nQuontic Bank  C.A.O"
+    },
+    {
+        "from": "baiter_2150",
+        "to": "scammer_2150",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear: Mr. Jason,",
+        "body": "Hello! Thank you for sharing this information with me. It's interesting to hear about the payment approval and refund process for those who have lost money to scammers. Can you provide more details on how the World Bank, IMF, and UN are involved in this initiative? How does Quontic Bank ensure the security of these transactions?\n\nBest wishes,\nJason"
+    }
+]

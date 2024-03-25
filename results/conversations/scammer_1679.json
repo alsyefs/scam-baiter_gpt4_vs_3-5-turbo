@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1679",
+        "to": "baiter_1679",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "YUSUF BIN AHMED FINANCE HOUSE",
+        "body": "YUSUF BIN AHMED FINANCE HOUSE\r\n\r\nGreetings.\r\n\r\nWe are  Yusuf Bin Ahmed Finance House   with registered addresses in the\r\nState of  Bahrain. We are offering Corporate and Personal Loan at 3 %\r\nInterest Rate for a duration of 5 to 15 years. Our Minimum Funding: U$1\r\nMillion and our Maximum Funding is: U$ 6.5 Billion. We pay 1.2% commission\r\nto brokers who introduce project owners for finance or other opportunities\r\nPlease get back to me if you are interested in more details.\r\n\r\nBest Regards,\r\nMr. IBRAHIM ALANSARI\r\n\r\nDIRECTOR; aboobmohammed123@gmail.com\r\n\r\nYUSUF BIN AHMED FINANCE HOUSE\r\nOFFICE ADDRESS:\r\nBlock 28, Sheikh Ahmad Faisal Complex, Manama, Bahrain. P.O. BOX 163 ."
+    },
+    {
+        "from": "baiter_1679",
+        "to": "scammer_1679",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: YUSUF BIN AHMED FINANCE HOUSE",
+        "body": "Hello Mr. Ibrahim Alansari,\n\nThank you for reaching out and providing information about your finance house. It's interesting to hear about the services you offer.\n\nCould you please provide more details about the corporate and personal loans? What is the interest rate and what are the terms of repayment? Also, could you elaborate on what you mean by \"minimum funding\"?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDean"
+    }
+]

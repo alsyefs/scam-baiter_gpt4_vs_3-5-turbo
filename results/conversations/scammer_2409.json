@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2409",
+        "to": "baiter_2409",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Attention: Mary",
+        "body": "Civista Bank (CB).\r\n7455 Old Troy Pike,\r\nHuber Heights, Ohio 45424,\r\nUnited States of America,\r\nContact Person\r\nMs.Buffy Tuttle\r\nDeposit Operations Manager\r\nForeign Remittance Dept.,\r\n19/02/2024\r\n\r\n\r\nAttention: Mary\r\n\r\n\r\nI Am in receipt of your email and the content well noted, ACH Is the\r\nAutomated Clearing House where the database system provides information\r\nregarding your fund that it actually belongs to you. The fee is $1,650 and\r\neverything is done correctly and legally.\r\n\r\nThe IMF is the medium where the ACH will be checked to verify if the fund\r\nis illegal or not. After the receipt of the $1,650 an online Account will\r\nbe opened with your information where you can transfer your fund bit by bit\r\nto any choice of your Bank Account.\r\n\r\n2 method off paying the fee is Bank to Bank transfer or Through Bitcoin\r\nWallet (BTC)\r\n\r\n\r\n\r\nYour urgent action and co-operation is required to enable us to carry out\r\nour Duty efficiently.\r\n\r\n\r\nThank you for banking with us.\r\n\r\nYours Sincerely,\r\nMs. Buffy Tuttle,\r\nDeposit Operations Manager,\r\nCivista Bank(CB).\r\n\r\n\r\n******************************************************************************************************************************************\r\nDISCLAIMER NOTICE: Information contained in this email is confidential &\r\nintended for the addresses only. Any dissemination, distribution, copying\r\nor use of this communication without prior permission from the address is\r\nstrictly prohibited. If you are not the intended recipient of this\r\ncommunication, please delete it permanently without copying, disclosing or\r\notherwise using its contents, and notify the (CB)immediately\r\n\r\n\r\n\r\n\r\nHello Ms. Buffy Tuttle,\r\n\r\nThank you for reaching out to me regarding my fund at Civista Bank. I\r\nappreciate the update on the progress of the wire transfer. Can you please\r\nprovide me with more information about the ACH fee that needs to be\r\ncleared? What is the purpose of this fee and how much is it?\r\n\r\nI want to ensure that everything is done correctly and legally, so I would\r\nlike to understand the process better. Could you also explain why the IMF\r\nneeds to verify if the fund is illegal or not? Is there any specific reason\r\nfor their involvement in this matter?\r\n\r\nThank you for your assistance.\nBest wishes,\r\nMary"
+    },
+    {
+        "from": "baiter_2409",
+        "to": "scammer_2409",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Attention: Mary",
+        "body": "Hello Ms. Buffy Tuttle,\n\nThank you for reaching out to me regarding my fund at Civista Bank. I appreciate the update on the progress of the wire transfer. Can you please provide me with more information about the ACH fee that needs to be cleared? What is the purpose of this fee and how much is it?\n\nI want to ensure that everything is done correctly and legally, so I would like to understand the process better. Could you also explain why the IMF needs to verify if the fund is illegal or not? Is there any specific reason for their involvement in this matter?\n\nThank you for your assistance.\n\nBest wishes,\nMary"
+    }
+]
