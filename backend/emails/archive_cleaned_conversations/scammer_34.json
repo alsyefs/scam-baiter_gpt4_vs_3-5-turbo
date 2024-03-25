@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_34",
+        "to": "baiter_34",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Dear Jena",
+        "body": "Dear Jena\r\n\r\nThanks for your response  to my proposal and your interest to work with me\r\n.I am in receipt of your email. We shall be required to process and obtain\r\n the necessary legal and remittance documents  to reflect your name before\r\nthe Bank will remit the Funds to your account.\r\n\r\nPlease kindly reconfirm the following information by writing them out to\r\nenable me commence the processing of the remittance documents.\r\n\r\nYOUR FULL NAME AND ADDRESS\r\n\r\nDIRECT TELEPHONE NUMBER\r\n\r\nA COPY OF YOUR IDENTIFICATION\r\n\r\nA SAFE BANK ACCOUNT DETAILS WHERE THE FUNDS WILL DEPOSITED\r\n\r\nI take this opportunity to assure you that the transaction will be\r\nsuccessfully completed as planned because of the concrete arrangement twe\r\nhave put in place for the execution of the transfer. Therefore, all I ask\r\nof you is your full cooperation and honesty in the handling  of the fund\r\nwhen it arrives in your account.\r\n\r\nI await your response.\r\n\r\nThanks for your co operations.\nBarrister James Adams\r\nTelephone +2349022394977"
+    },
+    {
+        "from": "baiter_34",
+        "to": "scammer_34",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Jena",
+        "body": "Hello Barrister James Adams,\n\nThank you for your detailed response. I'm really excited about this opportunity and appreciate your guidance on the next steps.\n\nHowever, I'm a bit confused about some parts of the process. Could you please explain more about these legal and remittance documents? What exactly are they and why do we need them?\n\nAlso, I'd like to understand better how this transfer will work. You mentioned that my name needs to be reflected before the bank can remit the funds to my account. Could you elaborate on this?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nJena"
+    }
+]

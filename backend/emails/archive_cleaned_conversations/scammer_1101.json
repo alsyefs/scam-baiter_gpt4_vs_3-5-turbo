@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1101",
+        "to": "baiter_1101",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Attention John",
+        "body": "Attention John,\r\nI’m pleased to inform you that we discovered your names and email \r\ndetails from the worldwide uncompleted fund transfer list; this means \r\nyou have not received your approved funds after many attempts, even \r\nafter losing some money.\r\n\r\nGood news, we are here to help you receive your overdue compensation \r\naward of $5M via BTC; the reason why you have not received your funds is \r\nthat some currencies are blocked and won’t go through via a standard \r\nbank transfer, but with BTC technology you can get your funds into your \r\nwallet without no hitch.\r\n\r\nCall me or email me with your full name, address, and direct telephone \r\nnumber; let me call you on a video call to discuss this in detail.\r\n\r\n  Tel:   +4.4. 7.4.5.2.1.7.8.4.5.3\r\n\r\nThank you,\r\n\r\nTedros Adhanom Ghebreyesus\r\nDIRECTOR-GENERAL"
+    },
+    {
+        "from": "baiter_1101",
+        "to": "scammer_1101",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Attention John",
+        "body": "Hello Tedros Adhanom,\n\nThank you for reaching out and sharing this information. It's quite surprising to hear about the worldwide fund transfer list and my name being on it. I must admit, I'm not very familiar with BTC technology. Could you please explain how it works? \n\nAlso, could you provide more details about this overdue award? How was it determined and why is it awarded via BTC?\n\nLooking forward to hearing from you.\n\nBest wishes,\nJohn"
+    }
+]

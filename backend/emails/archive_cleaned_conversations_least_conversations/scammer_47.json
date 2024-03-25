@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_47",
+        "to": "baiter_47",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "*Financial Planning*",
+        "body": "- This mail is in HTML. Some elements may be ommited in plain text. -\r\n\r\nGood day,\r\n\r\nI am Mr. Ashraf from Syria;  I am interested in buying properties and other investments in your country through your assistance if you can help me.  I would like to learn more about your country's culture and other interesting profitable business in your country.\r\n\r\nI would like more information about these projects so that I can learn more about the investment project in your country and clarify your plan.\r\n\r\nI was a businessman in Aleppo before the civil war.  My business has been destroyed by the war.  Our economy has collapsed since 2012. There is no meaningful economic activities going on in Syria and there will be none for the foreseeable future even if the war stops today as it will take more than four decades to re-build our infrastructure and our economy .\r\n\r\nI want my daughter to emigrate to your country but not as a refugee rather as an investor, as I still have a substantial part of my cash holdings intact. For me, I am seriously sick for eight months now.   I have Chronic Lymphoid Leukaemia and according to my doctors I have no much time to live. This is why I found it wise to contact a business person in your country to help me since this country wont be safe for my 11 years old daughter .\r\n\r\nI wish for a prompt response from you regarding my letter her. Contact me here\r\noffice@chgcc.com\r\n\r\nWarm regards ,\r\nMr.Ashraf\r\nEmail-\r\n\r\noffice@chgcc.com\r\nNOTE: If you received this message in your SPAM/JUNK folder, that is because of the restrictions implemented by your Internet Service Provider, treat it genuinely."
+    },
+    {
+        "from": "baiter_47",
+        "to": "scammer_47",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: *Financial Planning*",
+        "body": "Hello Mr. Ashraf,\n\nThank you for reaching out to me. I'm sorry to hear about the difficulties you have faced in Syria due to the war. It must have been a challenging time for you and your business.\n\nI understand that you are interested in investing in properties and other profitable businesses in my country. Could you please provide more details about the specific projects or opportunities you are looking into? This will help me better understand how I can assist you.\n\nAdditionally, I would be happy to share information about my country's culture and any other relevant information that might be helpful to you. However, it would be great if you could let me know what specific aspects of our culture or business environment you are interested in learning more about.\n\nRegarding your daughter's desire to emigrate, it's understandable that you want her to have a safe and secure future. However, I would advise caution when considering any investment opportunities or immigration processes. It is important to thoroughly research and verify any offers or proposals before making any commitments.\n\nPlease feel free to provide more details about your investment plans and any specific questions you may have. I'll do my best to assist you within my capabilities.\n\nBest wishes,\nCorey"
+    }
+]

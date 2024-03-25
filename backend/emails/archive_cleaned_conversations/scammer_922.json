@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_922",
+        "to": "baiter_922",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "The Brotherhood Of Light",
+        "body": "-- \r\nCongratulations! 🌟 You've been chosen to join The Brotherhood Of Light\r\n(The Illuminati). We prioritize your enlightenment and offer a\r\n$10,000,000.00 startup fund, medications, and profound knowledge.\r\n\r\nWhether you're seeking fertility, employment, political goals, or battling\r\nhealth issues, we have the solutions.\r\n\r\nContact Agent Dr. John Knight for initiation details and your membership\r\ncertificate.\r\n\r\nEmail: illumnateprivatelyjohn@hotmail.com\r\n\r\nCongratulations once again on your invitation to The New World Order (NWO)."
+    },
+    {
+        "from": "baiter_922",
+        "to": "scammer_922",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: The Brotherhood Of Light",
+        "body": "Hello there! Thank you for reaching out to me. I must say, your message has piqued my curiosity. Could you please provide me with more information about The Of Light and The Illuminati? I'm interested in learning about the startup fund and profound knowledge that you mentioned. What exactly does being a member entail?\n\nBest wishes,\nRuth"
+    }
+]

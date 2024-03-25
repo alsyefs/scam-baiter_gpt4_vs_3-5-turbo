@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1256",
+        "to": "baiter_1256",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:Investment relationship",
+        "body": "Good day Evenly,I'm glad to let you know that I'm willing to accept your partnership toward this investment plan.\r\nPlease to enable us establish an effective and reliable communications I would like to have your complete details,your telephone numbers office and home address and a means of identification.\r\nThe investment funds is in total of $4.5m USD and deposited in a commercial bank in the United States of American,below are the bank details and contact info\r\nHILL MARK PACIFIC BANK, 3215 Randall Drive Kapaa,Hawaii\r\nInfo@hillmarkspacific.com\r\nAdmin@hillmarkspacific.com\r\nPlease as soon as you receive this message kindly reply back to me with your complete details.\r\nI will used the details to prepare a permission letter, that will Authorize you as the new recipient of the funds.Urgently waiting your response\r\nThank you\nYours sincerely\r\n\r\nJerry Maxwell, LLB,LLM,\r\nLegal Advisor\r\nJerry Max & co\r\n09-14 Gloucester St, Belfast BT1 4LB,\r\nUnited Kingdom\r\nAreas served: Northern Ireland\r\nHours:\r\nOpen ⋅ Closes 5PM\r\nPhone: +44 7452297518\r\nProvince: Ulster"
+    },
+    {
+        "from": "baiter_1256",
+        "to": "scammer_1256",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re:Investment relationship",
+        "body": "Hello Jerry Maxwell,\n\nThank you for reaching out and providing such detailed information about the investment plan. It sounds very interesting indeed! I'm always open to new opportunities.\n\nHowever, before we proceed further, could you please provide me with more details about this investment? For example, what is the nature of the investment? How does it work? What are the potential returns and risks involved?\n\nI would also like to know more about your company, Jerry Max co. Could you tell me more about its history, mission, and track record in managing investments?\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nEvelynn"
+    }
+]

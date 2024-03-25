@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1083",
+        "to": "baiter_1083",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "Catherine",
+        "body": "Attention Attention, \n \nI am  Ms. Sandra Thompson, the new account auditor of Bank of Ghana.I am writing to notify you of a payment file containing an ATM card which has been issued in your favour by the Federal Ministry of Finance inconjuction with the United Nation/International Monetary Fund (IMF). \n \nI have orders from the entire government of the republic of Ghana to contact beneficiaries and make sure you receive your ATM cards if it’s still in custody of this bank. Can you kindly let us know the reason of your delay concerning the Delivery of your ATM CARD? Why do you decide to abandon your ATM CARD? Worth of $5.5million USD with us, if you fail to contact us on or Before 48 hours or else we shall cancel the delivery of your ATM CARD and return your fund to government reserve account, your delivery Process had been done. \nIf you are ready to receive your ATM card then make sure to contact the courier company which is in charge of making delivery of parcel. I have made several enquiries on various delivery companies and the only fee you have to pay for the delivery is $195.00usd Dollars Only, which covers the delivery to your doorstep. This is the cheapest i could find and I was made to understand it takes just 24hrs to get your package to your residence. On receipt of the required payment a tracking number will be sent to you to enable you track your package till it gets to your residence. \n \nMake sure that you send them the above mentioned fee through Western Unions, Money Gram  For the immediate procedure of your ATM CARD delivery to avoid any delay. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nReceiver:KUTTIN COMFORT \n \nAccra Ghana \nAmount:$195.00usd Dollars Only \nHome/Office Address:................... \nCell/Mobile Phone Numbers:................... \nNearest Air Port:…………………………. \n \nYours Sincerely, \n \nMs. Sandra Thompson \nATM MASTER CARD DPT."
+    },
+    {
+        "from": "baiter_1083",
+        "to": "scammer_1083",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Catherine",
+        "body": "Hello! Thank you for sharing this information with me. I appreciate you reaching out about the ATM card issued by the Federal Ministry of Finance with the United Nations Monetary Fund. Can you provide more details about how the delivery process works and which courier company is responsible for delivering the ATM card?\n\nBest wishes,\nCatherine"
+    }
+]

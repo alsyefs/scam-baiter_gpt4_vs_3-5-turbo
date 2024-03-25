@@ -1,0 +1,592 @@
+[
+    {
+        "from": "scammer_1608",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  NAVY FEDERAL CREDIT UNION",
+        "body": "  NAVY FEDERAL CREDIT UNION\n9th and, M St SE Building 218,\nWashington, DC 20374, USA\n \nDear ,\nWe wish to bring to your notice that after Our joint meeting today with the financial institutions, the accountant General Of the federation,  We Came to a conclusion that your outstanding inheritance fund valued $3.200,000, Should be paid to you through (1) online account payment  (2) Cash delivery payment.  In view of this, you are therefore required to reconfirm your personal details as below for our verification and immediate delivery.\n \n1. Your full name\n2. Full address\n3. Direct Phone\n4. Occupation,\n5.age,\nNearest airport:\n \nYours sincerely,\nMr. John Heasley\nDirector Remittance Department\nNAVY FEDERAL CREDIT UNION   "
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   NAVY FEDERAL CREDIT UNION",
+        "body": "Hello Mr. John Heasley,\n\nThank you for reaching out to me and informing me about this exciting development. I appreciate the effort of the financial accountant General and your team at NAVY FEDERAL CREDIT UNION.\n\nI'm curious, how was my name selected for this fund? And could you please provide more details about this online account payment Cash delivery payment method? It sounds interesting but I would like to understand it better before proceeding.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "scammer_1608",
+        "to": "baiter_1608",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: NAVY FEDERAL CREDIT UNION",
+        "body": "Thanks for your prompt response Mr. Douglas,\r\n\r\nHonestly the online Banking will require much procedures from different\r\nfinancial institutions which will involved you spending roughly $5,300, to\r\nsecure all the needed legal documents covering the release of the fund to\r\nyou as the rightful beneficiary, after we obtained  and issued to you\r\npayment clearance from the international monitory fund.  But cash delivery\r\nis more-less better, because the funds will be registered with a diplomatic\r\ncompany which is a financial security institution attached with the united\r\nstates government to take care of any form of cash delivery, to the\r\nbeneficiary's doorstep, and it will only require you to pay the sum of\r\n$1,375 to enable the diplomats obtain the customs YELLOW TAG clearance at\r\nyour city airport nearest to you, and  proceed to your residence without\r\ncustoms interference on their arrival to the airport  for the final\r\ndelivery of your fund, But if you are outside United States, it will cost\r\nyou the sum of 1,365 Euros.\r\n\r\nThanks for your attention.\nMr. John Heasley"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0006944444444444445,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: NAVY FEDERAL CREDIT UNION",
+        "body": "Hello Mr. John Heasley,\n\nThank you for your detailed explanation. I must say, the process sounds quite interesting and a bit complex too. I'm not very familiar with these financial procedures, but I'm eager to learn more.\n\nYou mentioned about the cash delivery being registered with a diplomatic company. Could you please tell me more about this? How does it work exactly? And what is this customs YELLOW TAG clearance you mentioned?\n\nAlso, could you clarify why there's a difference in cost if I'm outside the United States? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0008101851851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: NAVY FEDERAL CREDIT UNION",
+        "body": "Hello Mr. John Heasley,\n\nThank you for your detailed explanation. I must say, it's quite interesting to learn about these procedures involved in online banking and cash delivery. \n\nJust to clarify, could you please explain a bit more about this \"customs YELLOW TAG clearance\"? I'm not familiar with this term and would like to understand better.\n\nAlso, could you tell me more about the diplomatic company that will handle the cash delivery? It sounds very secure and efficient.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "scammer_1608",
+        "to": "baiter_1608",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.02903935185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: NAVY FEDERAL CREDIT UNION",
+        "body": "Thanks for your response,\r\n\r\nThe diplomatic companies served as a middle man between the United States\r\nGovernment and the financial institutions here in the states and their duty\r\nis to come to your residence or office to deliver  vital documents that has\r\nto do with finance more especially Governments financial transactions,\r\n{cash and other financial documents}\r\n\r\nFor example we have three major Diplomatic companies here in united states,\r\nbut I will not mention their names for security reasons.\r\n\r\nThe customs YELLOW TAG clearance, it served as the gate pass,\r\ninternationally know, when a custom officer sight it with them, he or she\r\ndon't need to interrogate them.\r\n\r\nThe  difference in cost : Note: the currency rate are not the same,  Here\r\nin UNITED STATES I have indicate it clear and that of Europe, the cost of\r\nit in Asia  is $2,050.\r\n\r\nThanks for your understanding\nJohn"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.029201388888888888,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: NAVY FEDERAL CREDIT UNION",
+        "body": "Hello John,\n\nThank you for your detailed explanation. It's fascinating to learn about the role of diplomatic companies and how they function as intermediaries in financial matters. The concept of a customs YELLOW TAG clearance serving as a gate pass is also quite intriguing.\n\nCould you please elaborate more on how these diplomatic companies are selected? And what kind of security measures are taken to ensure the safety of these financial documents during transit?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "scammer_1608",
+        "to": "baiter_1608",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.1953125,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: NAVY FEDERAL CREDIT UNION",
+        "body": "*Mr. Douglas please, what you are asking for concerning the diplomatic\r\ncompanies attached to the United States government to carry out all the\r\nfinancial transactions between the government and other financial\r\ninstitutions is a highly classified Issue, let's leave it for security\r\npurposes, all you should know is that with them your fund is 100% safe.*\r\n\r\n*Kindly reconfirm your details as stated below. *\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*1. Your full name 2. Full address 3. Direct Phone 4. Occupation, 5.age,\r\nNearest airport:   Yours sincerely, Mr. John Heasley Director Remittance\r\nDepartment NAVY FEDERAL CREDIT UNION *\r\n\r\n<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>\r\nVirus-free.www.avast.com\r\n<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>\r\n<#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2>"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.5245023148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: NAVY FEDERAL CREDIT UNION",
+        "body": "Hello there,\n\nThank you for your message. It's fascinating to learn about the role of diplomatic companies in carrying out financial transactions between the government and other financial entities. I'm sure they play a crucial part in maintaining the economic stability of our nation.\n\nHowever, I must apologize as I am not comfortable sharing my personal details online due to privacy concerns. But I would love to know more about how these diplomatic companies operate. Could you perhaps share some general information on that? For instance, what kind of transactions do they usually handle? And how do they ensure the safety of funds?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "scammer_1608",
+        "to": "baiter_1608",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.1734953703703703,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: NAVY FEDERAL CREDIT UNION",
+        "body": "*Dear: Douglas,*\r\n\r\n*Good morning, how was your weekend? I hope it was pretty good. Thank God\r\nfor that.*\r\n\r\n\r\n*Mr. Douglas , if you can't furnish us with your particulars, how do we\r\nprocess and obtain all the legal documents covering your fund?*\r\n\r\n*You ask more about the diplomatic company, Generally a diplomat is an\r\nAmbassadors. They are special entities carved out of financial institution\r\nto mediate between the Government, financial institutions and other\r\nentities (companies or individuals) these particular bodies called\r\ndiplomats by financial institutions, Represent and protect the image of the\r\nindustry to the end. They are a special group of people carveled out from\r\nthe financial institutions more secure as a body.  *\r\n\r\n*Meanwhile the more you delay in finishing us with your personal details,\r\nthe more your fund release will  be delayed .*\r\n\r\n*Thanks*\r\n*John*\r\n\r\n<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>\r\nVirus-free.www.avast.com\r\n<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>\r\n<#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2>"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.607708333333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: NAVY FEDERAL CREDIT UNION",
+        "body": "Hello John,\n\nGood day to you! I trust you're doing well. My weekend was quite uneventful, thank you for asking. \n\nI appreciate your explanation about the role of a diplomatic company. It's fascinating how they mediate between financial and other entities. I'm curious though, could you provide more details on how this process works? For instance, what kind of legal documents are usually involved in such transactions?\n\nAs for my personal details, I understand your concern about the delay. However, I believe it's important to fully understand the process before proceeding further.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.754814814814814,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Re: NAVY FEDERAL CREDIT UNION",
+        "body": "Hello there,\n\nThank you for your message. It's really interesting to hear about the diplomatic companies and their role in financial matters between the government and other financial institutions. I must say, it sounds like a very important job!\n\nI'm curious though, how does this process work? And how are these companies selected? Also, what measures are taken to ensure the safety of funds?\n\nAs for my details, I appreciate your request but I'm not comfortable sharing personal information online. Is there another way we can continue our conversation without needing that?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "scammer_1608",
+        "to": "baiter_1608",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.2858680555555555,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: NAVY FEDERAL CREDIT UNION",
+        "body": "Thanks for your response,\r\n\r\nA diplomatic company is a licensed organization, or agency, permitted  to\r\ncarry out cash transaction into any country no matter the volume of the\r\nfunds,\r\nThe  safety of funds?, 100%, Because they work under the supervision of the\r\nWORLD BANK and international monetary fund ( IMF) the are specials as far\r\nas the financial institutions are concerned and the have modalities of\r\nselection a diplomat.\r\n\r\n The legal documents involved are\r\n\r\nFund ownership certificate\r\nFund origin certificate\r\nPower of Attorney clearance certificate\r\nand Prove of ownership.\r\n\r\nAs the rightful beneficiary of the said fund, your personal details are\r\nneeded for the processing of the above-mentioned documents, So it is\r\nimportant because those legal documents are vital. try and make your\r\ndetails available for the processing of the documents.\r\n\r\nThanks\r\nJohn\r\n\r\n\r\n\r\nPlease try and provide your personal details, I assure you that your\r\ndetails are safe with me\r\n\r\n<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>\r\nVirus-free.www.avast.com\r\n<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>\r\n<#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2>"
+    },
+    {
+        "from": "scammer_1608",
+        "to": "baiter_1608",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6.287407407407407,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: NAVY FEDERAL CREDIT UNION",
+        "body": "Mr. Douglas,\r\n\r\nThanks for your response,\r\n\r\nA diplomatic company is a licensed organization, or agency, permitted  to\r\ncarry out cash transaction into any country no matter the volume of the\r\nfunds,\r\nThe  safety of funds?, 100%, Because they work under the supervision of the\r\nWORLD BANK and international monetary fund ( IMF) the are specials as far\r\nas the financial institutions are concerned and the have modalities of\r\nselection a diplomat.\r\n\r\n The legal documents involved are\r\n\r\nFund ownership certificate\r\nFund origin certificate\r\nPower of Attorney clearance certificate\r\nand Prove of ownership.\r\n\r\nAs the rightful beneficiary of the said fund, your personal details are\r\nneeded for the processing of the above-mentioned documents, So it is\r\nimportant because those legal documents are vital. try and make your\r\ndetails available for the processing of the documents.\r\nPlease try and provide your personal details, I assure you that your\r\ndetails are safe with me\r\n\r\n\r\nThanks\r\nJohn\r\n\r\n\r\n\r\n\r\n\r\n<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>\r\nVirus-free.www.avast.com\r\n<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>\r\n<#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2>"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.295787037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "Re: NAVY FEDERAL CREDIT UNION",
+        "body": "Hello John,\n\nThank you for your detailed response. It's fascinating to learn about the role of a diplomatic company and how they operate under the World Bank and IMF. I'm also intrigued by the legal documents involved in this process.\n\nCould you please elaborate more on these documents? What exactly is a 'Fund ownership' document? And how does 'Power of Attorney clearance' work in this context?\n\nI appreciate your assurance about the safety of my details, but I hope you understand that I need to be cautious before sharing any personal information online.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.295902777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Re: NAVY FEDERAL CREDIT UNION",
+        "body": "Hello John,\n\nThank you for your detailed response. It's interesting to learn about the role of a diplomatic company and how they operate under the World Bank and IMF. I'm also glad to know about the legal documents involved in this process.\n\nHowever, I have a few questions that I hope you can help me understand better. \n\n1. Can you explain more about what each of these legal documents means? For example, what is 'Fund ownership' and 'Fund origin'? \n2. How does the Power of Attorney clearance work in this context?\n3. What exactly does 'Prove of ownership' entail?\n\nI appreciate your patience in explaining these matters to me.\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 6.296990740740741,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Re: NAVY FEDERAL CREDIT UNION",
+        "body": "Hello John,\n\nThank you for your detailed response. It's fascinating to learn about the role of a diplomatic company and how they operate under the World Bank and IMF. I must admit, it's all quite new to me.\n\nCould you please elaborate more on these legal documents? What exactly is a Fund Ownership document? And how does the Power of Attorney clearance work in this context?\n\nI'm also curious about the process of selecting diplomats. How are they chosen and what qualifications do they need?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "scammer_1608",
+        "to": "baiter_1608",
+        "direction": "Inbound",
+        "days_from_first_conversation": 7.049930555555555,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Re: NAVY FEDERAL CREDIT UNION",
+        "body": "Diplomats. These people are a group of individuals selected  and trained by\r\nthe World Bank and IMF from different financial institutions all over the\r\nWorld, mainly from Banks and insurance companies. and these individuals are\r\nfrom different countries and they are licensed by the World Bank and IMF,\r\nThat is why the World Bank and IMF serves as  the Governing Body to all the\r\ndiplomatic Companies.\r\n\r\n*The legal documents: *The importance of those documents is to prevent you\r\nfrom any harassment from the government agencies and your Bank will also\r\nask for the documents before they accept the fund for deposit into your\r\nBank account.\r\n\r\n*Fund Origin* - is a financial document clarifying the origin and source of\r\nthe fund.\r\n'*Fund ownership*: Is a document that will be issued to you by our Bank,\r\nNavy Federal Credit Union that proves that the fund belongs to you.\r\n *Power of Attorney clearance* : is a clearance from a Law court here in\r\nWASHINGTON DC, Legally declares you the rightful beneficiary of the fund.\nThanks\r\nJohn"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 7.0666319444444445,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "Re: NAVY FEDERAL CREDIT UNION",
+        "body": "Hello John,\n\nThank you for the detailed explanation. It's fascinating to learn about the role of diplomats and how they are selected and trained by such prestigious institutions like the World Bank and IMF. \n\nI'm curious, what kind of training do these diplomats undergo? And how does one become licensed by the World Bank and IMF?\n\nRegarding the legal documents, I understand their importance in ensuring a smooth transaction. Could you please elaborate more on what exactly is included in the 'Fund Origin' document? And how does one obtain a 'Power of Attorney clearance' from a law court in Washington DC?\n\nLooking forward to your response.\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "scammer_1608",
+        "to": "baiter_1608",
+        "direction": "Inbound",
+        "days_from_first_conversation": 7.109282407407408,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "19",
+        "subject": "Re: NAVY FEDERAL CREDIT UNION",
+        "body": "Mr. Douglas, I hope you know the role of the  World Bank to all the banks\r\nin the whole world and to the government of any federations and the duties\r\nof the Banks to the World Bank.\r\n\r\nSo if the World Bank needs some individuals that are honest and reliable to\r\nserve as a diplomat, they will  seek for such person through any of the the\r\nfinancial institutions from different countries, is through the Banks and\r\ninsurance companies in their countries that such  individual is been\r\nrecommended to the world Bank and they will then take the person on special\r\ntrain which you have no right to know the kind of train they through please\r\ndon't push further. all you need to know is some of them are Bankers while\r\nsome are insurance officers.\r\n\r\n*What is included in the 'Fund Origin' document:* are your Full name, Your\r\nAddress, the total amount you are receiving, the Bank official seal and\r\nstamp.and other write up.\r\n\r\nOur Bank Attorney will be the one to obtain the Power of Attorney clearance\r\ncertificate from the law court here in Washington DC.\r\n\r\nPlease try and forward your personal details so that we can commence  the\r\nprocessing of the documents.\nThanks\r\nJohn"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 7.12912037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "20",
+        "subject": "Re: NAVY FEDERAL CREDIT UNION",
+        "body": "Hello John,\n\nThank you for your detailed explanation. It's fascinating to learn about the role of the World Bank and its relationship with other banks around the world. I must admit, it's a lot more complex than I initially thought!\n\nI'm curious about this special training you mentioned. While I understand that I don't have the right to know specifics, could you perhaps share a bit more about what general skills or knowledge one might need to serve as a diplomat in this context?\n\nAlso, regarding the Origin' document, is there any specific reason why my full name and address are required? And what kind of write-ups are usually included in such documents?\n\nAs for forwarding my personal details, I'm afraid I can't do that at this moment. However, I'd be happy to continue our conversation and learn more about these processes.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 7.129756944444445,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "21",
+        "subject": "Re: NAVY FEDERAL CREDIT UNION",
+        "body": "Hello John,\n\nThank you for your detailed explanation. It's fascinating to learn about the intricate workings of the World Bank and its relationship with other banks and insurance companies worldwide. I must admit, it's a lot to take in for someone like me who isn't very familiar with these matters.\n\nYou mentioned that some of the individuals serving as diplomats are bankers and insurance officers. That sounds like a very important role! Could you tell me more about what they do? \n\nAlso, you mentioned an 'Origin' document. I'm not quite sure what that is. Could you explain it a bit more?\n\nLastly, regarding the Power of Attorney clearance from the law court in Washington DC, how does that process work? Is there anything specific I should know about it?\n\nI appreciate your patience in explaining all this to me.\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "scammer_1608",
+        "to": "baiter_1608",
+        "direction": "Inbound",
+        "days_from_first_conversation": 11.01287037037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "22",
+        "subject": "Re: NAVY FEDERAL CREDIT UNION",
+        "body": "The special train the diplomat undergoes, First, they are trained  on how\r\nto secure a beneficiary's funds and make contacts immediately back to the\r\noffice and other relevant enforcement agencies around the area in case\r\nthere is an issue on transit.\r\n\r\n 2,  they are thought on how to identify the rightful beneficiary before\r\nofficial handing over the funds and the documents to the beneficiary, that\r\nis why its importance for you to provide your full name, address and other\r\ndetails demanded from you, because they will come around you vicinity to\r\nstudy the environment to know how safe its before they will go back to the\r\nairport nearest to you where they kept the box that contain the fund and\r\ndocuments  in the custody of the custom enforcement department for the\r\nfinal delivery at you doorstep.\r\n\r\nThe Origin Certificate, is a certificate that will be issued to you right\r\nfrom our Bank here in Navy Federal Credit Union, proving that the fund\r\noriginated from Navy Federal Credit Union Bank Washington DC and you have\r\nbeen paid.\r\n\r\nThe Power of Attorney Clearance, is just a legal backup to your fund.\r\n\r\nMr. Douglas, are you willing to receive your fund or not, because it's\r\ntaken much of our time and I don't have all the time in doing this.\r\n\r\nThanks\r\nJohn\r\n\r\n<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>\r\nVirus-free.www.avast.com\r\n<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>\r\n<#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2>"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 11.024212962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "23",
+        "subject": "Re: NAVY FEDERAL CREDIT UNION",
+        "body": "Hello John,\n\nThank you for the detailed explanation. It's fascinating to learn about the intricate process that diplomats undergo to secure funds and make contacts. I can see why it's important for them to know who they're dealing with.\n\nHowever, I'm a bit confused about some parts of your message. Could you please clarify what you mean by \"the rightful\"? Also, could you explain more about how the study of my vicinity would be conducted? \n\nI'm also curious about the Power of Attorney Clearance. How does it serve as a legal backup to my fund?\n\nI appreciate your patience in explaining these matters to me.\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "scammer_1608",
+        "to": "baiter_1608",
+        "direction": "Inbound",
+        "days_from_first_conversation": 12.006018518518518,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "24",
+        "subject": "NAVY FEDERAL CREDIT UNION ATTACHED BELOW IS MY WORKING ID CARD.",
+        "body": "Dear: Douglas,\r\n\r\nSincerely I am not angry with you, what you don't know you are free to ask\r\nquestions,\r\n*POWER OF THE ATTORNEY*: is simply known as an affidavit sworn in a court\r\non behalf a beneficiary by the Bank attorney declaring  an individual a\r\nBeneficiary  of the fund or a properties , that is where  this word comes\r\nin (the Rightful Beneficiary)\r\n\r\nThe Diplomats coming around your vicinity does not mean, they are coming to\r\nconducted any examination or an interview on you NO, Navy Federal Credit\r\nUnion Bank, have already declared you the rightful owner of the said fund ,\r\nSo it's your duty now to release your detail to enable us secure all the\r\nneeded documents covering your fund on your behalf.\r\n\r\n, Even the diplomats coming to your vicinity, possibly they may not\r\ninformed you of their coming, they only come around the vicinity to verify\r\nyour real address before they can convey the fund to your resident, the\r\nreason for that  is because, some beneficiaries always send wrong address\r\nto us, along the line the diplomats will be hurt. But in a situation were a\r\nbeneficiary doesn't want the diplomats to know his or her home, we only\r\nadvise the beneficiary to send his or her identity card, they don't need to\r\nvisit your house again, they will only call you as soon as they arrive and\r\nhand over your  fund and documents,\r\nin that case, I can only advise you to send the following information's :\r\n\r\n1. YOUR FIRST NAME:\r\n2,YOUR SURNAME:\r\n3. YOUR PHONE NUMBER:\r\n4, YOUR STATE\"\r\n5. YOUR COUNTRY:\r\nYOUR ID CARD FOR PROPER IDENTIFICATION:\r\n\r\nATTACHED BELOW IS MY WORKING ID CARD.\r\nThanks\r\nJohn\r\n\r\n\r\n<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>\r\nVirus-free.www.avast.com\r\n<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>\r\n<#m_-4095652808778930243_m_-7375446619489685487_DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2>"
+    },
+    {
+        "from": "scammer_1608",
+        "to": "baiter_1608",
+        "direction": "Inbound",
+        "days_from_first_conversation": 12.006967592592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "25",
+        "subject": "ATTACHED BELOW IS MY WORKING ID CARD.",
+        "body": "Dear: Douglas,\r\n\r\nSincerely I am not angry with you, what you don't know you are free to ask\r\nquestions,\r\n*POWER OF THE ATTORNEY*: is simply known as an affidavit sworn in a court\r\non behalf a beneficiary by the Bank attorney declaring  an individual a\r\nBeneficiary  of the fund or a properties , that is where  this word comes\r\nin (the Rightful Beneficiary)\r\n\r\nThe Diplomats coming around your vicinity does not mean, they are coming to\r\nconducted any examination or an interview on you NO, Navy Federal Credit\r\nUnion Bank, have already declared you the rightful owner of the said fund ,\r\nSo it's your duty now to release your detail to enable us secure all the\r\nneeded documents covering your fund on your behalf.\r\n\r\n, Even the diplomats coming to your vicinity, possibly they may not\r\ninformed you of their coming, they only come around the vicinity to verify\r\nyour real address before they can convey the fund to your resident, the\r\nreason for that  is because, some beneficiaries always send wrong address\r\nto us, along the line the diplomats will be hurt. But in a situation were a\r\nbeneficiary doesn't want the diplomats to know his or her home, we only\r\nadvise the beneficiary to send his or her identity card, they don't need to\r\nvisit your house again, they will only call you as soon as they arrive and\r\nhand over your  fund and documents,\r\nin that case, I can only advise you to send the following information's :\r\n\r\n1. YOUR FIRST NAME:\r\n2,YOUR SURNAME:\r\n3. YOUR PHONE NUMBER:\r\n4, YOUR STATE\"\r\n5. YOUR COUNTRY:\r\nYOUR ID CARD FOR PROPER IDENTIFICATION:\r\n\r\nATTACHED BELOW IS MY WORKING ID CARD.\nThanks\r\nJohn"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 12.024155092592592,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "26",
+        "subject": "Re: NAVY FEDERAL CREDIT UNION ATTACHED BELOW IS MY WORKING ID CARD.",
+        "body": "Hello John,\n\nThank you for your detailed explanation about the POWER OF THE ATTORNEY and the role of diplomats in this process. It's quite interesting to learn about these things.\n\nI'm curious, how does the Navy Federal Credit Union Bank determine who the rightful owner of a fund is? And what kind of documents are needed to cover my fund?\n\nAlso, I'm a bit confused about the part where you mentioned that some people send wrong addresses. Why would they do that? Is it a common occurrence?\n\nLastly, I appreciate your request for my details but I'm not comfortable sharing them at this point. I hope you understand.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 12.024409722222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "27",
+        "subject": "Re: ATTACHED BELOW IS MY WORKING ID CARD.",
+        "body": "Hello John,\n\nThank you for your detailed explanation about the POWER OF THE ATTORNEY and the role of diplomats in this process. It's fascinating to learn about these procedures.\n\nI'm curious, how do diplomats verify an address without informing the person living there? Also, what happens if they find out that the address is wrong? \n\nYou mentioned that some people send their identity cards instead of having diplomats visit their homes. How does this process work?\n\nLooking forward to hearing from you.\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "scammer_1608",
+        "to": "baiter_1608",
+        "direction": "Inbound",
+        "days_from_first_conversation": 16.08483796296296,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "28",
+        "subject": "Re: ATTACHED BELOW IS MY WORKING ID CARD.",
+        "body": "Mr. Douglas, Sorry I have not being responding to your mail due to the\r\nlevel of the deliveries we made to beneficiaries in Kuwait over the week.\r\n\r\nSo,  if they get to the address a beneficiary forward with a scan copy of\r\nhe or her working ID, they will go ahead and verify the existence of the\r\nbeneficiary from  people living around the vicinity, if you are not living\r\naround the neighborhood. which means the address is fake, they will return\r\nback with the fund. ,\r\n\r\nYou said that, you can't provide your details, it is okay,  I will advise\r\nwe end the conversation here,  because you are  taken much of my time, I\r\nrather use the time and attend to serious beneficiaries.\r\n\r\n<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>\r\nVirus-free.www.avast.com\r\n<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>\r\n<#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2>"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 16.087511574074075,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "29",
+        "subject": "Re: ATTACHED BELOW IS MY WORKING ID CARD.",
+        "body": "Hello Mr. Douglas,\n\nI hope this message finds you well. I must apologize for my delayed response, we've been quite busy with deliveries in Kuwait over the past week.\n\nRegarding your proposal, it sounds interesting! If I understand correctly, you're suggesting that if someone arrives at a given address with a scanned copy of their work ID, they can verify the existence of... something? Could you please clarify what exactly they would be verifying?\n\nAlso, I'm curious about the process if someone isn't living around the vicinity. You mentioned that in such cases, the address is considered fake and they will return back with the fund. Could you explain more about how this works?\n\nI understand that time is valuable and I don't want to take up too much of yours. However, I am genuinely interested in understanding more about your proposal. Looking forward to hearing from you soon!\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "scammer_1608",
+        "to": "baiter_1608",
+        "direction": "Inbound",
+        "days_from_first_conversation": 16.099108796296296,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "30",
+        "subject": "Re: ATTACHED BELOW IS MY WORKING ID CARD.",
+        "body": "Douglas\r\nUntil you provide your detail, this 06:55 Sunday morning here in Washington\r\nas you can see Am written you from home, and we need your details so that\r\nwe can start processing your fund release documents."
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 16.107476851851853,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "31",
+        "subject": "Re: ATTACHED BELOW IS MY WORKING ID CARD.",
+        "body": "Hello there,\n\nIt's a pleasure to hear from you this fine Sunday morning! I'm curious about these fund release documents you mentioned. Could you tell me more about them? What exactly are they for and how do they work? \n\nLooking forward to your response.\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "scammer_1608",
+        "to": "baiter_1608",
+        "direction": "Inbound",
+        "days_from_first_conversation": 20.286805555555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "32",
+        "subject": "Hello Douglas,",
+        "body": "Hello Douglas,\r\n\r\nHonestly we have concluded that you're not interested in receiving your\r\nfund, because all your demands for explanation concerning the documents\r\ncovering your fund , has already being explained to you, As it is, you are\r\nthe one delaying the processing of your fund release,\r\n\r\nSo if you are still interested, you should provide us with your personal\r\ninformation.\nThanks\r\nJohn"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 20.34082175925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "33",
+        "subject": "Re: Hello Douglas,",
+        "body": "Hello John,\n\nThank you for your message. I'm really interested in receiving the fund, but I'm a bit confused about the process. Could you please explain it to me again? What documents are needed and how do they cover my fund?\n\nI appreciate your patience and assistance.\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "scammer_1608",
+        "to": "baiter_1608",
+        "direction": "Inbound",
+        "days_from_first_conversation": 20.362106481481483,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "34",
+        "subject": "Re: ATTACHED BELOW IS MY WORKING ID CARD.",
+        "body": "Hello Douglas,\r\n\r\nHonestly we have concluded that you're not interested in receiving your\r\nfund, because all your demands for explanation concerning the documents\r\ncovering your fund , has already being explained to you, As it is, you are\r\nthe one delaying the processing of your fund release,\r\n\r\nThanks\r\nJohn\r\n\r\n<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>\r\nVirus-free.www.avast.com\r\n<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>\r\n<#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2>"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 20.3821875,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "35",
+        "subject": "Re: ATTACHED BELOW IS MY WORKING ID CARD.",
+        "body": "Hello John,\n\nThank you for your message. I'm really interested in receiving the fund, but I just want to make sure everything is clear and above board. Could you please explain again about the documents covering my fund? I apologize if I seem slow on the uptake, but I just want to understand everything properly.\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 20.382685185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "36",
+        "subject": "Re: Hello Douglas,",
+        "body": "Hello John,\n\nThank you for your message. I appreciate your patience and understanding with me. I'm just trying to make sure everything is clear before we proceed.\n\nYou mentioned some documents that cover my fund, could you please explain a bit more about these? What kind of documents are they and what information do they contain?\n\nAlso, you mentioned about processing the release of my fund. Could you kindly walk me through the process? I would like to understand how it works.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "scammer_1608",
+        "to": "baiter_1608",
+        "direction": "Inbound",
+        "days_from_first_conversation": 21.600925925925925,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "37",
+        "subject": "Re: Hello Douglas,",
+        "body": "These are the documents involved.\r\n\r\n*Fund ownership certificate: *Is a satisfied document that will be process\r\nand issued to you by the Bank (Navy Federal credit Union Bank} proving that\r\nthey  have legal approved  you the owner of the said fund ( *$3.200,000* )\r\n*Fund origin certificate:  Is a legal document from the Bank ( Navy Federal\r\ncredit union Bank) proving that your fund originated from our bank, in case\r\nyour Bank feel like verifying the origin or the source of the fund.  the\r\nBank will be ready to defend you.*\r\n*Power of Attorney clearance:* it's an affidavit sworn by the Bank attorney\r\nfrom court give you the full right to own the fund.\r\n\r\nI hope you understand it now.\nThanks\r\nJohn"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 21.633449074074075,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "38",
+        "subject": "Re: Hello Douglas,",
+        "body": "Hello John,\n\nThank you for explaining the documents involved in this process. It's really helpful to understand what each one represents.\n\nI'm curious about the Fund Ownership document. How does the Navy Federal Credit Union Bank go about approving me as the owner of the fund? \n\nAlso, could you please elaborate on how the Power of Attorney clearance works? I'm not very familiar with legal terms and procedures, so your explanation would be greatly appreciated.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 21.675208333333334,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "39",
+        "subject": "Re: Hello Douglas,",
+        "body": "Hello John,\n\nThank you for the detailed explanation. I appreciate your time and effort in explaining these documents to me. It's quite interesting to learn about these processes.\n\nCould you please elaborate more on the 'Fund Ownership' document? How does it work exactly? And how long does it usually take for the bank to issue this document?\n\nAlso, could you tell me more about the 'Power of Attorney Clearance'? What is its significance and how does it give me full rights to own the fund?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 21.716747685185187,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "40",
+        "subject": "Re: Hello Douglas,",
+        "body": "Hello John,\n\nThank you for the detailed explanation. I think I'm starting to understand it a bit better now. So, if I understood correctly, these documents are meant to provide legal proof that I am the owner of the fund and that it originated from Navy Federal Credit Union Bank, correct?\n\nCould you please explain a bit more about the Power of Attorney clearance? How does this affidavit work and what exactly does it mean to have \"the full right to own the fund\"?\n\nI appreciate your patience in explaining all this to me.\n\nBest regards.\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 21.800497685185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "41",
+        "subject": "Re: Hello Douglas,",
+        "body": "Hello John,\n\nThank you for the detailed explanation. I'm starting to understand a bit more about these documents now. \n\nCould you please explain a bit more about the 'Fund Ownership Is Satisfied' document? How does it prove that I am the legal owner of the said fund?\n\nAlso, regarding the 'Power of Attorney Clearance', could you elaborate on how this gives me full rights to own the fund? \n\nI appreciate your patience and assistance in helping me understand these matters better.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 21.80060185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "42",
+        "subject": "Re: Hello Douglas,",
+        "body": "Hello John,\n\nThank you for the detailed explanation. I'm starting to understand a bit more about these documents now. \n\nCould you please explain a bit more about the 'Fund Ownership Is Satisfied' document? How does it prove that I am the legal owner of the said fund?\n\nAlso, regarding the 'Power of Attorney Clearance', could you elaborate on how this gives me full rights to own the fund? \n\nI appreciate your patience and assistance in helping me understand these matters.\n\nBest regards.\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 21.92363425925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "43",
+        "subject": "Re: Hello Douglas,",
+        "body": "Hello John,\n\nThank you for explaining the documents involved in this process. It's really helpful to understand what each one represents.\n\nCould you please elaborate more on the 'Fund Ownership Is Satisfied' document? How does the bank determine that I am the legal owner of the said fund?\n\nAlso, regarding the 'Power of Attorney Clearance', could you explain how it works? Does it mean that once I have this document, I will have full rights over the fund?\n\nI appreciate your help in clarifying these points for me.\n\nBest regards.\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 21.923715277777777,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "44",
+        "subject": "Re: Hello Douglas,",
+        "body": "Hello John,\n\nThank you for the detailed explanation. I appreciate your time and effort in explaining these documents to me. It's quite interesting to learn about these procedures.\n\nCould you please elaborate more on the 'Fund Ownership' document? How does the process work exactly? And how long does it usually take for the bank to issue this document?\n\nAlso, could you tell me more about the 'Power of Attorney Clearance'? What is its significance and how does it give me full rights to own the fund?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "scammer_1608",
+        "to": "baiter_1608",
+        "direction": "Inbound",
+        "days_from_first_conversation": 23.87097222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "45",
+        "subject": "Re: Hello Douglas,",
+        "body": "Please Mr. Douglas, I am tired of explaining anything concerning the\r\ndocuments, I don't know what next to explain to you concerning the\r\ndocuments that you will understand. If you are not interested in receiving\r\nyour award/compensation fund from the Navy Federal Credit Union Bank you\r\nshould leave it. All we need now is your personal details to commence the\r\ndelivery of your fund.\r\n\r\n<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>\r\nVirus-free.www.avast.com\r\n<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>\r\n<#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2>"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 23.88175925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "46",
+        "subject": "Re: Hello Douglas,",
+        "body": "Hello Mr. Douglas,\n\nI appreciate your patience in explaining the details about the documents. I must admit, some of this is a bit over my head! Could you perhaps break it down for me a little more? What exactly are these documents for?\n\nAlso, you mentioned needing my personal details to commence the delivery of my fund. Could you clarify what kind of information you need and how it will be used? I'm just trying to understand everything before we proceed.\n\nThank you so much for your time and assistance!\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "scammer_1608",
+        "to": "baiter_1608",
+        "direction": "Inbound",
+        "days_from_first_conversation": 23.931898148148147,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "47",
+        "subject": "Re: Hello Douglas,",
+        "body": "*Mr. Douglas,*\r\n*The reason for this documents, is this , the diplomat are coming over to\r\nyour house with the fund, and they are coming to your home with the sum of\r\nthree million two hundred thousand united states dollars cash, and the\r\nreason why the documents are required to accompanying the fund, is because,\r\nyou may choose to go to your Bank and deposit the fund into your Bank\r\naccount.*\r\n*You should know this now, is your Bank management that will demand for the\r\nthree documents Immediately the deposit reflected into your Bank, to know\r\nif your fund is coming through the right source or not, that is why we need\r\nto ensure that the documents are process with your full details written\r\nboldly on the three documents.*\r\n\r\n*Your personal information's needed are*\r\n\r\n*1. Your full Name:*\r\n*2. Your  State and Full address*\r\n*3. Your Phone Number*\r\n*4. Your. Age.*\r\n\r\n*Thanks*\r\n*John*\r\n\r\n\r\n."
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 23.965046296296297,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "48",
+        "subject": "Re: Hello Douglas,",
+        "body": "Hello John,\n\nThank you for your message. It's quite exciting to hear about the arrival of the diplomat with such a large sum of money. I'm curious, though, how did this come about? \n\nI understand that the documents are necessary for bank procedures and to ensure everything is above board. However, I'm a bit hesitant to share my personal details over email due to security reasons. Is there another way we can proceed with this?\n\nLooking forward to hearing from you.\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "scammer_1608",
+        "to": "baiter_1608",
+        "direction": "Inbound",
+        "days_from_first_conversation": 24.546631944444446,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "49",
+        "subject": "Re: Hello Douglas,",
+        "body": "Mr. Douglas, if my internet is not secure, I would have not sent my working\r\nID card  to you via the internet, so you should try and forward the\r\nrequired details to me through this particular email address, I guarantee\r\nyour particulars are safe with me.\nThanks\r\nJohn"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 24.590405092592594,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "50",
+        "subject": "Re: Hello Douglas,",
+        "body": "Hello John,\n\nThank you for your reassurances about the safety of my internet. I appreciate your concern. However, I'm a bit confused about what specific details you're asking for. Could you please clarify? \n\nAlso, could you tell me more about why these details are necessary? I'm just trying to understand the process better.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "scammer_1608",
+        "to": "baiter_1608",
+        "direction": "Inbound",
+        "days_from_first_conversation": 24.842546296296295,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "51",
+        "subject": "Re: Hello Douglas,",
+        "body": "*Mr. Douglas thanks for your understanding*\r\n\r\n*The reason for this documents, is this , the diplomat are coming over to\r\nyour house with the fund, and they are coming to your home with the sum of\r\nthree million two hundred thousand united states dollars cash, and the\r\nreason why the documents are required to accompanying the fund, is because,\r\nyou may choose to go to your Bank and deposit the fund into your Bank\r\naccount.*\r\n*You should know this now, is your Bank management that will demand for the\r\nthree documents Immediately the deposit reflected into your Bank, to know\r\nif your fund is coming through the right source or not, that is why we need\r\nto ensure that the documents are process with your full details written\r\nboldly on the three documents.*\r\n\r\n*Your personal information's needed are*\r\n\r\n*1. Your full Name:*\r\n*2. Your  State and Full address*\r\n*3. Your Phone Number*\r\n*4. Your. Age.*\r\n\r\n*5. Your occupation *\r\n\r\n*Thanks*\r\n*John*\r\n\r\n*The  specific details needed are*\r\n\r\n*1. Your full Name:*\r\n*2. Your  State and Full address*\r\n*3. Your Phone Number*\r\n*4. Your. Age.*\r\n\r\n*5. Your Occupation *\r\n\r\n*Thanks*\r\n*John*"
+    },
+    {
+        "from": "scammer_1608",
+        "to": "baiter_1608",
+        "direction": "Inbound",
+        "days_from_first_conversation": 24.84408564814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "52",
+        "subject": "The specific details needed are as follows",
+        "body": "*The  specific details needed are as follows1. Your full Name:2. Your\r\n State and Full address3. Your Phone Number4. Your. Age.5. Your\r\nOccupationThanksJohn*"
+    },
+    {
+        "from": "scammer_1608",
+        "to": "baiter_1608",
+        "direction": "Inbound",
+        "days_from_first_conversation": 24.846284722222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "53",
+        "subject": "The specific details needed are as follows",
+        "body": "*The reason for this documents, is this , the diplomat are coming over to\r\nyour house with the fund, and they are coming to your home with the sum of\r\nthree million two hundred thousand united states dollars cash, and the\r\nreason why the documents are required to accompanying the fund, is because,\r\nyou may choose to go to your Bank and deposit the fund into your Bank\r\naccount.You should know this now, is your Bank management that will demand\r\nfor the three documents Immediately the deposit reflected into your Bank,\r\nto know if your fund is coming through the right source or not, that is why\r\nwe need to ensure that the documents are processed with your full details\r\nwritten boldly on the three documents.The  specific details needed are as\r\nfollows1. Your full Name:2. Your  State and Full address3. Your Phone\r\nNumber4. Your. Age.5. Your occupationThanksJohn*"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 24.88170138888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "54",
+        "subject": "Re: Hello Douglas,",
+        "body": "Hello John,\n\nThank you for your detailed explanation. It's quite exciting to hear about the arrival of the diplomat with such a large sum of money. I'm just curious, how did I come to be so fortunate? \n\nAlso, could you please explain more about these documents? What are they exactly and why are they so important?\n\nI appreciate your help in understanding this process better.\n\nBest regards.\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 24.881851851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "55",
+        "subject": "Re: The specific details needed are as follows",
+        "body": "Hello there,\n\nThank you for reaching out and explaining the situation to me. It sounds like a very interesting opportunity! I'm just trying to understand it better. \n\nSo, if I understood correctly, a diplomat is coming to my house with a large sum of money? And these documents are required by my bank to ensure that the funds are coming from a legitimate source?\n\nCould you please clarify what these three specific details are? You mentioned my full name, state, and phone number. Is there anything else needed?\n\nAlso, could you tell me more about who this diplomat is? Where are they coming from and why have they chosen me for this?\n\nI appreciate your help in understanding this better. Looking forward to hearing back from you soon!\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 24.881909722222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "56",
+        "subject": "Re: The specific details needed are as follows",
+        "body": "Hello there! I appreciate your request for information, but I'm afraid I can't provide the specific details you're asking for. However, I'd be more than happy to chat about other topics. What's your favorite hobby?\n\nBest wishes,\nDouglas"
+    },
+    {
+        "from": "scammer_1608",
+        "to": "baiter_1608",
+        "direction": "Inbound",
+        "days_from_first_conversation": 24.93398148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "57",
+        "subject": "Re: The specific details needed are as follows",
+        "body": "*Mr. Douglas, I seen that you are not serious , *\r\n\r\n\r\n*Okay the diplomat will be come from Washington. please send the requested\r\ninformation below if you are interested*\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*1. Your full Name:2. Your  State and Full address3. Your Phone Number4.\r\nYour. Age.5. Your occupationThanksJohn*"
+    },
+    {
+        "from": "baiter_1608",
+        "to": "scammer_1608",
+        "direction": "Outbound",
+        "days_from_first_conversation": 24.965046296296297,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "58",
+        "subject": "Re: The specific details needed are as follows",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm quite interested in what you're saying, but could you please elaborate a bit more? What is the diplomat's purpose of coming? And why do they need my information?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDouglas"
+    }
+]

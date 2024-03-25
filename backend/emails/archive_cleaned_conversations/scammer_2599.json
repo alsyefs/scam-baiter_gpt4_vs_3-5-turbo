@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2599",
+        "to": "baiter_2599",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Thank you for banking with us...Yours In service..",
+        "body": "WASHINGTON TRUST BANK\r\nAddress: 717 West Sprague Avenue Spokane, WA USA\r\nContact Person: Mr. Peter F. Stanton,Chairman and CEO\r\nWashington Trust Bank, Payment officer\r\n\r\nDear:  Laura,\r\nI received your message.\r\nSee attached your Update statement of Account and your Fund Approval\r\nNotification ...This is your long Inheritance  Contract payment from\r\n Government  but the Government in power then  refused to release it to you\r\nfor past years  but thanks God for current Government that Re- Approved\r\nyour payment and instructed our bank to  release your $200 million without\r\nany more postponement as soon as  you secure the needed ....I am here to\r\ninform  you that the investor said that she can only loan anybody that\r\nleaves and work here in United States so if you're not here please dont\r\nregister the name as I have talk to the waiver departments and they\r\naccepted that you should apply for waiver with $1,999.00 only to enable\r\nUnited States Government waive the taxation fees on your behalf and release\r\n your Tax Clearance Certificate before i will transfer your $200 million to\r\nyour nominated bank account or send it to you via Master Atm card or open\r\nan online bank account in your name and transfer your $200 million as soon\r\nas you apply for the waiver with $1,999.00 Only .....Get back to advise you\r\nhow you will send it to the waiver department and receive your $200\r\nmillion...Thank you for banking with us...Yours In service...\nMr. Peter F. Stanton\r\nChairman and CEO\r\nWashington Trust Bank.\r\nPhone: +1 509 237 7090\r\nAddress: 717 West Sprague Avenue\r\nSpokane, WA"
+    },
+    {
+        "from": "baiter_2599",
+        "to": "scammer_2599",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Thank you for banking with us...Yours In service..",
+        "body": "Hello Mr. Peter F. Stanton,\n\nThank you for your message and the information provided. It's great to hear that the current government has approved my payment.\n\nI'm a bit confused about some parts of your message though. Could you please clarify what you mean by \"secure the needed here\"? Also, could you explain more about this waiver? What exactly does it entail?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLaura"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2225",
+        "to": "baiter_2225",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "1",
+        "subject": "THE REQUIREMENT",
+        "body": "Fill below  information correctly . \n \n 1.Full Name:......................... ............................  2.Address:................... .............................. ...... 3.Nationality:................ .............................. ..... \n 4.Age:........Date of Birth:........................ .............  5.Occupation:................ .............................. ...... \n 6.Phone:............... Mobile:.............:......... .......... \n  7. a copy of Your  passport or id Card  . 8.State of Origin:...................... Country:................. \n Your  banking account  information  is needed for the release of $10.5Million. \n \n HSBC BANK  is waiting for you to obtain the Affidavit of Claims Deed of Assignment to make the transfer  of  the approved $10.5m will be remitted into your bank account. \n Regards \n \n Mr  Robert Jackson \n Payment  control Unit International Funds  control  Department"
+    },
+    {
+        "from": "baiter_2225",
+        "to": "scammer_2225",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-3.5-turbo-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: THE REQUIREMENT",
+        "body": "Hello Mr. Robert Jackson,\n\nThank you for reaching out to me. I appreciate your message and would like to learn more about the information you mentioned. Could you please provide me with some additional details?\n\n1. What is the purpose of filling out the form? How will it benefit me?\n2. Can you explain why my passport or ID card is required? How will it be used?\n3. Why is my banking account needed for the release of funds? Is there a specific reason for this?\n\nI look forward to hearing back from you with more information.\n\nBest wishes,\nBrittany"
+    }
+]
